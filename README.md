@@ -1,9 +1,13 @@
 # epsonUS-faqData
 
 Total Models Scraped:      764
+
 Total FAQ Sections:        7612
+
 Total Individual FAQs:     59077
+
 Average FAQs per Model:    77.33
+
 --------------------------------------------------
 
 Top 5 Categories by Model Count:
