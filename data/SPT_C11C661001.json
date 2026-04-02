@@ -1,0 +1,742 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "PictureMate Series",
+  "model": {
+    "name": "Epson PictureMate Flash PM 280",
+    "sku": "SPT_C11C661001",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "I see the message Cannot connect to Internet in Windows 8.1 after I select Driver Update in my product software. What should I do?",
+          "answer": "The\nDriver Update\noption does not work in Windows 8.1. All other driver options will work correctly.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-0000958-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C661001~faq-0000958-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:28:48.829662"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-00004c5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C661001~faq-00004c5-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:28:49.886210"
+        },
+        {
+          "question": "I brought my product with me to a different country and can't find ink for it. What should I do?",
+          "answer": "Some Epson printers and ink cartridges are specific to a regional market and not sold worldwide, although the same printers are sold in the U.S. and Canada. If you have a printer sold in the U.S. or Canada, you may not be able to easily get ink cartridges for it in foreign markets.\nUnfortunately, because of customs and tax regulations, the Epson E-Stores in the U.S. and Canada are unable to ship to addresses outside the U.S. and Canada.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-0000956-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C661001~faq-0000956-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:28:50.839228"
+        },
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-0000ad0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C661001~faq-0000ad0-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:28:51.768696"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C661001~faq-00004b0-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:28:52.718892"
+        },
+        {
+          "question": "Can the Epson ink cartridges be refilled or can I use third-party ink cartridges without voiding the warranty?",
+          "answer": "Epson does not recommend refilling or using other brands of ink cartridges.  Epson uses a permanent Micro Piezo print head that has allowed Epson to lead the industry in delivering consistent photo image quality by using variable-sized droplets.  Micro Piezo print head can also use a wider variety of inks, which has allowed Epson to introduce such ink breakthroughs as DURABrite® and Epson UltraChrome® inks that offer greatly improved humidity resistance, smudge resistance, and fade resistance.\nUsing refilled ink cartridges will not void the product's original warranty; however, if these products cause a failure, the repair of that failure will not be covered under warranty.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-0000bf9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C661001~faq-0000bf9-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:28:53.723257"
+        },
+        {
+          "question": "When I try to print to my product in Windows 7, printing is slow or my product stops printing. What should I do?",
+          "answer": "Try the following:\nSelect a lower quality setting in the printer software.\nMake sure your system meets the minimum system requirements for your printer.\nClose the\nDevices and Printers\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-0000bf3-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C661001~faq-0000bf3-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:28:54.695822"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C661001~faq-00004dc-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:28:55.670195"
+        },
+        {
+          "question": "My product makes noise after I turn it on or after it has been sitting for a while. What should I do?",
+          "answer": "This is normal. It is performing routine maintenance.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-000096b-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C661001~faq-000096b-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:28:56.556267"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-0000f4b-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C661001~faq-0000f4b-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:28:57.469550"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Printing is slow. What should I do?",
+          "answer": "See\nPrinting is too slow\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79697?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C661001~faq-79697",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:28:58.463610"
+        },
+        {
+          "question": "Why does the wrong photo print?",
+          "answer": "See\nThe wrong photo is printed\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79767?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C661001~faq-79767",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:28:59.465659"
+        },
+        {
+          "question": "Why does it take so long to scroll through my pictures on my product's display?",
+          "answer": "The file size of the pictures determines the viewing speed. Scrolling takes longer when you are viewing pictures with larger file sizes.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79795?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C661001~faq-79795",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:00.429332"
+        },
+        {
+          "question": "When I try to print to my product in Windows 7, printing is slow or my product stops printing. What should I do?",
+          "answer": "Try the following:\nSelect a lower quality setting in the printer software.\nMake sure your system meets the minimum system requirements for your printer.\nClose the\nDevices and Printers\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-0000bf3-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C661001~faq-0000bf3-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:01.446821"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "I installed a photo cartridge, but an error message says that it is not the initial cartridge. What should I do?",
+          "answer": "For the first cartridge, you must install the photo cartridge that comes in the box with PictureMate Flash. The label on this cartridge says\nInitial Photo Cartridge\n. If you purchased additional PictureMate 200 Series Print Packs, use these photo cartridges only as replacements.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79634?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11C661001~faq-79634",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:02.565381"
+        },
+        {
+          "question": "I see the message Cannot connect to Internet in Windows 8.1 after I select Driver Update in my product software. What should I do?",
+          "answer": "The\nDriver Update\noption does not work in Windows 8.1. All other driver options will work correctly.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-0000958-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11C661001~faq-0000958-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:03.605428"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11C661001~faq-00004c5-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:04.547070"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "How do I know when the photo cartridge needs to be replaced?",
+          "answer": "Your PictureMate will let you know when the photo cartridge is low or expended. See\nChecking Print Pack Status\nin the User's Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79656?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C661001~faq-79656",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:05.452346"
+        },
+        {
+          "question": "How many photos will I get from my product Print Pack?",
+          "answer": "Actual yields will vary based on images printed, print settings, paper type, frequency of use, and temperature. The number of sheets of photo paper in your PictureMate Print Pack is stated on the Print Pack's box. The Photo Cartridge in the Print Pack contains enough ink to allow borderless, color printing of about the stated number of sheets.\nGet more information\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79768?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C661001~faq-79768",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:06.399171"
+        },
+        {
+          "question": "How do I replace the my product photo cartridge?",
+          "answer": "See\nReplacing the Print Pack\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79792?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C661001~faq-79792",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:07.514076"
+        },
+        {
+          "question": "Can the Epson ink cartridges be refilled or can I use third-party ink cartridges without voiding the warranty?",
+          "answer": "Epson does not recommend refilling or using other brands of ink cartridges.  Epson uses a permanent Micro Piezo print head that has allowed Epson to lead the industry in delivering consistent photo image quality by using variable-sized droplets.  Micro Piezo print head can also use a wider variety of inks, which has allowed Epson to introduce such ink breakthroughs as DURABrite® and Epson UltraChrome® inks that offer greatly improved humidity resistance, smudge resistance, and fade resistance.\nUsing refilled ink cartridges will not void the product's original warranty; however, if these products cause a failure, the repair of that failure will not be covered under warranty.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-0000bf9-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C661001~faq-0000bf9-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:08.659235"
+        },
+        {
+          "question": "I brought my product with me to a different country and can't find ink for it. What should I do?",
+          "answer": "Some Epson printers and ink cartridges are specific to a regional market and not sold worldwide, although the same printers are sold in the U.S. and Canada. If you have a printer sold in the U.S. or Canada, you may not be able to easily get ink cartridges for it in foreign markets.\nUnfortunately, because of customs and tax regulations, the Epson E-Stores in the U.S. and Canada are unable to ship to addresses outside the U.S. and Canada.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-0000956-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C661001~faq-0000956-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:09.772278"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Memory Cards or External Devices",
+      "section_id": "8796127307852",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "My memory card is not recognized by my product. What should I do?",
+          "answer": "Check the following:\nMake sure you insert only one card at a time.\nMake sure the photos on your card are in a JPEG or uncompressed Tiff file format and taken with a DCF-compliant camera.\nPictureMate can recognize and print only the first 999 photos on a memory card.\nPictureMate cannot read progressive-scan JPEG files or RAW files.\nMake sure you're using a compatible memory card. The following cards are compatible:\nSD (Secure Digital) and SDHC (High Capacity)\nminiSD and miniSDHC *\nmicroSD and microSDHC *\nMMC (MultiMediaCard)\nxD-Picture Card\nxD-Picture Card (Type M and Type H)\nSony Memory Stick **\nMemory Stick Duo *\nMemory Stick PRO\nMemory Stick PRO Duo *\nMagicGate Memory Stick **\nMagicGate Memory Stick Duo\nMicrodrive\nCompactFlash (Type I and II)\n*  Requires adapter\n** Maximum capacity 128MB\nMake sure the card is inserted correctly. See the following instructions:\nTurn on PictureMate.\nPress the\nOpen\nbutton to open the output tray, if necessary.\nInsert the memory card into the correct slot, as shown below:\nTop slot\nSD (Secure Digital) and SDHC (High Capacity)\nminiSD and miniSDHC *\nmicroSD and microSDHC *\nMMC (MultiMediaCard)\nxD-Picture Card\nxD-Picture Card (Type M and Type H)\nSony Memory Stick **\nMemory Stick Duo *\nMemory Stick PRO\nMemory Stick PRO Duo *\nMagicGate Memory Stick **\nMagicGate Memory Stick Duo\nBottom slot\nMicrodrive\nCompactFlash (Type I and II)\n*  Requires adapter\n** Maximum capacity 128MB\nPush the card in carefully until it stops (it won't go in all of the way).  When the card is in, the memory card light will come on and begin to flash.\nMake sure the card is removed correctly. See the following for instructions:\nMake sure the memory card light is not flashing.\nIf the card is in the Top slot, push in the card and release it, then pull it straight out of the slot.\nIf the card is in the Bottom slot, push in and release the card button so it pops out. Then push in the button again to eject your card and pull it straight out of the slot.\nIf you used your computer to delete files from the card, the card may not work correctly. Always use your camera to delete files.\nIf the instructions above to not solve the problem, try formatting the card (following instructions in your camera's user's guide), or try another card.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-100888?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11C661001~faq-100888",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:10.702912"
+        },
+        {
+          "question": "Why doesn't my product see any photos on the memory card?",
+          "answer": "If your PictureMate Flash is not seeing your photos, check the following:\nMake sure you're using a\ncompatible memory card\n.\nMake sure only one card is inserted at a time. PictureMate Flash does not read from multiple cards at once.\nMake sure your photos are in JPEG or uncompressed TIFF format. If you're using JPEGs, make sure they are non-progressive.  PictureMate Flash can't read progressive-scan JPEG or RAW files.\nMake sure the resolution of your photos is between 80 x 80 and 9200 x 9200.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79658?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11C661001~faq-79658",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:11.613547"
+        },
+        {
+          "question": "Can my product read multiple memory cards at the same time?",
+          "answer": "No. Insert just one card at a time.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79672?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11C661001~faq-79672",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:11.131074"
+        },
+        {
+          "question": "Can my product read the images on my memory card that were saved in Adobe Photoshop?",
+          "answer": "Yes, but PictureMate Flash cannot read JPEG files that have been opened and saved in Adobe Photoshop using the progressive save option. Files must be saved using the standard option.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79673?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11C661001~faq-79673",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:12.093392"
+        },
+        {
+          "question": "I deleted some photos from my memory card and now it isn't working in my camera. What should I do?",
+          "answer": "If you use your computer to delete pictures from a memory card, the card may not work correctly with your camera. If this happens, back up the memory card pictures to your computer, then use the camera to format the card. Remember to always delete your camera's pictures using your camera, not your computer.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79839?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11C661001~faq-79839",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:13.033392"
+        },
+        {
+          "question": "How do I transfer photos from a memory card to my computer?",
+          "answer": "See\nCopying Photos to and From Your Computer\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79849?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11C661001~faq-79849",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:13.961467"
+        },
+        {
+          "question": "What is the largest supported memory card for my product?",
+          "answer": "See our\nMaximum Memory Card Specifications\npage for the specifications.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-151975?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11C661001~faq-151975",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:15.024705"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "What types of paper can I use with my product?",
+          "answer": "See\nSupported Paper\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79593?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C661001~faq-79593",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:15.948096"
+        },
+        {
+          "question": "Can I print on plain paper with my product?",
+          "answer": "No. If you load plain paper, you may damage PictureMate Flash.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79659?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C661001~faq-79659",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:16.973048"
+        },
+        {
+          "question": "The paper will not feed correctly. What should I do?",
+          "answer": "See\nProblems With Paper Feeding\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79655?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C661001~faq-79655",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:17.891352"
+        },
+        {
+          "question": "Paper jammed in my product. What should I do?",
+          "answer": "Remove any sheets behind the jammed paper and press\nOK\nto eject the jammed paper. Don't pull out jammed paper from the top of PictureMate Flash.\nTo prevent paper from jamming, see\nProblems With Paper Feeding\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79711?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C661001~faq-79711",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:18.812117"
+        },
+        {
+          "question": "Multiple pages are feeding into my product at the same time. What should I do?",
+          "answer": "Remove the paper from the feeder, separate the sheets slightly, then carefully reload the paper.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79791?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C661001~faq-79791",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:19.704453"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "My product sounds as though it is printing, but nothing prints. What should I do?",
+          "answer": "PictureMate Flash won't operate properly if it's tilted or at an angle. Place it on a flat, stable surface that extends beyond the base in all directions.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79556?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C661001~faq-79556",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:20.657499"
+        },
+        {
+          "question": "The colors in my printed photo are wrong or missing. What should I do?",
+          "answer": "See\nColors in your photo are wrong or missing\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79569?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C661001~faq-79569",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:21.609578"
+        },
+        {
+          "question": "My printout has incorrect margins. What should I do?",
+          "answer": "See\nThe borders or layout are incorrect\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79591?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C661001~faq-79591",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:22.577693"
+        },
+        {
+          "question": "Is there a print test I can run to determine what is causing my print quality problem?",
+          "answer": "Yes. See\nChecking the Print Quality Using the Computer\nto determine if a problem is being caused by PictureMate Flash or some other source.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79592?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C661001~faq-79592",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:25.325323"
+        },
+        {
+          "question": "How can I add more frames to my product?",
+          "answer": "See\nAdding New Frames to PictureMate\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79618?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C661001~faq-79618",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:26.466655"
+        },
+        {
+          "question": "My product is printing blank pages. What should I do?",
+          "answer": "The print head may need cleaning. See\nCleaning the Print Head Directly From PictureMate\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79632?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C661001~faq-79632",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:27.558528"
+        },
+        {
+          "question": "My pictures are rotated sideways in the Print Preview screen on my product when I print portrait-oriented photos. Are my photos going to print correctly?",
+          "answer": "Yes. If you are printing portrait-oriented photos, they may appear rotated in the confirmation screen, but they will print correctly.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79633?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C661001~faq-79633",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:28.637086"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "See\nYou see banding (light lines) in your prints\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79654?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C661001~faq-79654",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:29.741392"
+        },
+        {
+          "question": "My prints have too much magenta in them. What should I do?",
+          "answer": "Change the\nColor Effect\nsetting to\nNone\n.\nFollow these Steps:\nPress the\nMenu\nbutton.\nPress\nor\nto highlight\nEdit\n, then press\nOK\n.\nPress\nor\nto highlight\nColor Effect\n, then press\nOK\n.\nPress\nor\nto select\nNone\n, then press\nOK\n.\nAt the next screen, select whether to apply the color effect to the current photo or all photos, then press\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79713?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C661001~faq-79713",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:30.837488"
+        },
+        {
+          "question": "My printout is blurry or smeared. What should I do?",
+          "answer": "See\nYour photo is blurry or smeared\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79734?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C661001~faq-79734",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:31.888748"
+        },
+        {
+          "question": "My images saved as CMYK do not look correct. What should I do?",
+          "answer": "PictureMate Flash automatically converts RGB images to CMYK. If the image is already CMYK, the color output will not be as expected. Try saving your images as RGB before printing.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79736?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C661001~faq-79736",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:32.973905"
+        },
+        {
+          "question": "My printout is grainy when I print from any application. What should I do?",
+          "answer": "See\nYour photo is grainy\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79789?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C661001~faq-79789",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:34.057070"
+        },
+        {
+          "question": "My printed photo has gaps in it. What should I do?",
+          "answer": "See\nYour photo is faint or has gaps in the image\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79837?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C661001~faq-79837",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:35.129934"
+        },
+        {
+          "question": "Why do my prints look blotchy?",
+          "answer": "The prints may look blotchy before they dry completely. Lay the prints flat and allow them to dry. Do not stack your photos with the printed sides touching.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79851?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C661001~faq-79851",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:36.216725"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "How can I get the latest my product software?",
+          "answer": "You can download the latest software from the Downloads tab.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79570?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C661001~faq-79570",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:37.302951"
+        },
+        {
+          "question": "Can my product be networked?",
+          "answer": "Yes. You can set up PictureMate Flash as a shared printer. See\nSetting Up Network Printing\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79657?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C661001~faq-79657",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:38.377477"
+        },
+        {
+          "question": "Can I restore my product print settings to their original values?",
+          "answer": "Yes. See\nReturning to Default Settings\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79660?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C661001~faq-79660",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:39.507085"
+        },
+        {
+          "question": "Can I use PictBridge (Direct Print) printing?",
+          "answer": "Yes, PictureMate Flash supports PictBridge printing. For more information, see\nPrinting From a Digital Camera\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79699?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C661001~faq-79699",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:40.546133"
+        },
+        {
+          "question": "Can I connect my digital camera to my product and print directly from the camera?",
+          "answer": "You can print directly from a digital camera that supports PictBridge or USB DIRECT-PRINT. For more information, see\nPrinting From a Digital Camera\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79735?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C661001~faq-79735",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:41.637336"
+        },
+        {
+          "question": "How do I uninstall my product software?",
+          "answer": "See\nUninstalling PictureMate Software\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79848?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C661001~faq-79848",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:42.710743"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C661001~faq-00004dc-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:42.247231"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C661001~faq-0000f4b-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:43.328682"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C661001~faq-0000f4c-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:44.540306"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Wireless or Wired Connection",
+      "section_id": "8796127635532",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-0000ad0-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11C661001~faq-0000ad0-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:45.657300"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 9,
+      "faqs": [
+        {
+          "question": "My On light is lit, but the viewer screen is blank. Why?",
+          "answer": "The photoviewer shuts off after 13 minutes if PictureMate Flash is not used. Press any button to turn it back on.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79559?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C661001~faq-79559",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:46.757127"
+        },
+        {
+          "question": "I burned a CD on my computer and my product can't read it. What should I do?",
+          "answer": "You may not be able to read all types of CDs and DVDs in the PictureMate Flash CD drive if the discs were written by another CD or DVD drive. Epson cannot guarantee the compatibility of all CDs and DVDs.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79619?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C661001~faq-79619",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:47.830586"
+        },
+        {
+          "question": "Is DPOF printing supported by my product?",
+          "answer": "Yes, PictureMate Flash supports DPOF printing. This is a simple way to select and print photos directly from your camera without using a computer. For more information, see\nPrinting Camera-Selected DPOF Photos\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79674?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C661001~faq-79674",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:48.917281"
+        },
+        {
+          "question": "Where can I purchase the optional battery for my product?",
+          "answer": "You can purchase the battery from the Epson Store or from a local Epson dealer.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79712?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C661001~faq-79712",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:49.992837"
+        },
+        {
+          "question": "Nothing happens when I try to print. What should I do?",
+          "answer": "See\nPictureMate is on, but nothing prints\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79766?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C661001~faq-79766",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:51.062065"
+        },
+        {
+          "question": "Too many copies are print. What should I do?",
+          "answer": "See\nToo many copies are printing\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79790?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C661001~faq-79790",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:52.162141"
+        },
+        {
+          "question": "What is DPOF?",
+          "answer": "DPOF (Digital Print Order Format) lets you use your digital camera to select the pictures you want to print. For more information, see\nPrinting Camera-Selected DPOF Photos\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79794?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C661001~faq-79794",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:53.246157"
+        },
+        {
+          "question": "How should I transport my product?",
+          "answer": "See\nTaking PictureMate With You\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79838?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C661001~faq-79838",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:54.308291"
+        },
+        {
+          "question": "How long does it take to charge the battery?",
+          "answer": "It takes approximately 2 hours to fully charge the battery when PictureMate is off. It takes longer if you use PictureMate while it is charging.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79850?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C661001~faq-79850",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:55.408433"
+        },
+        {
+          "question": "I received fewer prints than the number of sheets of paper in my product Print Pack and would like a refund. How do I request the refund?",
+          "answer": "See\nPictureMate Print Pack Satisfaction Guarantee\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-79840?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C661001~faq-79840",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:56.492550"
+        },
+        {
+          "question": "Which Epson products support printing from my Sony PlayStation 3?",
+          "answer": "You can print from the Sony Playstation 3 on any of the following Epson printers:\nPictureMate Deluxe\nPictureMate Express\nPictureMate Pal\nPictureMate Snap\nPictureMate Flash\nStylus CX3800 / CX3810\nStylus CX4200\nStylus CX4800\nStylus CX5000\nStylus CX6000\nStylus CX7800\nStylus Photo R260\nStylus Photo R340\nStylus Photo R380\nStylus Photo RX580\nPlease see the\nSony PlayStation 3\nwebsite for additional support information.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-92669?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C661001~faq-92669",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:57.591097"
+        },
+        {
+          "question": "My product makes noise after I turn it on or after it has been sitting for a while. What should I do?",
+          "answer": "This is normal. It is performing routine maintenance.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-000096b-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C661001~faq-000096b-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:58.663383"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C661001~faq-00004b0-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:29:59.752019"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11C661001~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C661001~faq-0000f4a-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Flash-PM-280/s/SPT_C11C661001",
+          "fetched_at": "2026-04-02T04:30:00.866799"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

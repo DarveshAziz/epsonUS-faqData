@@ -1,0 +1,429 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Impact Printers",
+  "series": "FX Series",
+  "model": {
+    "name": "Epson FX-870",
+    "sku": "SPT_C094001",
+    "url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "A label peeled off in the product. How should I remove it?",
+          "answer": "Press the product's\nLF/FF\nbutton until the label appears on the platen and remove the label. If you can't remove the label this way, do not remove the platen from the product. Get the printer serviced.\nNote:\nWe recommend you use the pull tractor to print labels. Labels fed through the rear push tractor can curl and peel off under the platen.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-0000937-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C094001~faq-0000937-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:54:23.250854"
+        },
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-000096d-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C094001~faq-000096d-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:54:24.366833"
+        },
+        {
+          "question": "The paper feed knob broke. What should I do?",
+          "answer": "This is usually caused by incorrectly using the paper feed knob to adjust the paper position when the printer is turned on.\nTo prevent this problem the printer's paper feed, form feed or alignment buttons should be used.\nYou can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-000096c-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C094001~faq-000096c-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:54:25.313675"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C094001~faq-00004b0-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:54:26.383759"
+        },
+        {
+          "question": "Two pages print for each page I print. What should I do?",
+          "answer": "If you're using single sheets you need to make sure the software is set up for either single sheet paper or 61 lines per page otherwise it will print a few lines on a second page if the document is over 61 lines.\nSome older DOS software may not have those settings if it is designed to be used only with tractor feed paper. For Windows software, make sure to select Sheet Feeder bin 1 for your paper source in Printer setup.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-000096e-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C094001~faq-000096e-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:54:27.297123"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C094001~faq-00004dc-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:54:28.289030"
+        },
+        {
+          "question": "Why does my product stop or pause in the middle of a print job?",
+          "answer": "The printer has a built-in sensor that monitors the temperature of the print head. When the print head begins to get too hot, the printer may pause or slow down the speed of the print head unit to ensure that the print head does not overheat. If the print head begins to overheat, the thermistor will stop the print head completely until it has cooled down. Once the print head has sufficiently cooled down, the printer will resume the print job. Another reason for the printer to pause or stop can be that the printer is waiting for more data or is in the middle of processing data already received.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-39744?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C094001~faq-39744",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:54:29.210776"
+        },
+        {
+          "question": "Why does my product beep continuously?",
+          "answer": "Either the paper release lever is in the wrong position or the Microfeed adjustment has reached its limits. If you are using the Microfeed option, this is as far as the printer will allow you to adjust the paper. If you are not using the Microfeed feature, turn the printer OFF. Move the paper release lever on the right hand side of the printer forward, then backwards. Move the lever forward and backwards five times, then turn the printer back ON. If the problem still occurs, repeat the adjustment steps again. If the problems persists, have the printer taken in to be serviced.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-39761?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C094001~faq-39761",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:54:30.191441"
+        },
+        {
+          "question": "My product is not starting printing at the right position on the paper. How can I change the top-of-form setting?",
+          "answer": "You can change the starting print position by using the MICROFEED feature on the printer's control panel. Load your paper and wait until it stops feeding. Once it has stops press the TOF button to enter top-of-form mode. Then use the MICROFEED UP arrow or MICROFEED DOWN arrow to adjust the top-of-form position. The printer will beep continuously and will not move anymore when it has reached the maximum adjustment point. Once you have the paper where you want it, press the TOF button again.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-39746?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C094001~faq-39746",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:54:31.225902"
+        },
+        {
+          "question": "What are the common escape codes for my product?",
+          "answer": "Some commonly used escape codes include (in decimal values) -Reset (27, 64); Set page length in lines (27, 67, n - where n is a number from 1 to 127); Carriage return (13); Line feed (10); Form feed (12); Select 1/8-inch line spacing (27, 48); 10 cpi (27, 80); 12 cpi (27, 77); Select bold font (27, 69); Cancel bold font (27, 70); Select italic font (27, 52); Cancel italic font (27, 53); Turn underline on/off (27, 45, n - where n equals 49=ON or 48=OFF); Select condensed print (15); Cancel condensed print (18). For more escape codes, please refer to the Command Summary of your User's Manual. If you need to use advanced escape codes for programming purposes, you can purchase an ESC/P Reference Manual from EPSON Accessories.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-39745?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C094001~faq-39745",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:54:32.289987"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Can I print on checks that are 3-inches in length?",
+          "answer": "Yes, you can print on special sized papers. In Windows, you need to setup the printer options for a User Defined Page Size.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-39732?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C094001~faq-39732",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:54:33.234124"
+        },
+        {
+          "question": "Why won't my product print serially from my computer?",
+          "answer": "If you are using a straight through modem cable, change the cable to a null modem cable (pins 2 and 3 are reversed). If you are already using a null modem cable, ensure that the Default Settings for the serial port on the printer match the settings on your computer. There is always the possibility of a loose connection or a bad cable. Disconnect and reconnect the cable on the PC and the printer and try printing again. If you are still experiencing difficulty, try a different cable or take the printer to another computer to see if the computer's port is malfunctioning.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-39734?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C094001~faq-39734",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:54:34.144134"
+        },
+        {
+          "question": "Two pages print for each page I print. What should I do?",
+          "answer": "If you're using single sheets you need to make sure the software is set up for either single sheet paper or 61 lines per page otherwise it will print a few lines on a second page if the document is over 61 lines.\nSome older DOS software may not have those settings if it is designed to be used only with tractor feed paper. For Windows software, make sure to select Sheet Feeder bin 1 for your paper source in Printer setup.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-000096e-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C094001~faq-000096e-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:54:34.348454"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "My product beeps (five sets of four beeps) and will not load paper. Why won't it load paper?",
+          "answer": "If the printer does five sets of four beeps (with a pause in between each set), continuous paper has been selected, but there is no paper loaded on the tractor. Install the paper onto the tractor unit and try printing again.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-39767?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C094001~faq-39767",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:54:35.292967"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "A label peeled off in the product. How should I remove it?",
+          "answer": "Press the product's\nLF/FF\nbutton until the label appears on the platen and remove the label. If you can't remove the label this way, do not remove the platen from the product. Get the printer serviced.\nNote:\nWe recommend you use the pull tractor to print labels. Labels fed through the rear push tractor can curl and peel off under the platen.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-0000937-shared?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C094001~faq-0000937-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:54:36.627964"
+        },
+        {
+          "question": "The paper feed knob broke. What should I do?",
+          "answer": "This is usually caused by incorrectly using the paper feed knob to adjust the paper position when the printer is turned on.\nTo prevent this problem the printer's paper feed, form feed or alignment buttons should be used.\nYou can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-000096c-shared?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C094001~faq-000096c-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:54:37.592069"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "Can the product print on envelopes?",
+          "answer": "Yes, envelopes can be inserted one at a time through the front manual feed slot. Up to 25 envelopes can be fed automatically when using the optional high-capacity cut-sheet and envelope feeder.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-39755?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C094001~faq-39755",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:54:42.711979"
+        },
+        {
+          "question": "Can the product print on multi-part forms?",
+          "answer": "Yes, it can take up to 4-part (original plus three) continuous, carbonless forms using the rear, front, or bottom paper feed slots. Multi-part single sheet forms can also be fed through the front manual feed slot.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-39756?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C094001~faq-39756",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:54:44.476264"
+        },
+        {
+          "question": "Can the product print on continuous labels?",
+          "answer": "Yes, the FX-870 can print on continuous labels at normal temperature and humidity levels. Load the labels using either the front push tractor or the pull tractor (front or bottom). CAUTION: Never feed labels in a reverse direction. They may peel off the backing and cause a paper jam. To remove labels without causing a jam, tear the labels off at the input source and then feed them through the printer in a forward direction.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-39757?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C094001~faq-39757",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:54:45.423118"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "My product is not starting printing at the right position on the paper. How can I change the top-of-form setting?",
+          "answer": "You can change the starting print position by using the MICROFEED feature on the printer's control panel. Load your paper and wait until it stops feeding. Once it has stops press the TOF button to enter top-of-form mode. Then use the MICROFEED UP arrow or MICROFEED DOWN arrow to adjust the top-of-form position. The printer will beep continuously and will not move anymore when it has reached the maximum adjustment point. Once you have the paper where you want it, press the TOF button again.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-39746?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C094001~faq-39746",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:54:46.329440"
+        },
+        {
+          "question": "When printing a multiple page document on single sheets, the first page prints correctly, but the pages after start printing too low. What should I do?",
+          "answer": "The difference in print position is usually caused by the page length setting in the software application program. Most applications have a default page length of 66 lines per page when using 11\" continuous paper. When using single sheets, the printer automatically provides a small top and bottom margin. Since the top and bottom margins are non-printable areas, the maximum number of lines per page is reduced from 66 to 61 lines per page. Many applications have an option to change the number of lines per page. You should change the number of lines per page to 61. If the program offers a selection for \"cut-sheet feeder,\" change the paper type to cut-sheet feeder.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-39750?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C094001~faq-39750",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:54:47.611257"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Some video drivers may cause a conflict in memory between the printerdriver and video memory. Try changing to the Windows video driver provided by Microsoft or check to see if the video card manufacturer has an updated video driver available. This is often the cause of strange printing problems such as missing characters or lines through the printed document.\nBroken printhead pins may also cause this problem. If the problem continues when performing the printer's self test then the printhead is most likely the problem. This would need to be serviced by an Epson authorized repair center.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-49811?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C094001~faq-49811",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:54:48.612934"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "What driver should I use if my product is not listed?",
+          "answer": "In EPSON mode: FX-850, EX-800, FX-86e, FX-80+, FX-80; For IBM emulation: Proprinter II or X, IBM Graphics printer.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-39735?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C094001~faq-39735",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:54:50.182004"
+        },
+        {
+          "question": "Can I connect my product to IBM mainframe (IBM 3270) and IBM minicomputer (AS/400 or System 3X) environments?",
+          "answer": "Yes, you can. For IBM mainframe environments, you can purchase an optional Type-B Coax interface card (C823141) which allows direct connectivity and emulates IBM printer models: 3287, 3268, 4214-1, and 4224 (non IPDS). For direct connectivity to IBM minicomputer environments emulating IBM printer models: 4210, 4214, 5225, 5224, 5256, 5219, and 3812, you will need the optional Type-B Twinax interface card (C823151).",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-39741?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C094001~faq-39741",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:54:51.626579"
+        },
+        {
+          "question": "Can my product emulate an IBM Proprinter?",
+          "answer": "Yes, the printer has an IBM emulation, selectable through the Default Settings mode.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-39742?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C094001~faq-39742",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:54:53.272662"
+        },
+        {
+          "question": "What are the common escape codes for my product?",
+          "answer": "Some commonly used escape codes include (in decimal values) -Reset (27, 64); Set page length in lines (27, 67, n - where n is a number from 1 to 127); Carriage return (13); Line feed (10); Form feed (12); Select 1/8-inch line spacing (27, 48); 10 cpi (27, 80); 12 cpi (27, 77); Select bold font (27, 69); Cancel bold font (27, 70); Select italic font (27, 52); Cancel italic font (27, 53); Turn underline on/off (27, 45, n - where n equals 49=ON or 48=OFF); Select condensed print (15); Cancel condensed print (18). For more escape codes, please refer to the Command Summary of your User's Manual. If you need to use advanced escape codes for programming purposes, you can purchase an ESC/P Reference Manual from EPSON Accessories.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-39745?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C094001~faq-39745",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:54:54.288686"
+        },
+        {
+          "question": "I'm printing serial, my baud rate is at 9600, and intermittently my product will lose data. What should I do?",
+          "answer": "If you are using a non-buffered serial interface board and XON/XOFF is enabled, the XOFF signal may not reach the printer in time to delay data transmission that would result in an overflow and loss of data. If you can use a DTR setting, change XON/XOFF to DTR. If you must use XON/XOFF, try decreasing the baud rate. Another option would be to purchase a 32KB buffered serial interface card (C823071). The buffered serial interface has a flag reset timing, which sets aside additional buffer space to \"catch\" the data overflow. The flag reset timing feature settings are selectable through dip switches on the serial interface card.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-39766?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C094001~faq-39766",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:54:55.202150"
+        },
+        {
+          "question": "Can I switch between tractors using escape codes?",
+          "answer": "No, you cannot switch between tractors using escape codes. However, if you have installed an optional high-capacity cut-sheet feeder and the optional Second Bin cut-sheet feeder, you can switch between Bin 1 and Bin 2 via escape codes.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-39769?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C094001~faq-39769",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:54:56.185213"
+        },
+        {
+          "question": "How do I change my product's default settings?",
+          "answer": "Hold down the font button while turning the printer on. This will print out the printer's default settings and the instructions on how to change them.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-50182?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C094001~faq-50182",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:54:57.176305"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C094001~faq-00004dc-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:54:58.671811"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "What is the recommended duty cycle for my product?",
+          "answer": "The specification recommended is 25 percent. Epson America's definition of a 25 percent duty cycle stands for the printer printing (not idle) for two hours per day based on an eight hour day at 22 days per month.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-39743?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C094001~faq-39743",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:54:59.692702"
+        },
+        {
+          "question": "Why does my product stop or pause in the middle of a print job?",
+          "answer": "The printer has a built-in sensor that monitors the temperature of the print head. When the print head begins to get too hot, the printer may pause or slow down the speed of the print head unit to ensure that the print head does not overheat. If the print head begins to overheat, the thermistor will stop the print head completely until it has cooled down. Once the print head has sufficiently cooled down, the printer will resume the print job. Another reason for the printer to pause or stop can be that the printer is waiting for more data or is in the middle of processing data already received.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-39744?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C094001~faq-39744",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:55:00.574864"
+        },
+        {
+          "question": "Why isn't there an online/offline switch on the product?",
+          "answer": "The FX-870 was designed to be easy to use. The online/offline button has been replaced with a PAUSE/TEAR OFF button. Users wishing to \"pause\" their print job can now simply press the PAUSE/TEAR OFF button.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-39753?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C094001~faq-39753",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:55:01.578881"
+        },
+        {
+          "question": "Does the product come with one or two tractor units?",
+          "answer": "The FX-870 is shipped with one convertible tractor unit. This tractor can be used in the rear push, front push, or top pull positions. The customer can purchase an additional second tractor unit from EPSON Accessories.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-39758?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C094001~faq-39758",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:55:04.990810"
+        },
+        {
+          "question": "The product comes standard with a parallel interface. Can a serial interface be added?",
+          "answer": "Yes, the FX-870 accepts a Type-B interface. Optional buffered serial, parallel, Twinax, and Coax interface cards are available when needed for special installations. These can be purchased through EPSON Accessories.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-39764?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C094001~faq-39764",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:55:06.409010"
+        },
+        {
+          "question": "Why does my product beep three times?",
+          "answer": "This means that you have chosen single sheets on the paper release lever, but no paper is present. Load paper and try printing.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-39760?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C094001~faq-39760",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:55:07.515571"
+        },
+        {
+          "question": "Why does my product beep continuously?",
+          "answer": "Either the paper release lever is in the wrong position or the Microfeed adjustment has reached its limits. If you are using the Microfeed option, this is as far as the printer will allow you to adjust the paper. If you are not using the Microfeed feature, turn the printer OFF. Move the paper release lever on the right hand side of the printer forward, then backwards. Move the lever forward and backwards five times, then turn the printer back ON. If the problem still occurs, repeat the adjustment steps again. If the problems persists, have the printer taken in to be serviced.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-39761?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C094001~faq-39761",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:55:08.744528"
+        },
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-000096d-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C094001~faq-000096d-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:55:10.041833"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C094001~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C094001~faq-00004b0-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-870/s/SPT_C094001",
+          "fetched_at": "2026-04-02T04:55:11.222071"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

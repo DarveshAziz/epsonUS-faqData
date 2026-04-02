@@ -1,0 +1,278 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Impact Printers",
+  "series": "FX Series",
+  "model": {
+    "name": "Epson FX-2180",
+    "sku": "SPT_C244001",
+    "url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2180/s/SPT_C244001"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C244001~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C244001~faq-00004dc-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2180/s/SPT_C244001",
+          "fetched_at": "2026-04-02T05:00:57.715044"
+        },
+        {
+          "question": "A label peeled off in the product. How should I remove it?",
+          "answer": "Press the product's\nLF/FF\nbutton until the label appears on the platen and remove the label. If you can't remove the label this way, do not remove the platen from the product. Get the printer serviced.\nNote:\nWe recommend you use the pull tractor to print labels. Labels fed through the rear push tractor can curl and peel off under the platen.",
+          "faq_url": "https://epson.com/faq/SPT_C244001~faq-0000937-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C244001~faq-0000937-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2180/s/SPT_C244001",
+          "fetched_at": "2026-04-02T05:00:58.978894"
+        },
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C244001~faq-000096d-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C244001~faq-000096d-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2180/s/SPT_C244001",
+          "fetched_at": "2026-04-02T05:01:00.212684"
+        },
+        {
+          "question": "Two pages print for each page I print. What should I do?",
+          "answer": "If you're using single sheets you need to make sure the software is set up for either single sheet paper or 61 lines per page otherwise it will print a few lines on a second page if the document is over 61 lines.\nSome older DOS software may not have those settings if it is designed to be used only with tractor feed paper. For Windows software, make sure to select Sheet Feeder bin 1 for your paper source in Printer setup.",
+          "faq_url": "https://epson.com/faq/SPT_C244001~faq-000096e-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C244001~faq-000096e-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2180/s/SPT_C244001",
+          "fetched_at": "2026-04-02T05:01:01.381476"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C244001~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C244001~faq-00004b0-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2180/s/SPT_C244001",
+          "fetched_at": "2026-04-02T05:01:02.549586"
+        },
+        {
+          "question": "The paper feed knob broke. What should I do?",
+          "answer": "This is usually caused by incorrectly using the paper feed knob to adjust the paper position when the printer is turned on.\nTo prevent this problem the printer's paper feed, form feed or alignment buttons should be used.\nYou can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C244001~faq-000096c-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C244001~faq-000096c-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2180/s/SPT_C244001",
+          "fetched_at": "2026-04-02T05:01:03.691364"
+        },
+        {
+          "question": "How do you select bar codes on my product?",
+          "answer": "The eight built-in bar codes are only selectable through software using an ESC code sequence. The built-in bar codes include: EAN-13, EAN-8, Interleaved 2 of 5, UPC-A, UPC-E, Code 39, Code 128, and POSTNET.",
+          "faq_url": "https://epson.com/faq/SPT_C244001~faq-34430?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C244001~faq-34430",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2180/s/SPT_C244001",
+          "fetched_at": "2026-04-02T05:01:04.839515"
+        },
+        {
+          "question": "My product starts printing too far down the page. Is there any way I can adjust the starting point of the print job?",
+          "answer": "There is a feature called Micro Adjust that allows you to adjust the top-of-form (TOF) position in minute increments. To use this feature, load the paper into the printer with the Load/Eject button. Press the Pause button for three seconds (until Pause light flashes), then press LF/FF to move the paper forward or press Load/Eject to move the paper backward. Once you have the TOF position set where you want it, send a print job. The printer will remember the TOF setting and will position the print head accordingly for the next page.",
+          "faq_url": "https://epson.com/faq/SPT_C244001~faq-34435?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C244001~faq-34435",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2180/s/SPT_C244001",
+          "fetched_at": "2026-04-02T05:01:05.949542"
+        },
+        {
+          "question": "What is the recommended duty cycle for my product?",
+          "answer": "The specification recommended is 25 percent. Epson America's definition of a 25 percent duty cycle stands for the printer printing (not idle) for two hours per day based on an eight hour day at 22 days per month.",
+          "faq_url": "https://epson.com/faq/SPT_C244001~faq-34357?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C244001~faq-34357",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2180/s/SPT_C244001",
+          "fetched_at": "2026-04-02T05:01:07.049349"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Some video drivers may cause a conflict in memory between the printerdriver and video memory. Try changing to the Windows video driver provided by Microsoft or check to see if the video card manufacturer has an updated video driver available. This is often the cause of strange printing problems such as missing characters or lines through the printed document.\nBroken printhead pins may also cause this problem. If the problem continues when performing the printer's self test then the printhead is most likely the problem. This would need to be serviced by an Epson authorized repair center.",
+          "faq_url": "https://epson.com/faq/SPT_C244001~faq-49753?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C244001~faq-49753",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2180/s/SPT_C244001",
+          "fetched_at": "2026-04-02T05:01:08.175256"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Two pages print for each page I print. What should I do?",
+          "answer": "If you're using single sheets you need to make sure the software is set up for either single sheet paper or 61 lines per page otherwise it will print a few lines on a second page if the document is over 61 lines.\nSome older DOS software may not have those settings if it is designed to be used only with tractor feed paper. For Windows software, make sure to select Sheet Feeder bin 1 for your paper source in Printer setup.",
+          "faq_url": "https://epson.com/faq/SPT_C244001~faq-000096e-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C244001~faq-000096e-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2180/s/SPT_C244001",
+          "fetched_at": "2026-04-02T05:01:09.342617"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "A label peeled off in the product. How should I remove it?",
+          "answer": "Press the product's\nLF/FF\nbutton until the label appears on the platen and remove the label. If you can't remove the label this way, do not remove the platen from the product. Get the printer serviced.\nNote:\nWe recommend you use the pull tractor to print labels. Labels fed through the rear push tractor can curl and peel off under the platen.",
+          "faq_url": "https://epson.com/faq/SPT_C244001~faq-0000937-shared?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C244001~faq-0000937-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2180/s/SPT_C244001",
+          "fetched_at": "2026-04-02T05:01:10.589689"
+        },
+        {
+          "question": "The paper feed knob broke. What should I do?",
+          "answer": "This is usually caused by incorrectly using the paper feed knob to adjust the paper position when the printer is turned on.\nTo prevent this problem the printer's paper feed, form feed or alignment buttons should be used.\nYou can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C244001~faq-000096c-shared?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C244001~faq-000096c-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2180/s/SPT_C244001",
+          "fetched_at": "2026-04-02T05:01:11.900124"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "When printing a multiple page document on single sheets, the first page prints correctly, but the pages after start printing too low. What should I do?",
+          "answer": "The difference in print position is usually caused by the page length setting in the software application program. Most applications have a default page length of 66 lines per page when using 11\" continuous paper. When using single sheets, the printer automatically provides a small top and bottom margin. Since the top and bottom margins are non-printable areas, the maximum number of lines per page is reduced from 66 to 61 lines per page. Many applications have an option to change the number of lines per page. You should change the number of lines per page to 61. If the program offers a selection for \"cut-sheet feeder,\" change the paper type to cut-sheet feeder.",
+          "faq_url": "https://epson.com/faq/SPT_C244001~faq-34380?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C244001~faq-34380",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2180/s/SPT_C244001",
+          "fetched_at": "2026-04-02T05:01:13.037561"
+        },
+        {
+          "question": "My product starts printing too far down the page. Is there any way I can adjust the starting point of the print job?",
+          "answer": "There is a feature called Micro Adjust that allows you to adjust the top-of-form (TOF) position in minute increments. To use this feature, load the paper into the printer with the Load/Eject button. Press the Pause button for three seconds (until Pause light flashes), then press LF/FF to move the paper forward or press Load/Eject to move the paper backward. Once you have the TOF position set where you want it, send a print job. The printer will remember the TOF setting and will position the print head accordingly for the next page.",
+          "faq_url": "https://epson.com/faq/SPT_C244001~faq-34435?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C244001~faq-34435",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2180/s/SPT_C244001",
+          "fetched_at": "2026-04-02T05:01:12.422060"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Some video drivers may cause a conflict in memory between the printerdriver and video memory. Try changing to the Windows video driver provided by Microsoft or check to see if the video card manufacturer has an updated video driver available. This is often the cause of strange printing problems such as missing characters or lines through the printed document.\nBroken printhead pins may also cause this problem. If the problem continues when performing the printer's self test then the printhead is most likely the problem. This would need to be serviced by an Epson authorized repair center.",
+          "faq_url": "https://epson.com/faq/SPT_C244001~faq-49753?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C244001~faq-49753",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2180/s/SPT_C244001",
+          "fetched_at": "2026-04-02T05:01:13.470406"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "What are the common escape codes for my product?",
+          "answer": "Some commonly used escape codes include (in decimal values) -Reset (27, 64); Set page length in lines (27, 67, n - where n is a number from 1 to 127); Carriage return (13); Line feed (10); Form feed (12); Select 1/8-inch line spacing (27, 48); 10 cpi (27, 80); 12 cpi (27, 77); Select bold font (27, 69); Cancel bold font (27, 70); Select italic font (27, 52); Cancel italic font (27, 53); Turn underline on/off (27, 45, n - where n equals 49=ON or 48=OFF); Select condensed print (15); Cancel condensed print (18). For more escape codes, please refer to the Command Summary of your User's Manual. If you need to use advanced escape codes for programming purposes, you can purchase an ESC/P Reference Manual from Epson Accessories.",
+          "faq_url": "https://epson.com/faq/SPT_C244001~faq-34364?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C244001~faq-34364",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2180/s/SPT_C244001",
+          "fetched_at": "2026-04-02T05:01:14.655045"
+        },
+        {
+          "question": "How can I change my product's default settings?",
+          "answer": "There are two ways to change the default settings on the printer. You can use the EPSON Remote! utility program to change the printer's default settings from your computer or you can change the default settings manually with the printer's front control panel buttons.",
+          "faq_url": "https://epson.com/faq/SPT_C244001~faq-34433?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C244001~faq-34433",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2180/s/SPT_C244001",
+          "fetched_at": "2026-04-02T05:01:15.719600"
+        },
+        {
+          "question": "Can my product emulate an IBM Proprinter?",
+          "answer": "Yes, the printer has a built-in IBM 2381+ emulation.",
+          "faq_url": "https://epson.com/faq/SPT_C244001~faq-34434?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C244001~faq-34434",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2180/s/SPT_C244001",
+          "fetched_at": "2026-04-02T05:01:16.877144"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C244001~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C244001~faq-00004dc-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2180/s/SPT_C244001",
+          "fetched_at": "2026-04-02T05:01:17.921116"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "What is the recommended duty cycle for my product?",
+          "answer": "The specification recommended is 25 percent. Epson America's definition of a 25 percent duty cycle stands for the printer printing (not idle) for two hours per day based on an eight hour day at 22 days per month.",
+          "faq_url": "https://epson.com/faq/SPT_C244001~faq-34357?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C244001~faq-34357",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2180/s/SPT_C244001",
+          "fetched_at": "2026-04-02T05:01:19.180859"
+        },
+        {
+          "question": "How do you select bar codes on my product?",
+          "answer": "The eight built-in bar codes are only selectable through software using an ESC code sequence. The built-in bar codes include: EAN-13, EAN-8, Interleaved 2 of 5, UPC-A, UPC-E, Code 39, Code 128, and POSTNET.",
+          "faq_url": "https://epson.com/faq/SPT_C244001~faq-34430?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C244001~faq-34430",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2180/s/SPT_C244001",
+          "fetched_at": "2026-04-02T05:01:20.312652"
+        },
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C244001~faq-000096d-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C244001~faq-000096d-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2180/s/SPT_C244001",
+          "fetched_at": "2026-04-02T05:01:21.494383"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C244001~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C244001~faq-00004b0-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2180/s/SPT_C244001",
+          "fetched_at": "2026-04-02T05:01:22.530481"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

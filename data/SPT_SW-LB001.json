@@ -1,0 +1,226 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Label Printers",
+  "series": "ColorWorks Series",
+  "model": {
+    "name": "Epson Label Boost for ColorWorks Printers",
+    "sku": "SPT_SW-LB001",
+    "url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-Label-Boost-for-ColorWorks-Printers/s/SPT_SW-LB001"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "Which label apps are supported by the software?",
+          "answer": "Epson Label Boost is designed to work with any ZPL-based label software. The following list of applications have been tested and are compatible with Epson Label Boost.\nFedEx Ship Manager\nUPS WorldShip\nShipStation\nStamps.com",
+          "faq_url": "https://epson.com/faq/SPT_SW-LB001~faq-0000b58-label_boost?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SW-LB001~faq-0000b58-label_boost",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-Label-Boost-for-ColorWorks-Printers/s/SPT_SW-LB001",
+          "fetched_at": "2026-04-02T04:42:23.231617"
+        },
+        {
+          "question": "How many printers can I use with one software license?",
+          "answer": "The software license applies to one computer. Although you may connect multiple printers to the same computer, the software will only print to one printer.",
+          "faq_url": "https://epson.com/faq/SPT_SW-LB001~faq-0000b5f-label_boost?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SW-LB001~faq-0000b5f-label_boost",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-Label-Boost-for-ColorWorks-Printers/s/SPT_SW-LB001",
+          "fetched_at": "2026-04-02T04:42:24.216111"
+        },
+        {
+          "question": "How do I select the printer in the software?",
+          "answer": "Do the following:\nSelect\nFile\n>\nPrinter Settings\nto select the Epson ColorWorks printer driver.\nSelect your printer in the Printer drop-down list and click\nOK\n. You can also enter the Label Length, Label Width, and Printer Resolution settings.\nNote:\nOnly Epson ColorWorks printers are supported.\nClick\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_SW-LB001~faq-0000b5a-label_boost?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SW-LB001~faq-0000b5a-label_boost",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-Label-Boost-for-ColorWorks-Printers/s/SPT_SW-LB001",
+          "fetched_at": "2026-04-02T04:42:25.155513"
+        },
+        {
+          "question": "Can I print more than one coupon on a shipping label?",
+          "answer": "Yes. The software will support up to two coupons above and below the shipping label. You just need to make sure you have the appropriate size label.",
+          "faq_url": "https://epson.com/faq/SPT_SW-LB001~faq-0000b5b-label_boost?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SW-LB001~faq-0000b5b-label_boost",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-Label-Boost-for-ColorWorks-Printers/s/SPT_SW-LB001",
+          "fetched_at": "2026-04-02T04:42:26.081748"
+        },
+        {
+          "question": "Can I use the software to design custom coupons or promotional material?",
+          "answer": "You can use the software to add content to labels, but it’s not a tool for designing branded content. We recommend you use your existing marketing tools to design your branded content and then import the design into Epson Label Boost. If you are looking to create simple labels that are not custom branded, the software includes a small library of common secondary labels, such as “Fragile” and “This side up”.\nNote:\nImages must be in PNG format. For expected results, use an image that is equal to or less than the label width and matches your printer DPI settings. For example: 4\" x 2\" image at 200 DPI (800px by 400px).",
+          "faq_url": "https://epson.com/faq/SPT_SW-LB001~faq-0000b5c-label_boost?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SW-LB001~faq-0000b5c-label_boost",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-Label-Boost-for-ColorWorks-Printers/s/SPT_SW-LB001",
+          "fetched_at": "2026-04-02T04:42:27.004627"
+        },
+        {
+          "question": "What are the requirements to use Epson Label Boost?",
+          "answer": "See below.\nPrinters\nEpson ColorWorks CW-C4000 Series\nEpson ColorWorks CW-C6000 Series\nEpson ColorWorks CW-C6500 Series\nOperating Systems\nWindows 11 Professional\nWindows 11 Enterprise\nWindows 10 Professional\nWindows 10 Enterprise\nNote:\n64-bit versions are supported (version 22H2 or higher).\nSystem Requirements\nIntel Core i5 8th Generation Processor at 2GHz or higher\n8GB DDR4 RAM\n1GB free HDD space\nAccess\nAdministrator rights are required to install and set up the software.\nPort 9100 available to intercept print jobs\nLabel Software\nNote:\nEpson Label Boost is compatible with ZPL-based shipping label software.\nFedEx Ship Manager\nUPS WorldShip\nShipStation\nStamps.com",
+          "faq_url": "https://epson.com/faq/SPT_SW-LB001~faq-0000b57-label_boost?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SW-LB001~faq-0000b57-label_boost",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-Label-Boost-for-ColorWorks-Printers/s/SPT_SW-LB001",
+          "fetched_at": "2026-04-02T04:42:28.005526"
+        },
+        {
+          "question": "How do I install Epson Label Boost?",
+          "answer": "Do the following:\nInstall the Epson ColorWorks printer driver prior to the label Boost installation.\nDownload the Epson Label Boost software. You can download the software from the Downloads tab on the Epson Label Boost product page.\nRight-click and run as Administrator. The installer welcome screen appears.\nNote:\nEnter the administrator credentials if prompted.\nClick\nNext\n. The Select Installation Folder window appears.\nDo one of the following:\nClick\nNext\nto install the software in the default folder.\nClick\nBrowse\n, select a different installation folder, then click\nNext\nto install the software.\nNote:\nThe Disk Cost button can be used to confirm if you have available space in the local disk drives.\nClick\nNext\nagain to confirm the installation. When the installation is complete, the following screen appears.\nClick\nClose\n. Epson Label Boost is now installed.",
+          "faq_url": "https://epson.com/faq/SPT_SW-LB001~faq-0000b59-label_boost?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SW-LB001~faq-0000b59-label_boost",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-Label-Boost-for-ColorWorks-Printers/s/SPT_SW-LB001",
+          "fetched_at": "2026-04-02T04:42:28.972295"
+        },
+        {
+          "question": "Can I print on label types other than shipping labels?",
+          "answer": "The software is designed specifically for shipping labels, however, it should work with any label in a ZPL format.",
+          "faq_url": "https://epson.com/faq/SPT_SW-LB001~faq-0000b5d-label_boost?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SW-LB001~faq-0000b5d-label_boost",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-Label-Boost-for-ColorWorks-Printers/s/SPT_SW-LB001",
+          "fetched_at": "2026-04-02T04:42:29.874574"
+        },
+        {
+          "question": "The software failed to install. What should I do?",
+          "answer": "Make sure a driver is installed for a supported Epson ColorWorks printer, otherwise, the software will not be installed. We recommend you print a test label from your shipping label software after you install the ColorWorks printer driver to ensure the driver is functioning properly before you install and set up Epson Label Boost.",
+          "faq_url": "https://epson.com/faq/SPT_SW-LB001~faq-0000b61-label_boost?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SW-LB001~faq-0000b61-label_boost",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-Label-Boost-for-ColorWorks-Printers/s/SPT_SW-LB001",
+          "fetched_at": "2026-04-02T04:42:30.854220"
+        },
+        {
+          "question": "Does the software work with all Epson ColorWorks printers?",
+          "answer": "The software is compatible with the Epson ColorWorks CW-C4000, CW-C6000, and CW-C6500 series printers.",
+          "faq_url": "https://epson.com/faq/SPT_SW-LB001~faq-0000b60-label_boost?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SW-LB001~faq-0000b60-label_boost",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-Label-Boost-for-ColorWorks-Printers/s/SPT_SW-LB001",
+          "fetched_at": "2026-04-02T04:42:31.881584"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "How to...",
+      "section_id": "8796159027276",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "How do I select the printer in the software?",
+          "answer": "Do the following:\nSelect\nFile\n>\nPrinter Settings\nto select the Epson ColorWorks printer driver.\nSelect your printer in the Printer drop-down list and click\nOK\n. You can also enter the Label Length, Label Width, and Printer Resolution settings.\nNote:\nOnly Epson ColorWorks printers are supported.\nClick\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_SW-LB001~faq-0000b5a-label_boost?faq_cat=faq-8796159027276",
+          "faq_slug": "SPT_SW-LB001~faq-0000b5a-label_boost",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-Label-Boost-for-ColorWorks-Printers/s/SPT_SW-LB001",
+          "fetched_at": "2026-04-02T04:42:33.006421"
+        },
+        {
+          "question": "How do I install Epson Label Boost?",
+          "answer": "Do the following:\nInstall the Epson ColorWorks printer driver prior to the label Boost installation.\nDownload the Epson Label Boost software. You can download the software from the Downloads tab on the Epson Label Boost product page.\nRight-click and run as Administrator. The installer welcome screen appears.\nNote:\nEnter the administrator credentials if prompted.\nClick\nNext\n. The Select Installation Folder window appears.\nDo one of the following:\nClick\nNext\nto install the software in the default folder.\nClick\nBrowse\n, select a different installation folder, then click\nNext\nto install the software.\nNote:\nThe Disk Cost button can be used to confirm if you have available space in the local disk drives.\nClick\nNext\nagain to confirm the installation. When the installation is complete, the following screen appears.\nClick\nClose\n. Epson Label Boost is now installed.",
+          "faq_url": "https://epson.com/faq/SPT_SW-LB001~faq-0000b59-label_boost?faq_cat=faq-8796159027276",
+          "faq_slug": "SPT_SW-LB001~faq-0000b59-label_boost",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-Label-Boost-for-ColorWorks-Printers/s/SPT_SW-LB001",
+          "fetched_at": "2026-04-02T04:42:34.008393"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Product Information",
+      "section_id": "8796159060044",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "Can I print more than one coupon on a shipping label?",
+          "answer": "Yes. The software will support up to two coupons above and below the shipping label. You just need to make sure you have the appropriate size label.",
+          "faq_url": "https://epson.com/faq/SPT_SW-LB001~faq-0000b5b-label_boost?faq_cat=faq-8796159060044",
+          "faq_slug": "SPT_SW-LB001~faq-0000b5b-label_boost",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-Label-Boost-for-ColorWorks-Printers/s/SPT_SW-LB001",
+          "fetched_at": "2026-04-02T04:42:34.958035"
+        },
+        {
+          "question": "Can I print on label types other than shipping labels?",
+          "answer": "The software is designed specifically for shipping labels, however, it should work with any label in a ZPL format.",
+          "faq_url": "https://epson.com/faq/SPT_SW-LB001~faq-0000b5d-label_boost?faq_cat=faq-8796159060044",
+          "faq_slug": "SPT_SW-LB001~faq-0000b5d-label_boost",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-Label-Boost-for-ColorWorks-Printers/s/SPT_SW-LB001",
+          "fetched_at": "2026-04-02T04:42:36.263275"
+        },
+        {
+          "question": "Does the software work with all Epson ColorWorks printers?",
+          "answer": "The software is compatible with the Epson ColorWorks CW-C4000, CW-C6000, and CW-C6500 series printers.",
+          "faq_url": "https://epson.com/faq/SPT_SW-LB001~faq-0000b60-label_boost?faq_cat=faq-8796159060044",
+          "faq_slug": "SPT_SW-LB001~faq-0000b60-label_boost",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-Label-Boost-for-ColorWorks-Printers/s/SPT_SW-LB001",
+          "fetched_at": "2026-04-02T04:42:37.196008"
+        },
+        {
+          "question": "How many printers can I use with one software license?",
+          "answer": "The software license applies to one computer. Although you may connect multiple printers to the same computer, the software will only print to one printer.",
+          "faq_url": "https://epson.com/faq/SPT_SW-LB001~faq-0000b5f-label_boost?faq_cat=faq-8796159060044",
+          "faq_slug": "SPT_SW-LB001~faq-0000b5f-label_boost",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-Label-Boost-for-ColorWorks-Printers/s/SPT_SW-LB001",
+          "fetched_at": "2026-04-02T04:42:38.178061"
+        },
+        {
+          "question": "Can I use the software to design custom coupons or promotional material?",
+          "answer": "You can use the software to add content to labels, but it’s not a tool for designing branded content. We recommend you use your existing marketing tools to design your branded content and then import the design into Epson Label Boost. If you are looking to create simple labels that are not custom branded, the software includes a small library of common secondary labels, such as “Fragile” and “This side up”.\nNote:\nImages must be in PNG format. For expected results, use an image that is equal to or less than the label width and matches your printer DPI settings. For example: 4\" x 2\" image at 200 DPI (800px by 400px).",
+          "faq_url": "https://epson.com/faq/SPT_SW-LB001~faq-0000b5c-label_boost?faq_cat=faq-8796159060044",
+          "faq_slug": "SPT_SW-LB001~faq-0000b5c-label_boost",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-Label-Boost-for-ColorWorks-Printers/s/SPT_SW-LB001",
+          "fetched_at": "2026-04-02T04:42:39.052951"
+        },
+        {
+          "question": "Which label apps are supported by the software?",
+          "answer": "Epson Label Boost is designed to work with any ZPL-based label software. The following list of applications have been tested and are compatible with Epson Label Boost.\nFedEx Ship Manager\nUPS WorldShip\nShipStation\nStamps.com",
+          "faq_url": "https://epson.com/faq/SPT_SW-LB001~faq-0000b58-label_boost?faq_cat=faq-8796159060044",
+          "faq_slug": "SPT_SW-LB001~faq-0000b58-label_boost",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-Label-Boost-for-ColorWorks-Printers/s/SPT_SW-LB001",
+          "fetched_at": "2026-04-02T04:42:40.126322"
+        },
+        {
+          "question": "What are the requirements to use Epson Label Boost?",
+          "answer": "See below.\nPrinters\nEpson ColorWorks CW-C4000 Series\nEpson ColorWorks CW-C6000 Series\nEpson ColorWorks CW-C6500 Series\nOperating Systems\nWindows 11 Professional\nWindows 11 Enterprise\nWindows 10 Professional\nWindows 10 Enterprise\nNote:\n64-bit versions are supported (version 22H2 or higher).\nSystem Requirements\nIntel Core i5 8th Generation Processor at 2GHz or higher\n8GB DDR4 RAM\n1GB free HDD space\nAccess\nAdministrator rights are required to install and set up the software.\nPort 9100 available to intercept print jobs\nLabel Software\nNote:\nEpson Label Boost is compatible with ZPL-based shipping label software.\nFedEx Ship Manager\nUPS WorldShip\nShipStation\nStamps.com",
+          "faq_url": "https://epson.com/faq/SPT_SW-LB001~faq-0000b57-label_boost?faq_cat=faq-8796159060044",
+          "faq_slug": "SPT_SW-LB001~faq-0000b57-label_boost",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-Label-Boost-for-ColorWorks-Printers/s/SPT_SW-LB001",
+          "fetched_at": "2026-04-02T04:42:41.119056"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Solve a problem with...",
+      "section_id": "8796126193740",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "The software failed to install. What should I do?",
+          "answer": "Make sure a driver is installed for a supported Epson ColorWorks printer, otherwise, the software will not be installed. We recommend you print a test label from your shipping label software after you install the ColorWorks printer driver to ensure the driver is functioning properly before you install and set up Epson Label Boost.",
+          "faq_url": "https://epson.com/faq/SPT_SW-LB001~faq-0000b61-label_boost?faq_cat=faq-8796126193740",
+          "faq_slug": "SPT_SW-LB001~faq-0000b61-label_boost",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-Label-Boost-for-ColorWorks-Printers/s/SPT_SW-LB001",
+          "fetched_at": "2026-04-02T04:42:42.141511"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

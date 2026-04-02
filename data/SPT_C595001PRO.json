@@ -1,0 +1,1067 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "Epson Stylus Series",
+  "model": {
+    "name": "Epson Stylus Pro 9800 Professional Edition",
+    "sku": "SPT_C595001PRO",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "My printouts are dark when I print from Photoshop CS3 or later. What should I do?",
+          "answer": "While we do not assist with color profiling or color correction, you can try the                 following:\nUse latest version of Adobe Photoshop.\nMake sure your print head nozzles are clean and free from clogs.\nMake the following adjustment in Adobe Photoshop:\nSelect\nColor Management\nor\nOutput\n>\nOutput\nfrom Photoshop's print                             screen.\nClick\nTransfer\nand drag the middle of the curve                             to 40.0%.\nClick\nOK\n, then select\nColor                                 Management\n.\nSelect\nLet Photoshop manage color as normal\nand                             the appropriate printer profile.\nPrint your image. Because every photo is different, you may need to                             experiment with the Transfer Curve to find the level that best suits                             your needs.\nNote:\nMaking changes to the Transfer Curve does not alter                                 the original image. This curve affects the Shadows, Midtones, and                                 Highlights as a whole.\nMake the following adjustments in the Windows or Mac driver to lighten the                         image:\nAdjust the Gamma setting to 1.8.\nIncrease the Brightness bar to 5.\nNote:\nIf using a Mac, make sure the                                 Color Mode is EPSON Standard sRGB.\nSee the product's User Guide for more information in these settings.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-000062A-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C595001PRO~faq-000062A-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:12.019665"
+        },
+        {
+          "question": "How do I uninstall and reinstall my printer driver in OS X 10.6?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\n>\nPrint & Fax\n.\nSelect your printer in the list, click\n, then close the open windows.\nOpen your hard drive.\nSelect\nLibrary\n>\nPrinters\n>\nEpson\n>\ninkjet printers\n, then drag the plugin for your product to the trash. If there is no plugin for your product, drag the\nEpson\nfolder to the trash. Close the open windows.\nReinstall the driver for your product.\nOpen the\nmenu, select\nSystem Preferences\n>\nPrint & Fax\n.\nClick\n, then select your printer.\nClose the open windows.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-00009ff-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C595001PRO~faq-00009ff-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:13.120021"
+        },
+        {
+          "question": "Where can I get the latest version of the Epson Communication Driver for my printer?",
+          "answer": "Download the Communication Driver from the Downloads tab on your product's support page.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-00009fb-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C595001PRO~faq-00009fb-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:14.243961"
+        },
+        {
+          "question": "I see the message Communication Error when I use a USB connection. What should I do?",
+          "answer": "Do the following:\nDelete all print jobs in the print queue.\nTurn the printer off.\nNote:\nMake sure the USB cable is connected correctly.\nRestart your computer. When the desktop appears, turn your printer on and follow the on-screen instructions.\nNote:\nIf the problem continues, turn the printer off again and delete the printer in the list of printers. Then disconnect the USB cable from the printer and connect it again.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-00009ea-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C595001PRO~faq-00009ea-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:15.449915"
+        },
+        {
+          "question": "How do I create a custom paper size in Windows?",
+          "answer": "Do the following:\nRight-click your printer icon on the Windows task bar, then select\nPrinter Settings\n.\nIf necessary, select the\nMain\nor\nPaper\ntab.\nSelect your paper\nSource\nin the Paper Settings section.\nClick the\nUser Defined\nbutton or select\nUser                         Defined\nas the Size. A User Defined Paper Size window                     opens.\nEnter a Paper Size Name, then select the Paper Width and Paper Height.\nClick\nSave\n, then\nOK\n.\nClick\nOK\nagain.\nThe new paper size is created, and you can now select the new size from the Size             list.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-0000622-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C595001PRO~faq-0000622-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:14.909816"
+        },
+        {
+          "question": "I'm having paper feed problems. What should I do?",
+          "answer": "Check the following:\nFor heavy or thick media, follow the instructions in the\nUser Guide\nto                     load the media correctly.\nMake sure the paper is not folded, wrinkled, or damp.\nMake sure the printer's environment is within the required temperature and                     humidity range.\nMake sure no foreign objects are inside the paper path.\nMake sure the printer isn't located in a brightly lit area. The paper sensors                     may not operate correctly.\nMake sure the\nMedia Type\nand\nPaper                         Source\nsettings in the printer software are correct.\nMake sure the\nPlaten Gap\nsetting is correct for the paper                     or media you're using.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-000062F-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C595001PRO~faq-000062F-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:16.038603"
+        },
+        {
+          "question": "How do I uninstall and reinstall my printer driver in OS X 10.1, 10.2, or 10.3?",
+          "answer": "Open your hard drive, then do the following:\nSelect\nApplications\n>\nUtilities\n, then double-click\nPrinter Service Utility\n. Remove all Epson Stylus Pro paper queues from the Printers List, then close the open windows.\nSelect\nLibrary\n>\nReceipts\n, then drag the\nSProXX00.xx.pkg\nfile to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nEpson\n, then drag the plugin for your product to the trash.\nSelect\nPreferences\n>\nEpson\n, then drag files related to your product to the trash.\nClose the open windows.\nReinstall the driver for your product.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-00009fe-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C595001PRO~faq-00009fe-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:17.357184"
+        },
+        {
+          "question": "How do I uninstall and reinstall the printer driver in Windows?",
+          "answer": "Do the following:\nTurn off the product.\nDisconnect any interface cables.\nDo one of the following:\nWindows 10\n: Right click\nand select\nControl Panel\n>\nPrograms\n>\nPrograms and                             Features\n.  Select the uninstall option for your Epson                         product, then select\nUninstall/Change\n.\nNote:\nIf you                             see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto                         confirm the uninstallation.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl                             Panel\n>\nPrograms\n>\nPrograms and Features\n.  Select the uninstall                         option for your Epson product, then select\nUninstall/Change\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto                         confirm the uninstallation.\nWindows (other versions)\n: Click\nor\nStart\n, and select\nAll Programs\nor\nPrograms\n.                         Select\nEPSON\n, select your product, then click\nEPSON Printer Software Uninstall\n.\nNote:\nIf you                             see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nIn the next window, select your product and click\nOK\n. Then follow any on-screen instructions.\nRestart your computer, then see the\nStart Here\nsheet or User Guide to                 re-install your software.\nIf these instructions did not solve the problem, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-0000630-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C595001PRO~faq-0000630-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:18.470203"
+        },
+        {
+          "question": "How do I set up color management for my product in Adobe PhotoShop on my Mac?",
+          "answer": "Do the following:\nOpen the\nFile\nmenu in Adobe Photoshop and select\nPrint\n.\nUnder Color Handling, select\nPrinter Manages Colors\n.\nClick\nPrint Settings\n.  A new window appears.\nUnder Orientation, select\nColor Matching\nfrom the pop-up                     menu.\nSelect\nEPSON Color Controls\n.\nMake sure the Color Settings are set to\nEPSON Standard                         (sRGB)\nunder Print Settings.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-0000623-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C595001PRO~faq-0000623-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:19.573801"
+        },
+        {
+          "question": "How do I uninstall and reinstall my printer driver in OS X 10.8?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\n, then\nPrint & Scan\n.\nSelect your printer in the list, then click\n. Press and hold the\ncontrol\nkey on your keyboard and click anywhere on the printer list. Click\nReset Printing Systems\n. Close the open windows.\nOpen your hard drive and do the following:\nSelect\nLibrary\n>\nPrinters\n>\nInstalledPrinters.plist\n. Drag the InstalledPrinters.plist file to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nEpson\n. Drag the\nEpson\nfolder to the trash.\nSelect\nApplications\n>\nUtility\n>\nDisk Utility\n> your hard drive, then select\nRepair Disk Permissions\n. Close the open windows.\nReinstall the driver for your product.\nOpen the\nmenu, select\nSystem Preferences\n, then\nPrint & Scan\n.\nClick\n, then select your printer.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-00009dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C595001PRO~faq-00009dc-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:20.992629"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "When I turn on my product, it displays a message telling me to perform a power cleaning. What should I do?",
+          "answer": "The printer is programmed to display this message approximately every 20 days, but you should select\nNo\nwhen you see it. The power cleaning uses a large amount of ink, and you should run it only when the normal cleaning process is not sufficient to clear the nozzles. See\nChecking and Cleaning the Print Head\nfor information on running a normal cleaning.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-68349?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C595001PRO~faq-68349",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:22.149202"
+        },
+        {
+          "question": "I see a message that starts with DXXX. What should I do?",
+          "answer": "Turn off the printer and disconnect all cables connected to the printer. Wait 30 seconds, connect the cables again, and turn on the printer. If this does not help, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-298397?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C595001PRO~faq-298397",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:23.365302"
+        },
+        {
+          "question": "I installed the latest printer driver on my Mac and now the message ink mismatch appears when I try to print. What should I do?",
+          "answer": "The computer did not properly detect and register the ink type in the printer. Turn the printer off and on to start the detection process and configure the correct ink type.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-83287?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C595001PRO~faq-83287",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:24.481717"
+        },
+        {
+          "question": "When I try to manually cut the paper with the built-in cutter, my product displays a message to open my product's front door and replace the cutter blade. What should I do?",
+          "answer": "You may have pressed the wrong button. Be sure to press the\nbutton when you want to manually cut the paper. See\nCutting Paper Manually with Built-in Cutter\nfor more information.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-75865?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C595001PRO~faq-75865",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:25.610677"
+        },
+        {
+          "question": "I see the message 0002 on the printer's LCD. What should I do?",
+          "answer": "If you notice odd noises or image quality problems, troubleshoot the printer for the noise or image quality problem. Otherwise, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-298369?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C595001PRO~faq-298369",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:26.988195"
+        },
+        {
+          "question": "I see the message Service error 1002D. What does it indicate?",
+          "answer": "The message indicates the cleaning mechanism has reached its end of life. Contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-298415?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C595001PRO~faq-298415",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:28.075950"
+        },
+        {
+          "question": "I see the message Maintenance error 0040. What does it indicate?",
+          "answer": "The error code indicates the cleaning mechanism has reached its end of life. Contact Epson for further assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-298553?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C595001PRO~faq-298553",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:32.696407"
+        },
+        {
+          "question": "I see the message Driver ink set setting is wrong, mismatch error on my product's control panel when I print from ColorBurst. What should I do?",
+          "answer": "This error occurs when there is a mismatch between the environment selected in ColorBurst and the ink set installed in the printer.  When you select the environment, it is important to note which ink set is being used in the printer.\nIf photo black ink is installed, you must select\nPK\nas the\nEnvironment\nsetting in ColorBurst.  If matte black ink is installed, you must select\nMK\n.\nYou can bypass the error and continue printing by pressing the\npause button on the printer, but your output may be affected because of the ink and media mismatch.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-65668?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C595001PRO~faq-65668",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:33.825434"
+        },
+        {
+          "question": "I can't select my product in the LFP Remote Panel software on my Mac. The message Application is not installed appears. What should I do?",
+          "answer": "You may need to reinstall the Epson printer software. If the\nEPIJPrDrvLib2\nfolder on your Mac (which is part of the Epson printer software) is version 2.30 or earlier, you need to reinstall the printer software. (If the EPIJPrDrvLib2 folder version is later than 2.30, contact Epson support). To determine the\nEPIJPrDrvLib2\nfolder version, Do the following:\nOpen the\nHard Drive\n.\nSelect >\nLibrary\n>\nPrinters\n>\nEpson\n>\nLibraries\n>\nEPIJPrDrvLib2\n>\nResources\n.\nDouble-click the file\nInfo.plist\n. If you see the message\nThere is no default application specified to open the document Info.plist\n, click\nChoose Application\n, select\nTextEdit\n, and then click\nOpen\n. The\nEPIJPrDrvLib2\nfolder version will appear in the Info.plist file, as in the following example:\nClose the\nInfo.plist\nfile.\nFollow these steps to reinstall the Epson printer software:\nOpen the\nHard Drive\n.\nSelect >\nLibrary\n>\nPrinters\n>\nEpson\n>\nLibraries\n.\nDrag the\nEPIJPrDrvLib2\nfolder to the trash.\nInstall the Software\nagain.\nNote:\nIf the problem continues, you'll need to uninstall and reinstall all Epson printer drivers on your Mac. If you need to reinstall printer drivers for a Stylus Pro 4800/4800 Professional, Stylus Pro 7800/7800 Professional, and/or Stylus Pro 9800/9800 Professional, install these printer drivers last.\nTo uninstall and reinstall all Epson printer drivers, Do the following:\nOpen the\nHard Drive\n.\nSelect >\nLibrary\n>\nPrinters\n, and then  drag the\nEpson\nfolder to the trash.\nEmpty the trash.\nReinstall each Epson driver you uninstalled.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-68603?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C595001PRO~faq-68603",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:34.768783"
+        },
+        {
+          "question": "I see the message Communication Error when I use a USB connection. What should I do?",
+          "answer": "Do the following:\nDelete all print jobs in the print queue.\nTurn the printer off.\nNote:\nMake sure the USB cable is connected correctly.\nRestart your computer. When the desktop appears, turn your printer on and follow the on-screen instructions.\nNote:\nIf the problem continues, turn the printer off again and delete the printer in the list of printers. Then disconnect the USB cable from the printer and connect it again.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-00009ea-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C595001PRO~faq-00009ea-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:35.749129"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C595001PRO~faq-00004c5-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:36.828286"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "How to...",
+      "section_id": "8796159027276",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "How do I create a custom paper size in Windows?",
+          "answer": "Do the following:\nRight-click your printer icon on the Windows task bar, then select\nPrinter Settings\n.\nIf necessary, select the\nMain\nor\nPaper\ntab.\nSelect your paper\nSource\nin the Paper Settings section.\nClick the\nUser Defined\nbutton or select\nUser                         Defined\nas the Size. A User Defined Paper Size window                     opens.\nEnter a Paper Size Name, then select the Paper Width and Paper Height.\nClick\nSave\n, then\nOK\n.\nClick\nOK\nagain.\nThe new paper size is created, and you can now select the new size from the Size             list.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-0000622-shared?faq_cat=faq-8796159027276",
+          "faq_slug": "SPT_C595001PRO~faq-0000622-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:37.774146"
+        },
+        {
+          "question": "How do I set up color management for my product in Adobe PhotoShop on my Mac?",
+          "answer": "Do the following:\nOpen the\nFile\nmenu in Adobe Photoshop and select\nPrint\n.\nUnder Color Handling, select\nPrinter Manages Colors\n.\nClick\nPrint Settings\n.  A new window appears.\nUnder Orientation, select\nColor Matching\nfrom the pop-up                     menu.\nSelect\nEPSON Color Controls\n.\nMake sure the Color Settings are set to\nEPSON Standard                         (sRGB)\nunder Print Settings.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-0000623-shared?faq_cat=faq-8796159027276",
+          "faq_slug": "SPT_C595001PRO~faq-0000623-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:38.889526"
+        },
+        {
+          "question": "How do I add a print queue for my printer in OS X 10.1 to 10.6?",
+          "answer": "Do the following:\nTurn on the printer, if necessary.\nSelect\nSystem Preference\nand click\nPrint                     Center\n,\nPrinter Setup Utility\n, or\nPrint & Fax\n.\nClick\nAdd\n, or select\nAdd Printer\nfrom the printer's drop-down menu.\nSelect the appropriate Epson port                 connection (e.g.\nEpson USB\n) and select the product.\nSelect\nAll\nfor the\nPage Setup\n.\nClick\nAdd\n.  All                 print queues should appear in the printer list.\nSelect your product and click\nMake Default\n.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-000062D-shared?faq_cat=faq-8796159027276",
+          "faq_slug": "SPT_C595001PRO~faq-000062D-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:39.943081"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "Does my product have a pressurized ink delivery system?",
+          "answer": "Yes. This ensures positive ink flow even when the printer is used at higher elevations or if the floor is not completely level.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-64830?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C595001PRO~faq-64830",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:40.939521"
+        },
+        {
+          "question": "Do the 220ml ink cartridges stick out of the front of my product?",
+          "answer": "No. The 220 ml ink cartridges do not extend out of the ink bay, so the ink bay door can remain closed.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-64872?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C595001PRO~faq-64872",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:42.161188"
+        },
+        {
+          "question": "Does the Matte Black ink cartridge come free inside my product box?",
+          "answer": "No. Only Photo Black comes standard. If you want to use Matte Black, you need to buy a Matte Black ink cartridge when you buy your new printer or from the Epson Store.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-64851?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C595001PRO~faq-64851",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:43.132095"
+        },
+        {
+          "question": "Which ink cartridges are optional?",
+          "answer": "These UltraChrome K3 Archival ink cartridges are available as options:\nCartridge\nPart number\nPhoto Black 220ml\nT563100\nYellow 220ml\nT563400\nMagenta 220ml\nT563300\nCyan 220ml\nT563200\nLight Magenta 220ml\nT563600\nLight Cyan 220ml\nT563500\nLight Black 220ml\nT563700\nLight Light Black 220ml\nT563900\nMatte Black 110ml\nT566800\nMatte Black 220ml\nT567800",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-64810?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C595001PRO~faq-64810",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:44.182259"
+        },
+        {
+          "question": "How long does it take to switch between black modes on my product?",
+          "answer": "Less than ten minutes.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-64871?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C595001PRO~faq-64871",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:45.234452"
+        },
+        {
+          "question": "Do the Epson UltraChrome K3 inks have less outgassing than the previous Epson UltraChrome Inks?",
+          "answer": "The new Epson UltraChrome K3 inks have about the same outgassing as the previous ink set. So, depending upon the environmental conditions, Epson recommends that you let your prints outgas into interleaving papers (Epson Singleweight Matte, Doubleweight Matte, and Presentation Matte all make great interleaving papers) for at least 48 hours before framing.\nPlease note: You must replace the interleaving paper at the 24 hour mark with a fresh sheet. Be sure to frame the print properly, making sure the glass or UV acrylic does not touch the print.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-64791?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C595001PRO~faq-64791",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:46.350168"
+        },
+        {
+          "question": "How much ink is used during the switching of black ink modes?",
+          "answer": "The amount of ink flushed through the printer in the switching process varies, but approximately 88 to 117 ml of ink (all cartridges combined) is used.\nSwitching from one black mode to another (for example, from Photo Black to Matte Black) does use a significant quantity of ink. Part of it is used to flush all of the old ink type out of the printer's tubing, damper, and head, and to prime those components with a sufficient amount of the new ink type. As part of the switching process, the printer also flushes a smaller amount of each of the other colors through the print head in order to prepare the head for printing again. All this is performed in order to ensure high-quality prints in the new mode.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-64909?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C595001PRO~faq-64909",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:45.491944"
+        },
+        {
+          "question": "How many prints can I print from an ink cartridge in my printer?",
+          "answer": "There are too many variables to provide a count. You can estimate the amount by printing a Job Information sheet from the printer's Test Print menu. This sheet provides the amount of ink used for the last 10 print jobs, which can help you calculate ink usage.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-00009e2-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C595001PRO~faq-00009e2-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:46.449433"
+        },
+        {
+          "question": "My printer's ink cartridges are half full after I install the first set of ink cartridges. Why does this happen?",
+          "answer": "Ink from the first set of ink cartridges is used to charge the printer's ink delivery system. This will not happen again when you install new ink cartridges.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-00009d6-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C595001PRO~faq-00009d6-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:47.781660"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "In what order should the print head alignments be performed?",
+          "answer": "Run the head alignments in this order:\nUni-directional\nBi-directional 2 color\nBi-directional all",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-64867?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C595001PRO~faq-64867",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:48.734008"
+        },
+        {
+          "question": "How do I replace the Maintenance Tank?",
+          "answer": "The Stylus Pro 9800 has two maintenance tanks: one on the right side and one on the left side. The maintenance tanks are interchangeable and can be swapped for a more equal waste distribution when the right tank reaches approximately 50% of its capacity. See\nReplacing the Maintenance Tank\n.\nNote: Do not turn off the printer. It needs to be turned ON to register or update CSIC information on the Maintenance Tank.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-64827?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C595001PRO~faq-64827",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:49.757406"
+        },
+        {
+          "question": "How do I align the print head?",
+          "answer": "Do the following:\nMake sure the printer is turned on. Then load one of the following types of paper:\nEpson Premium Glossy Photo Paper\nEpson Premium Photo Paper Glossy\nEpson Premium Luster Photo Paper\nEpson Ultra Premium Photo Paper Luster\nEpson Enhanced Matte Paper\nEpson Ultra Premium Presentation Paper Matte\nEpson Presentation Paper Matte\nPress\nMenu\non the printer.\nPress\nuntil\nHEAD ALIGNMENT\nis selected, then press\nMenu\n. You see\nPAPER THICKNESS\n.\nPress\nMenu\nto select\nSTANDARD\n. This is the correct thickness setting for most Epson papers.\nPress\nto save the setting.\nPress\n, then press\nto select\nALIGNMENT\n.\nPress\nMenu\nto select\nAUTO\n, then press\nMenu\nagain. You see\nUNI-D\n(uni-directional). This is the type of alignment to start with.\nPress\nto start the alignment process.\nEach head alignment takes about 7 minutes. The printer's white beam sensor reads the alignment pattern and adjusts the printer automatically. Make sure you don't open the front cover or turn off the printer during this process.\nWhen the uni-directional alignment is finished, press\nuntil\nBI-D 2-COLOR\nis selected. Press\nto start the bi-directional black alignment process.\nWhen the bi-directional black alignment is finished, press\nuntil\nBI-D ALL\nis selected. Press\nto start the alignment process.\nPress\nto exit the head alignment mode.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-00009d9-sp7800_9800?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C595001PRO~faq-00009d9-sp7800_9800",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:50.964643"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "What is the maximum page length for my product?",
+          "answer": "The maximum printable page length is 90.5 inches when using the Epson printer driver. Using a RIP may allow you to exceed this limit.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-64790?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C595001PRO~faq-64790",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:52.000099"
+        },
+        {
+          "question": "Why does the Auto Take-up Reel not wind my paper automatically when printing through my RIP software, but works fine when printing with the Epson driver?",
+          "answer": "Your RIP software manufacturer has incorporated the cut settings within the paper profile. Please contact your RIP manufacturer for instructions to disable the cutter option within the paper profile. The RIP software cut setting is overriding the Auto Cut off setting on the printer.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-79723?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C595001PRO~faq-79723",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:52.912168"
+        },
+        {
+          "question": "I'm using my product with ColorBurst and there is no Environment setting for Photo Quality Ink Jet Paper. Can I use Photo Quality Ink Jet Paper?",
+          "answer": "No.\nPhoto Quality Ink Jet Paper\nis not available in a roll format and is not recommended when you're using ColorBurst with the Stylus Pro 9800 series printers.\nInstead, you can use\nSingleweight Matte Paper\n. This paper is available in a roll format and there is an\nEnvironment\nsetting for it in ColorBurst.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-68584?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C595001PRO~faq-68584",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:53.886358"
+        },
+        {
+          "question": "What size borderless prints can I create with my product?",
+          "answer": "You can make borderless prints on these roll media widths using the\nAuto Expand\nor\nRetain Size\nfeatures:\n8.3, 10, 12*, 14*, 16, 17, 24, 36 and 44 inches\n* Non-Epson roll media widths\nThe top and bottom edges can be automatically cut to any length.\nNote:\nThe minimum page length requirement is 7.17 inches.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-64828?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C595001PRO~faq-64828",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:54.804828"
+        },
+        {
+          "question": "How can I avoid using extra media at the beginning of a print job?",
+          "answer": "Do one of the following:\nSet the margin for roll paper to 3 mm.\nPress the\nbutton on the printer.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-298441?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C595001PRO~faq-298441",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:55.721535"
+        },
+        {
+          "question": "What does the 250 stand for in the Epson driver Media Type setting?",
+          "answer": "The 250 designation represents the paper weight (250 gsm). Make sure you select the 250 Media Type setting if the media installed in the printer is 250 gsm (roll paper). If there is a mismatch in paper weight, print quality may be affected by horizontal banding or other problems.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-64869?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C595001PRO~faq-64869",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:56.707679"
+        },
+        {
+          "question": "For which media types do I need to use the optional high-tension spindle?",
+          "answer": "You need to use the spindle for the following media types:\nCanvas\nPremium Luster Photo Paper\nSomerset Velvet for EPSON\nTextured Fine Art Paper by Crane",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-84871?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C595001PRO~faq-84871",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:57.766524"
+        },
+        {
+          "question": "Which Epson media types produce the highest Dmax or L* value?",
+          "answer": "Testing has shown that using Photo Black ink on Epson Premium Luster Photo Paper will produce a Dmax up to 2.4 with an L* value as low as 3.1. You may get different results depending upon the media, black ink mode, driver settings, and ICC profile used.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-64907?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C595001PRO~faq-64907",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:58.948193"
+        },
+        {
+          "question": "I'm having paper feed problems. What should I do?",
+          "answer": "Check the following:\nFor heavy or thick media, follow the instructions in the\nUser Guide\nto                     load the media correctly.\nMake sure the paper is not folded, wrinkled, or damp.\nMake sure the printer's environment is within the required temperature and                     humidity range.\nMake sure no foreign objects are inside the paper path.\nMake sure the printer isn't located in a brightly lit area. The paper sensors                     may not operate correctly.\nMake sure the\nMedia Type\nand\nPaper                         Source\nsettings in the printer software are correct.\nMake sure the\nPlaten Gap\nsetting is correct for the paper                     or media you're using.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-000062F-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C595001PRO~faq-000062F-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:21:59.901711"
+        },
+        {
+          "question": "Which Epson paper type setting should I select for Legacy paper?",
+          "answer": "See the table below.\nLegacy Paper\nEpson Paper Type Setting\nBaryta\nPremium Luster Photo Paper\nPlatine\nPremium Luster Photo Paper\nFibre\nWatercolor Paper – Radiant White\nEtching\nWatercolor Paper – Radiant White",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-00009EC-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C595001PRO~faq-00009EC-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:00.880789"
+        },
+        {
+          "question": "Which Epson Professional papers do not have optical brighteners?",
+          "answer": "Hot Press Natural, Cold Press Natural, and UltraSmooth Fine Art Paper.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-0000b07-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C595001PRO~faq-0000b07-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:01.859075"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "What kind of spray coating should I use to protect my canvas prints?",
+          "answer": "Epson has conducted limited internal testing of third-party over-coatings.  This testing indicates that the following third-party over-coatings help protect a print against the effects of water.\nMake sure the media has cured for at least 24 hours or longer before using any spray coatings. The following products have been tested with our Canvas Papers:\nPremier Art Print Shield (Tested by Wilhelm Imaging Research)\nSureGuard Clear Gloss-McDonald-Pro-Tecta-Cote # 911\nFor complete specifications and additional information, please contact the manufacturer directly.\nNote: Epson does not endorse any particular over-coating and does not guarantee the results. Epson does not make any claim as to the stability or longevity of these spray products.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-69703?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C595001PRO~faq-69703",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:02.772101"
+        },
+        {
+          "question": "How can I prevent smeared ink and droplets on my printouts?",
+          "answer": "The print head can gather dust over time, which then gathers ink. This accumulated ink can get deposited onto the substrate during printing. Cleaning the wiper blade and pump cap assembly can help resolve this problem. Do the following:\nMake sure the printer is turned off.\nOpen the front cover and press the cutter solenoid down to release the print head.\nMove the print head to the left.\nLocate the wiper blade and clean it with a damp paper towel.\nCaution\n: It is important to not remove or bend the wiper blade while cleaning it. We recommend that you hold the paper towel between your thumb and index finger, then pinch the blade and gently wipe both sides, being careful not to pull it from its holder.\nInspect the foam pad area of the pump cap assembly for any large pieces of debris and gently remove them with a moist cotton swab. Then use the cotton swab to gently wipe the topside frame of the plastic housing that holds the multi-colored foam pad.\nCaution\n: Do not try to remove the foam pad.\nThere is a flushing box to the left of the multi-colored cap assembly. The flushing box does not typically come in contact with the print head, but you should gently clean any debris that may have accumulated there.\nClose the front cover and turn on the printer.\nPrint a nozzle check and inspect the printed pattern.\nIf the nozzle check pattern is not good, continue with the next step.\nIf the nozzle check pattern looks good, you are ready to print; you don't need to continue with the following steps.\nIf the nozzle check pattern is not good, run a cleaning cycle and print another nozzle check. From the printer software utility, be sure to select\nPrint\nfor the nozzle check and not\nAuto\n.\nInspect the nozzle check.\nIf the nozzle check pattern is not good, repeat steps 9 and 10, or skip to the next step after running three cleaning cycles.\nIf the nozzle check pattern looks good, you are ready to print; you can skip step 11.\nIf the nozzle check pattern still is not good after running three cleaning cycles, call Epson Technical Support for further assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-76566?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C595001PRO~faq-76566",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:03.775687"
+        },
+        {
+          "question": "My print jobs fade toward the end, then start over before. What should I do?",
+          "answer": "If you're printing via ethernet using an Epson Vista compatible printer driver, follow these steps to fix this problem:\nCancel the print job from the computer and from the printer.\nClick the\nStart button, then select\nControl Panel\n.\nSelect\nPrinter\nor\nPrinters\nin the\nHardware and Sound\ncategory.\nRight-click on your printer and select\nPrinting Preferences\n.\nClick the\nUtility\ntab.\nSelect\nSpeed & Progress\n.\nClick the\nAlways spool RAW datatype\ncheckbox.\nClick\nOK\nto close the Speed & Progress window.\nClick\nOK\nto close the Printing Preferences window.\nRight-click on your printer and select\nProperties\n.\nClick the\nPorts\ntab.\nMake sure the correct printer port is selected, then click\nConfigure Port\n.\nClick the\nLPR Byte Counting Enabled\ncheckbox.\nClick\nOK\nto close the Configure Port window.\nClick\nApply\nand then\nClose\nto close the Properties window.\nRestart the computer.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-89582?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C595001PRO~faq-89582",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:04.770491"
+        },
+        {
+          "question": "There are vertical bands or lines on my printout.  What should I do?",
+          "answer": "Try the following:\nRun three auto print head alignments.\nMake sure High Speed is not selected.\nLower the dpi setting you selected to print.  If you selected 2880 dpi, lower                     the setting to 1440 dpi.\nMake sure the lines are not in the image source.\nMake sure you use the correct profile settings.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-000062B-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C595001PRO~faq-000062B-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:05.758044"
+        },
+        {
+          "question": "My printouts are dark when I print from Photoshop CS3 or later. What should I do?",
+          "answer": "While we do not assist with color profiling or color correction, you can try the                 following:\nUse latest version of Adobe Photoshop.\nMake sure your print head nozzles are clean and free from clogs.\nMake the following adjustment in Adobe Photoshop:\nSelect\nColor Management\nor\nOutput\n>\nOutput\nfrom Photoshop's print                             screen.\nClick\nTransfer\nand drag the middle of the curve                             to 40.0%.\nClick\nOK\n, then select\nColor                                 Management\n.\nSelect\nLet Photoshop manage color as normal\nand                             the appropriate printer profile.\nPrint your image. Because every photo is different, you may need to                             experiment with the Transfer Curve to find the level that best suits                             your needs.\nNote:\nMaking changes to the Transfer Curve does not alter                                 the original image. This curve affects the Shadows, Midtones, and                                 Highlights as a whole.\nMake the following adjustments in the Windows or Mac driver to lighten the                         image:\nAdjust the Gamma setting to 1.8.\nIncrease the Brightness bar to 5.\nNote:\nIf using a Mac, make sure the                                 Color Mode is EPSON Standard sRGB.\nSee the product's User Guide for more information in these settings.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-000062A-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C595001PRO~faq-000062A-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:06.985361"
+        },
+        {
+          "question": "My printout has horizontal lines running through it. What should I do?",
+          "answer": "Print a nozzle check pattern. If you see gaps in the nozzle check pattern, run three cleaning cycles, then print another nozzle check pattern to see if all nozzles print now. If you still see gaps, run a power cleaning cycle.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-00009FA-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C595001PRO~faq-00009FA-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:07.913544"
+        },
+        {
+          "question": "Drips, smears, or head strikes appear on my printout. What should I do?",
+          "answer": "Make sure the platen gap is adjusted for your media type. To adjust the platen gap, do the following from the printer's control panel:\nMake sure the printer is ready to print. Ready should be displayed on the printer's LCD screen.\nPress the\nbutton three times.\nSelect\nNarrow\n,\nStandard\n,\nWide\n, or\nWider\nas the gap setting.\nPress\nOK\nor\nEnter\n(the middle button).\nPress the pause button.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-0000c1e-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C595001PRO~faq-0000c1e-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:08.840744"
+        },
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-00009e9-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C595001PRO~faq-00009e9-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:09.791729"
+        },
+        {
+          "question": "I see horizontal or vertical lines in my printout. What should I do?",
+          "answer": "Perform a nozzle check from the printer's control panel or the Epson printer driver, then do one of the following:\nIf there are gaps in the nozzle check pattern, clean the print head nozzles.\nIf there are no gaps in the nozzle check pattern, try the solutions below.\nHorizontal Banding\nIncrease the print resolution.\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nSelect an alternate paper profile for ink coverage.\nSelect the correct paper type in the printer driver.\nAdjust the paper feed\nVertical Banding\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nAlign the print head.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-00009eb-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C595001PRO~faq-00009eb-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:10.914696"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "When should I use the product profiles that end in PK and MK?",
+          "answer": "The PK profile should be used when photo black ink is installed in the printer. The MK profile should be used when matte black ink is installed in the printer.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-64868?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-64868",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:11.846529"
+        },
+        {
+          "question": "When I send a print job to the RIP, I see the job in the print queue, but nothing prints. What should I do?",
+          "answer": "Verify that the RIP is set to\nRIP ON\n. Otherwise, nothing will be printed. Also make sure\nReceive On Hold\nis not selected.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-65732?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-65732",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:12.773680"
+        },
+        {
+          "question": "What is the Epson Advanced Black & White Printing Mode?",
+          "answer": "This is a proprietary Epson screening and color management technology designed specifically to produce professional-level black and white prints. This unique screen technology takes advantage of our three-level black technology—along with Yellow, Light Cyan, and Light Magenta—to produce professional black and white prints from either color or grayscale files. Epson's new Advanced Black and White printing technology is simply another tool for achieving the ultimate black and white print.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-64792?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-64792",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:13.764274"
+        },
+        {
+          "question": "ICC profiles that are included with my product are labeled by their acronyms. Is there a list that explains these acronyms and their definitions?",
+          "answer": "Profiles ending in\nMK\nare to be used when the Matte black ink is installed as the primary black, and\nPK\nis for Photo black.\nAny profile ending in\n250\nis intended for the roll stock. These profiles are intended for use with any driver resolution available.\nNote: These are examples of media acronyms.\nProfile name\nFor this media type\nARMP.icc\nArchival Matte Paper\nEMP.icc\nEnhanced Matte Paper\nPGP.icc\nPhoto Glossy Paper\nPGPP.icc\nPremium Glossy Photo Paper\nPLPP.icc\nPremium Luster Photo Paper\nPPG.icc\nPhoto Paper (Glossy Photo Paper)\nPPSmC.icc\nProofing Paper Commercial Semimatte\nPQIJP.icc\nPhoto Quality Inkjet Paper\nPSmPP.icc\nPremium Semimatte Photo Paper\nPSP.icc\nPhoto Semigloss\nPSPP.icc\nPremium Semigloss Photo Paper\nSWMP.icc\nSingleWeight Matte Paper\nTFAP.icc\nTextured Fine Art Paper\nUSFAP.icc\nUltraSmooth Fine Art Paper\nVFAP.icc\nVelvet Fine Art Paper\nWCRW.icc\nWatercolor Paper-Radiant White\nNote:\nAdditional Profiles (these profiles are designed for use with a specific black ink type and resolution):\nMatte Black Ink\nEM MK 2880.icc\nEnhanced Matte\nEVFA MK 2880.icc\nEpson Velvet Fine Art\nPAWRC MK 1440.icc\nPremier Art Water Resistant Canvas (SP91221)\nPhoto Black Ink\nPGPP250 PK 2880.icc\nPremium Glossy Photo Paper\nPLPP PK 2880.icc\nPremium Luster Photo Paper\nPLPP250 PK 2880.icc\nPremium Luster Photo Paper (roll)\nPSMPP250 PK 2880.icc\nPremium Semimatte Photo Paper",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-64904?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-64904",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:14.711987"
+        },
+        {
+          "question": "Can I turn off color management for ColorBurst?",
+          "answer": "No. You cannot turn it off or disable it.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-65711?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-65711",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:15.715129"
+        },
+        {
+          "question": "When using the ColorBurst RIP, which environment should I select for printing on Epson Premium Semi-Gloss Photo Paper (170)?",
+          "answer": "Select\nPremium Semi-Gloss Photo Paper (250)\n.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-85814?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-85814",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:16.684553"
+        },
+        {
+          "question": "What does the Common Updater 7.0 file do?",
+          "answer": "The Common Updater 7.0 file provides the latest Mac OS X 10.6 support for your printer driver. Before installing the updater, make sure the most current version of the Mac OS X 10.5 or 10.6 printer driver is installed on your computer. Restart your computer after installing the updater.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-162917?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-162917",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:15.866930"
+        },
+        {
+          "question": "When using the ColorBurst RIP, which environment should I select for printing on Epson Premium Glossy Photo Paper (170)?",
+          "answer": "Select\nPremium Glossy Photo Paper (250)\n?",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-85818?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-85818",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:17.045005"
+        },
+        {
+          "question": "How do Media Counter Settings work?",
+          "answer": "To access the Media Counter Settings you must first launch the Epson LFP Remote Panel utility. The Media Counter Settings allow you to select when low paper messages will appear on the printer's control panel, based on the quantity of remaining media. If another print job is sent to the printer while the\nPaper Low\nmessage is displayed, the status monitor will display an alert and ask whether to continue or cancel the print.\nWhen alternating between different rolls, it is essential to keep track of what roll is being used in the printer. To clear an alert, load a new roll or a sheet of paper in the printer and set the parameters. Turning off the media counter also clears the alert on the control panel.\nNote: Only roll paper media can be counted.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-64874?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-64874",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:18.039046"
+        },
+        {
+          "question": "When using the ColorBurst RIP, which environment should I select for printing on Epson Premium Luster (260)?",
+          "answer": "Select\nPremium Luster_PK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-85822?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-85822",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:19.094763"
+        },
+        {
+          "question": "When I try to print color separations using ColorBurst for Windows, the RIP produces a composite print where the separations are re-combined. Why does this happen?",
+          "answer": "The Windows version of ColorBurst produces the separations as a composite print that shows traps and overprint. This feature cannot be disabled.\nThe Macintosh version of ColorBurst can be used with the Stylus Pro 9800 to produce color separations with individual layers of color per page.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-65674?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-65674",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:20.002857"
+        },
+        {
+          "question": "What is the Super (X) setting in the Epson driver?",
+          "answer": "This is a Super Microweave setting that enables the print head to perform 8 microweave passes instead of the standard 4 passes. The throughput is slower with this setting, but it produces the highest quality prints when used along with the highest print resolutions of 1440 or 2880 with the high speed setting turned off.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-64847?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-64847",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:21.612505"
+        },
+        {
+          "question": "I don't see a Media Type setting for Epson Premium Luster Photo Paper (260) in the Epson driver. What should I do?",
+          "answer": "Download the latest printer driver, the latest firmware, and the ICC profiles from the Downloads tab for your product.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-83741?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-83741",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:23.237618"
+        },
+        {
+          "question": "When I try to install ColorBurst on a client, why can't I see my server computer when I browse the network?",
+          "answer": "In order to install on a client, you need to share the printer on the server computer. If you do not share the printer on the server, you will not be able to add the client properly. Do the following:\nClick\nStart > Settings > Printers and Faxes\n(Win XP).\nRight click the ColorBurst RIP icon and select\nSharing\n.\nUnder the\nSharing\ntab, select\nShare this printer\n.\nClick\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-65591?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-65591",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:24.331852"
+        },
+        {
+          "question": "The Advanced B/W setting is grayed out in my product software. What should I do?",
+          "answer": "Make sure you install the correct black ink cartridge for the media type selected. When the photo black cartridge is installed, the\nAdvanced B/W\nsetting is available only for glossy media types. It is not available for any of the matte media types. When the matte black cartridge is installed, the\nAdvanced B/W\nsetting is available only for matte media types.\nIf you're using the correct black ink cartridge for your media type but the\nAdvanced B/W\nsetting is still grayed out, then Do the following:\nOpen the\nHard Drive\n.\nSelect >\nApplications\n>\nUtilities\n>\nPrinter Setup Utility\n.\nSelect your printer and click\nUtility\n.\nMake sure you see the ink levels in the\nStatus Monitor\nwindow, then click\nUpdate\n.\nRestart the computer.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-64722?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-64722",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:25.272607"
+        },
+        {
+          "question": "When I print from the ColorBurst RIP, my images have vertical banding that is especially noticeable on a sky blue color. When I print from the Epson driver, this banding does not appear. What should I do?",
+          "answer": "This banding is caused by the screening and dithering pattern used by the ColorBurst RIP. To minimize this effect, follow these steps to adjust the printer:\nMake sure the printer's control panel says\nReady\n.\nPress the\nMenu\nbutton once.\nPress the down arrow button until\nCustom Paper\nis displayed.\nPress the\nMenu\nbutton twice.\nPress the up arrow button and select any paper number by pressing the\nMenu\nbutton (the actual paper number you select doesn't matter).\nPress the left arrow button once.\nPress the down arrow button until\nM/W Adj\nis displayed.\nPress the right arrow button once, press the down arrow button to select either\n1\nor\n2\n, then press the\nMenu\nbutton.\nPress the left arrow button until\nReady\nis displayed again.\nYou may have to experiment with the M/W Adjustment setting to see what provides the best results. Make sure that these settings are not selected when using the Epson driver, or your prints my contain other anomalies.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-74543?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-74543",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:26.231025"
+        },
+        {
+          "question": "What does the Remote Panel utility do?",
+          "answer": "The Remote Panel utility lets you:\nUpdate firmware\nPerform nozzle checks\nRun the bi-d and uni-d alignments/auto alignments\nPrint status sheets\nMake custom paper settings\nPerform power cleanings\nSet the printer clock\nSet media counter settings",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-64808?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-64808",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:27.205704"
+        },
+        {
+          "question": "What does the Optimize Enlargement option in my product driver do?",
+          "answer": "Select\nOptimize Enlargement\nif you are enlarging an image beyond the limits of your application program. The driver will increase the image size up to 400% and decrease the output resolution to stay within the pixel limitations. Depending on the resolution of the original image and the print size, you may see reduced quality in the print.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-64928?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-64928",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:28.309236"
+        },
+        {
+          "question": "Why should I use the Matte Black mode?",
+          "answer": "The standard Photo Black ink has been optimized for RC and photographic grade media types. If you're printing on matte-type papers such as Epson Velvet Fine Art, Enhanced Matte, or UltraSmooth Fine Art, your black density is significantly better when you use Matte Black ink (and worth the switch).",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-64815?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-64815",
+          "display_order": 20,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:29.507654"
+        },
+        {
+          "question": "Can I set the date and time on my product?",
+          "answer": "Yes. Do the following:\nPress the\nMenu\nbutton.\nPress the down arrow until\nMAINTENANCE\nis displayed.\nPress the\nMenu\nbutton.\nPress the down arrow until\nCLOCK SETTINGS\nis displayed, then press the\nMenu\nbutton.\nUse the arrow buttons to set the date and time: MM/DD/YY HH:MM.\nPress\nEnter\nto save the setting.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-64789?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-64789",
+          "display_order": 21,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:30.627064"
+        },
+        {
+          "question": "Why are only matte media types displayed in the driver's media list?",
+          "answer": "When matte black ink is installed in the printer, only matte media types are displayed in the driver list. The complete media list appears only when the photo black ink cartridge is installed.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-64826?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-64826",
+          "display_order": 22,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:31.553366"
+        },
+        {
+          "question": "How do I uninstall and reinstall my printer driver in OS X 10.8?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\n, then\nPrint & Scan\n.\nSelect your printer in the list, then click\n. Press and hold the\ncontrol\nkey on your keyboard and click anywhere on the printer list. Click\nReset Printing Systems\n. Close the open windows.\nOpen your hard drive and do the following:\nSelect\nLibrary\n>\nPrinters\n>\nInstalledPrinters.plist\n. Drag the InstalledPrinters.plist file to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nEpson\n. Drag the\nEpson\nfolder to the trash.\nSelect\nApplications\n>\nUtility\n>\nDisk Utility\n> your hard drive, then select\nRepair Disk Permissions\n. Close the open windows.\nReinstall the driver for your product.\nOpen the\nmenu, select\nSystem Preferences\n, then\nPrint & Scan\n.\nClick\n, then select your printer.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-00009dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-00009dc-shared",
+          "display_order": 23,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:32.599969"
+        },
+        {
+          "question": "How do I disable the Roll Paper Remaining feature on my printer?",
+          "answer": "Do the following on the product's control panel:\nPress the paper release button to feed paper out of the printer, if necessary.\nPress\nMenu\n.\nSelect\nPaper Setup\n, then press\n.\nSelect\nRoll Paper Remaining\n, then press\n.\nSelect\nRemaining Paper Setup\n, then press\n.\nSelect\nOff\n, then press\nOK\n.\nPress\n, then load the paper again.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-00009e0-pgg_4800_multi_9900?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-00009e0-pgg_4800_multi_9900",
+          "display_order": 24,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:33.628535"
+        },
+        {
+          "question": "How do I uninstall and reinstall my printer driver in OS X 10.6?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\n>\nPrint & Fax\n.\nSelect your printer in the list, click\n, then close the open windows.\nOpen your hard drive.\nSelect\nLibrary\n>\nPrinters\n>\nEpson\n>\ninkjet printers\n, then drag the plugin for your product to the trash. If there is no plugin for your product, drag the\nEpson\nfolder to the trash. Close the open windows.\nReinstall the driver for your product.\nOpen the\nmenu, select\nSystem Preferences\n>\nPrint & Fax\n.\nClick\n, then select your printer.\nClose the open windows.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-00009ff-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-00009ff-shared",
+          "display_order": 25,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:34.565046"
+        },
+        {
+          "question": "How do I stop the printer from printing a nozzle check pattern before every print job?",
+          "answer": "Do the following on the product's control panel:\nPress\nMenu\ntwice, then select\nAuto Nozzle Check\n.\nPress\nMenu\n, then select\nOff",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-00009e1-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-00009e1-shared",
+          "display_order": 26,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:35.519839"
+        },
+        {
+          "question": "Where can I get the latest version of the Epson Communication Driver for my printer?",
+          "answer": "Download the Communication Driver from the Downloads tab on your product's support page.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-00009fb-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-00009fb-shared",
+          "display_order": 27,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:36.475281"
+        },
+        {
+          "question": "How do I uninstall and reinstall my printer driver in OS X 10.1, 10.2, or 10.3?",
+          "answer": "Open your hard drive, then do the following:\nSelect\nApplications\n>\nUtilities\n, then double-click\nPrinter Service Utility\n. Remove all Epson Stylus Pro paper queues from the Printers List, then close the open windows.\nSelect\nLibrary\n>\nReceipts\n, then drag the\nSProXX00.xx.pkg\nfile to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nEpson\n, then drag the plugin for your product to the trash.\nSelect\nPreferences\n>\nEpson\n, then drag files related to your product to the trash.\nClose the open windows.\nReinstall the driver for your product.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-00009fe-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-00009fe-shared",
+          "display_order": 28,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:37.435669"
+        },
+        {
+          "question": "How do I uninstall and reinstall the printer driver in Windows?",
+          "answer": "Do the following:\nTurn off the product.\nDisconnect any interface cables.\nDo one of the following:\nWindows 10\n: Right click\nand select\nControl Panel\n>\nPrograms\n>\nPrograms and                             Features\n.  Select the uninstall option for your Epson                         product, then select\nUninstall/Change\n.\nNote:\nIf you                             see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto                         confirm the uninstallation.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl                             Panel\n>\nPrograms\n>\nPrograms and Features\n.  Select the uninstall                         option for your Epson product, then select\nUninstall/Change\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto                         confirm the uninstallation.\nWindows (other versions)\n: Click\nor\nStart\n, and select\nAll Programs\nor\nPrograms\n.                         Select\nEPSON\n, select your product, then click\nEPSON Printer Software Uninstall\n.\nNote:\nIf you                             see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nIn the next window, select your product and click\nOK\n. Then follow any on-screen instructions.\nRestart your computer, then see the\nStart Here\nsheet or User Guide to                 re-install your software.\nIf these instructions did not solve the problem, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-0000630-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-0000630-shared",
+          "display_order": 29,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:38.424075"
+        },
+        {
+          "question": "Do I need a raster image processor (RIP) to print from Adobe Illustrator?",
+          "answer": "For the best output, a RIP should be used. Adobe Illustrator is a postscript application that requires a RIP to translate the postscript language. The printer comes with a non-postscript driver that has difficulty translating the postscript language.\nEpson has partnered with the following manufacturers for some printers:\nColorBurst\nefi\nOnyx\nWasatch",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-00009f1-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-00009f1-shared",
+          "display_order": 30,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:39.385357"
+        },
+        {
+          "question": "Do I need a raster image processor (RIP) to print from Adobe Photoshop?",
+          "answer": "No, Adobe Photoshop is not a postscript application and does not require a RIP.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-00009f0-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-00009f0-shared",
+          "display_order": 31,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:40.385000"
+        },
+        {
+          "question": "How do I save my Epson printer driver presets so I can restore them if I reinstall the Epson printer driver in Windows?",
+          "answer": "Note:\nYou may lose some custom settings when you uninstall the printer driver.\nBefore you reinstall the printer driver, do the following:\nOpen\nFile Explorer\nor\nWindows Explorer\n.\nSelect\nThis PC\nor\nComputer\n>\nC:\ndrive >\nProgram Files\n>\nEpson\n> [your printer name].\nMove the UCI extension files to a different folder on your desktop.\nNote:\nAfter you reinstall the Epson printer driver, move the UCI extension files back to your printer's folder as described in step 2.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-00009e6-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-00009e6-shared",
+          "display_order": 32,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:41.358426"
+        },
+        {
+          "question": "How do I install the ICC profiles in Windows XP or Windows 7?",
+          "answer": "Do the following:\nDownload the ICC profiles for your printer and save them in a folder you can easily find.\nClose all open software.\nOpen\nWindows Explorer\n, then select\nComputer\n>\nC:\ndrive >\nWindows\n>\nSystem32\n>\nspool\n>\ndrivers\n>\ncolor\n.\nMove the ICC profiles into the\ncolor\nfolder, then close all open windows.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-00009E5-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-00009E5-shared",
+          "display_order": 33,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:42.293613"
+        },
+        {
+          "question": "How do I determine my printer driver version on my Mac?",
+          "answer": "Open the\nmenu and select\nSystem Preferences\nor\nSystem Settings\n>\nPrinters & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n. Your printer driver version is displayed.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-00009e4-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-00009e4-shared",
+          "display_order": 34,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:43.283103"
+        },
+        {
+          "question": "How do I manually install the Epson ICC profiles on my Mac?",
+          "answer": "Do the following:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinters2\n>\nICCProfiles\n.\nPress and hold the\ncontrol\nkey on your keyboard while you select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n, select and copy all files, then close all open windows.\nOpen your hard drive, select\nLibrary\n>\nColorSync\n>\nProfiles\n, then paste the files into this folder.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-0000b03-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-0000b03-shared",
+          "display_order": 35,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:44.258174"
+        },
+        {
+          "question": "Where are the ICC profiles located for my printer on my Mac?",
+          "answer": "Do the following to locate the files:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinter2\n>\nICCProfiles\n.\nPress and hold the\nControl\nkey on your keyboard while you click the profile package in the\nICCProfiles\nfolder. In the pop-up menu that appears, select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-00009ed-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-00009ed-shared",
+          "display_order": 36,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:45.323083"
+        },
+        {
+          "question": "My print job disappears from the Windows print queue but does not print. What should I do?",
+          "answer": "Follow the steps below:\nDo one of the following:\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your printer and select\nManage\n>\nPrinting preferences\n.\nWindows 8\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the\nUtility\ntab, then\nSpeed and Progress\n.\nSelect the\nAlways Spool RAW Datatype\nand\nCoarse Rendering\ncheckboxes, then click\nOK\n.\nNote:\nIf the\nProcessed by Printer\ncheckbox is selected, deselect it.\nTry printing again.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-00009e8-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-00009e8-shared",
+          "display_order": 37,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:46.285267"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-00004dc-shared",
+          "display_order": 38,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:47.256987"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-0000f4b-shared",
+          "display_order": 39,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:48.153525"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C595001PRO~faq-0000f4c-shared",
+          "display_order": 40,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:47.325977"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "Which Ethernet card can be used with my product?",
+          "answer": "You can use either the C12C824052 or the C12C824341 Ethernet card with the Stylus Pro 9800.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-64662?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C595001PRO~faq-64662",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:48.212753"
+        },
+        {
+          "question": "Which spectrophotometers are supported by the ColorBurst RIP software included with my product?",
+          "answer": "Your ColorBurst RIP software supports the following spectrophotometers:\nX-Rite Pulse\nX-Rite DTP470\nX-Rite DTP41\nX-Rite DTP45\nGretagMacbeth SpectroScan XY\nGretagMacbeth Eye-One\nGretagMacbeth iCColor",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-83295?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C595001PRO~faq-83295",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:49.317021"
+        },
+        {
+          "question": "Does my product stand come with my product?",
+          "answer": "Yes. The Epson Stylus Pro 9800 includes the printer stand.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-64927?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C595001PRO~faq-64927",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:50.221540"
+        },
+        {
+          "question": "Why does my 16x11-inch image print out 16x12 on a 16-inch roll?",
+          "answer": "The PC RIP is not considering the unprintable margins for the printer in its calculations. To correct this issue do the following to compensate for the unprintable margin:\nSet the\nPaper Margins\non the front panel of the printer to 3mm.\nCreate a\nPage Size\nin ColorBurst that is 1/4 inch smaller than desired on the Height.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-65609?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C595001PRO~faq-65609",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:51.158028"
+        },
+        {
+          "question": "I created a hot folder on my Mac desktop and it transferred all my desktop icons into the print queue. What is the correct way to create a hot folder?",
+          "answer": "The proper way to create a hot folder is to create a new folder on your desktop and then assign this folder as the hot folder. If you mistakenly assign the desktop as the hot folder, every icon on the desktop will be sent to the print queue on the RIP.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-65629?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C595001PRO~faq-65629",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:52.071149"
+        },
+        {
+          "question": "What are the dimensions and weight of my product?",
+          "answer": "Dimensions with stand: 46.4” (W) x 46.5” (H) x 29.3” (D)\nWeight without stand: 198.4 lb.\nStand weight: 23 lb.\nNote: The stand is included with the printer.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-64846?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C595001PRO~faq-64846",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:53.028225"
+        },
+        {
+          "question": "Is the RIP SWOP certified?",
+          "answer": "Yes. SWOP Certification applies only when printing with the included SWOP Printing Environment on Epson Premium Semi-Matte Photo Paper 250 or Epson Commercial Semi-Matte Proofing Paper.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-65670?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C595001PRO~faq-65670",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:54.095213"
+        },
+        {
+          "question": "How do I get service for my product I purchased in another country?",
+          "answer": "Please visit the appropriate Epson website by selecting the region where the printer was purchased from the\nEpson Global website\n. Due to differences in products sold in other countries, printers need to be serviced in the country of origin.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-64886?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C595001PRO~faq-64886",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:55.089670"
+        },
+        {
+          "question": "How do I replace a defective dongle?",
+          "answer": "Please contact Epson to get a replacement.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-65627?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C595001PRO~faq-65627",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:56.053946"
+        },
+        {
+          "question": "Is the RIP Pantone licensed?",
+          "answer": "The RIP is Pantone licensed and includes the complete Pantone library. To use the built-in Pantone color library, you only need to define the spot colors as actual Pantone spot colors. The RIP will automatically detect these colors and color correct them separately from RGB and CMYK data.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-65571?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C595001PRO~faq-65571",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:57.015703"
+        },
+        {
+          "question": "Which connection enables my product to operate at full speed?",
+          "answer": "All connections allow the printer to operate at full print engine speed. (The USB port must be 2.0 compatible.) Your CPU is the biggest factor in print engine speed.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-64816?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C595001PRO~faq-64816",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:58.029937"
+        },
+        {
+          "question": "Which interfaces can I use to connect my product when using ColorBurst?",
+          "answer": "In Windows, you can use a USB, IEEE 1394, or Ethernet connection. On a Macintosh, you can use a USB or Ethernet connection.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-65612?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C595001PRO~faq-65612",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:22:59.092342"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C595001PRO~faq-00004b0-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:23:00.077087"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C595001PRO~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C595001PRO~faq-0000f4a-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-9800-Professional-Edition/s/SPT_C595001PRO",
+          "fetched_at": "2026-04-02T02:23:01.260883"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

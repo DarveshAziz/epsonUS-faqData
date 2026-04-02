@@ -1,0 +1,706 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "Epson Stylus Series",
+  "model": {
+    "name": "Epson Stylus Photo R2400",
+    "sku": "SPT_C11C603011",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-0000ad0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C603011~faq-0000ad0-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:04.839880"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "You can download the latest product driver from the Downloads section of this website.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-0000afb-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C603011~faq-0000afb-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:05.751543"
+        },
+        {
+          "question": "When I try to print to my product in Windows 7, printing is slow or my product stops printing. What should I do?",
+          "answer": "Try the following:\nSelect a lower quality setting in the printer software.\nMake sure your system meets the minimum system requirements for your printer.\nClose the\nDevices and Printers\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-0000bf3-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C603011~faq-0000bf3-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:06.657690"
+        },
+        {
+          "question": "Can the Epson ink cartridges be refilled or can I use third-party ink cartridges without voiding the warranty?",
+          "answer": "Epson does not recommend refilling or using other brands of ink cartridges.  Epson uses a permanent Micro Piezo print head that has allowed Epson to lead the industry in delivering consistent photo image quality by using variable-sized droplets.  Micro Piezo print head can also use a wider variety of inks, which has allowed Epson to introduce such ink breakthroughs as DURABrite® and Epson UltraChrome® inks that offer greatly improved humidity resistance, smudge resistance, and fade resistance.\nUsing refilled ink cartridges will not void the product's original warranty; however, if these products cause a failure, the repair of that failure will not be covered under warranty.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-0000bf9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C603011~faq-0000bf9-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:07.576581"
+        },
+        {
+          "question": "I brought my product with me to a different country and can't find ink for it. What should I do?",
+          "answer": "Some Epson printers and ink cartridges are specific to a regional market and not sold worldwide, although the same printers are sold in the U.S. and Canada. If you have a printer sold in the U.S. or Canada, you may not be able to easily get ink cartridges for it in foreign markets.\nUnfortunately, because of customs and tax regulations, the Epson E-Stores in the U.S. and Canada are unable to ship to addresses outside the U.S. and Canada.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-0000956-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C603011~faq-0000956-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:08.450164"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C603011~faq-00004dc-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:09.354408"
+        },
+        {
+          "question": "Does my product support Epson Connect?",
+          "answer": "No, your product is not compatible.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-0000af9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C603011~faq-0000af9-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:10.225920"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C603011~faq-00004b0-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:11.123519"
+        },
+        {
+          "question": "How do I change the font size of text when I print from software in Windows?",
+          "answer": "You need to select the text or font size in the software you are printing from, not the printer driver. For detailed instructions, contact the company for the application you are printing from.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-00004b7-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C603011~faq-00004b7-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:12.040009"
+        },
+        {
+          "question": "Heavy coated or thick paper does not load correctly or loads skewed. What should I do?",
+          "answer": "The paper you are using may be too heavy or glossy for the paper roller to pick up. Be sure the paper is within printer specifications.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-0000b08-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C603011~faq-0000b08-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:12.943931"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "How can I improve the print speed?",
+          "answer": "See\nIncreasing the Print Speed\nin the Reference Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-59148?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C603011~faq-59148",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:13.838553"
+        },
+        {
+          "question": "When I try to print to my product in Windows 7, printing is slow or my product stops printing. What should I do?",
+          "answer": "Try the following:\nSelect a lower quality setting in the printer software.\nMake sure your system meets the minimum system requirements for your printer.\nClose the\nDevices and Printers\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-0000bf3-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C603011~faq-0000bf3-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:12.850747"
+        },
+        {
+          "question": "Does OS X support manual duplex printing with my product?",
+          "answer": "This feature is not supported in Mac OS X. However, if your printer has a built-in automatic duplexer, auto-duplexing is supported in Mac OS X 10.6 (Snow Leopard).",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-0000c1d-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C603011~faq-0000c1d-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:13.768247"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "I see a communication error when I try to print with a USB connection. What should I do?",
+          "answer": "Try the following:\nMake sure the USB cable is a shielded \"AB\" cable not more than 10 feet long.\nNote:\nDo not use devices that extend the length of the cable because they can cause signal degradation.\nIf you're using a USB hub with your printer, connect the printer directly to your computer.\nNote:\nDo not connect through a USB keyboard.  The keyboard acts like a hub and can interfere with signal transmission.\nUse a different port on your computer.\nMake sure there is no error on the printer.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-166152?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11C603011~faq-166152",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:14.656140"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11C603011~faq-00004c5-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:15.594501"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "I replaced an ink cartridge and my product shows that the same ink cartridge is expended. What should I do?",
+          "answer": "If you have just installed a new cartridge and the ink light is still flashing or on, the cartridge may be incorrectly installed.\nFollow these steps to make sure the cartridges are correctly installed:\nMake sure the printer is turned on (the power light should be on, but not flashing). Then open the printer cover.\nPress the ink button.\nThe print head moves and the  power light flashes.\nLift up the cartridge cover.\nPress in the tab on the back of the cartridge and lift it out of the printer.\nReinsert the cartridge into its slot. The side with the green circuit board goes in the front of the slot.\nPress the cartridge down until it clicks into place.\nIf you need to reinstall any other ink cartridges, repeat steps 4 through 6.\nClose the cartridge cover, press down on the top until it clicks, then close the printer cover.\nPress the ink button.\nThe printer begins charging the ink delivery system. The power and ink lights flash and the printer makes noise. Charging takes about 90 seconds. When it's finished, the power light stops flashing and stays on.\nCaution:\nNever turn off the printer while the power light is flashing, unless the printer hasn't moved or made noise for more than 5 minutes.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-132228?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C603011~faq-132228",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:16.480574"
+        },
+        {
+          "question": "I installed new ink cartridges and my product seems to be doing a long cleaning cycle. Is this normal?",
+          "answer": "When an ink cartridge is installed in the printer, the printer charges the ink system. This takes about two and a half minutes. While the ink is charging the green\npower light flashes. Never turn off the printer while the green\npower light is flashing (unless the printer hasn't moved or made noise for more than 5 minutes). This initialization is a normal and necessary process. If the printer initialization does not stop after 5 minutes, turn off the printer and contact Epson technical support for assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-59102?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C603011~faq-59102",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:17.337472"
+        },
+        {
+          "question": "The color ink cartridge is expended even though I print in black only. Why does this happen?",
+          "answer": "To keep the print head clear, the printer uses a small amount of ink from all the cartridges whenever it prints and to keep the print head primed. Even if you select\nBlack Only\n, some color ink is still being used.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-59103?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C603011~faq-59103",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:18.227564"
+        },
+        {
+          "question": "How do I replace an ink cartridge?",
+          "answer": "See\nReplacing an Ink Cartridge\nin the Reference Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-59126?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C603011~faq-59126",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:19.149937"
+        },
+        {
+          "question": "How do I know when an ink cartridge needs to be replaced?",
+          "answer": "When the ink replace light is on, the printer will require you to change the cartridge. You need to replace a cartridge when it's expended or it gets too old. See\nReplacing an Ink Cartridge\nin the Reference Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-59125?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C603011~faq-59125",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:20.022179"
+        },
+        {
+          "question": "How long should an ink cartridge remain in my product if it's not used often?",
+          "answer": "When an installed ink cartridge is more than six (6) months old, you may need to replace it if you notice that your printouts don't look as good as they used to. If print quality doesn't improve after cleaning and aligning the print head, you should replace the ink cartridges.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-59133?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C603011~faq-59133",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:20.993666"
+        },
+        {
+          "question": "Which ink cartridges should I use with my product?",
+          "answer": "Use these Epson ink cartridges within six months of installing them and before the expiration date on the package:\nInk cartridge\nPart number\nLight Light Black\nT059920\nLight Magenta\nT059620\nLight Cyan\nT059520\nLight Black\nT059720\nPhoto Black\nT059120\nMatte Black\nT059820\nCyan\nT059220\nMagenta\nT059320\nYellow\nT059420\nCaution:\nTo ensure good results, use genuine Epson ink cartridges and do not refill them. Other products may cause damage to your printer not covered by Epson's warranty.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-59135?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C603011~faq-59135",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:21.860718"
+        },
+        {
+          "question": "Can the Epson ink cartridges be refilled or can I use third-party ink cartridges without voiding the warranty?",
+          "answer": "Epson does not recommend refilling or using other brands of ink cartridges.  Epson uses a permanent Micro Piezo print head that has allowed Epson to lead the industry in delivering consistent photo image quality by using variable-sized droplets.  Micro Piezo print head can also use a wider variety of inks, which has allowed Epson to introduce such ink breakthroughs as DURABrite® and Epson UltraChrome® inks that offer greatly improved humidity resistance, smudge resistance, and fade resistance.\nUsing refilled ink cartridges will not void the product's original warranty; however, if these products cause a failure, the repair of that failure will not be covered under warranty.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-0000bf9-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C603011~faq-0000bf9-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:22.751359"
+        },
+        {
+          "question": "Can the printer still print if an ink cartridge is expended or not installed?",
+          "answer": "No. The printer will not operate if any cartridge is expended or removed. It's best to always have extra cartridges on hand.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-000051b-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C603011~faq-000051b-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:23.728836"
+        },
+        {
+          "question": "I brought my product with me to a different country and can't find ink for it. What should I do?",
+          "answer": "Some Epson printers and ink cartridges are specific to a regional market and not sold worldwide, although the same printers are sold in the U.S. and Canada. If you have a printer sold in the U.S. or Canada, you may not be able to easily get ink cartridges for it in foreign markets.\nUnfortunately, because of customs and tax regulations, the Epson E-Stores in the U.S. and Canada are unable to ship to addresses outside the U.S. and Canada.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-0000956-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C603011~faq-0000956-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:24.610524"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "How do I clean and maintain my product?",
+          "answer": "In order to keep your printer clean, it is recommended that you keep it covered when not in use.  This will prevent dust from settling inside the printer. You should not operate the printer in an excessively dusty environment.\nIf the printer should require cleaning, we recommend using a mild detergent and water with a soft cloth to wipe the outside of the printer. Do not clean any internal parts of the printer.\nTo clean the paper pick-up rollers and paper feed path, use cleaning sheets which can be purchased from the Epson Store. The cleaning sheet part number is S041150.  The cleaning sheets help correct issues related to inconsistent paper feed.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-166513?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C11C603011~faq-166513",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:25.521495"
+        },
+        {
+          "question": "How do I clean the print head nozzles on my product in OS X?",
+          "answer": "Follow the steps below:\nLoad a few sheets of plain paper in the sheet feeder.\nSelect\nApple\n>\nSystem Preferences\n>\nPrint and Fax\n> your Printer, then\nOpen Print Queue\n.\nSelect\nPrinter Setup\n>\nUtility\n>\nOpen Printer Utility\n, then\nNozzle Check\n.\nFollow the on-screen instructions to print the nozzle check pattern.\nCheck the nozzle check pattern that prints to see if there are gaps in the lines.\nIf there are no gaps, the print head is clean and you're done.\nIf there are gaps or the pattern is faint, click\nClean\nto clean the print heads.\nAfter the printer has finished cleaning, click\nConfirmation\nor\nPrint\nand another nozzle check pattern will print. If it is without any gaps or missing lines, click on\nFinish\n. Otherwise, click\nClean\n.\nIf necessary, repeat cleaning two more times. If the situation continues after three cleaning cycles, replace the affected ink cartridge(s).",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-178284?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C11C603011~faq-178284",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:31.391696"
+        },
+        {
+          "question": "How should I store my product if it's not going to be used for a long time?",
+          "answer": "Epson recommends storing the product in a cool, dry environment. See your product's documentation for recommended storage temperatures.\nCheck the ink cartridge before placing the product in storage. If the ink cartridge is very low or expended, Epson recommends replacing it with a new ink cartridge to help prevent the print head from drying out. When taking the product out of storage, check the ink cartridge again to see if it has expired. If the cartridge is expired and you experience print quality issues, you may need to replace the expired ink cartridge to improve print quality.\nMake sure to turn off the product using the power button and unplug the power cord before placing it in storage. Cover the product to protect it from dust.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-0000ac7-shared?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C11C603011~faq-0000ac7-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:32.717741"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "What paper type setting should I select when using PremierArt Water Resistant Canvas for Epson?",
+          "answer": "Ultra Premium Photo Paper Luster.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-108040?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C603011~faq-108040",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:33.906530"
+        },
+        {
+          "question": "How can I stop my product from feeding multiple pages at the same time?",
+          "answer": "See\nMultiple pages feed\nin the Reference Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-59116?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C603011~faq-59116",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:35.063766"
+        },
+        {
+          "question": "Sometimes the paper doesn't eject all the way or is wrinkled. What should I do?",
+          "answer": "See\nPaper is not ejected fully or is wrinkled\nin the Reference Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-59115?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C603011~faq-59115",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:36.174704"
+        },
+        {
+          "question": "My product won't feed paper. What should I do?",
+          "answer": "See\nPaper does not feed\nin the Reference Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-59117?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C603011~faq-59117",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:37.486718"
+        },
+        {
+          "question": "Which media type should I select for the paper type I'm using?",
+          "answer": "See\nMedia Type Settings\nin the Reference Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-59123?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C603011~faq-59123",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:38.707792"
+        },
+        {
+          "question": "What kind of paper gives the best results for high quality printing?",
+          "answer": "For the best results, we recommend using the following papers:\nEpson Premium Glossy Photo Paper\nEpson Matte Paper Heavyweight\nEpson Premium Bright White Paper\nEpson Premium Luster Photo Paper",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-59130?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C603011~faq-59130",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:39.776518"
+        },
+        {
+          "question": "Can I print on transparencies?",
+          "answer": "No.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-59128?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C603011~faq-59128",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:40.837574"
+        },
+        {
+          "question": "How do I load roll paper?",
+          "answer": "See\nLoading the roll paper\nin the Reference Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-59145?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C603011~faq-59145",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:42.101230"
+        },
+        {
+          "question": "Can I use sheet labels with my product?",
+          "answer": "Yes. Epson makes\nPhoto Quality Self Adhesive Sheets\n. To avoid paper jams, load only one sheet at a time. Also, set the\nType\nor\nMedia Type\nsetting in the printer driver to\nPhoto Quality Ink Jet Paper\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-59141?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C603011~faq-59141",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:43.205446"
+        },
+        {
+          "question": "Where should I load thick paper?",
+          "answer": "In the front manual feed slot. See\nLoading Thick Paper\nin the Reference Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-59150?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C603011~faq-59150",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:44.333169"
+        },
+        {
+          "question": "How should I handle specialty paper like fine art media?",
+          "answer": "Do the following:\nAlways use one sheet at a time.\nUse lint-free cotton gloves when handling the media.\nNever stack prints on top of each other. Use a separator sheet between prints.\nStore media flat. Never store media on its side.\nStore media in a cool, dry environment. Refer to the media specification sheet for proper temperature and humidity requirements.\nAlways follow the specific loading instructions for the media being used.\nUse the proper media type setting (EMX).\nNote:\nNon-Epson media can be optimized using custom media settings created in Epson Media Installer.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-00004B3-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C603011~faq-00004B3-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:43.532533"
+        },
+        {
+          "question": "Which Epson Professional papers do not have optical brighteners?",
+          "answer": "Hot Press Natural, Cold Press Natural, and UltraSmooth Fine Art Paper.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-0000b07-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C603011~faq-0000b07-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:44.663553"
+        },
+        {
+          "question": "Heavy coated or thick paper does not load correctly or loads skewed. What should I do?",
+          "answer": "The paper you are using may be too heavy or glossy for the paper roller to pick up. Be sure the paper is within printer specifications.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-0000b08-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C603011~faq-0000b08-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:45.961379"
+        },
+        {
+          "question": "Can the product print on CDs and DVDs?",
+          "answer": "No, this product does not support this feature.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-00004b5-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C603011~faq-00004b5-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:47.146124"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "I am printing a PostScript file and the edges of the text in my printout are not straight or the printout does not match the color shown on my monitor. What should I do?",
+          "answer": "Your product is not a PostScript printer so you may see unexpected results when printing a PostScript file. To print PostScript files in high quality, Epson recommends using a RIP software which will create a raster image from the PostScript code and then send it to your product to print.\nIf a RIP software is unavailable, you may be able to obtain high quality prints by saving and printing your document/images as a PDF file instead of a PostScript file.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-177256?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C603011~faq-177256",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:48.258409"
+        },
+        {
+          "question": "My printout has incorrect margins. What should I do?",
+          "answer": "See\nIncorrect margins\nin the Reference Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-59106?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C603011~faq-59106",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:49.373832"
+        },
+        {
+          "question": "My printouts are missing color and/or black print. What should I do?",
+          "answer": "If color or black is missing, the problem could be due to a software setting (your application may have been set to print black only) or the printer's condition. See\nIncorrect or missing colors\nfor more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-59104?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C603011~faq-59104",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:50.470143"
+        },
+        {
+          "question": "The image look inverted, as if viewed in a mirror. What should I do?",
+          "answer": "See\nInverted image\nin the Reference Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-59105?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C603011~faq-59105",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:51.535418"
+        },
+        {
+          "question": "The quality of my printed output is unacceptable. What should I do?",
+          "answer": "This problem could be due to a software setting or the printer's condition. For more information, see\nPrint Quality Problems\n.\nYou can also try applying a color management workflow to help you to obtain consistent and predictable color reproduction in your photos.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-59108?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C603011~faq-59108",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:52.668573"
+        },
+        {
+          "question": "My product is printing blank pages from Windows or my Mac. What should I do?",
+          "answer": "Try the following:\nMake sure your printer is selected in the\nPrint\nwindow (Windows) or in the\nPage Setup\nand\nPrint\nwindows (Mac OS X).\nMake sure your document doesn't have more pages than you think. Select\nPrint Preview\nfrom your application's\nFile\nmenu before printing. Then either select to print only the current page, or only those pages with text, or delete the extra pages in your document before printing.\nMake sure the paper settings in the printer software are correct for your paper size. Check the paper size, orientation, printable area, and layout settings to make sure they're correct for your paper size.\nIf these suggestions don't help, the print head nozzles may be clogged. Run the printer's\nAuto Nozzle Check and Cleaning utility\nto solve the problem.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-59110?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C603011~faq-59110",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:53.894316"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "The print head nozzles may be clogged. See\nCleaning the Print Head\nin the Reference Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-59114?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C603011~faq-59114",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:54.955476"
+        },
+        {
+          "question": "My product sounds as though it is printing, but nothing prints. What should I do?",
+          "answer": "The print head nozzles may be clogged. Try\ncleaning the print head\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-59113?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C603011~faq-59113",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:56.095485"
+        },
+        {
+          "question": "Web pages don't print the way they appear on my monitor. What should I do?",
+          "answer": "The pages may not print correctly due to the web page design. Try the following:\nCheck for a\nPrinter-friendly Version\n(or similarly named) option on the web page.\nChange the page setup and paper size settings, and select the preview option in your browser to check the changes before you print.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-00004b8-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C603011~faq-00004b8-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:57.283436"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "Why can't I find the media type in the drop-down menu after I downloaded the ICC profiles?",
+          "answer": "An ICC profile is a file that describes how a particular device reproduces color. The profiles downloaded  from the Epson website do not change the quality settings in the driver (Text/Image, Photo, Best Photo, Photo RPM). The profiles are used in an application such as Photoshop to produce colors more accurately, so they stay consistent when printed.  When profiles are used properly, they serve to convert RGB values to CMYK and vice versa. The media types in the printer driver drop-down list do not change. If the media you are using is not listed, select the media type that is closest to the media you are printing on for best results. It is also recommended that you check the Paper section in the Epson support site for changes in media type names.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-178328?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C603011~faq-178328",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:58.404490"
+        },
+        {
+          "question": "Can my product be set up to print in black by default instead of color?",
+          "answer": "Yes. The printer supports the Color Management setting\nAdvanced B&W Photo\n, which lets you print high-quality black-and-white photos. This setting is available if a Photo Black or Matte Black ink cartridge is installed and you select a compatible media type and print quality setting.\nNote:\nIf you plan to switch the black ink cartridge from one type to another, switch the cartridge before you open your printing software. If you open an image in software and then switch the black ink cartridge, the printer driver may display invalid settings.\nThe following tables show when the\nAdvanced B&W Photo\nsetting is supported:\nMatte Black (T054820)\nPaper\nPrint Quality\nDouble-Sided Matte Paper\nBest Photo\nEnhanced Matte Paper\nBest Photo\nMatte Paper-Heavyweight\nBest Photo\nUltraSmooth Fine Art Paper\nBest Photo\nVelvet Fine Art Paper\nBest Photo\nPhoto\nWatercolor Paper-Radiant White\nBest Photo\nPhoto\nPhoto Black (T054120)\nPaper\nPrint Quality\nPremium Glossy Photo Paper\nBest Photo\nPhoto RPM\nPremium Luster Photo Paper\nBest Photo\nPhoto RPM\nPremium Semigloss Photo Paper\nBest Photo\nPhoto RPM\nDo the following to change the setting:\nWindows\nFor Windows XP, click\nStart\n>\nPrinters and Faxes\n.\nFor Windows 2000, click\nStart\n>\nSettings\n>\nPrinters\n.\nClick the\nMain tab\n, and then click\nAdvanced\n.\nSelect\nSheet\nas the Source setting when feeding paper into the sheet feeder. Select\nManual - Roll\nas the source setting when feeding paper into the rear manual feed slot.\nSelect the appropriate\nPaper Type\nsetting.\nSelect\nAdvanced B&W Photo\n.\nMacintosh OS X\nClick\nPage Setup\non the File menu of your application.\nSelect\nStylus Photo R2400\nas the Format for setting.\nSelect the appropriate\nPaper Size\nand\nOrientation\nsettings.\nClick\nOK\nto close the Page Setup dialog box.\nClick\nPrint\non the File menu of your application.\nSelect\nStylus Photo R2400\nas the Printer setting.\nSelect\nPrint Settings\nfrom the pop-up menu.\nSelect the appropriate\nMedia Type\nand\nPrint Quality\nsettings, and then select\nAdvanced B&W Photo\nas the Color setting.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-59122?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C603011~faq-59122",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:21:59.523688"
+        },
+        {
+          "question": "How do I select the print resolution in the Windows software?",
+          "answer": "Rather than selecting the print resolution in the driver, you select one of the following types of documents; then the resolution is automatically selected depending on the paper type you choose to print on:\nDraft\n: For rough drafts with reduced print quality\nText\n: For text-only documents with higher text quality\nText & Image\n: For documents with text and images with higher quality\nPhoto\n: For photos and graphics with good quality and speed\nBest Photo\n: For photos or graphics with high print quality",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-59121?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C603011~faq-59121",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:22:00.651568"
+        },
+        {
+          "question": "Can my product be networked?",
+          "answer": "Yes. Follow the steps below for your operating system.\nNote:\nThe following instructions are for small network users only. If you're on a large network and would like to share your printer, consult your network administrator.\nTo install software programs in Windows XP, it's necessary to log on with a Computer Administrator account. You cannot install software programs if you log on as a Limited account user. After you install Windows XP, the user account is set as a Computer Administrator account.\nTo install software programs in Windows 2000, it's necessary to log on as a user with administrative privileges (a user who belongs to the Administrators group.)\nWindows XP and 2000\nFirst, set up your printer as a shared printer.\nFor Windows XP, click\nStart\n>\nPrinters and Faxes\n.\nFor Windows 2000, click\nStart\n>\nSettings\n>\nPrinters\n.\nRight-click the icon for your printer, then click\nSharing\n.\nSelect\nShare this printer\n, then type a name for the shared printer. Do not use spaces or hyphens in the printer name.\nIf you want Windows XP or 2000 to automatically download printer drivers for computers that are running different versions of Windows, click\nAdditional Drivers\nand select the environment and the operating systems for the other computers. Click\nOK\n, then insert the printer software CD into the CD-ROM drive.\nClick\nOK\n, or click\nClose\nif you installed additional drivers.\nNext, add the printer to each computer that will access it through the network.\nNote:\nYour printer must be set up as a shared resource on the computer to which it is directly connected before you can access it from another computer.\nFor Windows XP, click\nStart\n>\nPrinters and Faxes\n.\nFor Windows 2000, click\nStart\n>\nSettings\n>\nPrinters\n.\nDouble-click the\nAdd Printer\nicon. The Add Printer Wizard appears.\nClick\nNext\n.\nSelect\nNetwork printer\n, then click\nNext\n.\nOn the next screen, click\nNext\n.\nDouble-click the icon of the computer that is directly connected to the printer. Then, click the icon for the appropriate printer.\nClick\nNext\nand follow the on-screen instructions.\nNote:\nDepending on the operating system and the configuration of the computer to which the printer is connected, the Add Printer Wizard may prompt you to install the printer driver from the printer software CD-ROM. In this case, click the\nHave Disk\nbutton and follow the on-screen instructions.\nTo monitor the status of a shared printer, EPSON Status Monitor 3 must be installed on each computer. It is automatically installed when you install the printer software for the first time.\nMac OS X\nTo share the printer with other Mac OS X 10.2.x or 10.3.x computers on a network, follow the steps below to configure the computer that it is directly connected to.\nTurn on the printer.\nSelect\nSystem Preferences\nfrom the Apple menu and click the\nSharing\nicon.\nClick the checkbox next to\nPrinter Sharing\nand close System Preferences.\nFollow the steps in this section to access the printer from other Macintosh OS X 10.2.x or 10.3.x computers on the network.\nTurn on the shared printer and computer that is sharing it.\nPrint as you normally would, choosing the printer from the Shared Printers list that appears in the Page Setup and Print menus.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-59136?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C603011~faq-59136",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:22:01.820356"
+        },
+        {
+          "question": "Does my product support Epson Connect?",
+          "answer": "No, your product is not compatible.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-0000af9-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C603011~faq-0000af9-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:22:02.924793"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "You can download the latest product driver from the Downloads section of this website.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-0000afb-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C603011~faq-0000afb-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:22:04.003601"
+        },
+        {
+          "question": "How do I change the font size of text when I print from software in Windows?",
+          "answer": "You need to select the text or font size in the software you are printing from, not the printer driver. For detailed instructions, contact the company for the application you are printing from.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-00004b7-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C603011~faq-00004b7-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:22:05.280237"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C603011~faq-00004dc-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:22:06.361026"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C603011~faq-0000f4b-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:22:07.516962"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C603011~faq-0000f4c-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:22:09.607491"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Wireless or Wired Connection",
+      "section_id": "8796127635532",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-0000ad0-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11C603011~faq-0000ad0-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:22:10.543924"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 9,
+      "faqs": [
+        {
+          "question": "When printing in Windows, how can I prevent an extra page from being ejected after every print job?",
+          "answer": "The Separator Page function may be enabled. Follow these steps to disable it:\nClick\nStart\nor\n.\nDo one of the following:\nWindows XP\n:\nSelect\nPrinters and Faxes\n(or select\nSettings\n, then select\nPrinters and Faxes\n).\nWindows Vista\n:\nSelect\nControl Panel\n, then\nPrinter\nor\nPrinters\nunder Hardware and Sound\n.\nWindows 7\n:\nSelect\nControl Panel\n, then\nView Devices and Printers\nunder Hardware and Sound.\nIn the\nPrinters\nor\nPrinters and Faxes\nwindow, right-click on your printer's name.\nSelect\nProperties\n, click the Advanced tab, then press the\nSeparator Page\nbutton.\nIn the Separator Page window, delete the information in the text box and then click\nOK\n.\nClick\nOK\nagain.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-134293?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C603011~faq-134293",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:22:11.539686"
+        },
+        {
+          "question": "Is there a test to determine if a problem is caused by my product?",
+          "answer": "Yes. You can\nRun a printer operation check\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-59111?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C603011~faq-59111",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:22:12.460066"
+        },
+        {
+          "question": "How should I transport my product?",
+          "answer": "See\nTransporting the Printer\nin the Reference Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-59131?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C603011~faq-59131",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:22:13.371009"
+        },
+        {
+          "question": "The green  power light is on, but nothing prints. What should I do?",
+          "answer": "The problem could be due to the cabling, software settings, or the printer's condition. Try the following to fix the problem.\nCheck the cabling\nMake sure the printer cable is securely connected to the printer and to your computer and check that the cable is not damaged or badly crimped.\nThe printer will not be recognized during the driver installation if connected to a printer switch. If this is the case, directly connect the printer to your computer using the USB,  IEEE 1394 (Windows) or FireWire (Macintosh) cable.\nIf you're connecting the printer to your computer via a USB hub, connect the printer to the first-tier hub from your computer. If the printer driver is still not recognized on your computer, try to directly connect the printer to your computer without the USB hub.\nIf you're connecting the printer to your computer via a USB hub, make sure the USB hub device is recognized by your computer.\nIf you're using the USB interface, use a Revision 1.1 or 2.0 cable.\nIf you're using a FireWire interface, make sure its IEEE 1394 Host Controllers are OHCI compliant.\nCheck the software\nIf you're using Windows, make sure your operating system provides USB or IEEE 1394 support. See\nDoes your computer provide USB or IEEE 1394 support?\nin the Reference Guide for more information.\nIf you're using a Macintosh, make sure the printer driver was added in the Print Center or Printer Setup Utility menu before printing. See\nSetup for Mac OS X\nin the Reference Guide for more information.\nMake sure that the printer is selected in your application software.\nTry reducing the image resolution or size of your document in the application software. If you can print the reduced image, your computer system's memory was probably too small to handle the volume of data in your document. You may need to install more memory in your computer to print the larger document.\nCheck the printer\nRun a printer operation check\nto see if a check page will print.\nIf the check page prints, the problem is probably not the printer.\nIf the check page does not print, see\nError indicators\nin the Reference Guide to check if the printer's control panel indicates a problem. This section will provide solutions for printer control panel errors.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-59257?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C603011~faq-59257",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:22:14.293223"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C603011~faq-00004b0-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:22:15.266185"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11C603011~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C603011~faq-0000f4a-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2400/s/SPT_C11C603011",
+          "fetched_at": "2026-04-02T01:22:14.363228"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Impact Printers",
+  "series": "LQ Series",
+  "model": {
+    "name": "Epson LQ-1010",
+    "sku": "SPT_C023021",
+    "url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-1010/s/SPT_C023021"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "The paper feed knob broke. What should I do?",
+          "answer": "This is usually caused by incorrectly using the paper feed knob to adjust the paper position when the printer is turned on.\nTo prevent this problem the printer's paper feed, form feed or alignment buttons should be used.\nYou can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C023021~faq-000096c-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C023021~faq-000096c-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-1010/s/SPT_C023021",
+          "fetched_at": "2026-04-02T05:10:04.112440"
+        },
+        {
+          "question": "Two pages print for each page I print. What should I do?",
+          "answer": "If you're using single sheets you need to make sure the software is set up for either single sheet paper or 61 lines per page otherwise it will print a few lines on a second page if the document is over 61 lines.\nSome older DOS software may not have those settings if it is designed to be used only with tractor feed paper. For Windows software, make sure to select Sheet Feeder bin 1 for your paper source in Printer setup.",
+          "faq_url": "https://epson.com/faq/SPT_C023021~faq-000096e-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C023021~faq-000096e-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-1010/s/SPT_C023021",
+          "fetched_at": "2026-04-02T05:10:05.063851"
+        },
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C023021~faq-000096d-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C023021~faq-000096d-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-1010/s/SPT_C023021",
+          "fetched_at": "2026-04-02T05:10:05.958190"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C023021~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C023021~faq-00004b0-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-1010/s/SPT_C023021",
+          "fetched_at": "2026-04-02T05:10:07.105339"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C023021~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C023021~faq-00004dc-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-1010/s/SPT_C023021",
+          "fetched_at": "2026-04-02T05:10:08.075443"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Some video drivers may cause a conflict in memory between the printerdriver and video memory. Try changing to the Windows video driver provided by Microsoft or check to see if the video card manufacturer has an updated video driver available. This is often the cause of strange printing problems such as missing characters or lines through the printed document.\nBroken printhead pins may also cause this problem. If the problem continues when performing the printer's self test then the printhead is most likely the problem. This would need to be serviced by an Epson authorized repair center.",
+          "faq_url": "https://epson.com/faq/SPT_C023021~faq-49869?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C023021~faq-49869",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-1010/s/SPT_C023021",
+          "fetched_at": "2026-04-02T05:10:08.981363"
+        },
+        {
+          "question": "What settings do the DIP switches control?",
+          "answer": "The LQ-1010/AP-4500 has two 8-position DIP switches. These switches are\nlocated at the panel of the printer under a small access door.\nCountry\nSW 1-1\nSW 1-2\nSW 1-3\nUSA\nON\nON\nON\nFrance\nON\nON\nOFF\nGermany\nON\nOFF\nON\nUnited Kingdom\nON\nOFF\nOFF\nDenmark\nOFF\nON\nON\nSweden\nOFF\nON\nOFF\nItaly\nOFF\nOFF\nON\nSpain\nOFF\nOFF\nOFF\nFont\nSW 1-4\nSW 1-5\nRoman\nOFF\nOFF\nSan Serif\nON\nOFF\nSlot\nOFF\nON\nDraft\nON\nON\nSwitch\nON\nOFF\nSW 1-6\nCondensed\nNormal\nSW 1-7\nGraphic Characters\nItalic Characters\nSW 1-8\nCSF Enabled\nCSF Disabled\nSW 2-1\n12\" Page Length\n11\" Page Length\nSW 2-2\nTear Off Mode ON\nTear Off Mode OFF\nSW 2-3\n1\" Skip over erf\nSkip over Perf Inactive\nSW 2-4\nCR Produces CR + LF\nCR Only\nSW 2-5\n8K Input Buffer\n1K Input Buffer\nUser-Defined\nUser-Defined\nCharacters Disabled\nCharacters Enabled\nSW 2-6\nBidirectional Graphics\nUnidirectional Graphics\nCharacter Pitch\nSW 2-7\nSW 2-8\n10 Pitch\nOFF\nOFF\n12 Pitch\nON\nOFF\n15 Pitch\nOFF\nON\nProportional\nON\nON\nNote:\nUnidirectional graphics is the printer default. Placing switch 2-6 in the ON position allows selection of Bidirectional graphics after an ESC U O is sent.",
+          "faq_url": "https://epson.com/faq/SPT_C023021~faq-50167?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C023021~faq-50167",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-1010/s/SPT_C023021",
+          "fetched_at": "2026-04-02T05:10:09.957735"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Two pages print for each page I print. What should I do?",
+          "answer": "If you're using single sheets you need to make sure the software is set up for either single sheet paper or 61 lines per page otherwise it will print a few lines on a second page if the document is over 61 lines.\nSome older DOS software may not have those settings if it is designed to be used only with tractor feed paper. For Windows software, make sure to select Sheet Feeder bin 1 for your paper source in Printer setup.",
+          "faq_url": "https://epson.com/faq/SPT_C023021~faq-000096e-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C023021~faq-000096e-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-1010/s/SPT_C023021",
+          "fetched_at": "2026-04-02T05:10:10.855676"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "The paper feed knob broke. What should I do?",
+          "answer": "This is usually caused by incorrectly using the paper feed knob to adjust the paper position when the printer is turned on.\nTo prevent this problem the printer's paper feed, form feed or alignment buttons should be used.\nYou can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C023021~faq-000096c-shared?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C023021~faq-000096c-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-1010/s/SPT_C023021",
+          "fetched_at": "2026-04-02T05:10:11.759790"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Some video drivers may cause a conflict in memory between the printerdriver and video memory. Try changing to the Windows video driver provided by Microsoft or check to see if the video card manufacturer has an updated video driver available. This is often the cause of strange printing problems such as missing characters or lines through the printed document.\nBroken printhead pins may also cause this problem. If the problem continues when performing the printer's self test then the printhead is most likely the problem. This would need to be serviced by an Epson authorized repair center.",
+          "faq_url": "https://epson.com/faq/SPT_C023021~faq-49869?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C023021~faq-49869",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-1010/s/SPT_C023021",
+          "fetched_at": "2026-04-02T05:10:11.051752"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "What settings do the DIP switches control?",
+          "answer": "The LQ-1010/AP-4500 has two 8-position DIP switches. These switches are\nlocated at the panel of the printer under a small access door.\nCountry\nSW 1-1\nSW 1-2\nSW 1-3\nUSA\nON\nON\nON\nFrance\nON\nON\nOFF\nGermany\nON\nOFF\nON\nUnited Kingdom\nON\nOFF\nOFF\nDenmark\nOFF\nON\nON\nSweden\nOFF\nON\nOFF\nItaly\nOFF\nOFF\nON\nSpain\nOFF\nOFF\nOFF\nFont\nSW 1-4\nSW 1-5\nRoman\nOFF\nOFF\nSan Serif\nON\nOFF\nSlot\nOFF\nON\nDraft\nON\nON\nSwitch\nON\nOFF\nSW 1-6\nCondensed\nNormal\nSW 1-7\nGraphic Characters\nItalic Characters\nSW 1-8\nCSF Enabled\nCSF Disabled\nSW 2-1\n12\" Page Length\n11\" Page Length\nSW 2-2\nTear Off Mode ON\nTear Off Mode OFF\nSW 2-3\n1\" Skip over erf\nSkip over Perf Inactive\nSW 2-4\nCR Produces CR + LF\nCR Only\nSW 2-5\n8K Input Buffer\n1K Input Buffer\nUser-Defined\nUser-Defined\nCharacters Disabled\nCharacters Enabled\nSW 2-6\nBidirectional Graphics\nUnidirectional Graphics\nCharacter Pitch\nSW 2-7\nSW 2-8\n10 Pitch\nOFF\nOFF\n12 Pitch\nON\nOFF\n15 Pitch\nOFF\nON\nProportional\nON\nON\nNote:\nUnidirectional graphics is the printer default. Placing switch 2-6 in the ON position allows selection of Bidirectional graphics after an ESC U O is sent.",
+          "faq_url": "https://epson.com/faq/SPT_C023021~faq-50167?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C023021~faq-50167",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-1010/s/SPT_C023021",
+          "fetched_at": "2026-04-02T05:10:11.995765"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C023021~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C023021~faq-00004dc-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-1010/s/SPT_C023021",
+          "fetched_at": "2026-04-02T05:10:13.048544"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C023021~faq-000096d-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C023021~faq-000096d-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-1010/s/SPT_C023021",
+          "fetched_at": "2026-04-02T05:10:13.991272"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C023021~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C023021~faq-00004b0-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-1010/s/SPT_C023021",
+          "fetched_at": "2026-04-02T05:10:14.906400"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

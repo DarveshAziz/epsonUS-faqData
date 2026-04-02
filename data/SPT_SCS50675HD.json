@@ -1,0 +1,1023 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "SureColor Series",
+  "model": {
+    "name": "Epson SureColor S50675 High Production Edition",
+    "sku": "SPT_SCS50675HD",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "How do I determine my printer driver version on my Mac?",
+          "answer": "Open the\nmenu and select\nSystem Preferences\nor\nSystem Settings\n>\nPrinters & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n. Your printer driver version is displayed.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-00009e4-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCS50675HD~faq-00009e4-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:38:30.263033"
+        },
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-00009e9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCS50675HD~faq-00009e9-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:38:32.402980"
+        },
+        {
+          "question": "My print job disappears from the Windows print queue but does not print. What should I do?",
+          "answer": "Follow the steps below:\nDo one of the following:\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your printer and select\nManage\n>\nPrinting preferences\n.\nWindows 8\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the\nUtility\ntab, then\nSpeed and Progress\n.\nSelect the\nAlways Spool RAW Datatype\nand\nCoarse Rendering\ncheckboxes, then click\nOK\n.\nNote:\nIf the\nProcessed by Printer\ncheckbox is selected, deselect it.\nTry printing again.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-00009e8-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCS50675HD~faq-00009e8-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:38:33.549456"
+        },
+        {
+          "question": "Where are the ICC profiles located for my printer on my Mac?",
+          "answer": "Do the following to locate the files:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinter2\n>\nICCProfiles\n.\nPress and hold the\nControl\nkey on your keyboard while you click the profile package in the\nICCProfiles\nfolder. In the pop-up menu that appears, select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-00009ed-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCS50675HD~faq-00009ed-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:38:34.448787"
+        },
+        {
+          "question": "I see the message Communication Error when I use a USB connection. What should I do?",
+          "answer": "Do the following:\nDelete all print jobs in the print queue.\nTurn the printer off.\nNote:\nMake sure the USB cable is connected correctly.\nRestart your computer. When the desktop appears, turn your printer on and follow the on-screen instructions.\nNote:\nIf the problem continues, turn the printer off again and delete the printer in the list of printers. Then disconnect the USB cable from the printer and connect it again.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-00009ea-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCS50675HD~faq-00009ea-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:38:35.452985"
+        },
+        {
+          "question": "How do I save my Epson printer driver presets so I can restore them if I reinstall the Epson printer driver in Windows?",
+          "answer": "Note:\nYou may lose some custom settings when you uninstall the printer driver.\nBefore you reinstall the printer driver, do the following:\nOpen\nFile Explorer\nor\nWindows Explorer\n.\nSelect\nThis PC\nor\nComputer\n>\nC:\ndrive >\nProgram Files\n>\nEpson\n> [your printer name].\nMove the UCI extension files to a different folder on your desktop.\nNote:\nAfter you reinstall the Epson printer driver, move the UCI extension files back to your printer's folder as described in step 2.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-00009e6-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCS50675HD~faq-00009e6-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:38:36.428401"
+        },
+        {
+          "question": "How do I install the ICC profiles in Windows XP or Windows 7?",
+          "answer": "Do the following:\nDownload the ICC profiles for your printer and save them in a folder you can easily find.\nClose all open software.\nOpen\nWindows Explorer\n, then select\nComputer\n>\nC:\ndrive >\nWindows\n>\nSystem32\n>\nspool\n>\ndrivers\n>\ncolor\n.\nMove the ICC profiles into the\ncolor\nfolder, then close all open windows.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-00009E5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCS50675HD~faq-00009E5-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:38:37.727303"
+        },
+        {
+          "question": "I see horizontal or vertical lines in my printout. What should I do?",
+          "answer": "Perform a nozzle check from the printer's control panel or the Epson printer driver, then do one of the following:\nIf there are gaps in the nozzle check pattern, clean the print head nozzles.\nIf there are no gaps in the nozzle check pattern, try the solutions below.\nHorizontal Banding\nIncrease the print resolution.\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nSelect an alternate paper profile for ink coverage.\nSelect the correct paper type in the printer driver.\nAdjust the paper feed\nVertical Banding\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nAlign the print head.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-00009eb-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCS50675HD~faq-00009eb-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:38:38.737466"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-00004c5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCS50675HD~faq-00004c5-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:38:39.713050"
+        },
+        {
+          "question": "Which Epson paper type setting should I select for Legacy paper?",
+          "answer": "See the table below.\nLegacy Paper\nEpson Paper Type Setting\nBaryta\nPremium Luster Photo Paper\nPlatine\nPremium Luster Photo Paper\nFibre\nWatercolor Paper – Radiant White\nEtching\nWatercolor Paper – Radiant White",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-00009EC-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCS50675HD~faq-00009EC-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:38:40.671453"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "I see a Media Mismatch message in Rip-Queue. What should I do?",
+          "answer": "Click\nChange in RIP Queue\nin the RIP software, then select the media settings that match your print job.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276725?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SCS50675HD~faq-276725",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:38:41.588978"
+        },
+        {
+          "question": "I get a feed error after I load the media. What should I do?",
+          "answer": "Make sure the roll type (in or out) is set properly; there should be sufficient tension, and all the rollers should engage correctly.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276727?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SCS50675HD~faq-276727",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:38:42.514882"
+        },
+        {
+          "question": "I see a Roll Type message. What should I do?",
+          "answer": "Unload the media, select\nMedia Setup\n>\nCustom Settings\n, then select the media you're loading. Select\nRoll Type\n, then\nPrintable Side In\nor\nPrintable Side Out\n.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276728?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SCS50675HD~faq-276728",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:38:43.525893"
+        },
+        {
+          "question": "I see the message Communication Error when I use a USB connection. What should I do?",
+          "answer": "Do the following:\nDelete all print jobs in the print queue.\nTurn the printer off.\nNote:\nMake sure the USB cable is connected correctly.\nRestart your computer. When the desktop appears, turn your printer on and follow the on-screen instructions.\nNote:\nIf the problem continues, turn the printer off again and delete the printer in the list of printers. Then disconnect the USB cable from the printer and connect it again.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-00009ea-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SCS50675HD~faq-00009ea-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:38:44.528780"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SCS50675HD~faq-00004c5-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:38:45.676248"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "Can I use third-party ink?",
+          "answer": "To ensure printer reliability, color consistency, and image quality, we recommend that you use genuine Epson inks only.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276656?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCS50675HD~faq-276656",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:38:47.092051"
+        },
+        {
+          "question": "Are the white and silver ink cartridges included with my product?",
+          "answer": "No, they are optional.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276660?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCS50675HD~faq-276660",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:38:48.005174"
+        },
+        {
+          "question": "Are different-sized ink cartridges available?",
+          "answer": "The printer supports only one ink size for color cartridges, white cartridges, and silver cartridges: 700 ml for color, 600 ml for white, and 350 ml for silver.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276643?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCS50675HD~faq-276643",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:38:48.899753"
+        },
+        {
+          "question": "Are ink cartridges included with my product?",
+          "answer": "You'll need to purchase the Ink Starter Pack (part number GS2INK4H). The pack includes a full set of ink cartridges and cleaning cartridges. The number of cartridges included will depend on your printer's color configuration. The printer is designed to be used exclusively with specially-formulated Epson inks and not with other brands of cartridges or ink.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276644?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCS50675HD~faq-276644",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:38:49.801233"
+        },
+        {
+          "question": "After using Orange Plus ink, can I revert to using orange ink?",
+          "answer": "Reverting to using Orange ink is not recommended once the upgrade to Orange Plus ink has been completed.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276652?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCS50675HD~faq-276652",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:38:50.758471"
+        },
+        {
+          "question": "How long does an ink circulation take?",
+          "answer": "An ink circulation takes about 10-15 minutes. We recommend that you do a manual circulation at the beginning of each day to prevent the printer from performing an ink circulation while you print.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276701?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCS50675HD~faq-276701",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:38:51.679148"
+        },
+        {
+          "question": "Is there any nickel in the yellow ink?",
+          "answer": "No. The UltraChrome GS2 and UltraChrome GSX inks do not contain nickel.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276651?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCS50675HD~faq-276651",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:38:52.678655"
+        },
+        {
+          "question": "Can I turn off the white and silver ink if I decide I no longer want to use it?",
+          "answer": "Yes. You'll need to have an Epson technician perform this task.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276659?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCS50675HD~faq-276659",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:38:53.761932"
+        },
+        {
+          "question": "How do I upgrade from Orange ink to Orange Plus ink?",
+          "answer": "Press the\nmaintenance button, select\nChange Orange Ink\n, then follow the on-screen instructions.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276653?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCS50675HD~faq-276653",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:38:54.669101"
+        },
+        {
+          "question": "What is in the Ink Starter Pack?",
+          "answer": "The pack includes one cartridge of each color and a full set of cleaning cartridges specific to the color configuration of your printer (CMYK, CMYKW, etc.).",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276655?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCS50675HD~faq-276655",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:38:55.580343"
+        },
+        {
+          "question": "What do I need to upgrade from Orange ink to Orange Plus ink?",
+          "answer": "You need the following:\nCartridge\nPart Number\nQuantity\nCleaning\nT699000\n2\nYellow\nT715400\n1\nOrange Plus\nT715900\n1",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276654?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCS50675HD~faq-276654",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:38:56.630947"
+        },
+        {
+          "question": "I can't shake the white or silver ink cartridges for a week. What should I do?",
+          "answer": "We recommend that you perform pre-storage maintenance. See\nNotes When Not Using the Printer\nfor more information.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276647?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCS50675HD~faq-276647",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:38:57.775936"
+        },
+        {
+          "question": "Can I use the same ink cartridges in all Epson SureColor products?",
+          "answer": "No. The S30675 and the S50675 use the same ink cartridges, but the S70675 uses a different set of ink cartridges.\nNote:\nThe S50675 and S70675 use the same white ink cartridges only.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276642?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCS50675HD~faq-276642",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:38:58.738319"
+        },
+        {
+          "question": "What are the benefits of the ink not containing nickel?",
+          "answer": "Please see the\nNickel Compounds\npage at the EPA's (United States Environmental Protection Agency) website for more information.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276650?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCS50675HD~faq-276650",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:38:59.696455"
+        },
+        {
+          "question": "How do I give the ink more time to dry before it goes through the take-up reel?",
+          "answer": "Press the\nMenu\nbutton, select\nMedia Setup\n>\nCustomize Settings\n. Select your media,\nHeater & Drying\n>\nDry Time Per Pass\n. Increase the fixed amount of time for the print head to pause between passes.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276649?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCS50675HD~faq-276649",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:00.614389"
+        },
+        {
+          "question": "How long will the cartridges last in the box?",
+          "answer": "The cartridges are good for 2 years from the manufacture date when the box is sealed. After you open the cartridges, they should be used within 6 months to assure optimal quality.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276648?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCS50675HD~faq-276648",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:01.529487"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "How do I perform a cleaning during a print job?",
+          "answer": "Press the\nmaintenance button. The printer pauses and performs a cleaning.\nNote:\nIf the printer pauses for a few seconds during a print job, a print quality issue may occur; the issue will depend on the media you use.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276707?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SCS50675HD~faq-276707",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:00.703927"
+        },
+        {
+          "question": "Can I perform an ink circulation manually?",
+          "answer": "Yes. The white and silver inks circulations can be performed manually. The option is on the printer's control panel.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276703?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SCS50675HD~faq-276703",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:01.688225"
+        },
+        {
+          "question": "How much cleaning fluid do the cleaning cartridges use during initialization?",
+          "answer": "Approximately 100 ml.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276712?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SCS50675HD~faq-276712",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:02.693714"
+        },
+        {
+          "question": "What is included in the Epson maintenance kit?",
+          "answer": "It includes the following:\nGloves x2\nInstruction manual\nLarge cleaning sticks\nReplacement flushing pads x2\nReplacement wipers x2\nReplacement wiper cleaners x2\nT-Wiper",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276718?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SCS50675HD~faq-276718",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:03.682291"
+        },
+        {
+          "question": "When should I perform a head washing or single channel washing?",
+          "answer": "Perform a head washing only if nozzles are still clogged after several head cleaning cycles and a manual head maintenance have been performed. The head washing process should be your last resort; it requires cleaning cartridges and uses a significant amount of ink.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276720?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SCS50675HD~faq-276720",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:04.569907"
+        },
+        {
+          "question": "How do I perform a media feed adjustment while printing is in progress?",
+          "answer": "Press the printer's\nup or\ndown buttons (media feed buttons) while you print; you'll be able to adjust the feed by 5%. This is useful if you see banding on a print; however, it may cause registration issues.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276708?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SCS50675HD~faq-276708",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:05.581002"
+        },
+        {
+          "question": "How should I clean ink off of the rollers?",
+          "answer": "Generously soak a large cleaning stick from the maintenance kit in ink cleaning solution, then clean the affected rollers by vigorously rubbing around the top and bottom.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276714?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SCS50675HD~faq-276714",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:06.512239"
+        },
+        {
+          "question": "When should I use the manual feed adjustment?",
+          "answer": "You should use the adjustment only when an automatic media feed adjustment fails or print quality is not acceptable.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276723?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SCS50675HD~faq-276723",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:07.413368"
+        },
+        {
+          "question": "What benefit does the optional dryer (standard on S50675) provide?",
+          "answer": "It ensures that your prints are dry by the time they reach the end of the after heater.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276717?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SCS50675HD~faq-276717",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:08.444020"
+        },
+        {
+          "question": "When should I replace the wipers, flushing pads, and wiper cleaners included in my maintenance kit?",
+          "answer": "It depends on how much you use your printer. Replace them as necessary or at least every 3-6 months.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276722?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SCS50675HD~faq-276722",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:09.381741"
+        },
+        {
+          "question": "When should I perform a light, medium, or heavy cleaning?",
+          "answer": "It depends on the results of your nozzle check. Perform a light cleaning when only a few nozzles are clogged, a medium cleaning when multiple nozzles are clogged, and a heavy cleaning when a whole channel is out.\nSee\nHead cleaning\nin the User's Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276721?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SCS50675HD~faq-276721",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:14.711132"
+        },
+        {
+          "question": "How often should I shake the cartridges?",
+          "answer": "It is required that you shake the white and silver cartridges once a day; the printer's control panel will notify you. We recommend that you shake all other cartridges at least once a week to ensure color consistency.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276646?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SCS50675HD~faq-276646",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:16.863456"
+        },
+        {
+          "question": "What are the ruler-like marks on the heater and the rear of my product?",
+          "answer": "They are visual guides that'll help you to determine if the media is not properly aligned or if it's skewed when it feeds through the printer.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276716?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SCS50675HD~faq-276716",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:17.948619"
+        },
+        {
+          "question": "How much cleaning fluid do the cleaning cartridges use during cleaning?",
+          "answer": "Approximately 125 ml. You should be able to use the cleaning cartridges multiple times.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276711?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SCS50675HD~faq-276711",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:18.972195"
+        },
+        {
+          "question": "What should I do with the waste ink?",
+          "answer": "Check your local regulations and contact a local disposal service if needed.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276658?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SCS50675HD~faq-276658",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:19.919719"
+        },
+        {
+          "question": "How often does my product automatically circulate the ink?",
+          "answer": "The printer automatically circulates the ink once every 24 hours. Only the S50675 and S70675 with white and silver ink cartridges installed will perform ink circulation automatically. The printer utilizes an ink recirculation system for the white and silver cartridges; this process considerably reduces the amount of ink used to maintain the ink system.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276702?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SCS50675HD~faq-276702",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:20.912617"
+        },
+        {
+          "question": "Should I use the 100 mm, 200 mm, or 500 mm manual feed adjustment?",
+          "answer": "We recommend that you always use the 500 mm manual feed adjustment; the longer pattern is more effective.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276715?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SCS50675HD~faq-276715",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:21.860425"
+        },
+        {
+          "question": "How often should I perform maintenance and at what level?",
+          "answer": "The frequency will depend on how much you use the printer. For regular use, we recommend that you perform maintenance once a week. For heavy use, we recommend maintenance every 2-3 days. For extreme use, we recommend once a day.\nNote:\nThe printer alerts you when head maintenance is required.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276713?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SCS50675HD~faq-276713",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:22.824708"
+        },
+        {
+          "question": "How do I clean the media holding plate (edge guide)?",
+          "answer": "Soak a large cleaning stick from the maintenance kit in ink cleaning solution, then remove the edge guides from the printer by holding the tabs and sliding off to the side. With the cleaning stick, vigorously clean the built-up ink on the edge guides. If the media edges guides are damaged or bent, you can order replacements (part number C890891).",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276706?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SCS50675HD~faq-276706",
+          "display_order": 20,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:23.799951"
+        },
+        {
+          "question": "For how long can I leave my product off?",
+          "answer": "We recommend that you leave the printer on all the time; this allows the printer to perform required automatic cleanings. If you'll be away from the printer for more than a week, and white/silver ink is installed, we recommend that you perform an Ink Refresh cycle to avoid possible nozzle clogs. See the\nInk Refresh\nsection in the User's Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276710?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SCS50675HD~faq-276710",
+          "display_order": 21,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:24.717674"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "Do I need to off-gas and/or cure a print before I laminate it?",
+          "answer": "Yes. A 24-hour period of off-gas time is recommended before you laminate your prints.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276729?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCS50675HD~faq-276729",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:25.803161"
+        },
+        {
+          "question": "How long should I wait before I laminate a print?",
+          "answer": "Wait at least 24 hours after you print; this allows the print to cure.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276730?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCS50675HD~faq-276730",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:26.763333"
+        },
+        {
+          "question": "Which Epson paper type setting should I select for Legacy paper?",
+          "answer": "See the table below.\nLegacy Paper\nEpson Paper Type Setting\nBaryta\nPremium Luster Photo Paper\nPlatine\nPremium Luster Photo Paper\nFibre\nWatercolor Paper – Radiant White\nEtching\nWatercolor Paper – Radiant White",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-00009EC-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCS50675HD~faq-00009EC-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:27.885373"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-00009e9-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SCS50675HD~faq-00009e9-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:28.936559"
+        },
+        {
+          "question": "I see horizontal or vertical lines in my printout. What should I do?",
+          "answer": "Perform a nozzle check from the printer's control panel or the Epson printer driver, then do one of the following:\nIf there are gaps in the nozzle check pattern, clean the print head nozzles.\nIf there are no gaps in the nozzle check pattern, try the solutions below.\nHorizontal Banding\nIncrease the print resolution.\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nSelect an alternate paper profile for ink coverage.\nSelect the correct paper type in the printer driver.\nAdjust the paper feed\nVertical Banding\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nAlign the print head.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-00009eb-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SCS50675HD~faq-00009eb-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:29.854602"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "How can I verify that I'm using the latest firmware on my product?",
+          "answer": "Determine your printer's firmware version, then go to the Downloads  tab for your product and compare the latest version to the one on your printer.\nTo see your printer's firmware version, press the\nMenu\nbutton and select\nPrinter Status\n, then\nFirmware Version\non the printer\n.\nUse\nLFP Remote Panel\n(do not use the automatic acquire feature) to update the firmware.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276765?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276765",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:30.786655"
+        },
+        {
+          "question": "What upgrades are available for my ONYX RIP?",
+          "answer": "Check with your local ONYX authorized reseller; upgrades are available from an authorized reseller.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276758?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276758",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:31.862829"
+        },
+        {
+          "question": "How long will it take to set up my product?",
+          "answer": "The printer assembly will take approximately one hour and will require five people to attach the printer to the printer stand. The printer initialization, alignment, and software installation will take an additional two hours.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276748?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276748",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:31.034469"
+        },
+        {
+          "question": "Do I need to perform a separate feed adjustment when I use the green rollers?",
+          "answer": "Yes. A 500 mm feed adjustment is necessary. We recommend that you create a separate custom media setting when you use the green rollers.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276736?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276736",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:31.971249"
+        },
+        {
+          "question": "Does the RIP support cutting?",
+          "answer": "GamaPrint Pro requires an upgrade for cutting support ($495). Postershop and Production House include cutting support.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276742?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276742",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:32.882880"
+        },
+        {
+          "question": "My product came with stickers with three black bars on them. Where should I put them?",
+          "answer": "The stickers should line up with the three roller spaces closest to the control panel. They serve as a guide when you load media from the back of the printer.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276732?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276732",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:33.789059"
+        },
+        {
+          "question": "When should I use the rubber weights?",
+          "answer": "Use them when you print on heavy banner or thin/difficult media. They will keep the tension on the take-up reel even. We recommend that you load the rubber weights evenly on the tension bar of the take-up reel and use 3 on each side (not 1 or 2).",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276761?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276761",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:35.095329"
+        },
+        {
+          "question": "What do I need to set up my product?",
+          "answer": "You will need the following:\n500 mm ruler\n2 furniture dollies (optional)\n5 people (for placing the printer on stand)\nAmple space\nIdentified power source\nKnife/scissors for opening packaging\nPen/pencil\nWindows-based computer (for drivers and the ONYX RIP)",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276755?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276755",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:36.013182"
+        },
+        {
+          "question": "My product automatically prints jobs after they're ripped. How do I stop this?",
+          "answer": "Open\nRip Queue,\nright-click on the printer, select\nModify Printer\n>\nSetup,\nthen uncheck\nAutomatically Start Printing.\nClick\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276753?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276753",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:36.936021"
+        },
+        {
+          "question": "Does GamaPrint Pro support white or silver ink?",
+          "answer": "Yes, it in a limited fashion. If you plan to use white and silver ink for production applications, we strongly recommend you upgrade to Postershop or Production House.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276733?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276733",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:37.857226"
+        },
+        {
+          "question": "Should I use the Accuphoto or Stochastic profile?",
+          "answer": "Epson recommends Accuphoto for the best print quality.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276752?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276752",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:38.796204"
+        },
+        {
+          "question": "How do I turn off the alert buzzer?",
+          "answer": "Press the\nMenu\nbutton, then select\nPreference\n>\nAlert Sound Settings\n>\nOff\n.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276709?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276709",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:39.883715"
+        },
+        {
+          "question": "When should I use multi-layer printing?",
+          "answer": "Multi-layer printing is used in certain cases with spot colors, particularly if a base layer of white or silver is required. When printing more than full color and one spot color at the same time, or when the dry time of a base layer is required, multi-layer printing is effective.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276759?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276759",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:40.825620"
+        },
+        {
+          "question": "Should I adjust the manual feed by millimeters or inches?",
+          "answer": "We recommend that you use millimeters. This ensures that you get the best possible adjustment and also minimizes banding.\nNote:\nLater firmware releases will only support millimeters.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276751?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276751",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:41.727084"
+        },
+        {
+          "question": "Rip-Queue indicates printing is in progress by displaying a percent status, but then it drops the print job, and nothing prints (with an Ethernet connection). What should I do?",
+          "answer": "Make sure your network cables are properly connected. If the connection is fine, try the following:\nMake sure the IP address is the same in Rip-Queue and on the printer.\nClick\nConfigure Printer\n.\nSelect the\nDevice\ntab >\nConfigure Port\n>\nTCP/IP\n>\nConfigure\n.\nVerify that the IP address in the software matches the IP address on your printer. To see your printer's IP address, select\nMenu\n>\nPrinter Settings\n>\nNetwork Settings\n>\nIP\n.\nIf you are printing to the Windows COM driver, make sure you have the correct profile assigned in the COM driver.\nNote:\nThe entire job must spool before printing begins.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276750?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276750",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:42.665745"
+        },
+        {
+          "question": "Why should I create a custom media type?",
+          "answer": "It will ensure that the printer produces optimal print quality. Using this setup will maximize the printer's capabilities.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276764?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276764",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:43.899402"
+        },
+        {
+          "question": "Does the additional dryer require an additional power outlet?",
+          "answer": "Yes. It requires one additional 110v outlet and 45W of power (3 amps).",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276767?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276767",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:44.844211"
+        },
+        {
+          "question": "Which interfaces does my product support?",
+          "answer": "The printer supports USB 2.0 and Gigabit Ethernet interfaces. Both interfaces can be connected at the same time; the printer automatically switches between them.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276776?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276776",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:45.759577"
+        },
+        {
+          "question": "When should I use the green rollers?",
+          "answer": "Use them when you perform printing with specialty inks. When the green rollers are engaged, your print will not be marred when it rolls back (in preparation) for multiple layer printing.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276760?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276760",
+          "display_order": 20,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:46.664874"
+        },
+        {
+          "question": "Which profiles are included with the software?",
+          "answer": "Epson provides about 100 profiles for your printer; they're included with GamaPrint Pro and are available for download for Postershop and Production House. They support 3M, Avery, Neschen, Ultraflex, and Epson media in various configurations and models.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276756?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276756",
+          "display_order": 21,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:47.767059"
+        },
+        {
+          "question": "The ONYX software shows that my product is not connected. What should I do?",
+          "answer": "Make sure your printer is connected to your computer. If the connection is fine, try the following:\nClick\nConfigure Printer\n.\nSelect the\nDevice\ntab >\nConfigure Port\n>\nTCP/IP\n>\nConfigure\n.\nVerify that the IP address in the software matches the IP address on your printer. To see your printer's IP address, select\nMenu\n>\nPrinter Settings\n>\nNetwork Settings\n>\nIP\n.\nClick\nTest\nto verify the connection.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276726?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276726",
+          "display_order": 22,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:48.669662"
+        },
+        {
+          "question": "Do I need to RIP a job again if I want to print it again?",
+          "answer": "No, you can print it again by dragging the past job onto the print queue.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276737?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276737",
+          "display_order": 23,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:49.586528"
+        },
+        {
+          "question": "Can I save a job in Layout Tool?",
+          "answer": "Yes. We recommend that you save the job so you don't need to lay out the job again. This is helpful if you've made edits such as color correction, sizing, etc.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276734?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276734",
+          "display_order": 24,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:50.500602"
+        },
+        {
+          "question": "Do I need to ventilate my product?",
+          "answer": "No, special ventilation is not required with one printer in an adequately sized room with sufficient natural airflow. However, if you have more than one printer, check your local regulations.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276739?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276739",
+          "display_order": 25,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:51.418496"
+        },
+        {
+          "question": "Does GamaPrint Pro include profiling capabilities?",
+          "answer": "No. You must upgrade your version of ONYX RIP. Contact an authorized reseller for information on how to upgrade.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276741?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276741",
+          "display_order": 26,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:52.341450"
+        },
+        {
+          "question": "How do I tell my product that the media is printable side in?",
+          "answer": "The custom media setup process has an option to set the roll type to printable side in or printable side out, or you can set it during the media loading process.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276763?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276763",
+          "display_order": 27,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:53.323385"
+        },
+        {
+          "question": "What temperature is recommended for the heater, and how do I set it?",
+          "answer": "The temperature you should set will depend on the media you use; see your media's documentation for recommendations.\nYou can set the temperature during the custom media setup (recommended) or on the printer's control panel.\nSee\nHeating & Drying\nin the printer's User's Guide for detailed information.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276757?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276757",
+          "display_order": 28,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:54.213573"
+        },
+        {
+          "question": "How do I share custom media types?",
+          "answer": "In LFP Remote Panel, back up and save (to a file) your custom media settings, then share the file with other printers.\nNote:\nMedia feed and head alignments are not stored in the file. They must be done on each printer and for each media type you use.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276746?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276746",
+          "display_order": 29,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:55.100067"
+        },
+        {
+          "question": "Do I need to align the take-in and take-up reels?",
+          "answer": "Yes. You need to align the reels to avoid registration, banding, and paper feed issues. You only need to do this once during setup, unless the printer is moved or the system becomes misaligned. We recommend that you keep the alignment paper for future use.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276740?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276740",
+          "display_order": 30,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:56.075851"
+        },
+        {
+          "question": "How do I select the direction of the take-up reel?",
+          "answer": "There is a switch on the take-up reel roll holder closest to the printer's control panel. You can set it to automatic direction or manual control.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276762?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276762",
+          "display_order": 31,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:57.006363"
+        },
+        {
+          "question": "Do I need to level my product?",
+          "answer": "Yes. The printer should be placed on a level surface.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276735?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276735",
+          "display_order": 32,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:57.973884"
+        },
+        {
+          "question": "How do I test my IP connection?",
+          "answer": "Do the following:\nClick\nConfigure Printer\n.\nSelect the\nDevice\ntab >\nConfigure Port\n>\nTCP/IP\n>\nConfigure\n.\nVerify that the IP address in the software matches the IP address on your printer. To see your printer's IP address, select\nMenu\n>\nPrinter Settings\n>\nNetwork Settings\n>\nIP\n.\nClick\nTest\nto verify the connection.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276747?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-276747",
+          "display_order": 33,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:58.984043"
+        },
+        {
+          "question": "How do I save my Epson printer driver presets so I can restore them if I reinstall the Epson printer driver in Windows?",
+          "answer": "Note:\nYou may lose some custom settings when you uninstall the printer driver.\nBefore you reinstall the printer driver, do the following:\nOpen\nFile Explorer\nor\nWindows Explorer\n.\nSelect\nThis PC\nor\nComputer\n>\nC:\ndrive >\nProgram Files\n>\nEpson\n> [your printer name].\nMove the UCI extension files to a different folder on your desktop.\nNote:\nAfter you reinstall the Epson printer driver, move the UCI extension files back to your printer's folder as described in step 2.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-00009e6-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-00009e6-shared",
+          "display_order": 34,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:39:59.890690"
+        },
+        {
+          "question": "How do I install the ICC profiles in Windows XP or Windows 7?",
+          "answer": "Do the following:\nDownload the ICC profiles for your printer and save them in a folder you can easily find.\nClose all open software.\nOpen\nWindows Explorer\n, then select\nComputer\n>\nC:\ndrive >\nWindows\n>\nSystem32\n>\nspool\n>\ndrivers\n>\ncolor\n.\nMove the ICC profiles into the\ncolor\nfolder, then close all open windows.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-00009E5-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-00009E5-shared",
+          "display_order": 35,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:40:00.804590"
+        },
+        {
+          "question": "How do I determine my printer driver version on my Mac?",
+          "answer": "Open the\nmenu and select\nSystem Preferences\nor\nSystem Settings\n>\nPrinters & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n. Your printer driver version is displayed.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-00009e4-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-00009e4-shared",
+          "display_order": 36,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:40:01.718905"
+        },
+        {
+          "question": "How do I manually install the Epson ICC profiles on my Mac?",
+          "answer": "Do the following:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinters2\n>\nICCProfiles\n.\nPress and hold the\ncontrol\nkey on your keyboard while you select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n, select and copy all files, then close all open windows.\nOpen your hard drive, select\nLibrary\n>\nColorSync\n>\nProfiles\n, then paste the files into this folder.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-0000b03-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-0000b03-shared",
+          "display_order": 37,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:40:02.681897"
+        },
+        {
+          "question": "Where are the ICC profiles located for my printer on my Mac?",
+          "answer": "Do the following to locate the files:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinter2\n>\nICCProfiles\n.\nPress and hold the\nControl\nkey on your keyboard while you click the profile package in the\nICCProfiles\nfolder. In the pop-up menu that appears, select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-00009ed-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-00009ed-shared",
+          "display_order": 38,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:40:01.816640"
+        },
+        {
+          "question": "My print job disappears from the Windows print queue but does not print. What should I do?",
+          "answer": "Follow the steps below:\nDo one of the following:\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your printer and select\nManage\n>\nPrinting preferences\n.\nWindows 8\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the\nUtility\ntab, then\nSpeed and Progress\n.\nSelect the\nAlways Spool RAW Datatype\nand\nCoarse Rendering\ncheckboxes, then click\nOK\n.\nNote:\nIf the\nProcessed by Printer\ncheckbox is selected, deselect it.\nTry printing again.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-00009e8-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-00009e8-shared",
+          "display_order": 39,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:40:02.706693"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCS50675HD~faq-0000f4d-shared",
+          "display_order": 40,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:40:03.683022"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "When would I need the additional dryer?",
+          "answer": "If you run high-speed production jobs, the additional dryer will shorten the dry time and improve print quality. The optional dryer is also useful when you use white or silver ink.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276775?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCS50675HD~faq-276775",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:40:04.758734"
+        },
+        {
+          "question": "How much power does my product consume?",
+          "answer": "The printer consumes approximately 895 W while operating and 775 W in standby mode with the heater on and 30 W with the heater off.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276768?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCS50675HD~faq-276768",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:40:05.672061"
+        },
+        {
+          "question": "What is the maximum thickness of media my product will feed?",
+          "answer": "1 millimeter.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276774?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCS50675HD~faq-276774",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:40:06.605482"
+        },
+        {
+          "question": "What is the maximum width my product can print?",
+          "answer": "The printer can print a width up to 63.60 inches.\nNote:\nThe printer is not capable of borderless printing.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276772?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCS50675HD~faq-276772",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:40:07.568259"
+        },
+        {
+          "question": "What are the weight limits on the standard media feeding unit?",
+          "answer": "It supports rolls up to 90 lbs.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276770?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCS50675HD~faq-276770",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:40:08.551031"
+        },
+        {
+          "question": "Does my product have VOCs?",
+          "answer": "Yes. However, the printer does not require any special ventilation or air purification.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276766?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCS50675HD~faq-276766",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:40:09.471252"
+        },
+        {
+          "question": "What is the difference between the PE and the HD (heavy duty) version?",
+          "answer": "The HD version includes a heavy roll media system which handles media rolls up to 175 lbs. The PE version includes a standard media feeding unit which handles media rolls up to 90 lbs. Both systems include take-in and take-up reels.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276771?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCS50675HD~faq-276771",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:40:10.446763"
+        },
+        {
+          "question": "What is the minimum door width my product will fit through?",
+          "answer": "Doors must be at least 50 inches wide to allow the printer to pass through.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276773?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCS50675HD~faq-276773",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:40:11.393574"
+        },
+        {
+          "question": "Why should I use the heavy roll media system?",
+          "answer": "It is optimal for environments that use print rolls heavier than 90 lbs.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-276777?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCS50675HD~faq-276777",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:40:12.384254"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SCS50675HD~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCS50675HD~faq-0000f4a-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S50675-High-Production-Edition/s/SPT_SCS50675HD",
+          "fetched_at": "2026-04-02T03:40:13.336762"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Impact Printers",
+  "series": "LQ Series",
+  "model": {
+    "name": "Epson LQ-2550",
+    "sku": "SPT_L752",
+    "url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2550/s/SPT_L752"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_L752~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_L752~faq-00004b0-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2550/s/SPT_L752",
+          "fetched_at": "2026-04-02T05:16:16.822350"
+        },
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_L752~faq-000096d-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_L752~faq-000096d-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2550/s/SPT_L752",
+          "fetched_at": "2026-04-02T05:16:18.159405"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_L752~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_L752~faq-00004dc-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2550/s/SPT_L752",
+          "fetched_at": "2026-04-02T05:16:19.049851"
+        },
+        {
+          "question": "Two pages print for each page I print. What should I do?",
+          "answer": "If you're using single sheets you need to make sure the software is set up for either single sheet paper or 61 lines per page otherwise it will print a few lines on a second page if the document is over 61 lines.\nSome older DOS software may not have those settings if it is designed to be used only with tractor feed paper. For Windows software, make sure to select Sheet Feeder bin 1 for your paper source in Printer setup.",
+          "faq_url": "https://epson.com/faq/SPT_L752~faq-000096e-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_L752~faq-000096e-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2550/s/SPT_L752",
+          "fetched_at": "2026-04-02T05:16:20.002529"
+        },
+        {
+          "question": "A label peeled off in the product. How should I remove it?",
+          "answer": "Press the product's\nLF/FF\nbutton until the label appears on the platen and remove the label. If you can't remove the label this way, do not remove the platen from the product. Get the printer serviced.\nNote:\nWe recommend you use the pull tractor to print labels. Labels fed through the rear push tractor can curl and peel off under the platen.",
+          "faq_url": "https://epson.com/faq/SPT_L752~faq-0000937-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_L752~faq-0000937-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2550/s/SPT_L752",
+          "fetched_at": "2026-04-02T05:16:21.050372"
+        },
+        {
+          "question": "The paper feed knob broke. What should I do?",
+          "answer": "This is usually caused by incorrectly using the paper feed knob to adjust the paper position when the printer is turned on.\nTo prevent this problem the printer's paper feed, form feed or alignment buttons should be used.\nYou can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_L752~faq-000096c-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_L752~faq-000096c-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2550/s/SPT_L752",
+          "fetched_at": "2026-04-02T05:16:20.342413"
+        },
+        {
+          "question": "When I turn my LQ-2550 printer on, the paper feeds through about one and a half pages, then stops. I hit the LOAD/EJECT button and it feeds more paper instead of ejecting backwards. Why won't it go to the right top-of-form position?",
+          "answer": "Check the front panel to see if the PAPER SELECT is on FRICTION OR CSF. If either of these are selected, turn the printer OFF and manually eject the continuous feed paper. Turn the printer back ON without reinstall the paper on the tractor unit. Make sure that the ON LINE light is OFF, then press the PAPER SELECT button until the TRACTOR light is ON. Install the continuous feed paper onto the tractor. Press the ON LINE button until the ON LINE light comes ON. Hit the LOAD/EJECT button to see if the paper loads correctly. If you are still having problems, repeat the above steps. If the problem still persists, have the printer taken in to be serviced.",
+          "faq_url": "https://epson.com/faq/SPT_L752~faq-42567?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_L752~faq-42567",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2550/s/SPT_L752",
+          "fetched_at": "2026-04-02T05:16:21.425439"
+        },
+        {
+          "question": "Sometimes my product beeps and the display shows either an ERROR 10, ERROR 11, or ERROR 12. What should I do?",
+          "answer": "If you receive an ERROR 10, turn the printer OFF and check for paper jams. Turn the printer back ON and try printing again. If the same problem occurs again, take the printer in to be serviced. An ERROR 11 indicates that the paper is not straight. Turn the printer OFF, remove the paper and turn the printer back ON. Reload the paper with the LOAD/EJECT button. If the platen knob was used to advance paper, an ERROR 12 will occur. Turn the printer OFF, remove the paper and turn the printer back ON. Reload the paper with the LOAD/EJECT button. If the errors occur frequently and you are positive the paper is being loaded correctly, you may want to consider taking the printer in to be serviced by an Authorized Epson dealer.",
+          "faq_url": "https://epson.com/faq/SPT_L752~faq-42566?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_L752~faq-42566",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2550/s/SPT_L752",
+          "fetched_at": "2026-04-02T05:16:22.356868"
+        },
+        {
+          "question": "Can I use the platen knob to load or adjust paper?",
+          "answer": "No, the platen knob is not to be used to load or adjust paper. The knob should only be used to clear paper jams after the printer has been turned off. Use the Load/Eject button to load or remove paper and the Microfeed feature to adjust the top-of-form position of the paper.",
+          "faq_url": "https://epson.com/faq/SPT_L752~faq-42571?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_L752~faq-42571",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2550/s/SPT_L752",
+          "fetched_at": "2026-04-02T05:16:23.263067"
+        },
+        {
+          "question": "What is the recommended duty cycle for my product?",
+          "answer": "The specification recommended is 25 percent. Epson America's definition of a 25 percent duty cycle stands for the printer printing (not idle) for two hours per day based on an eight hour day at 22 days per month.",
+          "faq_url": "https://epson.com/faq/SPT_L752~faq-42555?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_L752~faq-42555",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2550/s/SPT_L752",
+          "fetched_at": "2026-04-02T05:16:24.198502"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Two pages print for each page I print. What should I do?",
+          "answer": "If you're using single sheets you need to make sure the software is set up for either single sheet paper or 61 lines per page otherwise it will print a few lines on a second page if the document is over 61 lines.\nSome older DOS software may not have those settings if it is designed to be used only with tractor feed paper. For Windows software, make sure to select Sheet Feeder bin 1 for your paper source in Printer setup.",
+          "faq_url": "https://epson.com/faq/SPT_L752~faq-000096e-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_L752~faq-000096e-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2550/s/SPT_L752",
+          "fetched_at": "2026-04-02T05:16:25.128356"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "Sometimes my product beeps and the display shows either an ERROR 10, ERROR 11, or ERROR 12. What should I do?",
+          "answer": "If you receive an ERROR 10, turn the printer OFF and check for paper jams. Turn the printer back ON and try printing again. If the same problem occurs again, take the printer in to be serviced. An ERROR 11 indicates that the paper is not straight. Turn the printer OFF, remove the paper and turn the printer back ON. Reload the paper with the LOAD/EJECT button. If the platen knob was used to advance paper, an ERROR 12 will occur. Turn the printer OFF, remove the paper and turn the printer back ON. Reload the paper with the LOAD/EJECT button. If the errors occur frequently and you are positive the paper is being loaded correctly, you may want to consider taking the printer in to be serviced by an Authorized Epson dealer.",
+          "faq_url": "https://epson.com/faq/SPT_L752~faq-42566?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_L752~faq-42566",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2550/s/SPT_L752",
+          "fetched_at": "2026-04-02T05:16:26.116799"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "A label peeled off in the product. How should I remove it?",
+          "answer": "Press the product's\nLF/FF\nbutton until the label appears on the platen and remove the label. If you can't remove the label this way, do not remove the platen from the product. Get the printer serviced.\nNote:\nWe recommend you use the pull tractor to print labels. Labels fed through the rear push tractor can curl and peel off under the platen.",
+          "faq_url": "https://epson.com/faq/SPT_L752~faq-0000937-shared?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_L752~faq-0000937-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2550/s/SPT_L752",
+          "fetched_at": "2026-04-02T05:16:27.187673"
+        },
+        {
+          "question": "The paper feed knob broke. What should I do?",
+          "answer": "This is usually caused by incorrectly using the paper feed knob to adjust the paper position when the printer is turned on.\nTo prevent this problem the printer's paper feed, form feed or alignment buttons should be used.\nYou can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_L752~faq-000096c-shared?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_L752~faq-000096c-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2550/s/SPT_L752",
+          "fetched_at": "2026-04-02T05:16:28.106141"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "When I turn my LQ-2550 printer on, the paper feeds through about one and a half pages, then stops. I hit the LOAD/EJECT button and it feeds more paper instead of ejecting backwards. Why won't it go to the right top-of-form position?",
+          "answer": "Check the front panel to see if the PAPER SELECT is on FRICTION OR CSF. If either of these are selected, turn the printer OFF and manually eject the continuous feed paper. Turn the printer back ON without reinstall the paper on the tractor unit. Make sure that the ON LINE light is OFF, then press the PAPER SELECT button until the TRACTOR light is ON. Install the continuous feed paper onto the tractor. Press the ON LINE button until the ON LINE light comes ON. Hit the LOAD/EJECT button to see if the paper loads correctly. If you are still having problems, repeat the above steps. If the problem still persists, have the printer taken in to be serviced.",
+          "faq_url": "https://epson.com/faq/SPT_L752~faq-42567?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_L752~faq-42567",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2550/s/SPT_L752",
+          "fetched_at": "2026-04-02T05:16:29.118865"
+        },
+        {
+          "question": "Can I use the platen knob to load or adjust paper?",
+          "answer": "No, the platen knob is not to be used to load or adjust paper. The knob should only be used to clear paper jams after the printer has been turned off. Use the Load/Eject button to load or remove paper and the Microfeed feature to adjust the top-of-form position of the paper.",
+          "faq_url": "https://epson.com/faq/SPT_L752~faq-42571?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_L752~faq-42571",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2550/s/SPT_L752",
+          "fetched_at": "2026-04-02T05:16:30.124238"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "My product starts printing too far down the page. Is there any way I can adjust the starting point of the print job?",
+          "answer": "There is a feature called MICRO FEED that allows you to adjust the top-of-form (TOF) position in increments of 1/180th of an inch. To use this feature, load the paper into the printer. Press the MICRO FEED button and the light above the button will come on. The display reads \"TOF ADJUST.\" Press FORM FEED to move the paper forward or press LINE FEED to move the paper backward. Once you have the TOF position set where you want it, press the MICRO FEED button again to exit out of this feature. The printer will remember the TOF setting and will position the print head accordingly for the next page. For more information on adjusting the page setting, please see Chapter 3 page 30 of your User's Manual.",
+          "faq_url": "https://epson.com/faq/SPT_L752~faq-42568?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_L752~faq-42568",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2550/s/SPT_L752",
+          "fetched_at": "2026-04-02T05:16:31.086312"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Some video drivers may cause a conflict in memory between the printerdriver and video memory. Try changing to the Windows video driver provided by Microsoft or check to see if the video card manufacturer has an updated video driver available. This is often the cause of strange printing problems such as missing characters or lines through the printed document.\nBroken printhead pins may also cause this problem. If the problem continues when performing the printer's self test then the printhead is most likely the problem. This would need to be serviced by an Epson authorized repair center.",
+          "faq_url": "https://epson.com/faq/SPT_L752~faq-49939?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_L752~faq-49939",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2550/s/SPT_L752",
+          "fetched_at": "2026-04-02T05:16:32.070302"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "What are the common escape codes for my product?",
+          "answer": "Some commonly used escape codes include (in decimal values) -Reset (27, 64); Set page length in lines (27, 67, n - where n is a number from 1 to 127); Carriage return (13); Line feed (10); Form feed (12); Select 1/8-inch line spacing (27, 48); 10 cpi (27, 80); 12 cpi (27, 77); Select bold font (27, 69); Cancel bold font (27, 70); Select italic font (27, 52); Cancel italic font (27, 53); Turn underline on/off (27, 45, n - where n equals 49=ON or 48=OFF); Select condensed print (15); Cancel condensed print (18). For more escape codes, please refer to the Command Summary of your User's Manual. If you need to use advanced escape codes for programming purposes, you can purchase an ESC/P Reference Manual from EPSON Accessories.",
+          "faq_url": "https://epson.com/faq/SPT_L752~faq-42557?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_L752~faq-42557",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2550/s/SPT_L752",
+          "fetched_at": "2026-04-02T05:16:32.987093"
+        },
+        {
+          "question": "Does the optional cut-sheet feeder feed envelopes?",
+          "answer": "Yes, up to 25 envelopes can be placed in the front bin of the dual-bin cut-sheet feeder for automatic feeding and printing.",
+          "faq_url": "https://epson.com/faq/SPT_L752~faq-42565?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_L752~faq-42565",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2550/s/SPT_L752",
+          "fetched_at": "2026-04-02T05:16:33.967759"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_L752~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_L752~faq-00004dc-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2550/s/SPT_L752",
+          "fetched_at": "2026-04-02T05:16:35.348618"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "What is the recommended duty cycle for my product?",
+          "answer": "The specification recommended is 25 percent. Epson America's definition of a 25 percent duty cycle stands for the printer printing (not idle) for two hours per day based on an eight hour day at 22 days per month.",
+          "faq_url": "https://epson.com/faq/SPT_L752~faq-42555?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_L752~faq-42555",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2550/s/SPT_L752",
+          "fetched_at": "2026-04-02T05:16:36.338496"
+        },
+        {
+          "question": "Why does my product stop or pause in the middle of a print job?",
+          "answer": "The printer has a built-in sensor that monitors the temperature of the print head. When the print head begins to get too hot, the printer may pause or slow down the speed of the print head unit to ensure that the print head does not overheat. If the print head begins to overheat, the thermistor will stop the print head completely until it has cooled down. Once the print head has sufficiently cooled down, the printer will resume the print job. Another reason for the printer to pause or stop can be that the printer is waiting for more data or is in the middle of processing data already received.",
+          "faq_url": "https://epson.com/faq/SPT_L752~faq-42556?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_L752~faq-42556",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2550/s/SPT_L752",
+          "fetched_at": "2026-04-02T05:16:37.316139"
+        },
+        {
+          "question": "How can I change my product's default settings?",
+          "answer": "The defaults can be changed by entering into the SelecType menu. Press the SelecType button and the light above it will come on. The display flashes \"SelecType MODE\" for a brief moment, then displays \"LOAD MACRO.\" Use your up (FORM FEED) or down (LINE FEED) arrow to browse through the SelecType menu. When \"CHANGE MACRO\" is displayed, press the right arrow (LOAD/EJECT) button to select that option. Once you are in the CHANGE MACRO option menu, you can the settings of the macro that is currently loaded. Once you have finished changing the settings, press the left (ON LINE) arrow button and the display alternately reads \"SAVE MACRO\" and \"ABORT SAVE.\" Press the up or down arrows to select a number for the macro to be saved as (1 to 4), then press the right arrow button to save your changes. After changes have been saved to a macro, the display will again read \"CHANGE MACRO.\" To exit the SelecType feature, press the SelecType button. For more information on the SelecType feature, please see Chapter 3 page 8 of your User's Manual.",
+          "faq_url": "https://epson.com/faq/SPT_L752~faq-42569?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_L752~faq-42569",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2550/s/SPT_L752",
+          "fetched_at": "2026-04-02T05:16:38.678845"
+        },
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_L752~faq-000096d-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_L752~faq-000096d-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2550/s/SPT_L752",
+          "fetched_at": "2026-04-02T05:16:39.622525"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_L752~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_L752~faq-00004b0-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2550/s/SPT_L752",
+          "fetched_at": "2026-04-02T05:16:40.646664"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

@@ -1,0 +1,779 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "Epson Stylus Series",
+  "model": {
+    "name": "Epson Stylus Pro GS6000",
+    "sku": "SPT_SPGS6000PE",
+    "url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SPGS6000PE~faq-00004dc-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:36:33.191399"
+        },
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-00009e9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SPGS6000PE~faq-00009e9-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:36:34.084312"
+        },
+        {
+          "question": "How do I determine my printer driver version on my Mac?",
+          "answer": "Open the\nmenu and select\nSystem Preferences\nor\nSystem Settings\n>\nPrinters & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n. Your printer driver version is displayed.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-00009e4-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SPGS6000PE~faq-00009e4-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:36:34.997801"
+        },
+        {
+          "question": "How do I install the ICC profiles in Windows XP or Windows 7?",
+          "answer": "Do the following:\nDownload the ICC profiles for your printer and save them in a folder you can easily find.\nClose all open software.\nOpen\nWindows Explorer\n, then select\nComputer\n>\nC:\ndrive >\nWindows\n>\nSystem32\n>\nspool\n>\ndrivers\n>\ncolor\n.\nMove the ICC profiles into the\ncolor\nfolder, then close all open windows.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-00009E5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SPGS6000PE~faq-00009E5-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:36:35.968001"
+        },
+        {
+          "question": "Where are the ICC profiles located for my printer on my Mac?",
+          "answer": "Do the following to locate the files:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinter2\n>\nICCProfiles\n.\nPress and hold the\nControl\nkey on your keyboard while you click the profile package in the\nICCProfiles\nfolder. In the pop-up menu that appears, select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-00009ed-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SPGS6000PE~faq-00009ed-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:36:36.887599"
+        },
+        {
+          "question": "I see the message Communication Error when I use a USB connection. What should I do?",
+          "answer": "Do the following:\nDelete all print jobs in the print queue.\nTurn the printer off.\nNote:\nMake sure the USB cable is connected correctly.\nRestart your computer. When the desktop appears, turn your printer on and follow the on-screen instructions.\nNote:\nIf the problem continues, turn the printer off again and delete the printer in the list of printers. Then disconnect the USB cable from the printer and connect it again.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-00009ea-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SPGS6000PE~faq-00009ea-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:36:37.794366"
+        },
+        {
+          "question": "Which Epson paper type setting should I select for Legacy paper?",
+          "answer": "See the table below.\nLegacy Paper\nEpson Paper Type Setting\nBaryta\nPremium Luster Photo Paper\nPlatine\nPremium Luster Photo Paper\nFibre\nWatercolor Paper – Radiant White\nEtching\nWatercolor Paper – Radiant White",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-00009EC-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SPGS6000PE~faq-00009EC-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:36:38.719889"
+        },
+        {
+          "question": "How do I save my Epson printer driver presets so I can restore them if I reinstall the Epson printer driver in Windows?",
+          "answer": "Note:\nYou may lose some custom settings when you uninstall the printer driver.\nBefore you reinstall the printer driver, do the following:\nOpen\nFile Explorer\nor\nWindows Explorer\n.\nSelect\nThis PC\nor\nComputer\n>\nC:\ndrive >\nProgram Files\n>\nEpson\n> [your printer name].\nMove the UCI extension files to a different folder on your desktop.\nNote:\nAfter you reinstall the Epson printer driver, move the UCI extension files back to your printer's folder as described in step 2.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-00009e6-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SPGS6000PE~faq-00009e6-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:36:39.717270"
+        },
+        {
+          "question": "My print job disappears from the Windows print queue but does not print. What should I do?",
+          "answer": "Follow the steps below:\nDo one of the following:\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your printer and select\nManage\n>\nPrinting preferences\n.\nWindows 8\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the\nUtility\ntab, then\nSpeed and Progress\n.\nSelect the\nAlways Spool RAW Datatype\nand\nCoarse Rendering\ncheckboxes, then click\nOK\n.\nNote:\nIf the\nProcessed by Printer\ncheckbox is selected, deselect it.\nTry printing again.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-00009e8-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SPGS6000PE~faq-00009e8-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:36:40.654619"
+        },
+        {
+          "question": "I see horizontal or vertical lines in my printout. What should I do?",
+          "answer": "Perform a nozzle check from the printer's control panel or the Epson printer driver, then do one of the following:\nIf there are gaps in the nozzle check pattern, clean the print head nozzles.\nIf there are no gaps in the nozzle check pattern, try the solutions below.\nHorizontal Banding\nIncrease the print resolution.\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nSelect an alternate paper profile for ink coverage.\nSelect the correct paper type in the printer driver.\nAdjust the paper feed\nVertical Banding\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nAlign the print head.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-00009eb-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SPGS6000PE~faq-00009eb-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:36:41.563816"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "I see the message Communication Error when I use a USB connection. What should I do?",
+          "answer": "Do the following:\nDelete all print jobs in the print queue.\nTurn the printer off.\nNote:\nMake sure the USB cable is connected correctly.\nRestart your computer. When the desktop appears, turn your printer on and follow the on-screen instructions.\nNote:\nIf the problem continues, turn the printer off again and delete the printer in the list of printers. Then disconnect the USB cable from the printer and connect it again.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-00009ea-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SPGS6000PE~faq-00009ea-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:36:42.480611"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SPGS6000PE~faq-00004c5-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:36:43.380218"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "How many ink cartridges are installed in my product?",
+          "answer": "The following eight ink cartridges are installed in the printer:\nInk cartridge\nPart number\nBlack\nT624100\nCyan\nT624200\nMagenta\nT624300\nYellow\nT624400\nLight Cyan\nT624500\nLight Magenta\nT624600\nGreen\nT624700\nOrange\nT624800",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118734?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SPGS6000PE~faq-118734",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:36:44.293939"
+        },
+        {
+          "question": "How do I dispose of the waste ink from my product?",
+          "answer": "See\nDisposing of Waste Ink\n.\nWarning:\nBefore handling the waste ink, read the Material Safety Data Sheet (MSDS) for your printer.\nThe waste ink from the printer is industrial waste so you must dispose of it according to the industrial waste disposal laws and ordinances of your local government. Consign disposal of waste inks to an industrial waste disposer. Please provide the Waste Ink Data Sheet to the industrial waste disposer. See Safety Data Sheets/PIS to download a copy.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118777?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SPGS6000PE~faq-118777",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:36:45.228602"
+        },
+        {
+          "question": "What is the smallest dot size that can be printed?",
+          "answer": "The GS6000 can produce a dot size as small as 3.7 picoliters.  However, since the printer uses variable dot size technology, not every dot fired will be at 3.7 picoliters.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118723?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SPGS6000PE~faq-118723",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:36:46.168538"
+        },
+        {
+          "question": "Does my product have a pressurized ink delivery system?",
+          "answer": "No.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118727?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SPGS6000PE~faq-118727",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:36:47.223124"
+        },
+        {
+          "question": "What do the ink abbreviations on the control panel stand for?",
+          "answer": "See the following table:\nAbbreviation\nColor\nLM\nLight Magenta\nO\nOrange\nG\nGreen\nLC\nLight Cyan\nC\nCyan\nM\nMagenta\nK\nBlack\nY\nYellow",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118740?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SPGS6000PE~faq-118740",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:36:48.134664"
+        },
+        {
+          "question": "Does my product use ECO-solvent ink?",
+          "answer": "No. The Epson Stylus Pro GS6000 uses UltraChrome GS Ink Technology.  This is an eight color solvent-based ink specifically designed for the Epson Stylus Pro GS6000.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118764?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SPGS6000PE~faq-118764",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:36:49.071463"
+        },
+        {
+          "question": "Does my product use UltraChrome K3 inks?",
+          "answer": "No. The printer uses solvent ink specifically designed for this product.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118735?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SPGS6000PE~faq-118735",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:36:50.017072"
+        },
+        {
+          "question": "How do I dispose of expended ink cartridges?",
+          "answer": "Dispose of expended ink cartridges in accordance with local laws and regulations.  Refer to the SDS for information on the contents of each ink cartridge. See Safety Data Sheets/PIS to download a copy.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118778?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SPGS6000PE~faq-118778",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:36:50.943598"
+        },
+        {
+          "question": "What size ink cartridges does my product use?",
+          "answer": "The printer uses 950 ml ink cartridges. The initial ink cartridges that come with the printer are 350 ml starter cartridges.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118755?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SPGS6000PE~faq-118755",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:36:50.068140"
+        },
+        {
+          "question": "Can I hot-swap the ink cartridges?",
+          "answer": "Yes, the ink cartridges are hot-swappable so you can replace them while you're printing.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-119411?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SPGS6000PE~faq-119411",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:36:51.106067"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "How do I obtain additional maintenance kits?",
+          "answer": "You can order additional printer maintenance kits (part number C12C890611) from the Epson Store.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118769?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SPGS6000PE~faq-118769",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:36:52.123082"
+        },
+        {
+          "question": "Do I need any optional supplies to perform regular maintenance?",
+          "answer": "Yes, you will need the Print Head Cleaning Kit (part number C12C890621) to clean the wiper, cap assemblies and print-head casings.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118772?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SPGS6000PE~faq-118772",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:36:53.037819"
+        },
+        {
+          "question": "When and how should I perform maintenance on my product?",
+          "answer": "The Epson Stylus Pro GS6000 requires regular maintenance for optimum performance. Regular maintenance also reduces the amount of ink required for cleaning cycles and minimizes printer “downtime”. See the following for maintenance instructions:\nCleaning the print head\nCleaning the cleaning wiper, capping assemblies, and print head casing\nDrain waste ink\nReplacing the ink flushing pad",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-119410?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SPGS6000PE~faq-119410",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:36:53.996791"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "How do I load media into my product?",
+          "answer": "Load media into the rear of the printer. Make sure the roll of media is centered with the arrow mark on the back of the printer before loading. See\nLoading Media\n.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118766?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SPGS6000PE~faq-118766",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:36:55.015594"
+        },
+        {
+          "question": "How do I clear a paper jam?",
+          "answer": "See\nClearing Media Jams\n.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118750?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SPGS6000PE~faq-118750",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:36:56.067342"
+        },
+        {
+          "question": "Which media types does my product support?",
+          "answer": "See\nSelecting Media for Your Printer\n.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118757?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SPGS6000PE~faq-118757",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:36:56.972300"
+        },
+        {
+          "question": "Why doesn't the Auto Take-up Reel wind my paper automatically when I print from my RIP software?",
+          "answer": "Your RIP software has the cut setting enabled within the paper profile, which overrides the Auto Cut off setting on the printer. Please contact your RIP software support for instructions on disabling the cutter option in the paper profile.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118737?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SPGS6000PE~faq-118737",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:36:58.048129"
+        },
+        {
+          "question": "What steps should I perform whenever I load a new roll of media on my product?",
+          "answer": "See\nPre-Printing Checklist",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118770?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SPGS6000PE~faq-118770",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:36:59.001294"
+        },
+        {
+          "question": "Which Epson paper type setting should I select for Legacy paper?",
+          "answer": "See the table below.\nLegacy Paper\nEpson Paper Type Setting\nBaryta\nPremium Luster Photo Paper\nPlatine\nPremium Luster Photo Paper\nFibre\nWatercolor Paper – Radiant White\nEtching\nWatercolor Paper – Radiant White",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-00009EC-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SPGS6000PE~faq-00009EC-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:36:59.907398"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "How do I prevent smearing on thick media?",
+          "answer": "Try adjusting the height of the print head (platen gap). See\nAdjusting the Print Head Height\n.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118771?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SPGS6000PE~faq-118771",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:01.021578"
+        },
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-00009e9-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SPGS6000PE~faq-00009e9-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:01.959493"
+        },
+        {
+          "question": "I see horizontal or vertical lines in my printout. What should I do?",
+          "answer": "Perform a nozzle check from the printer's control panel or the Epson printer driver, then do one of the following:\nIf there are gaps in the nozzle check pattern, clean the print head nozzles.\nIf there are no gaps in the nozzle check pattern, try the solutions below.\nHorizontal Banding\nIncrease the print resolution.\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nSelect an alternate paper profile for ink coverage.\nSelect the correct paper type in the printer driver.\nAdjust the paper feed\nVertical Banding\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nAlign the print head.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-00009eb-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SPGS6000PE~faq-00009eb-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:04.242569"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Scan",
+      "section_id": "8796127569996",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "Can I use Epson Status Monitor with my product?",
+          "answer": "No. Epson Status Monitor is not supported since there is no official Epson printer driver.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118730?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_SPGS6000PE~faq-118730",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:05.192735"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "Can I use another type of RIP software besides ColorBurst with my product?",
+          "answer": "Yes.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118763?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SPGS6000PE~faq-118763",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:06.094371"
+        },
+        {
+          "question": "Which operating systems support Epson LFP Remote Panel?",
+          "answer": "You can use Epson LFP Remote Panel only in Windows.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118731?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SPGS6000PE~faq-118731",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:07.041340"
+        },
+        {
+          "question": "Is there a Windows driver available for my product?",
+          "answer": "A printer driver is not available for the GS6000. Your printer comes with a communication driver to establish USB or Ethernet communication in the Epson LFP Remote Panel.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118754?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SPGS6000PE~faq-118754",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:08.011855"
+        },
+        {
+          "question": "Can I set up automatic cleaning cycles?",
+          "answer": "Yes. See\nMenu Setting Summary\n.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118773?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SPGS6000PE~faq-118773",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:09.022446"
+        },
+        {
+          "question": "Does my product have a separate high tension media spindle?",
+          "answer": "No. The printer uses a dual-tension spindle that can be switched from normal to high.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-119408?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SPGS6000PE~faq-119408",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:10.121996"
+        },
+        {
+          "question": "Is there a ColorBurst RIP Edition of my product?",
+          "answer": "The ColorBurst RIP is included with the GS6000.  The software is bundled with the printer and is not sold separately.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118728?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SPGS6000PE~faq-118728",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:11.019531"
+        },
+        {
+          "question": "Can I set the date and time on my product?",
+          "answer": "Yes. Do the following:\nPress\nMenu\n.\nPress\nuntil\nMAINTENANCE\nis selected, then press\n.\nPress\nuntil you see\nCLOCK SETTING\n, then press\n.\nUse the\n,\nand\nbuttons to set each item in the date and time, displayed in the following format:\nMM/DD/YY HH:MM\n.\nPress\nto save the setting.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118726?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SPGS6000PE~faq-118726",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:11.903519"
+        },
+        {
+          "question": "How do I manually remove all Epson printer driver files from my Mac computer?",
+          "answer": "Follow the steps below to remove all Epson printer driver files from your Macintosh. You'll need to reinstall any Epson printers that you want to continue using with your Mac afterwards.\nOpen the\nHard Drive\n.\nSelect\nLibrary\n>\nPrinters\n, and then drag the\nEpson\nfolder to the trash.\nEmpty the trash.\nOpen the\nHard Drive\nagain.\nSelect\nApplications\n>\nUtilities\n, and open\nDisk Utility\n.\nSelect your disk or volume from the list on the left.\nClick\nRepair Disk Permissions\n.\nRestart your Macintosh after the Repair Disk Permissions process has completed.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-156433?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SPGS6000PE~faq-156433",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:12.959123"
+        },
+        {
+          "question": "Where can I find the latest driver for my product?",
+          "answer": "A printer driver is not available for the Epson Stylus Pro GS6000.  Your printer comes with a communication driver to establish USB or Ethernet communication in the Epson LFP Remote Panel.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-119407?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SPGS6000PE~faq-119407",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:13.905535"
+        },
+        {
+          "question": "Do the heaters need to be turned on for my product to operate?",
+          "answer": "No, the heaters do not need to be turned on for the printer to operate.  However, we recommend setting the heaters to the temperature specified in the package instructions for the media you're using. Setting the heaters to an incorrect temperature can affect print quality.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118759?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SPGS6000PE~faq-118759",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:15.120785"
+        },
+        {
+          "question": "How do I save my Epson printer driver presets so I can restore them if I reinstall the Epson printer driver in Windows?",
+          "answer": "Note:\nYou may lose some custom settings when you uninstall the printer driver.\nBefore you reinstall the printer driver, do the following:\nOpen\nFile Explorer\nor\nWindows Explorer\n.\nSelect\nThis PC\nor\nComputer\n>\nC:\ndrive >\nProgram Files\n>\nEpson\n> [your printer name].\nMove the UCI extension files to a different folder on your desktop.\nNote:\nAfter you reinstall the Epson printer driver, move the UCI extension files back to your printer's folder as described in step 2.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-00009e6-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SPGS6000PE~faq-00009e6-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:16.478119"
+        },
+        {
+          "question": "How do I install the ICC profiles in Windows XP or Windows 7?",
+          "answer": "Do the following:\nDownload the ICC profiles for your printer and save them in a folder you can easily find.\nClose all open software.\nOpen\nWindows Explorer\n, then select\nComputer\n>\nC:\ndrive >\nWindows\n>\nSystem32\n>\nspool\n>\ndrivers\n>\ncolor\n.\nMove the ICC profiles into the\ncolor\nfolder, then close all open windows.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-00009E5-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SPGS6000PE~faq-00009E5-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:17.441155"
+        },
+        {
+          "question": "How do I determine my printer driver version on my Mac?",
+          "answer": "Open the\nmenu and select\nSystem Preferences\nor\nSystem Settings\n>\nPrinters & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n. Your printer driver version is displayed.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-00009e4-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SPGS6000PE~faq-00009e4-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:18.361124"
+        },
+        {
+          "question": "How do I manually install the Epson ICC profiles on my Mac?",
+          "answer": "Do the following:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinters2\n>\nICCProfiles\n.\nPress and hold the\ncontrol\nkey on your keyboard while you select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n, select and copy all files, then close all open windows.\nOpen your hard drive, select\nLibrary\n>\nColorSync\n>\nProfiles\n, then paste the files into this folder.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-0000b03-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SPGS6000PE~faq-0000b03-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:19.278243"
+        },
+        {
+          "question": "Where are the ICC profiles located for my printer on my Mac?",
+          "answer": "Do the following to locate the files:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinter2\n>\nICCProfiles\n.\nPress and hold the\nControl\nkey on your keyboard while you click the profile package in the\nICCProfiles\nfolder. In the pop-up menu that appears, select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-00009ed-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SPGS6000PE~faq-00009ed-shared",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:20.229938"
+        },
+        {
+          "question": "My print job disappears from the Windows print queue but does not print. What should I do?",
+          "answer": "Follow the steps below:\nDo one of the following:\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your printer and select\nManage\n>\nPrinting preferences\n.\nWindows 8\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the\nUtility\ntab, then\nSpeed and Progress\n.\nSelect the\nAlways Spool RAW Datatype\nand\nCoarse Rendering\ncheckboxes, then click\nOK\n.\nNote:\nIf the\nProcessed by Printer\ncheckbox is selected, deselect it.\nTry printing again.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-00009e8-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SPGS6000PE~faq-00009e8-shared",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:21.221630"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SPGS6000PE~faq-00004dc-shared",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:20.460376"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SPGS6000PE~faq-0000f4d-shared",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:21.513515"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "How do I know what temperature I should select for the heaters?",
+          "answer": "Check your media packaging for heater temperature settings. Be sure to set the correct temperature to prevent print quality problems.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118758?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SPGS6000PE~faq-118758",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:22.524350"
+        },
+        {
+          "question": "In which direction can the Auto Take-Up Reel move?",
+          "answer": "The Auto Take-Up Reel rolls the media only in a forward direction.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118748?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SPGS6000PE~faq-118748",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:23.716364"
+        },
+        {
+          "question": "Are carrying bars necessary to mount my product onto my product stand?",
+          "answer": "Carrying bars are not required to mount the printer, but are recommended to make the installation easier. You can use steel pipes from a local hardware store to mount the printer; we recommend pipes with a maximum diameter of 1 inch and a length of 84 inches.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-119412?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SPGS6000PE~faq-119412",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:24.966285"
+        },
+        {
+          "question": "Does my product have a unit ID code?",
+          "answer": "Yes. You'll find it in the Epson Preferred booklet that comes with your printer.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118747?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SPGS6000PE~faq-118747",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:25.864597"
+        },
+        {
+          "question": "Where is my product's manual cutting guide?",
+          "answer": "The manual cutting guide is located on top of the post heater.\nWarning:\nDo not place your fingers in the path of the cutting tool to avoid injuring yourself.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118776?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SPGS6000PE~faq-118776",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:26.789601"
+        },
+        {
+          "question": "What are the dimensions and weight of my product?",
+          "answer": "Specification\nHeight*\n49.6 inches (1261 mm)\nWidth*\n106.2 inches (2698 mm)\nDepth\n37.1 inches (943 mm)\n41.1 inches (1045 mm) with Auto Take-Up Reel\nPrinter weight\n(without consumables)\n331 lb (150 kg)\nStand weight\n75 lb (34 kg)\nAuto take-up reel weight\n42 lb (19 kg)\n*\nIncluding printer stand and take-up reel.\nFor detailed printer dimensions in millimeters, see the following diagram:",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-119406?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SPGS6000PE~faq-119406",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:27.687073"
+        },
+        {
+          "question": "How do I get service for my product I purchased in another country?",
+          "answer": "Due to differences in products sold in other countries, printers need to be serviced in the country of origin. See\nwww.epson.com\nto find support in your country.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118725?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SPGS6000PE~faq-118725",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:28.711716"
+        },
+        {
+          "question": "How many heaters are in my product?",
+          "answer": "The printer has three heaters: pre, platen, and post.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118756?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SPGS6000PE~faq-118756",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:29.658043"
+        },
+        {
+          "question": "What do the 3 bars in the lower right corner of my product's LCD indicate?",
+          "answer": "The 3 thermometer icons indicate the current temperature level for the pre, platen, and post heaters in the printer.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118745?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SPGS6000PE~faq-118745",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:30.565077"
+        },
+        {
+          "question": "Is my product stand included with my product?",
+          "answer": "Yes.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118729?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SPGS6000PE~faq-118729",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:31.497397"
+        },
+        {
+          "question": "Where can I obtain the SDS or WIDS sheets?",
+          "answer": "See Safety Data Sheets/PIS to download a copy.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118765?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SPGS6000PE~faq-118765",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:32.514412"
+        },
+        {
+          "question": "What does the \"A\" and \"B\" on top of a printed nozzle check indicate?",
+          "answer": "Each color uses 360 nozzles that are divided into two rows of 180 nozzles. When printing a nozzle check, each row produces its own nozzle check indicated by the \"A\" and \"B\" on top. This allows you to identify which row of nozzles is clogged and needs cleaning.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-119409?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SPGS6000PE~faq-119409",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:33.486198"
+        },
+        {
+          "question": "How should I transport my product?",
+          "answer": "You must carefully prepare the printer for transportation as described in\nMoving or Transporting the Printer\n. You may need to perform maintenance procedures before transport, depending on how long the printer will be idle.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118760?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SPGS6000PE~faq-118760",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:34.439985"
+        },
+        {
+          "question": "How do I cut off my prints?",
+          "answer": "Follow these steps to manually cut off your prints:\nMake sure\nREADY\nappears on the LCD display.\nPress\nor\nto adjust the cutting position of the media, if necessary. (When you are using the Auto Take-Up Reel, you cannot feed the media backward.)\nOpen the front cover.\nIf you are not using the Auto Take-Up Reel, hold your print and pull slightly to remove any slack.\nUsing a razor blade or other cutting tool, cut off your print by guiding the tool along the cutting groove in the post heater as shown.\nWarning:\nDo not place your fingers in the path of the cutting tool to avoid injuring yourself.\nIf you are using the Auto Take-Up Reel, the scroller rotates to take up your printed media. To stop media take-up, set the switch on the top of the reel controller to\nOFF\n.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118749?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SPGS6000PE~faq-118749",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:35.328690"
+        },
+        {
+          "question": "How many nozzles does my product use for each color?",
+          "answer": "There are 360 nozzles per color.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118767?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SPGS6000PE~faq-118767",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:36.221350"
+        },
+        {
+          "question": "How do I use the Auto Take-Up Reel on my product?",
+          "answer": "See\nUsing the Auto Take-Up Reel\n.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118753?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SPGS6000PE~faq-118753",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:37.176080"
+        },
+        {
+          "question": "What is the minimum and maximum supported paper width I can use with my product?",
+          "answer": "The minimum roll media width is 12 inches and the maximum roll width is 64 inches.  Cut sheet media is not supported.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118739?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SPGS6000PE~faq-118739",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:38.496865"
+        },
+        {
+          "question": "Is an extended warranty available for my product?",
+          "answer": "Yes, two plans are available: One-Year extended warranty (part# EPPGS6KB1, MSRP $4425.00) and a Two-Year extended warranty (part# EPPGS6KB2, MSRP $8725.00).",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118724?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SPGS6000PE~faq-118724",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:39.457908"
+        },
+        {
+          "question": "What transfer speed does the built-in Ethernet interface support?",
+          "answer": "The speed is 10/100/1000Base-T, and the printer will automatically connect to the fastest speed based on your network.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118744?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SPGS6000PE~faq-118744",
+          "display_order": 20,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:40.559894"
+        },
+        {
+          "question": "Which interfaces does my product support?",
+          "answer": "It includes one Hi-speed USB 2.0 (1.1 compatible) and one Gigabit Ethernet Port (10/100/1000Base-T).",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118741?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SPGS6000PE~faq-118741",
+          "display_order": 21,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:41.495832"
+        },
+        {
+          "question": "Where can I find my product's serial number?",
+          "answer": "The serial number is located on a tag below the bar code label on the back of the printer.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118743?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SPGS6000PE~faq-118743",
+          "display_order": 22,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:42.485431"
+        },
+        {
+          "question": "What type of Ethernet cable should I use if I have a Gigabit switch or network?",
+          "answer": "Use a Cat6 cable.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-118732?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SPGS6000PE~faq-118732",
+          "display_order": 23,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:43.446062"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SPGS6000PE~faq-00004b0-shared",
+          "display_order": 24,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:44.471837"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SPGS6000PE~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SPGS6000PE~faq-0000f4a-shared",
+          "display_order": 25,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-GS6000/s/SPT_SPGS6000PE",
+          "fetched_at": "2026-04-02T02:37:45.395398"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

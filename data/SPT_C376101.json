@@ -1,0 +1,322 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Impact Printers",
+  "series": "LQ Series",
+  "model": {
+    "name": "Epson LQ-680Pro",
+    "sku": "SPT_C376101",
+    "url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-680Pro/s/SPT_C376101"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C376101~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C376101~faq-00004dc-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-680Pro/s/SPT_C376101",
+          "fetched_at": "2026-04-02T05:06:59.480598"
+        },
+        {
+          "question": "A label peeled off in the product. How should I remove it?",
+          "answer": "Press the product's\nLF/FF\nbutton until the label appears on the platen and remove the label. If you can't remove the label this way, do not remove the platen from the product. Get the printer serviced.\nNote:\nWe recommend you use the pull tractor to print labels. Labels fed through the rear push tractor can curl and peel off under the platen.",
+          "faq_url": "https://epson.com/faq/SPT_C376101~faq-0000937-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C376101~faq-0000937-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-680Pro/s/SPT_C376101",
+          "fetched_at": "2026-04-02T05:07:00.598239"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C376101~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C376101~faq-00004b0-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-680Pro/s/SPT_C376101",
+          "fetched_at": "2026-04-02T05:07:07.154258"
+        },
+        {
+          "question": "I'm printing serial, my baud rate is at 9600, and intermittently my product will lose data. What should I do?",
+          "answer": "If you are using a non-buffered serial interface board and XON/XOFF is enabled, the XOFF signal may not reach the printer in time to delay data transmission that would result in an overflow and loss of data. If you can use a DTR setting, change XON/XOFF to DTR. If you must use XON/XOFF, try decreasing the baud rate. Another option would be to purchase a 32KB buffered serial interface card (C823071). The buffered serial interface has a flag reset timing, which sets aside additional buffer space to \"catch\" the data overflow. The flag reset timing feature settings are selectable through dip switches on the serial interface card. XON/XOFF won't work on a network.",
+          "faq_url": "https://epson.com/faq/SPT_C376101~faq-34494?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C376101~faq-34494",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-680Pro/s/SPT_C376101",
+          "fetched_at": "2026-04-02T05:07:06.734539"
+        },
+        {
+          "question": "What is the recommended duty cycle for my product?",
+          "answer": "The specification recommended is 25 percent. Epson America's definition of a 25 percent duty cycle stands for the printer printing (not idle) for two hours per day based on an eight hour day at 22 days per month.",
+          "faq_url": "https://epson.com/faq/SPT_C376101~faq-34491?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C376101~faq-34491",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-680Pro/s/SPT_C376101",
+          "fetched_at": "2026-04-02T05:07:08.292823"
+        },
+        {
+          "question": "There is paper loaded on the tractor unit. Why won't my product load paper?",
+          "answer": "Make sure the paper source lever is set to the tractor position. Facing the back of the printer, make sure the paper is loaded over to the left side of the printer. The paper sensor is located on the left side of the printer. If the sensor does not sense that there is paper loaded, the printer will not operate properly.",
+          "faq_url": "https://epson.com/faq/SPT_C376101~faq-34519?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C376101~faq-34519",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-680Pro/s/SPT_C376101",
+          "fetched_at": "2026-04-02T05:07:09.379933"
+        },
+        {
+          "question": "What optional interface cards are compatible with the LQ-680Pro?",
+          "answer": "You can install an optional interface card to supplement your printer's built-in parallel interface and provide added network compatibility. The EPSON interface cards listed below are compatible with your printer. (Not all the interfaces in the table are available worldwide.)\n- Model number Card type\n- C82305* / C82306* Serial interface card\n- C82307* / C82308* 32KB serial interface card\n- C82312* LocalTalk interface card\n- C82313* 32KB IEEE-488 interface card\n- C82314* Coax interface card\n- C82315* Twinaxial interface card\n- C82345* IEEE-1284 (Type B bidirectional)\n- Parallel interface card\n- C82362*/C82363*/C82364* Ethernet interface card\n- C82384* EpsonNet 10/100 Base Tx Int. Print Server The asterisk (*) is a substitute for the last digit, which varies by country. When you use Ethernet interface card C82363*, you need to attach the optional interface adapter (C82525*) to the interface card. Caution: If you install the C82305 * /C82306 * optional serial interface card, be sure to set the transfer speed to one of the following: 300, 600, 1200, 2400, 4800, 9600, 19200 bps If you are unsure whether you need an optional interface or would like to know more about interfaces, contact your dealer.",
+          "faq_url": "https://epson.com/faq/SPT_C376101~faq-34490?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C376101~faq-34490",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-680Pro/s/SPT_C376101",
+          "fetched_at": "2026-04-02T05:07:10.539938"
+        },
+        {
+          "question": "My product has stopped printing and the pause light is flashing. Why has my product stopped printing?",
+          "answer": "The print head may be overheated. Wait a few minutes and the printer should resume printing automatically. If the printer does not start printing again, please contact EPSON technical support for assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C376101~faq-34524?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C376101~faq-34524",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-680Pro/s/SPT_C376101",
+          "fetched_at": "2026-04-02T05:07:11.652032"
+        },
+        {
+          "question": "What are the common escape codes for my product?",
+          "answer": "For escape codes, please refer to the Command Summary of your User's Manual. If you need to use advanced escape codes for programming purposes, you can purchase an ESC/P Reference Manual from the EPSON Store.",
+          "faq_url": "https://epson.com/faq/SPT_C376101~faq-34492?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C376101~faq-34492",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-680Pro/s/SPT_C376101",
+          "fetched_at": "2026-04-02T05:07:12.734626"
+        },
+        {
+          "question": "How do I create a custom paper size in the Server Properties?",
+          "answer": "Follow these steps to create a new page size accessible by all printer drivers installed in Windows:\nOpen the\nPrinters\nor\nPrinters and Faxes\nwindow.\nClick\nFile\n, then\nServer Properties\n.\nPut a check in the\nCreate a new form\nbox.\nInput a name for the custom paper size.\nUnder\nPaper Size\n, enter the desired height and width.\nClick\nSave\nor\nSave Form\nto add the new form size to the list, then\nOK\nto close Server Properties.",
+          "faq_url": "https://epson.com/faq/SPT_C376101~faq-140674?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C376101~faq-140674",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-680Pro/s/SPT_C376101",
+          "fetched_at": "2026-04-02T05:07:13.823553"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "My product has stopped printing and the pause light is flashing. Why has my product stopped printing?",
+          "answer": "The print head may be overheated. Wait a few minutes and the printer should resume printing automatically. If the printer does not start printing again, please contact EPSON technical support for assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C376101~faq-34524?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C376101~faq-34524",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-680Pro/s/SPT_C376101",
+          "fetched_at": "2026-04-02T05:07:14.892504"
+        },
+        {
+          "question": "Why won't my product print serially from my computer?",
+          "answer": "If you are using a straight through modem cable, change the cable to a null modem cable (pins 2 and 3 are reversed). If you are already using a null modem cable, ensure that the Default Settings for the serial port on the printer match the settings on your computer. There is always the possibility of a loose connection or a bad cable. Disconnect and reconnect the cable on the PC and the printer and try printing again. If you are still experiencing difficulty, try a different cable or take the printer to another computer to see if the computer's port is malfunctioning.",
+          "faq_url": "https://epson.com/faq/SPT_C376101~faq-34478?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C376101~faq-34478",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-680Pro/s/SPT_C376101",
+          "fetched_at": "2026-04-02T05:07:15.958218"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "A label peeled off in the product. How should I remove it?",
+          "answer": "Press the product's\nLF/FF\nbutton until the label appears on the platen and remove the label. If you can't remove the label this way, do not remove the platen from the product. Get the printer serviced.\nNote:\nWe recommend you use the pull tractor to print labels. Labels fed through the rear push tractor can curl and peel off under the platen.",
+          "faq_url": "https://epson.com/faq/SPT_C376101~faq-0000937-shared?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C376101~faq-0000937-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-680Pro/s/SPT_C376101",
+          "fetched_at": "2026-04-02T05:07:17.044030"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "How do I create a custom paper size in the Server Properties?",
+          "answer": "Follow these steps to create a new page size accessible by all printer drivers installed in Windows:\nOpen the\nPrinters\nor\nPrinters and Faxes\nwindow.\nClick\nFile\n, then\nServer Properties\n.\nPut a check in the\nCreate a new form\nbox.\nInput a name for the custom paper size.\nUnder\nPaper Size\n, enter the desired height and width.\nClick\nSave\nor\nSave Form\nto add the new form size to the list, then\nOK\nto close Server Properties.",
+          "faq_url": "https://epson.com/faq/SPT_C376101~faq-140674?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C376101~faq-140674",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-680Pro/s/SPT_C376101",
+          "fetched_at": "2026-04-02T05:07:18.118797"
+        },
+        {
+          "question": "The single sheet paper is feeding in crooked or keeps jamming. What should I do to correct this?",
+          "answer": "Remove the paper guide and install it as described in \"Attaching the paper guide\" in Chapter 1 of your users manual. Move the edge guides so that they match the width of your paper. Be sure you're using the right type of paper. Also, use only new, clean sheets of paper.",
+          "faq_url": "https://epson.com/faq/SPT_C376101~faq-34521?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C376101~faq-34521",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-680Pro/s/SPT_C376101",
+          "fetched_at": "2026-04-02T05:07:19.207911"
+        },
+        {
+          "question": "There is paper loaded on the tractor unit. Why won't my product load paper?",
+          "answer": "Make sure the paper source lever is set to the tractor position. Facing the back of the printer, make sure the paper is loaded over to the left side of the printer. The paper sensor is located on the left side of the printer. If the sensor does not sense that there is paper loaded, the printer will not operate properly.",
+          "faq_url": "https://epson.com/faq/SPT_C376101~faq-34519?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C376101~faq-34519",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-680Pro/s/SPT_C376101",
+          "fetched_at": "2026-04-02T05:07:20.383529"
+        },
+        {
+          "question": "Can I use the platen knob to load or adjust paper?",
+          "answer": "No, the platen knob is not to be used to load or adjust paper. The knob should only be used to clear paper jams after the printer has been turned off. Use the Load/Eject button to load or remove paper and the Microfeed feature to adjust the top-of-form position of the paper.",
+          "faq_url": "https://epson.com/faq/SPT_C376101~faq-34511?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C376101~faq-34511",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-680Pro/s/SPT_C376101",
+          "fetched_at": "2026-04-02T05:07:21.470199"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "My product starts printing too far down the page. Is there any way I can adjust the starting point of the print job?",
+          "answer": "There is a feature called Microfeed that allows you to adjust the top-of-form (TOF) position in increments of 1/180th of an inch. To use this feature, load the paper into the printer. Press the Pause button for three seconds (until Pause light flashes), then press LF/FF to move the paper forward or press Load/Eject to move the paper backward. Once you have the TOF position set where you want it, send a print job. The printer will remember the TOF setting and will position the print head accordingly for the next page.",
+          "faq_url": "https://epson.com/faq/SPT_C376101~faq-34520?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C376101~faq-34520",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-680Pro/s/SPT_C376101",
+          "fetched_at": "2026-04-02T05:07:22.586100"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "I'm printing serial, my baud rate is at 9600, and intermittently my product will lose data. What should I do?",
+          "answer": "If you are using a non-buffered serial interface board and XON/XOFF is enabled, the XOFF signal may not reach the printer in time to delay data transmission that would result in an overflow and loss of data. If you can use a DTR setting, change XON/XOFF to DTR. If you must use XON/XOFF, try decreasing the baud rate. Another option would be to purchase a 32KB buffered serial interface card (C823071). The buffered serial interface has a flag reset timing, which sets aside additional buffer space to \"catch\" the data overflow. The flag reset timing feature settings are selectable through dip switches on the serial interface card. XON/XOFF won't work on a network.",
+          "faq_url": "https://epson.com/faq/SPT_C376101~faq-34494?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C376101~faq-34494",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-680Pro/s/SPT_C376101",
+          "fetched_at": "2026-04-02T05:07:23.652563"
+        },
+        {
+          "question": "What are the common escape codes for my product?",
+          "answer": "For escape codes, please refer to the Command Summary of your User's Manual. If you need to use advanced escape codes for programming purposes, you can purchase an ESC/P Reference Manual from the EPSON Store.",
+          "faq_url": "https://epson.com/faq/SPT_C376101~faq-34492?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C376101~faq-34492",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-680Pro/s/SPT_C376101",
+          "fetched_at": "2026-04-02T05:07:24.736851"
+        },
+        {
+          "question": "How do you select the paper source for the different types of paper you want to use?",
+          "answer": "Use the Paper Source button on the control panel to select a paper source. Paper source and paper types The table below shows which paper source to use for each paper type.\n- Paper source\n- _______________________________________________________\n- Paper type Tractor Paper Optional cut- Optional roll\n- guide sheet feeder paper holder**\n- Continuous Paper X - - -\n- Continuous X - - -\n- multipart forms\n- Labels X - - -\n- Single sheets - X X -\n- Single sheet\n- multipart forms - X *(bin 1 only) -\n- Envelopes - X (bin 1 only) -\n- Postcards - X (bin 1 only) -\n- Roll paper - - - X\n- X You can use this paper type with this paper source.\n- You cannot use this paper type with this paper source. You can use only carbonless single-sheet multipart forms that are glued at the top of the forms.\n- ** The optional roll paper holder is not available only in some countries.",
+          "faq_url": "https://epson.com/faq/SPT_C376101~faq-34515?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C376101~faq-34515",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-680Pro/s/SPT_C376101",
+          "fetched_at": "2026-04-02T05:07:25.785033"
+        },
+        {
+          "question": "Can the EPSON LQ-680Pro automatically feed individual multipart forms?",
+          "answer": "Yes, by using an Optional Cut Sheet Feeder, the LQ-680Pro can automatically feed individual multipart documents or sheets of paper.",
+          "faq_url": "https://epson.com/faq/SPT_C376101~faq-34517?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C376101~faq-34517",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-680Pro/s/SPT_C376101",
+          "fetched_at": "2026-04-02T05:07:26.874153"
+        },
+        {
+          "question": "How can I change my product's default settings?",
+          "answer": "There are two ways to change the default settings on the printer. You can use the EPSON Remote! utility program to change the printer's default settings from your computer or you can change the default settings manually with the printer's front control panel buttons.",
+          "faq_url": "https://epson.com/faq/SPT_C376101~faq-34506?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C376101~faq-34506",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-680Pro/s/SPT_C376101",
+          "fetched_at": "2026-04-02T05:07:27.959322"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C376101~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C376101~faq-00004dc-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-680Pro/s/SPT_C376101",
+          "fetched_at": "2026-04-02T05:07:29.175033"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "What is the recommended duty cycle for my product?",
+          "answer": "The specification recommended is 25 percent. Epson America's definition of a 25 percent duty cycle stands for the printer printing (not idle) for two hours per day based on an eight hour day at 22 days per month.",
+          "faq_url": "https://epson.com/faq/SPT_C376101~faq-34491?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C376101~faq-34491",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-680Pro/s/SPT_C376101",
+          "fetched_at": "2026-04-02T05:07:30.252547"
+        },
+        {
+          "question": "What optional interface cards are compatible with the LQ-680Pro?",
+          "answer": "You can install an optional interface card to supplement your printer's built-in parallel interface and provide added network compatibility. The EPSON interface cards listed below are compatible with your printer. (Not all the interfaces in the table are available worldwide.)\n- Model number Card type\n- C82305* / C82306* Serial interface card\n- C82307* / C82308* 32KB serial interface card\n- C82312* LocalTalk interface card\n- C82313* 32KB IEEE-488 interface card\n- C82314* Coax interface card\n- C82315* Twinaxial interface card\n- C82345* IEEE-1284 (Type B bidirectional)\n- Parallel interface card\n- C82362*/C82363*/C82364* Ethernet interface card\n- C82384* EpsonNet 10/100 Base Tx Int. Print Server The asterisk (*) is a substitute for the last digit, which varies by country. When you use Ethernet interface card C82363*, you need to attach the optional interface adapter (C82525*) to the interface card. Caution: If you install the C82305 * /C82306 * optional serial interface card, be sure to set the transfer speed to one of the following: 300, 600, 1200, 2400, 4800, 9600, 19200 bps If you are unsure whether you need an optional interface or would like to know more about interfaces, contact your dealer.",
+          "faq_url": "https://epson.com/faq/SPT_C376101~faq-34490?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C376101~faq-34490",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-680Pro/s/SPT_C376101",
+          "fetched_at": "2026-04-02T05:07:31.496996"
+        },
+        {
+          "question": "How do you select bar codes on my product?",
+          "answer": "The eight built-in bar codes are only selectable through software using an ESC code sequence. The built-in bar codes include: EAN-13, EAN-8, Interleaved 2 of 5, UPC-A, UPC-E, Code 39, Code 128, and POSTNET.",
+          "faq_url": "https://epson.com/faq/SPT_C376101~faq-34504?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C376101~faq-34504",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-680Pro/s/SPT_C376101",
+          "fetched_at": "2026-04-02T05:07:32.588622"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C376101~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C376101~faq-00004b0-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-680Pro/s/SPT_C376101",
+          "fetched_at": "2026-04-02T05:07:33.719868"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

@@ -1,0 +1,1233 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "All-In-Ones",
+  "series": "XP Series",
+  "model": {
+    "name": "Epson XP-640",
+    "sku": "SPT_C11CF50201",
+    "url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "The following options are available:\nYou can use Epson Software Updater (which is installed the first time you install the printer driver) to notify you when new updates are available for download. Software Updater analyzes the Epson software (drivers, utilities, firmware, etc.) installed on your computer and product, and notifies you if new updates are available for download.\nIf you've already installed a Windows printer driver, you can update the driver by selecting\nSoftware Update\non the Maintenance tab in the printer driver settings window.*\nIf you're using a Mac, update the driver by doing one of the following:\nOS X 10.10\n,\nOS X 10.11\n,\nmacOS 10.12.x\n, or\nmacOS 10.13.x\n: Open the\nmenu and select\nApp Store\n>\nUpdates\n.\nOS X (other versions)\n: Open the\nmenu and select\nSoftware Update\n.\nYou can download the software from the Downloads tab for your product.\n*This option may not be available in all drivers.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-0000aff-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CF50201~faq-0000aff-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:08.848200"
+        },
+        {
+          "question": "I updated my printer's firmware, and now my product shows that the ink is not recognized. What should I do?",
+          "answer": "From time to time, Epson updates its firmware to ensure the printer operates as designed, and the printer is designed to work only with genuine Epson-brand cartridges. Other brands of ink cartridges and ink supplies are not compatible and, even if described as compatible, may not function properly. Please replace any non-Epson cartridges with Genuine Epson cartridges.\nEpson provides information about the design of the printer on the box as well as many other locations including materials shipped with the printer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-0000bd0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CF50201~faq-0000bd0-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:09.767931"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-00004c5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CF50201~faq-00004c5-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:10.709959"
+        },
+        {
+          "question": "How do I scan a document so I can edit the text in a word processing program?",
+          "answer": "You can scan a document and convert the text into data that you can edit with a word processing program using a process called OCR (Optical Character Recognition). To scan and use OCR, you need to use an OCR program.\nOCR software cannot recognize handwritten characters, and certain types of documents or text may be difficult for OCR software to recognize, such as:\nItems that have been copied from other copies\nFaxes\nText with tightly spaced characters\nText that is in tables or underlined\nCursive or italic fonts and font sizes less than 8 points",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-0000508-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CF50201~faq-0000508-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:11.643149"
+        },
+        {
+          "question": "What security measures does Epson recommend for its network products?",
+          "answer": "To help deter unauthorized access to your product over a network, you should protect your network environment using appropriate security measures.\nSecurity measures such as these can help deter threats such as loss of user data, use of telephone and fax lines, and other intrusions:\nEnable security on your wireless LAN if your product supports a wireless connection\nEnable the appropriate security on the wireless LAN you plan to use with your product. Network security, such as a network password, can deter interception of traffic over the wireless LAN. Your router may already have a default password enabled by your Internet service provider (ISP). See your ISP and router documentation for instructions on how to change the default password and better secure your network.\nConnect your product only to a network protected by a firewall\nConnecting your product directly to the Internet may leave it vulnerable to security threats. Instead, connect it to a router or other networking device protected by a firewall. Your router may already have a firewall set up by your Internet service provider; check with your ISP for confirmation. For best results, set up and use a private IP address for your network connection.\nChange the default administrator password on your product\nIf your product has an option to set an administrator password, change the default administrator password to deter access by unauthorized users to personal data stored on your product, such as IDs, passwords, and contact lists. See the product's User's Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-0000a05-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CF50201~faq-0000a05-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:12.516461"
+        },
+        {
+          "question": "How do I find my SSID and network password?",
+          "answer": "In most cases, the software installer will automatically set up your wireless connection, so you don't need to know your SSID and password. However, if it cannot determine your SSID or password, you will be prompted to set up your wireless connection manually.\nCheck your router documentation for this information. Most routers have a default SSID and password that can be modified once the router is set up.\nNote:\nThe SSID is the name of the wireless network that is set up on your router or access point.\nIf you don't know this information, you need to contact the manufacturer of your router or the person who set up your network.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-00009c6-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CF50201~faq-00009c6-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:13.407584"
+        },
+        {
+          "question": "How do I add my product as an IP printer on my Mac?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n.\nSelect your printer, if necessary.\nClick\n+\nor\nAdd Printer, Scanner, or Fax\nand select\nIP\non the toolbar.\nSelect a protocol. If you do not know which protocol to choose, leave it as\nLine Printer Daemon-LPD\n.\nClick the\nAddress\nfield and enter your printer's IP address. You see the message\nGathering printer information\nas your Mac connects to the printer.\nClick\nAdd\nafter your printer appears in the Use field to create a printer queue. If your printer does not appear in the Use field, select\nAuto Select\nfrom the drop-down box.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-00004ba-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CF50201~faq-00004ba-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:14.302735"
+        },
+        {
+          "question": "Can I set up my product for both a USB and network connection?",
+          "answer": "Yes, you can set up the product for both a USB and a wireless network connection at the same time. To set up both connections, you must install the product's software twice (i.e., once for each connection type).\nNote:\nWith this setup, your product may appear as two devices in the Printer list. One device is for the USB connection, and the other is for the network connection.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-0000b11-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CF50201~faq-0000b11-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:15.233569"
+        },
+        {
+          "question": "I see the message Unable to connect to the server. Please try again later. when I try to install the Drivers and Utilities Combo Package Installer. What should I do?",
+          "answer": "Make sure your computer has an Internet connection and try installing the software again. If the same message appears, then do the following:\nGo to the Downloads tab on your product's support page.\nDownload and save the Drivers and Utilities Combo Package Installer to your computer.\nMake a note of the file name and save the location so you can easily retrieve it.\nRight-click the file and select\nRun as Administrator\n.\nThe software should install.\nNote:\nYou can also try to install the drivers and utilities individually.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-000094f-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CF50201~faq-000094f-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:16.098395"
+        },
+        {
+          "question": "I can't get Epson Status Monitor to work over my wireless network. What should I do?",
+          "answer": "If the product is not shared, make sure it is connected to the network wirelessly. Try moving your product or computer to a different location within range of your wireless network. Avoid placing the computer, product, or wireless access point near microwaves, cordless telephones, or other sources of wireless interference.\nIf the product is set up as a shared printer, Epson Status Monitor will not work and is not supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-00004c7-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CF50201~faq-00004c7-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:16.992859"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Cloud or Mobile",
+      "section_id": "8796127340620",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "What is Epson Connect?",
+          "answer": "Epson Connect provides mobile services that allow you to print and scan from anywhere with an Internet connection. Epson Connect includes the following solutions:\nNote:\nYour product may not support all of the Epson Connect features or services. Check your product's User's Guide to see which features your product supports.\nEpson Email Print\n- Print your photos and documents from anywhere by simply sending an email. See\nEpson Email Print\nfor more information.\nEpson Remote Print\n- Print remotely over the Internet. See\nEpson Remote Print\nfor more information.\nEpson Scan to Cloud\n- Scan your documents and photos to an online storage account. See\nEpson Scan to Cloud\nfor more information.\nEpson iPrint\n- A wireless printing app for iOS or Android smartphones and tablets. See\nEpson iPrint for iOS\nor\nEpson iPrint for Android\nfor more information.\nRelated information\nEpson Connect Solutions for Smartphones, Tablets, and More",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299588?faq_cat=faq-8796127340620",
+          "faq_slug": "SPT_C11CF50201~faq-299588",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:17.857381"
+        },
+        {
+          "question": "Where can I find information on using my Epson product with Google Cloud Print?",
+          "answer": "See our\nGoogle Cloud Print Support\npage.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-000049e-shared?faq_cat=faq-8796127340620",
+          "faq_slug": "SPT_C11CF50201~faq-000049e-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:18.752592"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "How do I set up my product for the fastest printing?",
+          "answer": "If printing becomes slow, try these solutions:\nMake sure your system meets the requirements for your operating system. If you are printing a high-resolution image, you may need more than the minimum requirements. If necessary, increase your system's memory.\nIf you are using Windows 7, close the\nDevices and Printers\nwindow before you print.\nIf you are using OS X, make sure you download and install the Epson printer driver.\nMake sure\nQuiet Mode\nis turned off.\nClear space on your hard drive or run a defragmentation utility to free up existing space.\nClose any programs you are not using when you print.\nIf your product is connected to a USB hub, connect it directly to your computer instead.\nIf printing becomes slower after printing continuously for a long time, the product may have automatically slowed down to protect the print mechanism from overheating or becoming damaged. Let the product rest with the power on for 30 minutes, then try printing again.\nFor the fastest printing, select the following settings in your product software:\nMake sure the paper type setting matches the type of paper you loaded.\nTurn on any high speed settings in your product software.\nSelect a lower print quality setting.\nMake sure the ink drying time has not been increased for double-sided printing.\nWindows\n: Click the\nMaintenance\nor\nUtility\ntab, select\nExtended Settings\nor\nSpeed and Progress\n, and select the following settings:\nAlways Spool RAW Datatype\nPage Rendering Mode\nPrint as Bitmap\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Extended Settings - Windows\nSelecting Basic Print Settings - OS X\nSelecting Printing Preferences - OS X\nRelated references\nWindows System Requirements\nOS X System Requirements\nPaper or Media Type Settings - Printer Software",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297816?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CF50201~faq-297816",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:19.618023"
+        },
+        {
+          "question": "How do I use the copy feature to print a label on a CD/DVD?",
+          "answer": "See below.\nCopying onto a CD/DVD\nYou can copy a printed photo or CD/DVD label directly onto an ink jet-printable CD or DVD. If you want, you can first print a test design on plain paper.\nLoad the CD, DVD, or plain paper you want to print on.\nPress the\nhome button, if necessary.\nPress the\nCD button.\nSelect\nCD/DVD Copy\nand press the\nOK\nbutton.\nFollow the instructions on the LCD screen to place your original CD, DVD, or photo on the scanner glass and press the\nOK\nbutton.\nIf necessary, adjust the inner and outer diameter of your CD as shown on the screen, and press the\nOK\nbutton. You see this screen:\nSelect one of the options shown on the screen and press the\nOK\nbutton. If printing a test print on plain paper, press the\nOK\nbutton again.\nSelect any copy settings as needed.\nWhen you are ready to print, press the\nstart button.\nNote:\nTo cancel printing, press the\ncancel button.\nRelated tasks\nLoading a CD/DVD\nPlacing a CD/DVD on the Scanner Glass\nPlacing Originals on the Scanner Glass",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297794?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CF50201~faq-297794",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:20.507618"
+        },
+        {
+          "question": "How do I print photos directly from a camera or other external device?",
+          "answer": "See below.\nConnecting and Using a USB Flash Drive or External Device\nBefore you connect your thumb drive or device, make sure the product is turned on but not printing.\nNote:\nEpson cannot guarantee the compatibility of your drive.\nRemove any memory cards from the product.\nLoad the paper you want to use for printing.\nInsert your USB thumb drive or the USB cable that came with your device into the\nUSB port on the front of your product.\nInsert storage media (such as a CD) into your drive, if necessary.\nSelect the photos to print from the LCD screen.\nWhen you finish printing, make sure the access light on the drive is not flashing, then remove or disconnect it from the product.\nCaution:\nDo not remove the USB drive or turn off the product when the access light is flashing, or you may lose photos on the drive.\nRelated tasks\nRemoving a Memory Card\nViewing and Printing Photos From the LCD Screen\nRelated information\nLoading Paper",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297821?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CF50201~faq-297821",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:21.363915"
+        },
+        {
+          "question": "How do I copy a document or photo using the product's control panel?",
+          "answer": "See below.\nCopying Documents or Photos\nYou can copy documents or photos onto various sizes and types of paper, including Epson special papers.\nPlace your original document or photo on the scanner glass.\nLoad the paper you want to print on.\nNote:\nLoad only the recommended number of sheets.\nPress the arrow buttons to select\nCopy\nand press the\nOK\nbutton.\nTo print more than one copy, press the\n+\nor\n–\nbutton to select the number (up to 99).\nPress the right or left arrow button to select\nColor\nor\nB&W\n.\nPress the down arrow button, then press the\nOK\nbutton to view and change additional copy settings, if necessary.\nWhen you are ready to copy, press the\nstart button.\nNote:\nTo cancel copying, press the\ncancel button.\nRelated references\nAvailable Epson Papers\nRelated information\nPlacing Originals on the Product\nLoading Paper",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297818?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CF50201~faq-297818",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:22.237312"
+        },
+        {
+          "question": "Can I print on CDs and DVDs?",
+          "answer": "Yes. See below.\nLoading a CD/DVD\nYou can print on any compatible, ink jet-printable CDs or DVDs, including Blu-ray Discs.\nCaution:\nDo not insert the CD/DVD tray while the product is printing, copying, or performing other operations. Otherwise, your product may be damaged or the surface of the CD/DVD may become dirty or scratched.\nNote:\nIf you are using discs where the printable area extends to within 0.16 inch (4 mm) of the center hole, you may need to adjust the inner diameter setting using the control panel or Epson Print CD software.\nBurn your files, music, or video onto your disc before printing on it.\nPress the\nhome button, if necessary.\nPress the\nCD button, select\nLoad CD/DVD\n, and press the\nOK\nbutton.\nWhen you see a message asking if you want to prepare for CD loading, select\nYes\nand press the\nOK\nbutton.\nRaise the control panel all the way up.\nMake sure nothing is on the output tray, then close it.\nClose the front cover.\nRemove the CD/DVD tray from the bottom of the product.\nPlace a CD or DVD on the CD/DVD tray with the printable side faceup, and insert the tray into the slot above the output tray.\nNote:\nMake sure the\nmarks on the tray and the\nmarks on the product line up.\nPress the\nOK\nbutton.\nCaution:\nDo not turn off the product with a CD or DVD loaded in it. Always remove the disc first.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297795?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CF50201~faq-297795",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:23.126953"
+        },
+        {
+          "question": "The CD/DVD won't feed correctly or is ejected. What should I do?",
+          "answer": "Try the following:\nMake sure you insert the CD/DVD tray correctly.\nIf the tray is ejected when you start a print job, the printer is not ready. Wait until you see a message instructing you to close the output tray all the way.Then reinsert the tray and press the\nOK\nbutton.\nAs you insert the tray, you may meet some resistance. Continue sliding the tray into the printer until the arrow marks on the CD/DVD tray and the product line up.\nMake sure the surface of the CD/DVD you are printing on is blank and clean. A CD/DVD with images or text already on the surface area may not load correctly.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299626?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CF50201~faq-299626",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:23.993831"
+        },
+        {
+          "question": "I was able to print from Windows before with a USB connection, but now I can't. What should I do?",
+          "answer": "The problem can be caused by your printer, the connection, or the computer. Do the following:\nTo determine if the printer can print without a computer, print a\nnozzle check pattern\nfrom the product's control panel.\nIf you can print, go to the next step.\nIf you can't print a nozzle check pattern, check the product's LCD for\nerror messages\n. Clear any errors displayed on the LCD, then try printing a nozzle check pattern again. If you still can't print, contact Epson support.\nDelete any pending print job(s) from the Epson print queue\n, then try printing again.\nIf you can print now, you're done, and you can skip the remaining steps.\nIf you can't print, go to the next step.\nTurn off your product and make sure the USB cable is securely connected, then try printing again.\nIf that doesn't help, make sure the USB cable is a shielded cable no more than 6.5 feet (2 meters) long, connect the cable to another USB port on your computer, and/or use a different cable. Then try printing again.\nNote:\nIf you're using a hub or switchbox, connect the product directly to your computer.\nIf you can print now, you're done, and you can skip the remaining steps.\nIf you can't print, go to the next step.\nSet your product as the default printer.\nWindows 10\n: Right-click\nand select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your product icon and select\nSet as Default Printer\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your product icon and select\nSet as Default Printer\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your product icon and select\nSet as Default Printer\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your product icon and select\nSet as Default Printer\n.\nWindows XP\n: Click\nStart\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n. Right-click your product icon and select\nSet as Default Printer\n.\nNote:\nIf there is more than one icon for your printer, select the icon that is not faded (or is in a Ready or Active state) to be your default printer. You can delete any duplicate icons that are faded or in an Offline state by right-clicking the icon and selecting\nDelete\n.\nIf you still can't print, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299651?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CF50201~faq-299651",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:24.897882"
+        },
+        {
+          "question": "Printing or scanning is slow over my wireless connection. What should I do?",
+          "answer": "Try the following:\nMove the computer and your Epson product closer to your wireless router or access point.\nDon't place the computer, product, or wireless access point near microwaves, cordless telephones, or other sources of wireless interference.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299638?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CF50201~faq-299638",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:25.766216"
+        },
+        {
+          "question": "Printing is slow or my product stops printing when I try to print from Windows or OS X. What should I do?",
+          "answer": "Try the following:\nMake sure your system meets the requirements for your operating system. If you are printing a high-resolution image, you may need more than the minimum requirements. If necessary, increase your system's memory.\nIf you're using Windows 7, close the\nDevices and Printers\nwindow before you print.\nIf you are using OS X, make sure you're using the Epson printer driver for your product, not an AirPrint driver.\nMake sure\nQuiet Mode\nis turned off.\nClear space on your hard drive or run the defragmentation utility to free up existing space.\nClose any programs that you're not using when you print.\nIf your product is connected to a USB hub, connect it directly to your computer instead.\nIf printing becomes slower after printing continuously for a long time, the product may have automatically slowed down to protect the print mechanism from overheating or becoming damaged. Let the product rest with the power on for 30 minutes, then try printing again.\nIf the steps above do not help, and you're using Windows 7, Windows Vista, or Windows XP, delete the\nEPAUDF01.AUD\nfile as described below.\nDo one of the following:\nWindows 7\nor\nWindows Vista\n: Click\n, then select\nComputer\nor\nMy Computer\n. Double-click the\nC:\ndrive, then open the folders\nProgramData\n>\nEPSON\n>\nPRINTER\n.\nNote:\nIf you don't see the ProgramData folder, select\nFolder and search options\nfrom the Organize menu. A new window appears. Click the\nView\ntab, then select\nShow hidden files, folders, and drives\nin the Advanced settings. Click\nOK\n.\nWindows XP\n: Click\nStart\n, then select\nMy Computer\n. Double-click the\nC:\ndrive, then open the folders\nDocuments and Settings\n>\nAll Users\n>\nApplication Data\n>\nEPSON\n>\nPRINTER\n.\nNote:\nIf you don't see the Application Data folder, select\nFolder Options\nfrom the Tools menu. A new window appears. Click the\nView\ntab, then select\nShow hidden files, folders, and drives\nin the Advanced settings. Click\nOK\n.\nRight-click the\nEPAUDF01.AUD\nfile, then select\nDelete\n.\nRestart your computer.\nTry printing again.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299610?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CF50201~faq-299610",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:26.661414"
+        },
+        {
+          "question": "When I copy a CD/DVD, the printed image is smaller than the original. What should I do?",
+          "answer": "Make sure the settings on the printer's control panel are set correctly, and the inner and outer diameter match the actual CD/DVD size. Then place a clean piece of plain paper over the CD/DVD on the document table, close the printer cover, and press the\nstart button.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299617?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CF50201~faq-299617",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:27.522408"
+        },
+        {
+          "question": "How do I print a borderless photo from Windows or my Mac?",
+          "answer": "Make sure you load a compatible borderless paper size and type, then follow the steps below for your operating system.\nWindows\nOpen a photo or document for printing.\nSelect the print command in your application.\nNote:\nYou may need to select a print icon on your screen, the\nPrint\noption in the File menu, or another command. See your application's help utility for details.\nIf necessary, select your product name as the printer you want to use.\nNote:\nYou may also need to select\nProperties\nor\nPreferences\nto view your print settings.\nYou see the Main tab of your printer settings window:\nSelect a borderless paper size as the\nDocument Size\nsetting.\nSelect\nBorderless\n.\nNote:\nYou must select a compatible borderless paper type and size to print borderlessly. Check the borderless paper compatibility list for details. You cannot print borderlessly with a custom paper size.\nClick\nOK\n.\nOS X\nOpen a photo or document for printing.\nSelect the print command in your application.\nNote:\nYou may need to select a print icon on your screen, the\nPrint\noption in the File menu, or another command. See your application's help utility for details.\nSelect your product as the\nPrinter\nsetting.\nIf necessary, click the arrow next to the Printer setting or the\nShow Details\nbutton to expand the print window. You see the expanded printer settings window for your product:\nNote:\nThe print window may look different, depending on the version of OS X and the application you are using.\nSelect a borderless paper size as the\nPaper Size\nsetting.\nSelect\nPrint Settings\nfrom the pop-up menu.\nYou see these settings:\nSelect a borderless paper type as the\nMedia Type\nsetting.\nSelect the\nBorderless\ncheckbox or a paper size with a Borderless option. You can also select a custom setting to create a custom paper size.\nNote:\nYou must select a compatible borderless paper type and size to print borderlessly. Check the borderless paper compatibility list for details. You cannot print borderlessly with a custom paper size.\nRelated references\nBorderless Paper Type Compatibility",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299635?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CF50201~faq-299635",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:28.387893"
+        },
+        {
+          "question": "I was able to print from my Mac before with a USB connection, but now I can't. What should I do?",
+          "answer": "The problem can be caused by your printer, the connection, or the computer. Do the following:\nTo determine if the printer can print without a computer, print a\nnozzle check pattern\nfrom the product's control panel.\nIf you can print, go to the next step.\nIf you can't print a nozzle check pattern, check the product's LCD for\nerror messages\n. Clear any errors displayed on the LCD, then try printing a nozzle check pattern again. If you still can't print, contact Epson support.\nDelete any pending print job(s) from the Epson print queue\n, then try printing again.\nIf you can print now, you're done, and you can skip the remaining steps.\nIf you can't print, go to the next step.\nDelete and re-add the print queue. Open the\nmenu, and select\nSystem Preferences\n, then\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n. Select your printer, then click\n. Click\n, select your printer, then click\nAdd\n. Close the\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\nwindow, then try printing again.\nIf you can print now, you're done, and you can skip the remaining steps.\nIf you can't print, go to the next step.\nTurn off your product and make sure the USB cable is securely connected. Then turn on your product and try printing again.\nIf that doesn't help, make sure the USB cable is a shielded cable no more than 6.5 feet (2 meters) long, connect the cable to another USB port on your computer, and/or use a different cable. Then try printing again.\nNote:\nIf you're using a hub or switchbox, connect the product directly to your computer.\nIf you can print now, you're done.\nIf you still can't print, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299649?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CF50201~faq-299649",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:29.289286"
+        },
+        {
+          "question": "How do I print a multi-page document from Windows or my Mac so it stacks in the correct page order?",
+          "answer": "Open the document, then follow the steps below for your operating system.\nWindows\nSelect the print command in your application.\nMake sure your product is selected.\nClick\nProperties\nor\nPreferences\n.\nNote:\nIf you don't see these buttons, click\nSetup\n,\nPrinter\n, or\nOptions\n, then click\nProperties\nor\nPreferences\non the next screen.\nClick the\nMain\ntab.\nSelect\nReverse Order\n.\nClick\nOK\n.\nOS X\nSelect the print command in your application.\nMake sure your product is selected. Click the arrow next to the Printer setting or the\nShow Details\nbutton to expand the print window, if necessary.\nSelect\nPaper Handling\nfrom the printer options pop-up menu.\nSelect\nReverse\nfor the Page Order setting.\nClick\nPrint\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299637?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CF50201~faq-299637",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:30.201636"
+        },
+        {
+          "question": "How do I print labels in Microsoft Office?",
+          "answer": "See the\nCreate and print labels\npage on the Microsoft support site for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-00004bd-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CF50201~faq-00004bd-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:31.096623"
+        },
+        {
+          "question": "I can print with a wireless connection on my home network, but not on a VPN (virtual private network). What should I do?",
+          "answer": "When you connect to a VPN, your computer is no longer communicating with your home (local) network, so it can't print to the product. Some VPNs allow for access to the local network. This depends on if your VPN supports the feature and is enabled. Consult with the supporter of your VPN software (such as your IT department) for help. Otherwise, disconnect from your VPN to connect to your home network again to print.\nNote:\nIf you set up your product with Epson Connect, you can use Epson Remote Print to print over the Internet from a VPN. To download the Epson Remote Print driver, see the Downloads tab on your product's support page.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-0000504-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CF50201~faq-0000504-shared",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:31.977318"
+        },
+        {
+          "question": "It takes a long time to copy a document. What should I do?",
+          "answer": "Try copying your original in draft mode. Do the following:\nPlace your original document on the scanner glass.\nLoad the paper you want to print on in the product.\nNote:\nLoad only the recommended number of sheets.\nPress the\nhome button, if necessary.\nPress the arrow buttons to select\nCopy\n, then press the\nOK\nbutton.\nYou see this screen:\nPress the down arrow button and select\nPaper and Copy Settings\n, then press\nOK\n. Select\nQuality\nand use the left or right arrow to select\nDraft\nas the quality type.\nWhen you are ready to copy, press the\nstart button.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299644?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CF50201~faq-299644",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:32.848269"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "I see the message Printer is Offline when I try to print with a wireless (Wi-Fi) connection on my Mac. What should I do?",
+          "answer": "The problem can be caused by your printer, computer, or wireless network. Do the following:\nTo determine if the printer can print without a computer, print a\nnozzle check pattern\nfrom the product's control panel.\nIf you can print, go to the next step.\nIf you can't print a nozzle check pattern, check the product's LCD for\nerror messages\n. Clear any errors displayed on the LCD, then try printing a nozzle check pattern again. If you still can't print, contact Epson support.\nDelete any pending print job(s) from the Epson print queue\n, then try printing again.\nIf you can print now, you're done, and you can skip the remaining steps.\nIf you can't print, go to the next step.\nOn your Mac, open the\nmenu and select\nSystem Preferences\n. Select\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\nwindow, select your printer, then click\nto remove the printer. Click\n, select your printer with Kind set as\nBonjour\n, select your printer from the Use drop-down list, then click\nAdd\n. This will add the printer back on the printer queue. Then try printing again.\nIf you can print now, you're done, and you can skip the remaining steps.\nIf you still can't print, check the Wi-Fi icon on the product's control panel, then do one of the following:\nIf the Wi-Fi icon\nis displayed, follow the instructions in the\nInitialize Your Router and Restart Your Computer\nsection below.\nIf the Wi-Fi icon\nis displayed, follow the instructions in the\nReinstall the Product Software\nsection below.\nInitialize Your Router and Restart Your Computer\nUnplug your router's power cord from the power outlet, wait a brief period, then plug it back in. Try to print. You may need to re-establish the connection for the other devices on your network.\nIf you can print, you're done. The problem was resolved by initializing your router.\nIf you still can't print, restart your computer, then try printing again. If these steps do not resolve your problem, contact Epson support.\nReinstall the Product Software\nImportant:\nIn most cases, the software installer will automatically set up your wireless connection so you don't need to know your SSID and password. However, if it cannot determine your SSID or password you will be prompted to set up your wireless connection manually. If you don't know them, contact the manufacturer of your router or the person who set up your network.\nIf you are using a 5 GHz wireless router, set the router to operate in dual band (2.4 GHz and 5 GHz) mode. See your router documentation or contact your Internet service provider for instructions.\nReset the product's Wi-Fi settings on the product's control panel by doing the following:\nPress the\nhome button, if necessary. Press the arrow buttons to select\nSettings\nand press\nOK\n. Select\nRestore Default Settings\nand press\nOK\n. Select\nNetwork Settings\n, press\nOK\n, then select\nYes\n.\nOn your Mac, open the\nmenu and select\nSystem Preferences\n. Select the\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\nwindow, select your printer, and then click\nto remove the printer.\nIn\nSystem Preferences\n, click either\nSecurity & Privacy\nor\nSecurity\n. Select the\nFirewall\ntab, then disable the firewall.\nIf you have other firewall software enabled, you'll also need to disable it. If you don't know how to disable it, contact your firewall provider for help.\nNote:\nThis step is needed to install the product's software and complete the Wi-Fi setup. Remember to enable your firewall software after you complete the Wi-Fi setup.\nUnplug your router's power cord from the power outlet, wait a brief period, and then plug it back in. You may need to re-establish the connection for the other devices on your network.\nDownload the\nDrivers and Utilities Combo Package\nfrom the Downloads tab for your product.\nNote:\nMake a note of the file name and its location so you can retrieve it.\nOpen the file you downloaded and follow the on-screen instructions to install the software.\nAfter you complete the Wi-Fi setup, turn your firewall back on. If these troubleshooting instructions did not solve the problem, please contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299656?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CF50201~faq-299656",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:33.734277"
+        },
+        {
+          "question": "I see the message Printer is Offline when I try to print with a USB connection on my Mac. What should I do?",
+          "answer": "The problem can be caused by your printer, the connection, or the computer. Do the following:\nTo determine if the printer can print without a computer, print a\nnozzle check pattern\nfrom the product's control panel.\nIf you can print, go to the next step.\nIf you can't print a nozzle check pattern, check the product's LCD for\nerror messages\n. Clear any errors displayed on the LCD, then try printing a nozzle check pattern again. If you still can't print, contact Epson support.\nDelete any pending print job(s) from the Epson print queue\n, then try printing again.\nIf you can print now, you're done, and you can skip the remaining steps.\nIf you can't print, go to the next step.\nDelete and re-add the print queue. Open the\nmenu, and select\nSystem Preferences\n, then\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n. Select your printer, then click\n. Click\n, select your printer, then click\nAdd\n. Close the\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\nwindow, then try printing again.\nIf you can print now, you're done, and you can skip the remaining steps.\nIf you can't print, go to the next step.\nTurn off your product and make sure the USB cable is securely connected. Then turn on your product and try printing again.\nIf that doesn't help, make sure the USB cable is a shielded cable no more than 6.5 feet (2 meters) long, connect the cable to another USB port on your computer, and/or use a different cable. Then try printing again.\nNote:\nIf you're using a hub or switchbox, connect the product directly to your computer.\nIf you can print now, you're done.\nIf you still can't print, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299648?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CF50201~faq-299648",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:34.618437"
+        },
+        {
+          "question": "The message Open the output tray manually appears on my product. What should I do?",
+          "answer": "You need to extend the product's output tray completely. The product's output tray should remain extended whenever you print. To pull it out, do the following:\nRaise the control panel all the way up.\nOpen the front cover.\nPull out the output tray until it stops.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299627?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CF50201~faq-299627",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:35.506489"
+        },
+        {
+          "question": "I see the message Printer is Offline when I try to print with a USB connection in Windows. What should I do?",
+          "answer": "The problem can be caused by your printer, the connection, or the computer. Do the following:\nTo determine if the printer can print without a computer, print a\nnozzle check pattern\nfrom the product's control panel.\nIf you can print, go to the next step.\nIf you can't print a nozzle check pattern, check the product's LCD for\nerror messages\n. Clear any errors displayed on the LCD, then try printing a nozzle check pattern again. If you still can't print, contact Epson support.\nDelete any pending print job(s) from the Epson print queue\n, then try printing again.\nIf you can print now, you're done, and you can skip the remaining steps.\nIf you can't print, go to the next step.\nTurn off your product and make sure the USB cable is securely connected, then try printing again.\nIf that doesn't help, make sure the USB cable is a shielded cable no more than 6.5 feet (2 meters) long, connect the cable to another USB port on your computer, and/or use a different cable. Then try printing again.\nNote:\nIf you're using a hub or switchbox, connect the product directly to your computer.\nIf you can print now, you're done, and you can skip the remaining steps.\nIf you can't print, go to the next step.\nSet your product as the default printer.\nWindows 10\n: Right-click\nand select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your product icon and select\nSet as Default Printer\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your product icon and select\nSet as Default Printer\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your product icon and select\nSet as Default Printer\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your product icon and select\nSet as Default Printer\n.\nWindows XP\n: Click\nStart\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n. Right-click your product icon and select\nSet as Default Printer\n.\nNote:\nIf there is more than one icon for your printer, select the icon that is not faded (or is in a Ready or Active state) to be your default printer. You can delete any duplicate icons that are faded or in an Offline state by right-clicking the icon and selecting\nDelete\n.\nIf you still can't print, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299650?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CF50201~faq-299650",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:36.380337"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CF50201~faq-00004c5-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:37.243355"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Image Quality or Appearance",
+      "section_id": "8796127275084",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "An area I highlighted with a fluorescent (or neon) marker does not appear in my scan. What should I do?",
+          "answer": "Try using a non-fluorescent marker. This limitation occurs with some scanners that use a contact image sensor (CIS) and cannot detect fluorescent marks accurately, especially yellow marks.\nIf you need to scan a document with fluorescent marks, we recommend you use a scanner with charge-coupled device (CCD) technology or a full-color contact image sensor, both of which can detect fluorescent marks. The following Epson products feature CCD or full-color CIS optics:\nDS-30000\nDS-32000\nWorkForce DS-50000\nWorkForce DS-60000\nWorkForce DS-70000",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-00008c5-shared?faq_cat=faq-8796127275084",
+          "faq_slug": "SPT_C11CF50201~faq-00008c5-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:38.129265"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "How do I print with black ink from Windows or my Mac when a color cartridge is expended?",
+          "answer": "When a color ink cartridge is expended, you can temporarily continue printing from your computer using black ink. Replace the expended color cartridge as soon as possible for future printing.\nTo temporarily print with black ink, see the instructions below for your operating system.\nPrinting with Expended Color Cartridges - Windows\nIf you see a message during printing telling you that you can temporarily print in black ink with an expended color cartridge, you can cancel your print job and select settings to print on plain paper or on an envelope.\nNote:\nTo use this feature, Epson Status Monitor must be enabled.\nClick\nCancel\nor\nCancel Print\nto cancel your print job.\nNote:\nIf the message screen appears on another computer on a network, you may need to cancel the print job using the product control panel.\nLoad plain paper or an envelope in your product.\nAccess the print settings in your print application.\nClick the\nMain\ntab.\nSelect\nPlain Paper/Bright White Paper\nor\nEnvelope\nas the paper type setting.\nSelect the\nBlack/Grayscale\ncheckbox.\nClick\nOK\n.\nPrint your document. Epson Status Monitor 3 displays a print message.\nClick\nPrint in Black\nto print your document.\nRelated information\nLoading Paper\nPrinting with Expended Color Cartridges - OS X\nNote:\nMake sure you're using the Epson driver for your product.  You can download and install the Epson Drivers and Utilities Combo  Package from the Downloads tab on your product's support page.\nIf printing stops, you can cancel your print job and select settings to temporarily print with only black ink on plain paper or on an envelope.\nClick the printer icon in the Dock.\nIf you see a message telling you that you can temporarily print with only black ink, click the\nDelete\nor\nbutton to cancel your print job. If you see an error message, click\nOK\n.\nIn the Apple menu or the Dock, select\nSystem Preferences\n.\nSelect\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n, select your product, and select\nOptions & Supplies\n.\nSelect\nDriver\nor\nOptions\n. You see a screen like this:\nSelect\nOn\nas the\nPermit temporary black printing\nsetting.\nClick\nOK\n.\nClose the utility window.\nLoad plain paper or an envelope in your product.\nAccess the print settings in your print application.\nSelect\nPrint Settings\nfrom the pop-up menu.\nSelect\nPlain Paper/Bright White Paper\nor\nEnvelope\nas the paper type setting.\nSelect the\nGrayscale\noption.\nClick\nPrint\nto print your document.\nRelated information\nLoading Paper",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297798?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CF50201~faq-297798",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:39.044307"
+        },
+        {
+          "question": "Which ink cartridges should I use with this product?",
+          "answer": "See below.\nInk Cartridge Part Numbers\nUse these part numbers when you order or purchase new ink cartridges.\nNote:\nFor best printing results, use up a cartridge within 6 months of opening the package.\nInk color\nPart number\nStandard-capacity\nHigh-capacity\nPhoto Black (PBK)\n410\n410XL\nBlack (BK)\n410\n410XL\nCyan\n410\n410XL\nMagenta\n410\n410XL\nYellow\n410\n410XL",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297799?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CF50201~faq-297799",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:39.916544"
+        },
+        {
+          "question": "How do I replace the ink cartridges?",
+          "answer": "Make sure you have replacement cartridges handy before you begin. You must install new cartridges immediately after removing the old ones.\nCaution:\nLeave your old cartridges in the printer until you are ready to replace them to prevent the print head nozzles from drying out. Do not open ink cartridge packages until you are ready to install the ink. Cartridges are vacuum packed to maintain reliability.\nNote:\nIf you remove a low or expended ink cartridge, you cannot re-install and use the cartridge.\nTurn on your product\nDo one of the following:\nIf an ink cartridge is expended, you see a message on the LCD screen. Note which cartridges need to be replaced and press the\nOK\nbutton. Select the option to replace the ink cartridge and press the\nOK\nbutton.\nIf you are replacing a cartridge before you see a message on the LCD screen, select\nSetup\n>\nMaintenance\n>\nInk Cartridge(s) Replacement\n. Press the\nOK\nbutton and the\nstart button.\nLift up the scanner unit.\nCaution:\nDo not move the print head by hand; otherwise, you may damage your product. Do not touch the flat white cable inside the printer.\nVerify that the ink cartridges are in the ink changing position in the center of the printer. If they are not, close the scanner unit and repeat step 2 and 3.\nPush in the blue tab to unlock the ink cartridge you are replacing. Then lift the bottom of the ink cartridge to remove it.\nWarning: If ink gets on your skin, wash it thoroughly with soap and water. If ink gets into your eyes, flush them immediately with water. If ink gets into your mouth, spit it out and see a doctor right away. Keep ink cartridges out of the reach of children.\nRecap the used ink cartridge using the cap that came with it.\nNote:\nDispose of used cartridges carefully. Do not take the used cartridge apart or try to refill it.\nIf you are replacing the Black (BK) ink cartridge, shake the new cartridge gently four or five times before unwrapping it. You do not need to shake the Photo Black (PBK) cartridge or any of the other color ink cartridges.\nCaution:\nDo not shake the cartridges after opening the packages, or ink may leak.\nRemove the cartridge from the package.\nCaution:\nDo not touch the areas shown above. Doing so may prevent normal operation and printing.\nRemove the cap from the cartridge and save the cap so you can recap ink cartridges before storing or disposing of them.\nCaution:\nDo not remove any other labels or seals, or ink will leak.\nInsert the ink cartridge at a slight angle into the ink cartridge holder as shown. Then press the bottom of the ink cartridge down until it clicks into place.\nNote:\nMake sure not to place the Photo Black (PBK) ink cartridge into the Black (BK) ink cartridge slot.\nAfter you replace all the cartridges that need replacing, close the scanner unit and press the\nstart button.\nThe product starts charging the ink. This takes a few minutes. When you see a completion message on the LCD screen, ink replacement is complete.\nNote:\nIf you see an error screen telling you an ink cartridge is installed incorrectly, repeat steps 3 and 4, and then remove and reinsert each ink cartridge until it clicks into place. When you’re finished, close the scanner unit and press the\nstart button.\nCaution:\nIf you remove an ink cartridge for later use, recap the ink cartridge using the cap that came with it to prevent the ink from drying out and to protect the surrounding area from getting smeared by ink. Store the ink cartridge in the same environment as the product. Do not leave the product with the ink cartridges removed for an extended period of time. Otherwise, ink remaining in the print head nozzles may dry out and you may not be able to print.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297797?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CF50201~faq-297797",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:40.803203"
+        },
+        {
+          "question": "How do I know when an ink cartridge needs to be replaced?",
+          "answer": "The printer's LCD screen will display a message when one or more of the ink cartridges are low or expended.\nYou may also see a message on your computer screen.\nNote:\nIf any cartridge installed in the product is broken, incompatible with the product model, or improperly installed, Epson Status Monitor will not display an accurate cartridge status.\nYou may also need to replace a cartridge that is more than six months old if your printouts do not look their best even after cleaning and aligning the print head.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299618?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CF50201~faq-299618",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:41.696632"
+        },
+        {
+          "question": "Can the printer still print if an ink cartridge is expended or not installed?",
+          "answer": "The printer will not operate if a black ink cartridge is expended or any cartridge is removed.\nIf a color cartridge is expended, you may be able to continue printing temporarily with black ink. It's best to always have extra cartridges on hand.\nRelated information\nPrinting with Black Ink and Expended Color Cartridges",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299645?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CF50201~faq-299645",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:44.385219"
+        },
+        {
+          "question": "Why is Epson shipping initial ink cartridges with my product?",
+          "answer": "The cartridges included with the printer are designed for printer setup and not for resale. After some ink is used for charging, the rest is available for printing.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299590?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CF50201~faq-299590",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:45.451488"
+        },
+        {
+          "question": "The color ink cartridge is expended even though I print in black only. Why does this happen?",
+          "answer": "To keep the print head clear and ready to print, the printer uses a small amount of ink from all the cartridges whenever it prints. Even if you select\nBlack/Grayscale\n, some color ink is still being used.\nEpson printers contain a permanent print head that needs to be charged with all colors to work. Even when you are printing black text only, a small amount of color ink is used to keep the print head charged. The print head needs to be kept charged to prevent air bubbles from entering. Air bubbles can damage the print head.\nTherefore, once one of the cartridges is expended, the printer signals you to replace the cartridge in order for printing to continue.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299620?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CF50201~faq-299620",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:49.932242"
+        },
+        {
+          "question": "What is my product doing after I install a new ink cartridge?",
+          "answer": "It takes about 7 minutes for the printer to charge the ink delivery system when you install the first set of ink cartridges.\nWhen you replace ink cartridge, the printer takes a few minutes to charge the ink delivery system.\nNote:\nNever turn off the printer while it is charging the ink delivery system. This initialization is a normal and necessary process; however, if the printer has not moved or made noise after 5 minutes, turn the printer off, then turn it on and check if charging is still in progress. If it is still in progress, contact Epson.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299621?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CF50201~faq-299621",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:50.981934"
+        },
+        {
+          "question": "Which functions are available on my product when an ink cartridge is expended or not installed?",
+          "answer": "If an ink cartridge is not installed, the product will not print or scan. You also cannot read or write to a memory card.\nIf an ink cartridge is expended, the following functions are available:\nWhen a color ink cartridge is expended, you may be able to temporarily continue printing from your computer using black ink. You will see a message during printing if you can print this way; however, you cannot print from the product’s control panel. See the link below for more details.\nYou can scan from the product’s control panel or your computer, but you can’t copy from the product’s control panel.\nYou can read or write to a memory card.\nRelated information\nPrinting with Black Ink and Expended Color Cartridges",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299619?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CF50201~faq-299619",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:52.325697"
+        },
+        {
+          "question": "I replaced an ink cartridge, but my product shows that the same ink is expended. What should I do?",
+          "answer": "The ink cartridges may not have been installed using the correct procedure or they may not be seated correctly. Follow the instructions below to correctly install and reseat the ink cartridges.\nTurn on your product.\nDo one of the following:\nIf the ink expended message is on the screen, select the option to replace the ink cartridge and press the\nOK\nbutton again.\nIf the ink expended message is not on the screen, press the\nhome button, select\nSetup\n>\nMaintenance\n>\nInk Cartridge(s) replacement\n. Press the\nOK\nbutton and the\nstart button.\nWhen the message to replace the ink cartridges appears on the screen, lift up the scanner unit.\nCaution:\nDo not move the print head by hand; otherwise, you may damage your product. Do not touch the flat white cable inside the printer.\nVerify that the ink cartridges are in the ink changing position in the center of the printer. If they are not, close the scanner unit and repeat step 2 and 3.\nRemove all the ink cartridges by pushing in the blue tab to unlock the ink cartridge you are replacing. Then lift the bottom of the ink cartridge to remove it.\nAfter all the ink cartridges have been removed, reinsert them one by one and press down until it clicks into place.\nNote:\nMake sure not to place the Photo Black (PBK) ink cartridge into the Black (BK) ink cartridge slot.\nClose the scanner unit.\nPress the\nstart button. The printer starts charging the ink.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-000051F-xp640?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CF50201~faq-000051F-xp640",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:53.231377"
+        },
+        {
+          "question": "I replaced an ink cartridge, but my product shows that the ink is not recognized. What should I do?",
+          "answer": "The ink cartridges may not have been installed using the correct procedure, or they may not be seated correctly. Follow the instructions below to correctly install and reseat the ink cartridges.\nNote:\nThis product is designed to work with Epson cartridges only, not third-party cartridges or ink.\nNote:\nThis product is designed to use only genuine Epson-brand ink cartridges. Other brands of ink cartridges and ink supplies are not compatible and, even if described as compatible, may not function properly. Please replace any non-Epson cartridges with Genuine Epson cartridges.\nTurn on your product.\nDo one of the following:\nIf the ink not recognized message is on the screen, select the option to replace the ink cartridge and press the\nOK\nbutton.\nIf the ink not recognized message is not on the screen, press the\nhome button, select\nSetup\n>\nMaintenance\n>\nInk Cartridge(s) replacement\n. Press the\nOK\nbutton and the\nstart button.\nWhen the message to replace the ink cartridges appears on the screen, lift up the scanner unit.\nCaution:\nDo not move the print head by hand; otherwise, you may damage your product. Do not touch the flat white cable inside the printer.\nVerify that the ink cartridges are in the ink changing position in the center of the printer. If they are not, close the scanner unit and repeat steps 2 and 3.\nRemove all the ink cartridges by pushing in the blue tab to unlock the ink cartridge you are replacing. Then lift the bottom of the ink cartridge to remove it.\nAfter all the ink cartridges have been removed, reinsert them one by one and press down until it clicks into place.\nNote:\nMake sure not to place the Photo Black (PBK) ink cartridge into the Black (BK) ink cartridge slot.\nClose the scanner unit.\nPress the\nstart button. The printer starts charging the ink.\nIf your printer still does not recognize the ink cartridges, please contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-0000bd1-xp640?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CF50201~faq-0000bd1-xp640",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:54.149855"
+        },
+        {
+          "question": "I updated my printer's firmware, and now my product shows that the ink is not recognized. What should I do?",
+          "answer": "From time to time, Epson updates its firmware to ensure the printer operates as designed, and the printer is designed to work only with genuine Epson-brand cartridges. Other brands of ink cartridges and ink supplies are not compatible and, even if described as compatible, may not function properly. Please replace any non-Epson cartridges with Genuine Epson cartridges.\nEpson provides information about the design of the printer on the box as well as many other locations including materials shipped with the printer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-0000bd0-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CF50201~faq-0000bd0-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:55.196227"
+        },
+        {
+          "question": "Does my all-in-one printer support non-printing functions when an ink cartridge is expended or not installed?",
+          "answer": "See our\nFAQ page\non which non-printing functions are supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-0000d77-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CF50201~faq-0000d77-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:56.278985"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "How do I restore my product's default settings?",
+          "answer": "See below.\nResetting Control Panel Defaults\nIf you have a problem with settings on the product control panel, you can reset them to their factory defaults. You can choose which settings to reset or reset them all.\nPress the\nhome button, if necessary.\nPress the arrow buttons to select\nSettings\nand press the\nOK\nbutton.\nSelect\nRestore Default Settings\nand press the\nOK\nbutton.\nSelect one of these options:\nNetwork Settings\n: Resets all network settings.\nAll except Network Settings\n: Resets all control panel settings, except for network settings.\nAll Settings\n: Resets all control panel settings.\nYou see a confirmation screen.\nSelect\nYes\nto reset the selected settings. (Select\nNo\nif you want to cancel the operation.)",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297815?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C11CF50201~faq-297815",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:57.203127"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Memory Cards or External Devices",
+      "section_id": "8796127307852",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "Which USB devices can I connect to the USB port on the front of my product?",
+          "answer": "See below.\nExternal USB Device Specifications\nDo not use devices with the following requirements:\nDedicated driver\nSecurity settings, such as password or encryption, etc.\nBuilt-in USB hub\nNote:\nUse only external storage devices with independent AC power sources. External storage devices that are powered via USB are not recommended. Epson cannot guarantee the operation of externally connected devices.\nCD-ROM/CD-R drive\n700MB maximum capacity\nCD-RW is not supported\nDVD-ROM/DVD-R drive\n4.7GB maximum capacity\nDVD-RW, DVD+R, DVD+RW, DVD-RAM, and Blu-ray Disc are not supported\nMagneto-optical drive\n1.3GB\nHard disk and USB flash drives\n2TB\nFormatted in FAT, FAT32, or exFAT.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297796?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CF50201~faq-297796",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:58.284858"
+        },
+        {
+          "question": "How do I access the memory card or USB flash drive in my Epson product from Windows RT?",
+          "answer": "Do the following:\nNote:\nYour product may not support all of the features mentioned below.\nAt the Start screen, do one of the following:\nTouch:\nSwipe in from the right edge of the screen, then tap the\nSearch\ncharm.\nMouse:\nMove the mouse pointer into the upper- or lower-right corner of the screen, then click on the\nSearch\ncharm.\nKeyboard:\nPress the\nSearch\ncharm key.\nEnter\nnetwork computers\nin the Search field, then select\nView network computers and devices\nfrom the options that appear.\nFind your product's name and enter it into the address bar of the window. You should see\nmemorycard\nand\nusbstorage\nfolders.\nNote:\nIf you don't see your product, make sure you're connected to the same network as your product and that\nNetwork Discovery\nis installed in Windows RT.\nOpen the respective folder to access the files on the memory card or USB flash drive.\nNote:\nYou can create a shortcut to the memory card or USB flash drive in your product. To create the shortcut, right-click the\nmemorycard\nor\nusbstorage\nfolder, then select\nPin to Start\n.\nThe shortcut appears on the Start screen.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299591?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CF50201~faq-299591",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:35:59.173707"
+        },
+        {
+          "question": "Which memory cards are compatible with my product?",
+          "answer": "See below.\nMemory Card Types\nYou can insert these types of memory cards in your product.\nNote:\nCards marked with an asterisk (*) require an adapter; consult your adapter documentation for details on using it.\nYou can insert the following cards in the memory card slot:\nSD\nSDHC\nSDXC\nminiSD*\nminiSDHC*\nmicroSD*\nmicroSDHC*\nmicroSDXC*",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297800?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CF50201~faq-297800",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:00.697121"
+        },
+        {
+          "question": "What is the largest supported memory card for my product?",
+          "answer": "See below.\nMemory Card Specifications\nNote:\nCards marked with an asterisk (*) require an adapter; consult your adapter documentation for details on using it.\nCompatible types\nminiSD*: 2GB\nminiSDHC*: 32GB\nmicroSD*: 2GB\nmicroSDHC*: 32GB\nmicroSDXC*: 64GB\nSD: 2GB\nSDHC: 32GB\nSDXC: 64GB\nVoltage requirements\n3.3 V type, dual voltage type (3.3 V and 5 V); supply voltage 3.3 V\nMaximum current: 200 mA",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297801?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CF50201~faq-297801",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:01.830052"
+        },
+        {
+          "question": "Can I just pull the memory card out of the product when I'm finished printing?",
+          "answer": "No. See below for instructions on removing the memory card.\nRemoving a Memory Card\nAfter you finish working with a memory card, check to make sure it is safe to remove it from your product.\nCaution:\nDo not remove a memory card or turn off your product while the memory card access light is flashing or you may lose data from the memory card.\nMake sure the memory card access light is not flashing.\nIf your product is connected to your computer using a USB cable, do one of the following:\nWindows\n: Open the\nMy Computer\n,\nComputer\n,\nWindows Explorer\n, or\nFile Explorer\nutility. Then right-click the name of your memory card (listed as a removable disk) and select\nEject\n.\nOS X\n: Drag the removable disk icon for your memory card from the desktop or computer window into the trash.\nPull the memory card straight out of its slot.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297802?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CF50201~faq-297802",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:02.908357"
+        },
+        {
+          "question": "How do I transfer photos from a memory card to my computer?",
+          "answer": "See below.\nTransferring Photos from a Memory Card to Your Computer\nYou can transfer photos to and from a memory card inserted into a memory card slot on your product and a computer connected to your product.\nNote:\nDo not transfer photos to and from a memory card while you are printing from the memory card.\nMake sure your product is connected to a computer.\nInsert a memory card into a memory card slot on your product.\nDo one of the following to access your memory card files from your computer:\nWindows\n: Open the\nComputer\n,\nMy Computer\n,\nWindows Explorer\n, or\nFile Explorer\nutility, then select the removable disk icon.\nOS X with a USB connection\n: Look for the removable disk icon on your desktop or computer window, then select it.\nOS X with a network connection\n: Select the hard drive icon on your desktop or computer window, select your product in the\nSHARED\nsection of the sidebar (you may need to widen the sidebar to see the name), then select the\nMEMORYCARD\nicon.\nSelect the folder that contains your photos.\nDrag the photos you want to transfer to the desired folder on your computer or on your memory card.\nNote:\nYour product's LCD screen does not update to display new photos transferred to the memory card. Wait until the memory card access light stops flashing, then remove and insert the memory card to update the photos displayed.\nRelated tasks\nInserting a Memory Card\nRemoving a Memory Card",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297803?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CF50201~faq-297803",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:03.996278"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "How do I know which paper or media type to select in my product's driver?",
+          "answer": "See the table below.\nPaper or Media Type Settings - Printer Software\nFor this paper\nSelect this paper Type or Media Type setting\nPlain paper\nEpson Bright White Paper\nEpson Iron-on Cool Peel Transfer paper\nEpson Photo Quality Self-adhesive Sheets\nPlain Paper/Bright White Paper\nEpson Ultra Premium Photo Paper Glossy\nUltra Premium Photo Paper Glossy\nEpson Premium Photo Paper Glossy\nPremium Photo Paper Glossy\nEpson Photo Paper Glossy\nPhoto Paper Glossy\nEpson Presentation Paper Matte\nPresentation Paper Matte\nEpson Premium Photo Paper Semi-gloss\nPremium Photo Paper Semi-Gloss\nEpson Ultra Premium Photo Paper Luster\nUltra Premium Photo Paper Luster\nEpson Premium Presentation Paper Matte\nEpson Premium Presentation Paper Matte Double-sided\nEpson Ultra Premium Presentation Paper Matte\nEpson Brochure & Flyer Paper Matte Double-sided\nPremium Presentation Paper Matte\nEnvelopes\nEnvelope\nNote:\nThe settings listed here are available only when printing from your computer; they do not apply to your product's control panel settings.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297817?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CF50201~faq-297817",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:04.905386"
+        },
+        {
+          "question": "How should I load envelopes?",
+          "answer": "See below.\nLoading Paper in Cassette 2 (Lower Cassette)\nYou can load paper up to this size in the lower paper cassette: Legal (8.5 × 14 inches [216 × 356 mm]).\nNote:\nDo not remove or insert the paper cassette during printing.\nClose the output tray, if necessary.\nNote:\nAs you slide in the output tray, there may be slight resistance and noise. This is normal.\nRaise the control panel.\nOpen the front cover.\nPull on the front cover to pull out the lower paper cassette.\nSlide the edge guides outward.\nSet the front edge guide to the paper size you are using.\nDo one of the following:\nInsert paper with the glossy or printable side face down.\nInsert up to 10 envelopes, printable side down and flap edge left, as shown.\nFor legal-size paper, remove the CD/DVD tray from the product. Press the button on the cassette and extend it as shown. Load paper with the glossy or printable side facedown.\nNote:\nMake sure the paper is loaded against the front edge guide and does not extend beyond the triangle symbol at the rear of the cassette.\nSlide the side edge guides against the paper, but not too tightly.\nNote:\nMake sure the paper fits under the tabs on the edge guides.\nKeep the cassette flat as you insert it into your product.\nNote:\nLeave enough space in front of the product for the paper to be fully ejected. Do not remove or insert the paper cassette while the product is operating.\nLower the control panel.\nSelect the size and type of paper you just loaded on the product LCD screen.\nAlways follow these paper loading guidelines:\nLoad only the recommended number of sheets.\nLoad paper short edge first and printable side down.\nMake sure the paper is under the tabs on the edge guides and not sticking out from the end of the cassette.\nIf you have trouble loading a stack of envelopes, press each envelope flat before loading it or load one envelope at a time.\nIf print quality declines when printing multiple envelopes, try loading one envelope at a time.\nCheck the paper package for any additional loading instructions.\nRelated tasks\nLoading Paper in Cassette 1 (Upper Cassette)\nRelated references\nPaper Loading Capacity\nPaper or Media Type Settings - Control Panel",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297806?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CF50201~faq-297806",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:05.903578"
+        },
+        {
+          "question": "Does the type of paper I use really make a difference?",
+          "answer": "The type of paper you choose affects the way your printout looks, so be sure to select the correct paper for your print job. If you are just making a copy or printing a rough draft of an image, plain paper is fine. However, for the best results, you'll want to use one of Epson's special ink jet papers. For example, your photos will look great printed on\nEpson Premium Photo Paper Glossy\n.\nAvailable Epson Papers\nPaper Type\nSize\nPart number\nSheet count\nEpson Bright White Paper\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041586\n500\nEpson Photo Paper Glossy\n4 × 6 inches (102 × 152 mm)\nS041809\nS042038\n50\n100\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041141\nS041649\nS041271\n20\n50\n100\nEpson Premium Photo Paper Glossy\n4 × 6 inches (102 × 152 mm)\nS041808\nS041727\n40\n100\n5 × 7 inches (127 × 178 mm)\nS041464\n20\n8 × 10 inches (203 × 254 mm)\nS041465\n20\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042183\nS041667\n25\n50\nEpson Ultra Premium Photo Paper Glossy\n4 × 6 inches (102 × 152 mm)\nS042181\nS042174\n60\n100\n5 × 7 inches (127 × 178 mm)\nS041945\n20\n8 × 10 inches (203 × 254 mm)\nS041946\n20\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042182\nS042175\n25\n50\nEpson Ultra Premium Photo Paper Luster\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041405\n50\nEpson Premium Photo Paper Semi-gloss\n4 × 6 inches (102 × 152 mm)\nS041982\n40\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041331\n20\nEpson Presentation Paper Matte\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041062\n100\nLegal (8.5 × 14 inches [216 × 356 mm])\nS041067\n100\nEpson Premium Presentation Paper Matte\n8 × 10 inches (203 × 254 mm)\nS041467\n50\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041257\nS042180\n50\n100\nEpson Premium Presentation Paper Matte Double-sided\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041568\n50\nEpson Ultra Premium Presentation Paper Matte\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041341\n50\nEpson Brochure & Flyer Paper Matte Double-sided\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042384\n150\nEpson Photo Quality Self-adhesive Sheets\nA4 (8.3 × 11.7 inches [210 × 297 mm])\nS041106\n10\nEpson Iron-on Cool Peel Transfer paper\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041153\n10",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297820?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CF50201~faq-297820",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:07.069919"
+        },
+        {
+          "question": "I'm having paper feed problems. What should I do?",
+          "answer": "If you have problems feeding paper, try these solutions:\nMake sure the paper cassette is inserted all the way in the printer.\nIf paper does not feed correctly, remove and reload it in the cassette and adjust the edge guides. Make sure the paper stack is not above the tab on the edge guides inside the cassette.\nIf multiple pages feed at once, remove the paper, fan the edges to separate the sheets, and reload it.\nDo not load more than the recommended number of sheets.\nMake sure your paper meets the specifications for your product.\nIf paper jams when you print on both sides of the paper, try loading fewer sheets.\nFor best results, follow these guidelines:\nUse new, smooth, high-quality paper that is not curled, creased, old, too thin, or too thick.\nLoad paper in the cassette printable side down.\nFollow any special loading instructions that came with the paper.\nRelated references\nPaper Loading Capacity\nPaper Specifications\nPaper Jam Problems Inside the Product\nPaper Jam Problems in the Paper Cassette\nPaper Jam Problems in the Auto Duplexer",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297791?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CF50201~faq-297791",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:07.915770"
+        },
+        {
+          "question": "How do I create a custom paper size for my product in Windows?",
+          "answer": "Do the following:\nOpen a photo or document for printing.\nSelect the print command in your application.\nNote:\nYou may need to select a print icon on your screen, the\nPrint\noption in the\nFile\nmenu, or another command. See your application's help utility for details.\nIf necessary, select your product name as the printer you want to use.\nNote:\nYou may also need to select\nProperties\nor\nPreferences\nto view your print settings.\nYou see the Main tab of your printer settings window.\nSelect\nUser-Defined\nas the Document Size. The User-Defined Paper Size window appears.\nNote:\nThis option may not be available for all paper sources.\nEnter a Paper Size Name, then select the Paper Width and Paper Height.\nClick\nSave\n, then\nOK\n.\nClick\nOK\nagain. The new size is created. You can now select the new size from the Document Size list.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299624?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CF50201~faq-299624",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:08.786784"
+        },
+        {
+          "question": "How do I select the paper source in Windows?",
+          "answer": "Do the following:\nRight-click the printer icon on the Windows taskbar, then select\nPrinter Settings\n.\nIf necessary, click the\nMain\ntab.\nSelect the\nPaper Source\nyou want to use.\nClick\nOK\n.\nNote:\nIf you print from\nCassette 1 > Cassette 2\na window will appear. Click\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299623?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CF50201~faq-299623",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:09.773219"
+        },
+        {
+          "question": "Which type of paper can I print on?",
+          "answer": "You can use plain paper; however, for the best results, you'll want to use one of Epson's special inkjet papers.\nNote:\nInk jet transparencies, vellum, and paper with holes punched in it are not supported.\nAvailable Epson Papers\nYou can purchase genuine Epson ink and paper at\nepson.com\n(U.S. sales) or\nepson.ca\n(Canadian sales). You can also purchase supplies from an Epson authorized reseller. To find the nearest one, call 800-GO-EPSON (800-463-7766).\nPaper Type\nSize\nPart number\nSheet count\nEpson Bright White Paper\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041586\n500\nEpson Photo Paper Glossy\n4 × 6 inches (102 × 152 mm)\nS041809\nS042038\n50\n100\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041141\nS041649\nS041271\n20\n50\n100\nEpson Premium Photo Paper Glossy\n4 × 6 inches (102 × 152 mm)\nS041808\nS041727\n40\n100\n5 × 7 inches (127 × 178 mm)\nS041464\n20\n8 × 10 inches (203 × 254 mm)\nS041465\n20\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042183\nS041667\n25\n50\nEpson Ultra Premium Photo Paper Glossy\n4 × 6 inches (102 × 152 mm)\nS042181\nS042174\n60\n100\n5 × 7 inches (127 × 178 mm)\nS041945\n20\n8 × 10 inches (203 × 254 mm)\nS041946\n20\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042182\nS042175\n25\n50\nEpson Ultra Premium Photo Paper Luster\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041405\n50\nEpson Premium Photo Paper Semi-gloss\n4 × 6 inches (102 × 152 mm)\nS041982\n40\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041331\n20\nEpson Presentation Paper Matte\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041062\n100\nLegal (8.5 × 14 inches [216 × 356 mm])\nS041067\n100\nEpson Premium Presentation Paper Matte\n8 × 10 inches (203 × 254 mm)\nS041467\n50\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041257\nS042180\n50\n100\nEpson Premium Presentation Paper Matte Double-sided\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041568\n50\nEpson Ultra Premium Presentation Paper Matte\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041341\n50\nEpson Brochure & Flyer Paper Matte Double-sided\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042384\n150\nEpson Photo Quality Self-adhesive Sheets\nA4 (8.3 × 11.7 inches [210 × 297 mm])\nS041106\n10\nEpson Iron-on Cool Peel Transfer paper\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041153\n10",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299622?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CF50201~faq-299622",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:10.691044"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 9,
+      "faqs": [
+        {
+          "question": "My printout is grainy when I print from any application. What should I do?",
+          "answer": "If your printouts are grainy, try these solutions:\nMake sure you loaded the printable side of the paper correctly for your product.\nSelect a higher print quality setting and turn off any high speed settings in your product software.\nRun a nozzle check to see if any of the print head nozzles are clogged. Then clean the print head, if necessary.\nAlign the print head.\nYou may need to increase the image resolution or print a smaller size; see your software documentation.\nNote:\nImages from the Internet may be low resolution and not result in a high quality printout.\nIf you enlarged the image in an image-editing program, you need to increase the resolution setting to retain a high image quality. Increase the resolution by the same amount you increased the image size. For example, if the resolution is 300 dpi (dots per inch) and you will double the image size later, change the resolution setting to 600 dpi.\nNote:\nHigher resolution settings result in larger file sizes, which take longer to process and print. Consider the limitations of your computer system when selecting a resolution, and select the lowest possible resolution that produces acceptable quality to keep file sizes manageable.\nRelated concepts\nPrint Head Nozzle Check\nPrint Head Cleaning\nPrint Head Alignment\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Additional Layout and Print Options - Windows\nSelecting Basic Print Settings - OS X\nSelecting Printing Preferences - OS X",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297811?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CF50201~faq-297811",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:11.764702"
+        },
+        {
+          "question": "My printout has a slight slant. What should I do?",
+          "answer": "If your printouts are slanted, try these solutions:\nSlide the edge guides against the edges of the paper.\nSelect a higher print quality setting in your printer software.\nTurn off any high speed settings in your product software.\nAlign the print head.\nMake sure the product is not printing while tilted or at an angle.\nRelated concepts\nPrint Head Alignment\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Basic Print Settings - OS X\nRelated information\nLoading Paper",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297807?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CF50201~faq-297807",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:12.641304"
+        },
+        {
+          "question": "My printout looks inverted, as if viewed in a mirror. What should I do?",
+          "answer": "If your printed image is inverted unexpectedly, try these solutions:\nTurn off any mirror or inversion settings in your printing application.\nTurn off the\nMirror Image\n,\nFlip horizontally\n, or\nReverse page orientation\nsettings in your printer software. (This option has different names, depending on your operating system version.)\nNote:\nLeave these options turned on when you print on Epson Iron-on Cool Peel Transfer paper, if available for your product.\nRelated tasks\nSelecting Additional Layout and Print Options - Windows\nSelecting Basic Print Settings - OS X",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297814?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CF50201~faq-297814",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:13.769524"
+        },
+        {
+          "question": "My printout has incorrect margins. What should I do?",
+          "answer": "If your printed page has incorrect margins, try these solutions:\nMake sure you selected the correct paper size settings in your printing program and printer software.\nMake sure you selected the correct margins for your paper size in your printing program.\nMake sure your paper is positioned correctly for feeding into the printer.\nYou can use the preview option in your printer software to check your margins before you print.\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Basic Print Settings - OS X\nSelecting Page Setup Settings - OS X",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297813?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CF50201~faq-297813",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:14.703323"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "If you notice white or dark lines in your prints (also called banding), try these solutions before you reprint:\nRun a nozzle check to see if any of the print head nozzles are clogged. Then clean the print head, if necessary.\nMake sure the paper type setting matches the type of paper you loaded.\nMake sure you loaded the printable side of the paper correctly for your product.\nTurn off any high speed settings in your product software.\nAlign the print head.\nYou may need to replace the ink cartridges.\nRelated concepts\nPrint Head Nozzle Check\nPrint Head Cleaning\nPrint Head Alignment\nRelated tasks\nSelecting Additional Layout and Print Options - Windows\nSelecting Printing Preferences - OS X\nRemoving and Installing Ink Cartridges\nRelated references\nPaper or Media Type Settings - Printer Software\nRelated information\nLoading Paper",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297808?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CF50201~faq-297808",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:15.653199"
+        },
+        {
+          "question": "My printout contains garbled characters when I print from Windows or my Mac. What should I do?",
+          "answer": "If incorrect characters appear in your prints, try these solutions before reprinting:\nMake sure any cables are securely connected at both ends.\nIn Windows, delete all jobs from the Windows Spooler. Click\nPrint Queue\non the Maintenance tab in the printer settings window, and cancel any stalled print jobs.\nIf your product is connected to a USB hub, connect it directly to your computer instead.\nIf incorrect characters still appear in your prints, try connecting your product using a different cable.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297810?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CF50201~faq-297810",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:16.597903"
+        },
+        {
+          "question": "My printout has incorrect colors. What should I do?",
+          "answer": "If your printouts have incorrect colors, try these solutions:\nMake sure the paper type setting matches the paper you loaded.\nMake sure the\nBlack/Grayscale\nor\nGrayscale\nsetting is not selected in your printer software.\nRun a nozzle check to see if any of the print head nozzles are clogged. Then clean the print head, if necessary.\nThe ink cartridges may be old or low on ink, and you may need to replace them.\nAfter you print, the colors in your printout need time to set as the ink dries. During this time, the colors may look different than you expect. To speed up drying time, do not stack your printouts on top of each other.\nYour printed colors can never exactly match your on-screen colors. However, you can use a color management system to get as close as possible. Try using the color management options in your printer software.\nFor best results, use genuine Epson ink and paper.\nRelated concepts\nPrint Head Nozzle Check\nPrint Head Cleaning\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Additional Layout and Print Options - Windows\nSelecting Basic Print Settings - OS X\nManaging Color - OS X\nRemoving and Installing Ink Cartridges",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297812?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CF50201~faq-297812",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:17.472110"
+        },
+        {
+          "question": "My image is blurry. What should I do?",
+          "answer": "If your printouts are blurry or smeared, try these solutions:\nMake sure your paper is not damp, curled, old, or loaded incorrectly in your product.\nUse a support sheet with special paper, or load special paper one sheet at a time.\nMake sure your paper meets the specifications for your product.\nUse Epson papers to ensure proper saturation and absorption of genuine Epson inks.\nMake sure the paper type setting in your product software matches the type of paper you loaded.\nIf you are printing on thick paper or envelopes, turn on the\nThick Paper\nsetting from the control panel or select\nThick Paper and Envelopes\nin the Extended Settings of the printer software. (Turning this setting on will decrease print speed.)\nRemove each sheet from the output tray as it is printed.\nAvoid handling printouts on glossy paper right after printing to allow the ink to set.\nTurn off any high speed settings in your product software.\nIf you print on both sides of a sheet of paper, smudges may appear on the reverse side of heavily saturated or dark images. If one side of a sheet will contain a lighter image or text, print that side first. Adjust the\nPrint Density\nand/or\nIncrease Ink Drying Time\nsettings.\nRun a nozzle check to see if any of the print head nozzles are clogged. Then clean the print head, if necessary.\nAlign the print head.\nClean the paper path.\nNote:\nYour product will not operate properly while tilted at an angle. Place it on a flat, stable surface that extends beyond the base of the product in all directions.\nRelated concepts\nPrint Head Nozzle Check\nPrint Head Cleaning\nPrint Head Alignment\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Additional Layout and Print Options - Windows\nSelecting Double-sided Printing Settings - Windows\nSelecting Basic Print Settings - OS X\nSelecting Printing Preferences - OS X\nSelecting Double-sided Printing Settings - OS X\nCleaning the Paper Path\nRelated references\nPaper Specifications\nRelated information\nLoading Paper",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297809?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CF50201~faq-297809",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:18.388999"
+        },
+        {
+          "question": "My images and text are not centered when I copy or print on a CD or DVD. What should I do?",
+          "answer": "Try the following:\nIf you're copying a CD or DVD, make sure the scanner glass is clean and free of fingerprints, smudges, etc. When cleaning the glass, spray glass cleaner onto a cloth and then wipe the glass. Never spray glass cleaner directly onto the scanner glass.\nIf you're printing from a computer, adjust the print position through your software.\nIf you are printing from the control panel, adjust the printing position using the product menus.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299596?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CF50201~faq-299596",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:19.283609"
+        },
+        {
+          "question": "My product is printing blank pages from Windows or my Mac. What should I do?",
+          "answer": "Several factors may cause the product to print blank pages, such as print settings, low ink, or the product itself.\nBefore printing, do the following:\nPlace the product on a flat, stable surface that extends beyond the base in all directions. The product won't operate properly if it's tilted or at an angle.\nIf the ink cartridges are old or low on ink, you may need to replace them.\nMake sure you're using paper that meets the product's specifications.\nNote:\nTransparencies, hole-punched paper, and vellum paper are not supported.\nTry printing again. If your print job prints correctly, you're done.\nIf you still see blank pages, make a copy, then do one of the following:\nIf the page is blank, print a nozzle check pattern to see if any of the nozzles are clogged. Clean the print head, if necessary.\nIf the page is fine, check the following:\nMake sure the paper size, orientation, and layout settings in your software are correct.\nMake sure your document does not contain blank pages. If your printer software has a\nPreview\noption, check for blank pages in your document before you print and remove them, if necessary.\nIf the document you are printing contains a blank page, you can skip it by selecting the\nSkip Blank Page\nsetting in your printer software as instructed below for your operating system.\nWindows\nDo one of the following:\nWindows 10\n: Right-click\nand select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your product name and select\nPrinter Preferences\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows XP\n: Click\nStart\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n. Right-click your printer and select\nPrinting Preferences\n.\nClick the\nMaintenance\ntab, then click the\nExtended Settings\nbutton.\nIn the Settings area, select the\nSkip Blank Page\nsetting or checkbox.\nClick\nOK\nas necessary to save your settings.\nOS X\nOpen the\nmenu, then select\nSystem Preferences\n.\nSelect\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n, select your product, then select\nOptions & Supplies\n.\nSelect\nDriver\nor\nOptions\n.\nYou see this screen:\nSet\nSkip Blank Page\nto\nOn\n.\nClick\nOK\n.\nIf you still see blank pages in your printout, contact Epson support.\nRelated concepts\nPrint Head Nozzle Check\nPrint Head Cleaning",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299630?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CF50201~faq-299630",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:20.190520"
+        },
+        {
+          "question": "How do I reduce the appearance of red eyes in my photos?",
+          "answer": "Turn on the\nFix Red-Eye\nsetting in the printer software or from the product's control panel, if available for your product.\nNote:\nDue to the complexity and nature of some photographs, not all images can be corrected. If the Fix Red-Eye setting does not fix the photo, you need to use a software application such as Adobe Photoshop or Adobe Elements to fix it.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-00004b9-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CF50201~faq-00004b9-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:21.188743"
+        },
+        {
+          "question": "Web pages don't print the way they appear on my monitor. What should I do?",
+          "answer": "The pages may not print correctly due to the web page design. Try the following:\nCheck for a\nPrinter-friendly Version\n(or similarly named) option on the web page.\nChange the page setup and paper size settings, and select the preview option in your browser to check the changes before you print.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-00004b8-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CF50201~faq-00004b8-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:22.313238"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Scan",
+      "section_id": "8796127569996",
+      "section_order": 10,
+      "faqs": [
+        {
+          "question": "How do I scan using my product's control panel?",
+          "answer": "See below.\nStarting a Scan Using the Product Control Panel\nYou can scan an image to your computer using your product's control panel buttons.\nYour product automatically selects suitable default scan settings, but you can view or change them as necessary.\nMake sure you installed the product software and connected the product to your computer or network.\nNote:\nRestart your computer after installing the product software to enable scanning from the control panel. Also make sure the Event Manager program is not being blocked by your firewall or security software.\nPress the\nhome button, if necessary.\nPress the arrow buttons to select\nScan\nand press the\nOK\nbutton. The scan options are displayed:\nSelect a scan option and press the\nOK\nbutton.\nScan to Memory Card\nsaves your scan file on a memory card and lets you select the file format, quality, and other settings.\nScan to Cloud\nsends your scanned files to a destination that you have registered with Epson Connect.\nNote:\nTo use this feature, you must have registered a cloud account with Epson Connect.\nScan to Computer (JPEG)\nsaves your scan file directly to your computer or as an image capture in OS X .\nScan to Computer (PDF)\nsaves your scan as a PDF file to your computer or as an image capture in OS X.\nScan to Computer (Email)\nscans your original and attaches it to a message in your e-mail program. You can select the e-mail program you want to use and resize your image, if necessary, from an option screen on your computer.\nNote:\nThis works with MAPI-type email such as Microsoft Outlook, Windows Live Mail, Mac Mail, and Entourage, but not web-based email such as Gmail.\nScan to Computer (WSD)\nlets you manage wireless scanning in Windows 10, Windows 8, Windows 7, or Windows Vista (English only).\nNote:\nTo use this feature, you must first set up WSD (Web Services for Devices) on the computer you want to scan to.\nTo scan to your PC, select how you connected your product to your computer:\nIf your product is connected directly to your computer with a USB cable, select\nUSB Connection\n.\nIf your product is connected to your computer over a network, select the computer name from the list.\nPress the\nstart button to start scanning.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297825?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CF50201~faq-297825",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:23.227448"
+        },
+        {
+          "question": "How do I restore the colors in faded photos?",
+          "answer": "See below.\nCopying and Restoring Photos\nYou can restore the colors in faded photos as you copy them.\nLoad photo paper in the product.\nPress the\nhome button, if necessary.\nPress the arrow buttons to select\nMore Functions\nand press the\nOK\nbutton.\nSelect\nCopy/Restore Photos\nand press the\nOK\nbutton. You see this screen:\nSelect\nOn\nand press the\nOK\nbutton.\nPlace up to two original photos on the product.\nNote:\nPress the up or down arrow buttons for instructions on placing your photos on the product.\nPress the\nstart button.\nPress the\n+\nor\n–\nbutton to select one or more copies of the photo (up to 99).\nIf you placed two originals on the scanner, press the left or right arrow button to view the second original, then press\n+\nor\n–\nbutton to select one or more copies of the photo (up to 99).\nTo select settings for the photos, press the down arrow button.\nDo one or more of the following:\nTo change the display setting for the LCD screen, select\nDisplay Mode\n, press the\nOK\nbutton, and select the setting you want.\nTo change the print settings, select\nPaper and Copy Settings\n, press the\nOK\nbutton, and select the necessary settings.\nTo adjust the copy image, select\nPhoto Adjustments\n, press the\nOK\nbutton, and select the necessary settings.\nTo add a black-and-white filter, select\nFilter\n, press the\nOK\nbutton, and select\nB&W\n.\nTo crop or zoom into your photo, select\nCrop/Zoom\n, press the\nOK\nbutton, and press the\n+\nor\n–\nand arrow buttons to adjust the image area.\nWhen you are ready to print, press the\nstart button.\nNote:\nTo cancel copying, press the\ncancel button.\nRelated tasks\nPlacing Originals on the Scanner Glass\nRelated references\nPaper Type Settings - Copying\nPaper Size Settings - Copying\nCopying Options\nRelated information\nLoading Paper",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297823?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CF50201~faq-297823",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:24.108230"
+        },
+        {
+          "question": "My scanning software doesn't work properly in Windows or on my Mac. What should I do?",
+          "answer": "If your scanning software does not operate correctly, try these solutions:\nMake sure your computer has adequate memory and meets the system requirements for your operating system.\nMake sure your computer is not running in a power-saving mode, such as sleep or standby. If so, wake your system and restart your scanning software.\nIf you upgraded your operating system but did not reinstall your scanning software, try reinstalling it.\nNote:\nWith OS X, in addition to scanning with Image Capture, you can download and install Epson Scan scanning software. Epson Scan provides additional image adjustment and photo correction features for enhancing scanned images, and provides an interface for TWAIN-compliant OCR scanning software. To download Epson Scan, visit Epson's driver download site (\nU.S. downloads\nor\nCanadian downloads\n).\nRelated concepts\nUninstall Your Product Software\nRelated references\nWindows System Requirements\nOS X System Requirements",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297824?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CF50201~faq-297824",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:25.002768"
+        },
+        {
+          "question": "How do I scan using Windows RT?",
+          "answer": "Do the following:\nNote:\nMake sure your product is set up on a network. You cannot scan with a USB connection.\nOpen the Search charm by doing one of the following:\nTouch:\nSwipe in from the right edge of the screen, then tap the\nSearch\ncharm.\nMouse:\nMove the mouse pointer into the upper- or lower-right corner of the screen, then click on the\nSearch\ncharm.\nKeyboard:\nPress the\nSearch\ncharm key.\nEnter\nDevices\nin the Search field, then select\nDevices and Printers\n.\nSelect your product, then right-click or press and hold the product's icon, and select\nStart scan\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299614?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CF50201~faq-299614",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:25.901129"
+        },
+        {
+          "question": "My product doesn't detect my photos placed on the scanner glass when I use the Copy/Restore Photos option on the control panel. What should I do?",
+          "answer": "Try the following:\nMake sure the scanner glass is clean and free of fingerprints, smudges, etc. (When cleaning the glass, spray the glass cleaner onto a cloth and then wipe the glass. Never spray glass cleaner directly onto the scanner glass.)\nMake sure the photos are no larger than 5 x 7 inches for one photo or 4 x 6 inches for two photos.\nWhen copying two photos (up to 4 x 6 inches), place them 0.2 inch (5 mm) apart as shown on the LCD screen.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299640?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CF50201~faq-299640",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:26.958801"
+        },
+        {
+          "question": "I am unable to scan multiple images at once. What should I do?",
+          "answer": "Try the following:\nMake sure you position photos at least 0.2 inch (5 mm) apart from each other on the scanner glass.\nMake sure the scanner glass is clean. Clean the scanner glass with a soft, lint-free cloth (microfiber is recommended), moistened with a little glass cleaner. Paper towels are not recommended.\nCaution:\nDo not spray glass cleaner directly on the glass and do not press the glass surface with any force.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299613?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CF50201~faq-299613",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:27.899873"
+        },
+        {
+          "question": "How do I scan a document so I can edit the text in a word processing program?",
+          "answer": "You can scan a document and convert the text into data that you can edit with a word processing program using a process called OCR (Optical Character Recognition). To scan and use OCR, you need to use an OCR program.\nOCR software cannot recognize handwritten characters, and certain types of documents or text may be difficult for OCR software to recognize, such as:\nItems that have been copied from other copies\nFaxes\nText with tightly spaced characters\nText that is in tables or underlined\nCursive or italic fonts and font sizes less than 8 points",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-0000508-shared?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CF50201~faq-0000508-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:28.845188"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 11,
+      "faqs": [
+        {
+          "question": "How do I enable automatic double-sided printing for my product in Windows or on my Mac?",
+          "answer": "See below.\nSelecting Double-sided Printing Settings - Windows\nYou can print on both sides of the paper by selecting one of the\n2-Sided Printing\noptions on the Main tab.\nNote:\nSome options may be pre-selected or unavailable, depending on other settings you have chosen or if you are accessing the product over a network.\nSelect one of the following options for\n2-Sided Printing\n:\nAuto (Long-edge binding)\nto print your double-sided print job by automatically flipping the paper on the long edge.\nAuto (Short-edge binding)\nto print your double-sided print job by automatically flipping the paper on the short edge.\nManual (Long-edge binding)\nto print your double-sided print job by printing one side and prompting you to flip the paper over on the long edge to print the other side (recommended for paper types that do not support automatic duplexing).\nManual (Short-edge binding)\nto print your double-sided print job by printing one side and prompting you to flip the paper over on the short edge to print the other side (recommended for paper types that do not support automatic duplexing).\nClick the\nSettings\nbutton. You see this window:\nSelect the double-sided printing options you want to use.\nClick\nOK\nto return to the Main tab.\nClick the\nPrint Density\nbutton. You see this window:\nSelect the type of document you are printing as the Document Type setting. The software automatically sets the\nAdjustments\noptions for that document type.\nIf necessary, select the\nAdjustments\noptions you want to use.\nClick\nOK\nto return to the Main tab.\nPrint a test copy of your double-sided document to test the selected settings.\nFollow any instructions displayed on the screen during printing.\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Double-sided Printing Settings - OS X\nYou can print on both sides of the paper by selecting\nTwo-sided Printing Settings\nfrom the pop-up menu on the print window.\nNote:\nSome options may be pre-selected or unavailable, depending on other settings you have chosen or if you are accessing the product over a network. This screen may be different, depending on the version of OS X you are using.\nSelect one of the\nTwo-sided Printing\noptions.\nSelect the type of document you are printing as the\nDocument Type\nsetting. The software automatically sets the Adjustments options for that document type.\nIf necessary, customize the Adjustments settings as instructed on the screen.\nPrint a test copy of your double-sided document to test the selected settings.\nFollow any instructions displayed on the screen during printing.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297819?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF50201~faq-297819",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:29.792685"
+        },
+        {
+          "question": "How do I uninstall the Epson printer and Epson Scan 2 software in Windows or OS X?",
+          "answer": "Follow the instructions below for your operating system.\nUninstalling Product Software - Windows\nYou can uninstall and then re-install your product software to solve certain problems.\nTurn off the product.\nDisconnect any interface cables.\nDo one of the following:\nWindows 10\n: Right click\nand select\nControl Panel\n>\nPrograms\n>\nPrograms and Features\n. Select the uninstall option for your Epson product, then select\nUninstall/Change\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto confirm the uninstallation.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nPrograms\n>\nPrograms and Features\n. Select the uninstall option for your Epson product, then select\nUninstall/Change\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto confirm the uninstallation.\nWindows (other versions)\n: Click\nor\nStart\n, and select\nAll Programs\nor\nPrograms\n. Select\nEPSON\n, select your product, then click\nEPSON Printer Software Uninstall\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nIn the next window, select your product and click\nOK\n. Then follow any on-screen instructions.\nDo one of the following to uninstall Epson Event Manager, then follow any on-screen instructions:\nWindows 10\n: Select\nEpson Event Manager\nand click\nUninstall\n.\nWindows 8.x\n: Select\nEpson Event Manager\nand click\nUninstall\n.\nWindows 7/Windows Vista\n: Open the Windows\nControl Panel\nutility. Select\nPrograms and Features\n. (In Classic view, select\nPrograms\nand click\nUninstall a program\n.) Select\nEpson Event Manager\nand click\nUninstall/Change\n.\nWindows XP\n: Open the Windows\nControl Panel\nutility. Double-click\nAdd or Remove Programs\n. Select\nEpson Event Manager\nand click\nChange/Remove\n.\nDo one of the following to uninstall Epson Scan 2, then follow any on-screen instructions:\nWindows 10\n: Select\nEpson Scan\n2\nand click\nUninstall\n.\nWindows 8.x\n/\nWindows 7\n/\nWindows Vista:\nSelect\nEpson Scan\n2\nand click\nUninstall/Change\n.\nWindows XP\n: Select\nEpson Scan\n2\nand click\nChange/Remove\n.\nRestart your computer, then see the Start Here sheet to re-install your software.\nNote:\nIf you find that re-installing your product software does not solve a problem, contact Epson.\nUninstalling Product Software - OS X\nIn most cases, you do not need to uninstall your product software before re-installing it. However, you can download the Uninstaller utility from the Epson support website.\nNote:\nIf you find that re-installing your product software does not solve a problem, contact Epson.\nFollow the instructions on the screen to install the Uninstaller utility.\nQuit all applications currently running on your Mac.\nDouble-click the\nUninstaller\nicon.\nIn the Epson Uninstaller screen, select the checkbox for each software program you want to uninstall.\nClick\nUninstall\n.\nFollow the on-screen instructions to uninstall the software.\nReinstall your product software.\nNote:\nIf you uninstall the printer driver and your product name remains in the\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\nwindow, select your product name and click the\n–\n(remove) icon to remove it.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297793?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF50201~faq-297793",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:30.777535"
+        },
+        {
+          "question": "I can't start Epson Scan 2 in Windows or on my Mac. What should I do?",
+          "answer": "If you cannot start Epson Scan 2, try these solutions:\nMake sure your product is turned on and any interface cables are securely connected at both ends.\nMake sure Epson Scan 2 is selected as your scanning program.\nMake sure your computer is not running in a power-saving mode, such as sleep or standby. If so, wake your system and restart Epson Scan 2.\nCheck the connection setting and test the connection using Epson Scan 2 Utility:\nWindows 10:\nClick\nand select\nAll apps\n. Select\nEPSON\n, then select\nEpson Scan 2 Utility\n. Make sure the correct your product is selected. If necessary, select the\nOther\ntab and click\nReset\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nEpson Scan 2 Utility\n. Make sure the correct your product is selected. If necessary, select the\nOther\ntab and click\nReset\n.\nWindows (other versions)\n: Click\nor\nStart\n>\nAll Programs\nor\nPrograms\n>\nEPSON\n>\nEpson Scan 2\n>\nEpson Scan 2 Utility\n. Make sure the correct your product is selected. If necessary, select the\nOther\ntab and click\nReset\n.\nOS X\n: Open the\nApplications\nfolder, click\nEpson Software\n, and click\nEpson Scan 2 Utility\n. Make sure the correct your product is selected. If necessary, select the\nOther\ntab and click\nReset\n.\nMake sure you do not have multiple versions of Epson Scan installed. If you do, uninstall both versions and install one version.\nIf you upgraded your operating system but did not reinstall Epson Scan 2, try reinstalling it.\nNote:\nWith OS X, in addition to scanning with Image Capture, you can download and install Epson Scan 2 scanning software. Epson Scan 2 provides additional image adjustment and photo correction features for enhancing scanned images, and provides an interface for TWAIN-compliant OCR scanning software. To download Epson Scan 2, visit Epson's driver download site (\nU.S. downloads\nor\nCanadian downloads\n).\nRelated tasks\nStarting a Scan from a Scanning Program\nPlacing Originals on the Scanner Glass\nRelated references\nAdditional Scanning Settings - Advanced Settings Tab",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297822?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF50201~faq-297822",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:31.698985"
+        },
+        {
+          "question": "How do I set up my product with a WPS-enabled router or access point?",
+          "answer": "See below.\nUsing WPS to Connect to a Network\nIf you have a WPS-enabled wireless router or access point, you can use Wi-Fi Protected Setup (WPS) to connect your product to the network.\nOn the product, press the\nhome button, if necessary.\nPress the arrow buttons to select\nSettings\nand press the\nOK\nbutton.\nSelect\nNetwork Settings\nand press the\nOK\nbutton.\nSelect\nWi-Fi Setup\nand press the\nOK\nbutton.\nSelect\nPush Button Setup (WPS)\nand press the\nOK\nbutton.\nFollow the instructions on the LCD screen to complete WPS setup. Your product should now display a WiFi symbol on the LCD screen. If it does not, repeat these steps to try again.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297790?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF50201~faq-297790",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:32.669902"
+        },
+        {
+          "question": "How do I change the Power Off and Sleep Timer settings?",
+          "answer": "See below.\nChanging the Power Off Timer Setting from the Control Panel\nYou can use the product's control panel to change the time period before the printer turns off automatically.\nPress the\nhome button, if necessary.\nPress the arrow buttons to select\nSettings\nand press the\nOK\nbutton.\nSelect\nPrinter Setup\nand press the\nOK\nbutton. You see this screen:\nSelect\nPower Off Timer\nand press the\nOK\nbutton. You see this screen:\nSelect the length of time after which you want the product to automatically turn off when it is not in use and press the\nOK\nbutton.\nPress the\nhome button to exit.\nChanging the Sleep Timer Setting from the Control Panel\nYou can use the product's control panel to change the time period before the product enters sleep mode.\nPress the\nhome button, if necessary.\nPress the arrow buttons to select\nSettings\nand press the\nOK\nbutton.\nSelect\nPrinter Setup\nand press the\nOK\nbutton. You see this screen:\nSelect\nSleep Timer\nand press the\nOK\nbutton. You see this screen:\nSelect the time period you want before the product goes to sleep and press the\nOK\nbutton.\nPress the\nhome button to exit.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297826?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF50201~faq-297826",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:33.639070"
+        },
+        {
+          "question": "The selection for 2-Sided Printing (Windows) or Two-Sided Printing Settings (OS X) is gray or not available. What should I do?",
+          "answer": "Make sure you use a paper type and size that supports this feature. Automatic double-sided printing is only available if you select plain paper and these paper sizes in the printer software:\nLetter (8.5 x 11 inches [216 x 279 mm])\nLegal (8.5 x 14 inches [216 x 357 mm])\nA4 (8.3 x 11.7 inches [210 x 297 mm])\nNote:\nAutomatic double-sided printing is not supported on glossy, thick, and certain matte papers.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299631?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF50201~faq-299631",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:34.510592"
+        },
+        {
+          "question": "How do I install the software for my product if I don't have the CD?",
+          "answer": "You can download the latest driver for your product from the Downloads tab.\nTo download and install the drivers and utilities, follow these steps:\nMake sure the product is not connected to your computer. (You will be prompted to connect it during the installation process.)\nGo to the Downloads tab for your product and download the Drivers and Utilities Combo Package for your operating system.\nNote:\nMake a note of the file name and its location so you can easily retrieve it.\nOpen the file you downloaded and follow the on-screen instructions to install the software.\nTo obtain a replacement copy of the software CD (stock permitting), please contact our Driver Fulfillment department at 562-276-4367 (U.S.) or 905-709-3839 (Canada). A charge for shipping and handling plus any applicable taxes may apply.\nNote:\nOS X drivers are available via download only.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299642?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF50201~faq-299642",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:35.463467"
+        },
+        {
+          "question": "How do I set my product's software to print only in Black or Grayscale from Windows or my Mac?",
+          "answer": "Open a document, then follow the steps below for your operating system to select\nBlack/Grayscale\nor\nGrayscale\nin the printer driver.\nNote:\nTo keep the print head clear and ready to print, the printer uses a small amount of ink from all the cartridges whenever it prints. Even if you select\nBlack/Grayscale\nor\nGrayscale\n, some color ink is still being used.\nBlack/Grayscale\nor\nGrayscale\nis not recommended for printing black-and-white photos.\nWindows\nSelect the print command in your application.\nMake sure the product is selected.\nClick\nProperties\nor\nPreferences\n.\nNote:\nIf you don't see these buttons, click\nSetup\n,\nPrinter\n, or\nOptions\n, then click\nProperties\nor\nPreferences\non the next screen.\nClick the\nMain\ntab.\nSelect\nBlack/Grayscale\nas the Color setting.\nClick\nOK\n.\nOS X\nSelect the print command in your application.\nMake sure the product is selected.\nClick the arrow next to the Printer setting or the\nShow Details\nbutton to expand the print window, if necessary.\nSelect\nPrint Settings\nfrom the printer options pop-up menu.\nSelect\nGrayscale\nas the Color setting.\nClick\nPrint\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299628?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF50201~faq-299628",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:36.436075"
+        },
+        {
+          "question": "How do I set default print settings when I print from Windows or my Mac?",
+          "answer": "When you change your print settings from within a program, the changes apply only while you're printing with the program open. If you want to select different settings to use in all your programs, you can change the default print settings in Windows or save a preset of printer options in OS X. Follow the steps below for your operating system.\nWindows\nDo one of the following:\nWindows 10\n: Right-click\nand select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your product name and select\nPrinter Preferences\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows XP\n: Click\nStart\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the settings you want to use as defaults in all your Windows programs.\nClick\nOK\n.\nOS X\nOpen a document and select\nPrint\nfrom the File menu.\nMake sure your product is selected. Click the arrow next to the Printer setting or the\nShow Details\nbutton to expand the print window, if necessary.\nSelect the print settings you want to save.\nNote:\nSome options may not be able to be saved in a preset.\nClick the\nPresets\npop-up menu and select\nSave As\nor\nSave Current Settings as Preset\n.\nEnter a name for your preset and choose whether this preset can be used with any printer or only with the currently selected printer.\nClick\nOK\n.\nWhen you are ready to print, click the\nPresets\npop-up menu, select your preset from the list, and click\nPrint\n. Once a preset has been selected, it will automatically be selected in the print dialog for future print jobs until another preset is selected. Select\nStandard\nfrom the\nPresets\npop-up menu.\nIf you don't want to create a preset and simply want to print with the last print settings you selected, select\nLast Used Settings\nin the\nPresets\npop-up menu.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299636?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF50201~faq-299636",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:37.325571"
+        },
+        {
+          "question": "Can I select a print resolution by indicating a specific DPI (dots per inch) setting?",
+          "answer": "No. The print resolution is determined by other driver settings.\nWindows\nThe\nQuality\nand\nPaper Type\nsettings determine the print resolution.\nOS X\nThe\nMedia Type\nand\nPrint Quality\nsettings determine the print resolution.\nNote:\nTo access the resolution settings in OS X, select\nPrint\nfrom the File menu. Then select\nPrint Settings\nfrom the pop-up menu.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299633?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF50201~faq-299633",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:38.278633"
+        },
+        {
+          "question": "Who do I contact for support on the software that came with my product?",
+          "answer": "Contact Epson for support for the product's driver(s) and any other software or utility listed on the Downloads tab for your product. If your product comes with third-party software, contact the software company for support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299615?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF50201~faq-299615",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:39.246287"
+        },
+        {
+          "question": "I cannot edit the CD jacket I am creating using Epson Print CD. What should I do?",
+          "answer": "Try the following:\nStart Epson Print CD.\nOpen the CD jacket file you want to edit.\nClick\nView\nand select\nSelect Editing Face\n.\nSelect the CD jacket face you want to edit.\nClick\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-00004c4-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF50201~faq-00004c4-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:40.320882"
+        },
+        {
+          "question": "How can I get a replacement CD for my product?",
+          "answer": "To obtain a replacement copy of the software CD (stock permitting), please contact our Driver Fulfillment department at 562-276-4367 (U.S.) or 905-709-3839 (Canada). A charge for shipping and handling plus any applicable taxes may apply.\nNote:\nYou can download the latest driver for your product from the Downloads tab. Only the Epson drivers and utilities are available for download. If your product came with third-party software, the software is available only on the CD that came with the product.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-000050d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF50201~faq-000050d-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:41.256899"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "The following options are available:\nYou can use Epson Software Updater (which is installed the first time you install the printer driver) to notify you when new updates are available for download. Software Updater analyzes the Epson software (drivers, utilities, firmware, etc.) installed on your computer and product, and notifies you if new updates are available for download.\nIf you've already installed a Windows printer driver, you can update the driver by selecting\nSoftware Update\non the Maintenance tab in the printer driver settings window.*\nIf you're using a Mac, update the driver by doing one of the following:\nOS X 10.10\n,\nOS X 10.11\n,\nmacOS 10.12.x\n, or\nmacOS 10.13.x\n: Open the\nmenu and select\nApp Store\n>\nUpdates\n.\nOS X (other versions)\n: Open the\nmenu and select\nSoftware Update\n.\nYou can download the software from the Downloads tab for your product.\n*This option may not be available in all drivers.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-0000aff-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF50201~faq-0000aff-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:42.161795"
+        },
+        {
+          "question": "Can I print in Black and White (Grayscale) with Apple's AirPrint driver when one of the color ink cartridges is expended?",
+          "answer": "No, you need to install the Epson Drivers and Utilities Combo Package to print in Grayscale. You can download and install the software from the Downloads tab on your product's support page.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-0000b31-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF50201~faq-0000b31-shared",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:43.187854"
+        },
+        {
+          "question": "Which Epson product software settings are not supported by Apple's AirPrint driver?",
+          "answer": "The following settings are not supported:\nBacklight Correction\nColor Restoration\nDescreening\nDust Removal\nQuiet Mode\nUnsharp Mask\nNote:\nTo use the settings listed above, install the Epson Drivers and Utilities Combo Package for your product. You can download and install the software from the Downloads tab on your product's support page.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-0000b30-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF50201~faq-0000b30-shared",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:44.177391"
+        },
+        {
+          "question": "Where can I find the IP address of my router?",
+          "answer": "Most wireless routers have a default IP address that can usually be found in the router's documentation.\nFor more support on your router, contact the manufacturer of your router.\nYou can also print a network status sheet from your printer's control panel to find your router's IP address.\nNote:\nThe network status sheet will list your router’s IP address only if you have set up your printer with a network connection to the router. If you print a network status sheet before setup, the router's IP address will not be listed on the network status sheet.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-00004c0-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF50201~faq-00004c0-shared",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:45.046320"
+        },
+        {
+          "question": "How do I add my product as an IP printer on my Mac?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n.\nSelect your printer, if necessary.\nClick\n+\nor\nAdd Printer, Scanner, or Fax\nand select\nIP\non the toolbar.\nSelect a protocol. If you do not know which protocol to choose, leave it as\nLine Printer Daemon-LPD\n.\nClick the\nAddress\nfield and enter your printer's IP address. You see the message\nGathering printer information\nas your Mac connects to the printer.\nClick\nAdd\nafter your printer appears in the Use field to create a printer queue. If your printer does not appear in the Use field, select\nAuto Select\nfrom the drop-down box.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-00004ba-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF50201~faq-00004ba-shared",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:45.924606"
+        },
+        {
+          "question": "How do I change the font size of text when I print from software in Windows?",
+          "answer": "You need to select the text or font size in the software you are printing from, not the printer driver. For detailed instructions, contact the company for the application you are printing from.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-00004b7-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF50201~faq-00004b7-shared",
+          "display_order": 20,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:46.784839"
+        },
+        {
+          "question": "I can't get Epson Status Monitor to work over my wireless network. What should I do?",
+          "answer": "If the product is not shared, make sure it is connected to the network wirelessly. Try moving your product or computer to a different location within range of your wireless network. Avoid placing the computer, product, or wireless access point near microwaves, cordless telephones, or other sources of wireless interference.\nIf the product is set up as a shared printer, Epson Status Monitor will not work and is not supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-00004c7-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF50201~faq-00004c7-shared",
+          "display_order": 21,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:47.735197"
+        },
+        {
+          "question": "I see the message Unable to connect to the server. Please try again later. when I try to install the Drivers and Utilities Combo Package Installer. What should I do?",
+          "answer": "Make sure your computer has an Internet connection and try installing the software again. If the same message appears, then do the following:\nGo to the Downloads tab on your product's support page.\nDownload and save the Drivers and Utilities Combo Package Installer to your computer.\nMake a note of the file name and save the location so you can easily retrieve it.\nRight-click the file and select\nRun as Administrator\n.\nThe software should install.\nNote:\nYou can also try to install the drivers and utilities individually.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-000094f-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF50201~faq-000094f-shared",
+          "display_order": 22,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:48.632471"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF50201~faq-00004dc-shared",
+          "display_order": 23,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:49.566947"
+        },
+        {
+          "question": "Who do I contact for software support?",
+          "answer": "Click on the\nContact Us\ntab on your product's support page to contact Epson for support. If your product comes with third-party software, contact the software company.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-00004db-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF50201~faq-00004db-shared",
+          "display_order": 24,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:50.532676"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF50201~faq-0000f4b-shared",
+          "display_order": 25,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:51.429462"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF50201~faq-0000f4c-shared",
+          "display_order": 26,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:52.964455"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF50201~faq-0000f4d-shared",
+          "display_order": 27,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:53.839138"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Wireless or Wired Connection",
+      "section_id": "8796127635532",
+      "section_order": 12,
+      "faqs": [
+        {
+          "question": "How do I connect my product with a Wi-Fi Direct connection?",
+          "answer": "See below.\nEnabling Wi-Fi Direct Mode\nYou can enable Wi-Fi Direct mode to allow direct communication between your product and computer or other devices without a wireless router or access point.\nPress the\nhome button, if necessary.\nPress the arrow buttons to select\nWi-Fi Setup\nand press the\nOK\nbutton.\nSelect\nWi-Fi Direct Setup\nand press the\nOK\nbutton.\nPress the\nOK\nbutton.\nPress the\nOK\nbutton.\nPress the right arrow button to select\nYes\nand press the\nOK\nbutton.\nNote:\nIf you have already connected devices or computers to your product via Wi-Fi Direct, they will be disconnected when you change the password.\nEnter your new Wi-Fi Direct password.\nNote:\nYour password must be at least 8 and no more than 22 characters long.\nPress the arrow buttons to highlight a character or a function button displayed on the keypad. Then press the\nOK\nbutton to select it.\nTo change the case of letters or select symbols, select\nAB12\n(uppercase),\nab12\n(lowercase), or\nSymbol\nand press the\nOK\nbutton. Then highlight a number or symbol and press the\nOK\nbutton to select it.\nTo enter a space, select\nSpace\nand press the\nOK\nbutton.\nTo delete characters, select the back arrow and press the\nOK\nbutton.\nWhen you finish entering characters, select\nDone\nand press the\nOK\nbutton.\nPress the\nOK\nbutton to confirm Wi-Fi settings. You see a screen like this:\nUse your computer or wireless device to select the Wi-Fi network name (SSID) displayed on the LCD screen, then enter the password shown.\nPress the\nOK\nbutton to exit. You see the\nconnection symbol on the LCD screen and should be able to print directly to your product from your computer or device.\nNote:\nIf the\nconnection symbol is not displayed on the LCD screen, Wi-Fi Direct mode is not enabled. Repeat these steps to try again.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297789?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CF50201~faq-297789",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:54.736452"
+        },
+        {
+          "question": "How do I connect my product to my wireless network using the product's control panel?",
+          "answer": "See below.\nSelecting Wireless Network Settings from the Control Panel\nYou can select or change wireless network settings using your product control panel.\nTo install your product on a wireless network, follow the instructions on the\nStart Here\nsheet and install the necessary software. The installer program guides you through network setup.\nPress the\nhome button, if necessary.\nPress the arrow buttons to select\nWi-Fi Setup\nand press the\nOK\nbutton.\nSelect\nWi-Fi (Recommended)\nand press the\nOK\nbutton.\nPress the\nOK\nbutton. You see this screen:\nSelect\nWi-Fi Setup Wizard\nand press the\nOK\nbutton.\nPress the up or down arrow buttons to select the name of your wireless network and press the\nOK\nbutton. If you do not see your wireless network's name, you can enter it manually.\nNote:\nTo enter the wireless network name manually, select\nOther Networks\nand press the\nOK\nbutton. Enter your network name as described in the next step.\nEnter your wireless password (or network name and then password).\nPress the arrow buttons to highlight a character or a function button displayed on the keypad. Then press the\nOK\nbutton to select it.\nTo change the case of letters or select symbols, select\nAB12\n(uppercase),\nab12\n(lowercase), or\nSymbol\nand press the\nOK\nbutton. Then highlight a number or symbol and press the\nOK\nbutton to select it.\nTo enter a space, select\nSpace\nand press the\nOK\nbutton.\nTo delete characters, select the back arrow and press the\nOK\nbutton.\nWhen you finish entering characters, select\nDone\nand press the\nOK\nbutton.\nPress the\nOK\nbutton to confirm Wi-Fi settings.\nIf you want to print a network status report, select\nYes\nand press the\nOK\nbutton. (Otherwise, select\nNo\n.) Your product should now be connected to the network.\nNote:\nIf the Wi-Fi connection symbol does not appear on the LCD screen, you may have selected the wrong network name or entered the password incorrectly. Repeat these steps to try again.\nRelated information\nChanging or Updating Network Connections",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297805?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CF50201~faq-297805",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:55.738566"
+        },
+        {
+          "question": "How do I change from a USB connection to a Wi-Fi connection?",
+          "answer": "See below.\nChanging a USB Connection to a Wi-Fi Connection\nIf you have already connected your product to your computer using a USB connection, you can change to a Wi-Fi connection.\nDisconnect the USB cable from your product.\nUninstall your product software.\nDownload and install your product software from the Epson website using the instructions on the Start Here sheet.\nRelated concepts\nUninstall Your Product Software",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297804?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CF50201~faq-297804",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:56.861755"
+        },
+        {
+          "question": "I can't print from my Mac with a wireless connection since I received an exchange product from Epson. What should I do?",
+          "answer": "You'll need to set up your product again. Do the following:\nDisable the Firewall\nOpen the\nmenu and select\nSystem Preferences\n, then click either\nSecurity & Privacy\nor\nSecurity\n.\nSelect the\nFirewall\ntab and disable the firewall.\nIf you have other firewall software enabled, you'll also need to disable it. If you don't know how to disable it, contact your firewall provider for help.\nNote:\nThis step is needed to install the product's software and complete the Wi-Fi setup. Remember to enable your firewall software after you complete the Wi-Fi setup.\nIf you're unable to complete the instructions above, contact Epson support. Otherwise, go to the next section.\nInstall the Product Software\nImportant:\nIn most cases, the software installer will automatically set up your wireless connection so you don't need to know your SSID and password. However, if it cannot determine your SSID or password you will be prompted to set up your wireless connection manually. If you don't know them, contact the manufacturer of your router or the person who set up your network.\nIf you are using a 5 GHz wireless router, set the router to operate in dual band (2.4 GHz and 5 GHz) mode. See your router documentation or contact your Internet service provider for instructions.\nDo one of the following:\nIf you received a XP-640 for exchange, download the\nDrivers and Utilities Combo Package\nfrom the Downloads tab for your product.\nIf you received a different product (not a XP-640), go to the main Epson support page. Select your product, then\nDownloads\n. Download the\nDrivers and Utilities Combo Package\nfor your product.\nNote:\nMake a note of the file name and its location so you can retrieve it.\nOpen the file you downloaded and follow the on-screen instructions to install the software.\nAfter you complete the Wi-Fi setup, turn your firewall back on. If these troubleshooting instructions did not solve the problem, please contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299652?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CF50201~faq-299652",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:57.994593"
+        },
+        {
+          "question": "I tried to install the product on my Mac with a wireless connection, but the installation failed. What should I do?",
+          "answer": "You'll need to set up your software and product again. Do the following:\nReset your Product's Network Settings\nReset the product's Wi-Fi settings on the product's control panel by doing the following:\nPress the\nhome button, if necessary. Press the arrow buttons to select\nSettings\nand press\nOK\n. Select\nRestore Default Settings\nand press\nOK\n. Select\nNetwork Settings\n, press\nOK\n, then select\nYes\n.\nIf you're unable to complete the instructions above, contact Epson support. Otherwise, go to the next section.\nDisable the Firewall\nOpen the\nmenu and select\nSystem Preferences\n, then click either\nSecurity & Privacy\nor\nSecurity\n.\nSelect the\nFirewall\ntab and disable the firewall.\nIf you have other firewall software enabled, you'll also need to disable it. If you don't know how to disable it, contact your firewall provider for help.\nNote:\nThis step is needed to install the product's software and complete the Wi-Fi setup. Remember to enable your firewall software after you complete the Wi-Fi setup.\nIf you're unable to complete the instructions above, contact Epson support. Otherwise, go to the next section.\nInitialize your Router and Set Up your Product with a Wi-Fi Connection on a Mac\nImportant:\nIn most cases, the software installer will automatically set up your wireless connection so you don't need to know your SSID and password. However, if it cannot determine your SSID or password, you will be prompted to set up your wireless connection manually. If you don't know them, contact the manufacturer of your router or the person who set up your network.\nIf you are using a 5 GHz wireless router, set the router to operate in dual band (2.4 GHz and 5 GHz) mode. See your router documentation or contact your Internet service provider for instructions.\nUnplug your router's power cord from the power outlet, wait a brief period, then plug it back in. You may need to re-establish the connection for the other devices on your network.\nDownload the\nDrivers and Utilities Combo Package\nfrom the Downloads tab for your product.\nNote:\nMake a note of the file name and its location so you can retrieve it.\nOpen the file you downloaded, and follow the on-screen instructions to install the software.\nAfter you complete the Wi-Fi setup, turn your firewall back on. If these troubleshooting instructions did not solve the problem, please contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299654?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CF50201~faq-299654",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:58.889046"
+        },
+        {
+          "question": "I can't print from Windows with a wireless connection since I received an exchange product from Epson. What should I do?",
+          "answer": "You'll need to set up your product again. Do the following:\nDisable the Firewall\nDo one of the following:\nWindows 10\n: Right-click\nand select\nControl Panel\n>\nSystem and Security\n>\nWindows Firewall\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nWindows Firewall\n.\nWindows (other versions)\n: Select\nor\nStart\n>\nControl Panel\n>\nSystem and Security\n>\nWindows Firewall\n.\nDisable the firewall.\nIf you have other firewall software enabled, you'll also need to disable it. If you don't know how to disable it, contact your firewall provider for help.\nNote:\nThis step is needed to install the product's software and complete the Wi-Fi setup. Remember to enable your firewall software after you complete the Wi-Fi setup.\nIf you're unable to complete the instructions above, contact Epson support. Otherwise, go to the next section.\nInstall the Product Software\nImportant:\nIn most cases, the software installer will automatically set up your wireless connection so you don't need to know your SSID and password. However, if it cannot determine your SSID or password, you will be prompted to set up your wireless connection manually. If you don't know them, contact the manufacturer of your router or the person who set up your network.\nIf you are using a 5 GHz wireless router, set the router to operate in dual band (2.4 GHz and 5 GHz) mode. See your router documentation or contact your Internet service provider for instructions.\nDo one of the following:\nIf you received a XP-640 for exchange, download the\nDrivers and Utilities Combo Package\nfrom the Downloads tab for your product.\nIf you received a different product (not a XP-640), go to our main Epson support page. Select your product, then\nDownloads\n. Download the\nDrivers and Utilities Combo Package\nfor your product.\nNote:\nMake a note of the file name and its location so you can retrieve it.\nOpen the file you downloaded and follow the on-screen instructions to install the software.\nAfter you complete the Wi-Fi setup, turn your firewall back on. If these troubleshooting instructions did not solve the problem, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299653?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CF50201~faq-299653",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:36:59.786852"
+        },
+        {
+          "question": "I can't print from my Mac with a wireless connection after I replaced my router. What should I do?",
+          "answer": "You will need to set up your product again for the new router. Do the following:\nDelete the Print Queue\nOpen the\nmenu, select\nSystem Preferences\n, then select\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n. Select your printer, click\n, then follow the instructions in the next section.\nDisable the Firewall\nOpen the\nmenu and select\nSystem Preferences\n, then click either\nSecurity & Privacy\nor\nSecurity\n.\nSelect the\nFirewall\ntab and disable the firewall.\nIf you have other firewall software enabled, you'll also need to disable it. If you don't know how to disable it, contact your firewall provider for help.\nNote:\nThis step is needed to install the product's software and complete the Wi-Fi setup. Remember to enable your firewall software after you complete the Wi-Fi setup.\nIf you're unable to complete the instructions above, contact Epson support. Otherwise, go to the next section.\nInstall the Product Software\nImportant:\nIn most cases, the software installer will automatically set up your wireless connection so you don't need to know your SSID and password. However, if it cannot determine your SSID or password, you will be prompted to set up your wireless connection manually. If you don't know them, contact the manufacturer of your router or the person who set up your network.\nIf you are using a 5 GHz wireless router, set the router to operate in dual band (2.4 GHz and 5 GHz) mode. See your router documentation or contact your Internet service provider for instructions.\nDownload the\nDrivers and Utilities Combo Package\nfrom the Downloads tab for your product.\nNote:\nMake a note of the file name and its location so you can retrieve it.\nOpen the file you downloaded and follow the on-screen instructions to install the software.\nAfter you complete the Wi-Fi setup, turn your firewall back on. If these troubleshooting instructions did not solve the problem, please contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299659?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CF50201~faq-299659",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:37:00.859427"
+        },
+        {
+          "question": "I was able to print from my Mac before with a wireless connection, but now I can't. What should I do?",
+          "answer": "The problem can be caused by your printer, computer, or wireless network. Do the following:\nTo determine if the printer can print without a computer, print a\nnozzle check pattern\nfrom the product's control panel.\nIf you can print, go to the next step.\nIf you can't print a nozzle check pattern, check the product's LCD for\nerror messages\n. Clear any errors displayed on the LCD, then try printing a nozzle check pattern again. If you still can't print, contact Epson support.\nDelete any pending print job(s) from the Epson print queue\n, then try printing again.\nIf you can print now, you're done, and you can skip the remaining steps.\nIf you can't print, go to the next step.\nOn your Mac, open the\nmenu and select\nSystem Preferences\n. Select\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\nwindow, select your printer, then click\nto remove the printer. Click\n, select your printer with Kind set as\nBonjour\n, select your printer from the Use drop-down list, then click\nAdd\n. This will add the printer back on the printer queue. Then try printing again.\nIf you can print now, you're done, and you can skip the remaining steps.\nIf you still can't print, check the Wi-Fi icon on the product's control panel, then do one of the following:\nIf the Wi-Fi icon\nis displayed, follow the instructions in the\nInitialize Your Router and Restart Your Computer\nsection below.\nIf the Wi-Fi icon\nis displayed, follow the instructions in the\nReinstall the Product Software\nsection below.\nInitialize Your Router and Restart Your Computer\nUnplug your router's power cord from the power outlet, wait a brief period, then plug it back in. Try to print. You may need to re-establish the connection for the other devices on your network.\nIf you can print, you're done. The problem was resolved by initializing your router.\nIf you still can't print, restart your computer, then try printing again. If these steps do not resolve your problem, contact Epson support.\nReinstall the Product Software\nImportant:\nIn most cases, the software installer will automatically set up your wireless connection so you don't need to know your SSID and password. However, if it cannot determine your SSID or password you will be prompted to set up your wireless connection manually. If you don't know them, contact the manufacturer of your router or the person who set up your network.\nIf you are using a 5 GHz wireless router, set the router to operate in dual band (2.4 GHz and 5 GHz) mode. See your router documentation or contact your Internet service provider for instructions.\nReset the product's Wi-Fi settings on the product's control panel by doing the following:\nPress the\nhome button, if necessary. Press the arrow buttons to select\nSettings\nand press\nOK\n. Select\nRestore Default Settings\nand press\nOK\n. Select\nNetwork Settings\n, press\nOK\n, then select\nYes\n.\nOn your Mac, open the\nmenu and select\nSystem Preferences\n. Select the\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\nwindow, select your printer, and then click\nto remove the printer.\nIn\nSystem Preferences\n, click either\nSecurity & Privacy\nor\nSecurity\n. Select the\nFirewall\ntab, then disable the firewall.\nIf you have other firewall software enabled, you'll also need to disable it. If you don't know how to disable it, contact your firewall provider for help.\nNote:\nThis step is needed to install the product's software and complete the Wi-Fi setup. Remember to enable your firewall software after you complete the Wi-Fi setup.\nUnplug your router's power cord from the power outlet, wait a brief period, and then plug it back in. You may need to re-establish the connection for the other devices on your network.\nDownload the\nDrivers and Utilities Combo Package\nfrom the Downloads tab for your product.\nNote:\nMake a note of the file name and its location so you can retrieve it.\nOpen the file you downloaded and follow the on-screen instructions to install the software.\nAfter you complete the Wi-Fi setup, turn your firewall back on. If these troubleshooting instructions did not solve the problem, please contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-299657?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CF50201~faq-299657",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:37:01.765117"
+        },
+        {
+          "question": "Can I set up my product for both a USB and network connection?",
+          "answer": "Yes, you can set up the product for both a USB and a wireless network connection at the same time. To set up both connections, you must install the product's software twice (i.e., once for each connection type).\nNote:\nWith this setup, your product may appear as two devices in the Printer list. One device is for the USB connection, and the other is for the network connection.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-0000b11-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CF50201~faq-0000b11-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:37:02.666339"
+        },
+        {
+          "question": "How do I find my SSID and network password?",
+          "answer": "In most cases, the software installer will automatically set up your wireless connection, so you don't need to know your SSID and password. However, if it cannot determine your SSID or password, you will be prompted to set up your wireless connection manually.\nCheck your router documentation for this information. Most routers have a default SSID and password that can be modified once the router is set up.\nNote:\nThe SSID is the name of the wireless network that is set up on your router or access point.\nIf you don't know this information, you need to contact the manufacturer of your router or the person who set up your network.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-00009c6-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CF50201~faq-00009c6-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:37:03.543319"
+        },
+        {
+          "question": "Where can I get my wireless password for Apple AirPort Extreme or Express?",
+          "answer": "Contact Apple for assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-00004c1-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CF50201~faq-00004c1-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:37:04.468221"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 13,
+      "faqs": [
+        {
+          "question": "How should I transport or store my product?",
+          "answer": "If you need to store your product or transport it a long distance, prepare it for transportation as described here.\nCaution:\nDuring transportation and storage, follow these guidelines:\nAvoid tilting the product, placing it vertically, or turning it upside down; otherwise ink may leak.\nLeave the ink cartridges installed. Removing the cartridges can dry out the print head and may prevent the product from printing.\nDo not carry the product by its control panel; this may damage the product.\nNote:\nBefore storing your product for a long period, replace low, expended, or expired ink to help prevent the print head from drying out. Store your product in a cool, dry place.\nTurn off the product.\nLift up the scanner unit and check to see if the print head is in the far right position (the home position). If not, turn on the product, wait for the print head to move, then turn the product off again.\nSecure the ink cartridge holder to the case with tape.\nCaution:\nDo not place tape on the white flat cable inside the product; otherwise, you may damage your product.\nLower the scanner unit.\nRemove all the paper from the product.\nRemove any memory cards inserted in the product.\nUnplug the power cable.\nDisconnect any connected cables.\nClose the output tray and front cover, then lower the control panel.\nPlace the product in its original packing materials, if possible, or use equivalent materials with cushioning around the product.\nKeep the product level during transportation. Be sure to remove the tape from the ink cartridge holder before turning on your product. If print quality has declined when you print again, clean and align the print head.\nRelated concepts\nPrint Head Cleaning\nPrint Head Alignment\nRelated tasks\nRemoving a Memory Card",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-297792?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CF50201~faq-297792",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:37:05.478368"
+        },
+        {
+          "question": "Why doesn't Epson include a USB or Ethernet cable in the box with the product?",
+          "answer": "We are committed to giving our customers the best value possible with every product we sell. To provide high-quality products with the latest technology and sell them at the most competitive prices, it is critical to choose which components are necessary and which may be redundant. Because many of our customers already own USB or Ethernet cables, it makes good sense to eliminate the costs of including a cable in every box and use those savings to improve product features and lower the cost to you, the consumer.\nNote:\nNot all products support an Ethernet interface.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-0000490-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CF50201~faq-0000490-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:37:06.404423"
+        },
+        {
+          "question": "My product will not wake up when I try to print with a wireless connection. What should I do?",
+          "answer": "Turn the product off and on. If you can print now, the problem is related to your wireless router. Contact the manufacturer of your router for assistance or try using a different router.\nIf you cannot print after turning the product off and on, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-00004c8-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CF50201~faq-00004c8-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:37:07.389840"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CF50201~faq-00004b0-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:37:08.364055"
+        },
+        {
+          "question": "What security measures does Epson recommend for its network products?",
+          "answer": "To help deter unauthorized access to your product over a network, you should protect your network environment using appropriate security measures.\nSecurity measures such as these can help deter threats such as loss of user data, use of telephone and fax lines, and other intrusions:\nEnable security on your wireless LAN if your product supports a wireless connection\nEnable the appropriate security on the wireless LAN you plan to use with your product. Network security, such as a network password, can deter interception of traffic over the wireless LAN. Your router may already have a default password enabled by your Internet service provider (ISP). See your ISP and router documentation for instructions on how to change the default password and better secure your network.\nConnect your product only to a network protected by a firewall\nConnecting your product directly to the Internet may leave it vulnerable to security threats. Instead, connect it to a router or other networking device protected by a firewall. Your router may already have a firewall set up by your Internet service provider; check with your ISP for confirmation. For best results, set up and use a private IP address for your network connection.\nChange the default administrator password on your product\nIf your product has an option to set an administrator password, change the default administrator password to deter access by unauthorized users to personal data stored on your product, such as IDs, passwords, and contact lists. See the product's User's Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-0000a05-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CF50201~faq-0000a05-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:37:09.320544"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF50201~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CF50201~faq-0000f4a-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-640/s/SPT_C11CF50201",
+          "fetched_at": "2026-04-01T07:37:10.179205"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

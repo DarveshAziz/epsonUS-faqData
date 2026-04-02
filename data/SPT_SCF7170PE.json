@@ -1,0 +1,466 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "SureColor Series",
+  "model": {
+    "name": "Epson SureColor F7170",
+    "sku": "SPT_SCF7170PE",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "How do I manually install the Epson ICC profiles on my Mac?",
+          "answer": "Do the following:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinters2\n>\nICCProfiles\n.\nPress and hold the\ncontrol\nkey on your keyboard while you select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n, select and copy all files, then close all open windows.\nOpen your hard drive, select\nLibrary\n>\nColorSync\n>\nProfiles\n, then paste the files into this folder.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-0000b03-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCF7170PE~faq-0000b03-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:06.306973"
+        },
+        {
+          "question": "How do I determine my printer driver version on my Mac?",
+          "answer": "Open the\nmenu and select\nSystem Preferences\nor\nSystem Settings\n>\nPrinters & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n. Your printer driver version is displayed.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-00009e4-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCF7170PE~faq-00009e4-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:07.251325"
+        },
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-00009e9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCF7170PE~faq-00009e9-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:08.361632"
+        },
+        {
+          "question": "How do I save my Epson printer driver presets so I can restore them if I reinstall the Epson printer driver in Windows?",
+          "answer": "Note:\nYou may lose some custom settings when you uninstall the printer driver.\nBefore you reinstall the printer driver, do the following:\nOpen\nFile Explorer\nor\nWindows Explorer\n.\nSelect\nThis PC\nor\nComputer\n>\nC:\ndrive >\nProgram Files\n>\nEpson\n> [your printer name].\nMove the UCI extension files to a different folder on your desktop.\nNote:\nAfter you reinstall the Epson printer driver, move the UCI extension files back to your printer's folder as described in step 2.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-00009e6-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCF7170PE~faq-00009e6-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:09.727060"
+        },
+        {
+          "question": "Which Epson paper type setting should I select for Legacy paper?",
+          "answer": "See the table below.\nLegacy Paper\nEpson Paper Type Setting\nBaryta\nPremium Luster Photo Paper\nPlatine\nPremium Luster Photo Paper\nFibre\nWatercolor Paper – Radiant White\nEtching\nWatercolor Paper – Radiant White",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-00009EC-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCF7170PE~faq-00009EC-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:10.630544"
+        },
+        {
+          "question": "My print job disappears from the Windows print queue but does not print. What should I do?",
+          "answer": "Follow the steps below:\nDo one of the following:\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your printer and select\nManage\n>\nPrinting preferences\n.\nWindows 8\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the\nUtility\ntab, then\nSpeed and Progress\n.\nSelect the\nAlways Spool RAW Datatype\nand\nCoarse Rendering\ncheckboxes, then click\nOK\n.\nNote:\nIf the\nProcessed by Printer\ncheckbox is selected, deselect it.\nTry printing again.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-00009e8-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCF7170PE~faq-00009e8-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:11.642177"
+        },
+        {
+          "question": "I see horizontal or vertical lines in my printout. What should I do?",
+          "answer": "Perform a nozzle check from the printer's control panel or the Epson printer driver, then do one of the following:\nIf there are gaps in the nozzle check pattern, clean the print head nozzles.\nIf there are no gaps in the nozzle check pattern, try the solutions below.\nHorizontal Banding\nIncrease the print resolution.\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nSelect an alternate paper profile for ink coverage.\nSelect the correct paper type in the printer driver.\nAdjust the paper feed\nVertical Banding\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nAlign the print head.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-00009eb-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCF7170PE~faq-00009eb-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:12.766292"
+        },
+        {
+          "question": "I see the message Communication Error when I use a USB connection. What should I do?",
+          "answer": "Do the following:\nDelete all print jobs in the print queue.\nTurn the printer off.\nNote:\nMake sure the USB cable is connected correctly.\nRestart your computer. When the desktop appears, turn your printer on and follow the on-screen instructions.\nNote:\nIf the problem continues, turn the printer off again and delete the printer in the list of printers. Then disconnect the USB cable from the printer and connect it again.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-00009ea-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCF7170PE~faq-00009ea-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:13.674120"
+        },
+        {
+          "question": "Where are the ICC profiles located for my printer on my Mac?",
+          "answer": "Do the following to locate the files:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinter2\n>\nICCProfiles\n.\nPress and hold the\nControl\nkey on your keyboard while you click the profile package in the\nICCProfiles\nfolder. In the pop-up menu that appears, select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-00009ed-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCF7170PE~faq-00009ed-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:14.702530"
+        },
+        {
+          "question": "How do I install the ICC profiles in Windows XP or Windows 7?",
+          "answer": "Do the following:\nDownload the ICC profiles for your printer and save them in a folder you can easily find.\nClose all open software.\nOpen\nWindows Explorer\n, then select\nComputer\n>\nC:\ndrive >\nWindows\n>\nSystem32\n>\nspool\n>\ndrivers\n>\ncolor\n.\nMove the ICC profiles into the\ncolor\nfolder, then close all open windows.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-00009E5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCF7170PE~faq-00009E5-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:15.727344"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "I see the message Communication Error when I use a USB connection. What should I do?",
+          "answer": "Do the following:\nDelete all print jobs in the print queue.\nTurn the printer off.\nNote:\nMake sure the USB cable is connected correctly.\nRestart your computer. When the desktop appears, turn your printer on and follow the on-screen instructions.\nNote:\nIf the problem continues, turn the printer off again and delete the printer in the list of printers. Then disconnect the USB cable from the printer and connect it again.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-00009ea-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SCF7170PE~faq-00009ea-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:16.658970"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SCF7170PE~faq-00004c5-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:17.659227"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "What is the smallest drop size my product will produce?",
+          "answer": "The smallest drop is 5.3 picoliters.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-253137?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCF7170PE~faq-253137",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:18.753937"
+        },
+        {
+          "question": "Do I need to install a new chip unit each time I refill the ink tank with a new ink pack?",
+          "answer": "Yes. It needs to be installed with every new ink pack. The chip is there to help alert you when ink is low.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-253129?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCF7170PE~faq-253129",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:19.858307"
+        },
+        {
+          "question": "What is the capacity of the ink tanks?",
+          "answer": "1.5 liters in each color.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-253136?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCF7170PE~faq-253136",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:20.879676"
+        },
+        {
+          "question": "How much ink is in the Ink Refill Packs?",
+          "answer": "1 liter in each color.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-253131?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCF7170PE~faq-253131",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:21.878809"
+        },
+        {
+          "question": "How do I refill the ink tanks?",
+          "answer": "See\nProcedure for Chip Unit Replacement and Ink Refills\nfor instructions.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-253182?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCF7170PE~faq-253182",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:22.830885"
+        },
+        {
+          "question": "How many ink tanks are in my product?",
+          "answer": "There are four ink tanks; black, cyan, magenta, and yellow.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-253130?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCF7170PE~faq-253130",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:23.737902"
+        },
+        {
+          "question": "Can I use my product's ink packs and ink tanks with other Epson products?",
+          "answer": "They'll work with the SureColor F6070 and the SureColor F7070, but not with other Epson printers.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-253125?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCF7170PE~faq-253125",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:24.678754"
+        },
+        {
+          "question": "Can I reuse the chip unit that's on an ink pack?",
+          "answer": "No, it's not reusable. A new chip unit will be included with each new ink pack.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-253124?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCF7170PE~faq-253124",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:25.616068"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "Can I buy media for my product from Epson?",
+          "answer": "Yes, Epson has some media available. However, most media is available through third party vendors.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-253123?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCF7170PE~faq-253123",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:26.649215"
+        },
+        {
+          "question": "Which media width does my product support?",
+          "answer": "11.8 to 64 inches.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-253135?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCF7170PE~faq-253135",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:27.632615"
+        },
+        {
+          "question": "Which media does my product support?",
+          "answer": "The printer prints on dye sublimation transfer paper.\nPrint quality is greatly affected by the type and quality of media used. Choose a media suited to the task at hand. For information on use, refer to the documentation supplied with the media or contact the manufacturer. We recommend that you print a test run and check the results before purchasing media in large quantities.\nFor media specifications, see the table below.\nImportant:\nDo not use media that is wrinkled, scuffed, torn, or dirty.\nRoll core size\n2 or 3 inch\nRoll outer diameter\nUp to 250 mm (9.8 inches)\nMedia width\n300 to 1626 mm (11.8 to 64 inches)\nMedia thickness\nUp to 1 mm (0.04 inch)\nRoll weight\nUp to 40 kg (88.2 lb)",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-253134?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCF7170PE~faq-253134",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:28.572802"
+        },
+        {
+          "question": "Which Epson paper type setting should I select for Legacy paper?",
+          "answer": "See the table below.\nLegacy Paper\nEpson Paper Type Setting\nBaryta\nPremium Luster Photo Paper\nPlatine\nPremium Luster Photo Paper\nFibre\nWatercolor Paper – Radiant White\nEtching\nWatercolor Paper – Radiant White",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-00009EC-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCF7170PE~faq-00009EC-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:29.552300"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-00009e9-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SCF7170PE~faq-00009e9-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:30.557143"
+        },
+        {
+          "question": "I see horizontal or vertical lines in my printout. What should I do?",
+          "answer": "Perform a nozzle check from the printer's control panel or the Epson printer driver, then do one of the following:\nIf there are gaps in the nozzle check pattern, clean the print head nozzles.\nIf there are no gaps in the nozzle check pattern, try the solutions below.\nHorizontal Banding\nIncrease the print resolution.\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nSelect an alternate paper profile for ink coverage.\nSelect the correct paper type in the printer driver.\nAdjust the paper feed\nVertical Banding\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nAlign the print head.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-00009eb-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SCF7170PE~faq-00009eb-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:33.687865"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "Can I set the date and time on my product?",
+          "answer": "No, the printer cannot be set up by the customer. An Epson authorized reseller will perform the installation.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-253126?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF7170PE~faq-253126",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:34.938096"
+        },
+        {
+          "question": "Does my product come with an Epson printer driver?",
+          "answer": "No, there is no standard Epson printer driver for the printer. Wasatch SoftRIP software is used to print.\nNote:\nThere is a Communication Driver (available for download) which is used to update the firmware.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-253128?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF7170PE~faq-253128",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:36.111527"
+        },
+        {
+          "question": "Does Epson provide product training?",
+          "answer": "No, training is provided by an authorized Epson reseller.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-253127?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF7170PE~faq-253127",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:37.298688"
+        },
+        {
+          "question": "Which software is included with my product?",
+          "answer": "The printer comes with Wasatch SoftRIP.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-253140?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF7170PE~faq-253140",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:36.600324"
+        },
+        {
+          "question": "Where can I get the Communication Driver, utilities, or the firmware software for my product?",
+          "answer": "You can download them from the Downloads tab for your product.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-253184?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF7170PE~faq-253184",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:38.202770"
+        },
+        {
+          "question": "Which interfaces does my product support?",
+          "answer": "Hi-Speed USB (compatible with the USB 2.0 specification) and 100BASE-TX/1000Base-T*\n* Use a shielded twisted pair cable (category 5 or better).",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-253161?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF7170PE~faq-253161",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:39.464644"
+        },
+        {
+          "question": "How do I save my Epson printer driver presets so I can restore them if I reinstall the Epson printer driver in Windows?",
+          "answer": "Note:\nYou may lose some custom settings when you uninstall the printer driver.\nBefore you reinstall the printer driver, do the following:\nOpen\nFile Explorer\nor\nWindows Explorer\n.\nSelect\nThis PC\nor\nComputer\n>\nC:\ndrive >\nProgram Files\n>\nEpson\n> [your printer name].\nMove the UCI extension files to a different folder on your desktop.\nNote:\nAfter you reinstall the Epson printer driver, move the UCI extension files back to your printer's folder as described in step 2.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-00009e6-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF7170PE~faq-00009e6-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:40.556780"
+        },
+        {
+          "question": "How do I install the ICC profiles in Windows XP or Windows 7?",
+          "answer": "Do the following:\nDownload the ICC profiles for your printer and save them in a folder you can easily find.\nClose all open software.\nOpen\nWindows Explorer\n, then select\nComputer\n>\nC:\ndrive >\nWindows\n>\nSystem32\n>\nspool\n>\ndrivers\n>\ncolor\n.\nMove the ICC profiles into the\ncolor\nfolder, then close all open windows.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-00009E5-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF7170PE~faq-00009E5-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:41.658607"
+        },
+        {
+          "question": "How do I determine my printer driver version on my Mac?",
+          "answer": "Open the\nmenu and select\nSystem Preferences\nor\nSystem Settings\n>\nPrinters & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n. Your printer driver version is displayed.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-00009e4-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF7170PE~faq-00009e4-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:42.832215"
+        },
+        {
+          "question": "How do I manually install the Epson ICC profiles on my Mac?",
+          "answer": "Do the following:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinters2\n>\nICCProfiles\n.\nPress and hold the\ncontrol\nkey on your keyboard while you select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n, select and copy all files, then close all open windows.\nOpen your hard drive, select\nLibrary\n>\nColorSync\n>\nProfiles\n, then paste the files into this folder.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-0000b03-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF7170PE~faq-0000b03-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:43.924062"
+        },
+        {
+          "question": "Where are the ICC profiles located for my printer on my Mac?",
+          "answer": "Do the following to locate the files:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinter2\n>\nICCProfiles\n.\nPress and hold the\nControl\nkey on your keyboard while you click the profile package in the\nICCProfiles\nfolder. In the pop-up menu that appears, select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-00009ed-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF7170PE~faq-00009ed-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:45.029590"
+        },
+        {
+          "question": "My print job disappears from the Windows print queue but does not print. What should I do?",
+          "answer": "Follow the steps below:\nDo one of the following:\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your printer and select\nManage\n>\nPrinting preferences\n.\nWindows 8\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the\nUtility\ntab, then\nSpeed and Progress\n.\nSelect the\nAlways Spool RAW Datatype\nand\nCoarse Rendering\ncheckboxes, then click\nOK\n.\nNote:\nIf the\nProcessed by Printer\ncheckbox is selected, deselect it.\nTry printing again.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-00009e8-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF7170PE~faq-00009e8-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:46.112332"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF7170PE~faq-0000f4d-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:47.235737"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "Will my product print on fabric?",
+          "answer": "No, it does not print directly on fabric. It prints on media which can be transferred to fabric. See\nSupported Media\nfor more information.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-253186?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCF7170PE~faq-253186",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:48.354381"
+        },
+        {
+          "question": "Who do I contact for support?",
+          "answer": "Contact Epson. If the printer requires service, contact Epson to schedule a service call.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-253185?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCF7170PE~faq-253185",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:49.589277"
+        },
+        {
+          "question": "Is a heat press included with my product?",
+          "answer": "No, a heat press is not included.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-253133?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCF7170PE~faq-253133",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:50.759880"
+        },
+        {
+          "question": "What are the user replaceable parts for my product?",
+          "answer": "See\nOptions and Consumable Products\nfor a list.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-253183?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCF7170PE~faq-253183",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:51.915081"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7170PE~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCF7170PE~faq-0000f4a-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7170/s/SPT_SCF7170PE",
+          "fetched_at": "2026-04-02T02:48:52.997449"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

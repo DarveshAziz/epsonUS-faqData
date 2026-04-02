@@ -1,0 +1,170 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Impact Printers",
+  "series": "LQ Series",
+  "model": {
+    "name": "Epson LQ-200",
+    "sku": "SPT_C064001",
+    "url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-200/s/SPT_C064001"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "Two pages print for each page I print. What should I do?",
+          "answer": "If you're using single sheets you need to make sure the software is set up for either single sheet paper or 61 lines per page otherwise it will print a few lines on a second page if the document is over 61 lines.\nSome older DOS software may not have those settings if it is designed to be used only with tractor feed paper. For Windows software, make sure to select Sheet Feeder bin 1 for your paper source in Printer setup.",
+          "faq_url": "https://epson.com/faq/SPT_C064001~faq-000096e-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C064001~faq-000096e-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-200/s/SPT_C064001",
+          "fetched_at": "2026-04-02T05:03:35.646624"
+        },
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C064001~faq-000096d-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C064001~faq-000096d-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-200/s/SPT_C064001",
+          "fetched_at": "2026-04-02T05:03:36.746535"
+        },
+        {
+          "question": "The paper feed knob broke. What should I do?",
+          "answer": "This is usually caused by incorrectly using the paper feed knob to adjust the paper position when the printer is turned on.\nTo prevent this problem the printer's paper feed, form feed or alignment buttons should be used.\nYou can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C064001~faq-000096c-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C064001~faq-000096c-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-200/s/SPT_C064001",
+          "fetched_at": "2026-04-02T05:03:37.977904"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C064001~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C064001~faq-00004b0-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-200/s/SPT_C064001",
+          "fetched_at": "2026-04-02T05:03:39.092559"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Some video drivers may cause a conflict in memory between the printerdriver and video memory. Try changing to the Windows video driver provided by Microsoft or check to see if the video card manufacturer has an updated video driver available. This is often the cause of strange printing problems such as missing characters or lines through the printed document.\nBroken printhead pins may also cause this problem. If the problem continues when performing the printer's self test then the printhead is most likely the problem. This would need to be serviced by an Epson authorized repair center.",
+          "faq_url": "https://epson.com/faq/SPT_C064001~faq-49668?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C064001~faq-49668",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-200/s/SPT_C064001",
+          "fetched_at": "2026-04-02T05:03:40.193433"
+        },
+        {
+          "question": "What settings do the DIP switches control?",
+          "answer": "The LQ-200 and the AP-3000 have two 8-position DIP switches. These switches are located inside the cartridge slot cover at the right rear corner of the printer.\nTable 1\nSwitch\nFeature\nON\nOFF\nSW 1-1\nInternational Character set\nSee Table 3 and 4\nSW 1-2\nand\nSee Table 3 and 4\nSW 1-3\nGraphics character set\nSee Table 3 and 4\nSW 1-7\nCharacter Table\nGraphics\nItalics\nSW 1-8\nCut Sheet Feeder\nValid\nInvalid\nTable 2\nSwitch\nFeature\nON\nOFF\nSW 1-4\nFont Selection\nSee Table 5\nSW 1-5\nFont Selection\nSee Table 5\nSW 1-7\nCharacter Table\nGraphics\nItalics\nSW 1-8\nCut Sheet Feeder\nValid\nInvalid\nTable 3\nSwitch\nFeature\nON\nOFF\nSW 2-1\nPage Length/CSF Page Length\nSee Table 6 and 7\nSW 2-2\nPage Length/CSF Page Length\nSee Table 6 and 7\nSW 2-3\nAuto Line Feed\nValid\nInvalid\nSW 2-4\nInput Buffer Size\n8K byte\n1K byte\nSW 2-5\nGraphics Print Direction\nBidirectional\nUnidirectional\nTable 3 International character sets (DIP switch 1-7 OFF)\nEpson Prestige\nON\nON\nOFF\nEpson Script\nOFF\nOFF\nON\nOCR-B\nON\nOFF\nON\nEpson Orator\nOFF\nON\nON\nDraft\nON\nON\nON\nTable 6 Page Length\nPage Length\nSW 2-1\nSW 2-2\nSW 1-8\n11 inches\nOFF\nOFF\nOFF\n12 inches\nON\nOFF\nOFF\n8.5 inches\nOFF\nON\nOFF\n11.7 inches\nON\nON\nOFF\nWhen DIP switch 1-8 is off, A4 size (61 lines) is the default CSF page length.\nTable 7 Cut Sheet Feeder page length\nCSF page length\nSW 2-1\nSW 2-2\nSW 1-8\nA4 size (61 lines)\nOFF\nOFF\nON\nOFF\nON\nON\nLetter size (65 lines)\nON\nOFF\nON\nON\nON\nON\nWhen DIP switch 1-8 is on, 11 inches is the default page length.\nTable 8 Character spacing\nCharacter spacing\nSW 2-7\nSW 2-8\n10 cpi\nOFF\nOFF\n12 cpi\nON\nOFF\n17 cpi\nOFF\nON\n20 cpi\nON\nON",
+          "faq_url": "https://epson.com/faq/SPT_C064001~faq-50136?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C064001~faq-50136",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-200/s/SPT_C064001",
+          "fetched_at": "2026-04-02T05:03:41.358179"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Two pages print for each page I print. What should I do?",
+          "answer": "If you're using single sheets you need to make sure the software is set up for either single sheet paper or 61 lines per page otherwise it will print a few lines on a second page if the document is over 61 lines.\nSome older DOS software may not have those settings if it is designed to be used only with tractor feed paper. For Windows software, make sure to select Sheet Feeder bin 1 for your paper source in Printer setup.",
+          "faq_url": "https://epson.com/faq/SPT_C064001~faq-000096e-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C064001~faq-000096e-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-200/s/SPT_C064001",
+          "fetched_at": "2026-04-02T05:03:42.538191"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "The paper feed knob broke. What should I do?",
+          "answer": "This is usually caused by incorrectly using the paper feed knob to adjust the paper position when the printer is turned on.\nTo prevent this problem the printer's paper feed, form feed or alignment buttons should be used.\nYou can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C064001~faq-000096c-shared?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C064001~faq-000096c-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-200/s/SPT_C064001",
+          "fetched_at": "2026-04-02T05:03:43.777551"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Some video drivers may cause a conflict in memory between the printerdriver and video memory. Try changing to the Windows video driver provided by Microsoft or check to see if the video card manufacturer has an updated video driver available. This is often the cause of strange printing problems such as missing characters or lines through the printed document.\nBroken printhead pins may also cause this problem. If the problem continues when performing the printer's self test then the printhead is most likely the problem. This would need to be serviced by an Epson authorized repair center.",
+          "faq_url": "https://epson.com/faq/SPT_C064001~faq-49668?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C064001~faq-49668",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-200/s/SPT_C064001",
+          "fetched_at": "2026-04-02T05:03:44.874013"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "What settings do the DIP switches control?",
+          "answer": "The LQ-200 and the AP-3000 have two 8-position DIP switches. These switches are located inside the cartridge slot cover at the right rear corner of the printer.\nTable 1\nSwitch\nFeature\nON\nOFF\nSW 1-1\nInternational Character set\nSee Table 3 and 4\nSW 1-2\nand\nSee Table 3 and 4\nSW 1-3\nGraphics character set\nSee Table 3 and 4\nSW 1-7\nCharacter Table\nGraphics\nItalics\nSW 1-8\nCut Sheet Feeder\nValid\nInvalid\nTable 2\nSwitch\nFeature\nON\nOFF\nSW 1-4\nFont Selection\nSee Table 5\nSW 1-5\nFont Selection\nSee Table 5\nSW 1-7\nCharacter Table\nGraphics\nItalics\nSW 1-8\nCut Sheet Feeder\nValid\nInvalid\nTable 3\nSwitch\nFeature\nON\nOFF\nSW 2-1\nPage Length/CSF Page Length\nSee Table 6 and 7\nSW 2-2\nPage Length/CSF Page Length\nSee Table 6 and 7\nSW 2-3\nAuto Line Feed\nValid\nInvalid\nSW 2-4\nInput Buffer Size\n8K byte\n1K byte\nSW 2-5\nGraphics Print Direction\nBidirectional\nUnidirectional\nTable 3 International character sets (DIP switch 1-7 OFF)\nEpson Prestige\nON\nON\nOFF\nEpson Script\nOFF\nOFF\nON\nOCR-B\nON\nOFF\nON\nEpson Orator\nOFF\nON\nON\nDraft\nON\nON\nON\nTable 6 Page Length\nPage Length\nSW 2-1\nSW 2-2\nSW 1-8\n11 inches\nOFF\nOFF\nOFF\n12 inches\nON\nOFF\nOFF\n8.5 inches\nOFF\nON\nOFF\n11.7 inches\nON\nON\nOFF\nWhen DIP switch 1-8 is off, A4 size (61 lines) is the default CSF page length.\nTable 7 Cut Sheet Feeder page length\nCSF page length\nSW 2-1\nSW 2-2\nSW 1-8\nA4 size (61 lines)\nOFF\nOFF\nON\nOFF\nON\nON\nLetter size (65 lines)\nON\nOFF\nON\nON\nON\nON\nWhen DIP switch 1-8 is on, 11 inches is the default page length.\nTable 8 Character spacing\nCharacter spacing\nSW 2-7\nSW 2-8\n10 cpi\nOFF\nOFF\n12 cpi\nON\nOFF\n17 cpi\nOFF\nON\n20 cpi\nON\nON",
+          "faq_url": "https://epson.com/faq/SPT_C064001~faq-50136?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C064001~faq-50136",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-200/s/SPT_C064001",
+          "fetched_at": "2026-04-02T05:03:45.982575"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C064001~faq-000096d-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C064001~faq-000096d-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-200/s/SPT_C064001",
+          "fetched_at": "2026-04-02T05:03:47.136114"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C064001~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C064001~faq-00004b0-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-200/s/SPT_C064001",
+          "fetched_at": "2026-04-02T05:03:48.268698"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

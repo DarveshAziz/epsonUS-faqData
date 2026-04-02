@@ -1,0 +1,551 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "SureColor Series",
+  "model": {
+    "name": "Epson SureColor F170",
+    "sku": "SPT_C11CJ80201",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "I see the message Unable to connect to the server. Please try again later. when I try to install the Drivers and Utilities Combo Package Installer. What should I do?",
+          "answer": "Make sure your computer has an Internet connection and try installing the software again. If the same message appears, then do the following:\nGo to the Downloads tab on your product's support page.\nDownload and save the Drivers and Utilities Combo Package Installer to your computer.\nMake a note of the file name and save the location so you can easily retrieve it.\nRight-click the file and select\nRun as Administrator\n.\nThe software should install.\nNote:\nYou can also try to install the drivers and utilities individually.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-000094f-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CJ80201~faq-000094f-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:04.877809"
+        },
+        {
+          "question": "What security measures does Epson recommend for its network products?",
+          "answer": "To help deter unauthorized access to your product over a network, you should protect your network environment using appropriate security measures.\nSecurity measures such as these can help deter threats such as loss of user data, use of telephone and fax lines, and other intrusions:\nEnable security on your wireless LAN if your product supports a wireless connection\nEnable the appropriate security on the wireless LAN you plan to use with your product. Network security, such as a network password, can deter interception of traffic over the wireless LAN. Your router may already have a default password enabled by your Internet service provider (ISP). See your ISP and router documentation for instructions on how to change the default password and better secure your network.\nConnect your product only to a network protected by a firewall\nConnecting your product directly to the Internet may leave it vulnerable to security threats. Instead, connect it to a router or other networking device protected by a firewall. Your router may already have a firewall set up by your Internet service provider; check with your ISP for confirmation. For best results, set up and use a private IP address for your network connection.\nChange the default administrator password on your product\nIf your product has an option to set an administrator password, change the default administrator password to deter access by unauthorized users to personal data stored on your product, such as IDs, passwords, and contact lists. See the product's User's Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-0000a05-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CJ80201~faq-0000a05-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:05.883726"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CJ80201~faq-00004dc-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:06.957157"
+        },
+        {
+          "question": "Can I set up my product for both a USB and network connection?",
+          "answer": "Yes. However, the product does not support a wireless and an Ethernet connection at the same time.\nTo set up both a USB and network connection, you must install the product's software twice (i.e., once for each connection type).\nNote:\nWith this setup, your product may appear as two devices in the Printer list. One device is for the USB connection, and the other is for the network connection.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-00004fe-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CJ80201~faq-00004fe-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:07.892624"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "The following options are available:\nYou can use Epson Software Updater (which is installed the first time you install the printer driver) to notify you when new updates are available for download. Software Updater analyzes the Epson software (drivers, utilities, firmware, etc.) installed on your computer and product, and notifies you if new updates are available for download.\nIf you already installed a Windows printer driver, you can update the driver by selecting\nSoftware Update\non the Maintenance tab in the printer driver settings window.\nYou can download the software from the Downloads tab on your product's support page.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-00004fc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CJ80201~faq-00004fc-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:08.847147"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-00004c5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CJ80201~faq-00004c5-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:09.750725"
+        },
+        {
+          "question": "I spilled ink. What should I do?",
+          "answer": "If ink spills, wipe it up immediately. To prevent the ink from spreading, blot the spill with a dry cloth, then quickly wipe it with a damp cloth. The ink will be hard to remove once it has dried. If the ink does not come off, try scrubbing it with the appropriate cleaning product where the ink spilled.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-00004ab-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CJ80201~faq-00004ab-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:10.702988"
+        },
+        {
+          "question": "I can't get Epson Status Monitor to work over my wireless network. What should I do?",
+          "answer": "If the product is not shared, make sure it is connected to the network wirelessly. Try moving your product or computer to a different location within range of your wireless network. Avoid placing the computer, product, or wireless access point near microwaves, cordless telephones, or other sources of wireless interference.\nIf the product is set up as a shared printer, Epson Status Monitor will not work and is not supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-00004c7-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CJ80201~faq-00004c7-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:11.892860"
+        },
+        {
+          "question": "How do I add my product as an IP printer on my Mac?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n.\nSelect your printer, if necessary.\nClick\n+\nor\nAdd Printer, Scanner, or Fax\nand select\nIP\non the toolbar.\nSelect a protocol. If you do not know which protocol to choose, leave it as\nLine Printer Daemon-LPD\n.\nClick the\nAddress\nfield and enter your printer's IP address. You see the message\nGathering printer information\nas your Mac connects to the printer.\nClick\nAdd\nafter your printer appears in the Use field to create a printer queue. If your printer does not appear in the Use field, select\nAuto Select\nfrom the drop-down box.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-00004ba-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CJ80201~faq-00004ba-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:12.859763"
+        },
+        {
+          "question": "Why doesn't Epson include a USB or Ethernet cable in the box with the product?",
+          "answer": "We are committed to giving our customers the best value possible with every product we sell. To provide high-quality products with the latest technology and sell them at the most competitive prices, it is critical to choose which components are necessary and which may be redundant. Because many of our customers already own USB or Ethernet cables, it makes good sense to eliminate the costs of including a cable in every box and use those savings to improve product features and lower the cost to you, the consumer.\nNote:\nNot all products support an Ethernet interface.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-0000490-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CJ80201~faq-0000490-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:13.884749"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Does the product support borderless printing?",
+          "answer": "No, borderless printing is not supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-0000ae0-scf170?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CJ80201~faq-0000ae0-scf170",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:15.279391"
+        },
+        {
+          "question": "I can print with a wireless connection on my home network but not on a VPN (virtual private network). What should I do?",
+          "answer": "Your product is set up to communicate wirelessly with your home network. When you connect to a VPN, your computer is no longer communicating with your home network, so it cannot print to the product. You need to connect to your home network again to print.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-0000af2-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CJ80201~faq-0000af2-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:17.245680"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "I see the message Printer Error. Turn on the printer again. See your documentation for more details. on the LCD. What should I do?",
+          "answer": "Try the following:\nRemove any paper or protective material in the printer.\nIf the error message is still displayed, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-00009a8-scf170?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CJ80201~faq-00009a8-scf170",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:18.182103"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CJ80201~faq-00004c5-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:19.103716"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "Which type of ink does the product use?",
+          "answer": "The product uses Epson T49M Dye Sublimation ink.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-0000adb-scf170?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CJ80201~faq-0000adb-scf170",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:20.133069"
+        },
+        {
+          "question": "How many ink colors does the product use?",
+          "answer": "The product is a four-color printer and uses Cyan, Magenta, Yellow, and Black ink.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-0000ade-scf170?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CJ80201~faq-0000ade-scf170",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:21.169294"
+        },
+        {
+          "question": "I spilled ink. What should I do?",
+          "answer": "If ink spills, wipe it up immediately. To prevent the ink from spreading, blot the spill with a dry cloth, then quickly wipe it with a damp cloth. The ink will be hard to remove once it has dried. If the ink does not come off, try scrubbing it with the appropriate cleaning product where the ink spilled.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-00004ab-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CJ80201~faq-00004ab-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:22.074232"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Operation",
+      "section_id": "8796158928972",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "What is the ideal environment to operate or store this product?",
+          "answer": "The product should be operated and stored in the following environments:\nTemperature\nOperating: 50° to 95° F (10° to 40° C)\nStorage: -4 to 104° F (-20 to 40° C)\nHumidity\nOperating: 20 to 80% (without condensation)\nStorage: 5 to 85% (without condensation)",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-00009ad-scf170?faq_cat=faq-8796158928972",
+          "faq_slug": "SPT_C11CJ80201~faq-00009ad-scf170",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:23.208802"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "What size media/paper does this product support?",
+          "answer": "This product supports the following media sizes:\nA4\nLetter\nLegal",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-00009a1-scf170?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CJ80201~faq-00009a1-scf170",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:24.157072"
+        },
+        {
+          "question": "Does the product support roll and cut sheet media?",
+          "answer": "No, the product does not support roll media and cut sheet media.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-00009a0-scf170?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CJ80201~faq-00009a0-scf170",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:23.295221"
+        },
+        {
+          "question": "How much paper can I load into this product?",
+          "answer": "The maximum loading capacity is 150 sheets.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-00009a4-scf170?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CJ80201~faq-00009a4-scf170",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:24.189248"
+        },
+        {
+          "question": "I'm having paper feeding problems. What should I do?",
+          "answer": "Try the following:\nPlace the printer on a flat surface and operate in the recommended environmental conditions.\nUse only paper supported by this printer.\nDo not load more than the maximum number of sheets specified for the paper.\nMake sure the paper size and paper type settings match the actual paper size and paper type loaded in the printer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-00009a9-scf170?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CJ80201~faq-00009a9-scf170",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:25.254438"
+        },
+        {
+          "question": "Which media is supported by my printer?",
+          "answer": "Epson recommends using the following Epson genuine media to ensure high-quality printouts:\nEpson DS Transfer Multi Use - 8.5”x11”\nEpson DS Transfer Multi Use - 8.5”x14”",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-00009a3-scf170?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CJ80201~faq-00009a3-scf170",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:26.237646"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "I see horizontal or vertical lines in my printout. What should I do?",
+          "answer": "Perform a nozzle check from the printer's control panel or Epson printer driver, then do one of the following:\nIf there are gaps in the nozzle check pattern, clean the print head nozzles.\nIf there are no gaps in the nozzle check pattern, try the solutions below.\nHorizontal Banding\nSelect a higher Print Quality setting in the printer driver.\nSelect the correct paper type in the printer driver.\nPerform a print quality adjustment using the printer's control panel.\nVertical Banding\nSelect a higher Print Quality setting in the printer driver.\nPerform a print quality adjustment using the printer's control panel.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-0000c77-scf170?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CJ80201~faq-0000c77-scf170",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:27.363376"
+        },
+        {
+          "question": "The print quality is uneven, too light, or too dark, or lines appear in the printout. What should I do?",
+          "answer": "If you notice that your print quality is uneven, too light, too dark, or there are lines in the print (banding), try these solutions:\nRun a nozzle check to see if any of the print head nozzles are clogged. Then clean the print head, if necessary. If nozzles are still clogged after cleaning three times, perform a Power Cleaning. If nozzles are still clogged, flush the ink tubes.\nPerform a print quality adjustment.\nMake sure your paper meets the specifications for your product.\nMake sure the paper is not wrinkled, folded, or bent.\nMake sure your ink bottles have not expired. For best results, use ink bottles before the expiration date printed on the package.\nShake the ink bottles before filling the ink tanks.\nMake sure you selected the correct\nPaper Type\nsetting in the printer driver that matches the paper loaded in the printer.\nCompare the print result with the image on your computer screen. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nMake sure that all printer covers are closed during printing.\nKeep all printer covers closed unless you are loading or unloading media to prevent dust from accumulating inside the printer.\nVisually check the ink tank levels. Refill any ink tanks that are low on ink.\nEnable color management in the software application or in the printer driver.\nCheck the quality setting that you selected in the printer driver. Using a faster printing method may decrease the overall print quality.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-000099e-scf170?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CJ80201~faq-000099e-scf170",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:28.524357"
+        },
+        {
+          "question": "What should I do if the printed image is not inverted?",
+          "answer": "Select the mirror image setting in the printer driver.\nWindows\n: Select\nMirror Image\non the printer driver's\nMore Options\ntab\nMac\n: Select\nMirror Image\nfrom the print dialog's\nPrint Settings\nmenu",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-00009aa-scf170?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CJ80201~faq-00009aa-scf170",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:29.607828"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Settings",
+      "section_id": "8796158699596",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "How do I restore the network settings from the control panel?",
+          "answer": "You can restore all network settings to their defaults by following the steps below:\nSelect\nSettings\non the home screen.\nSelect\nRestore Default Settings\n>\nNetwork Settings\n>\nYes\n.\nSelect\nClose\nto exit the menu.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-00009a7-scf170?faq_cat=faq-8796158699596",
+          "faq_slug": "SPT_C11CJ80201~faq-00009a7-scf170",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:30.542444"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "Which connection types does the product support?",
+          "answer": "The product supports the following connection types:\nUSB 2.0\nEthernet 10BASE-T/100BASE-TX/Energy Efficient Ethernet\nWireless (Wi-Fi and Wi-Fi Direct)",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-0000c06-scf170?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CJ80201~faq-0000c06-scf170",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:31.522361"
+        },
+        {
+          "question": "How do I add my product as an IP printer on my Mac?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n.\nSelect your printer, if necessary.\nClick\n+\nor\nAdd Printer, Scanner, or Fax\nand select\nIP\non the toolbar.\nSelect a protocol. If you do not know which protocol to choose, leave it as\nLine Printer Daemon-LPD\n.\nClick the\nAddress\nfield and enter your printer's IP address. You see the message\nGathering printer information\nas your Mac connects to the printer.\nClick\nAdd\nafter your printer appears in the Use field to create a printer queue. If your printer does not appear in the Use field, select\nAuto Select\nfrom the drop-down box.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-00004ba-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CJ80201~faq-00004ba-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:32.502700"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "The following options are available:\nYou can use Epson Software Updater (which is installed the first time you install the printer driver) to notify you when new updates are available for download. Software Updater analyzes the Epson software (drivers, utilities, firmware, etc.) installed on your computer and product, and notifies you if new updates are available for download.\nIf you already installed a Windows printer driver, you can update the driver by selecting\nSoftware Update\non the Maintenance tab in the printer driver settings window.\nYou can download the software from the Downloads tab on your product's support page.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-00004fc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CJ80201~faq-00004fc-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:33.639470"
+        },
+        {
+          "question": "Where can I find the IP address of my router?",
+          "answer": "Most wireless routers have a default IP address that can usually be found in the router's documentation.\nFor more support on your router, contact the manufacturer of your router.\nYou can also print a network status sheet from your printer's control panel to find your router's IP address.\nNote:\nThe network status sheet will list your router’s IP address only if you have set up your printer with a network connection to the router. If you print a network status sheet before setup, the router's IP address will not be listed on the network status sheet.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-00004c0-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CJ80201~faq-00004c0-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:34.603098"
+        },
+        {
+          "question": "I can't get Epson Status Monitor to work over my wireless network. What should I do?",
+          "answer": "If the product is not shared, make sure it is connected to the network wirelessly. Try moving your product or computer to a different location within range of your wireless network. Avoid placing the computer, product, or wireless access point near microwaves, cordless telephones, or other sources of wireless interference.\nIf the product is set up as a shared printer, Epson Status Monitor will not work and is not supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-00004c7-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CJ80201~faq-00004c7-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:35.573244"
+        },
+        {
+          "question": "Who do I contact for software support?",
+          "answer": "Click on the\nContact Us\ntab on your product's support page to contact Epson for support. If your product comes with third-party software, contact the software company.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-00004db-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CJ80201~faq-00004db-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:36.579138"
+        },
+        {
+          "question": "I see the message Unable to connect to the server. Please try again later. when I try to install the Drivers and Utilities Combo Package Installer. What should I do?",
+          "answer": "Make sure your computer has an Internet connection and try installing the software again. If the same message appears, then do the following:\nGo to the Downloads tab on your product's support page.\nDownload and save the Drivers and Utilities Combo Package Installer to your computer.\nMake a note of the file name and save the location so you can easily retrieve it.\nRight-click the file and select\nRun as Administrator\n.\nThe software should install.\nNote:\nYou can also try to install the drivers and utilities individually.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-000094f-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CJ80201~faq-000094f-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:37.725155"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CJ80201~faq-00004dc-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:38.628718"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CJ80201~faq-0000f4b-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:39.511035"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CJ80201~faq-0000f4c-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:40.415007"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CJ80201~faq-0000f4d-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:41.329823"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Specifications",
+      "section_id": "8796158830668",
+      "section_order": 9,
+      "faqs": [
+        {
+          "question": "What are the electrical specifications for this product?",
+          "answer": "The product has the following electrical specifications:\n0.4 - 0.2 A (AC 100-240 V)\n0.2 A (AC 220-240 V)",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-00009a5-scf170?faq_cat=faq-8796158830668",
+          "faq_slug": "SPT_C11CJ80201~faq-00009a5-scf170",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:42.332559"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Wireless or Wired Connection",
+      "section_id": "8796127635532",
+      "section_order": 10,
+      "faqs": [
+        {
+          "question": "I tried to install the product's software for an Ethernet connection but cannot complete the installation in Windows or on my Mac. What should I do?",
+          "answer": "Install the software again. To be sure it installs properly, first uninstall the product software you tried to install. This will remove any software components that may have installed when you first tried to set up the product. After you uninstall the software, check the following:\nMake sure your system meets the requirements listed in the product's User's Guide.\nClose other software, including screen savers and virus protection software, before you install your product's software again.\nIf you see an error message or your software does not install correctly in Windows, you may not have software installation privileges. Contact your System Administrator.\nMake sure your product is turned on and the network cable is securely connected at both ends.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-0000529-scf170?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CJ80201~faq-0000529-scf170",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:43.298878"
+        },
+        {
+          "question": "How do I print a network status sheet?",
+          "answer": "You can print the network status sheet by following the steps below:\nLoad paper.\nSelect\nSettings\non the home screen.\nSelect\nGeneral Settings\n>\nNetwork Settings\n>\nNetwork Status\n>\nPrint Status Sheet\n.\nPress\nstart button to print the network status sheet.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-00009a6-scf170?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CJ80201~faq-00009a6-scf170",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:44.336626"
+        },
+        {
+          "question": "How do I find my SSID and network password?",
+          "answer": "In most cases, the software installer will automatically set up your wireless connection, so you don't need to know your SSID and password. However, if it cannot determine your SSID or password, you will be prompted to set up your wireless connection manually.\nCheck your router documentation for this information. Most routers have a default SSID and password that can be modified once the router is set up.\nNote:\nThe SSID is the name of the wireless network that is set up on your router or access point.\nIf you don't know this information, you need to contact the manufacturer of your router or the person who set up your network.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-00009c6-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CJ80201~faq-00009c6-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:45.267107"
+        },
+        {
+          "question": "Can I set up my product for both a USB and network connection?",
+          "answer": "Yes. However, the product does not support a wireless and an Ethernet connection at the same time.\nTo set up both a USB and network connection, you must install the product's software twice (i.e., once for each connection type).\nNote:\nWith this setup, your product may appear as two devices in the Printer list. One device is for the USB connection, and the other is for the network connection.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-00004fe-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CJ80201~faq-00004fe-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:46.180546"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 11,
+      "faqs": [
+        {
+          "question": "Does the printer have a built-in cutter?",
+          "answer": "No, the printer does not have a built-in cutter.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-0000c71-scf170?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CJ80201~faq-0000c71-scf170",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:47.423020"
+        },
+        {
+          "question": "My product will not wake up when I try to print with a wireless connection. What should I do?",
+          "answer": "Turn the product off and on. If you can print now, the problem is related to your wireless router. Contact the manufacturer of your router for assistance or try using a different router.\nIf you cannot print after turning the product off and on, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-00004c8-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CJ80201~faq-00004c8-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:48.385780"
+        },
+        {
+          "question": "Why doesn't Epson include a USB or Ethernet cable in the box with the product?",
+          "answer": "We are committed to giving our customers the best value possible with every product we sell. To provide high-quality products with the latest technology and sell them at the most competitive prices, it is critical to choose which components are necessary and which may be redundant. Because many of our customers already own USB or Ethernet cables, it makes good sense to eliminate the costs of including a cable in every box and use those savings to improve product features and lower the cost to you, the consumer.\nNote:\nNot all products support an Ethernet interface.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-0000490-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CJ80201~faq-0000490-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:49.304190"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CJ80201~faq-00004b0-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:50.348001"
+        },
+        {
+          "question": "What security measures does Epson recommend for its network products?",
+          "answer": "To help deter unauthorized access to your product over a network, you should protect your network environment using appropriate security measures.\nSecurity measures such as these can help deter threats such as loss of user data, use of telephone and fax lines, and other intrusions:\nEnable security on your wireless LAN if your product supports a wireless connection\nEnable the appropriate security on the wireless LAN you plan to use with your product. Network security, such as a network password, can deter interception of traffic over the wireless LAN. Your router may already have a default password enabled by your Internet service provider (ISP). See your ISP and router documentation for instructions on how to change the default password and better secure your network.\nConnect your product only to a network protected by a firewall\nConnecting your product directly to the Internet may leave it vulnerable to security threats. Instead, connect it to a router or other networking device protected by a firewall. Your router may already have a firewall set up by your Internet service provider; check with your ISP for confirmation. For best results, set up and use a private IP address for your network connection.\nChange the default administrator password on your product\nIf your product has an option to set an administrator password, change the default administrator password to deter access by unauthorized users to personal data stored on your product, such as IDs, passwords, and contact lists. See the product's User's Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-0000a05-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CJ80201~faq-0000a05-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:51.283293"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CJ80201~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CJ80201~faq-0000f4a-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F170/s/SPT_C11CJ80201",
+          "fetched_at": "2026-04-02T02:39:52.264523"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

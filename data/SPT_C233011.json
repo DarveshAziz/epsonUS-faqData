@@ -1,0 +1,508 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "Epson Stylus Series",
+  "model": {
+    "name": "Epson Stylus Photo 700",
+    "sku": "SPT_C233011",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "When I try to print to my product in Windows 7, printing is slow or my product stops printing. What should I do?",
+          "answer": "Try the following:\nSelect a lower quality setting in the printer software.\nMake sure your system meets the minimum system requirements for your printer.\nClose the\nDevices and Printers\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-0000bf3-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C233011~faq-0000bf3-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:07.515113"
+        },
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-0000ad0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C233011~faq-0000ad0-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:08.672280"
+        },
+        {
+          "question": "My product is out of color ink even though I print in black only. Why does this happen?",
+          "answer": "To keep the print head clear, the printer uses a small amount of ink from all the cartridges whenever it prints. Even if you select\nBlack Only\n, some color ink is still being used.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-0000969-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C233011~faq-0000969-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:09.865707"
+        },
+        {
+          "question": "Can I use hole-punched paper with my product?",
+          "answer": "No. The product does not support this paper type.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-0000ab4-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C233011~faq-0000ab4-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:10.945684"
+        },
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-000096d-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C233011~faq-000096d-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:12.186988"
+        },
+        {
+          "question": "Are the ink cartridges refillable?",
+          "answer": "EPSON does not recommend refilling ink cartridges. Refilled cartridges can cause print quality problems. In the printer's User's Guide, we advise \"Use only genuine EPSON ink cartridges and do not refill them. Other products may cause damage not covered by EPSON's warranty\".",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-0000aaf-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C233011~faq-0000aaf-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:13.327947"
+        },
+        {
+          "question": "Calibration doesn't seem to have any effect. What should I do?",
+          "answer": "Make sure that whenever you turn off the printer, you are always using the printer's power button. Never use an external switch, such as a power strip, surge protector, or power protector, to turn off the printer. If you turn the printer off using an external switch, calibration settings will not be saved.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-0000ab0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C233011~faq-0000ab0-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:14.403707"
+        },
+        {
+          "question": "Does OS X support manual duplex printing with my product?",
+          "answer": "This feature is not supported in Mac OS X. However, if your printer has a built-in automatic duplexer, auto-duplexing is supported in Mac OS X 10.6 (Snow Leopard).",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-0000c1d-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C233011~faq-0000c1d-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:15.505168"
+        },
+        {
+          "question": "Heavy coated or thick paper does not load correctly or loads skewed. What should I do?",
+          "answer": "The paper you are using may be too heavy or glossy for the paper roller to pick up. Be sure the paper is within printer specifications.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-0000b08-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C233011~faq-0000b08-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:14.754990"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C233011~faq-00004dc-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:15.828241"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "When I try to print to my product in Windows 7, printing is slow or my product stops printing. What should I do?",
+          "answer": "Try the following:\nSelect a lower quality setting in the printer software.\nMake sure your system meets the minimum system requirements for your printer.\nClose the\nDevices and Printers\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-0000bf3-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C233011~faq-0000bf3-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:17.078097"
+        },
+        {
+          "question": "Does OS X support manual duplex printing with my product?",
+          "answer": "This feature is not supported in Mac OS X. However, if your printer has a built-in automatic duplexer, auto-duplexing is supported in Mac OS X 10.6 (Snow Leopard).",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-0000c1d-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C233011~faq-0000c1d-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:18.153185"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "The paper out light is flashing. What should I do?",
+          "answer": "This indicates a paper jam. Remove all paper from the printer, and then reload the paper. Make sure the paper is pushed against the right edge guide, and slide the left edge guide against the other side of the paper. Then, press the load/eject button. If the unit still gives an error, please contact the EPSON Connection for assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-33437?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C233011~faq-33437",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:19.213073"
+        },
+        {
+          "question": "The black or color Ink Out light is flashing or on solid. What should I do?",
+          "answer": "If the light is flashing, the ink supply is getting low and you will need to replace the cartridge soon. If the light is on solid, the ink cartridge is completely empty and will need to be replaced in order to continue printing. Make sure you only remove the yellow tape seal from the top of any ink cartridge you install into the printer. If the white label has been removed from the ink cartridge, the cartridge will not function correctly and it needs to be replaced. More importantly, to avoid potential damage to the printer, do not install the cartridge if the white label has been removed.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-33470?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C233011~faq-33470",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:20.356899"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "I removed the white label from the top of one of my ink cartridges. What should I do?",
+          "answer": "Do not install the cartridge. If you have already installed it and the printer is printing correctly, change the cartridge immediately. If you have already installed the cartridge, or if a previously installed ink cartridge was missing its white label at the time it was installed, and now the nozzle check will not print completely even after running cleaning cycles, your printer may need service and you should call the EPSON Connection for further assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-33406?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C233011~faq-33406",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:21.455733"
+        },
+        {
+          "question": "I installed new ink cartridges and my product seems to be doing a long cleaning cycle. Is this normal?",
+          "answer": "No. When an ink cartridge is installed into the printer, it will take approximately 2 minutes to charge the ink system and initialize the printer. While the ink is charging the power light will flash. Never turn off the printer while the power light is flashing (unless the power light is flashing AND the printer has not moved or made noise for over 5 minutes). This initialization is a normal and necessary process",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-33430?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C233011~faq-33430",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:22.604086"
+        },
+        {
+          "question": "How do I install a new ink cartridge?",
+          "answer": "Remove the yellow tape seal from the top of the ink cartridge. Do not remove the white label from the top of the ink cartridge. The ink in a cartridge missing the white label will be exposed to air and will thicken such that print head clogging and possible print head failure can occur. If the white label has been removed from the ink cartridge, the cartridge will not function correctly and it will need to be replaced. More importantly, to avoid potential damage to the printer, do not install the cartridge if the white label has been removed. If this is the first ink cartridge that has ever been installed into the printer, then the print heads will automatically move slightly to the left when the printer's power is turned on. Otherwise, if either of the printer's ink out lights are flashing or solid, then hold down the cleaning button for three seconds. If neither of the ink out lights are solid or flashing, then hold down the load/eject button for three seconds. The print heads will have moved slightly to the left and the power light will be flashing at this point. Insert the ink cartridge into the printer. Lower the ink cartridge clamp, pushing down on the clamp until it locks into place. Next, press the cleaning button. The power light will continue to flash as the printer charges the ink delivery system (approximately 2 minutes). When the printer is done charging, the power light will stop flashing. If you are still having difficulties, contact the EPSON Connection End User Technical Support Group.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-33429?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C233011~faq-33429",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:23.805049"
+        },
+        {
+          "question": "How can I clear clogged ink jets?",
+          "answer": "Hold the cleaning button on the printer for 3 seconds to start the cleaning cycle. Try running 2 cleaning cycles using the cleaning button. The cleaning cycle takes about 2 minutes, during which the printer makes some noises and the power light flashes.\nCAUTION: Never turn the printer off when the power light is flashing.\nIf the print quality does not improve, the cleaning cycle and nozzle check should be run from the Utility menu of the Epson printer driver settings. This runs a more intense cleaning cycle.\nHere is how:\n1. Access the Main printer settings dialog box.\n2. Click on the Utility tab/button and you will see the Utility menu.\n3. Run the Nozzle Check (Windows), Confirmation (Macintosh) and it will print out a nozzle check pattern/confirmation as shown below.\n4. After reviewing the nozzle check, if necessary, select the Head Cleaning icon and run a cleaning cycle on black, color or both print heads depending on which color is missing.\nIMPORTANT! A head cleaning and nozzle check page must be performed as a cycle so subsequent cleanings will advance to a higher intensity cleaning cycle. This process ought to be repeated until the nozzle check prints correctly. When the nozzle check prints correctly the printer is ready to go. If you run more than 6 cleaning cycles and no improvement is seen in the nozzle check, the ink cartridge may need replacement or the printer may require service.\nWARNING! Improper ink cartridge installation will cause clogged print heads. When preparing an ink cartridge for installation, only the yellow or blue tape seal from the top of the black or color ink cartridges should be removed. If the white label from the top or the clear film on the bottom of either ink cartridge is removed, the ink will be exposed to air and will thicken such that print head clogging and possible print head failure can occur. The cartridge should immediately be replaced to avoid potential damage to the printer. CAUTION! Do not remove the ink cartridge to check this and then reinstall the same cartridge.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-43842?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C233011~faq-43842",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:24.968093"
+        },
+        {
+          "question": "Which ink cartridges should I use with my product?",
+          "answer": "Use the following Epson ink cartridges with the Epson Stylus Photo 700.\nInk cartridge\nPart number\nBlack\nS020093\nColor\nS020110",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-43848?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C233011~faq-43848",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:26.083504"
+        },
+        {
+          "question": "Are the ink cartridges refillable?",
+          "answer": "EPSON does not recommend refilling ink cartridges. Refilled cartridges can cause print quality problems. In the printer's User's Guide, we advise \"Use only genuine EPSON ink cartridges and do not refill them. Other products may cause damage not covered by EPSON's warranty\".",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-0000aaf-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C233011~faq-0000aaf-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:27.134854"
+        },
+        {
+          "question": "My product is out of color ink even though I print in black only. Why does this happen?",
+          "answer": "To keep the print head clear, the printer uses a small amount of ink from all the cartridges whenever it prints. Even if you select\nBlack Only\n, some color ink is still being used.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-0000969-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C233011~faq-0000969-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:28.207503"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "My product won't feed paper. What should I do?",
+          "answer": "Power the printer on and press the Load/Eject button to see if paper will load. If no paper loads, make sure the paper isn't curled or creased, isn't too old, isn't loaded above the arrow on the left edge guide, and that the paper isn't jammed in the printer. If the Paper Out light is on solid, reload the paper, making sure the paper edge guide is adjusted to fit the paper's width, and then press the Load/Eject button again to see if the paper will now load. If the Paper Out light is flashing, turn the printer off, reload the paper, turn the printer back on, and try pressing Load/Eject again to see if the printer will now successfully load the paper. If the printer still will not load paper, power the printer off, remove the printer cable, and make sure all of the packing materials are removed. If the problem persists, the printer may need to be sent in for service and you should contact the EPSON Connection for assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-33426?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C233011~faq-33426",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:29.395942"
+        },
+        {
+          "question": "Can I use sheet labels with my product?",
+          "answer": "Yes, EPSON makes Photo Quality Self Adhesive Sheets. To avoid paper jams, only load one Photo Quality Self Adhesive Sheet at a time. Also, set the Media Type in the printer driver to the \"Photo Quality Ink Jet Paper\" setting.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-33446?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C233011~faq-33446",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:30.491006"
+        },
+        {
+          "question": "What is the correct way to load transparency paper?",
+          "answer": "Remove the printer's paper support and reinstall it in the rear paper support slot. Before loading the transparency, place the included support sheet or a sheet of plain paper beneath the transparency (or beneath the stack of transparencies if you are loading more than one). You can load up to 10 transparencies at a time, but if you have more than one transparency loaded, the minimum top margin you can use is 1.2 inches. Also, you may get better results by loading one sheet at a time. Please refer to Chapter 3 of your User's Guide for detailed information.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-33451?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C233011~faq-33451",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:31.629257"
+        },
+        {
+          "question": "My product doesn't feed paper correctly. What should I do?",
+          "answer": "Here are a few suggestions to try:\nYou can try using the Epson cleaning sheet (has a sticky side) to pick up any excess paper residue. It's available from the Epson Store.\nTry loading heavier stock paper, such as 24 lb. paper, if you haven't done so already.\nMake sure there is 1/16 to 1/32 inch space on each side of the paper in the paper tray.\nMove the paper type selector back and forth 5 times, to make sure it is not stuck.\nFeed the tray with a minimum of 20 sheets of paper and try to see if it loads paper through.\nThe paper thickness lever has two settings, one for plain paper, (thin paper 20# to 24#) and one for envelopes and thick paper.\nIt should be on the 0 setting for thin paper and on the + setting for thick paper and envelopes.\nThe paper adjustment lever may be adjusted in between the two settings to accommodate paper that is not standard or that the operating/environmental conditions have changed.\nMake sure the paper is loaded far enough into the printer to ensure good contact between the paper and the paper feed mechanism.\nReload the paper\nIf the printer continues to feed too many sheets, the paper may be sticking together (due to humidity)For testing purposes, try the following:\n1. Place 20-30 sheets of paper in a microwave oven for 3/4 seconds on the medium setting (to dry the paper)\n2. Fan the paper, separating each sheet to ensure that the paper is not sticking together.\n3. Reload the paper into the printer.\n4. Test print your document.\nIf all else fails change the brand or type of paper used, the paper specifications are located in the printer's user's manual.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-51839?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C233011~faq-51839",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:33.043289"
+        },
+        {
+          "question": "Can I use hole-punched paper with my product?",
+          "answer": "No. The product does not support this paper type.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-0000ab4-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C233011~faq-0000ab4-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:34.130835"
+        },
+        {
+          "question": "Heavy coated or thick paper does not load correctly or loads skewed. What should I do?",
+          "answer": "The paper you are using may be too heavy or glossy for the paper roller to pick up. Be sure the paper is within printer specifications.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-0000b08-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C233011~faq-0000b08-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:35.322926"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "My printout has incorrect margins. What should I do?",
+          "answer": "The paper may be loaded incorrectly. Make sure that the left and right edge guides are flush against both sides of the paper. Make sure the margins are set correctly in your software application (margins are not adjustable via the printer driver), and make sure you are not trying to print outside of the printable area of the page for your paper size (printable area of the page specifications are available in the User's Manual). Make sure the correct paper size is selected in the printer driver settings.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-33402?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C233011~faq-33402",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:37.001690"
+        },
+        {
+          "question": "The quality of my printed output is unacceptable. What should I do?",
+          "answer": "Verify that you are using the correct printer driver for your printer model. Make sure that the printer's paper adjust lever is set to 0 for regular paper and + for envelopes or thicker media. If MicroWeave is off, turn this feature on. If High Speed is on, turn it off. Make sure the Media Type setting matches the paper or media loaded. Also, the Halftoning and Color Adjustment Mode options may be set incorrectly for your document type. Let the printer driver automatically select the settings for the best quality. The paper you are using may be damaged, old, dirty or loaded incorrectly. Remove the paper and reload a new stack ensuring that the printable side is face up. If your output is faint, check the printer driver to make sure you have selected a print resolution other than Economy. For vertical banding, rough or grainy images run the Print Head Alignment utility to align the print heads for precise vertical lines. If the image does not contain the colors you expected, the color settings on your application software may need adjustment. Refer to your software documentation for help on adjusting colors. If the previous steps do not resolve the issue, the print head nozzles may be clogged. From the Utility section found in the EPSON printer driver, clean the print heads by performing a head cleaning followed by printing a nozzle check pattern. A head cleaning and nozzle check must be performed as a cycle. After printing a nozzle check, examine the printed dot pattern. Each staggered horizontal and straight vertical line should be complete, with no gaps in the dot pattern. If there are gaps in the dot pattern, continue with another cycle. Perform up to 6 cycles if necessary. If the nozzle check prints completely, and you're still experiencing a problem, make sure you are using the most current version of the printer driver. You can obtain the latest printer driver from the EPSON web site. The resolution of your image may also be set too low. Increase the image resolution using your image-editing software, or decrease the size of the image. Another troubleshooting test to try is moving the printer to another computer. This will eliminate the possibility of a defective printer cable, parallel port, or software issue. If you're still experiencing a problem, try replacing the ink cartridge and make sure you are using a genuine EPSON ink cartridge which has a white label on top of it. If the white label has been removed from the ink cartridge, do not install the cartridge. Using an ink cartridge which does not have the white label on it may damage the printer. If you have already installed a cartridge which is missing the white label, or if a previously installed ink cartridge was missing its white label at the time it was installed, and now head cleanings do not help the nozzle check pattern to print completely, your printer may require service and you should contact the EPSON Connection for further assistance",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-33410?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C233011~faq-33410",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:38.134610"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "If the printer is printing blank pages, make sure you are using the correct printer driver and make sure the paper size is correctly selected in the driver. If the printer is printing black only, the Ink option in the printer driver may be set to Black instead of Color or a setting in the software may be set to print black only. Also, the print head nozzles may be clogged. From the Utility section found in the EPSON printer driver, clean the print heads by performing a head cleaning followed by printing a nozzle check pattern. A head cleaning and nozzle check must be performed as a cycle. After printing a nozzle check, examine the printed dot pattern. Each staggered horizontal and straight vertical line should be complete, with no gaps in the dot pattern. If there are gaps in the dot pattern, continue with another cycle. Perform up to 6 cycles if necessary. If the nozzle check is not printing completely, and if the head cleanings do not help the nozzle check pattern to print completely, try replacing the ink cartridge. If you continue to experience this situation, please contact the EPSON Connection for further assistance.. Also, make sure you are using a genuine EPSON ink cartridge which has a white label on top of it. If the white label has been removed from the ink cartridge, do not install the cartridge. Using an ink cartridge which does not have the white label on it may damage the printer. If you have already installed a cartridge which is missing the white label, or if a previously installed ink cartridge was missing its white label at the time it was installed, and now head cleanings do not help the nozzle check pattern to print completely, your printer may require service and you should contact the EPSON Connection for further assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-33415?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C233011~faq-33415",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:39.273953"
+        },
+        {
+          "question": "The colors on my output are incorrect. What should I do?",
+          "answer": "Verify that you are using the EPSON Stylus Photo 700 driver. Verify that the printable side of the paper is face up, and check the type of paper being used. EPSON brand paper, which is specifically designed for the Stylus ink jet series of printers, delivers the best printed output. Make sure the Media Type setting in the printer driver matches the paper or media you are using. Make sure you have selected a print resolution other than economy. The color settings in the printer driver settings may be set incorrectly for your document type (see Chapter 2 of the User's Guide for details), or the color settings in your application software may need adjustment. Refer to your software documentation for help on adjusting color settings within your application. Also, try changing the position of the thickness lever (located under the cover of the printer). Refer to Chapter 3 of your User's Guide for more information on the appropriate setting of the thickness lever. The print head nozzles may be clogged. From the Utility section found in the EPSON printer driver, clean the print heads by performing a head cleaning followed by printing a nozzle check pattern. A head cleaning and nozzle check must be performed as a cycle. After printing a nozzle check, examine the printed dot pattern. Each staggered horizontal and straight vertical line should be complete, with no gaps in the dot pattern. If there are gaps in the dot pattern, continue with another cycle. Perform up to 3 cycles if necessary. If the nozzle check is not printing completely, and if the head cleanings do not help the nozzle check pattern to print completely, try replacing the ink cartridge. Any ink cartridge installed into the printer must have a white label on top of it. If the white label has been removed from the ink cartridge, do not install the cartridge. Using an ink cartridge which does not have the white label on it may damage the printer. If you have already installed a cartridge which is missing the white label, or if a previously installed ink cartridge was missing its white label at the time it was installed, and now head cleanings do not help the nozzle check pattern to print completely, your printer may require service and you should contact the EPSON Connection for further assistance",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-33453?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C233011~faq-33453",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:40.462339"
+        },
+        {
+          "question": "My printout is blurry or smeared. What should I do?",
+          "answer": "The thickness lever may be incorrectly set. Make sure that the thickness lever is set to 0 for regular paper and + for envelopes or thicker media. Make sure the paper is not damp. Verify that the printable side of the paper is face up, and check the type of paper being used. EPSON brand paper, which is specifically designed for the Stylus ink jet series of printers, delivers the best printed output. If you have loaded special media without a support sheet, you may experience blurry printing (see Chapter 3 of the User's Guide for details on which media require support sheets). For those media which require a support sheet, you can also try loading one sheet at a time. Make sure your paper or media is within the specifications listed in Appendix B of your User's Guide. Make sure the Media Type setting in the printer driver matches the paper or media loaded. Let the printer driver automatically select other settings for the best quality. Make sure multiple sheets are not entering the output tray causing the image to smear. Check to make sure that ink hasn't leaked into the printer. If there is excess ink, carefully clean the inside of the printer as described in Chapter 5 of the User's Guide. Also, you can try aligning the print head (as described in Chapter 5 of your User's Guide) and/or turning high speed off in the printer driver settings.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-33457?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C233011~faq-33457",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:41.718078"
+        },
+        {
+          "question": "My printout is missing some characters. What should I do?",
+          "answer": "Video driver conflict\nSome video drivers may cause a conflict in memory between the printerdriver and video memory. Try changing to the Windows video driver provided by Microsoft or check to see if the video card manufacturer has an updated video driver available. This is often the cause of strange printing problems such as heavy banding and missing characters.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-43860?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C233011~faq-43860",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:42.810503"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Scan",
+      "section_id": "8796127569996",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "What scanning resolution should I use to get the best results when I print the scanned image?",
+          "answer": "The Line Screen Frequency for EPSON Stylus printers can be calculated using the following formula:\nPrinting\nResolution\n____________\n3\nX\n1\n___\n2\n=\nLine Screen\nFrequency\nYou should set the minimum scan resolution at 1/3rd of the desired print resolution. For example, for a print resolution of 720dpi, you will need to set the scan resolution to 240dpi or higher. If you are going to increase the size of the printed image then you should scan at a higher dpi resolution.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-43858?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C233011~faq-43858",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:43.860586"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "How do I align the print head on my product?",
+          "answer": "To align the print head, make sure that paper is loaded and the printer has power. Access the \"Utility\" tab (if you are using Windows) or click the \"\"Utility\" button (if you are using a Macintosh) located in your printer driver settings. Click the Print Head Alignment icon and follow the instructions on the screen.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-33312?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C233011~faq-33312",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:45.009076"
+        },
+        {
+          "question": "How do I calibrate my product?",
+          "answer": "To align the print heads, make sure that paper is loaded and the printer has power. Access the Utility tab (Windows) or Utility button (Macintosh) located in your printer driver settings. Click the Print Head Alignment icon and follow the instructions on the screen to print a test page and select the correct alignment.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-33354?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C233011~faq-33354",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:46.162231"
+        },
+        {
+          "question": "Calibration doesn't seem to have any effect. What should I do?",
+          "answer": "Make sure that whenever you turn off the printer, you are always using the printer's power button. Never use an external switch, such as a power strip, surge protector, or power protector, to turn off the printer. If you turn the printer off using an external switch, calibration settings will not be saved.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-0000ab0-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C233011~faq-0000ab0-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:45.426619"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C233011~faq-00004dc-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:46.839466"
+        },
+        {
+          "question": "How do I change the font size of text when I print from software in Windows?",
+          "answer": "You need to select the text or font size in the software you are printing from, not the printer driver. For detailed instructions, contact the company for the application you are printing from.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-00004b7-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C233011~faq-00004b7-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:47.942448"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Wireless or Wired Connection",
+      "section_id": "8796127635532",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-0000ad0-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C233011~faq-0000ad0-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:49.061768"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 9,
+      "faqs": [
+        {
+          "question": "When printing in Windows, how can I prevent an extra page from being ejected after every print job?",
+          "answer": "The Separator Page function may be enabled. Follow these steps to disable it:\nClick\nStart\nor\n.\nDo one of the following:\nWindows XP\n:\nSelect\nPrinters and Faxes\n(or select\nSettings\n, then select\nPrinters and Faxes\n).\nWindows Vista\n:\nSelect\nControl Panel\n, then\nPrinter\nor\nPrinters\nunder Hardware and Sound\n.\nWindows 7\n:\nSelect\nControl Panel\n, then\nView Devices and Printers\nunder Hardware and Sound.\nIn the\nPrinters\nor\nPrinters and Faxes\nwindow, right-click on your printer's name.\nSelect\nProperties\n, click the Advanced tab, then press the\nSeparator Page\nbutton.\nIn the Separator Page window, delete the information in the text box and then click\nOK\n.\nClick\nOK\nagain.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-164636?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C233011~faq-164636",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:53.965550"
+        },
+        {
+          "question": "The Power light is on, but nothing prints. What should I do?",
+          "answer": "Make sure the printer cable is connected. Turn off the printer and computer. Make sure the printer cable is securely connected to the printer and computer ports. Turn on the printer and try printing again. If the cable was not the issue, turn off the printer and computer, disconnect the interface cable and run a self-test. If the self-test works, check the application software for correct installation. Make sure your computer has enough memory to handle the data in your print file. You may want to try reducing the resolution of your image, select fewer colors, or add more memory to the computer. If you are still having difficulty printing and you are using Windows, try checking the Spool Manager to see if it is on hold or if there are stalled print jobs. If you are using a Macintosh, make sure your Spool Folder is empty. If the printer sounds like it is printing, but there is no ink on the paper, The print head nozzles may be clogged. From the Utility section found in the EPSON printer driver, clean the print heads by performing a head cleaning followed by printing a nozzle check pattern. A head cleaning and nozzle check must be performed as a cycle. After printing a nozzle check, examine the printed dot pattern. Each staggered horizontal and straight vertical line should be complete, with no gaps in the dot pattern. If there are gaps in the dot pattern, continue with another cycle. Perform up to 6 cycles if necessary. If the nozzle check is not printing completely, and if the head cleanings do not help the nozzle check pattern to print completely, try replacing the ink cartridge. Any ink cartridge installed into the printer must have a white label on top of it. If the white label has been removed from the ink cartridge, do not install the cartridge. Using an ink cartridge which does not have the white label on it may damage the printer. If you have already installed a cartridge which is missing the white label, or if a previously installed ink cartridge was missing its white label at the time it was installed, and now head cleanings do not help the nozzle check pattern to print completely, your printer may require service and you should contact the EPSON Connection for further assistance",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-33345?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C233011~faq-33345",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:55.070213"
+        },
+        {
+          "question": "My product does not have a Data light. How do I know when my product is receiving information?",
+          "answer": "The Power light functions as the Data light. When the Power light flashes, the printer is receiving information from the computer. When the Power light remains solid, the printer has completed the print job and is ready to receive another.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-33418?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C233011~faq-33418",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:55.957776"
+        },
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-000096d-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C233011~faq-000096d-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:56.876135"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C233011~faq-00004b0-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:57.793509"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C233011~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C233011~faq-0000f4a-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-700/s/SPT_C233011",
+          "fetched_at": "2026-04-02T00:49:58.762889"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

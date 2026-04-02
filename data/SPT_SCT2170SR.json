@@ -1,0 +1,570 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "SureColor Series",
+  "model": {
+    "name": "Epson SureColor T2170",
+    "sku": "SPT_SCT2170SR",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "I see horizontal or vertical lines in my printout. What should I do?",
+          "answer": "Perform a nozzle check from the printer's control panel or the Epson printer driver, then do one of the following:\nIf there are gaps in the nozzle check pattern, clean the print head nozzles.\nIf there are no gaps in the nozzle check pattern, try the solutions below.\nHorizontal Banding\nIncrease the print resolution.\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nSelect an alternate paper profile for ink coverage.\nSelect the correct paper type in the printer driver.\nAdjust the paper feed\nVertical Banding\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nAlign the print head.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-00009eb-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCT2170SR~faq-00009eb-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:11.575031"
+        },
+        {
+          "question": "How do I determine my printer driver version on my Mac?",
+          "answer": "Open the\nmenu and select\nSystem Preferences\nor\nSystem Settings\n>\nPrinters & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n. Your printer driver version is displayed.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-00009e4-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCT2170SR~faq-00009e4-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:12.444110"
+        },
+        {
+          "question": "Why do I need color ink cartridges when I print in black only?",
+          "answer": "The printer will not print if any ink cartridge is expended or removed. Epson printers contain a permanent print head that needs to be charged with all colors to work. Even when you are printing black text only, a small amount of color ink is used to keep the print head charged. The print head needs to be kept charged to prevent air bubbles from entering. Air bubbles can damage the print head.\nTherefore, once one of the cartridges is expended, the printer signals you to replace the cartridge in order for printing to continue.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000570-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCT2170SR~faq-0000570-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:13.335959"
+        },
+        {
+          "question": "I see the message Communication Error when I use a USB connection. What should I do?",
+          "answer": "Do the following:\nDelete all print jobs in the print queue.\nTurn the printer off.\nNote:\nMake sure the USB cable is connected correctly.\nRestart your computer. When the desktop appears, turn your printer on and follow the on-screen instructions.\nNote:\nIf the problem continues, turn the printer off again and delete the printer in the list of printers. Then disconnect the USB cable from the printer and connect it again.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-00009ea-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCT2170SR~faq-00009ea-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:14.226771"
+        },
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-00009e9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCT2170SR~faq-00009e9-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:15.107542"
+        },
+        {
+          "question": "Where are the ICC profiles located for my printer on my Mac?",
+          "answer": "Do the following to locate the files:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinter2\n>\nICCProfiles\n.\nPress and hold the\nControl\nkey on your keyboard while you click the profile package in the\nICCProfiles\nfolder. In the pop-up menu that appears, select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-00009ed-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCT2170SR~faq-00009ed-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:16.030335"
+        },
+        {
+          "question": "My print job disappears from the Windows print queue but does not print. What should I do?",
+          "answer": "Follow the steps below:\nDo one of the following:\nWindows 11\n: Click\n, search for\nSettings\nand select it. Select\nDevices\n>\nPrinters & scanners\n. Select your product name and select\nPrinting preferences\n.\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your printer and select\nManage\n>\nPrinting preferences\n.\nWindows 8\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the\nUtility\ntab, then\nSpeed and Progress\n.\nSelect the\nAlways Spool RAW Datatype\nand\nCoarse Rendering\ncheckboxes, then click\nOK\n.\nNote:\nIf the\nProcessed by Printer\ncheckbox is selected, deselect it.\nTry printing again.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-000098e-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCT2170SR~faq-000098e-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:16.944841"
+        },
+        {
+          "question": "What security measures does Epson recommend for its network products?",
+          "answer": "To help deter unauthorized access to your product over a network, you should protect your network environment using appropriate security measures.\nSecurity measures such as these can help deter threats such as loss of user data, use of telephone and fax lines, and other intrusions:\nEnable security on your wireless LAN if your product supports a wireless connection\nEnable the appropriate security on the wireless LAN you plan to use with your product. Network security, such as a network password, can deter interception of traffic over the wireless LAN. Your router may already have a default password enabled by your Internet service provider (ISP). See your ISP and router documentation for instructions on how to change the default password and better secure your network.\nConnect your product only to a network protected by a firewall\nConnecting your product directly to the Internet may leave it vulnerable to security threats. Instead, connect it to a router or other networking device protected by a firewall. Your router may already have a firewall set up by your Internet service provider; check with your ISP for confirmation. For best results, set up and use a private IP address for your network connection.\nChange the default administrator password on your product\nIf your product has an option to set an administrator password, change the default administrator password to deter access by unauthorized users to personal data stored on your product, such as IDs, passwords, and contact lists. See the product's User's Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000a05-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCT2170SR~faq-0000a05-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:17.848255"
+        },
+        {
+          "question": "I see the message Ink Cartridge Error: Replace Ink Cartridge. What should I do?",
+          "answer": "An ink cartridge in your printer needs to be replaced. The cartridge may be expended, or the IC chip on the cartridge may not be communicating properly. Try reseating the cartridge and turning the printer off and on. If you still see the error message, try installing a different ink cartridge in the printer.\nIf this did not solve the problem, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000572-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCT2170SR~faq-0000572-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:18.768931"
+        },
+        {
+          "question": "Can I use an expired ink cartridge in my printer?",
+          "answer": "Epson does not recommend using expired ink cartridges in the printer. Do not use an unopened ink cartridge if the date on the package has expired. For best results, use ink cartridges before the expiration date printed on the package (and within six months of installation in the printer). Replace expired cartridges with new ones.\nYou may need to replace a cartridge that is more than six months old, if your printouts do not look their best, even after cleaning and aligning the printhead. We recommend you store any unused or unopened ink cartridges in a cool, dark place.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-000056f-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCT2170SR~faq-000056f-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:19.679674"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Does the product support borderless printing?",
+          "answer": "No, borderless printing is not supported.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000ae0-sct2170?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_SCT2170SR~faq-0000ae0-sct2170",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:18.789730"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "I see the message Communication Error when I use a USB connection. What should I do?",
+          "answer": "Do the following:\nDelete all print jobs in the print queue.\nTurn the printer off.\nNote:\nMake sure the USB cable is connected correctly.\nRestart your computer. When the desktop appears, turn your printer on and follow the on-screen instructions.\nNote:\nIf the problem continues, turn the printer off again and delete the printer in the list of printers. Then disconnect the USB cable from the printer and connect it again.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-00009ea-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SCT2170SR~faq-00009ea-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:19.689642"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SCT2170SR~faq-00004c5-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:20.597530"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "Which type of ink does the product use?",
+          "answer": "The product uses UltraChrome XD2 4-color, all-pigment ink.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000adb-sct2170?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCT2170SR~faq-0000adb-sct2170",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:21.515003"
+        },
+        {
+          "question": "How many ink colors does the product use?",
+          "answer": "The product is a four-color printer and uses Cyan, Magenta, Yellow, and Black ink.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000ade-sct2170?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCT2170SR~faq-0000ade-sct2170",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:22.415536"
+        },
+        {
+          "question": "What is the smallest ink drop size my product will produce?",
+          "answer": "The smallest drop size is 4 picoliters.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000c08-sct2170?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCT2170SR~faq-0000c08-sct2170",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:23.344954"
+        },
+        {
+          "question": "Does the product support photo or matte black ink?",
+          "answer": "The product supports matte black ink but not photo black ink.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000c03-sct2170?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCT2170SR~faq-0000c03-sct2170",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:24.254811"
+        },
+        {
+          "question": "Can I use an expired ink cartridge in my printer?",
+          "answer": "Epson does not recommend using expired ink cartridges in the printer. Do not use an unopened ink cartridge if the date on the package has expired. For best results, use ink cartridges before the expiration date printed on the package (and within six months of installation in the printer). Replace expired cartridges with new ones.\nYou may need to replace a cartridge that is more than six months old, if your printouts do not look their best, even after cleaning and aligning the printhead. We recommend you store any unused or unopened ink cartridges in a cool, dark place.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-000056f-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCT2170SR~faq-000056f-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:25.170466"
+        },
+        {
+          "question": "I see the message Ink Cartridge Error: Replace Ink Cartridge. What should I do?",
+          "answer": "An ink cartridge in your printer needs to be replaced. The cartridge may be expended, or the IC chip on the cartridge may not be communicating properly. Try reseating the cartridge and turning the printer off and on. If you still see the error message, try installing a different ink cartridge in the printer.\nIf this did not solve the problem, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000572-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCT2170SR~faq-0000572-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:26.108980"
+        },
+        {
+          "question": "I can tell some ink is still in the ink cartridge. Why does my printer show that the cartridge is expended?",
+          "answer": "The ink cartridge is designed to include a small safety reserve of ink. This safety reserve prevents damage to the printhead. If the printer tries to print when no ink remains in the cartridge, air bubbles would enter the ink delivery system and cause damage to the permanent printhead. The safety reserve of ink prevents this from happening.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000573-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCT2170SR~faq-0000573-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:27.014235"
+        },
+        {
+          "question": "I see the message No Ink Cartridge Install Ink Cartridge when all ink cartridges are installed. What should I do?",
+          "answer": "The ink cartridge(s) you installed may not be recognized by the printer. Try reseating the ink cartridge(s) and turning the printer off and on. If you still see the error message, try installing a different ink cartridge in the printer.\nIf this did not solve the problem, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000571-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCT2170SR~faq-0000571-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:33.255196"
+        },
+        {
+          "question": "Why do I need color ink cartridges when I print in black only?",
+          "answer": "The printer will not print if any ink cartridge is expended or removed. Epson printers contain a permanent print head that needs to be charged with all colors to work. Even when you are printing black text only, a small amount of color ink is used to keep the print head charged. The print head needs to be kept charged to prevent air bubbles from entering. Air bubbles can damage the print head.\nTherefore, once one of the cartridges is expended, the printer signals you to replace the cartridge in order for printing to continue.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000570-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCT2170SR~faq-0000570-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:38.413357"
+        },
+        {
+          "question": "Which ink cartridge sizes are available for my product?",
+          "answer": "See below.\nInk Cartridge and Maintenance Box Part Numbers\nUse these part numbers when you order or purchase a new ink cartridge or maintenance box.\nNote:\nFor best printing results, use up a cartridge within 6 months of opening the package.\nMaintenance box part number: C13S210057\nInk color\n26 ml\n50 ml\n80 ml\nBlack\n—\nT40V120\nT40W120\nCyan\nT40V220\nT40W220\n—\nMagenta\nT40V320\nT40W320\n—\nYellow\nT40V420\nT40W420\n—",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000bfe-sct2170?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCT2170SR~faq-0000bfe-sct2170",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:39.526789"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "How do I clean the auto sheet feeder?",
+          "answer": "If ink smears on a printout when printing from the auto sheet feeder (especially on glossy paper), you can clean the auto sheet feeder roller to remove excess ink.\nNote:\nIf ink smears when printing on glossy paper, we recommend printing individual cut sheets one at a time instead of using the auto sheet feeder.\nLoad a few sheets of plain paper in the auto sheet feeder.\nPress the\nhome button, if necessary.\nSelect\nSettings\n>\nMaintenance\n>\nPaper Guide Cleaning\n. You see a screen like this:\nSelect\nStart\nto clean the paper guide. The paper is ejected.\nCheck the ejected paper to see if it is clean.\nIf you see ink smears, press and hold\nRun Again\n. Repeat until there is no more ink on the ejected paper.\nIf there is no ink visible, select\nDone\n.\nRelated tasks\nLoading Paper in the Auto Sheet Feeder",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000c0c-sct2170?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SCT2170SR~faq-0000c0c-sct2170",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:40.526287"
+        },
+        {
+          "question": "How do I clean the roll paper feeder?",
+          "answer": "If ink smears on a printout when printing on roll paper or cut sheets, you can clean the roll paper feeder to remove excess ink.\nMake sure roll paper is loaded in the printer.\nPress the\nhome button, if necessary.\nSelect\nPaper Setting\n>\nRoll Paper\n>\nFeed/Cut Paper\n.\nPress and hold\nForward\nuntil there are no ink smears on the ejected roll paper.\nSelect\nCut\nto cut the roll paper.\nRelated tasks\nLoading Roll Paper",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000c0d-sct2170?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SCT2170SR~faq-0000c0d-sct2170",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:41.685727"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "Does the product support roll and cut sheet media?",
+          "answer": "Yes, the product supports both roll media and cut sheet media. In the auto sheet feeder, you can load up to 50 sheets of plain paper, or up to 5 sheets of other types of paper.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000c05-sct2170?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCT2170SR~faq-0000c05-sct2170",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:42.892472"
+        },
+        {
+          "question": "Which roll paper core sizes can I use with my product?",
+          "answer": "You can use roll paper with a 2-inch (51 mm) core.\nNote:\nThis product does not support 3-inch core diameter media.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000c02-sct2170?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCT2170SR~faq-0000c02-sct2170",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:43.887849"
+        },
+        {
+          "question": "I'm having paper feed problems. What should I do?",
+          "answer": "If you have problems feeding paper, try these solutions:\nMake sure paper is loaded in the correct orientation. Load cut sheets vertically (short edge first).\nFor best results, follow these guidelines:\nUse new, smooth, high-quality paper that is not damp, curled, creased, old, too thin, or too thick.\nFollow any special loading instructions that came with the paper.\nIf roll paper does not feed, cut the end straight across and uncurl it by rolling it backward, if necessary. Then reload the paper.\nMake sure there are no gaps between the roll paper and the paper stops on the spindle.\nIf wrinkles appear on roll paper, adjust the\nBack Tension\nsetting.\nIf you cannot insert paper easily into the paper feed slot, make sure the paper is perfectly flat and not curled.\nDo not load more than one piece of cut sheet paper.\nMake sure your paper meets the specifications for your product.\nMake sure you selected the\nMedia Type\nsetting in the printer driver that matches the paper you loaded in the product.\nMake sure that paper is not jammed inside the product.\nMake sure you are using the product at the proper room temperature.\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Basic Print Settings - Mac\nRelated references\nPaper Setting Menu\nPaper Specifications\nRelated information\nRoll Paper Handling\nCutting Roll Paper\nCut Sheet Handling",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000a3e-sct2170?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCT2170SR~faq-0000a3e-sct2170",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:44.865538"
+        },
+        {
+          "question": "Which media sizes does the product support?",
+          "answer": "See below.\nPaper Specifications\nNote:\nSince the quality of any particular brand or type of paper may be changed by the manufacturer at any time, Epson cannot guarantee the quality of any non-Epson brand or type of paper. Always test a sample of paper stock before purchasing large quantities or printing large jobs.\nRoll paper\nCore size\n2 inches (51 mm)\nOuter diameter\nUp to 4.33 inches (110 mm)\nWidth\nSureColor T2170/T3170\n: 13 to 24 inches (329 to 610 mm)\nSureColor T5170\n: 13 to 36 inches (329 to 914 mm)\nThickness\n0.002 to 0.008 inch (0.05 to 0.21 mm)\nWeight\nUp to 6.61 lbs (3 kg)\nCut sheet paper (auto sheet feeder)\nSize\nA4 (8.3 × 11.7 inches [210 × 297 mm])\nA3 (11.7 × 16.5 inches [297 × 420 mm])\nLetter (8.5 × 11 inches [216 × 279 mm])\nLegal (8.5 × 14 inches [216 × 356 mm])\nThickness\n0.005 to 0.01 inch (0.12 to 0.27 mm)\nLoading capacity\nPlain paper: 50 sheets\nOther paper types: 5 sheets\nCut sheet paper (1 sheet)\nWidth\nSureColor T2170/T3170\n: 8.23 to 24 inches (210 to 610 mm)\nSureColor T5170\n: 8.23 to 36 inches (210 to 914 mm)\nLength\n11 to 46.8 inches (279.4 to 1189 mm)\nThickness\n0.005 to 0.01 inch (0.12 to 0.27 mm)",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000a42-sct2170?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCT2170SR~faq-0000a42-sct2170",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:45.998105"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "I see horizontal or vertical lines in my printout. What should I do?",
+          "answer": "Perform a nozzle check from the printer's control panel or the Epson printer driver, then do one of the following:\nIf there are gaps in the nozzle check pattern, clean the print head nozzles.\nIf there are no gaps in the nozzle check pattern, try the solutions below.\nHorizontal Banding\nIncrease the print resolution.\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nSelect an alternate paper profile for ink coverage.\nSelect the correct paper type in the printer driver.\nAdjust the paper feed\nVertical Banding\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nAlign the print head.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-00009eb-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SCT2170SR~faq-00009eb-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:47.085916"
+        },
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-00009e9-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SCT2170SR~faq-00009e9-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:48.333083"
+        },
+        {
+          "question": "The print quality is uneven, too light, or too dark, or lines appear in the printout. What should I do?",
+          "answer": "If you notice that your print quality is uneven, too light, too dark, or there are lines in the print (banding), try these solutions:\nRun a nozzle check to see if any of the print head nozzles are clogged. Then clean the print head, if necessary. If nozzles are still clogged after cleaning three times, perform a Powerful Cleaning.\nPerform a print quality adjustment.\nMake sure your paper meets the specifications for your product.\nMake sure the paper is not wrinkled, folded, or bent.\nMake sure your ink cartridges have not expired. For best results, use ink cartridges before the expiration date printed on the package (within six months of installation in the printer). Replace expired cartridges with new ones.\nShake the cartridges before installing them in the printer.\nMake sure you selected the correct\nMedia Type\nsetting in the printer driver that matches the paper loaded in the printer.\nCompare the print result with the image on your computer screen. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nMake sure that all printer covers are closed during printing.\nKeep all printer covers closed unless you are loading or unloading media to prevent dust from accumulating inside the printer.\nCheck the ink levels on the LCD screen. Replace any cartridges that are low on ink.\nEnable color management in the software application or in the printer driver.\nIf you are using non-Epson media, make sure you create a custom paper configuration for the media.\nCheck the quality setting that you selected in the printer driver. Using a faster printing method may decrease the overall print quality.\nRelated concepts\nPrint Head Nozzle Check\nPrint Head Cleaning\nRelated tasks\nAdjusting Print Quality Using the Product Control Panel\nSelecting Basic Print Settings - Windows\nSelecting Basic Print Settings - Mac\nRemoving and Installing Ink Cartridges\nChecking Ink Cartridge and Maintenance Box Status on the LCD Screen\nCreating Custom Paper Configurations\nRelated references\nPaper Specifications\nColor Mode Options - Windows\nLevel Options - Windows\nColor Mode Options - Mac\nLevel Options - Mac",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000b17-sct2170?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SCT2170SR~faq-0000b17-sct2170",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:49.344022"
+        },
+        {
+          "question": "My prints are scuffed or smeared. What should I do?",
+          "answer": "If your prints are scuffed or smeared, try these solutions:\nMake sure your paper meets the specifications for your product.\nMake sure you selected the correct\nMedia Type\nsetting in the printer driver that matches the paper loaded in the printer.\nDo not use paper with folds or creases and always use new media.\nIf you are using cut sheet paper, check that changes in humidity and temperature have not made the paper wavy or curled up on the edges. Flatten the paper before loading it or use new paper.\nIf the surface of the paper is scuffed, select a wider\nPlaten Gap\nsetting.\nIf you are printing on thick paper, make sure the\nThick Paper\nsetting is enabled in the\nPrinter Settings\nmenu.\nIf the bottom edge is scuffed, try widening the bottom margin.\nIf ink is smeared on your prints, clean the rollers. Load blank paper and perform a paper guide cleaning.\nIf you are using non-Epson media, make sure you create a custom paper configuration for the media.\nDepending on the print density and type of paper you are using, the ink may take a while to dry. Do not stack the prints until the ink is completely dry. You can adjust the drying time in the\nPrinter Settings\nmenu.\nAdjust the ink density in the printer driver settings and on the control panel for custom paper configuration settings.\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Basic Print Settings - Mac\nCreating Custom Paper Configurations\nCleaning the Auto Sheet Feeder\nCleaning the Roll Paper Feeder\nRelated references\nPaper Specifications\nPaper Setting Menu\nPrinter Settings Menu",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000c0e-sct2170?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SCT2170SR~faq-0000c0e-sct2170",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:50.273728"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "How do I determine my printer driver version on my Mac?",
+          "answer": "Open the\nmenu and select\nSystem Preferences\nor\nSystem Settings\n>\nPrinters & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n. Your printer driver version is displayed.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-00009e4-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCT2170SR~faq-00009e4-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:49.524444"
+        },
+        {
+          "question": "Where are the ICC profiles located for my printer on my Mac?",
+          "answer": "Do the following to locate the files:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinter2\n>\nICCProfiles\n.\nPress and hold the\nControl\nkey on your keyboard while you click the profile package in the\nICCProfiles\nfolder. In the pop-up menu that appears, select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-00009ed-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCT2170SR~faq-00009ed-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:50.448443"
+        },
+        {
+          "question": "Which connection types does the product support?",
+          "answer": "The product supports the following connection types:\nUSB 2.0 and 3.0\nEthernet 10BASE-T/100BASE-TX/1000BASE-T/Energy Efficient Ethernet\nWireless (Wi-Fi and Wi-Fi Direct)\nNote:\nThe product does not support wireless and Ethernet connections at the same time.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000c06-sct2170?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCT2170SR~faq-0000c06-sct2170",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:51.373880"
+        },
+        {
+          "question": "Does my product come with an Epson printer driver?",
+          "answer": "Yes, an Epson printer driver is available. You can download the driver from the Downloads tab on your product's support page.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000c00-sct2170?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCT2170SR~faq-0000c00-sct2170",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:52.366820"
+        },
+        {
+          "question": "My print job disappears from the Windows print queue but does not print. What should I do?",
+          "answer": "Follow the steps below:\nDo one of the following:\nWindows 11\n: Click\n, search for\nSettings\nand select it. Select\nDevices\n>\nPrinters & scanners\n. Select your product name and select\nPrinting preferences\n.\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your printer and select\nManage\n>\nPrinting preferences\n.\nWindows 8\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the\nUtility\ntab, then\nSpeed and Progress\n.\nSelect the\nAlways Spool RAW Datatype\nand\nCoarse Rendering\ncheckboxes, then click\nOK\n.\nNote:\nIf the\nProcessed by Printer\ncheckbox is selected, deselect it.\nTry printing again.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-000098e-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCT2170SR~faq-000098e-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:53.285478"
+        },
+        {
+          "question": "Can one person move this printer?",
+          "answer": "No. The printer requires at least two people to lift and move it. Make sure to lift the printer using the indented areas as shown.\nNote:\nDo not hold the printer by the paper support. You may damage it.\nCaution:\nDuring transportation and storage, follow these guidelines:Avoid tilting the product, placing it vertically, or turning it upside down; otherwise ink may leak. Leave the ink cartridges installed. Removing the cartridges can dry out the print head and may prevent the product from printing, or ink may leak.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000c0a-sct2170?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCT2170SR~faq-0000c0a-sct2170",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:54.303911"
+        },
+        {
+          "question": "Does the printer come with an AutoCAD driver?",
+          "answer": "No, the printer does not come with an AutoCAD driver.\nNote:\nThe product can print CAD drawings with the Epson printer driver or by setting the product to emulate HP-GL/2 or HP RTL modes. Not all HP-GL/2 and HP RTL features are supported on the product.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000c09-sct2170?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCT2170SR~faq-0000c09-sct2170",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:55.280367"
+        },
+        {
+          "question": "How do I print a nozzle check pattern?",
+          "answer": "See below.\nChecking the Nozzles Using the Product Control Panel\nYou can check the print head nozzles using the control panel on your product.\nMake sure roll paper or cut sheet paper is loaded in the printer.\nPress the\nhome button, if necessary.\nSelect\nSettings\n>\nMaintenance\n>\nPrint Head Nozzle Check\n. You see a screen like this:\nIf you want to change the paper source that the nozzle check pattern prints on, select\nPaper Source\n. Otherwise, select\nStart\nto print the nozzle check pattern. The nozzle check pattern prints.\nCheck the printed pattern to see if there are gaps in the lines.\nPrint head is clean\nPrint head needs cleaning\nDo one of the following:\nIf there are no gaps in the pattern, select the\nicon.\nIf there are gaps or the pattern is faint, select the\nicon on the\nHead Cleaning\nscreen. Select\nStart\nto clean the print head.\nIf you don’t see any improvement after cleaning the print head three times, perform a\nPowerful Cleaning\n.\nRelated tasks\nChecking the Nozzles Using a Computer Utility\nCleaning the Print Head Using the Product Control Panel\nUsing the Powerful Cleaning Utility",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000a3f-sct2170?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCT2170SR~faq-0000a3f-sct2170",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:56.199290"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCT2170SR~faq-0000f4b-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:57.178108"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCT2170SR~faq-0000f4c-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:58.152104"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCT2170SR~faq-0000f4d-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:52:59.120527"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Specifications",
+      "section_id": "8796158830668",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "Which interfaces does the product support?",
+          "answer": "See below.\nInterface Specifications\nInterface type\nHigh-Speed USB port compatible with USB 2.0 specification (\nOPTION\nport)\nSuperSpeed USB port compatible with USB 3.0 specification (\nUSB\nport)\nNetwork Interface Specifications\nWi-Fi\nStandards\nIEEE802.11b/g/n\nSecurities\nWEP (64/128bit)\nWPA-PSK (TKIP)\nWPA2-PSK (AES) (complies with WPA2 standards with support for WPA/WPA2 Personal)\nFrequency range\n2.4 GHz\nCommunication mode\nInfrastructure\nWi-Fi Direct (Simple AP) (not supported for IEEE802.11b)\nSecurity Protocols\nSSL/TLS (HTTPS Server/Client, IPPS)\nIEEE802.1X\nIPsec/IP Filtering\nSMTPS (STARTTLS, SSL/TLS\nSNMPv3\nEthernet\nStandards\nIEEE802.3i (10BASE-T)\nIEEE802.3u (100BASE-TX)\nIEEE802.3ab (1000BASE-T)\nIEEE802.3az (Energy Efficient Ethernet); connected device should comply with IEEE802.3az standards\nNote:\nUse a category 5 or higher shielded twisted pair cable for all interfaces.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000a41-sct2170?faq_cat=faq-8796158830668",
+          "faq_slug": "SPT_SCT2170SR~faq-0000a41-sct2170",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:53:00.065056"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Wireless or Wired Connection",
+      "section_id": "8796127635532",
+      "section_order": 9,
+      "faqs": [
+        {
+          "question": "The product won't connect to my wireless network. What should I do?",
+          "answer": "If your product has trouble finding or connecting to a wireless router or access point, try these solutions:\nIf you are connecting the product via Wi-Fi Protected Setup (WPS) and the Wi-Fi icon on your product's LCD screen is not lit or does not appear, make sure you select one of the WPS options from the product control panel within 2 minutes of pressing the WPS button on your router.\nVerify that your router or access point is operating correctly by connecting to it from your computer or another device.\nYou may need to disable the firewall and any anti-virus software on your wireless router or access point.\nTry restarting your router following the instructions in your router documentation.\nNote:\nIf you are reading these instructions online, you will lose your Internet connection when you restart your router.\nCheck to see if access restrictions, such as MAC address filtering, are set on the router or access point. If access restrictions are set, add your product's MAC address to your router's address list. To obtain your product's MAC address, print a network status sheet. Then follow the instructions in your router or access point documentation to add the address to the list.\nIf your router or access point does not broadcast its network name (SSID), follow the instructions that came with your product to enter your wireless network name manually.\nIf your router or access point has security enabled, determine the kind of security it is using and any required password or passphrase for connection. Then make sure to enter the exact WEP key or WPA passphrase correctly.\nCheck if your computer is restricting the available wireless channels. If so, verify that your wireless access point is using one of the usable channels and change to a usable channel, if necessary.\nIf you cannot connect your product to a device using Wi-Fi Direct, you may have exceeded the maximum number of devices connected to your product (4). Print a network status sheet or access Web Config on the browser for your device and check the number of connected devices. If 4 devices are already connected, disconnect a device by deleting the product's SSID from the Wi-Fi screen of that device. If fewer than 4 devices are connected, check the accuracy of your other network settings, move your device closer to your product, and try connecting again.\nIf you are using a Wi-Fi Direct connection that suddenly disconnects, the Wi-Fi direct password on your device may have been changed. If necessary, delete the existing\nDIRECT-xxxxxxxx\nconnection settings from your device and enter a new password. See your device documentation for instructions.\nIf you connected your product to a Windows computer using Wi-Fi Direct and it automatically selected Access Point Mode, you may have trouble accessing a low-priority Internet connection. Check the network connection or adapter settings in the Windows Control Panel and set the\nInternet metric\nsetting to\n100\nfor your version of the Internet Protocol.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000c0f-sct2170?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_SCT2170SR~faq-0000c0f-sct2170",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:53:00.976609"
+        },
+        {
+          "question": "The product does not appear in the Mac printer window over a wireless connection. What should I do?",
+          "answer": "If your product does not appear in the Mac printer window, try these solutions:\nTurn your product off, wait 30 seconds, then turn it back on again.\nIf you are connecting the product via Wi-Fi Protected Setup (WPS) and the Wi-Fi icon on your product's LCD screen is not lit, make sure you select one of the WPS options from the product control panel within 2 minutes of pressing the WPS button on your router.\nIf you are connecting the product wirelessly via EpsonNet Setup and the Wi-Fi icon does not appear lit on your LCD screen, make sure your product software was installed correctly. If necessary, reinstall your software.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000c10-sct2170?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_SCT2170SR~faq-0000c10-sct2170",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:53:06.384395"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 10,
+      "faqs": [
+        {
+          "question": "Does the printer have a built-in cutter?",
+          "answer": "Yes. You can use the built-in cutter to cut media manually or to cut media automatically after printing each page.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000bff-sct2170?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCT2170SR~faq-0000bff-sct2170",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:53:07.580477"
+        },
+        {
+          "question": "Does a printer stand come with the product?",
+          "answer": "No, but you can purchase the optional printer stand (part number C12C933151) from an Epson authorized reseller.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000c01-sct2170?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCT2170SR~faq-0000c01-sct2170",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:53:09.751174"
+        },
+        {
+          "question": "Which user replaceable parts and accessories are available for my product?",
+          "answer": "See below.\nOptional Equipment and Replacement Parts\nYou can purchase genuine Epson ink, paper, and accessories from an Epson authorized reseller. To find the nearest reseller, visit\nproimaging.epson.com\n(U.S.) or\nproimaging.epson.ca\n(Canada), select your product series and product, and click the\nWhere to Buy\nbutton. Or call 800-GO-EPSON (800-463-7766) in the U.S. or 800-807-7766 in Canada.\nOption or part\nPart number\nPrinter stand and paper basket (24\") [SureColor T2170/T3170]\nC12C933151\nRoll media spindle (24\") [SureColor T2170/T3170]\nC12C935701\nRoll media spindle (36\") [SureColor T5170]\nC12C933131\nMaintenance box\nC13S210057\nReplacement printer cutter blade\nC13S210055\nOutput tray\nC12C936361\n1-year extended Epson Preferred Plus service plan\nEPPT3151B1",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000c0b-sct2170?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCT2170SR~faq-0000c0b-sct2170",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:53:15.532122"
+        },
+        {
+          "question": "What security measures does Epson recommend for its network products?",
+          "answer": "To help deter unauthorized access to your product over a network, you should protect your network environment using appropriate security measures.\nSecurity measures such as these can help deter threats such as loss of user data, use of telephone and fax lines, and other intrusions:\nEnable security on your wireless LAN if your product supports a wireless connection\nEnable the appropriate security on the wireless LAN you plan to use with your product. Network security, such as a network password, can deter interception of traffic over the wireless LAN. Your router may already have a default password enabled by your Internet service provider (ISP). See your ISP and router documentation for instructions on how to change the default password and better secure your network.\nConnect your product only to a network protected by a firewall\nConnecting your product directly to the Internet may leave it vulnerable to security threats. Instead, connect it to a router or other networking device protected by a firewall. Your router may already have a firewall set up by your Internet service provider; check with your ISP for confirmation. For best results, set up and use a private IP address for your network connection.\nChange the default administrator password on your product\nIf your product has an option to set an administrator password, change the default administrator password to deter access by unauthorized users to personal data stored on your product, such as IDs, passwords, and contact lists. See the product's User's Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000a05-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCT2170SR~faq-0000a05-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:53:16.641444"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SCT2170SR~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCT2170SR~faq-0000f4a-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T2170/s/SPT_SCT2170SR",
+          "fetched_at": "2026-04-02T03:53:17.741568"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

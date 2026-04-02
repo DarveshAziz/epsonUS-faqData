@@ -1,0 +1,1377 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "All-In-Ones",
+  "series": "WorkForce Series",
+  "model": {
+    "name": "Epson WorkForce 435",
+    "sku": "SPT_C11CB45201",
+    "url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "How do I find my SSID and network password?",
+          "answer": "Check your router documentation for this information. Most routers have a default SSID and password that can be modified once the router is set up.\nNote:\nThe SSID is the name of the wireless network that is set up on your router or access point.\nIf you don't know this information, you'll need to contact the manufacturer of your router or the person who set up your network.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-0000ae9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CB45201~faq-0000ae9-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:54:39.484310"
+        },
+        {
+          "question": "Can I use the Epson iPrint app with my Android device?",
+          "answer": "Yes. See our\nFAQ\npage for the app for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-0000b05-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CB45201~faq-0000b05-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:54:38.609278"
+        },
+        {
+          "question": "I can't get Epson Status Monitor to work over my wireless network. What should I do?",
+          "answer": "If the product is not shared, make sure it is connected to the network wirelessly. Try moving your product or computer to a different location within range of your wireless network. Avoid placing the computer, product, or wireless access point near microwaves, cordless telephones, or other sources of wireless interference.\nIf the product is set up as a shared printer, Epson Status Monitor will not work and is not supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-00004c7-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CB45201~faq-00004c7-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:54:39.558073"
+        },
+        {
+          "question": "Where can I find information about Epson iPrint app?",
+          "answer": "See our FAQ page for the app (\niOS\nor\nAndroid\n).",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-0000950-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CB45201~faq-0000950-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:54:40.485838"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-00004c5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CB45201~faq-00004c5-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:54:41.426285"
+        },
+        {
+          "question": "What security measures does Epson recommend for its network products?",
+          "answer": "To help deter unauthorized access to your product over a network, you should protect your network environment using appropriate security measures.\nSecurity measures such as these can help deter threats such as loss of user data, use of telephone and fax lines, and other intrusions:\nEnable security on your wireless LAN if your product supports a wireless connection\nEnable the appropriate security on the wireless LAN you plan to use with your product. Network security, such as a network password, can deter interception of traffic over the wireless LAN. Your router may already have a default password enabled by your Internet service provider (ISP). See your ISP and router documentation for instructions on how to change the default password and better secure your network.\nConnect your product only to a network protected by a firewall\nConnecting your product directly to the Internet may leave it vulnerable to security threats. Instead, connect it to a router or other networking device protected by a firewall. Your router may already have a firewall set up by your Internet service provider; check with your ISP for confirmation. For best results, set up and use a private IP address for your network connection.\nChange the default administrator password on your product\nIf your product has an option to set an administrator password, change the default administrator password to deter access by unauthorized users to personal data stored on your product, such as IDs, passwords, and contact lists. See the product's User's Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-0000a05-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CB45201~faq-0000a05-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:54:42.414095"
+        },
+        {
+          "question": "I can print wirelessly to my product on my home network, but I can't print when I connect the same computer to a VPN (virtual private network). What should I do?",
+          "answer": "Your product is set up to communicate wirelessly with your home network. When you connect to a VPN, your computer is no longer communicating with your home network, so it cannot print to the product. You'll need to connect to your home network to print again.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-0000ad6-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CB45201~faq-0000ad6-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:54:43.363417"
+        },
+        {
+          "question": "Can I read or write to my memory card when my product display indicates that one or more ink cartridges are expended?",
+          "answer": "Yes, you can read or write to a memory card when the installed ink cartridge is expended. However, you cannot read or write to a memory card if the ink cartridge is not installed.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-0000ab2-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CB45201~faq-0000ab2-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:54:44.312458"
+        },
+        {
+          "question": "Where can I find the IP address of my router?",
+          "answer": "Most wireless routers have a default IP address that can usually be found in the router's documentation.\nFor more support on your router, contact the manufacturer of your router.\nYou can also print a network status sheet from your printer's control panel to find your router's IP address.\nNote:\nThe network status sheet will list your router’s IP address only if you have set up your printer with a network connection to the router. If you print a network status sheet before setup, the router's IP address will not be listed on the network status sheet.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-00004c0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CB45201~faq-00004c0-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:54:45.213634"
+        },
+        {
+          "question": "An area I highlighted with a fluorescent (or neon) marker does not appear in my scan. What should I do?",
+          "answer": "Try using a non-fluorescent marker. This limitation occurs with some scanners that use a contact image sensor (CIS) and cannot detect fluorescent marks accurately, especially yellow marks.\nIf you need to scan a document with fluorescent marks, we recommend you use a scanner with charge-coupled device (CCD) technology or a full-color contact image sensor, both of which can detect fluorescent marks. The following Epson products feature CCD or full-color CIS optics:\nDS-30000\nDS-32000\nWorkForce DS-50000\nWorkForce DS-60000\nWorkForce DS-70000",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-00008c5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CB45201~faq-00008c5-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:54:46.157461"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Cloud or Mobile",
+      "section_id": "8796127340620",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Where can I find information about Epson iPrint app?",
+          "answer": "See our FAQ page for the app (\niOS\nor\nAndroid\n).",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-0000950-shared?faq_cat=faq-8796127340620",
+          "faq_slug": "SPT_C11CB45201~faq-0000950-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:54:47.100598"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "My product is printing blank pages from Windows or my Mac. What should I do?",
+          "answer": "Check the following:\nMake sure your product is selected as the printer in your printing program.\nRun a print head nozzle check to see if any of the nozzles are clogged. Then clean the print head, if necessary.\nMake sure you selected the correct paper size settings in your printing program and printer software.\nTry printing a different document to determine if the problem is limited to one document. If it is, try recreating the document (with copy and paste, for example).",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-195893?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CB45201~faq-195893",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:54:48.019422"
+        },
+        {
+          "question": "Printing is slow or my product stops printing when I try to print from Windows or OS X. What should I do?",
+          "answer": "If printing becomes slow, try the following:\nMake sure your system meets the requirements for your operating system. If you are printing a high-resolution\n                    image, you may need more than the minimum requirements. If necessary, increase\n                    your system's memory.\nIf you're using Windows 7, close the\nDevices and Printer\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility to free up existing space.\nClose any programs that you're not using when you print.\nIf your product is connected to a USB hub, connect it directly to your computer instead.\nIf printing becomes slower after printing continuously for a long time, the product may have automatically slowed down to protect the print mechanism from\n                    overheating or becoming damaged. Let the product rest with the power on for 30\n                    minutes, then try printing again.\nIf the above steps did not improve your print speed, the\nEPAUDF01.AUD\nfile can be deleted.\nNote:\nRemoval of this temporary file is not an option in Windows 8 or Mac OS.\nFollow the instructions below to delete this temporary file:\nWindows 7 and Windows Vista\nClick on the\nbutton and click on\nMy Computer\n.\nDouble-click the\nLocal Disk C:\nand locate the\nProgramData\nfolder.\nOpen the\nProgramData\nfolder and double-click the\nEPSON\nfolder.\nNext, open the\nPRINTER\nfolder by double-clicking it.\nRight-click into the\nEPAUDF01.AUD\nfile and click\nDelete\n.\nOnce deleted, restart your computer.\nTry to print again.\nIf you do not see the ProgramData Folder try the following to unhide it:\nClick into the\nOrganize\nbutton from the Menu Bar.\nScroll down and click on\nFolder and search options\nand a Folder Options window will open.\nClick on the\nView\ntab. Under the Advance settings section locate the\nShow hidden files, folders, and drives\noption and mark the radio\n                    button. Once marked click\nOK\n.\nWindows XP\n:\nClick the\nand select\nMy Computer\n.\nDouble-click the\nLocal Disk C:\nand open the\nDocuments and Settings\nfolder.\nLocate the\nAll User\nfolder and double-click to open it.\nNext double-click to open\nApplication Data\nfolder and then the\nEPSON\nfolder.\nDouble-click to open the\nPRINTER\nfolder.  Right-click into the\nEPAUDF01.AUD\nfile and click\nDelete\n.\nOnce deleted, restart your computer.\nTry to print again.\nIf you do not see the Application Data Folder try the following to unhide it:\nClick into the\nTools\noption from the Menu Bar and select\nFolder Options\n, a new window will appear.\nSelect the\nView\ntab. Under the Advance settings section locate the\nShow hidden files, folders, and drives\noption and mark the radio button.\nOnce marked click\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-195894?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CB45201~faq-195894",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:54:49.085259"
+        },
+        {
+          "question": "How do I print a multi-page document from Windows or my Mac so it stacks in the correct page order?",
+          "answer": "Windows\nOpen the File menu or click\nand select\nPrint\n.\nMake sure the Workforce 435 is selected as the printer.\nClick\nProperties\nor\nPreferences\n.\nNote\n:\nIf you don't see these buttons, click\nSetup\n,\nPrinter\n, or\nOptions\n, then click\nProperties\nor\nPreferences\non the next screen.\nClick the\nMain\ntab.\nSelect\nReverse Order\n.\nClick\nOK\n.\nMac OS X\nOpen the File menu and select\nPrint\n.\nMake sure the Workforce 435 is selected as the printer.\nWith Mac OS X 10.5, 10.6 or 10.7, click the\nbutton to expand the Print window, if necessary.\nSelect\nPaper Handling\nfrom the printer options pop-up menu.\nSelect\nReverse\nfor the Page Order setting.\nClick\nPrint\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-196802?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CB45201~faq-196802",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:54:50.028578"
+        },
+        {
+          "question": "How do I print in black/grayscale only?",
+          "answer": "Open a document, then follow the steps below for your operating system to select\nBlack/Grayscale\nor\nGrayscale\nin the printer driver.\nNote\n:\nTo keep the print head clear and ready to print, the printer uses a small amount of ink from all the cartridges whenever it prints. Even if you select\nBlack/Grayscale\nor\nGrayscale\n, some color ink is still being used.\nBlack/Grayscale\nor\nGrayscale\nis not recommended for printing black-and-white photos.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197243?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CB45201~faq-197243",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:54:51.119674"
+        },
+        {
+          "question": "How do I set up my product for the fastest printing?",
+          "answer": "Try these solutions:\nMake sure your system meets the requirements for your operating system.  If you are printing a high-resolution image, you may need more than the minimum requirements.  If necessary, increase your system's memory.\nClear space on your hard drive or run a defragmentation utility to free up existing space.\nClose programs that you're not using when you print.\nIf your product is connected to a USB hub, connect it directly to your computer instead.\nIf printing becomes slower after printing continuously for a long time, the product may have automatically slowed down to protect the print mechanism from overheating or becoming damaged.  Let the product rest with the power on for 30 minutes, then try printing again.\nFor the fastest printing, select the following settings in your product software:\nMake sure the paper type setting matches the type of paper you loaded.\nTurn on any high speed settings in your product software.\nSelect a lower print quality setting.\nMake sure\nQuiet Mode\nis not selected.\nIf the product is connected to a USB hub, disconnect unused USB devices.\nUse a computer with a high-speed USB 2.0 port.\nWindows\n: Click the\nMaintenance\ntab, select\nSpeed & Progress\n, and select the following settings:\nHigh Speed Copies\nAlways spool RAW datatype\nPage Rendering Mode\nPrint as Bitmap",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197250?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CB45201~faq-197250",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:54:52.051838"
+        },
+        {
+          "question": "Can I print on transparencies?",
+          "answer": "No. The product does not support printing on this type of media.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197257?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CB45201~faq-197257",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:54:52.994829"
+        },
+        {
+          "question": "How do I print a borderless photo from Windows or my Mac?",
+          "answer": "Make sure you loaded a compatible borderless paper size and type, then do one of the following:\nWindows\n: Select\nBorderless\non the Main tab of the printer driver.\nMac OS X\n: Select a paper size with a (Borderless) option.\nNote\n:\nNot available on all media types",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197254?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CB45201~faq-197254",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:54:53.955874"
+        },
+        {
+          "question": "How do I restore the colors in faded photos?",
+          "answer": "If you are scanning a photo to your computer using Epson Scan, see\nRestore Color as You Scan\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197309?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CB45201~faq-197309",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:54:54.888187"
+        },
+        {
+          "question": "How do I use the control panel buttons to copy a document or photo?",
+          "answer": "See\nCopy a Document or Photo\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197322?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CB45201~faq-197322",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:54:55.840498"
+        },
+        {
+          "question": "Printing and scanning seems slow on my product when I use a wireless connection (router or access point). What should I do?",
+          "answer": "Try the following solutions:\nTry moving the computer and product closer to your wireless router or access point.\nDon't place the computer, product, or wireless access point near microwaves, cordless telephones, or other sources of wireless interference.\nIf your wireless router or access point and the product are located next to each other, you can try connecting them with an ethernet cable.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197333?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CB45201~faq-197333",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:54:56.850752"
+        },
+        {
+          "question": "I can print wirelessly to my product on my home network, but I can't print when I connect the same computer to a VPN (virtual private network). What should I do?",
+          "answer": "Your product is set up to communicate wirelessly with your home network. When you connect to a VPN, your computer is no longer communicating with your home network, so it cannot print to the product. You'll need to connect to your home network to print again.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-0000ad6-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CB45201~faq-0000ad6-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:54:57.823668"
+        },
+        {
+          "question": "It takes a long time to copy a document. What should I do?",
+          "answer": "Try the following:\nSelect\nB&W\nas the copy type.\nSelect\nWith Border\nas the layout type.\nSelect\nPlain Paper\nas the paper type.\nSelect\nDraft\nor\nStandard\nas the quality type.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197323?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CB45201~faq-197323",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:54:58.760848"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "I see a communication error when I try to print with a USB connection. What should I do?",
+          "answer": "Try the following:\nMake sure the USB cable is a shielded \"AB\" cable not more than 10 feet long.\nNote:\nDo not use devices that extend the length of the cable because they can cause signal degradation.\nIf you're using a USB hub with your printer, connect the printer directly to your computer.\nNote:\nDo not connect through a USB keyboard.  The keyboard acts like a hub and can interfere with signal transmission.\nUse a different port on your computer.\nMake sure there is no error on the printer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-195909?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CB45201~faq-195909",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:54:59.730978"
+        },
+        {
+          "question": "I see the message Scanner Not Ready or Epson Scan will not start in Windows or on my Mac. What should I do?",
+          "answer": "Try the following:\nMake sure your product is turned on and securely connected to your computer or USB hub.\nIf your product is connected to a USB hub, make sure it's connected to a first tier hub (the hub closest to the computer) that has its own A/C adapter when more than one hub is connected to the computer.\nTry restarting your computer.\nMake sure Epson Scan is set up correctly for your connection type. See the steps below:\nMake sure the product is turned on.\nDo one of the following:\nWindows 8\n: Navigate to the\nStart\nscreen, right-click the screen, select\nAll apps\n, then select\nEPSON Scan Settings\n.\nWindows (other versions)\n: Click\nStart\nor\n, and select\nPrograms\nor\nAll Programs\n. Select\nEPSON Scan\n>\nEPSON Scan Settings\n(or\nEPSON\n, then\nEPSON Scan\n, and then\nEPSON Scan Settings\n.)\nMac\n: Search for\nEPSON Scan Settings\n, then click\nEPSON Scan Settings\nto open it.\nIf you see the screen below, click\nNo\n. The screen may appear twice.\nMake sure the correct scanner is selected.\nDo one of the following:\nIf the product is connected to your computer with a USB cable, make sure the\nConnection\nsetting is set to\nLocal\n, then skip the remaining steps.\nIf the product is set up on a network, make sure the\nConnection\nsetting is set to\nNetwork\nand your scanner appears under Network Scanner Address with the correct IP address, if these settings are correct, skip the remaining steps. If the IP address for your product does not appear, click\nAdd\n.\nNote:\nIf you don't know your product's IP address, print a Confirm Network Settings page from the printer's control panel. The IP address will appear on the page.\nClick\nAdd\n.\nSelect the IP address that appears in the list. If more than one IP address appears, be sure to select the one that matches your product's IP address.\nIf you have a firewall or Internet security software installed, the search feature may not work correctly. In this case, click\nEnter address\n, and enter the IP address manually.\nClick\nOK\n.\nClick\nOK\nagain to close the Epson Scan settings window.\nIf the steps above do not help, try the following.\nWindows 7 and Windows Vista\n:\nTurn off the printer.\nUninstall Epson Scan.\nRestart your computer.\nOpen Windows Explorer (right-click\n, then select\nExplore\nor\nOpen Windows Explorer\n).\nNavigate to\nC:\\Windows\nLocate the\ntwain_32\nfolder and rename it to a different name such as\ntwain_32_old\n.\nRestart your computer.\nReinstall Epson Scan.\nWindows (other versions)\nor\nMac\n: Uninstall and reinstall the Epson Scan software.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-195907?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CB45201~faq-195907",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:00.662304"
+        },
+        {
+          "question": "I see the message Installation Failed when I install my product's wireless network software. What should I do?",
+          "answer": "Check the following:\nMake sure that your wireless router or access point is set to use one of the supported security settings:  None, WEP 64, WEP 128, or WPA-PSK (TKIP/AES) WPA2 compliant.\nIf security is enabled for your wireless router or access point, make sure that you entered the correct security key or passphrase.\nIf there are any access restrictions (such as MAC address filtering) set on the wireless router or access point, register the printer's MAC address on the router or access point. Print a Network Status Sheet to obtain the MAC address. Then see your router or access point's documentation for instructions.\nDisable any settings (such as\nAP Isolation\n,\nClient Isolation\n, or\nPrivacy Separator\n) on your wireless router or access point that would prevent wireless devices from communicating with each other.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197332?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CB45201~faq-197332",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:01.624295"
+        },
+        {
+          "question": "I see the message Printer is Offline. What should I do?",
+          "answer": "Try the following:\nMake sure the product is powered on.\nCheck the product control panel for any error messages and follow the instructions to solve them.\nMake sure you are choosing the correct printer when printing.  If there are multiple copies of the same printer driver, remove the ones not in use.\nMake sure the USB cable is a shielded \"AB\" cable not more than 10 feet long.\nNote:\nDo not use devices that extend the length of the cable because they can interfere with signal transmission.\nIf you're using a USB hub with your printer, connect the printer directly to your computer.\nNote:\nDo not connect through a USB keyboard.  The keyboard acts like a hub and can interfere with signal transmission.\nUse a different port on your computer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-195890?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CB45201~faq-195890",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:02.564439"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CB45201~faq-00004c5-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:03.552011"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Fax",
+      "section_id": "8796125866060",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "Will I lose faxes stored in the fax memory if my product is turned off?",
+          "answer": "Yes, all faxes held in memory will be erased if the product is turned off.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-195917?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CB45201~faq-195917",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:04.547623"
+        },
+        {
+          "question": "I'm having trouble sending or receiving faxes over a VoIP (Voice over Internet Protocol) phone line. Why?",
+          "answer": "Because fax machines are designed to work over standard analog telephone lines, Epson does not guarantee that fax transmission will work over VoIP phone lines (cable systems such as Cox, Charter, Time Warner, Comcast, FiOS, magicJack, and Vonage).\nInternet traffic can interfere with faxing because VoIP communicates through the Internet and not through standard analog telephone line. The data sent over the Internet for a fax is digitized into packets and this process can cause data loss.\nYou can try slowing the transmission speed of the fax by setting ECM and V.34 on the product to\nOff\n.\nIf this does not help, contact your VoIP service provider for help.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-195918?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CB45201~faq-195918",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:05.543968"
+        },
+        {
+          "question": "Can I use the Epson FAX Utility to receive faxes into my computer?",
+          "answer": "Yes.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197313?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CB45201~faq-197313",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:06.521905"
+        },
+        {
+          "question": "How do I send a fax?",
+          "answer": "See\nSend a fax\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197324?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CB45201~faq-197324",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:07.476388"
+        },
+        {
+          "question": "How do I create a header for my faxes?",
+          "answer": "See\nEnter the Header Information\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197326?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CB45201~faq-197326",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:08.556989"
+        },
+        {
+          "question": "How do I print faxes stored in the fax memory when my product has an expended ink cartridge?",
+          "answer": "Check the following:\nYou will need to\nreplace any ink cartridge\nthat are expended.  Once the cartridge is replaced and the product has finished charging them, it will automatically print the faxes stored in memory.\nMake sure\npaper is loaded\ncorrectly in the sheet feeder.\nMake sure there are no\npaper jams in the printer\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197329?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CB45201~faq-197329",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:09.503717"
+        },
+        {
+          "question": "Can my product still send and receive a fax if an ink cartridge is expended or not installed?",
+          "answer": "Yes, you can continue to send and receive faxes if an ink cartridge is expended or not installed. Incoming faxes will be stored in the products fax memory and will be printed automatically once the expended ink cartridge is replaced. The fax memory can hold up to 180 pages.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197327?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CB45201~faq-197327",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:07.953557"
+        },
+        {
+          "question": "What are speed dial and group lists and how do I create them for my fax numbers?",
+          "answer": "You can set up a speed dial list of fax numbers so you can quickly select them for faxing. You can also set up a group dial list to send a fax message to multiple speed dial numbers. See\nSetting Up Speed Dial and Group Dial Lists\nfor more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197325?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CB45201~faq-197325",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:08.934505"
+        },
+        {
+          "question": "I'm having trouble sending or receiving faxes. What should I do?",
+          "answer": "Try the following solutions:\nMake sure the recipient's fax machine is turned on and working.\nMake sure paper is loaded correctly in your product.\nMake sure your product's\nAuto Answer\nmode is turned on to receive faxes automatically.  Check your product control panel to see if this mode is turned on.\nCheck that the cable connecting your telephone wall jack to your product's\nLINE\nport is secure.\nPrint a fax connection report using your product control panel or fax software to help diagnose the problem.\nVerify that the telephone wall jack works by connecting a phone to it and testing it.\nIf you connected your product to a DSL phone line, you must connect a DSL filter to the phone jack to enable faxing over the line.  Contact your DSL provider for the necessary filter.\nIf your telephone line has static, turn off your product's\nV.34\nand\nECM\n(Error Correction Mode) fax communication settings and try faxing again.\nNote\n: If your product is connected to a VoIP (Voice over Internet Protocol) phone line, you should be aware that fax machines are designed to work over analog phone lines.  Epson cannot guarantee that fax transmission will work when using VoIP.\nIf your phone line includes voicemail answering services, calls or faxes may be inadvertently received by your voicemail service.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197330?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CB45201~faq-197330",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:09.878192"
+        },
+        {
+          "question": "Can I use a pre-paid calling card to send a fax?",
+          "answer": "Yes. Do the following:\nConnect an external phone to the product.\nUse the attached phone to dial the number and password on the pre-paid calling card, then dial the destination fax number.\nWhen the destination fax number answers, hang up and press the\nStart\nor the\nbutton to send the fax.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-200953?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CB45201~faq-200953",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:10.793711"
+        },
+        {
+          "question": "How do I change the baud rate on my fax?",
+          "answer": "There is no specific Baud Rate selection on the fax machine. You can change the V.34 setting to OFF to slow down the Baud Rate to 14.4k.\nRelated references\nSelect Communication Settings",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-203563?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CB45201~faq-203563",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:11.754359"
+        },
+        {
+          "question": "How do I use an answering machine with my fax?",
+          "answer": "Do the following:\nMake sure that your answering machine is connected to the EXT port on the Epson fax machine.\nSet the number of rings on the answering machine.\nSet the number of rings on the fax machine to a number greater than the answering machine (for example, if answering machine is set to 4, the fax must be set for 5 or more).\nEnsure that the answering machine is set to answer and the fax machine is set to Auto Answer.\nWhen the answering machine picks up a fax call, the fax machine listens on the line and if it detects the fax tones, it takes over the call and disconnects the answering machine.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-203565?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CB45201~faq-203565",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:12.721733"
+        },
+        {
+          "question": "My product is unable to receive faxes after I changed the number of rings to answer, V.34, and DRD settings. What should I do?",
+          "answer": "Do the following:\nPress the\nSetup\nbutton.\nPress\nor\nto select the\nRestore Default Settings\nbutton.\nPress\nor\nto select the\nReset Fax Send/Receive Settings\nbutton.\nYou see a Warning screen.\nPress\nYes\nto restore factory defaults.  (Select the\nNo\nbutton if you want to cancel the operation.)",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-203572?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CB45201~faq-203572",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:13.668879"
+        },
+        {
+          "question": "When I send a hand-written fax, the recipient can't read the fax content. What should I do?",
+          "answer": "Try writing your fax content with dark black or blue ink. Colored ink may not transfer properly. Also try changing the fax resolution to Fine or Photo. Note that selecting a higher resolution may slow down the fax speed slightly.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-203569?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CB45201~faq-203569",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:14.602221"
+        },
+        {
+          "question": "Will my fax still go through if I receive an ink expended or other error during transmission?",
+          "answer": "Yes, the fax will still go through unless the product is turned off.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-203575?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CB45201~faq-203575",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:15.549842"
+        },
+        {
+          "question": "When I use the EPSON Fax Utility to Fax from Microsoft Works, the text looks compressed or scrambled. What should I do?",
+          "answer": "Download version 1.20 of the Utility.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-203570?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CB45201~faq-203570",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:16.480510"
+        },
+        {
+          "question": "Can I use the Fax Utility software to send a fax over a wireless network?",
+          "answer": "You can use the FAX Utility to send a fax in both Windows and Mac OS X.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-203576?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CB45201~faq-203576",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:17.447565"
+        },
+        {
+          "question": "How do I confirm my fax was sent?",
+          "answer": "You can print a fax report to confirm the fax was sent. See\nPrint Fax Reports\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-203573?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CB45201~faq-203573",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:18.419705"
+        },
+        {
+          "question": "How do I clear the fax header on my product?",
+          "answer": "The Fax header can be cleared by using the product's control panel.  Do the following:\nPress\nMenu\n, press\nor\nto select\nRestore Default Settings\nand press\nOK\n.\nPress\nor\nto select\nReset Fax Data Setting\n.\nThis will reset the\nSpeed Dial\n,\nGroup Dial Setup\n,\nHeader\n, and\nFax Log settings\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-203577?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CB45201~faq-203577",
+          "display_order": 20,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:19.395012"
+        },
+        {
+          "question": "I can send a fax but can't receive one. What should I do?",
+          "answer": "Try the following:\nSet the Auto Answer setting on the product to\nOn\n.\nIf you're using an answering machine, make sure it's connected to the EXT port on the product (not a wall jack).\nMake sure paper is loaded correctly in your product.\nTurn call waiting off. Call waiting may disrupt an incoming fax.\nIf you connect an answering machine and\nAuto Answer\nis turned on, make sure the product's\nRings to Answer\nsetting is set higher than the number of rings your answering machine is set to answer a call.\nNote:\nIf your phone line includes voicemail answering services, calls or faxes may be inadvertently received by your voicemail service.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-205416?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CB45201~faq-205416",
+          "display_order": 21,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:20.381074"
+        },
+        {
+          "question": "What is the difference between Auto and manual answer?",
+          "answer": "Auto Answer\nis a built–in feature that will receive an incoming fax automatically.  With\nAuto Answer\nenabled, the unit should receive faxes without user intervention.  If\nAuto Answer\nis not enabled, the fax will ring only and never answer the phone.\nNOTE:\nIf you are able to send a fax but are unable to receive one,\nAuto Answer\nmay be disabled.\nTo receive faxes manually, turn off the\nAuto Answer\nfeature to enable manual answer mode.  User intervention is required to answer faxes in this mode:\nWhen your telephone rings, lift the phone off the hook.\nListen to distinguish whether the incoming call is a fax communication or a telephone call.\nIf the communication is a fax, select\nReceive\non the product's control panel, then press\nOK\n.\nPress the\nStart Button\n.\nReplace the phone back on the hook.\nNOTE\n: You do not need to wait until fax is finished, the fax will hang up automatically.\nRelated References\nReceive Faxes",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-208936?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CB45201~faq-208936",
+          "display_order": 22,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:21.371293"
+        },
+        {
+          "question": "I can receive faxes but not send them. What should I do?",
+          "answer": "Try the following solutions:\nMake sure the recipient's fax machine is turned on and working.\nIf you connected your product to a DSL phone line, you must connect a DSL filter to the phone jack to enable faxing over the line.  Contact your DSL provider for the necessary filter.\nIf your telephone line has static, first try turning off your product's\nV.34\nfax communication setting. If that doesn't work, try turning off your product's\nECM\n(Error Correction Mode) setting as well.\nNote\n: If your product is connected to a VoIP (Voice over Internet Protocol) phone line, you should be aware that fax machines are designed to work over analog phone lines.  Epson cannot guarantee that fax transmission will work when using VoIP.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-211173?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CB45201~faq-211173",
+          "display_order": 23,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:22.350158"
+        },
+        {
+          "question": "Do I need to use a filter if I fax over a VoIP (Voice over Internet Protocol) line?",
+          "answer": "No, the filters are only required if you have DSL service.\nBecause fax machines are designed to work over standard analog telephone lines, Epson does not guarantee that fax transmission will work over VoIP phone lines (cable systems such as Cox, Charter, Time Warner, Comcast, FiOS, magicJack, and Vonage).\nInternet traffic can interfere with faxing because VoIP communicates through the internet and not through standard analog telephone lines. The data sent over the internet for a fax is digitized into packets and this process can cause data loss.\nYou can try slowing the transmission speed of the fax by setting ECM on the product to\nOff\nand selecting a slower Fax Speed. If this does not help, contact your VoIP service provider for help.\nFor more information, please contact your telephone service provider.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-0000ae8-shared?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CB45201~faq-0000ae8-shared",
+          "display_order": 24,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:23.342188"
+        },
+        {
+          "question": "How many pages can I store in the fax memory?",
+          "answer": "The fax memory can store up to 180 pages.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-0000ad3-shared?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CB45201~faq-0000ad3-shared",
+          "display_order": 25,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:24.258008"
+        },
+        {
+          "question": "How do I add a pause when I enter a fax number on my product's control panel?",
+          "answer": "Press\nRedial/Pause\nto insert a pause symbol (-) when a brief pause is required during dialing.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-0000b09-shared?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CB45201~faq-0000b09-shared",
+          "display_order": 26,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:25.202182"
+        },
+        {
+          "question": "The fax header gets cut off when I send a fax. What should I do?",
+          "answer": "Enter 25 characters or fewer for the fax header. Although you can enter up to 40 characters for the fax header (including spaces) on the product, only the first 25 characters will be on the outgoing fax.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-00004a2-shared?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CB45201~faq-00004a2-shared",
+          "display_order": 27,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:26.181750"
+        },
+        {
+          "question": "I cannot access the fax settings on my product's control panel. What should I do?",
+          "answer": "If you're using a cordless phone with a base and the product is connected to the same phone line, make sure the cordless phone is in the phone cradle to access the fax settings on the control panel.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-00004a0-shared?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CB45201~faq-00004a0-shared",
+          "display_order": 28,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:27.141546"
+        },
+        {
+          "question": "Do I need a filter if I'm faxing over a DSL?",
+          "answer": "Yes, you must connect the appropriate DSL filter or ISDN terminal adapter or router to the wall jack to use the line for faxing or voice calls on your product. Contact your DSL or ISDN provider for the necessary equipment.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-00004a1-shared?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CB45201~faq-00004a1-shared",
+          "display_order": 29,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:28.099353"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Image Quality or Appearance",
+      "section_id": "8796127275084",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "An area I highlighted with a fluorescent (or neon) marker does not appear in my scan. What should I do?",
+          "answer": "Try using a non-fluorescent marker. This limitation occurs with some scanners that use a contact image sensor (CIS) and cannot detect fluorescent marks accurately, especially yellow marks.\nIf you need to scan a document with fluorescent marks, we recommend you use a scanner with charge-coupled device (CCD) technology or a full-color contact image sensor, both of which can detect fluorescent marks. The following Epson products feature CCD or full-color CIS optics:\nDS-30000\nDS-32000\nWorkForce DS-50000\nWorkForce DS-60000\nWorkForce DS-70000",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-00008c5-shared?faq_cat=faq-8796127275084",
+          "faq_slug": "SPT_C11CB45201~faq-00008c5-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:29.094143"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "How do I know when an ink cartridge needs to be replaced?",
+          "answer": "The printer's LCD screen will display a message when one or more of the ink cartridges is low or expended. You may also see a message on your computer screen.\nNote\n:\nWhen an installed ink cartridge is more than six months old, you may need to replace it if your printouts do not look their best even after you clean and align the print head.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-195265?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CB45201~faq-195265",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:30.074839"
+        },
+        {
+          "question": "Which ink cartridges should I use with my product?",
+          "answer": "You can use the following cartridges:\nInk color\nPart number\nStandard-capacity\nHigh-capacity\nBlack\n124\n126\nMagenta\n124\n126\nYellow\n124\n126\nCyan\n124\n126\nNote\n:\nWe recommend that you use genuine Epson cartridges and do not refill them. The use of other products may affect your print quality and could result in printer damage.\nCaution\n: Leave your old cartridges installed until you are ready to replace them to prevent the print head nozzles from drying out.  Do not open ink cartridge packages until you are ready to install the ink.Cartridges are vacuum packed to maintain reliability.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-195266?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CB45201~faq-195266",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:31.015475"
+        },
+        {
+          "question": "How long should an ink cartridge remain in my product if it's not used often?",
+          "answer": "When an installed ink cartridge is more than six months old, you may need to replace it if you notice that your printouts don't look as good as they used to and quality doesn't improve after cleaning and aligning the print head.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-195898?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CB45201~faq-195898",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:31.993998"
+        },
+        {
+          "question": "Can my product still print if an ink cartridge is expended or not installed?",
+          "answer": "The printer will not operate if a black ink cartridge is expended or any cartridge is removed. If a color cartridge is expended, you may be able to continue\nprinting temporarily with black ink\n. It's best to always have extra cartridges on hand.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-196789?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CB45201~faq-196789",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:32.929938"
+        },
+        {
+          "question": "The color ink cartridge is expended even though I print in black only. Why does this happen?",
+          "answer": "To keep the print head clear and ready to print, the printer uses a small amount of ink from all the cartridges whenever it prints. Even if you select\nBlack/Grayscale\n, or\nGrayscale\nsome color ink is still being used.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-196790?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CB45201~faq-196790",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:33.859512"
+        },
+        {
+          "question": "I replaced an ink cartridge and my product shows that the same ink cartridge is expended. What should I do?",
+          "answer": "If you have just installed a new cartridge and you still see an ink-related error, the cartridge may not be installed correctly.\nFollow the steps below to make sure the cartridge is installed correctly.\nNote\n:\nWe recommend that you use genuine Epson cartridges and do not refill them. The use of other products may affect your print quality and could result in printer damage.\nMake sure the printer is turned on.\nIf you see a message on the printer's display screen to install or replace an ink cartridge, press\nOK\n.\nOpen the scanner unit, then open the cartridge cover.\nNote\n:\nDo not move the print head by hand; otherwise, you may damage your product.  Do not touch the flat white cable inside the printer.\nPress down each ink cartridge until it clicks into place. (If a cartridge is properly seated already, you may not hear a click.)\nNote\n:\nWhen you installed the new cartridge, you should have removed the yellow tape from the bottom. If you know you removed it, skip to step 5. If you're not sure, you can pull out the cartridge to check. (Squeeze the tab on the cartridge and lift it straight up.) Remove the tape if necessary, then reinstall the cartridge, pressing it down firmly.\nCaution\n:\nDo not remove any other labels or seals, or ink will leak.\nWarning\n:\nIf ink gets on your skin, wash it thoroughly with soap and water. If ink gets into your eyes, flush them immediately with water. If ink gets into your mouth, spit it out and see a doctor right away.  Keep ink cartridges out of the reach of children.\nClose the scanner unit.\nPress\nOK\nto begin priming the ink.\nCaution:\nNever turn off your Epson printer while ink is charging or you'll waste ink.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-196792?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CB45201~faq-196792",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:34.845453"
+        },
+        {
+          "question": "I installed new ink cartridges and my product seems to be doing a long cleaning cycle. Is this normal?",
+          "answer": "Yes. It takes about 3 minutes for the printer to charge the ink delivery system when you install the first set of ink cartridges. When you replace the ink cartridges the printer takes about 2½ minutes to charge the ink.\nNote\n:\nNever turn off the printer while it is charging the ink delivery system (unless the printer hasn't moved or made noise for more than 5 minutes). This initialization is a normal and necessary process. If the printer initialization does not stop after 5 minutes, turn the printer off and contact Epson technical support for assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-196791?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CB45201~faq-196791",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:35.827976"
+        },
+        {
+          "question": "How do I change the ink cartridges?",
+          "answer": "See\nReplace Ink Cartridges\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-196799?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CB45201~faq-196799",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:36.800381"
+        },
+        {
+          "question": "Does my all-in-one printer support non-printing functions when an ink cartridge is expended or not installed?",
+          "answer": "See our\nFAQ page\non which non-printing functions are supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-0000d77-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CB45201~faq-0000d77-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:37.741993"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Memory Cards or External Devices",
+      "section_id": "8796127307852",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "Which memory cards are compatible with my product?",
+          "answer": "See\nCompatible Memory Cards\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197315?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CB45201~faq-197315",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:38.646075"
+        },
+        {
+          "question": "Can I just pull the memory card out of my product when I'm finished printing?",
+          "answer": "No. Before removing a memory card from the product, make sure the memory card access light is not flashing. Do not remove a card while the card light is flashing, or you may lose data on the card.\nCaution:\nDo not remove a card or turn off your product when its access light is flashing, or you may lose photos or files on the card.\nMake sure the memory card access light is not flashing.\nIf the product is connected to your computer by a USB cable (not a network connection), do one of the following:\nWindows\n:\nRight-click the name of your card (removable disk) in Computer, My Computer, or Windows Explorer, and select\nEject\n.\nMac OS X\n:\nDrag the\nremovable disk icon for your memory card from the desktop into the trash.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197314?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CB45201~faq-197314",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:39.573503"
+        },
+        {
+          "question": "How do I access a memory card inserted in my product over a network connection in OS X 10.6 or later?",
+          "answer": "Before you can access the memory card, make sure your product is connected to the network and the printer software is installed on the computer. Then follow these steps:\nInsert a memory card in your product's memory card slot.\nOpen the\nHard Drive\n.\nSelect\nShared\n>\nWorkforce 435\n>\nMEMORYCARD\n> files on the card should appear.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197345?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CB45201~faq-197345",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:37.957774"
+        },
+        {
+          "question": "What is the largest supported memory card for my product?",
+          "answer": "See our\nMaximum Memory Card Specifications\npage for the specifications.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197317?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CB45201~faq-197317",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:38.900764"
+        },
+        {
+          "question": "Can I read or write to my memory card when my product display indicates that one or more ink cartridges are expended?",
+          "answer": "Yes, you can read or write to a memory card when the installed ink cartridge is expended. However, you cannot read or write to a memory card if the ink cartridge is not installed.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-0000ab2-shared?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CB45201~faq-0000ab2-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:39.845134"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "Does the type of paper I use really make a difference?",
+          "answer": "The type of paper you choose affects the way your printout looks, so be sure to select the correct paper for your print job. If you are just making a copy or printing a rough draft of an image, plain paper is fine. However, for the best results, you'll want to use one of Epson's special ink jet papers.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-195888?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CB45201~faq-195888",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:40.841415"
+        },
+        {
+          "question": "I'm having paper feed problems. What should I do?",
+          "answer": "The solution for a paper problem depends on whether you are using the sheet feeder or the Automatic Document Feeder. See the solutions below.\nPaper Feeding Problems\nIf paper doesn't feed, remove it from the sheet feeder. Fan it, then stack and align the edges. Reload it against the right side, behind the tab, then squeeze the left edge guide and slide it against the paper. Make sure the paper is not above the arrow mark inside the left edge guide. Make sure the paper support extensions are fully extended\nIf multiple pages feed at once, remove the paper, fan the edges to separate the sheets, and reload it.\nDo not load more than the recommended number of sheets.\nIf paper jams when you print on both sides of the paper, try loading fewer sheets.\nFor best results, follow these guidelines:\nUse new, smooth, high-quality paper that is not curled, creased, old, too thin, or too thick.\nDo not load paper with holes punched in it.\nFollow any special loading instructions that came with the paper.\nPaper Jam Problems Inside the Product\nIf you see a message that paper has jammed inside the product, try these solutions:\nCancel the print job from your computer, if necessary.\nGently pull out any jammed paper from the output tray or sheet feeder\nIf paper is stuck inside, turn off the product.\nLift up the scanner unit, remove the jammed paper and torn pieces, lower the scanner unit, and turn the product back on.\nCarefully follow all paper loading instructions when you load new paper.\nPaper Jams in the Automatic Document Feeder\nIf you're loading legal-size paper, insert only 10 sheets at a time to prevent paper feeding problems.  If the LCD screen indicates that a paper jam has occurred, press\nOK\nand follow the instructions below:\nOpen the ADF cover and remove any jammed paper.\nCaution\n: Open the ADF cover before removing paper, or you could damage the mechanism.\nLift up the scanner unit, remove any jammed paper, then lower the scanner unit.\nClose the ADF cover and reload the paper. Make sure the corners of the paper are not bent, folded, or curled up.\nThe message on the LCD screen asks if paper has been removed. Press 1 to clear the message.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-196793?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CB45201~faq-196793",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:41.788239"
+        },
+        {
+          "question": "What kind of paper gives the best results for high quality printing?",
+          "answer": "For the best results, you'll want to use one of Epson's special ink jet papers designed for your printer. For example, your photos or presentations will look great printed on\nEpson Premium Photo Paper Glossy\n,\nEpson Premium Presentation Paper Matte\n, and\nEpson Bright White Paper\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-196801?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CB45201~faq-196801",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:42.731447"
+        },
+        {
+          "question": "How should I load envelopes?",
+          "answer": "See\nLoading Envelopes\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-196800?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CB45201~faq-196800",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:43.682442"
+        },
+        {
+          "question": "How do I know which paper or media type to select in my product's driver?",
+          "answer": "See\nPaper or Media Type Setting for Loaded Paper\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197247?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CB45201~faq-197247",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:44.636137"
+        },
+        {
+          "question": "Can I print on sheet labels?",
+          "answer": "Yes. You can use\nEpson Photo Quality Self-adhesive Sheets\n. A cutting grid is printed on the reverse side of each sheet for easy trimming. To avoid paper jams, load only one sheet at a time. Also, set the\nType\nor\nMedia Type\nsetting in the driver to\nPlain Paper/Bright White Paper\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197255?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CB45201~faq-197255",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:45.599645"
+        },
+        {
+          "question": "Can I print on vellum paper?",
+          "answer": "No. The product does not support printing on this type of media.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197302?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CB45201~faq-197302",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:46.542083"
+        },
+        {
+          "question": "Can I use hole-punched paper with my product?",
+          "answer": "No. The product does not support this paper type.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-0000ab4-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CB45201~faq-0000ab4-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:47.489012"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 9,
+      "faqs": [
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Try the following:\nThe print head nozzles may need\ncleaning\nSelect a higher\nQuality Option\nor\nPrint Quality\nin\nWindows\n,\nMac OS X 10.4\n, or\nMac OS X 10.5/10.6/10.7\nproduct software.\nMake sure the paper\nType or Media Type setting\nmatches the paper you loaded.\nMake sure the printable side of the paper is faceup.  It's usually brighter or whiter.\nThe ink cartridges may need\nreplacing\n.\nAlign\nthe print head.\nYour product won't operate properly if it's tilted or at an angle.  Place it on a flat, stable surface that extends beyond the base in all directions",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-195270?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CB45201~faq-195270",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:48.416524"
+        },
+        {
+          "question": "My printout has incorrect margins. What should I do?",
+          "answer": "Try the following:\nMake sure the paper settings are correct for your paper size in the\nWindows\n,\nMac OS X 10.4\n,or\nMac OS X 10.5/10.6/10.7\nproduct software.\nChoose the correct margins for your paper size in your printing program.\nUse the\nPrint Preview\noption in your\nWindows\n,\nMac OS X 10.4\n, or\nMac OS X 10.5/10.6/10.7\nproduct software to check your margins before you print.\nMake sure your paper is positioned next to the right side of the feeder",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-195271?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CB45201~faq-195271",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:49.370729"
+        },
+        {
+          "question": "My printout contains garbled characters when I print from Windows or my Mac. What should I do?",
+          "answer": "If you're printing from a Windows computer, try the following:\nMake sure you selected the correct printer in the application you're printing from.\nClear any stalled print jobs from the Windows Spooler by following these steps:\nWindows 7:\nClick\nand select\nDevices and Printers\n. Right-click your product name, select\nSee what's printing\n, right-click the stalled print job, click\nCancel\n, and click\nYes\n.\nWindows Vista:\nClick\nand select\nControl Panel\n. Click\nPrinter\nunder\nHardware and Sound\n, right-click your product name, select\nOpen\n, right click the stalled print job, click\nCancel\n, and click\nYes\n.\nWindows XP:\nClick\nStart\nand select\nPrinters and Faxes\n. (Or open the\nControl Panel\n, select\nPrinters and Other Hardware\nif necessary, and select\nPrinters and Faxes\n.) Right-click your product name, select\nOpen\n, right-click the stalled print job, click\nCancel\n, and click\nYes\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-195886?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CB45201~faq-195886",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:50.306847"
+        },
+        {
+          "question": "My printout is grainy when I print from any application. What should I do?",
+          "answer": "Try the following solutions:\nAlign the print head.\nYou may need to increase the image resolution or print in a smaller size; see your software documentation.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-195887?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CB45201~faq-195887",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:51.348439"
+        },
+        {
+          "question": "My printout has incorrect or missing colors. What should I do?",
+          "answer": "The problem could be due to a software setting, the product's condition, or the paper you're using. Check the following:\nFor best results, use genuine Epson ink and paper.\nClean the print head.\nThe ink cartridges may be old or low on ink, and you may need to replace them.\nYour printed colors can never exactly match your on-screen colors. However, you can use a color management system to get as close as possible. Try using the color management options in your printer software.\nAfter you print, the colors on your printout will take some time to set as the ink dries. During this time, the colors may look different than you expect. To reduce the drying time, avoid stacking your prints on top of each other.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-195891?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CB45201~faq-195891",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:52.268822"
+        },
+        {
+          "question": "My printout is blurry or smeared. What should I do?",
+          "answer": "Check the following:\nUse a support sheet with special paper, or load special paper one sheet at a time.\nMake sure your paper meets the specifications for your product.\nUse Epson papers to ensure proper saturation and absorption of genuine Epson inks.\nMake sure the paper type setting in your product software matches the type of paper you loaded.\nRemove each sheet from the output tray as it is printed.\nAvoid handling printouts on glossy paper right after printing to allow the ink to set.\nClean the print head.\nAlign the print head.\nNote:\nYour product will not operate properly while tilted at an angle. Place it on a flat, stable surface that extends beyond the base of the product in all directions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-195892?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CB45201~faq-195892",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:53.258631"
+        },
+        {
+          "question": "My printout has a slight slant. What should I do?",
+          "answer": "Try the following:\nSelect a higher print quality setting in your printer software.\nSlide the edge guides against the edges of the paper.\nAlign the print head.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-196796?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CB45201~faq-196796",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:54.268811"
+        },
+        {
+          "question": "The quality of my printed output is unacceptable. What should I do?",
+          "answer": "If the image looks fine on your computer screen but not when printed, make sure you're using the latest driver version for your printer. Also, make sure you select the correct quality option, paper type, paper size, and orientation setting in the printer software for your print job.\nIf the image also looks incorrect on screen and you're using Epson Scan, see\nImage Quality Problems\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-196794?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CB45201~faq-196794",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:55.246583"
+        },
+        {
+          "question": "My printout looks inverted, as if viewed in a mirror. What should I do?",
+          "answer": "Try the following solutions:\nTurn off the mirror setting in your printing program.\nTurn off the\nMirror Image\nsetting in the product software Page Layout window (\nWindows\n) or Print Settings windows (\nMac OS X 10.4\nor\nMac OS X 10.5/10.6/10.7\n).  (If you are printing on Epson Iron-on Cool Peel Transfer Paper, however, the image should be inverted.)",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-196795?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CB45201~faq-196795",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:56.276190"
+        },
+        {
+          "question": "My product's Fix Red-Eye setting does not fix the red eye in my photo. What should I do?",
+          "answer": "Due to the complexity and nature of some photographs, not all images can be corrected. If the product's\nFix Red-Eye\nsetting does not fix the photo, you'll need to use a software application to fix it.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197308?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CB45201~faq-197308",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:57.257986"
+        },
+        {
+          "question": "Web pages don't print the way they appear on my monitor. What should I do?",
+          "answer": "The pages may not print correctly due to the web page design. Try the following:\nCheck for a\nPrinter-friendly Version\n(or similarly named) option on the web page.\nChange the page setup and paper size settings, and select the preview option in your browser to check the changes before you print.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-00004b8-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CB45201~faq-00004b8-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:58.285349"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Scan",
+      "section_id": "8796127569996",
+      "section_order": 10,
+      "faqs": [
+        {
+          "question": "How do I decide which resolution to select when scanning from Epson Scan?",
+          "answer": "Select the scanning resolution based on how you will use your scanned image:\nE-mail, view on a computer screen, or post on the web:\n96 to 150 dpi\nFax:\n200 dpi\nPrint on an inkjet printer:\n300 dpi\nConvert to editable text (OCR):\n300 to 400 dpi\nIf you plan to enlarge the image so you can print it at a larger size, you may need to increase the resolution. If you are using Epson Scan, follow these guidelines:\nYou will enlarge the image as you scan it.\nIf you will enlarge the image in Epson Scan using the\nTarget Size\nsetting (Home and Professional Modes only), you don't need to increase the\nResolution\nsetting.\nYou will scan the image at its original size, but then enlarge it later in an image-editing program.\nIf you will enlarge your image later in an image-editing program, you need to increase the\nResolution\nsetting to retain a high image quality. Increase the resolution by the same amount you will increase the image size. For example, if the resolution is 300 dpi and you plan to increase the image size by 200% later, change the\nResolution\nsetting to 600 dpi.\nNote\n:\nHigher resolution settings result in larger file sizes. For example, an 8.5 x 11-inch original scanned at 300 dpi can produce a 24MB file. The same original scanned at 72 dpi creates only a 1.3MB file. Large files take longer to process and print, so consider the practical limitations of your computer system when selecting a resolution. To keep your file size manageable, select the lowest possible resolution that gives acceptable quality.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-195910?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CB45201~faq-195910",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:55:59.242905"
+        },
+        {
+          "question": "I want to enlarge an image that I'm scanning with Epson Scan. How do I obtain the best quality?",
+          "answer": "You should resize your image when you're scanning instead of enlarging it later in an image-editing program. You can do this using the Target Size setting in Home or Professional Mode.\nIf you are going to scan your image to a particular size, such as 8 x 10 inches, you should select the Target Size setting after previewing it but before adjusting your scan area (indicated by the marquee). This sets the scan area to the correct proportions so your image will not be cropped unexpectedly.\nNote\n:\nIf you plan to enlarge your image later in an image-editing program, you need to increase the\nResolution\nsetting to retain a high image quality after enlargement. Increase the resolution by the same amount you will increase the image size. For example, if the resolution is 300 dpi (dots per inch) but you will increase the image size by 200% in an image-editing program, change the\nResolution\nsetting to 600 dpi in Epson Scan.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-195911?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CB45201~faq-195911",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:00.180903"
+        },
+        {
+          "question": "The quality of a scanned image with Epson Scan is poor. What should I do?",
+          "answer": "The solution will depend on the problem you're having. See the solutions below for your problem.\nImage Consists of a Few Dots Only\nMake sure you placed your original for scanning facing the correct way.\nIf you are scanning using the Epson Scan\nBlack&White\nsetting, adjust the\nThreshold\nsetting and scan again.\nLine of Dots Appears in All Scanned Images\nIf a line of dots appears in all your scanned images, clean the scanner glass with a soft, dry, lint-free cloth, or use a small amount of glass cleaner on the cloth, if necessary. Paper towels are not recommended.\nCaution\n: Do not spray glass cleaner directly on the scanner glass.\nStraight Lines in an Image Appear Crooked\nMake sure to place your original straight when you scan it.\nImage is Distorted or Blurry\nMake sure your original is not wrinkled or warped.  This may prevent the original from laying flat on the scanner glass.\nDo not move your original or your product during scanning.\nYour product will not operate properly while tilted at an angle.  Place it on a flat, stable surface that extends beyond the base of the product in all directions.\nAdjust these Epson Scan settings (if available) and try scanning again:\nSelect the\nUnsharp Mask\nsetting.\nAdjust the\nAuto Exposure\nsetting.\nIncrease the\nResolution\nsetting.\nImage Colors are Patchy at the Edges\nIf you are scanning a thick or warped original, cover its edges with paper to block external light as you scan it.\nImage is Too Dark\nAdjust these Epson Scan settings (if available) and try scanning again:\nAuto Exposure\nBrightness\nHistogram Adjustment\nCheck the brightness and contrast settings on your computer monitor.\nBack of Original Image Appears in Scanned Image\nIf an image from the back of a thin original appears in your scanned image, place a piece of black paper on the back of the original and scan it again.\nRipple Patterns Appear in Image\nYou may see a rippled pattern (called a moir) in scanned images of a printed documents. This is caused by interference from the differing pitches in the scanner's screen and your original's halftone screen. To reduce this effect, adjust these Epson Scan settings (if available) and try scanning again:\nSelect the\nDescreening\nsetting.\nSelect a lower\nResolution\nsetting.\nScanned Image Colors Do Not Match Original Colors\nPrinted colors can never exactly match the colors on your computer monitor because printers and monitors use different color systems: monitors use RGB (red, green, and blue) and printers typically use CMYK (cyan, magenta, yellow, and black).\nCheck the color matching and color management capabilities of your computer, display adapter, and the software you are using to see if they are affecting the palette of colors you see on your screen.\nTo adjust the colors in your scanned image, adjust these Epson Scan settings (if available) and try scanning again:\nChange the\nImage Type\nsetting and experiment with different combinations of the next settings.\nAdjust the\nTone Correction\nsetting.\nAdjust the\nAuto Exposure\nsetting.\nScan Area Not Adjustable in Thumbnail Preview\nCreate a scan area by drawing a marquee on your preview image and adjusting it as necessary.\nSwitch to the Normal preview mode, if available, and preview your image again.\nScanned Image Edges are Cropped\nIf the edges of a scanned image are cropped, make sure your original is placed correctly for scanning.  If necessary, move your original away from the edges of the scanner glass slightly.\nYou can place documents or photos up to a letter - or A4 - size on the scanner glass.\nWhen using the Automatic Document Feeder (ADF) to scan images, make sure the correct document sized is used.  You can scan up to 30 letter- or A4-size sheets at a time and when loading legal-size sheets insert only 10 sheets.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197318?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CB45201~faq-197318",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:01.196366"
+        },
+        {
+          "question": "I cannot scan from my computer with the Image Capture application. What should I do?",
+          "answer": "ry the following:\nMake sure the product is turned on and securely connected to your computer.\nThe scanner software will not work if any of the printer's ink cartridges are expended. Check the\ncartridge status on the LCD screen\nand\nreplace the ink cartridges\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197320?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CB45201~faq-197320",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:02.160618"
+        },
+        {
+          "question": "I cannot scan from my computer with Epson Scan. What should I do?",
+          "answer": "Try the following solutions:\nMake sure the product is turned on and securely connected to your computer.\nMake sure Epson Scan is selected as your scanning program.\nMake sure your product and computer are not running in a power-saving mode, such as sleep or standby.  If so, wake your system and restart Epson Scan.\nTry restarting your computer.\nMake sure you installed all the software correctly.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197319?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CB45201~faq-197319",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:03.142179"
+        },
+        {
+          "question": "What is the maximum number of pages that I can scan into one PDF file?",
+          "answer": "See the specifications below for the version of Epson Scan that you are using:\nEpson Scan version\nNumber of pages\nv1.0 through v3.04\n100\nv3.05 through 3.2x\n200\nv3.30 or later\n999\nNote\n: You can check your version by launching Epson Scan and viewing the initial startup screen. To get the latest supported version of Epson Scan for your product, see the Downloads tab on the product support page for your product.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-229527?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CB45201~faq-229527",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:04.095706"
+        },
+        {
+          "question": "Can I use Epson Scan with my Mac?",
+          "answer": "Yes. To use it, you'll need to download and install the software from the Downloads tab for your product.\nDo the following:\nGo to the Downloads tab for your product. Make sure your Operating System is selected.\nSelect\nDrivers\n, then\nScanner Driver and EPSON Scan Utility\n.\nClick\nDownload\nand follow the on-screen instructions to install the software.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-238766?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CB45201~faq-238766",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:05.051911"
+        },
+        {
+          "question": "The orientation of some pages change from portrait to landscape when I scan multiple pages with Epson Scan and save them as a PDF. What should I do?",
+          "answer": "This happens if ABBYY Fine Reader is installed and you selected\nCreate searchable PDF\nin Epson Scan. (The\nCreate searchable PDF\noption saves the PDF file in a format that allows you to search for text within the document.)\nFollow these steps to disable this setting:\nStart Epson Scan.\nClick the file folder icon next to the\nScan\nbutton. The File Save Settings window appears.\nUnder Image Format, select\nPDF\nfor the Type setting.\nClick the\nOptions\nbutton.\nClick the\nText\ntab.\nDeselect\nCreate searchable PDF\n.\nClick\nOK\nto save your changes.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-0000abe-shared?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CB45201~faq-0000abe-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:05.995439"
+        },
+        {
+          "question": "How do I scan a document so I can edit the text in a word processing program?",
+          "answer": "You can scan a document and convert the text into data that you can edit with a word processing program using a process called OCR (Optical Character Recognition). To scan and use OCR, you need to use an OCR program.\nOCR software cannot recognize handwritten characters, and certain types of documents or text may be difficult for OCR software to recognize, such as:\nItems that have been copied from other copies\nFaxes\nText with tightly spaced characters\nText that is in tables or underlined\nCursive or italic fonts and font sizes less than 8 points",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-0000508-shared?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CB45201~faq-0000508-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:07.042873"
+        },
+        {
+          "question": "Can I scan if an ink cartridge is expended in the product?",
+          "answer": "You can scan from your computer with Epson Scan, but you can't copy or scan from the product's control panel.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-0000bf4-shared?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CB45201~faq-0000bf4-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:07.960207"
+        },
+        {
+          "question": "How do I scan a photo without scanning the entire scanner glass?",
+          "answer": "Use the Thumbnail preview option when you scan.  The option is available only in Home or Professional Mode.\nSee below for instructions.\nHome Mode\nPlace your original(s) on the scanner glass.\nStart Epson Scan and select\nHome Mode\nif necessary.\nSelect\nPhotograph\nas the Document Type.  Click the\nThumbnail\ncheck box.\nClick\nPreview\n.  Your photo is selected automatically as the scan area with a blue marquee.\nSelect\nScan\n, then click\nOK\n.\nProfessional Mode\nPlace your original(s) on the scanner glass.\nStart Epson Scan and select\nProfessional Mode\nif necessary.\nSelect\nDocument Table\nas the Document Source and select\nPhoto\nas Auto Exposure Type.\nClick the\nThumbnail\ncheck box.\nClick\nPreview\n.  Your photo is selected automatically as the scan area with a blue marquee.\nSelect\nScan\n, then click\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-253187-shared?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CB45201~faq-253187-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:08.942600"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 11,
+      "faqs": [
+        {
+          "question": "How do I install the software for my product?",
+          "answer": "You can install the product's software using the CD that came with it or download the drivers and utilities from the Downloads tab for your product.\nIf you download the software you will ensure you have the latest driver version for your product. Only Epson drivers and utilities are available for download. Any third-party software that came with the product is available only on the CD that came with it.\nTo download and install the drivers and utilities, follow the steps below:\nMake sure the product is not connected to your computer. (If necessary, you will be prompted to connect it during the installation process.)\nDownload the Drivers and Utilities Combo Package for your operating system. Make a note of the file name and save the location so you can easily retrieve it.\nOpen the file you downloaded, and follow the on-screen instructions to install the software.\nTo install the software using the CD that came with your product, follow the software installation instructions on the\nStart Here\nsheet.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197244?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB45201~faq-197244",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:09.883365"
+        },
+        {
+          "question": "How do I uninstall the Epson printer and Epson Scan software in Windows or OS X?",
+          "answer": "Follow the instructions below for your operating system.\nWindows\nTurn off the product.\nIf the product is connected with a USB or Ethernet cable, disconnect it from the product.\nClick\nStart\nor\n, and select\nAll Programs\nor\nPrograms\n.\nSelect\nEPSON\n, select your product, then select\nEPSON Printer Software Uninstall\n.\nNote\n:\nIf you see a User Account Control window, click\nYes\nor\nContinue\n.\nSelect your product and click\nOK\n.  The follow the on-screen instructions.\nOpen the Windows\nControl Panel\nutility.\nIn Windows 7 and Windows Vista, select\nPrograms and Features\n.  If you're using Classic view, select\nPrograms\n, then click\nunistall a program\n.\nIn Windows XP, double-click\nAdd or Remove Programs\n.\nClick\nEpson Event Manager\nin the list of currently installed programs and click\nUnistall/Change\n(Windows 7 or Windows Vista) or\nChange/Remove\n(WindowsXP).  Click\nYes\nor\nContinue\nif necessary.\nClick\nEpson Scan\nin the list of currently installed programs and click\nUnistall/Change\n(Windows 7 and Windows Vista) or\nChange/Remove\n(Windows XP).  Click\nYes\nor\nContinue\nif necessary.\nClick\nNext\n.\nIn some cases, a message may appear to prompt you to restart the computer.  If so, make sure\nYes, I want to restart my computer now\nis selected and click\nFinish\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197245?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB45201~faq-197245",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:08.330010"
+        },
+        {
+          "question": "Can I select a print resolution by indicating a specific dpi (dots per inch) setting?",
+          "answer": "No. The print resolution is determined by other driver settings.\nIn Windows, the\nQuality Option\nand paper\nType\nsettings determine the print resolution.\nIn Mac OS X, the resolution settings depend on the\nMode\nsetting.\nNote\n:\nTo access the resolution settings in Mac OS X, select\nPrint\nfrom the File menu. Then select\nPrint Settings\nfrom the pop-up menu.\nIf you've selected\nAutomatic\nas the\nMode\nsetting, the resolution is determined by the\nMedia Type\nand\nPrint Quality\nsetting.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197246?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB45201~faq-197246",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:09.271492"
+        },
+        {
+          "question": "How do I set default print settings when I print from Windows or my Mac?",
+          "answer": "When you change your print settings from within a program, the changes apply only while you're printing at that time in the open program. If you want to select different settings to use in all your programs, you can change the default print settings in Windows or save a preset of printer options on Mac. Follow the steps below for your operating system.\nWindows\nRight-click the\nprinter icon in the task bar (bottom-right corner of your screen), and select\nPrinter Settings\n.\nIf you don't see the icon, see\nNo Printer Icon Appears in Windows Taskbar\nfor instructions on making it appear or do one of the following:\nWindows 7\n: Click\nand select\nDevices and Printers\n.\nWindows Vista\n: Click\n, select\nControl Panel\n, and click\nPrinter\nunder\nHardware and Sound\n.\nWindows XP\n: Click\nStart\n, and select\nControl Panel\nthen select\nPrinters and Faxes\n(or\nPrinters and Other Hardware\nand then\nPrinters and Faxes\n)\n.\nRight-click your product name and select\nPrinting Preferences\n.\nClick the\nMaintenance\ntab.\nClick the\nSpeed & Progress\nbutton, rhen click the\nMonitoring Preferences\nbutton\n.\nClick the\nShortcut Icon\nbox.  The click\nOK\nto close the open program windows\n.\nMac OS X\nOpen a document and select\nPrint\nfrom the File menu.\nDefine the print settings you want to save.\nNote\n:\nSome options may not be able to be saved in a preset.\nClick the\nPresets\npop-up menu and select\nSave As.\nEnter a name for your preset, and choose whether this preset can be used with any printer or only with the currently selected printer.\nClick\nOK\n.\nWhen you are ready to print with the preset you saved, click the\nPresets\npop-up menu, select your preset from the list, and click\nPrint\n. Once a preset has been selected, it will continue to be automatically selected in the print dialogue until another preset is selected. To go back to the original default print settings, select\nStandard\nfrom the\nPresets\npop-up menu.\nIf you don't want to create a preset and simply want to print with the last print settings you selected, select\nLast Used Settings\nin the\nPresets\npop-up menu.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197249?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB45201~faq-197249",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:10.244293"
+        },
+        {
+          "question": "How do I turn off Epson Status Monitor in Windows?",
+          "answer": "Do the following:\nRight-click the\nprinter icon in the task bar (bottom-right corner of your screen), and select\nPrinter Settings\n.\nDo one of the following:\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\n, and select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows XP\n: Click\nStart\n, and select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n. Right-click your printer and select\nPrinting Preferences\n.\nClick the\nMaintenance\ntab.\nClick\nSpeed & Progress\n.\nSelect\nDisable EPSON Status Monitor 3\n.\nClick\nOK\nas necessary to save your settings.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197253?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB45201~faq-197253",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:11.173154"
+        },
+        {
+          "question": "Which wireless security modes does my product support?",
+          "answer": "The following wireless security modes are supported: WEP (64/128bit), WPA-PSK (TKIP/AES), and WPA2.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197336?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB45201~faq-197336",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:14.310757"
+        },
+        {
+          "question": "What information do I need to know before I install my product on my wireless network?",
+          "answer": "You'll need to know the following:\nWirelss network name (SSID)\n(This is the name of the wireless network that is set up on your router or access point.)\nWEP Key or WPA Passphrase\n(This is the wireless network password.)\nThis information is stored in your network's router and may have been entered when the router was first set up. If you don't have this information, contact the person who set up your network before you begin. You may also be able to log onto the router from your computer and check its setup screens. See your router's instruction manual for details.\nNote\n:\nThe network name and security key or passphrase are case sensitive. Be sure to correctly note uppercase, lowercase, and numeric/special letters.\nThe product supports the following wireless security modes: WEP (64/128bit), WPA-PSK (TKIP/AES), and WPA2.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197334?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB45201~faq-197334",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:15.737750"
+        },
+        {
+          "question": "During a wireless network installation, my product could not find or connect to the wireless network. What should I do?",
+          "answer": "Try the following solutions:\nMake sure to place your product within contact range of your router or access point.\nNote\n: Avoid placing your product near a microwave oven, 2.4 GHz cordless phone, or large metal object, such as a filing cabinet.\nVerify that your router or access point is operating correctly by connecting to it from your computer or another device.\nYou may need to disable the firewall and any anti-virus software on your wireless router or access point.\nCheck to see if access restrictions, such as MAC address filtering, are set on the router or access point.  If access restrictions are set, add your product's MAC address to your router's address list.  To obtain your product's MAC address, print a network status sheet.  Then follow the instructions in your router or access point documentation to add the address to the list.\nIf your router or access point does not broadcast its network name (SSID), follow the instructions that came with your product to enter your wireless network name manually.\nIf your router or access point has security enabled, determine the kind of security it is using and any required password or passphrase for connection.  Then make sure to enter the exact WEP key or WPA passphrase correctly.\nMake sure your router supports the frequency of 2.4 GHz.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197339?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB45201~faq-197339",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:16.916885"
+        },
+        {
+          "question": "I'm having problems installing the software. What should I do?",
+          "answer": "See the suggestions below for your connection type.\nUSB\nMake sure you followed the software installation instructions on the\nStart Here\nsheet. If the installation fails, make sure the printer is turned on and the USB cable is securely connected at both ends.\nIf you're still having problems, disconnect the USB cable and uninstall the printer software, then reinstall it.\nBefore reinstalling the software, check for the following:\nMake sure the printer is not connected to your computer. (You will be prompted to connect it during the installation process.) You must connect the printer to your computer at the correct time to make sure the printer software is installed correctly on your computer.\nMake sure your system meets the requirements.\nMake sure all applications (including any screen savers, virus protectors, and firewall software) are closed.\nMake sure you have administrative rights or software installation privileges to your computer.\nIn Windows, make sure the USB Controller is working properly in Device Manager. See your Windows help system for details. If it's not working, contact your computer manufacturer.\nWireless network\nBefore installing the software, make sure you set up your product as described on the Start Here sheet.\nIf you're still having problems, uninstall the printer software, then reinstall it.\nBefore reinstalling the software, check for the following:\nIf you're setting up the printer for the first time, make sure you have the correct SSID (wireless network name) and if security is enabled, the wireless network password (WEP key or WPA passphrase).\nThis information is stored in your network's router and you may be able to access it by logging onto the router from your computer and checking its setup screens. If you are unable to access the information, contact the person who set up your network or the manufacturer of your router or access point for details. (Epson will not be able to provide this information to you.) You'll need to know the SSID and wireless network password before you set up the printer.\nNote\n:\nThe SSID and security key or passphrase are case sensitive. Be sure to correctly note uppercase, lowercase, and numeric/special letters.\nThe printer supports the following wireless security modes: WEP (64/128bit), WPA-PSK (TKIP/AES), and WPA2.\nMake sure your system meets the requirements.\nMake sure all applications (including any screen savers, virus protectors, and firewall software) are closed.\nMake sure you have administrative rights or software installation privileges to your computer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197344?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB45201~faq-197344",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:18.090720"
+        },
+        {
+          "question": "I've tried to install my product's software for a wireless connection, but cannot complete the installation. What should I do?",
+          "answer": "Try the following:\nImportant:\nMake sure you know your network's security settings before you set up your product on your wireless network. Epson will not be able to provide this information for you. If you don't know this information, you'll need to contact the manufacturer of your router or the person who set up your network.\nIf you know your security settings, continue with these steps:\nReset the product's network settings.\nTurn your router off and back on.\nWarning:\nIf your router is connected to other devices, you may need to re-establish the connection for the other devices on the network.\nSet up the product for a wireless connection.\nNote:\nClose all applications (including any screen savers, virus protectors, and firewall software) before you install the software.\nUninstall the printer software, then reinstall the printer software.\nIf the steps above do not help, check the additional troubleshooting tips below, then try steps 1 through 4 again.\nIf your wireless router or access point is set to not broadcast its Network name (SSID), you'll need to enter the SSID manually in the printer's setup software. If your wireless router or access point has wireless security enabled, you'll also need to know what kind of security it is using. Epson will not be able to provide this information to you. If you don't know this information, you'll need to contact the manufacturer of your router or the person who set up your network.\nMake sure the product is within range of the wireless router or wireless access point.\nAvoid placing the printer near a microwave oven, 2.4 GHz cordless phone, or large metal objects such as a filing cabinet.\nCheck to see if access restrictions, such as MAC address filtering, are set on the router or access point. If access restrictions are set, add your product's MAC address to your router's address list. If you're unsure on how to do this, contact the manufacturer of your router for instructions. To obtain your product's MAC address, print a network status sheet.\nDisable any settings (such as\nAP Isolation\n,\nClient Isolation\n, or\nPrivacy Separator\n) on your wireless router or access point that would prevent wireless devices from communicating with each other.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197343?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB45201~faq-197343",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:19.255997"
+        },
+        {
+          "question": "How do I enable Email Print in Windows?",
+          "answer": "Do the following:\nInstall your product's network driver as instructed on the\nStart Here\nposter.\nClick\nor\nStart\n, and select\nAll Programs\nor\nPrograms\n, then\nEPSON\n, and then\nEpson Connect Printer Setup\n.\nWhen you see the screen below, check\nPrinter Registration\n.\nAccept the license agreement, if you agree to it.\nAllow the printer to be discovered.\nWhen you see the screen below, select your product, then click\nNext\n.\nWhen you see the next window, an email address will be assigned to your product.  A confirmation sheet will print for your records.\nClick\nNext\n.\nIf this is your first time signing up, click\nRegister\n, otherwise sign in if you already have an account.\nEnter your username and password and click\nRegister\nor sign in again.\nEmail print should be enabled on your product and an owner's account has been created.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197969?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB45201~faq-197969",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:20.462809"
+        },
+        {
+          "question": "How do I enable Email Print on my Mac?",
+          "answer": "Do the following:\nNote\n: If you don't see the Download Navigator in the EPSON Software folder, go to the Downloads tab for your product and download the utility.\nDownloading and Installing the Download Navigator\nInstall your product's network driver as instructed on the\nStart Here\nposter.\nOpen the\nApplication\nfolder.\nOpen the\nEPSON Software\nfolder.\nClick and download the\nDownload Navigator\nutility.\nWhen you see the screen below, click\nInstall\n.\nClick\nYes\n.\nClick\nContinue\n.\nClick\nContinue\nagain.\nAccept the license agreement, if you agree to it, and click\nContinue\n.\nClick\nInstall\n.\nClick\nContinue\n.\nWhen you see the\nInstallation was Successful\nscreen, click\nClose\n.\nEnabling Email Print\nMake sure the printer is powered on.\nOpen the\nApplication\nfolder.\nOpen the\nEPSON Software\nfolder.\nClick the\nDownload Navigator\nand allow it to search for product updates.\nOnce the Download Navigator is complete, click\nEpson Connect Printer Setup\n, then click\nInstall\n.\nNote\n: To ensure your product has updated drivers, utilities, and firmware, Epson recommends updating all of the items found by the Download Navigator.\nWhen you see the screen below, click\nPrinter Registration\n, then\nNext\n.\nAccept the license agreement, if you agree to it.\nAllow for the printer to be discovered.\nWhen you see the screen below, select your product, then click\nNext\n.\nWhen you see the next screen, an email address will be assigned to your printer. A confirmation sheet will print for your records.\nClick\nNext\n.\nIf this is your first time signing up, click\nRegister\n, otherwise sign in if you already have an account.\nEnter your username and password and click\nRegister\nor sign in again.\nEmail print should be enabled on your product and an owner's account has been created.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197979?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB45201~faq-197979",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:21.980143"
+        },
+        {
+          "question": "Can an unauthorized user access my network if I select Unblock or Allow during the EpsonNet Setup software installation?",
+          "answer": "No. This selection will only unblock or allow the EpsonNet Setup software access to your network (which is necessary for your computer to communicate with your all-in-one over your network).",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-0000ab1-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB45201~faq-0000ab1-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:23.246681"
+        },
+        {
+          "question": "My Microsoft Office 2013 applications crash in Windows after I installed my Epson product software. What should I do?",
+          "answer": "You'll need to update the ABBYY FineReader software. ABBYY FineReader installs a Microsoft Office Integration add-in which is not compatible with Microsoft Office 2013.\nOpen ABBYY FineReader, select\nHelp\n, then select\nCheck for Updates Now\n.\nIf an update is available, a web page should appear. Click\nDownload update\n. Make a note of the file name and save location so you can easily retrieve it later. If an update is not available, please contact Epson Support.\nClose ABBYY FineReader.\nDo one of the following to uninstall ABBYY FineReader:\nWindows 8\n: Navigate to the\nStart\nscreen, right-click the screen, and select\nAll apps\n. Select\nControl Panel\n>\nPrograms and Features\n. Select the uninstall option for ABBYY FineReader, then select\nUninstall/Change\n.\nWindows (other versions)\n: Click\nor\nStart\n, and select\nControl Panel\n>\nAdd/Remove Programs\nor\nUninstall a program\n. Select\nABBYY FineReader\n, click\nChange/Remove\n, then follow the on-screen instructions to remove the software.\nDouble-click the file you downloaded in step 2. Follow the on-screen instructions to install the ABBYY FineReader update.\nOpen a Microsoft Office 2013 application and check if the problem is resolved.\nIf the problem is gone, you're done.\nIf you still have a problem, please contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-0000aba-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB45201~faq-0000aba-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:24.453450"
+        },
+        {
+          "question": "I cannot launch the EPSON Event Manager, how do I uninstall and reinstall the application?",
+          "answer": "Do the following:\nDownload the Uninstall Center Utility from the Downloads tab for your product.\nExtract the contents of the zip file you downloaded onto your hard drive.\nQuit all applications currently running on your Mac.\nOpen the\nApplications\n>\nEpson software\nfolder.\nDouble-click the\nEPSON Scan Uninstaller\nicon.\nSelect\nUninstall\n, then click the\nUninstall\nbutton.\nFollow the on-screen instructions to uninstall the software.\nDelete the\nCommon\nfolder and\nEvent Manager\nin the Mac's Application folder (\nHard drive\\Applications\\Epson software\n).\nDelete the highlighted files and folders below from the Mac's Library Preferences folder (\nHard drive\\Users\\login_name\\Library\\Preferences\n).\nRestart your computer.\nRe-install EPSON Scan and the Event Manager from the product software CD or from the Downloads tab for your product.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-0000957-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB45201~faq-0000957-shared",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:25.665282"
+        },
+        {
+          "question": "Does my product support Epson Connect?",
+          "answer": "No, your product is not compatible.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-0000af9-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB45201~faq-0000af9-shared",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:26.820883"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "The following options are available:\nYou can use Epson Download Navigator (which is installed the first time you install the printer driver) to notify you when new updates are available for download. Download Navigator analyzes the Epson software (drivers, utilities, firmware, etc.) already installed on your computer and notifies you if new updates are available for download.\nIf you've already installed a Windows printer driver, you can update the driver by selecting\nDriver Update\non the Maintenance tab in the printer driver settings window.\nIf you're using a Mac, you can update the driver selecting\nSoftware Update\nin the\nmenu.\nYou can download the software from the Downloads tab for your product.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-0000afc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB45201~faq-0000afc-shared",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:27.953379"
+        },
+        {
+          "question": "Can I use the Epson iPrint app with my iOS device?",
+          "answer": "Yes. See our\nFAQ\npage for the app for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-0000b04-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB45201~faq-0000b04-shared",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:29.116448"
+        },
+        {
+          "question": "Can I use the Epson iPrint app with my Android device?",
+          "answer": "Yes. See our\nFAQ\npage for the app for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-0000b05-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB45201~faq-0000b05-shared",
+          "display_order": 20,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:30.431650"
+        },
+        {
+          "question": "Who do I contact for support on the software that came with my product?",
+          "answer": "Contact Epson for support on Epson software. For questions about any other software that came with your printer, contact the manufacturer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-110871-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB45201~faq-110871-shared",
+          "display_order": 21,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:31.566284"
+        },
+        {
+          "question": "Where can I find the IP address of my router?",
+          "answer": "Most wireless routers have a default IP address that can usually be found in the router's documentation.\nFor more support on your router, contact the manufacturer of your router.\nYou can also print a network status sheet from your printer's control panel to find your router's IP address.\nNote:\nThe network status sheet will list your router’s IP address only if you have set up your printer with a network connection to the router. If you print a network status sheet before setup, the router's IP address will not be listed on the network status sheet.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-00004c0-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB45201~faq-00004c0-shared",
+          "display_order": 22,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:32.933067"
+        },
+        {
+          "question": "How do I add my product as an IP printer on my Mac?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n.\nSelect your printer, if necessary.\nClick\n+\nor\nAdd Printer, Scanner, or Fax\nand select\nIP\non the toolbar.\nSelect a protocol. If you do not know which protocol to choose, leave it as\nLine Printer Daemon-LPD\n.\nClick the\nAddress\nfield and enter your printer's IP address. You see the message\nGathering printer information\nas your Mac connects to the printer.\nClick\nAdd\nafter your printer appears in the Use field to create a printer queue. If your printer does not appear in the Use field, select\nAuto Select\nfrom the drop-down box.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-00004ba-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB45201~faq-00004ba-shared",
+          "display_order": 23,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:34.255658"
+        },
+        {
+          "question": "How do I change the font size of text when I print from software in Windows?",
+          "answer": "You need to select the text or font size in the software you are printing from, not the printer driver. For detailed instructions, contact the company for the application you are printing from.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-00004b7-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB45201~faq-00004b7-shared",
+          "display_order": 24,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:35.433918"
+        },
+        {
+          "question": "I can't get Epson Status Monitor to work over my wireless network. What should I do?",
+          "answer": "If the product is not shared, make sure it is connected to the network wirelessly. Try moving your product or computer to a different location within range of your wireless network. Avoid placing the computer, product, or wireless access point near microwaves, cordless telephones, or other sources of wireless interference.\nIf the product is set up as a shared printer, Epson Status Monitor will not work and is not supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-00004c7-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB45201~faq-00004c7-shared",
+          "display_order": 25,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:36.669098"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB45201~faq-00004dc-shared",
+          "display_order": 26,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:37.814492"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB45201~faq-0000f4b-shared",
+          "display_order": 27,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:38.963355"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB45201~faq-0000f4c-shared",
+          "display_order": 28,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:37.658191"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB45201~faq-0000f4d-shared",
+          "display_order": 29,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:38.820595"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Wireless or Wired Connection",
+      "section_id": "8796127635532",
+      "section_order": 12,
+      "faqs": [
+        {
+          "question": "How do I connect my product to my wireless network using my product's control panel?",
+          "answer": "See\nSelecting Wireless Network Settings From the Control Panel\nfor instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197337?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CB45201~faq-197337",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:40.031735"
+        },
+        {
+          "question": "How do I find my SSID and network password?",
+          "answer": "Check your router documentation for this information. Most routers have a default SSID and password that can be modified once the router is set up.\nNote:\nThe SSID is the name of the wireless network that is set up on your router or access point.\nIf you don't know this information, you'll need to contact the manufacturer of your router or the person who set up your network.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-0000ae9-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CB45201~faq-0000ae9-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:41.268260"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 13,
+      "faqs": [
+        {
+          "question": "When printing in Windows, how can I prevent an extra page from being ejected after every print job?",
+          "answer": "The Separator Page function may be enabled. Follow these steps to disable it:\nDo one of the following:\nWindows 7\n: Click\n, and select\nDevices and Printers\n.\nWindows Vista\n: Click\n, and select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n.\nWindows XP\n: Click\nStart\n, and select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n.\nRight-click your printer icon, and then select\nPrinter Properties\n(Windows 7) or\nProperties\n(Windows Vista or Windows XP).\nClick the\nAdvanced\ntab, then click the\nSeparator Page\nbutton. A Separator Page window appears.\nDelete the information in the text box.\nClick\nOK\nas necessary to save your settings.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-195885?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CB45201~faq-195885",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:42.566207"
+        },
+        {
+          "question": "How should I transport my product?",
+          "answer": "See\nTransporting Your Product\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197251?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CB45201~faq-197251",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:43.691210"
+        },
+        {
+          "question": "What does a flashing Auto Answer light mean?",
+          "answer": "The Auto Answer light flashes to indicate that the product has received a fax and stored it in memory because the product was not able to print it.\nCheck the following:\nYou will need to\nreplace any ink cartridge\nthat are expended.  Once the cartridge is replaced and the product has finished charging them, it will automatically print the faxes stored in memory.\nMake sure\npaper is loaded\ncorrectly in the sheet feeder.\nMake sure there are no\npaper jams in the printer\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-197328?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CB45201~faq-197328",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:45.163048"
+        },
+        {
+          "question": "My product makes noise after I turn it on or after it has been sitting for a while. What should I do?",
+          "answer": "This is normal. It is performing routine maintenance.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-000096b-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CB45201~faq-000096b-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:46.313267"
+        },
+        {
+          "question": "My product will not wake up when I try to print with a wireless connection. What should I do?",
+          "answer": "Turn the product off and on. If you can print now, the problem is related to your wireless router. Contact the manufacturer of your router for assistance or try using a different router.\nIf you cannot print after turning the product off and on, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-00004c8-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CB45201~faq-00004c8-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:47.449970"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CB45201~faq-00004b0-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:48.582309"
+        },
+        {
+          "question": "What security measures does Epson recommend for its network products?",
+          "answer": "To help deter unauthorized access to your product over a network, you should protect your network environment using appropriate security measures.\nSecurity measures such as these can help deter threats such as loss of user data, use of telephone and fax lines, and other intrusions:\nEnable security on your wireless LAN if your product supports a wireless connection\nEnable the appropriate security on the wireless LAN you plan to use with your product. Network security, such as a network password, can deter interception of traffic over the wireless LAN. Your router may already have a default password enabled by your Internet service provider (ISP). See your ISP and router documentation for instructions on how to change the default password and better secure your network.\nConnect your product only to a network protected by a firewall\nConnecting your product directly to the Internet may leave it vulnerable to security threats. Instead, connect it to a router or other networking device protected by a firewall. Your router may already have a firewall set up by your Internet service provider; check with your ISP for confirmation. For best results, set up and use a private IP address for your network connection.\nChange the default administrator password on your product\nIf your product has an option to set an administrator password, change the default administrator password to deter access by unauthorized users to personal data stored on your product, such as IDs, passwords, and contact lists. See the product's User's Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-0000a05-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CB45201~faq-0000a05-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:49.776427"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB45201~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CB45201~faq-0000f4a-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-435/s/SPT_C11CB45201",
+          "fetched_at": "2026-04-01T01:56:50.983265"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

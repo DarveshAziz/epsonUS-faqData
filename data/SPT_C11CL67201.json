@@ -1,0 +1,366 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "SureColor Series",
+  "model": {
+    "name": "Epson SureColor S7170",
+    "sku": "SPT_C11CL67201",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "What security measures does Epson recommend for its network products?",
+          "answer": "To help deter unauthorized access to your product over a network, you should protect your network environment using appropriate security measures.\nSecurity measures such as these can help deter threats such as loss of user data, use of telephone and fax lines, and other intrusions:\nEnable security on your wireless LAN if your product supports a wireless connection\nEnable the appropriate security on the wireless LAN you plan to use with your product. Network security, such as a network password, can deter interception of traffic over the wireless LAN. Your router may already have a default password enabled by your Internet service provider (ISP). See your ISP and router documentation for instructions on how to change the default password and better secure your network.\nConnect your product only to a network protected by a firewall\nConnecting your product directly to the Internet may leave it vulnerable to security threats. Instead, connect it to a router or other networking device protected by a firewall. Your router may already have a firewall set up by your Internet service provider; check with your ISP for confirmation. For best results, set up and use a private IP address for your network connection.\nChange the default administrator password on your product\nIf your product has an option to set an administrator password, change the default administrator password to deter access by unauthorized users to personal data stored on your product, such as IDs, passwords, and contact lists. See the product's User's Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-0000a05-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CL67201~faq-0000a05-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:24.188940"
+        },
+        {
+          "question": "How do I register my product?",
+          "answer": "You can register your Epson product on our\nProduct Registration\npage.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-000079f-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CL67201~faq-000079f-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:25.282468"
+        },
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-00009e9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CL67201~faq-00009e9-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:26.493219"
+        },
+        {
+          "question": "Who do I contact for software support?",
+          "answer": "Click on the\nContact Us\ntab on your product's support page to contact Epson for support. If your product comes with third-party software, contact the software company.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-00004db-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CL67201~faq-00004db-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:27.611679"
+        },
+        {
+          "question": "Why does the printer have a waste ink bottle?",
+          "answer": "The waste ink bottle is used to collect waste ink and must be emptied periodically. See the product's User's Guide for waste ink disposal guidelines.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-0000a79-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CL67201~faq-0000a79-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:28.753875"
+        },
+        {
+          "question": "Can I use the printer without the waste ink bottle installed?",
+          "answer": "No, the waste ink bottle must be installed at all times to capture waste ink, which is a by-product of printing. Make sure the waste ink bottle is installed even when the printer is not powered on.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-0000a7a-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CL67201~faq-0000a7a-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:29.848898"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-0000f4a-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CL67201~faq-0000f4a-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:30.930247"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-0000f4d-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CL67201~faq-0000f4d-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:32.049543"
+        },
+        {
+          "question": "I can tell some ink is still in the ink pack. Why does my printer show that the pack is expended?",
+          "answer": "The ink pack is designed to include a small safety reserve of ink. This safety reserve prevents damage to the printhead. If the printer tries to print when no ink remains in the pack, air bubbles would enter the ink delivery system and cause damage to the printhead. The safety reserve of ink prevents this from happening.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-0000e88-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CL67201~faq-0000e88-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:33.143701"
+        },
+        {
+          "question": "How do I manually assign a static IP address to my product?",
+          "answer": "Do the following:\nDownload and install the\nEpsonNet Config Utility\nfrom the Downloads tab on your product's support page.\nDo one of the following:\nWindows 11\n: Click\n, then search for\nEpsonNet Config\nand select it.\nWindows 10\n: Click\nand select\nEpsonNet\n>\nEpsonNet Config\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nEpsonNet Config\n.\nWindows (other versions)\n: Select\nor\nStart\n>\nPrograms\n>\nEpsonNet\n>\nEpsonNet Config.\nMac\n: Open the\nApplications\nfolder, open the\nEpson Software\nfolder, and select\nEpsonNet\n>\nEpsonNet Config\n>\nEpsonNet Config\n.\nHighlight your printer's name and click\nConfiguration\n.\nSelect\nBasic\n(under TCP/IP) and make sure\nManual\nis selected. Enter the\nIP Address, Subnet Mask\n, and\nDefault Gateway\nin the IP Address Setting section.\nClick\nSend\nor\nTransmit\n.\nClose EpsonNet Config.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-00004bc-scs7170?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CL67201~faq-00004bc-scs7170",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:34.312488"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Does the product support borderless printing?",
+          "answer": "No, borderless printing is not supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-0000ae0-scs7170?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CL67201~faq-0000ae0-scs7170",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:35.382190"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "I can tell some ink is still in the ink pack. Why does my printer show that the pack is expended?",
+          "answer": "The ink pack is designed to include a small safety reserve of ink. This safety reserve prevents damage to the printhead. If the printer tries to print when no ink remains in the pack, air bubbles would enter the ink delivery system and cause damage to the printhead. The safety reserve of ink prevents this from happening.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-0000e88-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CL67201~faq-0000e88-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:36.495304"
+        },
+        {
+          "question": "What size ink packs are available?",
+          "answer": "The ink packs are available only in the 800 ml size.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-0000b93-scs7170?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CL67201~faq-0000b93-scs7170",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:37.585716"
+        },
+        {
+          "question": "Can I use the printer without the waste ink bottle installed?",
+          "answer": "No, the waste ink bottle must be installed at all times to capture waste ink, which is a by-product of printing. Make sure the waste ink bottle is installed even when the printer is not powered on.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-0000a7a-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CL67201~faq-0000a7a-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:38.662138"
+        },
+        {
+          "question": "Which type of ink does the product use?",
+          "answer": "The product uses Epson UltraChrome GS3 ink.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-0000adb-scs7170?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CL67201~faq-0000adb-scs7170",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:39.714997"
+        },
+        {
+          "question": "How many ink colors does the product use?",
+          "answer": "The product is a four-color printer and uses Cyan, Magenta, Yellow, and Black ink.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-0000ade-scs7170?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CL67201~faq-0000ade-scs7170",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:40.857359"
+        },
+        {
+          "question": "Why does the printer have a waste ink bottle?",
+          "answer": "The waste ink bottle is used to collect waste ink and must be emptied periodically. See the product's User's Guide for waste ink disposal guidelines.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-0000a79-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CL67201~faq-0000a79-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:41.909248"
+        },
+        {
+          "question": "What is the capacity of the waste ink bottle?",
+          "answer": "The capacity of the waste ink bottle is 2 liters; the product will prompt you to empty the bottle before it reaches max capacity.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-0000a44-scs7170?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CL67201~faq-0000a44-scs7170",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:42.962721"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "Can the product automatically detect when a nozzle is clogged?",
+          "answer": "The printer is equipped with Nozzle Verification Technology which monitors for clogged nozzles. If the set threshold of clogged nozzles has been exceeded, the printer will perform an automatic print head cleaning.\nNote:\nThe Nozzle Verification Technology feature may not detect all clogged nozzles. A small amount of ink may be consumed when the printer checks for clogged nozzles. The printer may periodically perform cleanings automatically to maintain print quality.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-0000c88-scs7170?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C11CL67201~faq-0000c88-scs7170",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:44.084378"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "Which roll media core sizes can I use with my product?",
+          "answer": "You can use roll media with a 2-inch (51 mm) or 3-inch (76.2 mm) core.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-0000c02-scs7170?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CL67201~faq-0000c02-scs7170",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:45.195654"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-00009e9-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CL67201~faq-00009e9-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:46.302013"
+        },
+        {
+          "question": "I see horizontal or vertical lines in my printout. What should I do?",
+          "answer": "Perform a nozzle check from the printer's control panel, then do one of the following:\nIf there are gaps in the nozzle check pattern, perform a print head cleaning.\nIf there are no gaps in the nozzle check pattern, try the solutions below:\nHorizontal Banding\nSelect the correct media type in the media settings using the printer's control panel.\nPerform a print adjustment in the media settings using the printer's control panel.\nVertical Banding\nPerform a print quality adjustment using the printer's control panel.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-0000c77-scs7170?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CL67201~faq-0000c77-scs7170",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:45.621237"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "Who do I contact for software support?",
+          "answer": "Click on the\nContact Us\ntab on your product's support page to contact Epson for support. If your product comes with third-party software, contact the software company.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-00004db-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL67201~faq-00004db-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:46.683157"
+        },
+        {
+          "question": "How do I manually assign a static IP address to my product?",
+          "answer": "Do the following:\nDownload and install the\nEpsonNet Config Utility\nfrom the Downloads tab on your product's support page.\nDo one of the following:\nWindows 11\n: Click\n, then search for\nEpsonNet Config\nand select it.\nWindows 10\n: Click\nand select\nEpsonNet\n>\nEpsonNet Config\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nEpsonNet Config\n.\nWindows (other versions)\n: Select\nor\nStart\n>\nPrograms\n>\nEpsonNet\n>\nEpsonNet Config.\nMac\n: Open the\nApplications\nfolder, open the\nEpson Software\nfolder, and select\nEpsonNet\n>\nEpsonNet Config\n>\nEpsonNet Config\n.\nHighlight your printer's name and click\nConfiguration\n.\nSelect\nBasic\n(under TCP/IP) and make sure\nManual\nis selected. Enter the\nIP Address, Subnet Mask\n, and\nDefault Gateway\nin the IP Address Setting section.\nClick\nSend\nor\nTransmit\n.\nClose EpsonNet Config.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-00004bc-scs7170?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL67201~faq-00004bc-scs7170",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:47.742110"
+        },
+        {
+          "question": "Which connection types does the product support?",
+          "answer": "The product supports the following connection types:\nSuperSpeed USB 3.0\nEthernet 100BASE-TX/1000BASE-T Ethernet",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-0000c06-scs7170?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL67201~faq-0000c06-scs7170",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:48.809832"
+        },
+        {
+          "question": "Which software is included with the product?",
+          "answer": "The printer comes with the following:\nCommunication Driver\nEpson Edge Dashboard\nEpson Edge Print PRO\nWeb Config\nONYX Go Plus RIP (1-year subscription)",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-0000d00-scs7170?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL67201~faq-0000d00-scs7170",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:49.840196"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL67201~faq-0000f4d-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:50.917172"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "What security measures does Epson recommend for its network products?",
+          "answer": "To help deter unauthorized access to your product over a network, you should protect your network environment using appropriate security measures.\nSecurity measures such as these can help deter threats such as loss of user data, use of telephone and fax lines, and other intrusions:\nEnable security on your wireless LAN if your product supports a wireless connection\nEnable the appropriate security on the wireless LAN you plan to use with your product. Network security, such as a network password, can deter interception of traffic over the wireless LAN. Your router may already have a default password enabled by your Internet service provider (ISP). See your ISP and router documentation for instructions on how to change the default password and better secure your network.\nConnect your product only to a network protected by a firewall\nConnecting your product directly to the Internet may leave it vulnerable to security threats. Instead, connect it to a router or other networking device protected by a firewall. Your router may already have a firewall set up by your Internet service provider; check with your ISP for confirmation. For best results, set up and use a private IP address for your network connection.\nChange the default administrator password on your product\nIf your product has an option to set an administrator password, change the default administrator password to deter access by unauthorized users to personal data stored on your product, such as IDs, passwords, and contact lists. See the product's User's Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-0000a05-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CL67201~faq-0000a05-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:51.993128"
+        },
+        {
+          "question": "Does a printer stand come with the product?",
+          "answer": "Yes, a printer stand is included with the product.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-0000c01-scs7170?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CL67201~faq-0000c01-scs7170",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:53.180182"
+        },
+        {
+          "question": "Does the printer have a built-in cutter?",
+          "answer": "No, the printer does not have a built-in cutter.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-0000c71-scs7170?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CL67201~faq-0000c71-scs7170",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:54.222368"
+        },
+        {
+          "question": "How do I register my product?",
+          "answer": "You can register your Epson product on our\nProduct Registration\npage.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-000079f-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CL67201~faq-000079f-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:55.506087"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL67201~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CL67201~faq-0000f4a-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-S7170/s/SPT_C11CL67201",
+          "fetched_at": "2026-04-02T03:28:56.848556"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

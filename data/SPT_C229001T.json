@@ -1,0 +1,268 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Impact Printers",
+  "series": "FX Series",
+  "model": {
+    "name": "Epson FX-880T",
+    "sku": "SPT_C229001T",
+    "url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-880T/s/SPT_C229001T"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "A label peeled off in the product. How should I remove it?",
+          "answer": "Press the product's\nLF/FF\nbutton until the label appears on the platen and remove the label. If you can't remove the label this way, do not remove the platen from the product. Get the printer serviced.\nNote:\nWe recommend you use the pull tractor to print labels. Labels fed through the rear push tractor can curl and peel off under the platen.",
+          "faq_url": "https://epson.com/faq/SPT_C229001T~faq-0000937-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C229001T~faq-0000937-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-880T/s/SPT_C229001T",
+          "fetched_at": "2026-04-02T04:56:27.290161"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C229001T~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C229001T~faq-00004dc-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-880T/s/SPT_C229001T",
+          "fetched_at": "2026-04-02T04:56:28.169943"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C229001T~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C229001T~faq-00004b0-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-880T/s/SPT_C229001T",
+          "fetched_at": "2026-04-02T04:56:29.062886"
+        },
+        {
+          "question": "What is the recommended duty cycle for my product?",
+          "answer": "The specification recommended is 25 percent. Epson America's definition of a 25 percent duty cycle stands for the printer printing (not idle) for two hours per day based on an eight hour day at 22 days per month.",
+          "faq_url": "https://epson.com/faq/SPT_C229001T~faq-42253?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C229001T~faq-42253",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-880T/s/SPT_C229001T",
+          "fetched_at": "2026-04-02T04:56:29.998437"
+        },
+        {
+          "question": "What are the common escape codes for my product?",
+          "answer": "Some commonly used escape codes include (in decimal values)\n- Reset (27, 64); Set page length in lines (27, 67, n - where n is a number from 1 to 127); Carriage return (13); Line feed (10); Form feed (12); Select 1/8-inch line spacing (27, 48); 10 cpi (27, 80); 12 cpi (27, 77); Select bold font (27, 69); Cancel bold font (27, 70); Select italic font (27, 52); Cancel italic font (27, 53); Turn underline on/off (27, 45, n - where n equals 49=ON or 48=OFF); Select condensed print (15); Cancel condensed print (18). For more escape codes, please refer to the Command Summary of your User's Manual. If you need to use advanced escape codes for programming purposes, you can purchase an ESC/P Reference Manual from EPSON Accessories.",
+          "faq_url": "https://epson.com/faq/SPT_C229001T~faq-42255?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C229001T~faq-42255",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-880T/s/SPT_C229001T",
+          "fetched_at": "2026-04-02T04:56:30.923101"
+        },
+        {
+          "question": "There is paper loaded on the tractor unit. Why won't my product load paper?",
+          "answer": "Make sure the paper release lever is set to the tractor position. Facing the back of the printer, make sure the paper is loaded over to the left side of the printer. The paper sensor is located on the left side of the printer. If the sensor does not sense that there is paper loaded, the printer will not operate properly.",
+          "faq_url": "https://epson.com/faq/SPT_C229001T~faq-42282?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C229001T~faq-42282",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-880T/s/SPT_C229001T",
+          "fetched_at": "2026-04-02T04:56:31.894022"
+        },
+        {
+          "question": "My product starts printing too high or low on the page. Is there any way I can adjust the starting point of the print job?",
+          "answer": "There is a feature called Micro Adjust that allows you to adjust the top-of-form (TOF) position in increments of 1/216th of an inch. To use this feature, load the paper into the printer. Press the Pause button for three seconds (until Pause light flashes), then press LF/FF to move the paper forward or press Load/Eject to move the paper backward. Once you have the TOF position set where you want it, press the Pause button, then send a print job. The printer will remember the TOF setting and will position the print head accordingly for the next page.",
+          "faq_url": "https://epson.com/faq/SPT_C229001T~faq-42281?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C229001T~faq-42281",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-880T/s/SPT_C229001T",
+          "fetched_at": "2026-04-02T04:56:32.940123"
+        },
+        {
+          "question": "What printer does my printer emulate?",
+          "answer": "The EPSON ® FX-880T works like the Okidata® Microline® 320 Turbo, but with more flexible paper handling, faster printing, and a 2-year warranty. The factory settings are set for IBM 2380 Plus printer emulation, however it can also emulate an EPSON FX-880 or Okidata Microline 320 Turbo. Note: You must install the correct printer driver for the printer to work correctly.",
+          "faq_url": "https://epson.com/faq/SPT_C229001T~faq-42241?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C229001T~faq-42241",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-880T/s/SPT_C229001T",
+          "fetched_at": "2026-04-02T04:56:33.850245"
+        },
+        {
+          "question": "Why won't my product print serially from my computer?",
+          "answer": "If you are using a straight through modem cable, change the cable to a null modem cable (pins 2 and 3 are reversed). If you are already using a null modem cable, ensure that the Default Settings for the serial port on the printer match the settings on your computer. There is always the possibility of a loose connection or a bad cable. Disconnect and reconnect the cable on the PC and the printer and try printing again. If you are still experiencing difficulty, try a different cable or take the printer to another computer to see if the computer's port is malfunctioning.",
+          "faq_url": "https://epson.com/faq/SPT_C229001T~faq-42249?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C229001T~faq-42249",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-880T/s/SPT_C229001T",
+          "fetched_at": "2026-04-02T04:56:34.820471"
+        },
+        {
+          "question": "I'm printing serial, my baud rate is at 9600, and intermittently my product will lose data. What should I do?",
+          "answer": "If you are using a non-buffered serial interface board and XON/XOFF is enabled, the XOFF signal may not reach the printer in time to delay data transmission that would result in an overflow and loss of data. If you can use a DTR setting, change XON/XOFF to DTR. If you must use XON/XOFF, try decreasing the baud rate. Another option would be to purchase a 32KB buffered serial interface card (C823071). The buffered serial interface has a flag reset timing, which sets aside additional buffer space to \"catch\" the data overflow. The flag reset timing feature settings are selectable through dip switches on the serial interface card.",
+          "faq_url": "https://epson.com/faq/SPT_C229001T~faq-42257?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C229001T~faq-42257",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-880T/s/SPT_C229001T",
+          "fetched_at": "2026-04-02T04:56:35.780387"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Why won't my product print serially from my computer?",
+          "answer": "If you are using a straight through modem cable, change the cable to a null modem cable (pins 2 and 3 are reversed). If you are already using a null modem cable, ensure that the Default Settings for the serial port on the printer match the settings on your computer. There is always the possibility of a loose connection or a bad cable. Disconnect and reconnect the cable on the PC and the printer and try printing again. If you are still experiencing difficulty, try a different cable or take the printer to another computer to see if the computer's port is malfunctioning.",
+          "faq_url": "https://epson.com/faq/SPT_C229001T~faq-42249?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C229001T~faq-42249",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-880T/s/SPT_C229001T",
+          "fetched_at": "2026-04-02T04:56:36.874403"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "A label peeled off in the product. How should I remove it?",
+          "answer": "Press the product's\nLF/FF\nbutton until the label appears on the platen and remove the label. If you can't remove the label this way, do not remove the platen from the product. Get the printer serviced.\nNote:\nWe recommend you use the pull tractor to print labels. Labels fed through the rear push tractor can curl and peel off under the platen.",
+          "faq_url": "https://epson.com/faq/SPT_C229001T~faq-0000937-shared?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C229001T~faq-0000937-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-880T/s/SPT_C229001T",
+          "fetched_at": "2026-04-02T04:56:36.137326"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "There is paper loaded on the tractor unit. Why won't my product load paper?",
+          "answer": "Make sure the paper release lever is set to the tractor position. Facing the back of the printer, make sure the paper is loaded over to the left side of the printer. The paper sensor is located on the left side of the printer. If the sensor does not sense that there is paper loaded, the printer will not operate properly.",
+          "faq_url": "https://epson.com/faq/SPT_C229001T~faq-42282?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C229001T~faq-42282",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-880T/s/SPT_C229001T",
+          "fetched_at": "2026-04-02T04:56:37.060572"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "My product starts printing too high or low on the page. Is there any way I can adjust the starting point of the print job?",
+          "answer": "There is a feature called Micro Adjust that allows you to adjust the top-of-form (TOF) position in increments of 1/216th of an inch. To use this feature, load the paper into the printer. Press the Pause button for three seconds (until Pause light flashes), then press LF/FF to move the paper forward or press Load/Eject to move the paper backward. Once you have the TOF position set where you want it, press the Pause button, then send a print job. The printer will remember the TOF setting and will position the print head accordingly for the next page.",
+          "faq_url": "https://epson.com/faq/SPT_C229001T~faq-42281?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C229001T~faq-42281",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-880T/s/SPT_C229001T",
+          "fetched_at": "2026-04-02T04:56:37.973781"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "I'm printing serial, my baud rate is at 9600, and intermittently my product will lose data. What should I do?",
+          "answer": "If you are using a non-buffered serial interface board and XON/XOFF is enabled, the XOFF signal may not reach the printer in time to delay data transmission that would result in an overflow and loss of data. If you can use a DTR setting, change XON/XOFF to DTR. If you must use XON/XOFF, try decreasing the baud rate. Another option would be to purchase a 32KB buffered serial interface card (C823071). The buffered serial interface has a flag reset timing, which sets aside additional buffer space to \"catch\" the data overflow. The flag reset timing feature settings are selectable through dip switches on the serial interface card.",
+          "faq_url": "https://epson.com/faq/SPT_C229001T~faq-42257?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C229001T~faq-42257",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-880T/s/SPT_C229001T",
+          "fetched_at": "2026-04-02T04:56:38.861297"
+        },
+        {
+          "question": "What are the common escape codes for my product?",
+          "answer": "Some commonly used escape codes include (in decimal values)\n- Reset (27, 64); Set page length in lines (27, 67, n - where n is a number from 1 to 127); Carriage return (13); Line feed (10); Form feed (12); Select 1/8-inch line spacing (27, 48); 10 cpi (27, 80); 12 cpi (27, 77); Select bold font (27, 69); Cancel bold font (27, 70); Select italic font (27, 52); Cancel italic font (27, 53); Turn underline on/off (27, 45, n - where n equals 49=ON or 48=OFF); Select condensed print (15); Cancel condensed print (18). For more escape codes, please refer to the Command Summary of your User's Manual. If you need to use advanced escape codes for programming purposes, you can purchase an ESC/P Reference Manual from EPSON Accessories.",
+          "faq_url": "https://epson.com/faq/SPT_C229001T~faq-42255?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C229001T~faq-42255",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-880T/s/SPT_C229001T",
+          "fetched_at": "2026-04-02T04:56:39.797624"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C229001T~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C229001T~faq-00004dc-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-880T/s/SPT_C229001T",
+          "fetched_at": "2026-04-02T04:56:40.704006"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "What printer does my printer emulate?",
+          "answer": "The EPSON ® FX-880T works like the Okidata® Microline® 320 Turbo, but with more flexible paper handling, faster printing, and a 2-year warranty. The factory settings are set for IBM 2380 Plus printer emulation, however it can also emulate an EPSON FX-880 or Okidata Microline 320 Turbo. Note: You must install the correct printer driver for the printer to work correctly.",
+          "faq_url": "https://epson.com/faq/SPT_C229001T~faq-42241?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C229001T~faq-42241",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-880T/s/SPT_C229001T",
+          "fetched_at": "2026-04-02T04:56:41.605428"
+        },
+        {
+          "question": "How do I change the default settings?",
+          "answer": "The FX-880T comes configured with certain default settings. You can change these settings when needed through the Default Setting Mode, as described in Chapter 5 of your User's Guide. The instructions below explain how to change the character pitch, bottom margin, and software emulation. (The character pitch and bottom margin settings are not covered in the User's Guide.)\n1. To enter default setting mode, make sure the printer is off. Then hold down the Tear Off/Bin button while you press the Operate button to turn on the printer. The printer prints 2 pages of instructions, the first showing the menu of options, and the second showing the LED (light) status for each option setting.\n2. Looking at the first page of instructions, find the option you want to change and press the Tear Off/Bin button until the Font and Tear Off/Bin lights indicate the option you want:\n- Menu Font lights Tear Off lights\n- Software (emulation) OFF ON FLASHING\n- Pitch ON ON FLASHING\n- Bottom margin ON FLASHING OFF\n3. Now look at the second page and find the setting you want for the option you want to change. Press the Load/Eject button until the Pause and Paper Out lights indicate the correct setting. (An arrow appears next to the current setting.)\n- Menu Pause light Paper Out light\n- Software (emulation)\n- ESC/P OFF OFF\n- IBM 2380 Plus OFF ON\n- OKI ML320T OFF FLASHING\n- Pitch\n- 10 cpi OFF OFF\n- 12 cpi OFF ON\n- 15 cpi OFF FLASHING\n- 17 cpi ON OFF\n- 20 cpi ON ON\n- Proportional ON FLASHING\n- Bottom margin\n- 4.2 mm OFF OFF\n- 20 mm OFF ON\n- 22 mm OFF FLASHING\n- 24 mm ON OFF\n- Others (programmable ON ON\n- through ESC codes)\n4. When you are done changing the settings, press the Operate button to exit default setting mode and turn off the printer.",
+          "faq_url": "https://epson.com/faq/SPT_C229001T~faq-42242?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C229001T~faq-42242",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-880T/s/SPT_C229001T",
+          "fetched_at": "2026-04-02T04:56:46.589422"
+        },
+        {
+          "question": "What is the recommended duty cycle for my product?",
+          "answer": "The specification recommended is 25 percent. Epson America's definition of a 25 percent duty cycle stands for the printer printing (not idle) for two hours per day based on an eight hour day at 22 days per month.",
+          "faq_url": "https://epson.com/faq/SPT_C229001T~faq-42253?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C229001T~faq-42253",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-880T/s/SPT_C229001T",
+          "fetched_at": "2026-04-02T04:56:47.518863"
+        },
+        {
+          "question": "How do you select bar codes on my product?",
+          "answer": "The eight built-in bar codes are only selectable through software using an ESC code sequence. The built-in bar codes include: EAN-13, EAN-8, Interleaved 2 of 5, UPC-A, UPC-E, Code 39, Code 128, and POSTNET.",
+          "faq_url": "https://epson.com/faq/SPT_C229001T~faq-42259?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C229001T~faq-42259",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-880T/s/SPT_C229001T",
+          "fetched_at": "2026-04-02T04:56:48.435267"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C229001T~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C229001T~faq-00004b0-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-880T/s/SPT_C229001T",
+          "fetched_at": "2026-04-02T04:56:49.368425"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

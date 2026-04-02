@@ -1,0 +1,188 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Impact Printers",
+  "series": "ActionPrinter Series",
+  "model": {
+    "name": "Epson ActionPrinter 5000+",
+    "sku": "SPT_C107011",
+    "url": "https://epson.com/Support/Printers/Impact-Printers/ActionPrinter-Series/Epson-ActionPrinter-5000%2B/s/SPT_C107011"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "The paper feed knob broke. What should I do?",
+          "answer": "This is usually caused by incorrectly using the paper feed knob to adjust the paper position when the printer is turned on.\nTo prevent this problem the printer's paper feed, form feed or alignment buttons should be used.\nYou can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C107011~faq-000096c-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C107011~faq-000096c-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/ActionPrinter-Series/Epson-ActionPrinter-5000%2B/s/SPT_C107011",
+          "fetched_at": "2026-04-02T04:47:45.384678"
+        },
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C107011~faq-000096d-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C107011~faq-000096d-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/ActionPrinter-Series/Epson-ActionPrinter-5000%2B/s/SPT_C107011",
+          "fetched_at": "2026-04-02T04:47:46.298628"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C107011~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C107011~faq-00004dc-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/ActionPrinter-Series/Epson-ActionPrinter-5000%2B/s/SPT_C107011",
+          "fetched_at": "2026-04-02T04:47:47.238865"
+        },
+        {
+          "question": "Two pages print for each page I print. What should I do?",
+          "answer": "If you're using single sheets you need to make sure the software is set up for either single sheet paper or 61 lines per page otherwise it will print a few lines on a second page if the document is over 61 lines.\nSome older DOS software may not have those settings if it is designed to be used only with tractor feed paper. For Windows software, make sure to select Sheet Feeder bin 1 for your paper source in Printer setup.",
+          "faq_url": "https://epson.com/faq/SPT_C107011~faq-000096e-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C107011~faq-000096e-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/ActionPrinter-Series/Epson-ActionPrinter-5000%2B/s/SPT_C107011",
+          "fetched_at": "2026-04-02T04:47:48.131896"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C107011~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C107011~faq-00004b0-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/ActionPrinter-Series/Epson-ActionPrinter-5000%2B/s/SPT_C107011",
+          "fetched_at": "2026-04-02T04:47:49.015756"
+        },
+        {
+          "question": "My product beep 5 times when I turn it on. What should I do?",
+          "answer": "If the printer beeps 5 times when it is turned on, try the following to see if it solves the problem.\n1) Shut printer power off\n2) Slide printhead from left to right about 10 times (ensuring the printhead touches each side of the carriage)\n3) Center the printhead and power it back on\nThis may clear the error, which is most likely due to a faulty or dirty contact in the home position sensor. If not, then the unit may be in need of service by an authorized EPSON service center.",
+          "faq_url": "https://epson.com/faq/SPT_C107011~faq-49608?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C107011~faq-49608",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/ActionPrinter-Series/Epson-ActionPrinter-5000%2B/s/SPT_C107011",
+          "fetched_at": "2026-04-02T04:47:49.908524"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Some video drivers may cause a conflict in memory between the printerdriver and video memory. Try changing to the Windows video driver provided by Microsoft or check to see if the video card manufacturer has an updated video driver available. This is often the cause of strange printing problems such as missing characters or lines through the printed document.\nBroken printhead pins may also cause this problem. If the problem continues when performing the printer's self test then the printhead is most likely the problem. This would need to be serviced by an Epson authorized repair center.",
+          "faq_url": "https://epson.com/faq/SPT_C107011~faq-49611?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C107011~faq-49611",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/ActionPrinter-Series/Epson-ActionPrinter-5000%2B/s/SPT_C107011",
+          "fetched_at": "2026-04-02T04:47:50.771443"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Two pages print for each page I print. What should I do?",
+          "answer": "If you're using single sheets you need to make sure the software is set up for either single sheet paper or 61 lines per page otherwise it will print a few lines on a second page if the document is over 61 lines.\nSome older DOS software may not have those settings if it is designed to be used only with tractor feed paper. For Windows software, make sure to select Sheet Feeder bin 1 for your paper source in Printer setup.",
+          "faq_url": "https://epson.com/faq/SPT_C107011~faq-000096e-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C107011~faq-000096e-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/ActionPrinter-Series/Epson-ActionPrinter-5000%2B/s/SPT_C107011",
+          "fetched_at": "2026-04-02T04:47:51.722274"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "The paper feed knob broke. What should I do?",
+          "answer": "This is usually caused by incorrectly using the paper feed knob to adjust the paper position when the printer is turned on.\nTo prevent this problem the printer's paper feed, form feed or alignment buttons should be used.\nYou can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C107011~faq-000096c-shared?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C107011~faq-000096c-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/ActionPrinter-Series/Epson-ActionPrinter-5000%2B/s/SPT_C107011",
+          "fetched_at": "2026-04-02T04:47:52.612316"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Some video drivers may cause a conflict in memory between the printerdriver and video memory. Try changing to the Windows video driver provided by Microsoft or check to see if the video card manufacturer has an updated video driver available. This is often the cause of strange printing problems such as missing characters or lines through the printed document.\nBroken printhead pins may also cause this problem. If the problem continues when performing the printer's self test then the printhead is most likely the problem. This would need to be serviced by an Epson authorized repair center.",
+          "faq_url": "https://epson.com/faq/SPT_C107011~faq-49611?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C107011~faq-49611",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/ActionPrinter-Series/Epson-ActionPrinter-5000%2B/s/SPT_C107011",
+          "fetched_at": "2026-04-02T04:47:53.692685"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C107011~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C107011~faq-00004dc-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/ActionPrinter-Series/Epson-ActionPrinter-5000%2B/s/SPT_C107011",
+          "fetched_at": "2026-04-02T04:47:54.971666"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "My product beep 5 times when I turn it on. What should I do?",
+          "answer": "If the printer beeps 5 times when it is turned on, try the following to see if it solves the problem.\n1) Shut printer power off\n2) Slide printhead from left to right about 10 times (ensuring the printhead touches each side of the carriage)\n3) Center the printhead and power it back on\nThis may clear the error, which is most likely due to a faulty or dirty contact in the home position sensor. If not, then the unit may be in need of service by an authorized EPSON service center.",
+          "faq_url": "https://epson.com/faq/SPT_C107011~faq-49608?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C107011~faq-49608",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/ActionPrinter-Series/Epson-ActionPrinter-5000%2B/s/SPT_C107011",
+          "fetched_at": "2026-04-02T04:47:56.266407"
+        },
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C107011~faq-000096d-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C107011~faq-000096d-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/ActionPrinter-Series/Epson-ActionPrinter-5000%2B/s/SPT_C107011",
+          "fetched_at": "2026-04-02T04:47:57.397556"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C107011~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C107011~faq-00004b0-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/ActionPrinter-Series/Epson-ActionPrinter-5000%2B/s/SPT_C107011",
+          "fetched_at": "2026-04-02T04:47:58.505295"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

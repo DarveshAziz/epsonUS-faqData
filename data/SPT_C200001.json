@@ -1,0 +1,553 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "Epson Stylus Series",
+  "model": {
+    "name": "Epson Stylus Color 600",
+    "sku": "SPT_C200001",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "When I try to print to my product in Windows 7, printing is slow or my product stops printing. What should I do?",
+          "answer": "Try the following:\nSelect a lower quality setting in the printer software.\nMake sure your system meets the minimum system requirements for your printer.\nClose the\nDevices and Printers\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-0000bf3-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C200001~faq-0000bf3-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:26:50.550748"
+        },
+        {
+          "question": "How do I change the font size of text when I print from software in Windows?",
+          "answer": "You need to select the text or font size in the software you are printing from, not the printer driver. For detailed instructions, contact the company for the application you are printing from.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-00004b7-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C200001~faq-00004b7-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:26:51.477126"
+        },
+        {
+          "question": "Calibration doesn't seem to have any effect. What should I do?",
+          "answer": "Make sure that whenever you turn off the printer, you are always using the printer's power button. Never use an external switch, such as a power strip, surge protector, or power protector, to turn off the printer. If you turn the printer off using an external switch, calibration settings will not be saved.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-0000ab0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C200001~faq-0000ab0-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:26:52.458902"
+        },
+        {
+          "question": "Heavy coated or thick paper does not load correctly or loads skewed. What should I do?",
+          "answer": "The paper you are using may be too heavy or glossy for the paper roller to pick up. Be sure the paper is within printer specifications.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-0000b08-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C200001~faq-0000b08-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:26:53.373374"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C200001~faq-00004b0-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:26:54.284954"
+        },
+        {
+          "question": "My product is out of color ink even though I print in black only. Why does this happen?",
+          "answer": "To keep the print head clear, the printer uses a small amount of ink from all the cartridges whenever it prints. Even if you select\nBlack Only\n, some color ink is still being used.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-0000969-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C200001~faq-0000969-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:26:57.072075"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C200001~faq-00004dc-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:26:58.342433"
+        },
+        {
+          "question": "Does OS X support manual duplex printing with my product?",
+          "answer": "This feature is not supported in Mac OS X. However, if your printer has a built-in automatic duplexer, auto-duplexing is supported in Mac OS X 10.6 (Snow Leopard).",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-0000c1d-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C200001~faq-0000c1d-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:26:59.514213"
+        },
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-000096d-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C200001~faq-000096d-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:00.715882"
+        },
+        {
+          "question": "Are the ink cartridges refillable?",
+          "answer": "EPSON does not recommend refilling ink cartridges. Refilled cartridges can cause print quality problems. In the printer's User's Guide, we advise \"Use only genuine EPSON ink cartridges and do not refill them. Other products may cause damage not covered by EPSON's warranty\".",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-0000aaf-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C200001~faq-0000aaf-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:01.789714"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "When I try to print to my product in Windows 7, printing is slow or my product stops printing. What should I do?",
+          "answer": "Try the following:\nSelect a lower quality setting in the printer software.\nMake sure your system meets the minimum system requirements for your printer.\nClose the\nDevices and Printers\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-0000bf3-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C200001~faq-0000bf3-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:02.872676"
+        },
+        {
+          "question": "Does OS X support manual duplex printing with my product?",
+          "answer": "This feature is not supported in Mac OS X. However, if your printer has a built-in automatic duplexer, auto-duplexing is supported in Mac OS X 10.6 (Snow Leopard).",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-0000c1d-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C200001~faq-0000c1d-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:04.469153"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "Why do I get paper jams when I go from envelopes back to single sheet paper.",
+          "answer": "Make sure to remove all envelopes before setting the adjust lever to the singles sheet setting.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-32786?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C200001~faq-32786",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:05.586829"
+        },
+        {
+          "question": "Why is the Power light still flashing even though my product has finished charging the ink cartridge?",
+          "answer": "The ink cartridge clamp isn't locked down. Press down on the clamp to lock it. Make sure that all packing material has been removed from the inside of the printer (follow instructions on the notice sheet). If the printer does not move or make any noise for more than 5 minutes, turn off the printer. If the light is still flashing when you turn it back on, contact the EPSON Connection for further assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-32806?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C200001~faq-32806",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:06.688990"
+        },
+        {
+          "question": "The black or color Ink Out light is flashing or on solid. What should I do?",
+          "answer": "If the light is flashing, the ink supply is getting low and you will need to replace the cartridge soon. If the light is on solid, the ink cartridge is completely empty and will need to be replaced in order to continue printing. Make sure you only remove the yellow tape seal from the top of any ink cartridge you install into the printer. If the white label has been removed from the ink cartridge, the cartridge will not function correctly and it needs to be replaced. More importantly, to avoid potential damage to the printer, do not install the cartridge if the white label has been removed.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-32841?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C200001~faq-32841",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:08.022174"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "I removed the white label from the top of one of my ink cartridges. What should I do?",
+          "answer": "Do not install the cartridge. If you have already installed it and the printer is printing correctly, change the cartridge immediately. If you have already installed the cartridge, or if a previously installed ink cartridge was missing its white label at the time it was installed, and now the nozzle check will not print completely even after running cleaning cycles, your printer may need service and you should call the EPSON Connection for further assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-32762?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C200001~faq-32762",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:09.112064"
+        },
+        {
+          "question": "How do I install a replacement ink cartridge?",
+          "answer": "If this is the first ink cartridge that has ever been installed into the printer, then the print heads will automatically move slightly to the left when the printer's power is turned on. Otherwise, if either of the printer's ink out lights are flashing or solid, then hold down the cleaning button for three seconds. If neither of the ink out lights are solid or flashing, then hold down the load/eject button for three seconds. The print heads will have moved slightly to the left and the power light will be flashing at this point. Remove the yellow tape seal from the top of each ink cartridge. Do not remove the white label from the top of either ink cartridge. The ink in a cartridge missing the white label will be exposed to air and will thicken such that print head clogging and possible print head failure can occur. If the white label has been removed from an ink cartridge, the cartridge will not function correctly and it will need to be replaced. More importantly, to avoid potential damage to the printer, do not install a cartridge from which the white label has been removed. Insert the Black and Color ink cartridges into the printer. Lower the ink cartridge clamps, until they lock into place. Next, press the Cleaning button to begin charging the ink delivery system (approximately 5-6 minutes for initial install; approximately 3-4 minutes for replacement). When the printer is done charging, the Power light will stop flashing. Detailed instructions and illustrations can be found in Chapter 5 of the User's Guide. If you are still having difficulties, contact the EPSON Connection End User Technical Support Group for further assistance. You can also reach our Technical Support Group by entering your information at the EPSON Internet web site.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-32776?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C200001~faq-32776",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:10.233255"
+        },
+        {
+          "question": "My product is not producing any black or color ink. How can I resolve this problem?",
+          "answer": "From the Utility section found in the EPSON printer driver, clean the print heads by performing a head cleaning followed by printing a nozzle check pattern. A head cleaning and nozzle check must be performed as a cycle. After printing a nozzle check, examine the printed dot pattern. Each staggered horizontal and straight vertical line should be complete, with no gaps in the dot pattern. If there are gaps in the dot pattern, continue with another cycle. Perform up to 6 cycles if necessary. If the nozzle check is not printing completely, and if the head cleanings do not help the nozzle check pattern to print completely, try replacing the ink cartridge. Any ink cartridge installed into the printer must have a white label on top of it. If the white label has been removed from the ink cartridge, do not install the cartridge. Using an ink cartridge which does not have the white label on it may damage the printer. If you have already installed a cartridge which is missing the white label, or if a previously installed ink cartridge was missing its white label at the time it was installed, and now head cleanings do not help the nozzle check pattern to print completely, your printer may require service and you should contact the EPSON Connection for further assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-32779?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C200001~faq-32779",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:11.505196"
+        },
+        {
+          "question": "How do I install the ink cartridge?",
+          "answer": "Remove the yellow tape seal from the top of each ink cartridge. Do not remove the white label from the top of the ink cartridge. The ink in a cartridge missing the white label will be exposed to air and will thicken such that print head clogging and possible print head failure can occur. If the white label has been removed from the ink cartridge, the cartridge will not function correctly and it will need to be replaced. More importantly, to avoid potential damage to the printer, do not install the cartridge if the white label has been removed. Turn the printer on. If this is the first ink cartridge that has ever been installed into the printer, then the print heads will automatically move slightly to the left when the printer's power is turned on. Otherwise, if either of the printer's ink out lights are flashing or solid, then hold down the cleaning button for three seconds. If neither of the ink out lights are solid or flashing, then hold down the load/eject button for three seconds. The print heads will have moved slightly to the left and the power light will be flashing at this point. Insert the black and color ink cartridges into the printer. Lower the ink cartridge clamps, pushing down on each clamp until it locks into place. Next, press the cleaning button to begin charging the ink delivery system (approximately 5-6 minutes for initial install; approximately 3-4 minutes for replacement). When the printer is done charging, the power light will stop flashing. Detailed instructions and illustrations can be found in Chapter 5 of the User's Guide. If you are still having difficulties, contact the EPSON Connection End User Technical Support Group for further assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-32788?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C200001~faq-32788",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:12.782300"
+        },
+        {
+          "question": "How can I clear clogged ink jets?",
+          "answer": "Hold the cleaning button on the printer for 3 seconds to start the cleaning cycle. Try running 2 cleaning cycles using the cleaning button. The cleaning cycle takes about 2 minutes, during which the printer makes some noises and the power light flashes.\nCAUTION: Never turn the printer off when the power light is flashing.\nIf the print quality does not improve, the cleaning cycle and nozzle check should be run from the Utility menu of the Epson printer driver settings. This runs a more intense cleaning cycle.\nHere is how:\n1. Access the Main printer settings dialog box.\n2. Click on the Utility tab/button and you will see the Utility menu.\n3. Run the Nozzle Check (Windows), Confirmation (Macintosh) and it will print out a nozzle check pattern/confirmation as shown below.\n4. After reviewing the nozzle check, if necessary, select the Head Cleaning icon and run a cleaning cycle on black, color or both print heads depending on which color is missing.\nIMPORTANT! A head cleaning and nozzle check page must be performed as a cycle so subsequent cleanings will advance to a higher intensity cleaning cycle. This process ought to be repeated until the nozzle check prints correctly. When the nozzle check prints correctly the printer is ready to go. If you run more than 6 cleaning cycles and no improvement is seen in the nozzle check, the ink cartridge may need replacement or the printer may require service.\nWARNING! Improper ink cartridge installation will cause clogged print heads. When preparing an ink cartridge for installation, only the yellow or blue tape seal from the top of the black or color ink cartridges should be removed. If the white label from the top or the clear film on the bottom of either ink cartridge is removed, the ink will be exposed to air and will thicken such that print head clogging and possible print head failure can occur. The cartridge should immediately be replaced to avoid potential damage to the printer. CAUTION! Do not remove the ink cartridge to check this and then reinstall the same cartridge.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-42885?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C200001~faq-42885",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:13.936367"
+        },
+        {
+          "question": "Which ink cartridges should I use with my product?",
+          "answer": "Use the following Epson ink cartridges with the Epson Stylus Color 600.\nInk cartridge\nPart number\nColor\nS020089\nBlack\nS020093",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-42892?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C200001~faq-42892",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:14.984687"
+        },
+        {
+          "question": "Are the ink cartridges refillable?",
+          "answer": "EPSON does not recommend refilling ink cartridges. Refilled cartridges can cause print quality problems. In the printer's User's Guide, we advise \"Use only genuine EPSON ink cartridges and do not refill them. Other products may cause damage not covered by EPSON's warranty\".",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-0000aaf-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C200001~faq-0000aaf-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:16.172448"
+        },
+        {
+          "question": "My product is out of color ink even though I print in black only. Why does this happen?",
+          "answer": "To keep the print head clear, the printer uses a small amount of ink from all the cartridges whenever it prints. Even if you select\nBlack Only\n, some color ink is still being used.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-0000969-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C200001~faq-0000969-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:17.247801"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "When I installed new ink cartridges my product does continuous cleaning cycles. Is there something wrong with my product?",
+          "answer": "The first time a ink cartridge is installed in the printer, it will take 7-9 minutes to charge the ink system and initialize the printer. While the ink is charging the power light will flash. NEVER turn off the printer while the power light is flashing. When installing replacement ink cartridges, the printer will take approximately 4 minutes to charge the ink. These initialization times are due to the superior technology of EPSON's piezo print head, the number of ink nozzles in the print head and on a new printer the protective lubricant placed in the print head during the manufacturing process. This initialization is a normal and necessary process. If you turned off the printer during the initial ink charging cycle because I thought it was taking too long, power the printer back on and allow the printer to perform the complete charge of the ink delivery system. If the new ink cartridge initialization process extends the times mentioned, please contact the EPSON Connection for assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-32769?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C200001~faq-32769",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:16.554422"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "My product won't feed paper. What should I do?",
+          "answer": "Power the printer on and press the Load/Eject button to see if paper will load. If no paper loads, make sure the paper isn't curled or creased, isn't too old, isn't loaded above the arrow on the left edge guide, and that the paper isn't jammed in the printer. If the Paper Out light is on solid, reload the paper, making sure the paper edge guide is adjusted to fit the paper's width, and then press the Load/Eject button again to see if the paper will now load. If the Paper Out light is flashing, turn the printer off, reload the paper, turn the printer back on, and try pressing Load/Eject again to see if the printer will now successfully load the paper. If the printer still will not load paper, power the printer off, remove the printer cable, and make sure all of the packing materials are removed. If the problem persists, the printer may need to be sent in for service and you should contact the EPSON Connection for assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-32772?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C200001~faq-32772",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:17.661604"
+        },
+        {
+          "question": "What is the correct way to load envelopes?",
+          "answer": "Open the printer cover and position the adjust lever to the plus position. Then close the cover. Load the envelope with the flap edge first and printable side up. In the printer driver, set the Paper size to the correct envelope size. Make sure to return the adjust lever to the zero position before printing on thin media.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-32783?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C200001~faq-32783",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:18.805808"
+        },
+        {
+          "question": "What is the correct way to load transparency paper?",
+          "answer": "Insert the EPSON transparency sheet making sure that the notch is at the top right side of the sheet when facing the front of the printer. Please refer to your User's Guide for detailed information.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-32766?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C200001~faq-32766",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:19.900768"
+        },
+        {
+          "question": "My product doesn't feed paper correctly. What should I do?",
+          "answer": "Here are a few suggestions to try:\nYou can try using the Epson cleaning sheet (has a sticky side) to pick up any excess paper residue. It's available from the Epson Store.\nTry loading heavier stock paper, such as 24 lb. paper, if you haven't done so already.\nMake sure there is 1/16 to 1/32 inch space on each side of the paper in the paper tray.\nMove the paper type selector back and forth 5 times, to make sure it is not stuck.\nFeed the tray with a minimum of 20 sheets of paper and try to see if it loads paper through.\nThe paper thickness lever has two settings, one for plain paper, (thin paper 20# to 24#) and one for envelopes and thick paper.\nIt should be on the 0 setting for thin paper and on the + setting for thick paper and envelopes.\nThe paper adjustment lever may be adjusted in between the two settings to accommodate paper that is not standard or that the operating/environmental conditions have changed.\nMake sure the paper is loaded far enough into the printer to ensure good contact between the paper and the paper feed mechanism.\nReload the paper\nIf the printer continues to feed too many sheets, the paper may be sticking together (due to humidity)For testing purposes, try the following:\n1. Place 20-30 sheets of paper in a microwave oven for 3/4 seconds on the medium setting (to dry the paper)\n2. Fan the paper, separating each sheet to ensure that the paper is not sticking together.\n3. Reload the paper into the printer.\n4. Test print your document.\nIf all else fails change the brand or type of paper used, the paper specifications are located in the printer's user's manual.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-51770?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C200001~faq-51770",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:20.988522"
+        },
+        {
+          "question": "Heavy coated or thick paper does not load correctly or loads skewed. What should I do?",
+          "answer": "The paper you are using may be too heavy or glossy for the paper roller to pick up. Be sure the paper is within printer specifications.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-0000b08-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C200001~faq-0000b08-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:22.135248"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "My printout contains garbled characters when I print from my computer. What should I do?",
+          "answer": "Make sure you are using the correct driver. Select the Stylus COLOR 600 as your default printer driver. Check to see if there are any stalled print jobs in the Spool Manager. Delete all stalled jobs and resume printing. The interface cable may not be securely connected. Turn off the printer and computer. Disconnect and reconnect the cable on both the printer and computer. Make sure the printer cable is fully-shielded and meets the printer's specifications.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-32416?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C200001~faq-32416",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:23.300715"
+        },
+        {
+          "question": "My printout has incorrect margins. What should I do?",
+          "answer": "The paper may be loaded incorrectly. Make sure that the left and right edge guides are flush against both sides of the paper. Make sure the margins are set correctly in your software application (margins are not adjustable via the printer driver), and make sure you are not trying to print outside of the printable area of the page for your paper size (printable area of the page specifications are available in the User's Manual). Make sure the correct paper size is selected in the printer driver settings.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-32757?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C200001~faq-32757",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:24.404038"
+        },
+        {
+          "question": "The quality of my printed output is unacceptable. What should I do?",
+          "answer": "Verify that you are using the correct printer driver for your printer model. Make sure that the printer's paper adjust lever is set to 0 for regular paper and + for envelopes or thicker media. If MicroWeave is off, turn this feature on. If High Speed is on, turn it off. Make sure the Media Type setting matches the paper or media loaded. Also, the Halftoning and Color Adjustment Mode options may be set incorrectly for your document type. Let the printer driver automatically select the settings for the best quality. The paper you are using may be damaged, old, dirty or loaded incorrectly. Remove the paper and reload a new stack ensuring that the printable side is face up. If your output is faint, check the printer driver to make sure you have selected a print resolution other than Economy. For vertical banding, rough or grainy images run the Print Head Alignment utility to align the print heads for precise vertical lines. If the image does not contain the colors you expected, the color settings on your application software may need adjustment. Refer to your software documentation for help on adjusting colors. If the previous steps do not resolve the issue, the print head nozzles may be clogged. From the Utility section found in the EPSON printer driver, clean the print heads by performing a head cleaning followed by printing a nozzle check pattern. A head cleaning and nozzle check must be performed as a cycle. After printing a nozzle check, examine the printed dot pattern. Each staggered horizontal and straight vertical line should be complete, with no gaps in the dot pattern. If there are gaps in the dot pattern, continue with another cycle. Perform up to 6 cycles if necessary. If the nozzle check prints completely, and you're still experiencing a problem, make sure you are using the most current version of the printer driver. You can obtain the latest printer driver from the EPSON web site. The resolution of your image may also be set too low. Increase the image resolution using your image-editing software, or decrease the size of the image. Another troubleshooting test to try is moving the printer to another computer. This will eliminate the possibility of a defective printer cable, parallel port, or software issue. If you're still experiencing a problem, try replacing the ink cartridge and make sure you are using a genuine EPSON ink cartridge which has a white label on top of it. If the white label has been removed from the ink cartridge, do not install the cartridge. Using an ink cartridge which does not have the white label on it may damage the printer. If you have already installed a cartridge which is missing the white label, or if a previously installed ink cartridge was missing its white label at the time it was installed, and now head cleanings do not help the nozzle check pattern to print completely, your printer may require service and you should contact the EPSON Connection for further assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-32765?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C200001~faq-32765",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:25.561320"
+        },
+        {
+          "question": "My product is printing blank pages from Windows or my Mac. What should I do?",
+          "answer": "Make sure you are using the correct driver. Select the Stylus COLOR 600 as your default printer driver Paper menu settings in the printer driver may be set incorrectly for your paper size. Check the settings on the paper menu to make sure they are correct for your paper size. The print head nozzles may be clogged. From the Utility section found in the EPSON printer driver, clean the print heads by performing a head cleaning followed by printing a nozzle check pattern. A head cleaning and nozzle check must be performed as a cycle. After printing a nozzle check, examine the printed dot pattern. Each staggered horizontal and straight vertical line should be complete, with no gaps in the dot pattern. If there are gaps in the dot pattern, continue with another cycle. Perform up to 6 cycles if necessary. If the nozzle check is not printing completely, and if the head cleanings do not help the nozzle check pattern to print completely, try replacing the ink cartridge. Any ink cartridge installed into the printer must have a white label on top of it. If the white label has been removed from the ink cartridge, do not install the cartridge. Using an ink cartridge which does not have the white label on it may damage the printer. If you have already installed a cartridge which is missing the white label, or if a previously installed ink cartridge was missing its white label at the time it was installed, and now head cleanings do not help the nozzle check pattern to print completely, your printer may require service and you should contact the EPSON Connection for further assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-32782?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C200001~faq-32782",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:26.805899"
+        },
+        {
+          "question": "My printout is blurry or smeared. What should I do?",
+          "answer": "Make sure that the adjust lever is set to 0 for regular paper and + for envelopes or thicker media. If the paper seems damp or the printable side is face down, remove the paper and reload a new stack. If you have loaded special media without a support sheet, you may experience blurry printing. If the support sheet does not help, try loading one sheet at a time. If you tried to print on cardboard or other non-recommended media, your printouts may be blurry. Make sure the Media Type setting matches the paper or media loaded. Let the printer driver automatically select other settings for the best quality. Make sure multiple sheets are not entering the output tray causing the image to smear. Check to make sure that ink hasn't leaked into the printer. If there is excess ink, carefully clean the inside of the printer with a soft, dry cloth. If you are using High Speed and MicroWeave settings and the print heads are not aligned properly, try turning High Speed off and running the Print Head Alignment utility.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-32813?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C200001~faq-32813",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:32.130958"
+        },
+        {
+          "question": "My product sounds as though it is printing, but nothing prints. What should I do?",
+          "answer": "The print head nozzles may be clogged. From the Utility section found in the EPSON printer driver, clean the print heads by performing a head cleaning followed by printing a nozzle check pattern. A head cleaning and nozzle check must be performed as a cycle. After printing a nozzle check, examine the printed dot pattern. Each staggered horizontal and straight vertical line should be complete, with no gaps in the dot pattern. If there are gaps in the dot pattern, continue with another cycle. Perform up to 6 cycles if necessary. If the nozzle check is not printing completely, and if the head cleanings do not help the nozzle check pattern to print completely, try replacing the ink cartridge. Any ink cartridge installed into the printer must have a white label on top of it. If the white label has been removed from the ink cartridge, do not install the cartridge. Using an ink cartridge which does not have the white label on it may damage the printer. If you have already installed a cartridge which is missing the white label, or if a previously installed ink cartridge was missing its white label at the time it was installed, and now head cleanings do not help the nozzle check pattern to print completely, your printer may require service and you should contact the EPSON Connection for further assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-32809?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C200001~faq-32809",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:33.203866"
+        },
+        {
+          "question": "My printout has incorrect or missing colors. What should I do?",
+          "answer": "The Ink option in the printer driver may be set to Black instead of Color. If so, change the Ink setting to Color. Make sure the Media Type setting matches the paper or media you are using. Let the printer driver automatically select other settings for the best quality. Make sure the printable side of the paper is face up. The Halftoning and Color Adjustment Mode options may be set incorrectly for your document type. The color settings in your application software may need adjustment. Refer to your software documentation for help on adjusting colors. Incorrect or missing colors can also be attributed to clogged nozzles in the print head. From the Utility section found in the EPSON printer driver, clean the print heads by performing a head cleaning followed by printing a nozzle check pattern. A head cleaning and nozzle check must be performed as a cycle. After printing a nozzle check, examine the printed dot pattern. Each staggered horizontal and straight vertical line should be complete, with no gaps in the dot pattern. If there are gaps in the dot pattern, continue with another cycle. Perform up to 6 cycles if necessary. If the nozzle check is not printing completely, and if the head cleanings do not help the nozzle check pattern to print completely, try replacing the ink cartridge. Any ink cartridge installed into the printer must have a white label on top of it. If the white label has been removed from the ink cartridge, do not install the cartridge. Using an ink cartridge which does not have the white label on it may damage the printer. If you have already installed a cartridge which is missing the white label, or if a previously installed ink cartridge was missing its white label at the time it was installed, and now head cleanings do not help the nozzle check pattern to print completely, your printer may require service and you should contact the EPSON Connection for further assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-32819?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C200001~faq-32819",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:34.195597"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "If the printer is printing blank pages, make sure you are using the correct printer driver and make sure the paper size is correctly selected in the driver. If the printer is printing black only, the Ink option in the printer driver may be set to Black instead of Color or a setting in the software may be set to print black only. Also, the print head nozzles may be clogged. From the Utility section found in the EPSON printer driver, clean the print heads by performing a head cleaning followed by printing a nozzle check pattern. A head cleaning and nozzle check must be performed as a cycle. After printing a nozzle check, examine the printed dot pattern. Each staggered horizontal and straight vertical line should be complete, with no gaps in the dot pattern. If there are gaps in the dot pattern, continue with another cycle. Perform up to 6 cycles if necessary. If the nozzle check is not printing completely, and if the head cleanings do not help the nozzle check pattern to print completely, try replacing the ink cartridge. If you continue to experience this situation, please contact the EPSON Connection for further assistance.. Also, make sure you are using a genuine EPSON ink cartridge which has a white label on top of it. If the white label has been removed from the ink cartridge, do not install the cartridge. Using an ink cartridge which does not have the white label on it may damage the printer. If you have already installed a cartridge which is missing the white label, or if a previously installed ink cartridge was missing its white label at the time it was installed, and now head cleanings do not help the nozzle check pattern to print completely, your printer may require service and you should contact the EPSON Connection for further assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-32833?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C200001~faq-32833",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:35.171288"
+        },
+        {
+          "question": "I just replaced an ink cartridge and my product still won't print correctly. What should I do?",
+          "answer": "If you are having problem printing Black or Color after installing a new ink cartridge, please try the following to reseat the ink cartridge.\nIf the Ink-out lights are on:\nPress the cleaning button and hold for 3 seconds.\nThe print head should move to the install position (the position to change the ink cartridge).\nLift the clamp, which locks the ink cartridge in place, all the way up but do not remove the ink cartridge.\nClose the clamp on the ink cartridge.Press and release the Load/Eject button.\nIf the Ink-out lights are off:\nPress the Load/Eject\nbutton and hold for 3 seconds.\nThe print head should move to the install position (the position to change the ink cartridge).\nLift the clamp, which locks the ink cartridge in place, all the way up but do not remove the ink cartridge.\nClose the clamp on the ink cartridge.Press and release the Load/Eject button.\nWhen preparing the ink cartridge for installation, make sure the white label on the ink cartridge, is not removed along with the yellow tape. If the white label is removed, the ink can dry up very quickly. This can, in turn cause no print, severe banding or ultimately damage the print head. If the white label was removed, replace the ink cartridge immediately.\nNote: The instructions above will reset the ink cartridge's counter to zero (representing a new ink cartridge) and may result in the ink cartridge running empty without the printer's ink out lights becoming lit if performed when ink cartridge has been used for printing prior to the problem.\nRun an extended Cleaning Cycle:\n* Hold down the Cleaning button for 60 seconds.\n* Let the cleaning cycle complete.\nPrint the nozzle check from the printer driver options / utilities and check the output. Repeat the cleaning cycles from the utilities menu, if necessary, with a nozzle check between each cleaning cycle.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-42888?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C200001~faq-42888",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:36.172399"
+        },
+        {
+          "question": "My printout is missing some characters. What should I do?",
+          "answer": "Video driver conflict\nSome video drivers may cause a conflict in memory between the printerdriver and video memory. Try changing to the Windows video driver provided by Microsoft or check to see if the video card manufacturer has an updated video driver available. This is often the cause of strange printing problems such as heavy banding and missing characters.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-42902?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C200001~faq-42902",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:40.994053"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Scan",
+      "section_id": "8796127569996",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "What scanning resolution should I use to get the best results when I print the scanned image?",
+          "answer": "The Line Screen Frequency for EPSON Stylus printers can be calculated using the following formula:\nPrinting\nResolution\n____________\n3\nX\n1\n___\n2\n=\nLine Screen\nFrequency\nYou should set the minimum scan resolution at 1/3rd of the desired print resolution. For example, for a print resolution of 720dpi, you will need to set the scan resolution to 240dpi or higher. If you are going to increase the size of the printed image then you should scan at a higher dpi resolution.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-42900?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C200001~faq-42900",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:41.935547"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "How do I calibrate my product?",
+          "answer": "To align the print heads, make sure that paper is loaded and the printer has power. Access the Utility tab (Windows) or Utility button (Macintosh) located in your printer driver settings. Click the Print Head Alignment icon and follow the instructions on the screen to print a test page and select the correct alignment.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-32642?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C200001~faq-32642",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:42.879810"
+        },
+        {
+          "question": "Calibration doesn't seem to have any effect. What should I do?",
+          "answer": "Make sure that whenever you turn off the printer, you are always using the printer's power button. Never use an external switch, such as a power strip, surge protector, or power protector, to turn off the printer. If you turn the printer off using an external switch, calibration settings will not be saved.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-0000ab0-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C200001~faq-0000ab0-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:43.781083"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C200001~faq-00004dc-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:44.717658"
+        },
+        {
+          "question": "How do I change the font size of text when I print from software in Windows?",
+          "answer": "You need to select the text or font size in the software you are printing from, not the printer driver. For detailed instructions, contact the company for the application you are printing from.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-00004b7-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C200001~faq-00004b7-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:45.646300"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 9,
+      "faqs": [
+        {
+          "question": "When printing in Windows, how can I prevent an extra page from being ejected after every print job?",
+          "answer": "The Separator Page function may be enabled. Follow these steps to disable it:\nClick\nStart\nor\n.\nDo one of the following:\nWindows XP\n:\nSelect\nPrinters and Faxes\n(or select\nSettings\n, then select\nPrinters and Faxes\n).\nWindows Vista\n:\nSelect\nControl Panel\n, then\nPrinter\nor\nPrinters\nunder Hardware and Sound\n.\nWindows 7\n:\nSelect\nControl Panel\n, then\nView Devices and Printers\nunder Hardware and Sound.\nIn the\nPrinters\nor\nPrinters and Faxes\nwindow, right-click on your printer's name.\nSelect\nProperties\n, click the Advanced tab, then press the\nSeparator Page\nbutton.\nIn the Separator Page window, delete the information in the text box and then click\nOK\n.\nClick\nOK\nagain.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-134062?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C200001~faq-134062",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:46.530321"
+        },
+        {
+          "question": "My product's control panel locks up after I print a document from Windows. The buttons on the panel do not respond unless I disconnect the parallel cable from the back of my product. What should I do?",
+          "answer": "Some computers send an initialize/reset signal during the boot-up process. If the printer cable picks up any noise during this process, the initialize line will not complete its reset phase and cause the control panel to lock. Try booting the computer to Windows, then turn the printer ON using the printer's power switch and try printing again. A defective cable can also cause this situation. Make sure you are using a fully-shielded parallel cable, preferably 6 feet or less.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-32409?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C200001~faq-32409",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:47.442687"
+        },
+        {
+          "question": "The Power light is on, but nothing prints. What should I do?",
+          "answer": "Make sure the printer cable is connected. Turn off the printer and computer. Make sure the printer cable is securely connected to the printer and computer ports. Turn on the printer and try printing again. If the cable was not the issue, turn off the printer and computer, disconnect the interface cable and run a self-test. If the self-test works, check the application software for correct installation. Make sure your computer has enough memory to handle the data in your print file. You may want to try reducing the resolution of your image, select fewer colors, or add more memory to the computer. If you are still having difficulty printing and you are using Windows, try checking the Spool Manager to see if it is on hold or if there are stalled print jobs. If you are using a Macintosh, make sure your Spool Folder is empty. If the printer sounds like it is printing, but there is no ink on the paper, The print head nozzles may be clogged. From the Utility section found in the EPSON printer driver, clean the print heads by performing a head cleaning followed by printing a nozzle check pattern. A head cleaning and nozzle check must be performed as a cycle. After printing a nozzle check, examine the printed dot pattern. Each staggered horizontal and straight vertical line should be complete, with no gaps in the dot pattern. If there are gaps in the dot pattern, continue with another cycle. Perform up to 6 cycles if necessary. If the nozzle check is not printing completely, and if the head cleanings do not help the nozzle check pattern to print completely, try replacing the ink cartridge. Any ink cartridge installed into the printer must have a white label on top of it. If the white label has been removed from the ink cartridge, do not install the cartridge. Using an ink cartridge which does not have the white label on it may damage the printer. If you have already installed a cartridge which is missing the white label, or if a previously installed ink cartridge was missing its white label at the time it was installed, and now head cleanings do not help the nozzle check pattern to print completely, your printer may require service and you should contact the EPSON Connection for further assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-32630?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C200001~faq-32630",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:48.327415"
+        },
+        {
+          "question": "The print head hits against the side of my product. What should I do?",
+          "answer": "Try a factory reset on the printer.\n* Ensure that the printer cable is disconnected from the rear of the printer.\n1. Turn the printer off.\n2. Press the printer's power button while holding down the LOAD/EJECT & CLEANING buttons until the Paper Out light begins to flash, then release the LOAD/EJECT & CLEANING buttons and press the LOAD/EJECT button.\nNote: This does not reset the printers counters.\nIf the reset fails to correct the problem, then the printer should be serviced.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-42886?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C200001~faq-42886",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:47.434025"
+        },
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-000096d-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C200001~faq-000096d-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:48.355191"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C200001~faq-00004b0-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:49.290126"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C200001~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C200001~faq-0000f4a-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-600/s/SPT_C200001",
+          "fetched_at": "2026-04-02T00:27:50.430408"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

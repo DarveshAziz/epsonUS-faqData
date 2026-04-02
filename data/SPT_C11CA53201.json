@@ -1,0 +1,1395 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "All-In-Ones",
+  "series": "Artisan Series",
+  "model": {
+    "name": "Epson Artisan 710",
+    "sku": "SPT_C11CA53201",
+    "url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "I brought my product with me to a different country and can't find ink for it. What should I do?",
+          "answer": "Some Epson printers and ink cartridges are specific to a regional market and not sold worldwide, although the same printers are sold in the U.S. and Canada. If you have a printer sold in the U.S. or Canada, you may not be able to easily get ink cartridges for it in foreign markets.\nUnfortunately, because of customs and tax regulations, the Epson E-Stores in the U.S. and Canada are unable to ship to addresses outside the U.S. and Canada.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000956-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA53201~faq-0000956-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:34:48.593629"
+        },
+        {
+          "question": "How do I find my SSID and network password?",
+          "answer": "Check your router documentation for this information. Most routers have a default SSID and password that can be modified once the router is set up.\nNote:\nThe SSID is the name of the wireless network that is set up on your router or access point.\nIf you don't know this information, you'll need to contact the manufacturer of your router or the person who set up your network.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000ae9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA53201~faq-0000ae9-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:34:49.694499"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-00004c5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA53201~faq-00004c5-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:34:50.797119"
+        },
+        {
+          "question": "I see the message Cannot connect to Internet in Windows 8.1 after I select Driver Update in my product software. What should I do?",
+          "answer": "The\nDriver Update\noption does not work in Windows 8.1. All other driver options will work correctly.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000958-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA53201~faq-0000958-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:34:51.842139"
+        },
+        {
+          "question": "Can the Epson ink cartridges be refilled or can I use third-party ink cartridges without voiding the warranty?",
+          "answer": "Epson does not recommend refilling or using other brands of ink cartridges.  Epson uses a permanent Micro Piezo print head that has allowed Epson to lead the industry in delivering consistent photo image quality by using variable-sized droplets.  Micro Piezo print head can also use a wider variety of inks, which has allowed Epson to introduce such ink breakthroughs as DURABrite® and Epson UltraChrome® inks that offer greatly improved humidity resistance, smudge resistance, and fade resistance.\nUsing refilled ink cartridges will not void the product's original warranty; however, if these products cause a failure, the repair of that failure will not be covered under warranty.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000bf9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA53201~faq-0000bf9-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:34:52.907109"
+        },
+        {
+          "question": "Can I use hole-punched paper with my product?",
+          "answer": "No. The product does not support this paper type.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000ab4-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA53201~faq-0000ab4-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:34:53.975099"
+        },
+        {
+          "question": "I cannot launch the EPSON Event Manager, how do I uninstall and reinstall the application?",
+          "answer": "Do the following:\nDownload the Uninstall Center Utility from the Downloads tab for your product.\nExtract the contents of the zip file you downloaded onto your hard drive.\nQuit all applications currently running on your Mac.\nOpen the\nApplications\n>\nEpson software\nfolder.\nDouble-click the\nEPSON Scan Uninstaller\nicon.\nSelect\nUninstall\n, then click the\nUninstall\nbutton.\nFollow the on-screen instructions to uninstall the software.\nDelete the\nCommon\nfolder and\nEvent Manager\nin the Mac's Application folder (\nHard drive\\Applications\\Epson software\n).\nDelete the highlighted files and folders below from the Mac's Library Preferences folder (\nHard drive\\Users\\login_name\\Library\\Preferences\n).\nRestart your computer.\nRe-install EPSON Scan and the Event Manager from the product software CD or from the Downloads tab for your product.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000957-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA53201~faq-0000957-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:34:55.051147"
+        },
+        {
+          "question": "Heavy coated or thick paper does not load correctly or loads skewed. What should I do?",
+          "answer": "The paper you are using may be too heavy or glossy for the paper roller to pick up. Be sure the paper is within printer specifications.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000b08-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA53201~faq-0000b08-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:34:56.190651"
+        },
+        {
+          "question": "An area I highlighted with a fluorescent (or neon) marker does not appear in my scan. What should I do?",
+          "answer": "Try using a non-fluorescent marker. This limitation occurs with some scanners that use a contact image sensor (CIS) and cannot detect fluorescent marks accurately, especially yellow marks.\nIf you need to scan a document with fluorescent marks, we recommend you use a scanner with charge-coupled device (CCD) technology or a full-color contact image sensor, both of which can detect fluorescent marks. The following Epson products feature CCD or full-color CIS optics:\nDS-30000\nDS-32000\nWorkForce DS-50000\nWorkForce DS-60000\nWorkForce DS-70000",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-00008c5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA53201~faq-00008c5-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:34:57.262759"
+        },
+        {
+          "question": "When I try to print to my product in Windows 7, printing is slow or my product stops printing. What should I do?",
+          "answer": "Try the following:\nSelect a lower quality setting in the printer software.\nMake sure your system meets the minimum system requirements for your printer.\nClose the\nDevices and Printers\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000bf3-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA53201~faq-0000bf3-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:34:58.391038"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Cloud or Mobile",
+      "section_id": "8796127340620",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Where can I find information about Epson iPrint app?",
+          "answer": "See our FAQ page for the app (\niOS\nor\nAndroid\n).",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000950-shared?faq_cat=faq-8796127340620",
+          "faq_slug": "SPT_C11CA53201~faq-0000950-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:34:59.434910"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "How do I print in black/grayscale only?",
+          "answer": "Follow the steps below for your operating system to select\nBlack/Grayscale\nor\nGrayscale\nin the printer driver.\nThe printer software does not have an option for Black Ink Only. To keep the print head clear and ready to print, the printer uses a small amount of ink from all the cartridges whenever it prints. Even if you select\nBlack/Grayscale\nor\nGrayscale\n, some color ink is still being used.\nWindows 2000, XP, Vista\nOpen the File menu and select\nPrint\n.\nClick\nProperties\nor\nPreferences\n, and click the\nAdvanced\ntab.\nUnder Print Options, select\nBlack/Grayscale\nand click\nOK\n.\nMacintosh 10.3.x, 10.4.x, 10.5.x\nOpen the File menu and select\nPrint\n.\nWith Macintosh OS X 10.5.x, click the\nbutton to expand the Print window, if necessary.\nMake sure the correct printer is selected, and select\nPrint Settings\nfrom the printer options pop-up menu.\nSelect\nGrayscale\nfor the\nColor\nsetting.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142039?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA53201~faq-142039",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:00.549654"
+        },
+        {
+          "question": "Can I print on transparencies?",
+          "answer": "No. The printer will not recognize this type of media.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142067?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA53201~faq-142067",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:01.588248"
+        },
+        {
+          "question": "Printing and scanning seems slow on my product when I use a wireless connection (router or access point). What should I do?",
+          "answer": "You can check the Signal Strength by printing a\nNetwork Status Sheet\nor checking the number of bars next to the\nWiFi icon on top of the control panel. To print a\nNetwork Status Sheet\n, Do the following:\nIf necessary, select\nSetup\non the control panel to enter the Setup menu.\nSelect\nNetwork Settings\n.\nSelect\nConfirm Network Settings\n.\nPress the\nStart\nbutton to print a network status sheet.\nIf the Signal Strength is poor or you see only one or two bars, try the following:\nMove the computer and all-in-one closer to your wireless router or access point.\nAvoid placing the all-in-one or wireless access point near a microwave oven, 2.4 GHz cordless phone, or large metal objects such as a filing cabinet.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142126?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA53201~faq-142126",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:02.676387"
+        },
+        {
+          "question": "How do I print a multi-page document from Windows or my Mac so it stacks in the correct page order?",
+          "answer": "Follow the steps below for your operating system to print a multi-page document in reverse order.\nWindows 2000, XP, Vista\nOpen the File menu and select\nPrint\n.\nClick\nProperties\nor\nPreferences\n.\nClick the Main tab.\nSelect\nReverse Order\n.\nClick\nOK\n.\nMacintosh 10.3.x, 10.4.x, 10.5.x\nOpen the File menu and select\nPrint\n.\nWith Macintosh OS X 10.5.x, click the\nbutton to expand the Print window, if necessary.\nSelect\nPaper Handling\nfrom the printer options pop-up menu.\nSelect\nReverse\nfor the Page Order setting.\nClick\nPrint\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142154?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA53201~faq-142154",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:03.755482"
+        },
+        {
+          "question": "How do I copy a document or photo using my product's control panel?",
+          "answer": "See\nCopy a Photo\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144806?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA53201~faq-144806",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:04.852370"
+        },
+        {
+          "question": "Can I print on CDs and DVDs?",
+          "answer": "Yes. See\nPrint on a CD or DVD\nfor details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144846?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA53201~faq-144846",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:06.051537"
+        },
+        {
+          "question": "How do I set up my product for the fastest printing?",
+          "answer": "If you're printing from your computer, make sure your system\nmeets the requirements\n. If you're printing a high-resolution image, you need more than the minimum requirements listed.  If you are printing over a wireless network, your signal strength may be low. You may also need to:\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.\nIf you installed the all-in-one using a USB cable, use a computer with a high-speed USB 2.0 port.\nIf you installed the all-in-one using an Ethernet cable, use a computer and router (or hub or switch) with 100 Base-T ports.\nIf you installed the all-in-one as a wireless printer, use a computer and a router or wireless access point with 802.11g. Try moving the all-in-one and your wireless router or access point closer together. Also avoid placing your all-in-one next to large metal objects (such as a filing cabinet), microwave ovens, or 2.4 GHz cordless phones.\nFor the fastest printing, try these tips:\nChoose\nBlack/Grayscale\nor\nGrayscale\nin your printer settings if your document doesn't include color.\nFor Windows, choose\nDraft\nfor the Quality Option.\nFor Macintosh, set the Quality/Speed slider to\nSpeed\n.\nIf the all-in-one is connected to a USB hub, disconnect unused USB devices.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144822?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA53201~faq-144822",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:07.153103"
+        },
+        {
+          "question": "How do I restore the colors in faded photos?",
+          "answer": "If you are making a copy of a photo using the control panel, see\nRestore, Crop, or Copy Multiple Photos\n.\nIf you are scanning a photo to your computer using Epson Scan, see\nRestore Color as You Scan\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144847?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA53201~faq-144847",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:08.229722"
+        },
+        {
+          "question": "The CD/DVD won't feed correctly or is ejected. What should I do?",
+          "answer": "Check the following:\nMake sure you load the CD/DVD correctly. See\nLoad a CD/DVD\n.\nMake sure the surface of the CD/DVD you are printing on is blank and clean. A CD/DVD with images or text already on the surface area may not load correctly.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144849?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA53201~faq-144849",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:09.326124"
+        },
+        {
+          "question": "How do I print a borderless photo from Windows or my Mac?",
+          "answer": "Do the following:\nFor Windows, click the\nBorderless\ncheckbox on the Main tab of the printer driver. See\nSelect Basic Options\nfor more details.\nFor a Macintosh, select a paper size with Borderless listed. See\nSelect Page Options\n(Mac OS X 10.3 and 10.4) or\nSelect Page Setup Options\n(Mac OS X 10.5) for more details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144845?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA53201~faq-144845",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:10.409786"
+        },
+        {
+          "question": "How do I use the copy feature to print a label on a CD/DVD?",
+          "answer": "See\nCopy Onto CDs/DVDs\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144850?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA53201~faq-144850",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:11.470722"
+        },
+        {
+          "question": "When I copy a CD/DVD, the printed image is smaller than the original. What should I do?",
+          "answer": "Make sure the settings on the printer's control panel are set correctly, and the inner and outer diameter match the actual CD/DVD size. Then place a clean piece of bond paper over the CD/DVD on the document table, close the printer lid, and press\nCopy\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-153407?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA53201~faq-153407",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:12.519997"
+        },
+        {
+          "question": "Printing is slow or my product stops printing when I try to print from Windows or OS X. What should I do?",
+          "answer": "If printing becomes slow, try the following:\nMake sure your system meets the requirements for your operating system. If you are printing a high-resolution\n                    image, you may need more than the minimum requirements. If necessary, increase\n                    your system's memory.\nIf you're using Windows 7, close the\nDevices and Printer\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility to free up existing space.\nClose any programs that you're not using when you print.\nIf your product is connected to a USB hub, connect it directly to your computer instead.\nIf printing becomes slower after printing continuously for a long time, the product may have automatically slowed down to protect the print mechanism from\n                    overheating or becoming damaged. Let the product rest with the power on for 30\n                    minutes, then try printing again.\nIf the above steps did not improve your print speed, the\nEPAUDF01.AUD\nfile can be deleted.\nNote:\nRemoval of this temporary file is not an option in Windows 8 or Mac OS.\nFollow the instructions below to delete this temporary file:\nWindows 7 and Windows Vista\nClick on the\nbutton and click on\nMy Computer\n.\nDouble-click the\nLocal Disk C:\nand locate the\nProgramData\nfolder.\nOpen the\nProgramData\nfolder and double-click the\nEPSON\nfolder.\nNext, open the\nPRINTER\nfolder by double-clicking it.\nRight-click into the\nEPAUDF01.AUD\nfile and click\nDelete\n.\nOnce deleted, restart your computer.\nTry to print again.\nIf you do not see the ProgramData Folder try the following to unhide it:\nClick into the\nOrganize\nbutton from the Menu Bar.\nScroll down and click on\nFolder and search options\nand a Folder Options window will open.\nClick on the\nView\ntab. Under the Advance settings section locate the\nShow hidden files, folders, and drives\noption and mark the radio\n                    button. Once marked click\nOK\n.\nWindows XP\n:\nClick the\nand select\nMy Computer\n.\nDouble-click the\nLocal Disk C:\nand open the\nDocuments and Settings\nfolder.\nLocate the\nAll User\nfolder and double-click to open it.\nNext double-click to open\nApplication Data\nfolder and then the\nEPSON\nfolder.\nDouble-click to open the\nPRINTER\nfolder.  Right-click into the\nEPAUDF01.AUD\nfile and click\nDelete\n.\nOnce deleted, restart your computer.\nTry to print again.\nIf you do not see the Application Data Folder try the following to unhide it:\nClick into the\nTools\noption from the Menu Bar and select\nFolder Options\n, a new window will appear.\nSelect the\nView\ntab. Under the Advance settings section locate the\nShow hidden files, folders, and drives\noption and mark the radio button.\nOnce marked click\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-233590?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA53201~faq-233590",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:13.616870"
+        },
+        {
+          "question": "I am unable to print via Bluetooth from my iPhone, iPad or iPod. What should I do?",
+          "answer": "iPhone, iPad and iPod do not support native print services. The Bluetooth connection on these devices is for headset and hands-free device connectivity only.\nTo print photos from an iPhone, iPad or iPod, you can use Epson iPrint. See the\nEpson iPrint FAQs\npage for more information on this application.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142159?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA53201~faq-142159",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:14.664305"
+        },
+        {
+          "question": "I can print wirelessly to my product on my home network, but I can't print when I connect the same computer to a VPN (virtual private network). What should I do?",
+          "answer": "Your product is set up to communicate wirelessly with your home network. When you connect to a VPN, your computer is no longer communicating with your home network, so it cannot print to the product. You'll need to connect to your home network to print again.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000ad6-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA53201~faq-0000ad6-shared",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:15.860015"
+        },
+        {
+          "question": "When I try to print to my product in Windows 7, printing is slow or my product stops printing. What should I do?",
+          "answer": "Try the following:\nSelect a lower quality setting in the printer software.\nMake sure your system meets the minimum system requirements for your printer.\nClose the\nDevices and Printers\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000bf3-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA53201~faq-0000bf3-shared",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:16.964078"
+        },
+        {
+          "question": "Does OS X support manual duplex printing with my product?",
+          "answer": "This feature is not supported in Mac OS X. However, if your printer has a built-in automatic duplexer, auto-duplexing is supported in Mac OS X 10.6 (Snow Leopard).",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000c1d-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA53201~faq-0000c1d-shared",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:18.051999"
+        },
+        {
+          "question": "It takes a long time to copy a document. What should I do?",
+          "answer": "Try the following:\nSelect\nB&W\nas the copy type.\nSelect\nWith Border\nas the layout type.*\nMake sure\n2-Sided Printing\nis turned off.*\nSelect\nPlain Paper\nas the paper type.\nSelect\nDraft\nor\nStandard\nas the quality type.\nMake sure\nDry Time\nis set to\nStandard\n.*\n* This step may not apply to your all-in-one.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-151061?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA53201~faq-151061",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:19.103587"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "I see the message Scanner Not Ready or Epson Scan will not start in Windows or on my Mac. What should I do?",
+          "answer": "Try the following:\nMake sure your product is turned on and securely connected to your computer or USB hub.\nIf your product is connected to a USB hub, make sure it's connected to a first tier hub (the hub closest to the computer) that has its own A/C adapter when more than one hub is connected to the computer.\nTry restarting your computer.\nMake sure Epson Scan is set up correctly for your connection type. See the steps below:\nMake sure the product is turned on.\nDo one of the following:\nWindows 8\n: Navigate to the\nStart\nscreen, right-click the screen, select\nAll apps\n, then select\nEPSON Scan Settings\n.\nWindows (other versions)\n: Click\nStart\nor\n, and select\nPrograms\nor\nAll Programs\n. Select\nEPSON Scan\n>\nEPSON Scan Settings\n(or\nEPSON\n, then\nEPSON Scan\n, and then\nEPSON Scan Settings\n.)\nMac\n: Search for\nEPSON Scan Settings\n, then click\nEPSON Scan Settings\nto open it.\nIf you see the screen below, click\nNo\n. The screen may appear twice.\nMake sure the correct scanner is selected.\nDo one of the following:\nIf the product is connected to your computer with a USB cable, make sure the\nConnection\nsetting is set to\nLocal\n, then skip the remaining steps.\nIf the product is set up on a network, make sure the\nConnection\nsetting is set to\nNetwork\nand your scanner appears under Network Scanner Address with the correct IP address, if these settings are correct, skip the remaining steps. If the IP address for your product does not appear, click\nAdd\n.\nNote:\nIf you don't know your product's IP address, print a Confirm Network Settings page from the printer's control panel. The IP address will appear on the page.\nClick\nAdd\n.\nSelect the IP address that appears in the list. If more than one IP address appears, be sure to select the one that matches your product's IP address.\nIf you have a firewall or Internet security software installed, the search feature may not work correctly. In this case, click\nEnter address\n, and enter the IP address manually.\nClick\nOK\n.\nClick\nOK\nagain to close the Epson Scan settings window.\nIf the steps above do not help, try the following.\nWindows 7 and Windows Vista\n:\nTurn off the printer.\nUninstall Epson Scan.\nRestart your computer.\nOpen Windows Explorer (right-click\n, then select\nExplore\nor\nOpen Windows Explorer\n).\nNavigate to\nC:\\Windows\nLocate the\ntwain_32\nfolder and rename it to a different name such as\ntwain_32_old\n.\nRestart your computer.\nReinstall Epson Scan.\nWindows (other versions)\nor\nMac\n: Uninstall and reinstall the Epson Scan software.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142083?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA53201~faq-142083",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:20.204584"
+        },
+        {
+          "question": "The product displays an error that the CD tray is not inserted correctly. What should I do?",
+          "answer": "Try the following:\nNote:\nIf you're using discs where the printable area extends to within 0.16 inch (4 mm) of the edge of the center hole, you may need to adjust the inner diameter setting in the File menu of the Epson Print CD software or on the Artisan control panel.\nFirst burn files, music, or video onto your CD/DVD before printing on it to prevent errors.\nTurn on the Artisan.\nPush in the output tray.\nRaise the control panel all the way up.\nPress the CD Tray button to eject the CD/DVD tray.\nCaution:\nDo not try to pull the CD/DVD tray out; it extends automatically as far as possible.\nPlace your disc on the CD/DVD tray with the label side up. Gently press it in place (it does not snap in).\nPress the\nCD Tray\nbutton to position the CD/DVD for printing.\nNote:\nThe CD/DVD tray will retract automatically if you wait several minutes before pressing the button.\nCaution:\nDo not turn the Artisan 710 Series off with a CD or DVD loaded in it. Always remove the disc first.\nNow you can print on the CD/DVD using the Epson Print CD software on your computer or the Artisan control panel.\nAfter printing, remove the printed CD/DVD.\nGeneral tips for CD and DVD printing\nBurn data/video/images onto CDs or DVDs before attempting to print on them.\nDo not use thermal-printable or regular CDs or DVDs in the printer.\nMoisture or fingerprints on the printable surface of the CD may cause marks or smearing to appear after printing.\nAll printable inkjet media is different. Some surfaces will absorb ink better than others.\nIf output appears banded, faded, or streaky, print a Nozzle Check pattern to confirm that all colors of ink are printing completely.\nIf the ink does not completely dry or smears after 24 hours curing time, you may need to use the Epson Print CD tools to adjust (lower) the print density.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-151623?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA53201~faq-151623",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:21.266972"
+        },
+        {
+          "question": "I see a message when I try to convert a document to editable text (OCR) using Presto! Page Manager. What should I do?",
+          "answer": "Do the following:\nPlace your original document(s) on the scanner glass or in the Automatic Document Feeder.\nDo one of the following to start Presto! PageManager:\nWindows:\nClick\nor\nStart\n, click\nPrograms\nor\nAll Programs\n, open the\nPresto! PageManager\nfolder, and select\nPresto! PageManager\n.\nMac OS X:\nOpen the\nApplications\nfolder, open the\nPresto! PageManager\nfolder, and select the\nPresto! PageManager\nprogram icon.\nFrom the File menu, choose\nSelect Source\n. Then select your printer and click\nOK\n.\nClick the\nOCR\nicon on the Presto! Scan Buttons toolbar.\nYour document is scanned, processed into editable text, and opened in the Presto! PageManager window.\nFollow the instructions in Presto! PageManager Help to edit and save your document.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-153985?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA53201~faq-153985",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:22.407239"
+        },
+        {
+          "question": "I see the message: Error:/Library/Printers/EPSON/inkjetPrinter2/Filter/rastertopll.app/Contents/MacOS/rastertopll failed. What should I do?",
+          "answer": "Do the following:\nTurn off the printer.\nChoose\nSystem Preferences\n>\nPrint & Fax\n, then select your all-in-one and click the\n—\nbutton.\nClose the\nPrint & Fax\nfolder.\nOpen the Hard Drive, choose\nLibrary\n>\nPrinter\n>\nEpson\n, then delete the\nEpson\nfolder.\nIn the Hard Drive, choose\nLibrary\n>\nPrinters\n>\nPPD\n>\nContents\n>\nResources\n, then select the .gz file for your all-in-one. Delete the file.\nIn the Hard Drive, choose\nLibrary\n>\nCaches\n>\nEpson\n, then delete the\nEpson\nfolder.\nRestart the Mac.\nTurn on the printer.\nChoose\nApple\nmenu,\nSoftware Update...\nand follow the on-screen instructions. You can also download the printer software from the\nDownloads\ntab for your all-in-one.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-162862?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA53201~faq-162862",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:23.477878"
+        },
+        {
+          "question": "I see the message Installation Failed or Installation could not be completed due to the following error: 0x11 when I install my product software. What should I do?",
+          "answer": "An update to Windows 7 64-Bit Edition has caused the network installation on the product CD to not function properly. The driver files need to be updated.  Instead of using the CD to install the driver, please visit\nwww.epson.com/support\nand download the Drivers and Utilities Combo Driver package for your printer.\nDo the following:\nGo to\nwww.epson.com/support\n.\nUse the\nProduct Finder\nor select your product from the list.\nSelect\nDrivers and Utilities Combo Package\nfor Windows 7 64-bit Edition, then select\nDownload Now\n.\nFollow the on-screen instructions to install the software.\nTo install additional software utilities from the CD, follow the instructions below:\nInsert the CD into your computer's CD-ROM drive.\nSelect\nCustom.\nDeslect the\nPrinter Driver\nbox.\nSelect\nInstall\n. (All software will be installed except for the printer driver.)",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-181487?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA53201~faq-181487",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:24.575811"
+        },
+        {
+          "question": "The message An Error Has Occurred appears on my product's display screen. What should I do?",
+          "answer": "Please check the following:\nIf the CD tray is in the eject position, make sure you press the\nCD Tray\nbutton to retract the tray to the storage position.\nNever push or pull the CD tray into position.\nTurn the Artisan off and make sure paper is not jammed inside the unit.\nMake sure the transportation lock has been removed.\nStore the transportation lock as shown below.\nIf you continue to see the message on your control panel after the transportation lock has been removed, your printer may require service.\nPlease contact Epson support when you are with your computer and printer setup. The representative will assist you with a brief telephone diagnostic to confirm the need for service",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-204542?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA53201~faq-204542",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:25.718461"
+        },
+        {
+          "question": "I see the message Cannot connect to Internet in Windows 8.1 after I select Driver Update in my product software. What should I do?",
+          "answer": "The\nDriver Update\noption does not work in Windows 8.1. All other driver options will work correctly.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000958-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA53201~faq-0000958-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:26.772948"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA53201~faq-00004c5-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:27.817915"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Image Quality or Appearance",
+      "section_id": "8796127275084",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "An area I highlighted with a fluorescent (or neon) marker does not appear in my scan. What should I do?",
+          "answer": "Try using a non-fluorescent marker. This limitation occurs with some scanners that use a contact image sensor (CIS) and cannot detect fluorescent marks accurately, especially yellow marks.\nIf you need to scan a document with fluorescent marks, we recommend you use a scanner with charge-coupled device (CCD) technology or a full-color contact image sensor, both of which can detect fluorescent marks. The following Epson products feature CCD or full-color CIS optics:\nDS-30000\nDS-32000\nWorkForce DS-50000\nWorkForce DS-60000\nWorkForce DS-70000",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-00008c5-shared?faq_cat=faq-8796127275084",
+          "faq_slug": "SPT_C11CA53201~faq-00008c5-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:28.921569"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "Can the product still print if an ink cartridge is expended or not installed?",
+          "answer": "No. The all-in-one will not operate if any cartridge is expended or removed. It's best to always have extra cartridges on hand.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142027?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA53201~faq-142027",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:30.045377"
+        },
+        {
+          "question": "The color ink cartridge is expended even though I print in black only. Why does this happen?",
+          "answer": "To keep the print head clear and ready to print, the printer uses a small amount of ink from all the cartridges whenever it prints. Even if you select\nBlack/Grayscale\nor\nGrayscale\n, some color ink is still being used.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142028?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA53201~faq-142028",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:31.148075"
+        },
+        {
+          "question": "I installed new ink cartridges and my product seems to be doing a long cleaning cycle. Is this normal?",
+          "answer": "Yes. It takes about 5 minutes for the printer to charge the ink delivery system when you install the first set of ink cartridges. When you replace the ink cartridges the printer takes about 2 to 3 minutes to charge the ink.\nNote:\nNever turn off the printer while it is charging the ink delivery system (unless the it hasn't moved or made noise for more than 5 minutes). This initialization is a normal and necessary process. If it does not stop after 5 minutes, turn off the printer and contact Epson technical support for assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142030?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA53201~faq-142030",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:32.271559"
+        },
+        {
+          "question": "How long should an ink cartridge remain in my product if it's not used often?",
+          "answer": "When an installed ink cartridge is more than six months old, you may need to replace it if you notice that your printouts don't look as good as they used to and quality doesn't improve after cleaning and aligning the print head.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142070?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA53201~faq-142070",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:33.428028"
+        },
+        {
+          "question": "How do I know when an ink cartridge needs to be replaced?",
+          "answer": "When you see a message on the display screen, the all-in-one will require you to change the cartridge. You need to replace a cartridge when it's expended or it gets too old. See\nReplace Ink Cartridges\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144804?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA53201~faq-144804",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:34.901504"
+        },
+        {
+          "question": "Which ink cartridges should I use with my product?",
+          "answer": "You can use the following cartridges:\nInk cartridge\nPart number\nStandard-Capacity\nHigh-Capacity\nBlack\n—\n98\nCyan\n99\n98\nMagenta\n99\n98\nYellow\n99\n98\nLight Magenta\n99\n98\nLight Cyan\n99\n98\nWe recommend that you use genuine Epson cartridges and do not refill them. The use of other products may affect your print quality and could result in printer damage.\nYields vary considerably based on images printed, print settings, paper type, frequency of use, and temperature. For print quality, a small amount of ink remains in the cartridge after the \"replace cartridge\" indicator comes on. The printer ships with full cartridges and part of the ink from this first set of cartridges is used for priming the printer.\nFor best printing results, a cartridge should be used within six months of opening the package.\nStore ink cartridges in a cool, dark place. If cartridges have been exposed to cold temperatures, allow them to warm up to room temperature for at least 3 hours before using them.\nLeave your old cartridges installed until you are ready to\nreplace them\nto prevent the print head nozzles from drying out.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144805?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA53201~faq-144805",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:36.010091"
+        },
+        {
+          "question": "How do I change the ink cartridges?",
+          "answer": "See\nReplace Ink Cartridges\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144817?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA53201~faq-144817",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:38.134389"
+        },
+        {
+          "question": "Can the Epson ink cartridges be refilled or can I use third-party ink cartridges without voiding the warranty?",
+          "answer": "Epson does not recommend refilling or using other brands of ink cartridges.  Epson uses a permanent Micro Piezo print head that has allowed Epson to lead the industry in delivering consistent photo image quality by using variable-sized droplets.  Micro Piezo print head can also use a wider variety of inks, which has allowed Epson to introduce such ink breakthroughs as DURABrite® and Epson UltraChrome® inks that offer greatly improved humidity resistance, smudge resistance, and fade resistance.\nUsing refilled ink cartridges will not void the product's original warranty; however, if these products cause a failure, the repair of that failure will not be covered under warranty.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000bf9-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA53201~faq-0000bf9-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:38.988172"
+        },
+        {
+          "question": "I brought my product with me to a different country and can't find ink for it. What should I do?",
+          "answer": "Some Epson printers and ink cartridges are specific to a regional market and not sold worldwide, although the same printers are sold in the U.S. and Canada. If you have a printer sold in the U.S. or Canada, you may not be able to easily get ink cartridges for it in foreign markets.\nUnfortunately, because of customs and tax regulations, the Epson E-Stores in the U.S. and Canada are unable to ship to addresses outside the U.S. and Canada.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000956-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA53201~faq-0000956-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:39.876845"
+        },
+        {
+          "question": "Does my all-in-one printer support non-printing functions when an ink cartridge is expended or not installed?",
+          "answer": "See our\nFAQ page\non which non-printing functions are supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000d77-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA53201~faq-0000d77-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:40.788313"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Memory Cards or External Devices",
+      "section_id": "8796127307852",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "Which memory cards are compatible with my product?",
+          "answer": "You can use the following memory cards:\nUpper slot\nLower slot\nSD, SDHC\nminiSD*, miniSDHC*\nmicroSD*, microSDHC*\nMultiMediaCard\nMMCplus, MMCmobile, MMCmicro*\nMemory Stick\nMemory Stick Duo*\nMemory Stick Micro*\nMemory Stick PRO\nMemory Stick PRO Duo*\nMemory Stick PRO-HG Duo*\nMagicGate Memory Stick\nMagicGate Memory Stick Duo*\nxD-Picture Card\nxD-Picture Card Types H, M, M+\nCompactFlash\nMicrodrive\n* Requires adapter. Consult your adapter documentation for any special instructions on using it.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142081?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CA53201~faq-142081",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:41.701178"
+        },
+        {
+          "question": "What is the largest supported memory card for my product?",
+          "answer": "See our\nMaximum Memory Card Specifications\npage for the specifications.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-151878?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CA53201~faq-151878",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:42.572666"
+        },
+        {
+          "question": "Can I read or write to my memory card when my product display indicates that one or more ink cartridges are expended?",
+          "answer": "Yes, you can read or write to a memory card when the installed ink cartridge is expended. However, you cannot read or write to a memory card if the ink cartridge is not installed.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000ab2-shared?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CA53201~faq-0000ab2-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:43.449588"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "How can I prevent the product from feeding multiple pages at the same time?",
+          "answer": "If multiple pages feed at once, fan the edges of the paper to separate the sheets before you load the paper. Also, make sure the paper is not loaded above the edge guides inside the paper cassette.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142031?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA53201~faq-142031",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:44.361292"
+        },
+        {
+          "question": "What kind of paper gives the best results for high quality printing?",
+          "answer": "For the best results, you'll want to use one of Epson's special ink jet papers designed for your all-in-one. For example, your photos or presentations will look great printed on\nEpson Premium Photo Paper Glossy\n,\nEpson Premium Presentation Paper Matte\n, and\nEpson Bright White Paper\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142037?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA53201~faq-142037",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:45.279474"
+        },
+        {
+          "question": "Can I use sheet labels with my product?",
+          "answer": "You can use Epson's\nPhoto Quality Self-adhesive Sheets\n. A cutting grid is printed on the reverse side of each sheet for easy custom trimming (such as labels). To avoid paper jams, load only one sheet at a time. Also, set the\nType\nor\nMedia Type\nsetting in the driver to\nPremium Presentation Paper Matte\n.\nCaution:\nDo not use sheet labels where the label shape is pre-cut because they may peel off inside the printer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142065?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA53201~faq-142065",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:46.181403"
+        },
+        {
+          "question": "Can I print on vellum paper?",
+          "answer": "No. The all-in-one does not support printing on vellum paper.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142068?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA53201~faq-142068",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:47.172072"
+        },
+        {
+          "question": "I'm having paper feed problems. What should I do?",
+          "answer": "Check the following:\nPaper Does Not Feed Correctly\nIf paper doesn't feed, remove it from the tray. Reload it against the right side, then adjust the edge guides. Make sure the paper is not above the edge guides inside the paper cassette.\nIf multiple pages feed at once, remove the paper from the tray, fan the edges to separate the sheets, then reload it.\nLoad only up to\nthe recommended number of sheets\n. If you're printing on both sides of the paper, try loading fewer sheets.\nUse new, smooth, high-quality paper, that is not curled, creased, old, or too thin. Load it printable side down.\nDo not load paper with holes punched in it for insertion in a binder.\nMake sure you adjust the edge guide to match the length of the paper.\nMake sure you adjust the left-edge guide to barely touch the edge of the paper. If it is too tight or snug against the edge of the paper, it may cause misfeeds.\nPaper Ejects Wrinkled\nIf paper is wrinkled when it ejects, the paper may be damp or too thin.\nLoad new paper\n.\nMake sure the paper\nType or Media Type setting\nmatches the paper you loaded.\nUse Epson papers to ensure proper saturation and absorption of genuine Epson inks.\nPaper Jams\nIf documents jam in the Automatic Document Feeder, make sure the originals are not creased or folded and do not have tape, staples, or other materials that could obstruct the feeder. Load only up to 30 letter-size sheets (up to 10 for legal-size) at a time.\nFor help removing a paper jam, see the solution below for your problem:\nPaper Jams in the Cassette\nPaper Jams Inside the Artisan 710 Series\nPaper Jams in the Auto Duplexer\nPaper Jams in Other Parts of the Artisan 710 Series",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144807?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA53201~faq-144807",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:48.091514"
+        },
+        {
+          "question": "How should I load envelopes?",
+          "answer": "See\nLoad Envelopes\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144819?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA53201~faq-144819",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:48.987095"
+        },
+        {
+          "question": "How do I know which paper or media type to select in my product's driver?",
+          "answer": "See\nPaper or Media Type Settings for Loaded Paper/Media\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144821?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA53201~faq-144821",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:49.955027"
+        },
+        {
+          "question": "Does the type of paper I use really make a difference?",
+          "answer": "The type of paper you choose affects the way your printout looks, so be sure to select the correct paper for your print job. If you are just making a copy or printing a rough draft of an image, plain paper is fine. However, for the best results, you'll want to use one of Epson's special ink jet papers designed for the all-in-one. For example, your photos will look great printed on\nEpson Premium Photo Paper Glossy\n.For a list of Epson special ink jet papers, see\nAvailable Epson Papers\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144818?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA53201~faq-144818",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:51.288575"
+        },
+        {
+          "question": "Ink smears when I print envelopes. What should I do?",
+          "answer": "Try the following:\nTurn on the\nThick paper and envelopes\nsetting in the printer driver. To select this setting in Windows, click the\nMaintenance\ntab in the printer driver, click\nPrinter and Option Information\n, and select\nThick paper and envelopes\n. To select this setting in Mac OS X, see your product's User's Guide for instructions.\nNote\n:\nMake sure to turn this setting off when not printing on thick paper or envelopes.\nIf your product comes with a sheet feeder, make sure to load the envelope with the flap closed, against the right side and beneath the tab. Load it printable side up and flap edge left. Then slide the edge guide to the edge of the envelope, but not too tightly.\n(Your product's sheet feeder may look different from the above image.)\nTip\n:\nPress each envelope flat before loading it or load one envelope at a time.\nIf your product comes with a paper tray, make sure to load the envelope in the main tray with the flap facing up and on the left side. Then slide the edge guides to the edges of the envelope, but not too tightly.\n(Your product's paper tray may look different from the above image.)\nTip\n:\nPress each envelope flat before loading it or load one envelope at a time.\nAfter lowering the photo tray, slide it forward and make sure the envelopes are not riding up the back of the paper cassette. Then slide the photo tray all the way back.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-170579?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA53201~faq-170579",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:52.171145"
+        },
+        {
+          "question": "Can I use hole-punched paper with my product?",
+          "answer": "No. The product does not support this paper type.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000ab4-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA53201~faq-0000ab4-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:53.056171"
+        },
+        {
+          "question": "Heavy coated or thick paper does not load correctly or loads skewed. What should I do?",
+          "answer": "The paper you are using may be too heavy or glossy for the paper roller to pick up. Be sure the paper is within printer specifications.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000b08-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA53201~faq-0000b08-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:53.982354"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print",
+      "section_id": "8796158634060",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "How do I set the  default print settings when I print from Windows or my Mac?",
+          "answer": "When you change your print settings from within a program, the changes apply only while you're printing at that time in the open program. If you want to select different settings to use in all your programs, you can change the default print settings. Follow the steps below for your operating system to change the default print settings.\nWindows 2000, XP, Vista\nRight-click the\nprinter icon in the task bar (bottom-right corner of your screen), and select\nPrinter Settings\n.\nSelect the settings you want to use as defaults in all your Windows programs.\nClick\nOK\nto accept the changes.\nMacintosh 10.5.x\nOpen a document and select\nPrint\nfrom the File menu.\nSelect the print settings you want to to save.\nClick the\nPresets\npop-up menu and do one of the following:\nSelect\nLast Used Settings\n.\nSelect\nSave As\n, enter a name for your preset, and click\nOK\n.\nClick\nPrint\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142153?faq_cat=faq-8796158634060",
+          "faq_slug": "SPT_C11CA53201~faq-142153",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:54.874681"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 9,
+      "faqs": [
+        {
+          "question": "The image look inverted, as if viewed in a mirror. What should I do?",
+          "answer": "You may have accidentally selected the\nMirror Image\noption in the printer driver or a similar feature in your software application. Make sure the settings are not turned on in the printer driver or in your application program. (If you're printing on Epson Iron-On Transfer paper, the image should be inverted.)\nWindows\nMacintosh",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142033?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA53201~faq-142033",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:55.799572"
+        },
+        {
+          "question": "My product's Fix Red-Eye setting does not fix the red eye in my photo. What should I do?",
+          "answer": "Due to the complexity and nature of some photographs, not all images can be corrected. If the\nFix Red Eye\nsetting does not fix the photo, you'll need to use a software application to fix it.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142077?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA53201~faq-142077",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:56.845677"
+        },
+        {
+          "question": "Can I print double-sided using my product?",
+          "answer": "Yes. Do the following:\nTurn on the printer.\nPress the\nHome\nbutton and select\nCopy\n.\nPress\nOK\n.\nPress\nMenu\n. Then press\nor\nto select\nPaper and Copy Settings\n, and press\nOK\n.\nTurn on\n2-Sided Printing\n.\nPress\nOK\nagain.\nPress\nStart\nto begin copying.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142147?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA53201~faq-142147",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:57.763445"
+        },
+        {
+          "question": "My printout has incorrect margins. What should I do?",
+          "answer": "The solution depends on if you're printing, scanning, or copying. See the solutions below for your task.\nPrinting\nMake sure the paper settings are correct for your paper size in the\nWindows\n, Mac OS X\n10.5\n, or\n10.3 and 10.4\nprinter software.\nChoose the correct margins for your paper size in your printing program.\nUse the\nPrint Preview\noption in your\nWindows\n, Mac OS X\n10.5\n, or\n10.3 and 10.4\nprinter software to check your margins before you print.\nMake sure your paper is positioned correctly in the cassette. See\nLoad paper\n.\nIf you're printing from a web browser, the pages may not print correctly due to the web page design. Try one of the following:\nCheck to see if there is a\nPrinter Friendly Version\n(or similarly named) icon or link on the web page that you can click on.\nExperiment with page setup and paper size, then select\nPrint Preview\nfrom the\nFile\nmenu in your application to view the changes.\nScanning\nMake sure you've aligned the document correctly. See\nPlace Originals for Copying or Scanning\n.\nCopying\nMake sure you've aligned the document correctly. See\nPlace Originals for Copying or Scanning\n.\nMake sure your paper is positioned correctly in the cassette. See\nLoad paper\n.\nThe all-in-one can enlarge your document to fit the paper you've loaded; make sure you select this option only when you want it. See\nCopy Documents\nor\nCopy a Photo\nfor more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144810?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA53201~faq-144810",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:58.646297"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Try the following:\nThe print head nozzles may need\ncleaning\n.\nSelect a higher\nQuality Option\nor\nPrint Quality\nand turn off\nHigh Speed\nmode in the\nWindows\n, Mac OS X\n10.5\n, or\n10.3 and 10.4\nprinter software.\nMake sure the paper\ntype or media type setting\nmatches the paper you loaded.\nMake sure the printable side of the paper is face down. It's usually brighter or whiter.\nWith Mac OS X\n10.5\n(in the\nPrint Settings\npop-up menu) or\n10.3 and 10.4\n, try using\nAutomatic\nmode.\nAlign\nthe print head.\nThe ink cartridges may need\nreplacing\n.\nThe printer won't operate properly if it's tilted or at an angle. Place it on a flat, stable surface that extends beyond the base in all directions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144809?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA53201~faq-144809",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:35:59.609417"
+        },
+        {
+          "question": "My printout is blurry or smeared. What should I do?",
+          "answer": "Check the following:\nMake sure the paper\ntype or media type setting\nmatches the paper you loaded.\nMake sure your paper isn't damp or curled, or loaded face up (the printable side should be down). It's usually brighter or whiter.\nMake sure your paper meets the\nspecifications\n.\nUse Epson papers to ensure proper saturation and absorption of genuine Epson inks. Also, make sure you're using genuine Epson ink cartridges.\nAlign\nthe print head.\nRemove each sheet from the output tray as it is printed.\nAvoid handling printouts on glossy paper for a few hours to allow the ink to set.  Let your prints dry separately for at least 12 hours before framing or placing them in protective sheets.  If you need to stack them, place a sheet of plain paper between each print.\nTurn off\nHigh Speed\nmode in the\nWindows\n,\nMacintosh OS X 10.5\n, or\nMacintosh OS X 10.3 and 10.4\nprinter software.\nIf you are using double-sided paper and printing heavily saturated or dark images on the front side of the paper, you may notice that smudges or marks appear on the front when you print the second side. If one side of the paper will contain a lighter image or text, print that side first to eliminate marks or smudging. If you're copying a document or photo, increase the\nDry Time\nin the printer's\nPaper and Copy Settings\n.\nIf ink smears when you print on envelopes or other thick paper, select\nEnvelope\nin your printer software (Windows) or select\nThick paper and envelopes\n(Macintosh).\nIf ink smears when you print on envelopes or other thick paper, do the following:\nWindows: Right-click the\nprinter icon in the bottom right corner of your screen (the taskbar) and select\nPrinter Settings\n. Click the\nMaintenance\ntab, click\nPrinter and Option Information\n, and select\nThick paper and envelopes\n.\nMacintosh: Open the\nFile\nmenu and select\nPrint\n. Select\nExtension Settings\nfrom the popup menu, then select\nThick paper and envelopes\n. When you're done printing on envelopes or thicker paper, be sure to turn off the setting.\nTo clean the rollers inside the all-in-one, try making several\ncopies\nwithout placing a document on the scanner glass. Adjust the\nDensity\nsetting to one level darker before you copy.\nSelect a higher\nQuality Option\nin the printer software.\nIf you are having this problem while printing on a CD or DVD, make sure you're using an ink jet-printable CD or DVD, and handle the disc carefully. Allow the ink to dry for at least 24 hours before inserting the disc in a drive.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144812?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA53201~faq-144812",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:00.492023"
+        },
+        {
+          "question": "My product is printing blank pages from Windows or my Mac. What should I do?",
+          "answer": "Check the following:\nMake sure the\nprint head nozzles\nare not clogged.\nMake sure the printer software settings are appropriate for the paper size you're using.\nIn Windows, make sure the Artisan 710 Series is selected as your printer. For Macintosh, make sure your Artisan 710 Series is selected in the Page Setup and Print windows.\nIf you're using Windows, activate the\nSkip Blank Pages\nsetting:\nRight-click the\nprinter icon in the lower right corner of your screen (taskbar) and select\nPrinter Settings\n. If you don't see the icon, see\nNo Printer Icon Appears in Windows Taskbar\nfor instructions on making it appear.\nClick the\nMaintenance\ntab.\nClick the\nSpeed & Progress\nbutton, then select\nSkip Blank Page\n.\nTry printing a different document to determine if the problem is limited to one document. If it is, try recreating the document (with copy and paste, for example).\nIf you're using a USB connection you may need to uninstall the printer software (\nWindows\nor\nMacintosh\n), then\nreinstall\nthe printer software.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144811?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA53201~faq-144811",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:01.380060"
+        },
+        {
+          "question": "My printout has incorrect or missing colors. What should I do?",
+          "answer": "The problem could be due to a software setting, the condition of the all-in-one, or the paper you're using. Check the following:\nMake sure your\nWindows\n, Macintosh OS X\n10.5\n, or\n10.3 to 10.4\nprinter software is not set to print in\nBlack/Grayscale\nor\nGrayscale\n.\nMake sure the paper\ntype or media type setting\nmatches the paper you loaded.\nThe print head nozzles may need\ncleaning\nor\naligning\n.\nThe ink cartridges may be old or low on ink, and you may need to\nreplace them\n.\nTry turning off\nFix Photo\nin the\nWindows\nprinter software or on the\nprinter control panel\n.\nWith Mac OS X\n10.5\nor\n10.3 and 10.4\n, try using\nAutomatic\nmode.\nTry changing the\nGamma\nsetting in your\nWindows\nor\nMacintosh\nprinter software.\nYour printed colors can never exactly match your on-screen colors. However, you can use a color management system to get as close as possible. Try using the\nICM\n(\nWindows\n) or the\nColorSync\nsetting (\nMac OS X 10.3 and 10.4\nor\nMac OS X 10.5\n[in the\nColor Matching\npop-up menu]).\nFor best results, use genuine Epson ink and paper.\nIf you're using color management in your application, select\nOff (No Color Adjustment)\nfor the Color Management setting in the printer software (\nWindows\n,\nMacintosh OS X 10.5\n, or\nMacintosh OS X 10.3 and 10.4\n).\nAfter you print, the colors on your printout will take some time to set as the ink dries. During this time, the colors may look different than you expect. To reduce the drying time, avoid stacking your prints on top of each other.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144813?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA53201~faq-144813",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:02.291190"
+        },
+        {
+          "question": "My printout contains garbled characters when I print from Windows or my Mac. What should I do?",
+          "answer": "Try the following:\nMake sure the USB cable is a shielded “AB” cable not more than 6.5 feet (2 meters) long.\nIf you're using a switch box or USB hub, connect the printer directly to your computer. Use an A/C adapter when more than one hub is connected to the computer.\nTry using a different USB cable.\nIf you're using an Ethernet or USB connection, turn off the all-in-one, check that the cables are securely connected, turn it back on and then try printing again.\nIf you're using a USB connection you may need to uninstall the printer software (\nWindows\nor\nMacintosh\n), then\nreinstall\nthe printer software.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144814?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA53201~faq-144814",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:03.162965"
+        },
+        {
+          "question": "The printout is grainy. What should I do?",
+          "answer": "Check the following:\nMake sure the printable side of the paper is face down. It's usually brighter or whiter.\nSelect a higher\nQuality Option\nor\nPrint Quality\non the Windows Main tab, and turn off\nHigh Speed\nand\nFast Economy\nor\nEconomy\nmode in the\nWindows\nor Mac OS X\n10.5\nor\n10.3 and 10.4\nprinter software.\nMove the slider to\nQuality\nor select\nBest Photo\nfor Quality Type (\nWindows\n) or Print Quality (Macintosh OS X\n10.5\nor\n10.3 to 10.4\n). Remember that this setting increases print time.\nAlign\nthe print head.\nYou may need to increase the image resolution or print in a smaller size; see your software documentation.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144815?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA53201~faq-144815",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:04.152248"
+        },
+        {
+          "question": "The printout has a slight slant. What should I do?",
+          "answer": "Try the following:\nIf you have selected\nFast Economy\nin your advanced printer settings, select\nEconomy\ninstead.\nMake sure you have loaded the paper correctly. See\nLoad paper\n.\nAlign\nthe print head.\nTurn off\nHigh Speed\nmode in the\nWindows\n,\nMacintosh OS X 10.5\n, or\nMacintosh OS X 10.3 and 10.4\nprinter software.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144816?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA53201~faq-144816",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:05.028457"
+        },
+        {
+          "question": "My images and text are not centered when I copy or print on a CD or DVD. What should I do?",
+          "answer": "Check the following:\nIf you're copying a CD or DVD, make sure the scan bed glass is clean and free of finger prints, smudges, etc. When cleaning the glass, spray the glass cleaner onto a paper towel or cloth and then wipe the glass. Never spray glass cleaner directly onto the scan bed.\nIf you're printing from a computer, adjust the print position through your software. For more information, see\nAdjust Print Position\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144851?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA53201~faq-144851",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:05.905953"
+        },
+        {
+          "question": "Can I edit documents that I have scanned with Epson Scan?",
+          "answer": "No. EPSON Scan only scans documents as image files and does not convert the scanned document into editable text. To convert your scan into editable text, you will need an OCR (Optical Recognition Program) application or similar program.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000ac1-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA53201~faq-0000ac1-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:06.794830"
+        },
+        {
+          "question": "Web pages don't print the way they appear on my monitor. What should I do?",
+          "answer": "The pages may not print correctly due to the web page design. Try the following:\nCheck for a\nPrinter-friendly Version\n(or similarly named) option on the web page.\nChange the page setup and paper size settings, and select the preview option in your browser to check the changes before you print.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-00004b8-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA53201~faq-00004b8-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:07.655853"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Scan",
+      "section_id": "8796127569996",
+      "section_order": 10,
+      "faqs": [
+        {
+          "question": "I am unable to scan from my computer. What should I do?",
+          "answer": "If you're scanning with Epson Scan (the scanning software that came with your all-in-one), be sure to follow the steps in\nStart Epson Scan\n. If you're scanning with software other than Epson Scan, see\nScan From Another Program\n.\nIf Epson Scan does not start, check the following:\nMake sure the all-in-one is turned on.\nMake sure that Epson Scan is selected in your scanning program.\nTry restarting your computer.\nThe scanner may not work properly when your computer is in standby mode (Windows) or sleep mode (Mac OS X). Restart Epson Scan and try scanning again.\nThe scanner may not work properly if you upgraded your operating system but did not reinstall Epson Scan.\nIf you're using a USB connection, check the cable connection between the all-in-one and your computer to make sure it is secure.\nIf the all-in-one is connected to a USB hub, make sure it's connected to a first tier hub (the hub closest to the host computer) with an A/C adapter when more than one hub is connected to the computer.\nIf the all-in-one is connected to your computer over a network connection, check the following:\nIf network communication was interrupted while starting Epson Scan, exit Epson Scan, and restart it after a few seconds. If Epson Scan cannot restart, turn the printer off and back on, and then try restarting Epson Scan. Check the\nTimeout Setting\nin\nEPSON Scan Settings\n. For details, see the Epson Scan Help.\nIf you have a firewall or Internet security software installed, the search feature in\nEPSON Scan Settings\nmay not work correctly. In this case,\nprint a Network Status Sheet\n, open\nEPSON Scan Settings\n>\nAdd\n>\nEnter address\n, and enter the IP address manually.\nIf you are scanning a large document at high resolution, a communication error may occur. If the scan was not completed, lower the resolution.\nIf your scanner software does not work properly, check the following:\nMake sure your computer has enough memory and meets the other system requirements for the software you are using. See your software documentation for details.\nThe scanner software may not work properly when your computer is in standby mode (Windows) or sleep mode (Mac OS X). Restart Epson Scan and try scanning again.\nThe scanner software may not work properly if you upgraded your operating system, but do not reinstall Epson Scan.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144858?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA53201~faq-144858",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:08.538575"
+        },
+        {
+          "question": "The quality of a scanned image with Epson Scan is poor. What should I do?",
+          "answer": "See\nImage Quality Problems (quality problem appears on screen)\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144857?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA53201~faq-144857",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:09.444533"
+        },
+        {
+          "question": "My product doesn't detect my photos placed on the scan bed when I use the copy function on the control panel. What should I do?",
+          "answer": "Check the following:\nMake sure the scan bed glass is clean and free of finger prints, smudges, etc. (When cleaning the glass, spray the glass cleaner onto a cloth and then wipe the glass. Never spray glass cleaner directly onto the scan bed.)\nMake sure the photos are placed on the scan bed correctly. See\nPlace Originals for Copying or Scanning\n.\nWhen copying two photos at the same time, place them at least 1/4 inch (5 mm) apart as shown below.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144859?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA53201~faq-144859",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:10.326817"
+        },
+        {
+          "question": "I want to enlarge an image that I'm scanning with Epson Scan. How do I obtain the best quality?",
+          "answer": "To obtain the best quality, you should resize your image when you're scanning instead of enlarging it later in an image-editing program. You can do this using the Target Size setting in Home or Professional Mode.\nIf you are going to scan your image to a particular size, such as 8 x 10 inches, you should select the Target Size setting after previewing it but before adjusting your scan area (indicated by the marquee). This sets the scan area to the correct proportions so your image will not be cropped unexpectedly.\nFollow these steps to select the\nTarget Size\nsetting:\nYou can choose a predefined scan size from the Target Size list. Click the arrow in the list and select the\nTarget Size\nyou want.\nA dotted line (marquee) appears on your preview image proportioned for that size.\nNote:\nIf you need to rotate the orientation of the scan area marquee, click the orientation icon.\nIf you need to create a scan size that is not in the Target Size list, you can create a custom size. Click the arrow in the list and select\nCustomize\n. You see the Target Size window:\nName the custom size, enter the size, click\nSave\n, and click\nOK\n. Then create a marquee on the preview image to\ndefine the scanned image area\n. The size is automatically proportioned.\nIn Professional Mode, you can fine-tune the size using additional tools. Click the\n+\n(Windows) or\n(Macintosh) next to\nTarget Size\nto display these tools:\nScale:\nreduces or enlarges your image by the percentage you enter.\nTrimming:\nturns automatic image cropping on or off (see Epson Scan Help for details).\nunlock icon: unlocks the width/height proportions of the scanned image size so you can adjust it without constraint.\nOnce you have selected your scan size, you can click and drag the marquee to the area in the image you want to scan.\nNote:\nFor more information about using the Target Size tools, click\nHelp\nin the EPSON Scan window.\nNow you are ready to scan your image.\nNote:\nIf you plan to enlarge your image later in an image-editing program, you need to increase the\nResolution\nsetting to retain a high image quality after enlargement. Increase the resolution by the same amount you will increase the image size. For example, if the resolution is 300 dpi (dots per inch) but you will increase the image size by 200% in an image-editing program, change the\nResolution\nsetting to 600 dpi in Epson Scan.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144872?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA53201~faq-144872",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:11.216162"
+        },
+        {
+          "question": "How do I use the control panel buttons to scan a photo to a memory card or USB drive?",
+          "answer": "See\nScan to a Memory Card or USB Drive\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144874?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA53201~faq-144874",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:12.126318"
+        },
+        {
+          "question": "How do I use the control panel buttons to automatically scan a photo or document and attach the scanned image to an email?",
+          "answer": "See\nScan to Email\nfor instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144876?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA53201~faq-144876",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:13.024994"
+        },
+        {
+          "question": "Can I scan from my product's control panel to my computer over a network connection?",
+          "answer": "Yes. The all-in-one allows you to scan an image to your computer, attach it to an e-mail, or save it as a PDF file over a network or USB connection. See\nScan from the Control Panel\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144875?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA53201~faq-144875",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:13.942976"
+        },
+        {
+          "question": "How do I decide which resolution to select when scanning from Epson Scan?",
+          "answer": "Select the\nResolution\nbased on how you will use your scanned image:\nE-mail, view on a computer screen, or post on the web:\n96 to 150 dpi\nFax:\n200 dpi\nPrint on an inkjet printer:\n300 dpi\nConvert to editable text (OCR):\n300 to 400 dpi\nIf you plan to enlarge the image so you can print it at a larger size, you may need to increase the resolution. Follow these guidelines:\nYou will enlarge the image as you scan it.\nIf you will enlarge the image in Epson Scan using the\nTarget Size\nsetting (Home and Professional Modes only), you don't need to increase the\nResolution\nsetting.\nYou will scan the image at its original size, but then enlarge it later in an image editing program.\nIf you will enlarge your image later in an image-editing program, you need to increase the\nResolution\nsetting to retain a high image quality. Increase the resolution by the same amount you will increase the image size. For example, if the resolution is 300 dpi and you plan to increase the image size by 200% later, change the\nResolution\nsetting to 600 dpi.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144873?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA53201~faq-144873",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:14.883550"
+        },
+        {
+          "question": "How do I scan a multi-page document into one PDF file on my computer?",
+          "answer": "See\nScan to a PDF File\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144877?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA53201~faq-144877",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:15.959413"
+        },
+        {
+          "question": "What is the maximum number of pages that I can scan into one PDF file?",
+          "answer": "See the specifications below for the version of Epson Scan that you are using:\nEpson Scan version\nNumber of pages\nv1.0 through v3.04\n100\nv3.05 through 3.2x\n200\nv3.30 or later\n999\nNote\n: You can check your version by launching Epson Scan and viewing the initial startup screen. To get the latest supported version of Epson Scan for your product, see the Downloads tab on the product support page for your product.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-229514?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA53201~faq-229514",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:16.842205"
+        },
+        {
+          "question": "Can I scan if an ink cartridge is expended in the product?",
+          "answer": "You can scan from your computer with Epson Scan, but you can't copy or scan from the product's control panel.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000bf4-shared?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA53201~faq-0000bf4-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:17.768194"
+        },
+        {
+          "question": "How do I save my scans to a specific folder when using the Scan to PC button?",
+          "answer": "You can save scans to a select destination folder (\nDocuments\n,\nPictures\n, or\nSelect target folder\n) by changing the settings in Epson Event Manager.\nDo one of the following:\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nEvent Manager\n.\nWindows (other versions)\n: Click\nStart\nor\n, and select\nAll Programs\nor\nPrograms\n>\nEPSON Software\n>\nEvent Manager\n.\nMac OS X\n: Open\nApplications\n>\nEpson software\n>\nEvent Manager\n.\nSelect your product in the Scanner drop-down box, then click\nMake Job Settings\n.\nSelect\nScan to PC\n, select your desired destination folder (\nDocuments\n,\nPictures\n, or\nSelect target folder\n) from the\nTarget Folder\ndrop-down box.\nNote\n: To save the scan to a specific folder on your computer, use the\nSelect target folder\noption.\nClick\nOK\n, then click\nClose\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-252007-shared?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA53201~faq-252007-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:18.632394"
+        },
+        {
+          "question": "How do I scan a photo without scanning the entire scanner glass?",
+          "answer": "Use the Thumbnail preview option when you scan.  The option is available only in Home or Professional Mode.\nSee below for instructions.\nHome Mode\nPlace your original(s) on the scanner glass.\nStart Epson Scan and select\nHome Mode\nif necessary.\nSelect\nPhotograph\nas the Document Type.  Click the\nThumbnail\ncheck box.\nClick\nPreview\n.  Your photo is selected automatically as the scan area with a blue marquee.\nSelect\nScan\n, then click\nOK\n.\nProfessional Mode\nPlace your original(s) on the scanner glass.\nStart Epson Scan and select\nProfessional Mode\nif necessary.\nSelect\nDocument Table\nas the Document Source and select\nPhoto\nas Auto Exposure Type.\nClick the\nThumbnail\ncheck box.\nClick\nPreview\n.  Your photo is selected automatically as the scan area with a blue marquee.\nSelect\nScan\n, then click\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-253187-shared?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA53201~faq-253187-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:19.513575"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 11,
+      "faqs": [
+        {
+          "question": "How do I uninstall the Epson printer and Epson Scan software in Windows or OS X?",
+          "answer": "Follow the instructions below for your computer system.\nWindows\nTurn off the all-in-one.\nIf you're using a USB connection, disconnect the cable from the all-in-one.\nClick\nStart\nor\n, and select\nPrograms\nor\nAll Programs\n.\nSelect\nEpson\nor\nEpson Printers\n, open the Artisan 710 Series folder, then select\nEpson Printer Software Uninstall\n.\nNote:\nClick\nYes\n(Windows 7) or\nContinue\n(Windows Vista), then go to the next step.\nIn the next window, select\nEPSON Artisan 710 Series\nand click\nOK\n. Then follow the on-screen instructions.\nOpen the Windows\nControl Panel\n, then click\nUninstall a program\nunder\nPrograms\n(Windows Vista) or double-click\nAdd or Remove Programs\n(other Windows versions).\nClick\nEPSON Scan\nin the list of currently installed programs and click\nUninstall/Change\n(Windows 7 or Windows Vista)) or\nChange/Remove\n(Windows XP or 2000).\nNote:\nWith Windows Vista, click\nContinue\n, click\nNext\n, and continue with step 9.\nFollow the on-screen instructions to uninstall Epson Scan.\nIn some cases, a message may appear to prompt you to restart the computer. If so, make sure\nYes, I want to restart my computer now\nis selected and click\nFinish\n.\nRestart your computer, then see the Start Here sheet (for USB connection) or the printed Network Installation Guide (for network connection) to reinstall your software.\nMacintosh\nInsert the Artisan 710 Series software CD-ROM in your CD-ROM or DVD drive.\nDouble-click the\nEpson\nCD-ROM icon on your desktop, if necessary.\nOpen the\nCommon\nfolder, then open the\nEPSON Scan\nfolder.\nDouble-click the\nEPSON Scan Installer\nicon.\nWhen the Installer window appears, select\nUninstall\nfrom the pop-up menu at the top and click the\nUninstall\nbutton.\nIn the Common folder, open the\nPrinter\nfolder.\nDouble click the\nInstaller\nicon.\nWhen the Installer window appears, select\nUninstall\nfrom the pop-up menu at the top and click the\nUninstall\nbutton.\nDo one of the following:\nMac OS X 10.5\nSelect\nSystem Preferences\n, select\nPrint & Fax\n, select the\nArtisan 710 Series\n, and then click the\n—\nbutton.\nMac OS X 10.3 or 10.4\nOpen the\nApplications\nfolder on your hard drive, select\nUtilities\n, choose\nPrinter Setup Utility\n, select the\nArtisan 710 Series\n, and then click\nDelete\n.\nRestart your Macintosh.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142040?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-142040",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:20.481209"
+        },
+        {
+          "question": "Is there a print/scan combo driver available for my product?",
+          "answer": "Yes. The combo driver includes printer and scanner drivers in one easy-to-install download. Follow these steps to download and install the driver:\nGo to the Downloads tab.\nSelect the\nDrivers and Utilities Combo Package\nfor your operating system and connection type (USB or Network), then click\nDownload Now\n.\nFollow the prompts on the screen to download the driver.\nOnce the file is downloaded, double-click the file and follow the prompts to complete the installation.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142076?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-142076",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:21.367359"
+        },
+        {
+          "question": "What information do I need to know before I install the product on my wireless network?",
+          "answer": "You'll need to know the following:\nNetwork name (SSID)\n(This is the name of the wireless network that is set up on your router or access point.)\nWEP Key or WPA Passphrase\n(This is the network security password.)\nThis information is stored in your network's router, and may have been entered when the router was first set up. If you don't have this information, contact the person who set up your network before you begin. You may also be able to log onto the router from your computer and check its setup screens. See your router's instruction manual for details.\nNote:\nThe network name and security key or passphrase are case sensitive. Be sure to correctly note uppercase, lowercase, and numeric/special letters.\nThe printer supports the following wireless security modes: WEP, WEP, and WPA2.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142127?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-142127",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:22.268062"
+        },
+        {
+          "question": "During a wireless network installation, my product could not find or connect to the wireless network. What should I do?",
+          "answer": "Try the following:\nTry connecting to the wireless router or access point with your computer or another device to confirm that it is working correctly.\nMake sure that the all-in-one is within range of your router or access point.\nAvoid placing the all-in-one near a microwave oven, 2.4 GHz cordless phone, or large metal object such as a filing cabinet.\nMake sure there aren't any access restrictions (such as MAC address filtering) set on the wireless router or access point. If access restrictions are set, register the printer's MAC address on the router or access point.\nPrint a Network Status Sheet\nto obtain the MAC address. Then see your router or access point's documentation for instructions.\nIf your wireless router or access point doesn't broadcast its network name (SSID), see\nConnect Wirelessly Using Advanced Setup\nfor instructions on connecting to your wireless network. If your wireless router or access point has wireless security enabled, you will also need to know what kind of security it is using.\nIf the printer doesn't connect to your wireless network, the WEP key or WPA passphrase may have been entered incorrectly. See\nWireless Network Installation\nto select your network settings again.\nNote\n: WEP keys and WPA passphrases are case sensitive. Be sure to correctly note uppercase, lowercase, and numeric/special characters.\nThe printer is compatible with 802.11b and 802.11g. If your router or access point supports 802.11n (Wireless N), make sure that it is set to compatibility mode to allow 802.11b and 802.11g devices to connect to it.\nIf your network has a firewall and you did not allow access when you installed the software, you will need to\nreinstall\nthe software and make sure you click\nUnblock\nor\nAllow\nwhen you reinstall, do not select\nAsk Me Later\n,\nKeep Blocking\n, or\nBlock\n. You may also need to contact your firewall provider for assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142134?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-142134",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:23.113589"
+        },
+        {
+          "question": "What is the Thick paper and envelopes setting in my product software used for?",
+          "answer": "The\nThick paper and envelopes\nsetting is used for thicker paper types and envelopes. It lifts up the print head to allow thicker paper to pass through.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142138?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-142138",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:23.970285"
+        },
+        {
+          "question": "My product is already set up to work with a computer on my wireless network. How do I set up an additional computer to use the product on the same network?",
+          "answer": "You'll need to install the printer software on each computer you want to use with your all-in-one over the network. See\nInstall Software\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142140?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-142140",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:24.951822"
+        },
+        {
+          "question": "I installed the product using a USB connection but now want to switch to wireless. What should I do?",
+          "answer": "Reset the all-in-one's control panel settings to their default settings, as discussed below. Then reinstall using the\nWireless Network Installation\ninstructions.\nPress the\nCopy\nbutton.\nPress the\nMenu\nbutton and select\nRestore Default Settings\n, and press\nOK\n.\nPress\nor\nto select\nReset All Settings\n, and press\nOK\nagain.\nPress\nOK\nas needed to confirm your selection.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142139?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-142139",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:25.807045"
+        },
+        {
+          "question": "How do I use the duplexer when I print from Windows?",
+          "answer": "After you open a document or photo in a Windows program, follow these steps to access your print settings:\nOpen the File menu and select\nPrint\n.\nSelect your Epson Artisan 710 Series, then click the\nPreferences\nor\nProperties\nbutton.\nNote:\nIf you see a\nSetup\n,\nPrinter\n, or\nOptions\n, button, click it and select\nProperties\nor\nPreferences\non the next screen.\nClick the\nPage Layout\ntab in the printer software.\nSelect\nAuto\nas the\n2-sided printing\nsetting.\nNote:\nThe Manual setting performs two-sided printing without the duplexer. When you use this setting, the printer software prompts you to reload the printed pages.\nIf you're printing on plain paper and you notice that ink smears or bleeds through the page, click\nAdjust Print Density\nto reduce the print density and increase the ink drying time.\nClick\nOK\n.  You are ready to use the Auto Duplexer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142144?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-142144",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:26.839549"
+        },
+        {
+          "question": "How do I use the duplexer when I print from my Mac?",
+          "answer": "After you open a document or photo in a Macintosh program, follow these steps to access your print settings:\nOpen the File menu and select\nPrint\n.\nSelect your Epson Artisan 710 Series as the\nPrinter\nsetting.\nClick\nto expand the Print window, if necessary.\nSelect\n2-sided Printing Settings\nfrom the pop-up menu.\nClick the\n2-sided Printing\ncheck box.\nNote:\nIf you see a message indicating that the auto duplexer is not installed, open\nEPSON Printer Utility3\n(in the Applications folder on your hard drive), select\nArtisan 710 Series\n, click\nOK\n, click the\nPrinter and Option Information\nbutton, and click\nOK\nagain. Then close and reopen the print window.\nIf you're printing on plain paper and you notice that ink smears or bleeds through the page, you may need to reduce the print density and increase the ink drying time.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142145?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-142145",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:27.735818"
+        },
+        {
+          "question": "While installing the software for a network installation, EpsonNet Setup was unable to find my product on the network. What should I do?",
+          "answer": "If you see a screen like this one, click\nOK\nand do one of the following:\nIf you connected the all-in-one wirelessly, verify that the all-in-one is turned on and the\nWiFi icon appears on the all-in-one's control panel. Select\nWi-Fi setup using the printer's control panel\n, then click\nNext\n.\nIf you connected the all-in-one to your network with an Ethernet network cable, verify that the all-in-one is turned on and connected to your network. Select\nWired Network (Ethernet) setup\n, then click\nNext\n.\nIf you created an Ad-Hoc wireless connection, do one of the following:\nFor Windows users\n: If your computer is connected to a network with an Ethernet cable, disconnect it. When setup is complete, reconnect your computer's Ethernet cable.\nFor Macintosh users\n: If your computer is connected to a network with an Ethernet cable, you cannot set up your all-in-one this way. See\nWireless Network Installation\nor\nWired (Ethernet) Installation\nto set up your all-in-one.\nIf you're switching from a wireless to a wired network connection, you need to disable the wireless adapter using the all-in-one's control panel. Select\nSetup\nbutton on the printer's control panel, select\nNetwork Settings\n>\nWireless LAN Setup\n>\nAdvanced Setup\n>\nDisable Wireless LAN\n. Select\nYes\n, then press\nOK\n.\nAfter you connect your product to the network, click\nNext\nuntil EpsonNet begins to search for your printer. After EpsonNet finds your printer, follow the steps in the\nFinish the Installation\nsection of the Network Installation Guide.\nIf you connected the all-in-one wirelessly and the solutions above do not help, check your wireless router or access point for any settings (such as\nAP Isolation\n,\nClient Isolation\n, or\nPrivacy Separator\n) that would prevent wireless devices from communicating with each other. See the instruction manual for your router or access point for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142162?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-142162",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:28.617638"
+        },
+        {
+          "question": "How do I set up my product for a wireless connection?",
+          "answer": "You need to know your network name (SSID) and network password before setting up your product on your wireless network. If you don't know your network name (SSID) and network password, contact the person who set up your network. Then see the Wireless Network Installation section in the\nNetwork Installation Guide\nfor instructions.\nYou can also view helpful how-to videos on the Video tab for your product.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144521?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-144521",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:29.506433"
+        },
+        {
+          "question": "Can I select a print resolution by indicating a specific dpi (dots per inch) setting?",
+          "answer": "No. The print resolution is determined by other driver software settings.\nIn Windows, the\nQuality Option\nand paper\nType\nsettings determine the print resolution.\nIf you've selected the Main tab, you'll see the window below.\nIf you've selected the Advanced tab, you'll see the window below.\nIn Mac OS X, the resolution settings depend on the\nMode\nsetting.\nNote:\nTo access the resolution settings in Mac OS X, select\nPrint\nfrom the File menu. Then select\nPrint Settings\nfrom the pull-down menu.\nIf you've selected\nAutomatic\nas the\nMode\nsetting, the resolution is determined by the\nMedia Type\nsetting and the position of the Quality/Speed slider.\nIf you've selected\nAdvanced\nas the\nMode\nsetting, the resolution is determined by the\nMedia Type\nsetting and the\nPrint Quality\nsetting.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144820?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-144820",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:30.379245"
+        },
+        {
+          "question": "I upgraded my system software to OS X 10.6.x. Now when I open the Epson Print CD software, a message appears and the Epson Print CD software quits unexpectedly. What should I do?",
+          "answer": "Try the following:\nTurn off the printer.\nClick the Spotlight\nicon in the upper-right corner of your screen. In the search field type\nEpson\n, then click\nShow All\n.\nSelect all the files and folders with\nEpson\nin the name and drag them to the trash.\nOpen your hard drive, select\nLibrary\n>\nPrinters\n, the\nEpson\nfolder and drag it to the trash.\nOn your hard drive, select\nUsers\n>\nLibrary\n>\nPreferences\n>\nEpson\n, select the files named\ncom.apple.print.\n[XXXXXXX]\n.plist\n(XXXXXX represents any name)\tand then drag the files to the trash.\nFrom the Apple menu, select\nSystem Preferences\nand click\nPrint & Fax\n.\nPress the\nControl\nand\nApple\nbutton on your keyboard at the same time, then click anywhere in the printer list. Select\nReset printing system...\n.\nClick\nOK\n, when you see the screen below.\nNote:\nResetting the printing system will remove all printers from the\nPrinter\nlist. You'll need to\nAdd\nthe printers you want again.\nRestart\nyour Mac.\nReinstall the Mac OS X 10.6.x upgrade.\nFrom the Apple menu, select\nSystem Preferences\nand then click\nPrint & Fax\n.\nTurn on the printer. Your Mac will add the printer automatically. If your printer does not appear automatically try the following:\nUpdate your version of Mac OS X 10.6.x. If there is a driver available for your printer in a later version of Mac OS X 10.6.x, your Mac will automatically add the printer when you turn the printer on.\nCheck if there is a Macintosh OS X 10.6.x driver available from the\nDownloads\ntab for your product. If it's available, download the driver and follow the on-screen installation instructions to install driver.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-145806?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-145806",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:31.226936"
+        },
+        {
+          "question": "I upgraded my system software to OS X 10.6.x. Now the duplexer option is no longer available in my product software. What should I do?",
+          "answer": "Try the following:\nTurn off the printer.\nFrom the Apple menu, select\nSystem Preferences\n.\nClick\nPrint & Fax\n.\nIf necessary, click once on your printer's name in the\nPrinter\nlist. (You don't need to do this if only one printer driver is installed).\nClick the\nbutton to remove the printer from the Printers list, then click\nOK\n.\nTurn on the printer. Your Mac will add the printer automatically and the duplexer option will now be available in the printer software.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-145918?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-145918",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:32.104237"
+        },
+        {
+          "question": "I can't complete the installation of my product to my Windows 7 wireless/wired network using the CD that came with my product. What should I do?",
+          "answer": "Download and install the\nDrivers and Utilities Combo Package - Network\nsoftware from the\nDownloads\ntab.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-146984?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-146984",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:33.149275"
+        },
+        {
+          "question": "Epson Print CD quits unexpectedly when printing from my Mac. What should I do?",
+          "answer": "Do the following:\nValidate the system's fonts:\nClose Epson Print CD and open the\nApplications\nfolder.\nOpen\nFont Book\n.\nHighlight all of the fonts in the list, then click\nFile\nand\nValidate Fonts\n.\nRemove any corrupted fonts that the software finds and is unable to correct.\nRestart your Macintosh, then start Epson Print CD.\nIf validating the system's fonts does not work, try creating a new user account:\nClick the Apple icon, then select\nSystem Preferences\n.\nUnder\nSystem\n, select\nAccounts\n.\nIf the padlock in the lower left corner is locked, click it to unlock it and enter the password when prompted.\nClick the\n+\nto create a new account.\nAt the top, change the New Account field to\nAdministrator\n.\nComplete the required fields, then click\nCreate Account\n.  (Do not set to automatically log in).\nClose the Accounts screen, click on the Apple icon to log out, then log in as the new user.\nOpen Epson Print CD.\nIf you are able to use Epson Print CD with the new account but not with the old account, please contact Apple for possible solutions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-156803?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-156803",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:34.099130"
+        },
+        {
+          "question": "The settings are grayed out in Epson Scan on my Mac. What should I do?",
+          "answer": "Create a new user account using the instructions below.  If you are able to change the settings in Epson Scan using the new account but not with the old account, please contact Apple for possible solutions.\nClick the Apple icon, then select\nSystem Preferences\n.\nUnder\nSystem\n, select\nAccounts\n.\nIf the padlock in the lower left corner is locked, click it to unlock it and enter the password when prompted.\nClick the\n+\nto create a new account.\nAt the top, change the New Account field to\nAdministrator\n.\nComplete the required fields, then click\nCreate Account\n.  (Do not set to automatically log in).\nClose the Accounts screen, click on the Apple icon to log out, then log in as the new user.\nOpen Epson Scan.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-156822?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-156822",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:34.977101"
+        },
+        {
+          "question": "I'm setting up my product with a wireless Ad Hoc connection and cannot print. What should I do?",
+          "answer": "Before installing the network printer driver, set the printer to wireless Adhoc mode with an SSID on any channel. Next, make sure the wireless interface on the computer is turned on and connected peer-to-peer to the printer.\nAfter the wireless connection is established, install the printer driver for a network connection, then print a test page.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-163906?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-163906",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:35.840518"
+        },
+        {
+          "question": "I'm having problems installing the software for a wired network connection. What should I do?",
+          "answer": "Check the following:\nMake sure all applications (including any screen savers, virus protectors, and firewall software) are closed before you install the software. If any applications were open, uninstall the printer software (\nWindows\nor\nMacintosh\n), then\nreinstall\nthe printer software.\nIf you see an error message or your software doesn't install correctly in Windows, you may not have software installation privileges. Contact your System Administrator.\nMake sure your system meets the\nrequirements\n. If you are using a Macintosh, make sure QuickTime 7.0 or higher is installed as well.\nUninstall the printer software (\nWindows\nor\nMacintosh\n), then\nreinstall\nthe printer software.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-182663?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-182663",
+          "display_order": 20,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:36.748870"
+        },
+        {
+          "question": "I'm having problems installing the software for a USB connection. What should I do?",
+          "answer": "Check the following:\nMake sure your all-in-one is turned on and the USB cable is securely connected at both ends. If you still have problems, disconnect the USB cable and carefully follow the software installation instructions on the\nStart Here\nsheet.\nMake sure your system meets the\nrequirements\n. If you are using a Macintosh, make sure QuickTime 7.0 or higher is installed as well.\nMake sure the USB controller is working properly in Device Manager. See your Windows help system for details. If it's not working, contact your computer manufacturer.\nMake sure all applications (including any screen savers, virus protectors, and firewall software) are closed before you install the software. If any applications were open, uninstall the printer software (\nWindows\nor\nMacintosh\n), then\nreinstall\nthe printer software.\nIf you see an error message or your software doesn't install correctly in Windows, you may not have software installation privileges. Contact your System Administrator.\nUninstall the printer software (\nWindows\nor\nMacintosh\n), then\nreinstall\nthe printer software.\nNote:\nYou must connect the all-in-one to your computer at the correct time to make sure the driver is installed correctly on your computer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-182664?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-182664",
+          "display_order": 21,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:37.618315"
+        },
+        {
+          "question": "I'm having problems installing the software for a wireless network connection. What should I do?",
+          "answer": "Check the following:\nMake sure all applications (including any screen savers, virus protectors, and firewall software) are closed before you install the software. If any applications were open, uninstall the printer software (\nWindows\nor\nMacintosh\n), then\nreinstall\nthe printer software.\nMake sure your system meets the\nrequirements\n. If you are using a Macintosh, make sure QuickTime 7.0 or higher is installed as well.\nIf you see an error message or your software doesn't install correctly in Windows, you may not have software installation privileges. Contact your System Administrator.\nUninstall the printer software (\nWindows\nor\nMacintosh\n), then\nreinstall\nthe printer software.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-182665?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-182665",
+          "display_order": 22,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:38.507438"
+        },
+        {
+          "question": "I set up my product on a network, but the Scan to PC, Scan to Email, and Scan to PDF features do not work. What should I do?",
+          "answer": "To use these features, you must have the EPSON Event Manager software installed. If you do not have the EPSON Event Manager installed, go to the Downloads tab for your product to download and install the software.\nMake sure you disable all software that can block communication between the printer and your computer (such as firewall, virus protection or utilities).\nInstall the EPSON Event Manager software.\nNote\n: The first time the Event Manager Utility is installed, you must restart your computer in order for the features to work over the network.\nIf you are using a Firewall application or Windows Firewall, make a program exception in the Firewall settings.\nClick\nor\nStart\n>\nControl Panel\n>\nSecurity\nor\nSecurity Center\n>\nWindows Firewall\n. Click the\nExceptions\ntab, (or click\nChange Settings\nif you cannot find the Exceptions tab.) Click the\nAdd Program\nbutton, select\nEvent Manager\nfrom the program list and click\nOK\n. Next confirm that the check box for\nEvent Manager\nis selected in the\nPrograms and Services\nlist and click\nOK\n.\nLaunch the Event Manager and make sure your Epson product and scanner option is selected.\nClick\nor\nStart\n>\nPrograms\nor\nAll Programs\n>\nEpson software\n>\nEvent Manager\n. Click the\nButton Settings\ntab, set all settings to use\nEPSON Scan\nand click\nClose\n.\nClick\nor\nStart\n>\nControl Panel\n>\nScanners and Cameras\nor\nDevices and Printers\n.\nRight-click your product's name, then click\nProperties\n.\nClick the\nEvents\ntab.\nSelect\nScan Button\nfor Select an event.\nSelect\nEpson Event Manager\nfor Start this program.\nClick\nApply\n.\nClick\nOK\n.\nTry using the Scan to PC, Scan to Email, or  Scan to PDF features.\nNote\n: Make sure you enable any software you disabled in step 1.\nIf the steps above do not help, try enabling the UDP/TCP ports for EPSON Scan (port number 1865/3289) and EPSON Event Manager (port number 2968) on your router. If you are unsure on how to do this, contact your router manufacturer for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-207381?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-207381",
+          "display_order": 23,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:39.362935"
+        },
+        {
+          "question": "How do I install the latest scanner driver on my Mac?",
+          "answer": "To update Image Capture, follow these directions:\nConnect and power on your product.\nClick the Apple icon on the top left corner of the desktop.\nSelect\nSoftware Updates\n.\nFollow the on-screen instructions to install the available updates.\nNote\n: Software Updates may find multiple updates for your system; you may choose to install all or some of the updates by clicking Show Details.\nTo update or install Epson Scan, go to the\nDownloads\ntab for your product select\nEpson Scan\n, then click\nDownload Now\nand follow the prompts on the screen to download and install the software.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-165960?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-165960",
+          "display_order": 24,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:40.310415"
+        },
+        {
+          "question": "Can an unauthorized user access my network if I select Unblock or Allow during the EpsonNet Setup software installation?",
+          "answer": "No. This selection will only unblock or allow the EpsonNet Setup software access to your network (which is necessary for your computer to communicate with your all-in-one over your network).",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000ab1-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-0000ab1-shared",
+          "display_order": 25,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:41.335301"
+        },
+        {
+          "question": "I cannot launch the EPSON Event Manager, how do I uninstall and reinstall the application?",
+          "answer": "Do the following:\nDownload the Uninstall Center Utility from the Downloads tab for your product.\nExtract the contents of the zip file you downloaded onto your hard drive.\nQuit all applications currently running on your Mac.\nOpen the\nApplications\n>\nEpson software\nfolder.\nDouble-click the\nEPSON Scan Uninstaller\nicon.\nSelect\nUninstall\n, then click the\nUninstall\nbutton.\nFollow the on-screen instructions to uninstall the software.\nDelete the\nCommon\nfolder and\nEvent Manager\nin the Mac's Application folder (\nHard drive\\Applications\\Epson software\n).\nDelete the highlighted files and folders below from the Mac's Library Preferences folder (\nHard drive\\Users\\login_name\\Library\\Preferences\n).\nRestart your computer.\nRe-install EPSON Scan and the Event Manager from the product software CD or from the Downloads tab for your product.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000957-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-0000957-shared",
+          "display_order": 26,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:42.207470"
+        },
+        {
+          "question": "I cannot edit the CD jacket I am creating using Epson Print CD. What should I do?",
+          "answer": "Try the following:\nStart Epson Print CD.\nOpen the CD jacket file you want to edit.\nClick\nView\nand select\nSelect Editing Face\n.\nSelect the CD jacket face you want to edit.\nClick\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-00004c4-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-00004c4-shared",
+          "display_order": 27,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:43.069147"
+        },
+        {
+          "question": "Does my product support Epson Connect?",
+          "answer": "No, your product is not compatible.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000af9-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-0000af9-shared",
+          "display_order": 28,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:43.936749"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "You can download the latest product driver from the Downloads section of this website.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000afb-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-0000afb-shared",
+          "display_order": 29,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:44.832184"
+        },
+        {
+          "question": "Can I use the Epson iPrint app with my iOS device?",
+          "answer": "Yes. See our\nFAQ\npage for the app for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000b04-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-0000b04-shared",
+          "display_order": 30,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:45.694840"
+        },
+        {
+          "question": "Can I use the Epson iPrint app with my Android device?",
+          "answer": "Yes. See our\nFAQ\npage for the app for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000b05-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-0000b05-shared",
+          "display_order": 31,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:46.552842"
+        },
+        {
+          "question": "I can't scan multiple document pages into a single PDF. What should I do?",
+          "answer": "If you are using the Scanner Driver and Epson Scan Utility v2.92a or earlier, the ability to scan multiple pages to a single PDF is not supported. This feature is supported when using the Scanner Driver (which is sometimes shown as TWAIN Driver) and Epson Scan Utility v3.04a or higher. Check your product's Downloads tab to make sure you're using the latest version.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000963-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-0000963-shared",
+          "display_order": 32,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:47.473692"
+        },
+        {
+          "question": "How do I change the default settings for the Scan to PC feature?",
+          "answer": "You need to change the settings in Epson Event Manager.  Follow the instructions below.\nDo one of the following:\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nEvent Manager\n.\nWindows (other versions)\n: Click\nStart\nor\n, and select\nAll Programs\nor\nPrograms\n>\nEPSON Software\n>\nEvent Manager\n.\nMac OS X\n: Open\nApplications\n>\nEpson software\n>\nEvent Manager\n.\nSelect your product in the Scanner drop-down box, then click\nMake Job Settings\n.\nSelect\nScan to PC\n, then click on\nDetailed Settings for Scanning\n.\nSelect the settings you would like to use.\nThe following dpi (dots per inch) settings are supported:\nSpeed (150 dpi)\nStandard (300 dpi)\nHigh resolution (600 dpi)\nCustom\nNote\n: Higher dpi settings take longer to scan.\nClick\nOK\ntwice, then click\nClose\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-251949-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-251949-shared",
+          "display_order": 33,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:48.350865"
+        },
+        {
+          "question": "Where can I find the IP address of my router?",
+          "answer": "Most wireless routers have a default IP address that can usually be found in the router's documentation.\nFor more support on your router, contact the manufacturer of your router.\nYou can also print a network status sheet from your printer's control panel to find your router's IP address.\nNote:\nThe network status sheet will list your router’s IP address only if you have set up your printer with a network connection to the router. If you print a network status sheet before setup, the router's IP address will not be listed on the network status sheet.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-00004c0-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-00004c0-shared",
+          "display_order": 34,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:49.221576"
+        },
+        {
+          "question": "How do I add my product as an IP printer on my Mac?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n.\nSelect your printer, if necessary.\nClick\n+\nor\nAdd Printer, Scanner, or Fax\nand select\nIP\non the toolbar.\nSelect a protocol. If you do not know which protocol to choose, leave it as\nLine Printer Daemon-LPD\n.\nClick the\nAddress\nfield and enter your printer's IP address. You see the message\nGathering printer information\nas your Mac connects to the printer.\nClick\nAdd\nafter your printer appears in the Use field to create a printer queue. If your printer does not appear in the Use field, select\nAuto Select\nfrom the drop-down box.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-00004ba-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-00004ba-shared",
+          "display_order": 35,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:50.145167"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-00004dc-shared",
+          "display_order": 36,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:51.039004"
+        },
+        {
+          "question": "How do I change the font size of text when I print from software in Windows?",
+          "answer": "You need to select the text or font size in the software you are printing from, not the printer driver. For detailed instructions, contact the company for the application you are printing from.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-00004b7-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-00004b7-shared",
+          "display_order": 37,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:51.904110"
+        },
+        {
+          "question": "What are the port numbers for Epson network printers (wired and wireless)?",
+          "answer": "See the table below.\nNote:\nNot all operations are supported by all products.\nService name\nProtocol type\nLocal/Remote port number\nControls these operations\nENPC\nUDP\n3289/Any port\nSearching for a product from applications such as printer or scanner drivers, or EpsonNet Config\nSNMP\nUDP\n161/Any port\nAcquiring and configuring MIB from applications such as printer or scanner drivers, or EpsonNet Config\nLPR\nTCP\n515/Any port\nForwarding LPR data\nRAW (Port9100)\nTCP\n9100/any port\nForwarding RAW data\nIPP/IPPS\nTCP\n631/Any port\nForwarding AirPrint data (IPP/IPPS printing)\nWSD\nTCP\nAny port/5357\nControlling WSD\nWS-Discovery\nUDP\n3702/Any port\nSearching for a product from WSD\nNetwork Scan\nTCP\n1865/Any port\nForwarding scan data from Document Capture Pro and Document Capture\nNetwork Push Scan\nTCP\nAny port/2968\nAcquiring job information on push scanning from Document Capture Pro and Document Capture\nNetwork Push Scan Discovery\nUDP\n2968/Any port\nSearching for a computer during push scanning from Document Capture Pro and Document Capture\nFTP Data (Local)\nTCP\n20/Any port\nForwarding FTP printing data to FTP server\nFTP Control (Local)\nTCP\n21/Any port\nControlling FTP printing to FTP server\nFTP Data (Remote)\nTCP\nAny port/20\nForwarding scan data and received fax data to FTP client; controls only an FTP server that uses remote port 20\nFTP Control (Remote)\nTCP\nAny port/21\nForwarding scan data and received fax data to FTP client\nCIFS (Local)*\nTCP\n445/Any port\nSharing a network folder on CIFS server\nCIFS (Remote)*\nTCP\nAny port/445\nForwarding scan data and received fax data to a folder on CIFS server\nNetBIOS Name Service (Local)\nUDP\n137/Any port\nSharing a network folder on CIFS server\nNetBIOS Datagram Service (local)\nUDP\n138/Any port\nNetBIOS Session Service (Local)\nTCP\n139/Any port\nNetBIOS Name Service (Remote)\nUDP\nAny port/137\nForwarding scan data and received fax to a folder on CIFS server\nNetBIOS Datagram Service (Remote)\nUDP\nAny port/138\nNetBIOS Service (Remote)\nTCP\nAny port/139\nHTTP (Local)\nTCP\n80/Any port\nForwarding Web Config and WSD data to a HTTP or HTTPS server\nHTTPS (Local)\nTCP\n443/Any port\nHTTP (Remote)\nTCP\nAny port/80\nCommunicating with Epson Connect or Chromebook Native Printing, firmware update, and root certificate update on a HTTP or HTTPS client\nHTTPS (Remote)\nTCP\nAny port/443\n* To control forwarding of scan and received fax data, share a network folder, or receive fax data from PC-Fax, select\nPort Number\nas the\nMethod of Choosing Port\noption and specify the port numbers for CIFS and NetBIOS.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000525-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-0000525-shared",
+          "display_order": 38,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:52.801216"
+        },
+        {
+          "question": "I can't get Epson Status Monitor to work over my wireless network. What should I do?",
+          "answer": "If the product is not shared, make sure it is connected to the network wirelessly. Try moving your product or computer to a different location within range of your wireless network. Avoid placing the computer, product, or wireless access point near microwaves, cordless telephones, or other sources of wireless interference.\nIf the product is set up as a shared printer, Epson Status Monitor will not work and is not supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-00004c7-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-00004c7-shared",
+          "display_order": 39,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:53.696793"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-0000f4b-shared",
+          "display_order": 40,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:54.612511"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-0000f4c-shared",
+          "display_order": 41,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:55.474199"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA53201~faq-0000f4d-shared",
+          "display_order": 42,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:56.386603"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Wireless or Wired Connection",
+      "section_id": "8796127635532",
+      "section_order": 12,
+      "faqs": [
+        {
+          "question": "Can I set up my product for both a USB and network connection?",
+          "answer": "No. The product supports only one connection type at a time: USB, Ethernet, or wireless.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000b00-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CA53201~faq-0000b00-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:57.246572"
+        },
+        {
+          "question": "How do I find my SSID and network password?",
+          "answer": "Check your router documentation for this information. Most routers have a default SSID and password that can be modified once the router is set up.\nNote:\nThe SSID is the name of the wireless network that is set up on your router or access point.\nIf you don't know this information, you'll need to contact the manufacturer of your router or the person who set up your network.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000ae9-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CA53201~faq-0000ae9-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:58.117636"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 13,
+      "faqs": [
+        {
+          "question": "How long is the warranty on the Auto Duplexer (part number C12C802522)?",
+          "answer": "The Auto Duplexer has the same warranty as the all-in-one.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142132?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA53201~faq-142132",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:59.009179"
+        },
+        {
+          "question": "What are the dimensions of the product with the duplex unit installed?",
+          "answer": "The printer dimensions (W x D x H) are as follows:\nPrinting: 17.6” x 25.5” x 5.9”\nStorage:  17.6” x 18” x 5.9”",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142161?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA53201~faq-142161",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:36:59.880774"
+        },
+        {
+          "question": "When printing in Windows, how can I prevent an extra page from being ejected after every print job?",
+          "answer": "The Separator Page function may be enabled. Follow these steps to disable it:\nClick\nStart\nor\n.\nDo one of the following:\nWindows XP\n:\nSelect\nPrinters and Faxes\n(or select\nSettings\n, then select\nPrinters and Faxes\n).\nWindows Vista\n:\nSelect\nControl Panel\n, then\nPrinter\nor\nPrinters\nunder Hardware and Sound\n.\nWindows 7\n:\nSelect\nControl Panel\n, then\nView Devices and Printers\nunder Hardware and Sound.\nIn the\nPrinters\nor\nPrinters and Faxes\nwindow, right-click on your printer's name.\nSelect\nProperties\n, click the Advanced tab, then press the\nSeparator Page\nbutton.\nIn the Separator Page window, delete the information in the text box and then click\nOK\n.\nClick\nOK\nagain.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-142160?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA53201~faq-142160",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:37:00.750214"
+        },
+        {
+          "question": "How should I transport my product?",
+          "answer": "See\nTransportation\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144843?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA53201~faq-144843",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:37:01.822074"
+        },
+        {
+          "question": "Which USB devices can I connect to the USB port on the front of my product?",
+          "answer": "You can use the USB port to do the following:\nConnect a camera that supports PictBridge printing.\nConnect an external storage device such as a USB flash drive, external hard drive, or CD burner.\nCommunicate with a Bluetooth device (you'll need to purchase the optional Bluetooth Photo Print Adapter, part number C12C824383).\nCharge your cell phone, MP3 player, or other portable device. All you need is a user-supplied USB cable that's designed to work with your device (one may have come with it).\nNote:\nBefore removing your USB drive, make sure its access light is not flashing. You cannot use the USB port to transfer images from your portable device or an external storage device to your computer. If you want to transfer images, use the memory card slots instead. You may not be able to print photos from the storage device if they were saved to the device using a product other than the all-in-one.\nEpson cannot guarantee the compatibility of any drives or PictBridge or Bluetooth devices.\nCaution:\nMake sure your portable device complies with USB 2.0 standards. Devices that draw more than 500 mA may damage your Epson product. Epson cannot guarantee the compatibility of your device. Contact the manufacturer of your device for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-144879?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA53201~faq-144879",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:37:02.878685"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA53201~faq-00004b0-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:37:03.780049"
+        },
+        {
+          "question": "My product will not wake up when I try to print with a wireless connection. What should I do?",
+          "answer": "Turn the product off and on. If you can print now, the problem is related to your wireless router. Contact the manufacturer of your router for assistance or try using a different router.\nIf you cannot print after turning the product off and on, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-00004c8-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA53201~faq-00004c8-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:37:04.626771"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA53201~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA53201~faq-0000f4a-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-710/s/SPT_C11CA53201",
+          "fetched_at": "2026-04-01T08:37:05.504239"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

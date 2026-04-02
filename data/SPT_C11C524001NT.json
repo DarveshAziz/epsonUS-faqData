@@ -1,0 +1,358 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Impact Printers",
+  "series": "FX Series",
+  "model": {
+    "name": "Epson FX-890N",
+    "sku": "SPT_C11C524001NT",
+    "url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C524001NT~faq-00004dc-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:22.098304"
+        },
+        {
+          "question": "How do I create a custom paper size in the Server Properties?",
+          "answer": "Follow these steps to create a new page size accessible by all printer drivers installed in Windows:\nOpen the\nPrinters\nor\nPrinters and Faxes\nwindow.\nClick\nFile\n, then\nServer Properties\n.\nPut a check in the\nCreate a new form\nbox.\nInput a name for the custom paper size.\nUnder\nPaper Size\n, enter the desired height and width.\nClick\nSave\nor\nSave Form\nto add the new form size to the list, then\nOK\nto close Server Properties.",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-140654?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C524001NT~faq-140654",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:23.040140"
+        },
+        {
+          "question": "How can I determine a problem from looking at the control panel lights and listening to my product beep patterns?",
+          "answer": "Use the table under\nUsing the Error Indicators\nin the User's Guide to diagnose printer errors.",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-35467?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C524001NT~faq-35467",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:24.030731"
+        },
+        {
+          "question": "Which product can my product emulate?",
+          "answer": "The EPSON FX-890 can emulate the Okidata Microline 320 Turbo and Okidata Microline 321 Turbo printers.",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-35469?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C524001NT~faq-35469",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:24.920733"
+        },
+        {
+          "question": "What is the recommended duty cycle for my product?",
+          "answer": "The specification is 25 percent. Which means the printer is printing (not idle) for two hours per day based on an eight-hour day, 22 days per month.",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-35456?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C524001NT~faq-35456",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:25.921654"
+        },
+        {
+          "question": "What optional interfaces are available from Epson for my product?",
+          "answer": "A list of\noptional interface cards\nis available in the Reference Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-35468?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C524001NT~faq-35468",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:26.822700"
+        },
+        {
+          "question": "How do I select bar codes on my product?",
+          "answer": "The built-in bar codes are only selectable through software using an ESC code sequence. The built-in bar codes include: EAN-13, EAN-8, Interleaved 2 of 5, UPC-A, UPC-E, Code 39, Code 128, POSTNET, Coda bar (NW-7), Industrial 2 of 5, Matrix 2 of 5",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-35489?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C524001NT~faq-35489",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:27.752242"
+        },
+        {
+          "question": "The paper will not load from the tractor unit. What should I do?",
+          "answer": "Make sure the paper is loaded correctly. See\nSetting the Paper Release Lever\nand\nAdjusting the Paper-Thickness Setting\nin the User's Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-35484?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C524001NT~faq-35484",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:28.688670"
+        },
+        {
+          "question": "How do I reset my product?",
+          "answer": "To reset the printer's EEPROM, hold down the Load/Eject, LF/FF, and Pause buttons while turning on the printer. The printer beeps once, and restores its factory default settings.",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-35464?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C524001NT~faq-35464",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:29.762416"
+        },
+        {
+          "question": "How should I print on single-sheet multipart forms?",
+          "answer": "See the instructions for Single-sheet Multipart Forms under\nLoading Special Papers\nand\nAdjusting the Paper-Thickness Setting\nin the User's Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-35486?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C524001NT~faq-35486",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:30.869923"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "How should I print labels on my product?",
+          "answer": "See the instructions for Labels under\nLoading Special Papers\nin the User's Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-35485?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C524001NT~faq-35485",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:32.058841"
+        },
+        {
+          "question": "How should I print on single-sheet multipart forms?",
+          "answer": "See the instructions for Single-sheet Multipart Forms under\nLoading Special Papers\nand\nAdjusting the Paper-Thickness Setting\nin the User's Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-35486?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C524001NT~faq-35486",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:33.009856"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "How can I determine a problem from looking at the control panel lights and listening to my product beep patterns?",
+          "answer": "Use the table under\nUsing the Error Indicators\nin the User's Guide to diagnose printer errors.",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-35467?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11C524001NT~faq-35467",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:34.071638"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "How do I create a custom paper size in the Server Properties?",
+          "answer": "Follow these steps to create a new page size accessible by all printer drivers installed in Windows:\nOpen the\nPrinters\nor\nPrinters and Faxes\nwindow.\nClick\nFile\n, then\nServer Properties\n.\nPut a check in the\nCreate a new form\nbox.\nInput a name for the custom paper size.\nUnder\nPaper Size\n, enter the desired height and width.\nClick\nSave\nor\nSave Form\nto add the new form size to the list, then\nOK\nto close Server Properties.",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-140654?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C524001NT~faq-140654",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:35.021895"
+        },
+        {
+          "question": "Can I use the knob on the side of my product to adjust the paper position or to clear paper jams?",
+          "answer": "No. Never use the paper knob when the printer is on; this may damage the printer or cause it to lose the top-of-form position.",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-35465?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C524001NT~faq-35465",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:36.076086"
+        },
+        {
+          "question": "The paper will not load from the tractor unit. What should I do?",
+          "answer": "Make sure the paper is loaded correctly. See\nSetting the Paper Release Lever\nand\nAdjusting the Paper-Thickness Setting\nin the User's Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-35484?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C524001NT~faq-35484",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:37.017772"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "My product starts printing too high or low on the page. How can I adjust the starting point of the print job?",
+          "answer": "The Micro Adjust function allows you to move the paper forward or backward in 1/216-inch (0.118 mm) increments to adjust the tear-off and top-of-form positions. See\nUsing the Micro Adjust Function\nin the User's Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-35466?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C524001NT~faq-35466",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:37.914147"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Follow the instructions under\nAligning Vertical Lines in Your Printout\nin the Reference Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-35474?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C524001NT~faq-35474",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:38.804810"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "What are the common escape codes for my product?",
+          "answer": "Some commonly used escape codes are listed (in decimal values) in the table below.\nFunction\nCode\nReset\n(27, 64)\nSet page length in lines\n(27, 67, n - where n is a number from 1 to 127)\nCarriage return\n(13)\nLine feed\n(10)\nForm feed\n(12)\nSelect 1/8-inch line spacing\n(27, 77)\nSelect bold font\n(27, 69)\nCancel bold font\n27, 70\nSelect italic font\n(27, 52)\nCancel italic font\n(27, 53)\nTurn underline on/off\n(27, 45, n - where n equals 49=ON or 48=OFF)\nSelect condensed print\n(15)\nCancel condensed print\n(18)\nIf you need to use advanced escape codes for programming purposes, you can purchase an ESC/P Reference Manual from the Epson Store.",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-35462?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C524001NT~faq-35462",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:37.957634"
+        },
+        {
+          "question": "How do I reset my product?",
+          "answer": "To reset the printer's EEPROM, hold down the Load/Eject, LF/FF, and Pause buttons while turning on the printer. The printer beeps once, and restores its factory default settings.",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-35464?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C524001NT~faq-35464",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:38.843699"
+        },
+        {
+          "question": "Which product can my product emulate?",
+          "answer": "The EPSON FX-890 can emulate the Okidata Microline 320 Turbo and Okidata Microline 321 Turbo printers.",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-35469?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C524001NT~faq-35469",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:39.752719"
+        },
+        {
+          "question": "How do I change the default printer settings?",
+          "answer": "See\nChanging the Printer's Default Settings\nin the User's Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-35463?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C524001NT~faq-35463",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:40.681971"
+        },
+        {
+          "question": "Can I change my product's default settings from the computer?",
+          "answer": "Yes, you can use the\nEPSON Remote Configuration Manager\nto change the printer's default settings from the computer.",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-35490?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C524001NT~faq-35490",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:41.589001"
+        },
+        {
+          "question": "How do I change the lock-out mode settings?",
+          "answer": "See\nChanging the lock-out mode setting\nin the Reference Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-35492?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C524001NT~faq-35492",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:42.482866"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C524001NT~faq-00004dc-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:43.382038"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "What is the recommended duty cycle for my product?",
+          "answer": "The specification is 25 percent. Which means the printer is printing (not idle) for two hours per day based on an eight-hour day, 22 days per month.",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-35456?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C524001NT~faq-35456",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:44.282955"
+        },
+        {
+          "question": "Is there a self test to check my product operation separate from the computer?",
+          "answer": "Yes. See\nPrinting a Self Test\nin the User's Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-35461?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C524001NT~faq-35461",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:45.181874"
+        },
+        {
+          "question": "What optional interfaces are available from Epson for my product?",
+          "answer": "A list of\noptional interface cards\nis available in the Reference Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-35468?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C524001NT~faq-35468",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:46.083064"
+        },
+        {
+          "question": "What types of computer interfaces does my product support?",
+          "answer": "A computer running Windows 95 or Windows NT 4.0 can be used with the printer's parallel interface.  A computer running Windows 98 SE, Windows Me, Windows 2000, or Windows XP can be used with the printer's parallel or USB interface. Optional interface cards are available to supplement the printer's built-in interfaces and provide added network compatibility.",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-35471?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C524001NT~faq-35471",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:47.017660"
+        },
+        {
+          "question": "How do I select bar codes on my product?",
+          "answer": "The built-in bar codes are only selectable through software using an ESC code sequence. The built-in bar codes include: EAN-13, EAN-8, Interleaved 2 of 5, UPC-A, UPC-E, Code 39, Code 128, POSTNET, Coda bar (NW-7), Industrial 2 of 5, Matrix 2 of 5",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-35489?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C524001NT~faq-35489",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:47.940649"
+        },
+        {
+          "question": "How do I select the font and pitch?",
+          "answer": "See\nSelecting a Font and Pitch\nin the User's Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-35493?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C524001NT~faq-35493",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:48.853501"
+        },
+        {
+          "question": "Can the Control Panel buttons be locked?",
+          "answer": "You can restrict the use of buttons on the control panel using the Lock-out mode. In the default Lock-out mode, you can use only the Pause, Load/Eject, and Tear off buttons.\nTo turn the Lock-out mode on and off, see\nTurning on or off the lock-out mode\nin the Reference Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C524001NT~faq-35491?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C524001NT~faq-35491",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-890N/s/SPT_C11C524001NT",
+          "fetched_at": "2026-04-02T04:57:49.763258"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

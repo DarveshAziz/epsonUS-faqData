@@ -1,0 +1,939 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "Epson Stylus Series",
+  "model": {
+    "name": "Epson Stylus Photo R2880",
+    "sku": "SPT_C11CA16201",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA16201~faq-00004dc-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:15.928754"
+        },
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-0000ad0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA16201~faq-0000ad0-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:16.847160"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-00004c5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA16201~faq-00004c5-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:17.773897"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "You can download the latest product driver from the Downloads section of this website.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-0000afb-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA16201~faq-0000afb-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:18.688940"
+        },
+        {
+          "question": "Can the printer still print if an ink cartridge is expended or not installed?",
+          "answer": "No. The printer will not operate if any cartridge is expended or removed. It's best to always have extra cartridges on hand.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-000051b-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA16201~faq-000051b-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:19.599050"
+        },
+        {
+          "question": "Can the Epson ink cartridges be refilled or can I use third-party ink cartridges without voiding the warranty?",
+          "answer": "Epson does not recommend refilling or using other brands of ink cartridges.  Epson uses a permanent Micro Piezo print head that has allowed Epson to lead the industry in delivering consistent photo image quality by using variable-sized droplets.  Micro Piezo print head can also use a wider variety of inks, which has allowed Epson to introduce such ink breakthroughs as DURABrite® and Epson UltraChrome® inks that offer greatly improved humidity resistance, smudge resistance, and fade resistance.\nUsing refilled ink cartridges will not void the product's original warranty; however, if these products cause a failure, the repair of that failure will not be covered under warranty.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-0000bf9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA16201~faq-0000bf9-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:20.604602"
+        },
+        {
+          "question": "My product makes noise after I turn it on or after it has been sitting for a while. What should I do?",
+          "answer": "This is normal. It is performing routine maintenance.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-000096b-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA16201~faq-000096b-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:21.615253"
+        },
+        {
+          "question": "I brought my product with me to a different country and can't find ink for it. What should I do?",
+          "answer": "Some Epson printers and ink cartridges are specific to a regional market and not sold worldwide, although the same printers are sold in the U.S. and Canada. If you have a printer sold in the U.S. or Canada, you may not be able to easily get ink cartridges for it in foreign markets.\nUnfortunately, because of customs and tax regulations, the Epson E-Stores in the U.S. and Canada are unable to ship to addresses outside the U.S. and Canada.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-0000956-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA16201~faq-0000956-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:22.516191"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA16201~faq-00004b0-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:23.415343"
+        },
+        {
+          "question": "Does my product support Epson Connect?",
+          "answer": "No, your product is not compatible.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-0000af9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA16201~faq-0000af9-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:24.346650"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Can I print on envelopes?",
+          "answer": "No.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-109615?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA16201~faq-109615",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:25.399168"
+        },
+        {
+          "question": "How do I print a borderless photo from Windows or my Mac?",
+          "answer": "Do the following:\nFor Windows, click the\nBorderless\ncheckbox on the\nMain\ntab of the printer driver, select a compatible borderless paper size and type.\nFor a Macintosh, select a paper size with the\nBorderless\noption on the Print window. To use the borderless option, you'll need to select a paper size with the a\nSheet Feeder - Borderless\noption.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110869?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA16201~faq-110869",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:26.417254"
+        },
+        {
+          "question": "Can I print on CDs and DVDs?",
+          "answer": "Yes. See\nPrinting on CDs and DVDs\nfor details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110870?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA16201~faq-110870",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:27.320868"
+        },
+        {
+          "question": "The CD/DVD won't feed correctly or is ejected. What should I do?",
+          "answer": "Check the following:\nMake sure you insert the CD/DVD tray correctly. See\nLoading a CD or DVD\n.\nIf the CD/DVD tray won't load or jams in the printer, gently pull out the CD/DVD tray and press the\npaper button, if it is flashing. Then reload the tray, making sure the CD/DVD tray is inserted correctly in the tray guides.\nMake sure the surface of the CD/DVD you are printing on is blank and clean. A CD/DVD with images or text already on the surface area may not load correctly.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110881?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA16201~faq-110881",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:28.238805"
+        },
+        {
+          "question": "Printing is slow or the printer stops printing when I try to print. What should I do?",
+          "answer": "If printing becomes slow, try the following:\nMake sure your system meets the requirements for your operating system. If you are printing a high-resolution\n                    image, you may need more than the minimum requirements. If necessary, increase\n                    your system's memory.\nIf you're using Windows 7, close the\nDevices and Printer\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility to free up existing space.\nClose any programs that you're not using when you print.\nIf your product is connected to a USB hub, connect it directly to your computer instead.\nIf printing becomes slower after printing continuously for a long time, the product may have automatically slowed down to protect the print mechanism from\n                    overheating or becoming damaged. Let the product rest with the power on for 30\n                    minutes, then try printing again.\nIf the above steps did not improve your print speed, the\nEPAUDF01.AUD\nfile can be deleted.\nNote:\nRemoval of this temporary file is not an option in Windows 8 or Mac OS.\nFollow the instructions below to delete this temporary file:\nWindows 7 and Windows Vista\nClick on the\nbutton and click on\nMy Computer\n.\nDouble-click the\nLocal Disk C:\nand locate the\nProgramData\nfolder.\nOpen the\nProgramData\nfolder and double-click the\nEPSON\nfolder.\nNext, open the\nPRINTER\nfolder by double-clicking it.\nRight-click into the\nEPAUDF01.AUD\nfile and click\nDelete\n.\nOnce deleted, restart your computer.\nTry to print again.\nIf you do not see the ProgramData Folder try the following to unhide it:\nClick into the\nOrganize\nbutton from the Menu Bar.\nScroll down and click on\nFolder and search options\nand a Folder Options window will open.\nClick on the\nView\ntab. Under the Advance settings section locate the\nShow hidden files, folders, and drives\noption and mark the radio\n                    button. Once marked click\nOK\n.\nWindows XP\n:\nClick the\nand select\nMy Computer\n.\nDouble-click the\nLocal Disk C:\nand open the\nDocuments and Settings\nfolder.\nLocate the\nAll User\nfolder and double-click to open it.\nNext double-click to open\nApplication Data\nfolder and then the\nEPSON\nfolder.\nDouble-click to open the\nPRINTER\nfolder.  Right-click into the\nEPAUDF01.AUD\nfile and click\nDelete\n.\nOnce deleted, restart your computer.\nTry to print again.\nIf you do not see the Application Data Folder try the following to unhide it:\nClick into the\nTools\noption from the Menu Bar and select\nFolder Options\n, a new window will appear.\nSelect the\nView\ntab. Under the Advance settings section locate the\nShow hidden files, folders, and drives\noption and mark the radio button.\nOnce marked click\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-147932?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA16201~faq-147932",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:29.127969"
+        },
+        {
+          "question": "Does OS X support manual duplex printing with my product?",
+          "answer": "This feature is not supported in Mac OS X. However, if your printer has a built-in automatic duplexer, auto-duplexing is supported in Mac OS X 10.6 (Snow Leopard).",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-0000c1d-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA16201~faq-0000c1d-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:30.013985"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "I see the message Print queue was not added after I install my product driver from my product CD in OS X 10.5. What should I do?",
+          "answer": "Restart your Mac; it will automatically create the print queue.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110884?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA16201~faq-110884",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:30.953109"
+        },
+        {
+          "question": "I see a communication error when I try to print with a USB connection. What should I do?",
+          "answer": "Try the following:\nMake sure the USB cable is a shielded \"AB\" cable not more than 10 feet long.\nNote:\nDo not use devices that extend the length of the cable because they can cause signal degradation.\nIf you're using a USB hub with your printer, connect the printer directly to your computer.\nNote:\nDo not connect through a USB keyboard.  The keyboard acts like a hub and can interfere with signal transmission.\nUse a different port on your computer.\nMake sure there is no error on the printer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-166151?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA16201~faq-166151",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:31.946444"
+        },
+        {
+          "question": "I keep getting Paper jam, CD/DVD tray, or thick paper jam message right before printing when using the single sheet guide. The paper is not jammed and I am not printing on CD/DVDs. What should I do?",
+          "answer": "The paper is not loading correctly. You'll need to reload the paper without canceling the print job in the print queue. Do the following:\nPress the\nRoll\npaper button for 3 seconds to eject the paper.\nRemove the paper completely from the printer.\nPress the flashing\nPaper\nbutton once to clear the paper out error, the paper light now becomes solid green.\nReload paper in the single sheet guide again and try printing.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-232183?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA16201~faq-232183",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:32.838908"
+        },
+        {
+          "question": "I see the message Cannot connect to Internet in Windows 8.1 after I select Driver Update in my product software. What should I do?",
+          "answer": "The\nDriver Update\noption does not work in Windows 8.1. All other driver options will work correctly.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-0000958-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA16201~faq-0000958-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:33.773637"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA16201~faq-00004c5-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:34.802927"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "Which ink cartridges should I use with my product?",
+          "answer": "Use the following cartridges:\nInk color\nPart number\nPart number on\nsoftware screens\nLight Light Black\n96\nT0969\nVivid Light Magenta\n96\nT0966\nLight Cyan\n96\nT0965\nLight Black\n96\nT0967\nPhoto Black\n96\nT0961\nMatte Black\n96\nT0968\nCyan\n96\nT0962\nVivid Magenta\n96\nT0963\nYellow\n96\nT0964\nWe recommend that you use genuine Epson cartridges and do not refill them. The use of other products may affect your print quality and could result in printer damage.\nCaution:\nLeave your old cartridges in the printer until you are ready to replace them to prevent the print head nozzles from drying out.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-109609?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA16201~faq-109609",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:35.852605"
+        },
+        {
+          "question": "How long should an ink cartridge remain in my product if it's not used often?",
+          "answer": "When an installed ink cartridge is more than six months old, you may need to replace it if you notice that your printouts don't look as good as they used to and quality doesn't improve after cleaning and aligning the print head.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-109611?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA16201~faq-109611",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:36.780461"
+        },
+        {
+          "question": "A color ink cartridge is expended even though I print in black only. Why does this happen?",
+          "answer": "To keep the print head clear and ready to print, the printer uses a small amount of ink from all the cartridges whenever it prints. Even if you select\nGrayscale\n, some color ink is still being used.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-109617?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA16201~faq-109617",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:37.688686"
+        },
+        {
+          "question": "I installed new ink cartridges and my product seems to be doing a long cleaning cycle. Is this normal?",
+          "answer": "Yes. The first time you install ink cartridges, the printer must charge its print head for about 3 minutes. Wait until charging finishes (the\npower light stops flashing) before you turn off the printer, or it may charge improperly and use excess ink the next time you turn it on.\nIf the printer stops moving or making noise, but the\npower light is still flashing after 5 minutes, turn off the printer. If the light is still flashing when you turn it back on, contact Epson technical support for assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-109616?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA16201~faq-109616",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:38.577889"
+        },
+        {
+          "question": "How do I change the ink cartridges?",
+          "answer": "See\nReplacing Ink Cartridges\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110860?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA16201~faq-110860",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:39.533043"
+        },
+        {
+          "question": "How do I know when an ink cartridge needs to be replaced?",
+          "answer": "When the ink replace light is on, the printer will require you to change the cartridge. You need to replace a cartridge when it's expended or it gets too old. See\nReplacing Ink Cartridges\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110861?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA16201~faq-110861",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:40.500421"
+        },
+        {
+          "question": "Does my product come with both a Matte Black and Photo Black ink cartridge?",
+          "answer": "Yes.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110888?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA16201~faq-110888",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:41.437348"
+        },
+        {
+          "question": "How do I switch the black ink cartridge from one type to another?",
+          "answer": "See\nSwitching Black Ink Cartridge Types\n.\nNote:\nIf you plan to switch the black ink cartridge from one type to another, switch the cartridge before you open your printing software. If you open an image in your software and then switch the black ink cartridge, the printer driver may display invalid media settings.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110890?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA16201~faq-110890",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:42.454694"
+        },
+        {
+          "question": "Why do I need to switch between Matte Black and Photo Black ink cartridges?",
+          "answer": "The standard Photo Black ink has been optimized for RC and Photographic grade media types. If you're printing on matte-type papers such as Epson Velvet Fine Art, Premium Presentation Paper Matte, or UltraSmooth Fine Art, your black density is significantly better when using Matte Black ink.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110896?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA16201~faq-110896",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:43.323359"
+        },
+        {
+          "question": "Can the Epson ink cartridges be refilled or can I use third-party ink cartridges without voiding the warranty?",
+          "answer": "Epson does not recommend refilling or using other brands of ink cartridges.  Epson uses a permanent Micro Piezo print head that has allowed Epson to lead the industry in delivering consistent photo image quality by using variable-sized droplets.  Micro Piezo print head can also use a wider variety of inks, which has allowed Epson to introduce such ink breakthroughs as DURABrite® and Epson UltraChrome® inks that offer greatly improved humidity resistance, smudge resistance, and fade resistance.\nUsing refilled ink cartridges will not void the product's original warranty; however, if these products cause a failure, the repair of that failure will not be covered under warranty.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-0000bf9-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA16201~faq-0000bf9-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:44.249119"
+        },
+        {
+          "question": "Can the printer still print if an ink cartridge is expended or not installed?",
+          "answer": "No. The printer will not operate if any cartridge is expended or removed. It's best to always have extra cartridges on hand.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-000051b-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA16201~faq-000051b-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:45.311733"
+        },
+        {
+          "question": "I brought my product with me to a different country and can't find ink for it. What should I do?",
+          "answer": "Some Epson printers and ink cartridges are specific to a regional market and not sold worldwide, although the same printers are sold in the U.S. and Canada. If you have a printer sold in the U.S. or Canada, you may not be able to easily get ink cartridges for it in foreign markets.\nUnfortunately, because of customs and tax regulations, the Epson E-Stores in the U.S. and Canada are unable to ship to addresses outside the U.S. and Canada.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-0000956-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA16201~faq-0000956-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:46.204053"
+        },
+        {
+          "question": "Does my all-in-one printer support non-printing functions when an ink cartridge is expended or not installed?",
+          "answer": "See our\nFAQ page\non which non-printing functions are supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-0000d77-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA16201~faq-0000d77-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:45.295156"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "How do I clean and maintain my product?",
+          "answer": "In order to keep your printer clean, it is recommended that you keep it covered when not in use.  This will prevent dust from settling inside the printer. You should not operate the printer in an excessively dusty environment.\nIf the printer should require cleaning, we recommend using a mild detergent and water with a soft cloth to wipe the outside of the printer. Do not clean any internal parts of the printer.\nTo clean the paper pick-up rollers and paper feed path, use cleaning sheets which can be purchased from the Epson Store. The cleaning sheet part number is S041150.  The cleaning sheets help correct issues related to inconsistent paper feed.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-166514?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C11CA16201~faq-166514",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:46.697333"
+        },
+        {
+          "question": "How do I clean the print head nozzles on my product in OS X?",
+          "answer": "Follow the steps below:\nLoad a few sheets of plain paper in the sheet feeder.\nSelect\nApple\n>\nSystem Preferences\n>\nPrint and Fax\n> your Printer, then\nOpen Print Queue\n.\nSelect\nPrinter Setup\n>\nUtility\n>\nOpen Printer Utility\n, then\nNozzle Check\n.\nFollow the on-screen instructions to print the nozzle check pattern.\nCheck the nozzle check pattern that prints to see if there are gaps in the lines.\nIf there are no gaps, the print head is clean and you're done.\nIf there are gaps or the pattern is faint, click\nClean\nto clean the print heads.\nAfter the printer has finished cleaning, click\nConfirmation\nor\nPrint\nand another nozzle check pattern will print. If it is without any gaps or missing lines, click on\nFinish\n. Otherwise, click\nClean\n.\nIf necessary, repeat cleaning two more times. If the situation continues after three cleaning cycles, replace the affected ink cartridge(s).",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-178262?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C11CA16201~faq-178262",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:47.635131"
+        },
+        {
+          "question": "How should I store my product if it's not going to be used for a long time?",
+          "answer": "Epson recommends storing the product in a cool, dry environment. See your product's documentation for recommended storage temperatures.\nCheck the ink cartridge before placing the product in storage. If the ink cartridge is very low or expended, Epson recommends replacing it with a new ink cartridge to help prevent the print head from drying out. When taking the product out of storage, check the ink cartridge again to see if it has expired. If the cartridge is expired and you experience print quality issues, you may need to replace the expired ink cartridge to improve print quality.\nMake sure to turn off the product using the power button and unplug the power cord before placing it in storage. Cover the product to protect it from dust.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-0000ac7-shared?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C11CA16201~faq-0000ac7-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:48.745337"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "Can I use sheet labels with my product?",
+          "answer": "You can use Epson's\nPhoto Quality Self Adhesive Sheets\n. A cutting grid is printed on the reverse side of each sheet for easy custom trimming. To avoid paper jams, load only one sheet at a time. Also, set the\nType\nor\nMedia Type\nsetting in the driver to\nPremium Presentation Paper Matte\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-109607?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA16201~faq-109607",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:49.702844"
+        },
+        {
+          "question": "How can I stop my product from feeding multiple pages at the same time?",
+          "answer": "If multiple pages feed at once, remove the paper from the sheet feeder, fan the edges to separate the sheets, then reload it.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-109614?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA16201~faq-109614",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:50.671518"
+        },
+        {
+          "question": "Which paper type setting should I select when using PremierArt Water Resistant Canvas for Epson?",
+          "answer": "Select\nUltraSmooth Fine Art Paper\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-109619?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA16201~faq-109619",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:51.610680"
+        },
+        {
+          "question": "Does the type of paper I use really make a difference?",
+          "answer": "The type of paper you choose affects the way your printout looks, so be sure to select the correct paper for your print job. If you are just printing a rough draft of an image, plain paper is fine. For the best results, however, you'll want to use one of Epson's special ink jet papers designed for your printer. See\nAvailable Epson Papers\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110862?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA16201~faq-110862",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:52.513408"
+        },
+        {
+          "question": "How do I know which paper or media type to select in my product's driver?",
+          "answer": "See\nSelecting the Correct Paper Type\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110873?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA16201~faq-110873",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:53.429004"
+        },
+        {
+          "question": "What kind of paper gives the best results for high quality printing?",
+          "answer": "For the best results, you'll want to use one of Epson's special ink jet papers designed for your printer. For example, your photos will look great printed on Epson Ultra Premium Photo Paper Glossy, Epson Ultra Premium Presentation Paper Matte, and Epson Ultra Premium Photo Paper Luster.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110874?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA16201~faq-110874",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:54.604216"
+        },
+        {
+          "question": "Can I print on transparencies?",
+          "answer": "No.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110887?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA16201~faq-110887",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:55.577757"
+        },
+        {
+          "question": "How do I load roll paper?",
+          "answer": "See\nLoading Roll Paper\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110885?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA16201~faq-110885",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:56.416501"
+        },
+        {
+          "question": "How do I load thick paper?",
+          "answer": "See\nLoading Thick Media\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110886?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA16201~faq-110886",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:57.331377"
+        },
+        {
+          "question": "How can I solve paper feeding problems?",
+          "answer": "If the paper doesn't feed properly or jams in the sheet feeder, manual feed slots, or roll paper slot, Do the following:\nSheet Feeder:\nIf paper jams in the printer, press the\npaper button to eject any jammed sheets, then open the printer cover and remove any paper jammed inside. Press the\npaper button again to clear the error.\nIf paper doesn't feed, remove it from the sheet feeder. Reload it against the right side, then slide the edge guide against the paper.\nMake sure the paper loaded in the sheet feeder is not above the arrow mark inside the edge guide.\nIf multiple pages feed at once, remove the paper from the sheet feeder, fan the edges to separate the sheets, then reload it.\nMake sure you don't load more than the recommended number of sheets. If you're printing on both sides of the paper, try loading fewer sheets.\nPaper type\nLoad up to\nthis many sheets\nPlain paper\nEpson Bright White Paper\nEpson Presentation Paper Matte\n120\nEpson Photo Paper Glossy\nEpson Premium Photo Paper Glossy\nEpson Ultra Premium Photo Paper Glossy\nEpson Premium Photo Paper Semi-gloss\nEpson Premium Presentation Paper Matte\nEpson Premium Presentation Paper Matte Double-Sided\n20\nEpson Photo Quality Self-Adhesive Sheets\nEpson Iron-On Cool Peel Transfer Paper\n1\nMake sure you use new, smooth, high-quality paper that is not curled, creased, old, or too thin. Load it printable side up.\nIf the paper loaded from the sheet feeder doesn't eject fully, you may have selected the wrong paper size in the printer software. Press the\npaper button, then open the printer cover and remove the paper. Select the correct paper size when you reprint.\nIf it's wrinkled when it ejects, the paper may be damp or too thin. (If the paper is damp after printing, you may have selected the wrong media type setting in the printer software).\nRear Manual Feed Slot:\nIf paper jams in the printer, press the\npaper button to eject any jammed sheets, then open the printer cover and remove any paper jammed inside. Press the\npaper button again to clear the error.\nIf paper doesn't feed, remove it from the single sheet guide. Reload it against the right side, then slide the edge guide against the paper.\nMake sure you use new, smooth, high-quality paper that is not curled, creased, old, or too thin. Load it printable side up.\nIf the paper loaded from the rear manual feed slot doesn't eject fully, you may have selected the wrong paper size in the printer software. Press the\npaper button, then open the printer cover and remove the paper. Select the correct paper size when you reprint.\nIf it's wrinkled when it ejects, the paper may be damp or too thin. (If the paper is damp after printing, you may have selected the wrong media type setting in the printer software).\nRoll Paper Slot:\nIf paper jams in the printer, cut off any printed roll paper or canvas media. Press and hold the\nroll paper button for three seconds to back the paper out. Remove the paper from the printer, press the\npaper button to clear the paper out error, and load the paper again.\nIf roll paper doesn't feed, cut the end of it straight across and uncurl the end by rolling it backwards, if necessary.\nIf it's wrinkled when it ejects, the paper may be damp or too thin. (If the paper is damp after printing, you may have selected the wrong media type setting in the printer software).\nFront Manual Feed Slot:\nIf paper jams in the printer, gently pull out the paper and press the\npaper button to clear the error.\nIf paper doesn't feed, remove it from the front manual feed slot. Reload it against the right side, then slide the edge guide against the paper.\nLoad only one piece of 1.0 to 1.3 mm thick 13 x 19-inch media in the front manual feed slot. Make sure that the trailing edge of the media is aligned with the arrows on the front manual feed slot and that there is enough space behind the printer for the media to feed through the printer.\nMake sure you use new, smooth, high-quality paper that is not curled, creased, old, or too thin. Load it printable side up.\nIf it's wrinkled when it ejects, the paper may be damp or too thin. (If the paper is damp after printing, you may have selected the wrong media type setting in the printer software).",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110895?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA16201~faq-110895",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:58.238179"
+        },
+        {
+          "question": "How do I create a custom paper size in the Server Properties?",
+          "answer": "Follow these steps to create a new page size accessible by all printer drivers installed in Windows:\nOpen the\nPrinters\nor\nPrinters and Faxes\nwindow.\nClick\nFile\n, then\nServer Properties\n.\nPut a check in the\nCreate a new form\nbox.\nInput a name for the custom paper size.\nUnder\nPaper Size\n, enter the desired height and width.\nClick\nSave\nor\nSave Form\nto add the new form size to the list, then\nOK\nto close Server Properties.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-140711?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA16201~faq-140711",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:22:59.141297"
+        },
+        {
+          "question": "How should I handle specialty paper like fine art media?",
+          "answer": "Do the following:\nAlways use one sheet at a time.\nUse lint-free cotton gloves when handling the media.\nNever stack prints on top of each other. Use a separator sheet between prints.\nStore media flat. Never store media on its side.\nStore media in a cool, dry environment. Refer to the media specification sheet for proper temperature and humidity requirements.\nAlways follow the specific loading instructions for the media being used.\nUse the proper media type setting (EMX).\nNote:\nNon-Epson media can be optimized using custom media settings created in Epson Media Installer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-00004B3-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA16201~faq-00004B3-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:00.090601"
+        },
+        {
+          "question": "Which Epson Professional papers do not have optical brighteners?",
+          "answer": "Hot Press Natural, Cold Press Natural, and UltraSmooth Fine Art Paper.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-0000b07-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA16201~faq-0000b07-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:01.024985"
+        },
+        {
+          "question": "Heavy coated or thick paper does not load correctly or loads skewed. What should I do?",
+          "answer": "The paper you are using may be too heavy or glossy for the paper roller to pick up. Be sure the paper is within printer specifications.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-0000b08-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA16201~faq-0000b08-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:01.996646"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "The image look inverted, as if viewed in a mirror. What should I do?",
+          "answer": "You may have accidentally selected the\nMirror Image\nor\nRotate 180°\noption in the printer driver or a similar feature in your software application. Make sure the settings are not turned on in the printer driver or in your application program. (If you're printing on Epson Iron-On Transfer Paper, the image should be inverted.)\nWindows\n:\nMacintosh\n:",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-109613?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA16201~faq-109613",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:02.887601"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Try the following:\nThe print head nozzles may need to be\nchecked and cleaned\n.\nSelect a higher\nPrint Quality\nand turn off\nHigh Speed\nmode in the printer software.\nMake sure the Media Type setting matches the paper you loaded.\nMake sure the printable side of the paper is face-up. It's usually brighter or whiter.\nOn a Macintosh, try using\nAutomatic\nmode.\nMake sure you're using genuine Epson ink cartridges and you use them within six months after you open the packages.\nAlign\nthe print head.\nThe ink cartridges may need\nreplacing\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110848?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA16201~faq-110848",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:03.841688"
+        },
+        {
+          "question": "The quality of my printed output is unacceptable. What should I do?",
+          "answer": "If the image looks fine on your computer screen but you're not happy with the output, make sure you're using the correct driver for your printer. If that doesn't help, see\nPrint Quality Problems\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110847?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA16201~faq-110847",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:04.745508"
+        },
+        {
+          "question": "My printout has incorrect margins. What should I do?",
+          "answer": "Check the following:\nMake sure the paper settings are correct for your paper size in the printer software.\nChoose the correct margins for your paper size in your printing program.\nUse the\nPrint Preview\noption in your Windows printer software to check your margins before you print.\nUse the\nPreview\nbutton in the Macintosh Print window to check your margins before you print.\nMake sure your paper is positioned next to the right side of the feeder.\nIf you're printing from a web browser, the pages may not print correctly due to the web page design. Try one of the following:\nCheck to see if there is a\nPrinter Friendly Version\n(or similarly named) icon or link on the web page that you can click on.\nExperiment with page setup and paper size, then select\nPrint Preview\nfrom the\nFile\nmenu in your application to view the changes.\nYou may need to reinstall your printer software.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110849?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA16201~faq-110849",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:06.085080"
+        },
+        {
+          "question": "My printout is blurry or smeared. What should I do?",
+          "answer": "Check the following:\nMake sure your paper isn't damp or curled, or loaded face-down (the printable side should be face-up). It's usually brighter or whiter.\nUse a support sheet with special paper, or try loading your paper one sheet at a time.\nMake sure your paper meets the specifications. Also, it is important to\nselect the correct paper type\n.\nUse Epson papers to ensure proper saturation and absorption of genuine Epson inks. Also, make sure you're using genuine Epson ink cartridges.\nAlign\nthe print head.\nRemove each sheet from the front tray as it is printed.\nThe printer won't operate properly if it's tilted or at an angle. Place it on a flat, stable surface that extends beyond the printer base in all directions.\nAvoid handling printouts for a few hours to allow the ink to set.  Let your prints dry separately for at least 12 hours before framing or placing them in protective sheets.  If you need to stack them, place a sheet of plain paper between each print.\nTurn off\nHigh Speed\nmode in the printer software.\nTurn on the following settings and try printing again:\nWindows\n: Access the\nprinter settings window\n. On the Main tab, click the\nPaper Config\nbutton and set the Platen Gap to\nWide\n. Then click the\nUtility\ntab, select\nSpeed and Progress\n, and click the\nCheck paper width before printing\ncheckbox.\nMacintosh OS X 10.5\n: Open the\nPrint window\n, select\nPaper Configuration\nfrom the pop-up menu, and turn on the\nThick paper\nand\nCheck paper width before printing\nsettings.\nMac OS X 10.3 to 10.4\n: Open the\nPrint window\n, select\nPaper Configuration\nfrom the popup menu, and turn on the\nThick paper\nand\nCheck paper width before printing\nsettings.\nIf you are using double-sided paper and printing heavily saturated or dark images on the front side of the paper, you may notice that smudges or marks appear on the front when you print the second side. If one side of the paper will contain a lighter image or text, print that side first to eliminate marks or smudging.\nLoad a new sheet of plain paper and press the\npaper button to eject it. Do this several times. If the printouts are still blurry or smeared, ink may have leaked inside the printer, and you need to clean the printer. See\nCleaning the Rollers\n.\nIf you are having this problem while printing on a CD or DVD, make sure you're using an ink jet-printable CD or DVD, and handle the disc carefully. Allow the ink to dry for at least 24 hours before inserting the disc in a drive.\nYou may need to uninstall your printer software and then reinstall it.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110853?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA16201~faq-110853",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:06.933146"
+        },
+        {
+          "question": "My product is printing blank pages. What should I do?",
+          "answer": "Check the following:\nMake sure the\nprint head nozzles\nare not clogged.\nIn Windows, make sure\nEPSON Stylus Photo R2880\nis selected as your printer. In Mac OS X 10.5, make sure\nStylus Photo R2880\nis selected in the Print window. In Mac OS X 10.3 to 10.4, make sure\nStylus Photo R2880\nis selected in the Page Setup and Print windows.\nMake sure the printer software settings are appropriate for the paper size you're using.\nThe ink cartridges may be old or low on ink, and you may need to\nreplace them\n.\nThe printer won't operate properly if it's tilted or at an angle. Place it on a flat, stable surface that extends beyond the printer base in all directions.\nTry printing a different document to determine if the problem is limited to one document. If the problem is with one document, try recreating the document.\nYou may need to reinstall your printer software.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110851?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA16201~faq-110851",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:07.823291"
+        },
+        {
+          "question": "My printout is grainy when I print from any application. What should I do?",
+          "answer": "Check the following:\nMake sure the printable side of the paper is face-up. It's usually brighter or whiter.\nSelect a higher\nPrint Quality\n, and turn off\nHigh Speed\nmode in the printer software.\nSelect\nMax Quality\n(Windows) or\nSuperPhoto - 5760dpi\n(Macintosh) as the Print Quality. Remember that this setting increases print time.\nAlign\nthe print head.\nYou may need to increase the resolution of your image or print in a smaller size; see your software documentation.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110856?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA16201~faq-110856",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:08.811765"
+        },
+        {
+          "question": "My printout contains garbled characters when I print from Windows or my Mac. What should I do?",
+          "answer": "Try the following:\nMake sure the USB cable is a shielded “AB” cable not more then 6.5 feet (2 meters) long.\nIf you're using a switch box or USB hub with your printer, connect the printer directly to your computer.\nTurn the printer off, check that the cables are securely connected, turn it back on, then try printing again.\nYou may need to reinstall your printer software.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110855?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA16201~faq-110855",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:09.726668"
+        },
+        {
+          "question": "My printout has incorrect or missing colors. What should I do?",
+          "answer": "The problem could be due to a software setting, the condition of the printer, or the paper you're using. Check the following:\nMake sure the color setting in your Macintosh printer software is not set to\nGrayscale\n.\nThe print head nozzles may need\ncleaning\n.\nThe ink cartridges may be old or low on ink, and you may need to\nreplace them\n.\nTry turning off\nPhotoEnhance\nin the Windows printer software.\nOn a Macintosh, try using\nAutomatic\nmode.\nTry changing the\nGamma\nsetting in your printer software.\nYour printed colors can never exactly match your on-screen colors. However, you can use a color management system to get as close as possible. Try using the\nICM\n(Windows) or\nColorSync\n(Macintosh) setting, or use a color-managed workflow.\nIf you're using color management in your application, select\nOff (No Color Adjustment)\nto disable color management in the printer software.\nFor best results, use genuine Epson ink and paper.\nAfter you print, the colors on your printout will take some time to set as the ink dries. During this time, the colors may look different than you expect. To reduce the drying time, avoid stacking your prints on top of each other.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110854?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA16201~faq-110854",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:10.620689"
+        },
+        {
+          "question": "The printout has a slight slant. What should I do?",
+          "answer": "Try the following:\nMake sure you have\nloaded the paper\ncorrectly.\nAlign\nthe print head.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110883?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA16201~faq-110883",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:11.533586"
+        },
+        {
+          "question": "My product sounds as though it is printing, but nothing prints. What should I do?",
+          "answer": "The print head nozzles may be clogged. Try\ncleaning the print head\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110878?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA16201~faq-110878",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:12.435689"
+        },
+        {
+          "question": "I upgraded to Photoshop CS4 and now my prints come out darker than what is displayed on my monitor. What should I do?",
+          "answer": "Try turning off the color management in Photoshop and make sure you are using the color management in the printer driver.  Do the following:\nWindows:\nIn the printer driver, under Mode, click\nCustom\n, then select\nColor Controls\n.\nIn Photoshop, open your file and select\nPrint\nfrom the File menu.  Then choose\nNo Color Management\nfor Color Handling.\nMacintosh:\nIn the final print window under Layout, select\nPrint Settings\nor\nPrinter Settings\n.  For Color Mode, select\nColor Controls\n, and choose\nEpson Standard sRGB\n,\nAdobe RGB\n, or another selection if appropriate.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-158683?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA16201~faq-158683",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:13.381835"
+        },
+        {
+          "question": "I am printing a PostScript file and the edges of the text in my printout are not straight or the printout does not match the color shown on my monitor. What should I do?",
+          "answer": "Your product is not a PostScript printer so you may see unexpected results when printing a PostScript file. To print PostScript files in high quality, Epson recommends using a RIP software which will create a raster image from the PostScript code and then send it to your product to print.\nIf a RIP software is unavailable, you may be able to obtain high quality prints by saving and printing your document/images as a PDF file instead of a PostScript file.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-177254?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA16201~faq-177254",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:14.434751"
+        },
+        {
+          "question": "Web pages don't print the way they appear on my monitor. What should I do?",
+          "answer": "The pages may not print correctly due to the web page design. Try the following:\nCheck for a\nPrinter-friendly Version\n(or similarly named) option on the web page.\nChange the page setup and paper size settings, and select the preview option in your browser to check the changes before you print.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-00004b8-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA16201~faq-00004b8-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:15.321383"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software",
+      "section_id": "8796126324812",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "Why is the Buy Epson Ink button not working in the Low Ink Reminder utility?",
+          "answer": "Your driver may need to be updated. Download the latest printer driver from the Downloads tab for your product. If installing the latest printer driver does not fix the problem, you can order ink from the Epson Store.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110893?faq_cat=faq-8796126324812",
+          "faq_slug": "SPT_C11CA16201~faq-110893",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:16.254817"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "I'm having problems installing the software. What should I do?",
+          "answer": "Check the following:\nMake sure your printer is turned on and the USB cable is securely connected at both ends. If you still have problems, disconnect the USB cable and carefully follow the software installation instructions on the Start Here sheet (\nWindows\nor\nMacintosh\n).\nMake sure your system meets the requirements.\nMake sure all applications (including any screen savers and virus protectors) are closed before you install the software. If any applications were open, uninstall the software, then carefully follow the software installation instructions on the Start Here sheet (\nWindows\nor\nMacintosh\n).\nIf you see an error message or your software doesn't install correctly in Windows, you may not have software installation privileges. Contact your System Administrator.\nMake sure the USB Controller is working properly in Device Manager. See your Windows help system for details. If it's not working, contact your computer manufacturer.\nUninstall the printer software, then carefully follow the software installation instructions on the Start Here sheet (\nWindows\nor\nMacintosh\n).\nNote:\nYou must connect the printer to your computer at the correct time to make sure the driver is installed correctly on your computer. Carefully follow the software installation instructions on the Start Here sheet.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110858?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA16201~faq-110858",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:15.373556"
+        },
+        {
+          "question": "I cancelled the software installation before it was complete, or connected the USB cable before starting the software installation. What should I do?",
+          "answer": "First uninstall the software, then reinstall the software.\nNote:\nYou must connect the printer to your computer at the correct time to make sure the driver is installed correctly on your computer. Carefully follow the software installation instructions on the Start Here sheet (\nWindows\nor\nMacintosh\n).",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110857?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA16201~faq-110857",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:16.322230"
+        },
+        {
+          "question": "Can I select a print resolution by indicating a specific dpi (dots per inch) setting?",
+          "answer": "No. The print resolution is determined by other driver software settings.\nIn Windows, the\nPrint Quality\nand\nMedia Type\nsettings determine the print resolution. See\nPrinting in Windows\n.\nIn Mac OS X 10.5, the\nPrint Quality\nand\nMedia Type\nsettings determine the print resolution. See\nPrinting With Mac OS X 10.5\n.\nIn Mac OS X 10.3 to 10.4, the resolution settings depend on the\nMode\nsetting (see\nPrinting With Mac OS X 10.3 to 10.4\n):\nNote:\nTo access the resolution settings in Mac OS X, select\nPrint\nfrom the\nFile\nmenu. Then select\nPrint Settings\nfrom the pull-down menu.\nIf you've selected\nAutomatic\nas the\nMode\nsetting, the resolution is determined by the\nMedia Type\nsetting and the position of the Quality/Speed slider.\nIf you've selected\nAdvanced\nas the\nMode\nsetting, the resolution is determined by the\nMedia Type\nsetting and the\nPrint Quality\nsetting.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110865?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA16201~faq-110865",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:17.256066"
+        },
+        {
+          "question": "My product software doesn't work properly. What should I do?",
+          "answer": "Make sure your\nWindows software is installed correctly\nor your\nMacintosh software is installed correctly\n.\nAlso, make sure your computer meets the system requirements.\nThe problem could also be caused by settings in your operating system. See\nSolving Problems\nfor more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110872?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA16201~faq-110872",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:18.157211"
+        },
+        {
+          "question": "When I use the Advanced B&W Photo setting in my product driver, which color management settings should I select in Photoshop?",
+          "answer": "When\nAdvanced B&W Photo\nis selected the printer driver manages the color, so you should disable color management in Photoshop. Disable color management in Photoshop by following one of these steps:\nPhotoshop CS3\n: Select\nPrinter Manages Color\nas your Color Handling setting (in the Print window).\nPhotoshop CS2\n: Select\nNo Color Management\nas your Color Handling setting (in the Print with Preview window).\nPhotoshop CS or 7\n:  Select\nSame as Source\nas your Printer Profile setting (in the Print with Preview window).\nYour file does not need to be converted to grayscale.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110889?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA16201~faq-110889",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:19.082350"
+        },
+        {
+          "question": "The Advanced B&W Photo setting is grayed out in my product driver. What should I do?",
+          "answer": "Check the following:\nMake sure you install the correct black ink cartridge for the media type selected. When the photo black cartridge is installed, the\nAdvanced B&W Photo\nsetting is available only for glossy media types. It is not available for any of the matte media types. When the matte black cartridge is installed, the\nAdvanced B&W Photo\nsetting is available only for matte media types.\nIf you plan to switch the black ink cartridge from one type to another, switch the cartridge before you open your printing software. If you open an image in your software and then switch the black ink cartridge, your printer driver may display invalid media settings.\nOn a Macintosh, if you're using the correct black ink cartridge for your media type but the\nAdvanced B&W Photo\nsetting is still grayed out, Do the following:\nOpen the\nHard Drive\n.\nSelect\nApplications\n>\nEPSON Printer Utility 3\n.\nSelect your printer and click\nOK\n.\nClick\nEPSON Status Monitor\n, make sure you see the ink levels in the status window, then click\nUpdate\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110892?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA16201~faq-110892",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:20.070421"
+        },
+        {
+          "question": "Why are my images being expanded when I print borderless photos with the Retain Size setting selected?",
+          "answer": "Your driver may need to be updated. Download the latest printer driver from the Downloads tab for your product. If installing the latest printer driver does not fix the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110894?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA16201~faq-110894",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:21.050532"
+        },
+        {
+          "question": "How do I set default print settings when I print from Windows?",
+          "answer": "When you change your print settings from within a program, the changes apply only while you're printing at that time. If you want to select different settings to use in all your Windows programs, you can change the default print settings.\nRight-click the\nicon in the bottom right corner of your screen (the taskbar).\nSelect\nPrinter Settings\n. You see the printer settings window:\nSelect the print settings you want to use as defaults in all your Windows programs. You can still change the default settings from within a program as needed.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110891?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA16201~faq-110891",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:22.408092"
+        },
+        {
+          "question": "Can I connect more than one computer to my product at the same time?",
+          "answer": "Yes. The printer has two USB ports, so you can connect two computers at the same time. If both computers send a print job at the same time, a busy message appears on one of the computers.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-126813?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA16201~faq-126813",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:24.998302"
+        },
+        {
+          "question": "I upgraded my system software to OS X 10.6.x. Now when I open the Epson Print CD software, a message appears and the Epson Print CD software quits unexpectedly. What should I do?",
+          "answer": "Try the following:\nTurn off the printer.\nClick the Spotlight\nicon in the upper-right corner of your screen. In the search field type\nEpson\n, then click\nShow All\n.\nSelect all the files and folders with\nEpson\nin the name and drag them to the trash.\nOpen your hard drive, select\nLibrary\n>\nPrinters\n, the\nEpson\nfolder and drag it to the trash.\nOn your hard drive, select\nUsers\n>\nLibrary\n>\nPreferences\n>\nEpson\n, select the files named\ncom.apple.print.\n[XXXXXXX]\n.plist\n(XXXXXX represents any name)\tand then drag the files to the trash.\nFrom the Apple menu, select\nSystem Preferences\nand click\nPrint & Fax\n.\nPress the\nControl\nand\nApple\nbutton on your keyboard at the same time, then click anywhere in the printer list. Select\nReset printing system...\n.\nClick\nOK\n, when you see the screen below.\nNote:\nResetting the printing system will remove all printers from the\nPrinter\nlist. You'll need to\nAdd\nthe printers you want again.\nRestart\nyour Mac.\nReinstall the Mac OS X 10.6.x upgrade.\nFrom the Apple menu, select\nSystem Preferences\nand then click\nPrint & Fax\n.\nTurn on the printer. Your Mac will add the printer automatically. If your printer does not appear automatically try the following:\nUpdate your version of Mac OS X 10.6.x. If there is a driver available for your printer in a later version of Mac OS X 10.6.x, your Mac will automatically add the printer when you turn the printer on.\nCheck if there is a Macintosh OS X 10.6.x driver available from the\nDownloads\ntab for your product. If it's available, download the driver and follow the on-screen installation instructions to install driver.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-145825?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA16201~faq-145825",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:26.289951"
+        },
+        {
+          "question": "How can I select the Advanced B&W Photo mode in my product software using Adobe Photoshop CS5?",
+          "answer": "Do the following:\nOpen an image in Photoshop CS5.\nClick\nFile\nthen\nPrint\n.\nSelect the Stylus Photo R2880 printer.\nSelect\nPrinter Manages Colors\nbelow Color Handling.\nClick\nPrint Settings\nbelow Copies.\nClick the drop-down menu next to Layout and select\nPrinter Features\n.\nClick the drop-down menu next to Color and select\nAdvanced B&W Photo\n.\nClick\nSave\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-163903?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA16201~faq-163903",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:27.521664"
+        },
+        {
+          "question": "Why can't I find the media type in the drop-down menu after I downloaded the ICC profiles?",
+          "answer": "An ICC profile is a file that describes how a particular device reproduces color. The profiles downloaded  from the Epson website do not change the quality settings in the driver (Text/Image, Photo, Best Photo, Photo RPM). The profiles are used in an application such as Photoshop to produce colors more accurately, so they stay consistent when printed.  When profiles are used properly, they serve to convert RGB values to CMYK and vice versa. The media types in the printer driver drop-down list do not change. If the media you are using is not listed, select the media type that is closest to the media you are printing on for best results. It is also recommended that you check the Paper section in the Epson support site for changes in media type names.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-178326?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA16201~faq-178326",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:28.629584"
+        },
+        {
+          "question": "Are additional ICC profiles available for my product?",
+          "answer": "Yes. See\nPremium ICC Printer Profiles for the Epson Stylus Photo R2880\nfor more information on obtaining ICC profiles and how to use them in a color-managed workflow.\nNote:\nICC profiles are unavailable for Advanced Black & White Printing Mode.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-112885?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA16201~faq-112885",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:29.749502"
+        },
+        {
+          "question": "Does my product support Epson Connect?",
+          "answer": "No, your product is not compatible.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-0000af9-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA16201~faq-0000af9-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:30.946971"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "You can download the latest product driver from the Downloads section of this website.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-0000afb-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA16201~faq-0000afb-shared",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:32.036482"
+        },
+        {
+          "question": "Who do I contact for support on the software that came with my product?",
+          "answer": "Contact Epson for support on Epson software. For questions about any other software that came with your printer, contact the manufacturer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-110871-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA16201~faq-110871-shared",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:33.119518"
+        },
+        {
+          "question": "How do I change the font size of text when I print from software in Windows?",
+          "answer": "You need to select the text or font size in the software you are printing from, not the printer driver. For detailed instructions, contact the company for the application you are printing from.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-00004b7-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA16201~faq-00004b7-shared",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:34.207339"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA16201~faq-00004dc-shared",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:35.488780"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA16201~faq-0000f4b-shared",
+          "display_order": 20,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:36.605784"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA16201~faq-0000f4c-shared",
+          "display_order": 21,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:37.730051"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA16201~faq-0000f4d-shared",
+          "display_order": 22,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:38.980044"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Wireless or Wired Connection",
+      "section_id": "8796127635532",
+      "section_order": 9,
+      "faqs": [
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-0000ad0-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CA16201~faq-0000ad0-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:40.091168"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 10,
+      "faqs": [
+        {
+          "question": "What do the control panel lights indicate?",
+          "answer": "The lights indicate the printer's status\nand let you know when a problem occurs. See the following table for details:\nLight status\nProblem and solution\npower on\npaper off\nink off\nPrinter is on and in a ready condition.\npower on\npaper off\nink on\nAn ink cartridge is expended or not installed correctly, or is not compatible with the printer. Replace or reinstall the cartridge.\npower on\npaper off\nink flashing\nInk in a cartridge is low. You can continue printing, or check which cartridge is low and replace it.\npower on\npaper flashing\nink off\nRoll paper is being ejected from the printer. Remove any paper from the roll paper slot, then press the\npaper button to eject the remaining paper.\npower on\npaper and\nink flashing alternately\nAn unsupported device is connected to the\nexternal USB port. Connect only PictBridge/USB Direct Print compatible digital cameras to the\nexternal USB port.\npower flashing\npaper on\nink off\nPaper may be out. Load paper in the sheet feeder and press the\npaper button.\nIf you're printing on roll paper or canvas media, it may be out. Load roll paper and press the\npaper button.\nIf you're printing on a CD or DVD, the CD/DVD tray is not inserted or the CD on the CD/DVD tray is not detected. Insert the CD/DVD tray and press the\npaper button.\nIf you're printing on thick media, the media is not inserted. Insert the thick media and press the\npaper button.\npower flashing\npaper flashing\nink off\nPaper may have jammed in the sheet feeder, rear manual feed slot, front manual feed slot, or roll paper slot.\nSheet Feeder or Rear Manual Feed Slot:\nPress the\npaper button to eject any jammed sheets, then open the printer cover and remove any paper jammed inside. Press the\npaper button again to clear the error.\nFront Manual Feed Slot:\nGently pull out the paper and press the\npaper button to clear the error.\nRoll Paper Slot:\nCut off any printed roll paper or canvas media, then remove and reload the paper.\nThe printer cover may be open. Close the printer cover to continue.\nIf you're printing on a CD or DVD, the CD/DVD tray may be unable to eject. Gently pull out the CD/DVD tray and press the\npaper button.\nIf you're printing on roll paper, it may not be loaded correctly. Be sure to correctly align the roll paper when loading it.\npower flashing\npaper and\nink flashing simultaneously then alternately\nThe front manual feed slot cover is open while printing from paper loaded in the sheet feeder. Remove the loaded paper to print on thick media or a CD/DVD or close the front manual feed slot cover to print on paper loaded in the sheet feeder. Press the\npaper button to clear the error.\nIf you're printing on a CD or DVD, the CD tray is not detected. Be sure to correctly insert the CD tray.\npower off\npaper and\nink flashing alternately\nParts inside the R2880 Series are at the end of their service life or an unknown error has occurred. Contact Epson for help.\npower off\npaper and\nink flashing fast\nThe print head is obstructed by paper or another foreign material. Turn off the printer, remove any obstructions, and turn it back on. If the error persists, contact Epson.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-114303?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA16201~faq-114303",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:41.234531"
+        },
+        {
+          "question": "When printing in Windows, how can I prevent an extra page from being ejected after every print job?",
+          "answer": "The Separator Page function may be enabled. Follow these steps to disable it:\nClick\nStart\nor\n.\nDo one of the following:\nWindows XP\n:\nSelect\nPrinters and Faxes\n(or select\nSettings\n, then select\nPrinters and Faxes\n).\nWindows Vista\n:\nSelect\nControl Panel\n, then\nPrinter\nor\nPrinters\nunder Hardware and Sound\n.\nWindows 7\n:\nSelect\nControl Panel\n, then\nView Devices and Printers\nunder Hardware and Sound.\nIn the\nPrinters\nor\nPrinters and Faxes\nwindow, right-click on your printer's name.\nSelect\nProperties\n, click the Advanced tab, then press the\nSeparator Page\nbutton.\nIn the Separator Page window, delete the information in the text box and then click\nOK\n.\nClick\nOK\nagain.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-134294?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA16201~faq-134294",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:42.450823"
+        },
+        {
+          "question": "My product makes noise after I turn it on or after it has been sitting for a while. What should I do?",
+          "answer": "This is normal. It is performing routine maintenance.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-000096b-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA16201~faq-000096b-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:43.646068"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA16201~faq-00004b0-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:44.758854"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA16201~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA16201~faq-0000f4a-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R2880/s/SPT_C11CA16201",
+          "fetched_at": "2026-04-02T01:23:45.904089"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

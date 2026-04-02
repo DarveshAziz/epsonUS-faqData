@@ -1,0 +1,445 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "SureColor Series",
+  "model": {
+    "name": "Epson SureColor P9370",
+    "sku": "SPT_C11CL83201",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "What security measures does Epson recommend for its network products?",
+          "answer": "To help deter unauthorized access to your product over a network, you should protect your network environment using appropriate security measures.\nSecurity measures such as these can help deter threats such as loss of user data, use of telephone and fax lines, and other intrusions:\nEnable security on your wireless LAN if your product supports a wireless connection\nEnable the appropriate security on the wireless LAN you plan to use with your product. Network security, such as a network password, can deter interception of traffic over the wireless LAN. Your router may already have a default password enabled by your Internet service provider (ISP). See your ISP and router documentation for instructions on how to change the default password and better secure your network.\nConnect your product only to a network protected by a firewall\nConnecting your product directly to the Internet may leave it vulnerable to security threats. Instead, connect it to a router or other networking device protected by a firewall. Your router may already have a firewall set up by your Internet service provider; check with your ISP for confirmation. For best results, set up and use a private IP address for your network connection.\nChange the default administrator password on your product\nIf your product has an option to set an administrator password, change the default administrator password to deter access by unauthorized users to personal data stored on your product, such as IDs, passwords, and contact lists. See the product's User's Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-0000a05-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CL83201~faq-0000a05-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:21:27.582937"
+        },
+        {
+          "question": "How do I register my product?",
+          "answer": "You can register your Epson product on our\nProduct Registration\npage.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-000079f-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CL83201~faq-000079f-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:21:28.754364"
+        },
+        {
+          "question": "Can I use an expired ink cartridge in my printer?",
+          "answer": "Epson does not recommend using expired ink cartridges in the printer. Do not use an unopened ink cartridge if the date on the package has expired. For best results, use ink cartridges before the expiration date printed on the package (and within one year of installation in the printer). Replace expired cartridges with new ones.\nYou may need to replace a cartridge that is more than one year old, if your printouts do not look their best, even after cleaning and aligning the print head. We recommend you store any unused or unopened ink cartridges in a cool, dark place.\nNote:\nFor good print quality, we recommend removing and shaking the ink cartridges once every six months.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-0000b98-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CL83201~faq-0000b98-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:21:29.810439"
+        },
+        {
+          "question": "I see the message Communication Error when I use a USB connection. What should I do?",
+          "answer": "Do the following:\nDelete all print jobs in the print queue.\nTurn the printer off.\nNote:\nMake sure the USB cable is connected correctly.\nRestart your computer. When the desktop appears, turn your printer on and follow the on-screen instructions.\nNote:\nIf the problem continues, turn the printer off again and delete the printer in the list of printers. Then disconnect the USB cable from the printer and connect it again.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-00009ea-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CL83201~faq-00009ea-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:21:30.905691"
+        },
+        {
+          "question": "Who do I contact for software support?",
+          "answer": "Click on the\nContact Us\ntab on your product's support page to contact Epson for support. If your product comes with third-party software, contact the software company.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-00004db-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CL83201~faq-00004db-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:21:32.077542"
+        },
+        {
+          "question": "How do I save my Epson printer driver presets so I can restore them if I reinstall the Epson printer driver in Windows?",
+          "answer": "Note:\nYou may lose some custom settings when you uninstall the printer driver.\nBefore you reinstall the printer driver, do the following:\nOpen\nFile Explorer\nor\nWindows Explorer\n.\nSelect\nThis PC\nor\nComputer\n>\nC:\ndrive >\nProgram Files\n>\nEpson\n> [your printer name].\nMove the UCI extension files to a different folder on your desktop.\nNote:\nAfter you reinstall the Epson printer driver, move the UCI extension files back to your printer's folder as described in step 2.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-00009e6-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CL83201~faq-00009e6-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:21:33.196836"
+        },
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-00009e9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CL83201~faq-00009e9-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:21:34.366650"
+        },
+        {
+          "question": "Does the product support borderless printing?",
+          "answer": "Yes, the product supports full borderless printing on roll paper. On cut sheet media, you can print without borders on the left and right edges only.\nNote:\nBorderless printing is not supported on poster board.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-0000c11-scp7370_9370?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CL83201~faq-0000c11-scp7370_9370",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:21:35.602458"
+        },
+        {
+          "question": "My print job disappears from the Windows print queue but does not print. What should I do?",
+          "answer": "Follow the steps below:\nDo one of the following:\nWindows 11\n: Click\n, search for\nSettings\nand select it. Select\nDevices\n>\nPrinters & scanners\n. Select your product name and select\nPrinting preferences\n.\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your printer and select\nManage\n>\nPrinting preferences\n.\nWindows 8\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the\nUtility\ntab, then\nSpeed and Progress\n.\nSelect the\nAlways Spool RAW Datatype\nand\nCoarse Rendering\ncheckboxes, then click\nOK\n.\nNote:\nIf the\nProcessed by Printer\ncheckbox is selected, deselect it.\nTry printing again.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-000098e-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CL83201~faq-000098e-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:21:36.798147"
+        },
+        {
+          "question": "What are the dimensions and weight of the product?",
+          "answer": "The table below shows the size and weight of the printer with the printer stand.\nSpecification\nSureColor P7370\nSureColor P9370\nWidth\n55.16 inches (1401 mm)\n75.16 inches (1909 mm)\nHeight\n47.95 inches (1218 mm)\n47.95 inches (1218 mm)\nDepth\nPaper basket closed: 26.26 inches (667 mm)\nPaper basket opened: 35.55 inches (903 mm)\nPaper basket closed: 35.04 inches (890 mm)\nPaper basket opened: 51.89 inches (1318 mm)\nWeight (without ink cartridges or optional equipment)\nApprox. 262 lbs (119 kg)\nApprox. 333 lbs (151 kg)\nThe table below shows the size and weight of the printer in the carton with the shipping pallet.\nSpecification\nSureColor P7370\nSureColor P9370\nLength\n58.8 inches (1393.52 mm)\n80.8 inches (2052.32 mm)\nWidth\n31.6 inches (802.64 mm)\n33.4 inches (848.36 mm)\nHeight\n46.8 inches (1188.72 mm)\n46.3 inches (1176.02 mm)\nWeight (single carton, including shipping pallet)\n365.5 lbs (165.78 kg)\n473.5 lbs (214.78 kg)",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-0000b97-scp7370_9370?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CL83201~faq-0000b97-scp7370_9370",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:21:38.187629"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Does the product support borderless printing?",
+          "answer": "Yes, the product supports full borderless printing on roll paper. On cut sheet media, you can print without borders on the left and right edges only.\nNote:\nBorderless printing is not supported on poster board.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-0000c11-scp7370_9370?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CL83201~faq-0000c11-scp7370_9370",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:21:39.319038"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "I see the message Communication Error when I use a USB connection. What should I do?",
+          "answer": "Do the following:\nDelete all print jobs in the print queue.\nTurn the printer off.\nNote:\nMake sure the USB cable is connected correctly.\nRestart your computer. When the desktop appears, turn your printer on and follow the on-screen instructions.\nNote:\nIf the problem continues, turn the printer off again and delete the printer in the list of printers. Then disconnect the USB cable from the printer and connect it again.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-00009ea-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CL83201~faq-00009ea-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:21:40.443682"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "Can I use an expired ink cartridge in my printer?",
+          "answer": "Epson does not recommend using expired ink cartridges in the printer. Do not use an unopened ink cartridge if the date on the package has expired. For best results, use ink cartridges before the expiration date printed on the package (and within one year of installation in the printer). Replace expired cartridges with new ones.\nYou may need to replace a cartridge that is more than one year old, if your printouts do not look their best, even after cleaning and aligning the print head. We recommend you store any unused or unopened ink cartridges in a cool, dark place.\nNote:\nFor good print quality, we recommend removing and shaking the ink cartridges once every six months.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-0000b98-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CL83201~faq-0000b98-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:21:41.830756"
+        },
+        {
+          "question": "Which type of ink does the product use?",
+          "answer": "The product uses pigment-based UltraChrome PRO10 ink.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-0000adb-scp7370_9370?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CL83201~faq-0000adb-scp7370_9370",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:21:43.105820"
+        },
+        {
+          "question": "Which ink colors does the product use?",
+          "answer": "The product uses the following ink colors:\nCyan\nGray\nLight Cyan\nLight Gray\nMatte Black\nPhoto Black\nViolet\nVivid Light Magenta\nVivid Magenta\nYellow",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-0000b96-scp7370_9370?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CL83201~faq-0000b96-scp7370_9370",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:21:44.275960"
+        },
+        {
+          "question": "What is the smallest ink drop size my product will produce?",
+          "answer": "The smallest droplet size is 3.5 picoliters.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-0000c08-scp7370_9370?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CL83201~faq-0000c08-scp7370_9370",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:21:45.497690"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "Can the product automatically detect when a nozzle is clogged?",
+          "answer": "Yes. If the Auto Cleaning setting is enabled, the printer will automatically check for clogged nozzles and perform a print head cleaning, if necessary. You can select custom settings to designate how often the product will check for clogged nozzles.\nNote:\nThe Auto Cleaning feature may not detect all clogged nozzles. A small amount of ink is consumed when the printer checks for clogged nozzles. Even when the Auto Cleaning setting is turned off, the printer may periodically perform cleaning automatically to maintain print quality.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-0000c88-scp7370_9370?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C11CL83201~faq-0000c88-scp7370_9370",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:21:46.638357"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "What media thickness does the printer accept?",
+          "answer": "The product supports the following media thickness:\nRoll paper\n: 0.08 to 0.5 mm\nCut sheet\n: 0.08 to 0.5 mm\nPoster board\n: 0.5 to 1.5 mm",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-0000612-scp7370_9370?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CL83201~faq-0000612-scp7370_9370",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:21:47.927295"
+        },
+        {
+          "question": "Which roll paper core sizes can I use with my product?",
+          "answer": "You can use roll paper with a 2-inch (51 mm) or 3-inch (76.2 mm) core.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-0000c02-scp7370_9370?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CL83201~faq-0000c02-scp7370_9370",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:21:49.043319"
+        },
+        {
+          "question": "Does the product support roll and cut sheet media?",
+          "answer": "Yes, the product supports both roll media and cut sheet media.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-0000c05-scp7370_9370?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CL83201~faq-0000c05-scp7370_9370",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:21:50.115224"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-00009e9-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CL83201~faq-00009e9-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:21:51.171860"
+        },
+        {
+          "question": "I see horizontal or vertical lines in my printout. What should I do?",
+          "answer": "Perform a nozzle check from the printer's control panel or Epson printer driver, then do one of the following:\nIf there are gaps in the nozzle check pattern, clean the print head nozzles.\nIf there are no gaps in the nozzle check pattern, try the solutions below:\nHorizontal Banding\nIncrease the print resolution.\nSelect a higher Print Quality setting in the printer driver.\nTurn off the\nHigh Speed\nsetting in the printer driver.\nSelect an alternate paper profile for ink coverage.\nSelect the correct paper type in the printer driver.\nPerform a print quality adjustment using the printer's control panel.\nVertical Banding\nTurn off the\nHigh Speed\nsetting in the printer driver.\nSelect a higher Print Quality setting in the printer driver.\nPerform a print quality adjustment using the printer's control panel.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-0000c77-scp7370_9370?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CL83201~faq-0000c77-scp7370_9370",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:21:52.290073"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "My print job disappears from the Windows print queue but does not print. What should I do?",
+          "answer": "Follow the steps below:\nDo one of the following:\nWindows 11\n: Click\n, search for\nSettings\nand select it. Select\nDevices\n>\nPrinters & scanners\n. Select your product name and select\nPrinting preferences\n.\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your printer and select\nManage\n>\nPrinting preferences\n.\nWindows 8\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the\nUtility\ntab, then\nSpeed and Progress\n.\nSelect the\nAlways Spool RAW Datatype\nand\nCoarse Rendering\ncheckboxes, then click\nOK\n.\nNote:\nIf the\nProcessed by Printer\ncheckbox is selected, deselect it.\nTry printing again.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-000098e-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL83201~faq-000098e-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:21:51.944231"
+        },
+        {
+          "question": "Who do I contact for software support?",
+          "answer": "Click on the\nContact Us\ntab on your product's support page to contact Epson for support. If your product comes with third-party software, contact the software company.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-00004db-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL83201~faq-00004db-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:21:53.143290"
+        },
+        {
+          "question": "How do I save my Epson printer driver presets so I can restore them if I reinstall the Epson printer driver in Windows?",
+          "answer": "Note:\nYou may lose some custom settings when you uninstall the printer driver.\nBefore you reinstall the printer driver, do the following:\nOpen\nFile Explorer\nor\nWindows Explorer\n.\nSelect\nThis PC\nor\nComputer\n>\nC:\ndrive >\nProgram Files\n>\nEpson\n> [your printer name].\nMove the UCI extension files to a different folder on your desktop.\nNote:\nAfter you reinstall the Epson printer driver, move the UCI extension files back to your printer's folder as described in step 2.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-00009e6-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL83201~faq-00009e6-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:21:54.231081"
+        },
+        {
+          "question": "Does my product come with an Epson printer driver?",
+          "answer": "Yes, an Epson printer driver is available. You can download the driver from the Downloads tab on your product's support page.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-0000c00-scp7370_9370?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL83201~faq-0000c00-scp7370_9370",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:21:55.322183"
+        },
+        {
+          "question": "Which connection types does the product support?",
+          "answer": "The product supports the following connection types:\nHi-Speed USB\nEthernet 10BASE-T/100BASE-TX/1000BASE-T/Energy Efficient Ethernet",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-0000c06-scp7370_9370?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL83201~faq-0000c06-scp7370_9370",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:21:56.902540"
+        },
+        {
+          "question": "What is Black Enhance Overcoat?",
+          "answer": "Black Enhance Overcoat is a print mode that can reduce metamerism on photo media. When Black Enhanced Overcoat is enabled, the product prints with darker tones of black by overcoating the black with gray.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-0000c8a-scp7370_9370?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL83201~faq-0000c8a-scp7370_9370",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:21:58.054426"
+        },
+        {
+          "question": "Which software is included with the product?",
+          "answer": "The printer comes with the following:\nEpson Printer Driver\nEpson Edge Dashboard\nEpson Software Updater\nEpsonNet Config SE\nWeb Config\nEpson Print Layout\nEpson Media Installer",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-0000d00-scp7370_9370?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL83201~faq-0000d00-scp7370_9370",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:21:59.297284"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL83201~faq-0000f4b-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:22:00.471885"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL83201~faq-0000f4c-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:22:01.690183"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL83201~faq-0000f4d-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:22:02.749959"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Specifications",
+      "section_id": "8796158830668",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "What is the smallest paper size supported by my product?",
+          "answer": "The smallest paper size supported is 7.2 × 10 inches (182 × 254 mm).",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-0000784-scp7370_9370?faq_cat=faq-8796158830668",
+          "faq_slug": "SPT_C11CL83201~faq-0000784-scp7370_9370",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:22:03.822823"
+        },
+        {
+          "question": "What are the dimensions and weight of the product?",
+          "answer": "The table below shows the size and weight of the printer with the printer stand.\nSpecification\nSureColor P7370\nSureColor P9370\nWidth\n55.16 inches (1401 mm)\n75.16 inches (1909 mm)\nHeight\n47.95 inches (1218 mm)\n47.95 inches (1218 mm)\nDepth\nPaper basket closed: 26.26 inches (667 mm)\nPaper basket opened: 35.55 inches (903 mm)\nPaper basket closed: 35.04 inches (890 mm)\nPaper basket opened: 51.89 inches (1318 mm)\nWeight (without ink cartridges or optional equipment)\nApprox. 262 lbs (119 kg)\nApprox. 333 lbs (151 kg)\nThe table below shows the size and weight of the printer in the carton with the shipping pallet.\nSpecification\nSureColor P7370\nSureColor P9370\nLength\n58.8 inches (1393.52 mm)\n80.8 inches (2052.32 mm)\nWidth\n31.6 inches (802.64 mm)\n33.4 inches (848.36 mm)\nHeight\n46.8 inches (1188.72 mm)\n46.3 inches (1176.02 mm)\nWeight (single carton, including shipping pallet)\n365.5 lbs (165.78 kg)\n473.5 lbs (214.78 kg)",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-0000b97-scp7370_9370?faq_cat=faq-8796158830668",
+          "faq_slug": "SPT_C11CL83201~faq-0000b97-scp7370_9370",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:22:04.871287"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 9,
+      "faqs": [
+        {
+          "question": "How do I register my product?",
+          "answer": "You can register your Epson product on our\nProduct Registration\npage.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-000079f-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CL83201~faq-000079f-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:22:06.133731"
+        },
+        {
+          "question": "What security measures does Epson recommend for its network products?",
+          "answer": "To help deter unauthorized access to your product over a network, you should protect your network environment using appropriate security measures.\nSecurity measures such as these can help deter threats such as loss of user data, use of telephone and fax lines, and other intrusions:\nEnable security on your wireless LAN if your product supports a wireless connection\nEnable the appropriate security on the wireless LAN you plan to use with your product. Network security, such as a network password, can deter interception of traffic over the wireless LAN. Your router may already have a default password enabled by your Internet service provider (ISP). See your ISP and router documentation for instructions on how to change the default password and better secure your network.\nConnect your product only to a network protected by a firewall\nConnecting your product directly to the Internet may leave it vulnerable to security threats. Instead, connect it to a router or other networking device protected by a firewall. Your router may already have a firewall set up by your Internet service provider; check with your ISP for confirmation. For best results, set up and use a private IP address for your network connection.\nChange the default administrator password on your product\nIf your product has an option to set an administrator password, change the default administrator password to deter access by unauthorized users to personal data stored on your product, such as IDs, passwords, and contact lists. See the product's User's Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-0000a05-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CL83201~faq-0000a05-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:22:07.395010"
+        },
+        {
+          "question": "Does the printer have a built-in cutter?",
+          "answer": "Yes. You can use the built-in cutter to automatically cut most roll paper types or you can cut your prints manually. When Auto Cut is enabled, the printer will automatically cut the paper after each page prints, or if the leading edge of the roll paper is not straight.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-0000bff-scp7370_9370?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CL83201~faq-0000bff-scp7370_9370",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:22:08.492562"
+        },
+        {
+          "question": "Does a printer stand come with the product?",
+          "answer": "Yes, a printer stand is included with the product.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-0000d97-scp7370_9370?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CL83201~faq-0000d97-scp7370_9370",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:22:09.578503"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL83201~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CL83201~faq-0000f4a-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P9370/s/SPT_C11CL83201",
+          "fetched_at": "2026-04-02T03:22:10.688524"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

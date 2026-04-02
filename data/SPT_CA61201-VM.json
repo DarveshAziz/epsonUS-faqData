@@ -1,0 +1,1093 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "Epson Stylus Series",
+  "model": {
+    "name": "Epson Stylus Pro 3880",
+    "sku": "SPT_CA61201-VM",
+    "url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_CA61201-VM~faq-00004dc-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:25.519024"
+        },
+        {
+          "question": "Where are the ICC profiles located for my printer on my Mac?",
+          "answer": "Do the following to locate the files:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinter2\n>\nICCProfiles\n.\nPress and hold the\nControl\nkey on your keyboard while you click the profile package in the\nICCProfiles\nfolder. In the pop-up menu that appears, select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-00009ed-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_CA61201-VM~faq-00009ed-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:26.444067"
+        },
+        {
+          "question": "My printouts are dark when I print from Photoshop CS3 or later. What should I do?",
+          "answer": "While we do not assist with color profiling or color correction, you can try the                 following:\nUse latest version of Adobe Photoshop.\nMake sure your print head nozzles are clean and free from clogs.\nMake the following adjustment in Adobe Photoshop:\nSelect\nColor Management\nor\nOutput\n>\nOutput\nfrom Photoshop's print                             screen.\nClick\nTransfer\nand drag the middle of the curve                             to 40.0%.\nClick\nOK\n, then select\nColor                                 Management\n.\nSelect\nLet Photoshop manage color as normal\nand                             the appropriate printer profile.\nPrint your image. Because every photo is different, you may need to                             experiment with the Transfer Curve to find the level that best suits                             your needs.\nNote:\nMaking changes to the Transfer Curve does not alter                                 the original image. This curve affects the Shadows, Midtones, and                                 Highlights as a whole.\nMake the following adjustments in the Windows or Mac driver to lighten the                         image:\nAdjust the Gamma setting to 1.8.\nIncrease the Brightness bar to 5.\nNote:\nIf using a Mac, make sure the                                 Color Mode is EPSON Standard sRGB.\nSee the product's User Guide for more information in these settings.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-000062A-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_CA61201-VM~faq-000062A-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:27.362013"
+        },
+        {
+          "question": "How do I set up color management for my product in Adobe PhotoShop on my Mac?",
+          "answer": "Do the following:\nOpen the\nFile\nmenu in Adobe Photoshop and select\nPrint\n.\nUnder Color Handling, select\nPrinter Manages Colors\n.\nClick\nPrint Settings\n.  A new window appears.\nUnder Orientation, select\nColor Matching\nfrom the pop-up                     menu.\nSelect\nEPSON Color Controls\n.\nMake sure the Color Settings are set to\nEPSON Standard                         (sRGB)\nunder Print Settings.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-0000623-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_CA61201-VM~faq-0000623-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:28.309933"
+        },
+        {
+          "question": "I see horizontal or vertical lines in my printout. What should I do?",
+          "answer": "Perform a nozzle check from the printer's control panel or the Epson printer driver, then do one of the following:\nIf there are gaps in the nozzle check pattern, clean the print head nozzles.\nIf there are no gaps in the nozzle check pattern, try the solutions below.\nHorizontal Banding\nIncrease the print resolution.\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nSelect an alternate paper profile for ink coverage.\nSelect the correct paper type in the printer driver.\nAdjust the paper feed\nVertical Banding\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nAlign the print head.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-00009eb-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_CA61201-VM~faq-00009eb-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:29.209786"
+        },
+        {
+          "question": "My ICC profiles do not appear in Mac OS X 10.1 to 10.6. What should I do?",
+          "answer": "The operating system may prevent the ICC profiles from installing correctly. Do the following             to copy the ICC profiles to the correct location:\nNote:\nClose all image editing software                 before you begin.\nOpen the hard drive and select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinters\n>\nICCProfiles\nfolders.\nHold down the control key on your                     keyboard and then click on the file with the .profiles suffix.\nFrom the new window, select\nShow Package Contents\n.\nNext, select the\nContents\nthen the\nResources\nfolder.\nCopy all ICC profiles in the Resources                     folder.\nOpen the hard drive and select\nLibrary\n>\nColorsync\n>\nProfiles\nfolders and then paste the copied ICC profiles.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-0000621-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_CA61201-VM~faq-0000621-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:30.146061"
+        },
+        {
+          "question": "I see the message Communication Error when I use a USB connection. What should I do?",
+          "answer": "Do the following:\nDelete all print jobs in the print queue.\nTurn the printer off.\nNote:\nMake sure the USB cable is connected correctly.\nRestart your computer. When the desktop appears, turn your printer on and follow the on-screen instructions.\nNote:\nIf the problem continues, turn the printer off again and delete the printer in the list of printers. Then disconnect the USB cable from the printer and connect it again.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-00009ea-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_CA61201-VM~faq-00009ea-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:31.089508"
+        },
+        {
+          "question": "Where can I get the latest version of the Epson Communication Driver for my printer?",
+          "answer": "Download the Communication Driver from the Downloads tab on your product's support page.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-00009fb-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_CA61201-VM~faq-00009fb-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:32.034130"
+        },
+        {
+          "question": "How do I uninstall and reinstall the printer driver in Windows?",
+          "answer": "Do the following:\nTurn off the product.\nDisconnect any interface cables.\nDo one of the following:\nWindows 10\n: Right click\nand select\nControl Panel\n>\nPrograms\n>\nPrograms and                             Features\n.  Select the uninstall option for your Epson                         product, then select\nUninstall/Change\n.\nNote:\nIf you                             see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto                         confirm the uninstallation.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl                             Panel\n>\nPrograms\n>\nPrograms and Features\n.  Select the uninstall                         option for your Epson product, then select\nUninstall/Change\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto                         confirm the uninstallation.\nWindows (other versions)\n: Click\nor\nStart\n, and select\nAll Programs\nor\nPrograms\n.                         Select\nEPSON\n, select your product, then click\nEPSON Printer Software Uninstall\n.\nNote:\nIf you                             see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nIn the next window, select your product and click\nOK\n. Then follow any on-screen instructions.\nRestart your computer, then see the\nStart Here\nsheet or User Guide to                 re-install your software.\nIf these instructions did not solve the problem, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-0000630-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_CA61201-VM~faq-0000630-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:32.984658"
+        },
+        {
+          "question": "There are vertical bands or lines on my printout.  What should I do?",
+          "answer": "Try the following:\nRun three auto print head alignments.\nMake sure High Speed is not selected.\nLower the dpi setting you selected to print.  If you selected 2880 dpi, lower                     the setting to 1440 dpi.\nMake sure the lines are not in the image source.\nMake sure you use the correct profile settings.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-000062B-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_CA61201-VM~faq-000062B-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:33.872312"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "How can I print a Network Status Sheet?",
+          "answer": "Do the following:\nPress the\nMenu\nbutton to enter the printer menu.\nPress\nor\nto highlight\nTEST PRINT\n, then press\n.\nPress\nor\nto highlight\nNETWORK STATUS SHEET\n, then press\n.\nPress\nEnter to start printing a network status sheet.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149333?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_CA61201-VM~faq-149333",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:34.818261"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "When I turn on my product, I see the message 150c on the LCD. What should I do?",
+          "answer": "Do the following:\nTurn off the printer, then turn it back on.\nWhen the print head begins to move, unplug the power cord from the power outlet.\nMove the print head left, then right, then left, stopping on the left side of the printer.\nPlug the printer back into the power outlet.\nTurn the printer on.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-245033?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_CA61201-VM~faq-245033",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:35.956507"
+        },
+        {
+          "question": "I see the message Communication Error when I use a USB connection. What should I do?",
+          "answer": "Do the following:\nDelete all print jobs in the print queue.\nTurn the printer off.\nNote:\nMake sure the USB cable is connected correctly.\nRestart your computer. When the desktop appears, turn your printer on and follow the on-screen instructions.\nNote:\nIf the problem continues, turn the printer off again and delete the printer in the list of printers. Then disconnect the USB cable from the printer and connect it again.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-00009ea-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_CA61201-VM~faq-00009ea-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:37.047696"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "How to...",
+      "section_id": "8796159027276",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "How do I set up color management for my product in Adobe PhotoShop on my Mac?",
+          "answer": "Do the following:\nOpen the\nFile\nmenu in Adobe Photoshop and select\nPrint\n.\nUnder Color Handling, select\nPrinter Manages Colors\n.\nClick\nPrint Settings\n.  A new window appears.\nUnder Orientation, select\nColor Matching\nfrom the pop-up                     menu.\nSelect\nEPSON Color Controls\n.\nMake sure the Color Settings are set to\nEPSON Standard                         (sRGB)\nunder Print Settings.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-0000623-shared?faq_cat=faq-8796159027276",
+          "faq_slug": "SPT_CA61201-VM~faq-0000623-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:38.168590"
+        },
+        {
+          "question": "How do I add a print queue for my printer in OS X 10.1 to 10.6?",
+          "answer": "Do the following:\nTurn on the printer, if necessary.\nSelect\nSystem Preference\nand click\nPrint                     Center\n,\nPrinter Setup Utility\n, or\nPrint & Fax\n.\nClick\nAdd\n, or select\nAdd Printer\nfrom the printer's drop-down menu.\nSelect the appropriate Epson port                 connection (e.g.\nEpson USB\n) and select the product.\nSelect\nAll\nfor the\nPage Setup\n.\nClick\nAdd\n.  All                 print queues should appear in the printer list.\nSelect your product and click\nMake Default\n.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-000062D-shared?faq_cat=faq-8796159027276",
+          "faq_slug": "SPT_CA61201-VM~faq-000062D-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:39.072834"
+        },
+        {
+          "question": "How do I create a custom paper size in Windows?",
+          "answer": "Do the following:\nRight-click your printer icon on the Windows task bar, then select\nPrinter Settings\n.\nIf necessary, select the\nMain\nor\nPaper\ntab.\nSelect your paper\nSource\nin the Paper Settings section.\nClick the\nUser Defined\nbutton or select\nUser                         Defined\nas the Size. A User Defined Paper Size window                     opens.\nEnter a Paper Size Name, then select the Paper Width and Paper Height.\nClick\nSave\n, then\nOK\n.\nClick\nOK\nagain.\nThe new paper size is created, and you can now select the new size from the Size             list.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-0000622-shared?faq_cat=faq-8796159027276",
+          "faq_slug": "SPT_CA61201-VM~faq-0000622-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:39.977103"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "Do I need to drain the ink cartridges before transporting my product?",
+          "answer": "No.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149346?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_CA61201-VM~faq-149346",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:40.930427"
+        },
+        {
+          "question": "How do I open the ink cover?",
+          "answer": "Press the\nink cover open button on the control panel for 3 seconds to unlock the ink cover.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-148275?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_CA61201-VM~faq-148275",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:41.971578"
+        },
+        {
+          "question": "How much ink is used during the ink change operation?",
+          "answer": "The printer uses approximately 1.6 ml when switching to Matte Black and approximately 4.6 ml when switching to Photo Black.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149307?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_CA61201-VM~faq-149307",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:42.896997"
+        },
+        {
+          "question": "How does Epson UltraChrome K3 ink technology reduce gloss differential?",
+          "answer": "Gloss differential is reduced because of the higher-gloss resin encapsulation technology and the three-level black system. UltraChrome K3 ink technology dramatically reduces the effects of gloss differential from both color and black-and-white prints on even the glossiest media, such as Epson Premium Glossy Photo Paper, without a gloss optimizer.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149352?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_CA61201-VM~faq-149352",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:42.147182"
+        },
+        {
+          "question": "Which color ink cartridge goes in which slot?",
+          "answer": "See the table below.\n1\n2\n3\n4\n5\n6\n7\n8\n9\nMatte Black (MK)\nPhoto Black (PK)\nLight Black (LK)\nLight Light Black (LLK)\nCyan (C)\nVivid Magenta (M)\nLight Cyan (LC)\nVivid Light Magenta (LM)\nYellow (Y)",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149326?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_CA61201-VM~faq-149326",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:43.087041"
+        },
+        {
+          "question": "Why is an ink change from Photo Black to Matte Black shorter and why does it use less ink?",
+          "answer": "Because Matte Black ink can easily cover a small amount of Photo Black ink, the printer does not need to spend as much time cleaning the Photo Black ink from the print head as it does when cleaning the Matte Black ink.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149369?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_CA61201-VM~faq-149369",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:44.085285"
+        },
+        {
+          "question": "If my workflow never requires an ink change, will the black ink I don't use dry or clog the ink system?",
+          "answer": "No. The printer monitors ink changes, and if an ink change is not done within 6 months, the printer performs an ink change automatically to keep the ink flowing properly.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149366?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_CA61201-VM~faq-149366",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:44.979684"
+        },
+        {
+          "question": "How does Epson UltraChrome K3 ink technology reduce metamerism?",
+          "answer": "The use of new pigments, resin encapsulation, three levels of black, and a new screening algorithm reduces the effects of metamerism and bronzing from both color and black-and-white prints to a level below what the human eye can detect.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149351?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_CA61201-VM~faq-149351",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:45.991653"
+        },
+        {
+          "question": "How many ink cartridges are installed in my product?",
+          "answer": "The following nine ink cartridges are installed in the printer:\nInk cartridge\nPart number\nMatte Black\nT580800\nPhoto Black\nT580100\nLight Black\nT580700\nLight Light Black\nT580900\nCyan\nT580200\nVivid Magenta\nT580A00\nLight Cyan\nT580500\nVivid Light Magenta\nT580B00\nYellow\nT580400",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-148276?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_CA61201-VM~faq-148276",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:46.934044"
+        },
+        {
+          "question": "Is each ink cartridge designed to fit only in the correct slot for its color?",
+          "answer": "Yes.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149311?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_CA61201-VM~faq-149311",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:47.868560"
+        },
+        {
+          "question": "How do Epson UltraChrome K3 inks achieve such a wide color gamut?",
+          "answer": "The inks have higher-density pigments and new, higher-gloss resin encapsulation.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149356?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_CA61201-VM~faq-149356",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:48.792787"
+        },
+        {
+          "question": "Ink smears on the edge of my media. What should I do?",
+          "answer": "Try the following to adjust the Platen Gap settings:\nMake sure the printer is turned on and the LCD displays\nREADY\n.\nPress\nto enter the printer's menu system.\nPress\nto select\nPrinter Setup\n.\nPress\nto select\nPlaten Gap\n.\nPress\nto select\nPlaten Gap settings\n.\nPress\nto select the desired adjustment.\nPress\nEnter\nto save the setting.\nPress\ntoreturn to theReady screen.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-164065?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_CA61201-VM~faq-164065",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:49.780577"
+        },
+        {
+          "question": "What type of ink does my product use?",
+          "answer": "The printer uses Epson's K3 UltraChrome with Vivid Magenta and Vivid Light Magenta inks.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-148274?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_CA61201-VM~faq-148274",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:50.729926"
+        },
+        {
+          "question": "Does the Matte Black ink cartridge come free inside my product box?",
+          "answer": "Yes. A Matte Black ink cartridge is included with the printer.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149358?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_CA61201-VM~faq-149358",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:51.681875"
+        },
+        {
+          "question": "How long does the ink change operation take?",
+          "answer": "It takes approximately 2½ minutes to switch from Photo Black to Matte Black, and about 3 minutes 30 seconds to switch from Matte Black to Photo Black.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149306?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_CA61201-VM~faq-149306",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:52.650817"
+        },
+        {
+          "question": "What size ink cartridges are included with my product?",
+          "answer": "The printer comes with 80 ml (2.7 oz) cartridges. There are no high capacity ink cartridges available for this printer.\nNote:\nWe recommend that you use genuine Epson ink cartridges. The use of other products may affect your print quality and longevity and could result in printer damage. Yields vary considerably based on images printed, print settings, paper type, frequency of use and temperature. For print quality, a variable amount of ink remains in the cartridge after the “replace cartridge” indicator comes on. The printer ships with full cartridges and part of the ink from the first cartridges is used for priming the printer.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149309?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_CA61201-VM~faq-149309",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:53.749352"
+        },
+        {
+          "question": "Does my product automatically switch between the Matte Black and the Photo Black ink cartridge when I change the media selection in the driver to a matte or photo ink media type?",
+          "answer": "Yes. The printer automatically switches to the correct black ink, according to the media type selected.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149303?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_CA61201-VM~faq-149303",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:54.678343"
+        },
+        {
+          "question": "Which type of ink system does my product use?",
+          "answer": "The printer uses a pressurized ink system. This ensures positive ink flow even when the printer is used at higher elevations or if the floor is not completely level.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149312?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_CA61201-VM~faq-149312",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:55.775017"
+        },
+        {
+          "question": "Do the ink cartridges use a CSIC chip to store ink parameters?",
+          "answer": "Yes. The chip stores all the information about the cartridges.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149310?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_CA61201-VM~faq-149310",
+          "display_order": 20,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:56.706215"
+        },
+        {
+          "question": "Do I need a Black Ink Conversion Kit to change a Photo Black ink cartridge to a Matte Black ink cartridge (or vice versa)?",
+          "answer": "No. The Photo Black ink cartridge and the Matte Black ink cartridge are installed at the same time. The printer automatically switches to the correct type of ink when you change the\nMedia Type\nin the driver.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149363?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_CA61201-VM~faq-149363",
+          "display_order": 21,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:57.627164"
+        },
+        {
+          "question": "Can my product use the Photo Black and Matte Black ink cartridges at the same time?",
+          "answer": "No. When a print job requires the other black ink cartridge, the printer switches automatically. This process takes a few minutes and uses some ink.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-148279?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_CA61201-VM~faq-148279",
+          "display_order": 22,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:58.584494"
+        },
+        {
+          "question": "Can I disable the automatic ink change setting in the driver when I change my media from Photo to Matte or vice versa?",
+          "answer": "No.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149304?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_CA61201-VM~faq-149304",
+          "display_order": 23,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:32:59.611288"
+        },
+        {
+          "question": "What is the minimum ink droplet size?",
+          "answer": "The minimum ink droplet size is 3.5 picoliters.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149314?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_CA61201-VM~faq-149314",
+          "display_order": 24,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:00.543902"
+        },
+        {
+          "question": "How does Epson UltraChrome K3 ink technology achieve such a high black density?",
+          "answer": "Higher-density pigments, along with a new higher-gloss resin, produce a level of black density that approaches most dye-based printers.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149353?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_CA61201-VM~faq-149353",
+          "display_order": 25,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:01.451708"
+        },
+        {
+          "question": "Why does an ink change from Matte Black to Photo Black take more time and use more ink?",
+          "answer": "All Matte Black ink needs to be flushed from the ink damper and print head; otherwise, the black areas on gloss or semi-gloss media will not have a consistent and uniform appearance.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149368?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_CA61201-VM~faq-149368",
+          "display_order": 26,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:02.384178"
+        },
+        {
+          "question": "Does my product use ink from all the cartridges during the black ink change operation?",
+          "answer": "No. The printer's ink valve design enables it to use only black ink during the ink change operation.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149308?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_CA61201-VM~faq-149308",
+          "display_order": 27,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:03.368409"
+        },
+        {
+          "question": "How can I tell which black ink my product is currently using?",
+          "answer": "The ink level gauge on the control panel shows which black ink is selected: Matte Black or Photo Black.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149305?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_CA61201-VM~faq-149305",
+          "display_order": 28,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:04.441945"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "What is the capacity of the maintenance tank?",
+          "answer": "The maintenance tank holds 600ml/20.3 oz. of which 300 ml is usable.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149322?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_CA61201-VM~faq-149322",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:05.369805"
+        },
+        {
+          "question": "If I do a heavy volume of borderless printing, how can the ink build-up be cleaned so it does not leave ink marks on the back and edge of my media?",
+          "answer": "The printer keeps track of borderless printing and location.  When needed, it performs a borderless pad cleaning by firing Light Black and Light Magenta ink through the heavily used borderless pad location to flush away the excess ink build-up.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149367?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_CA61201-VM~faq-149367",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:06.288536"
+        },
+        {
+          "question": "Can I replace the maintenance cartridge?",
+          "answer": "Yes. You can replace the maintenance cartridge (part number T582000). See\nReplacing the Maintenance Cartridge\nfor instructions.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149321?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_CA61201-VM~faq-149321",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:07.219397"
+        },
+        {
+          "question": "How do I run a cleaning cycle from the printer's control panel?",
+          "answer": "Press and hold the printer's\nMenu\nbutton for three seconds, then follow the instructions on the printer's LCD screen.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-298233?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_CA61201-VM~faq-298233",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:08.265047"
+        },
+        {
+          "question": "How do I perform a power cleaning cycle from the printer's control panel?",
+          "answer": "Do the following:\nPrint a nozzle check pattern to make sure the print head needs cleaning.\nMake sure the printer is ready and the red\nink light is not on or flashing.\nPress\nMenu\n.\nPress\nuntil\nMAINTENANCE\nis selected, then press\n.\nPress\nto select\nPOWER CLEANING\n, then press\n.\nPress\nto start the power cleaning cycle.\nWhen cleaning is finished and the\nPower\nlight stops flashing, print nozzle check pattern again to confirm that the head is clean.\nFor effective cleaning, always run a nozzle check between cycles.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-00009da-sp3800_3880?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_CA61201-VM~faq-00009da-sp3800_3880",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:09.327990"
+        },
+        {
+          "question": "How do I align the print head?",
+          "answer": "Do the following:\nMake sure the printer is turned on. Then load one of the following types of paper:\nEpson Premium Glossy Photo Paper\nEpson Premium Photo Paper Glossy\nEpson Premium Luster Photo Paper\nEpson Ultra Premium Photo Paper Luster\nEpson Enhanced Matte Paper\nEpson Ultra Premium Presentation Paper Matte\nEpson Presentation Paper Matte\nPress\nMenu\n.\nPress\nuntil\nHEAD ALIGNMENT\nis selected, then press\n.\nMake sure\nAuto\nis selected, then press\n.\nPress\nor\nto select the type of paper you loaded:\nPREM. GLOSSY/LUSTER\n,\nP Q INK JET PAPER\n(Epson Presentation Paper Matte), or\nENHANCED MATTE PAPER\n(Ultra Premium Presentation Paper Matte). Then press\n.\nPress\nto start printing.\nAfter printing is complete, the printer starts aligning the print head. It takes several minutes to run the head alignment. The printer's white beam sensor reads the alignment pattern and adjusts the printer automatically. Make sure you don't open the top cover or turn off the printer during this process.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-00009d9-sp3800_3880?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_CA61201-VM~faq-00009d9-sp3800_3880",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:10.298769"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "What size borderless prints can I create with my product?",
+          "answer": "You can print borderless photos on the following size papers:\nLetter (8.5 x 11 in.)\nUS B (11 x 17 in.)\nUS C (17 x 22 in.)\nA4 (210 x 297 mm (8.3 x 11.7 in.))\nA3 (297 x 420 mm (11.7 x 16.5 in.))\nSuper A3 (13 x 19 in.)\nA2 (420 x 594 mm (16.5 x 23.4 in.))\n3.5 x 5 in. (89 x 127 mm)\n4 x 6 in. (102 x 152 mm)\n5 x 7 in. (127 x 178 mm)\n16:9 wide size (4 x 7.1 in (102 x 181 mm))\n8 x 10 in. (203 x 254 mm)\n10 x 12 in. (254 x 305 mm)\n11 x 14 in. (279 x 356 mm)\n16 x 20 in. (406 x 508 mm)",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149328?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_CA61201-VM~faq-149328",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:11.221336"
+        },
+        {
+          "question": "What sizes of media can I load in the front manual feed slot?",
+          "answer": "See the table below.\nMinimum\nMaximum\nStandard size\nA4 / Letter\nA2\nWidth\n8.27 in (210 mm)\n16.5 in (420 mm)\nLength\n11 in (279.4 mm)\n23.4 in (594 mm)\nThickness\n1.2 mm\n1.5 mm\nNumber of sheets\n1 sheet\n1 sheet",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-148273?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_CA61201-VM~faq-148273",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:12.279397"
+        },
+        {
+          "question": "Can I print borderless if my paper width (PW) sensor is turned OFF?",
+          "answer": "No, the paper width sensor must be turned ON to print borderless.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149330?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_CA61201-VM~faq-149330",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:13.181733"
+        },
+        {
+          "question": "Can I print borderless photos?",
+          "answer": "Yes. You can print borderless photos on standard, supported paper sizes using the auto sheet feeder.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149320?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_CA61201-VM~faq-149320",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:14.111217"
+        },
+        {
+          "question": "Where can I load paper in my product?",
+          "answer": "The printer provides three paths for loading media:\nAuto sheet feeder (multiple sheets, up to 17' wide)\nRear manual feed slot (one sheet only, up to 17' wide)\nFront manual feed (one sheet only, up to 16” wide)",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-148270?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_CA61201-VM~faq-148270",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:13.162370"
+        },
+        {
+          "question": "What sizes of media can I load in the rear manual feed slot?",
+          "answer": "See the table below.\nMinimum\nMaximum\nStandard size\nA4 / Letter\nA2 / USC\nWidth\n8.27 in (210 mm)\n17 in (431.8 mm)\nLength\n11 in (279.4 mm)\n37.4 in (950 mm)\nThickness\n0.29 mm\n0.5 mm\nNumber of sheets\n1 sheet\n1 sheet",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-148272?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_CA61201-VM~faq-148272",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:14.352132"
+        },
+        {
+          "question": "Why are Epson UltraChrome K3 prints so scratch-resistant? Are fine art papers equally scratch-resistant?",
+          "answer": "Epson UltraChrome K3 ink technology uses a different method for “binding” the particle of pigment and the glossy resin encapsulation. This chemical process, called Crosslinking Chemistry, produces prints that are significantly harder than the previous Epson UltraChrome ink technology, so they are very scratch resistant when printed on normal resin-coated or photographic-grade media types.\nFine art papers also benefit, but pose another problem. Although the ink is harder to scratch off, the surface of the print can get “scuffed” and the print will appear to have a “scratch” (similar to moving your hand across a suede jacket). The ink does not come off, but the print may still be damaged.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149357?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_CA61201-VM~faq-149357",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:15.587317"
+        },
+        {
+          "question": "What sizes of media can I load in the auto sheet feeder?",
+          "answer": "See the table below.\nMinimum\nMaximum\nStandard size\n4 x 6 in\nA2 / USC\nWidth\n3.5 in (89 mm)\n17 in (431.8 mm)\nLength\n5 in (127 mm)\n37.4 in (950 mm)\nThickness\n0.08 mm\n0.27 mm\nNumber of sheets\n1 sheet\n120 sheets",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-148271?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_CA61201-VM~faq-148271",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:16.870671"
+        },
+        {
+          "question": "Can I use roll media with my product?",
+          "answer": "No. You can only use sheet media in standard sizes from 4” x 6” to 17” x 22”.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-148269?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_CA61201-VM~faq-148269",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:17.831463"
+        },
+        {
+          "question": "I am having trouble manually loading media into the rear manual feed slot. What should I do?",
+          "answer": "Do the following:\nMake sure that the product is turned on and READY appears on the LCD.\nAttach the rear sheet guide to the back of the product.\nSlide the left edge guide to the left so it is slightly wider than the width of                     your paper.\nInsert one sheet face up and short edge first into the rear sheet guide against                     the right edge guide.\nSlide the left edge guide against the left edge of the paper.\nGently guide the paper into the slot until it meets resistance.  Maintain a                     constant pressure; after a few seconds you'll feel the product pull the paper                     into printing position.\nUse both hands to pull out and extend the output tray, lifting it slightly as                     you pull. Make sure the arrow marks on the tray and the printer are aligned.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-000062c-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_CA61201-VM~faq-000062c-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:18.773984"
+        },
+        {
+          "question": "Which Epson paper type setting should I select for Legacy paper?",
+          "answer": "See the table below.\nLegacy Paper\nEpson Paper Type Setting\nBaryta\nPremium Luster Photo Paper\nPlatine\nPremium Luster Photo Paper\nFibre\nWatercolor Paper – Radiant White\nEtching\nWatercolor Paper – Radiant White",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-00009EC-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_CA61201-VM~faq-00009EC-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:21.707711"
+        },
+        {
+          "question": "Which Epson Professional papers do not have optical brighteners?",
+          "answer": "Hot Press Natural, Cold Press Natural, and UltraSmooth Fine Art Paper.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-0000b07-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_CA61201-VM~faq-0000b07-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:22.988142"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "There are vertical bands or lines on my printout.  What should I do?",
+          "answer": "Try the following:\nRun three auto print head alignments.\nMake sure High Speed is not selected.\nLower the dpi setting you selected to print.  If you selected 2880 dpi, lower                     the setting to 1440 dpi.\nMake sure the lines are not in the image source.\nMake sure you use the correct profile settings.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-000062B-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_CA61201-VM~faq-000062B-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:24.035871"
+        },
+        {
+          "question": "My printouts are dark when I print from Photoshop CS3 or later. What should I do?",
+          "answer": "While we do not assist with color profiling or color correction, you can try the                 following:\nUse latest version of Adobe Photoshop.\nMake sure your print head nozzles are clean and free from clogs.\nMake the following adjustment in Adobe Photoshop:\nSelect\nColor Management\nor\nOutput\n>\nOutput\nfrom Photoshop's print                             screen.\nClick\nTransfer\nand drag the middle of the curve                             to 40.0%.\nClick\nOK\n, then select\nColor                                 Management\n.\nSelect\nLet Photoshop manage color as normal\nand                             the appropriate printer profile.\nPrint your image. Because every photo is different, you may need to                             experiment with the Transfer Curve to find the level that best suits                             your needs.\nNote:\nMaking changes to the Transfer Curve does not alter                                 the original image. This curve affects the Shadows, Midtones, and                                 Highlights as a whole.\nMake the following adjustments in the Windows or Mac driver to lighten the                         image:\nAdjust the Gamma setting to 1.8.\nIncrease the Brightness bar to 5.\nNote:\nIf using a Mac, make sure the                                 Color Mode is EPSON Standard sRGB.\nSee the product's User Guide for more information in these settings.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-000062A-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_CA61201-VM~faq-000062A-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:25.303465"
+        },
+        {
+          "question": "My printout has horizontal lines running through it. What should I do?",
+          "answer": "Print a nozzle check pattern. If you see gaps in the nozzle check pattern, run three cleaning cycles, then print another nozzle check pattern to see if all nozzles print now. If you still see gaps, run a power cleaning cycle.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-00009FA-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_CA61201-VM~faq-00009FA-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:26.475610"
+        },
+        {
+          "question": "I see horizontal or vertical lines in my printout. What should I do?",
+          "answer": "Perform a nozzle check from the printer's control panel or the Epson printer driver, then do one of the following:\nIf there are gaps in the nozzle check pattern, clean the print head nozzles.\nIf there are no gaps in the nozzle check pattern, try the solutions below.\nHorizontal Banding\nIncrease the print resolution.\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nSelect an alternate paper profile for ink coverage.\nSelect the correct paper type in the printer driver.\nAdjust the paper feed\nVertical Banding\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nAlign the print head.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-00009eb-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_CA61201-VM~faq-00009eb-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:27.500742"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "The Advanced B/W setting is grayed out in my product software. What should I do?",
+          "answer": "Make sure you install the correct black ink cartridge for the media type selected. When the photo black cartridge is installed, the\nAdvanced B/W\nsetting is available only for glossy media types. It is not available for any of the matte media types. When the matte black cartridge is installed, the\nAdvanced B/W\nsetting is available only for matte media types.\nIf you're using the correct black ink cartridge for your media type but the\nAdvanced B/W\nsetting is still grayed out, then Do the following:\nOpen the Hard Drive.\nSelect >\nApplications\n>\nUtilities\n>\nPrinter Setup Utility\n.\nSelect your printer and click\nUtility\n.\nMake sure you see the ink levels in the\nStatus Monitor\nwindow, then click\nUpdate\n.\nRestart the computer.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149341?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-VM~faq-149341",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:28.562215"
+        },
+        {
+          "question": "How do I set up a Mac client computer for printing with the EFI eXpress RIP?",
+          "answer": "Install the PPD (Postscript Printer Description) on the Mac OS X client:\nInsert the EFI eXpress RIP software disc in the Mac.\nClick\nTools & Other\n, then select\nPPD Mac OS X\n.\nCopy the\nEFI_eXpress.PPD\nfile.\nOpen the\nHard Drive\n>\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nfolder.\nPaste the\nEFI_eXpress.PPD\nfile in the\nResources\nfolder.\nConfigure the Windows server:\nOpen the EFI eXpress RIP.\nClick\nActions\n>\nPreferences\n>\nGeneral\n>\nJob Detection\n.\nUnder\nJob Detection\nselect the\nActivate Hot folder\ncheckbox.\nUnder\nSpooler\n, select the\nActivate Virtual Printer\ncheckbox.\nEnable printer sharing, follow these steps:\nWindows 7\n: Click\nand select\nDevices and Printers\n.  Right-click your product name, select\nPrinter Properties\n>\nSharing\n, select the\nShare this Printer\ncheckbox, and click\nOK\n.\nWindows Vista\n: Click\nand select\nControl Panel\n.  Click\nPrinter\nunder\nHardware and Sound\n, right-click your product name, select\nSharing\n, select the\nShare this Printer\nradio button, and click\nOK\n.\nWindows XP\n: Click\nStart\nand select\nPrinters and Faxes\n.  (Or open the\nControl Panel\n, select\nPrinters and Other Hardware\nif necessary, and select\nPrinters and Faxes\n.)  Right-click your product name, select\nSharing\n, select the\nShare this Printer\nradio button, and click\nOK\n.\nAdd EFI eXpress to the Mac OS X printer list:\nSelect\nSystem Preferences\nfrom the Apple menu, then select\nPrint & Fax\nor\nPrint & Scan\n.\nClick the\nbutton, then click the\nWindows\nicon.\nSelect the print server from the list of computers.\nWhen prompted, enter the print server's (computer) password and click the\nConnect\nbutton.\nSelect\nEFI_eXpress\n.\nFor\nPrint Using\nselect\nOther\n.\nNavigate to the Mac OS X\nHard Drive\n>\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nfolder, then select\nEFI_eXpress.PPD\nand click\nOpen\n.\nClick\nAdd\nto complete the setup.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-193400?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-VM~faq-193400",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:29.701213"
+        },
+        {
+          "question": "How can I configure the built in network adapter?",
+          "answer": "Do the following:\nPress the\nMenu\nbutton to enter the printer menu.\nPress\nor\nto highlight\nNETWORK SETUP\n, then press\ntwice.\nPress\nor\nto highlight\nENABLE\n, then press\nEnter.\nPress\nto configure your network adapter. See the table below. (Default settings appear in bold.)\nSetting\nOptions\nNetwork Setup\nDISABLE\n, ENABLE\nIP Address Setting\nAUTO\n, PANEL, PING\nIP\n192.168.192.168\nSM (Sub Net Mask)\n255.255.255.000\nGW (Gate Way)\n255.255.255.255\nApple Talk\nON\n, OFF\nMS Network\nON\n, OFF\nBonjour\nON,\nOFF\nInit Network Settings\nEXECUTE",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149334?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-VM~faq-149334",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:30.799068"
+        },
+        {
+          "question": "How do I know which Platen Gap setting is selected on my product?",
+          "answer": "If a non-standard (Widest, Wider, Wide, or Narrow) setting is selected, an indicator will appear on the printer's control panel. If you don't see an indicator, the setting is set to\nSTANDARD\n(1.2 mm).",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149336?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-VM~faq-149336",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:31.936741"
+        },
+        {
+          "question": "How do I attach the rear sheet guide that came with my product?",
+          "answer": "Attach the rear sheet guide by inserting the tabs as shown.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149324?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-VM~faq-149324",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:33.086881"
+        },
+        {
+          "question": "How can I set the date and time on my product?",
+          "answer": "Do the following:\nPress the\nMenu\nbutton.\nPress\nuntil\nMAINTENANCE\nis displayed. Then press\n.\nPress\nuntil\nCLOCK SETTINGS\nis displayed, then press\nMenu\n.\nPress\nor\nto set the date and time: MM/DD/YY HH:MM.\nPress\nEnter to save the setting.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149347?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-VM~faq-149347",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:34.175602"
+        },
+        {
+          "question": "What is the Epson Advanced Black & White Printing Mode?",
+          "answer": "This is a proprietary Epson screening and color management technology designed specifically to produce professional-level black and white prints. This unique screen technology takes advantage of our three-level black technology—along with Yellow, Light Cyan, and Light Magenta—to produce professional black and white prints from either color or grayscale files.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149360?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-VM~faq-149360",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:35.322383"
+        },
+        {
+          "question": "What does the Remote Panel utility do?",
+          "answer": "The Remote Panel utility lets you:\nUpdate firmware\nPerform nozzle checks\nRun the bi-d and uni-d alignments/auto alignments\nPrint status sheets\nMake custom paper settings\nSet the printer clock\nSet media counter settings",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149337?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-VM~faq-149337",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:36.438258"
+        },
+        {
+          "question": "Why are only matte media types displayed in the driver's media list?",
+          "answer": "When the printer is using the Matte Black ink, only matte media types are displayed in the driver list. The complete media list appears only when the printer uses the Photo Black ink cartridge.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149342?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-VM~faq-149342",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:38.052842"
+        },
+        {
+          "question": "What are the minimum and maximum User-Defined paper sizes I can select?",
+          "answer": "The minimum is 3.5 x 5 in (89 x 127 mm) and the maximum is 17 x 37.4 in (432 x 950 mm).",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149327?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-VM~faq-149327",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:39.314940"
+        },
+        {
+          "question": "How do I update the firmware on my product's main board and the built-in network port?",
+          "answer": "Use the Epson LFP Remote Panel Utility to do the update. You can also use the\nEpsonNet Config Utility\nto update the network port firmware, but the network port must be connected to the printer through an ethernet connection (a USB connection will not work). To download the utilities, see the Download tab for the Stylus Pro 3800.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149365?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-VM~faq-149365",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:40.382831"
+        },
+        {
+          "question": "Why should I use the Matte Black mode?",
+          "answer": "The standard Photo Black ink has been optimized for resin-coated and photographic-grade media types. If you're printing on matte-type papers such as Epson Velvet Fine Art, Enhanced Matte, or UltraSmooth Fine Art, the black density is significantly better with the Matte Black ink.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149359?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-VM~faq-149359",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:41.437349"
+        },
+        {
+          "question": "Does the included EFI RIP software support OS X 10.7?",
+          "answer": "No. The included EFI RIP software provided with the printer does not support Mac OS X 10.7.x.\nNote\n: The included EFI RIP software supports up to Mac OS X 10.6.x.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-212701?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-VM~faq-212701",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:42.645465"
+        },
+        {
+          "question": "What does the Common Updater 7.0 file do?",
+          "answer": "The Common Updater 7.0 file provides the latest Mac OS X 10.6 support for your printer driver. Before installing the updater, make sure the most current version of the Mac OS X 10.5 or 10.6 printer driver is installed on your computer. Restart your computer after installing the updater.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-162948?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-VM~faq-162948",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:43.781546"
+        },
+        {
+          "question": "How do I uninstall and reinstall my printer driver in OS X 10.8?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\n, then\nPrint & Scan\n.\nSelect your printer in the list, then click\n. Press and hold the\ncontrol\nkey on your keyboard and click anywhere on the printer list. Click\nReset Printing Systems\n. Close the open windows.\nOpen your hard drive and do the following:\nSelect\nLibrary\n>\nPrinters\n>\nInstalledPrinters.plist\n. Drag the InstalledPrinters.plist file to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nEpson\n. Drag the\nEpson\nfolder to the trash.\nSelect\nApplications\n>\nUtility\n>\nDisk Utility\n> your hard drive, then select\nRepair Disk Permissions\n. Close the open windows.\nReinstall the driver for your product.\nOpen the\nmenu, select\nSystem Preferences\n, then\nPrint & Scan\n.\nClick\n, then select your printer.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-00009dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-VM~faq-00009dc-shared",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:43.273740"
+        },
+        {
+          "question": "How do I uninstall and reinstall my printer driver in OS X 10.6?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\n>\nPrint & Fax\n.\nSelect your printer in the list, click\n, then close the open windows.\nOpen your hard drive.\nSelect\nLibrary\n>\nPrinters\n>\nEpson\n>\ninkjet printers\n, then drag the plugin for your product to the trash. If there is no plugin for your product, drag the\nEpson\nfolder to the trash. Close the open windows.\nReinstall the driver for your product.\nOpen the\nmenu, select\nSystem Preferences\n>\nPrint & Fax\n.\nClick\n, then select your printer.\nClose the open windows.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-00009ff-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-VM~faq-00009ff-shared",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:44.359848"
+        },
+        {
+          "question": "Where can I get the latest version of the Epson Communication Driver for my printer?",
+          "answer": "Download the Communication Driver from the Downloads tab on your product's support page.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-00009fb-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-VM~faq-00009fb-shared",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:45.433804"
+        },
+        {
+          "question": "I can't find the Fine Art paper option in Windows. What should I do?",
+          "answer": "Load the media in the printer, then select the paper path (\nManual - Rear\nor\nManual - Front\n) as your paper source in the printer driver. You see the Fine Art media choices. See your product's User's Guide to determine which black ink to use for your media type.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-00009d8-sp3800_3880?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-VM~faq-00009d8-sp3800_3880",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:46.558083"
+        },
+        {
+          "question": "How do I uninstall and reinstall my printer driver in OS X 10.1, 10.2, or 10.3?",
+          "answer": "Open your hard drive, then do the following:\nSelect\nApplications\n>\nUtilities\n, then double-click\nPrinter Service Utility\n. Remove all Epson Stylus Pro paper queues from the Printers List, then close the open windows.\nSelect\nLibrary\n>\nReceipts\n, then drag the\nSProXX00.xx.pkg\nfile to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nEpson\n, then drag the plugin for your product to the trash.\nSelect\nPreferences\n>\nEpson\n, then drag files related to your product to the trash.\nClose the open windows.\nReinstall the driver for your product.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-00009fe-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-VM~faq-00009fe-shared",
+          "display_order": 20,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:47.807406"
+        },
+        {
+          "question": "How do I print a nozzle check pattern from the printer's control panel?",
+          "answer": "Do the following:\nPress\nMenu\n.\nPress\nto select\nTEST PRINT\n, and then press\n.\nPress\nto select\nNOZZLE CHECK\n, press\nto select\nMANUAL\n, and then press select\nto select\nPRINT\n.\nPress\n. A nozzle check pattern prints.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-00009d7-sp3800_3880?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-VM~faq-00009d7-sp3800_3880",
+          "display_order": 21,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:48.890095"
+        },
+        {
+          "question": "My ICC profiles do not appear in Mac OS X 10.1 to 10.6. What should I do?",
+          "answer": "The operating system may prevent the ICC profiles from installing correctly. Do the following             to copy the ICC profiles to the correct location:\nNote:\nClose all image editing software                 before you begin.\nOpen the hard drive and select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinters\n>\nICCProfiles\nfolders.\nHold down the control key on your                     keyboard and then click on the file with the .profiles suffix.\nFrom the new window, select\nShow Package Contents\n.\nNext, select the\nContents\nthen the\nResources\nfolder.\nCopy all ICC profiles in the Resources                     folder.\nOpen the hard drive and select\nLibrary\n>\nColorsync\n>\nProfiles\nfolders and then paste the copied ICC profiles.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-0000621-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-VM~faq-0000621-shared",
+          "display_order": 22,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:49.968842"
+        },
+        {
+          "question": "How do I uninstall and reinstall the printer driver in Windows?",
+          "answer": "Do the following:\nTurn off the product.\nDisconnect any interface cables.\nDo one of the following:\nWindows 10\n: Right click\nand select\nControl Panel\n>\nPrograms\n>\nPrograms and                             Features\n.  Select the uninstall option for your Epson                         product, then select\nUninstall/Change\n.\nNote:\nIf you                             see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto                         confirm the uninstallation.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl                             Panel\n>\nPrograms\n>\nPrograms and Features\n.  Select the uninstall                         option for your Epson product, then select\nUninstall/Change\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto                         confirm the uninstallation.\nWindows (other versions)\n: Click\nor\nStart\n, and select\nAll Programs\nor\nPrograms\n.                         Select\nEPSON\n, select your product, then click\nEPSON Printer Software Uninstall\n.\nNote:\nIf you                             see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nIn the next window, select your product and click\nOK\n. Then follow any on-screen instructions.\nRestart your computer, then see the\nStart Here\nsheet or User Guide to                 re-install your software.\nIf these instructions did not solve the problem, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-0000630-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-VM~faq-0000630-shared",
+          "display_order": 23,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:51.193366"
+        },
+        {
+          "question": "How do I save my Epson printer driver presets so I can restore them if I reinstall the Epson printer driver in Windows?",
+          "answer": "Note:\nYou may lose some custom settings when you uninstall the printer driver.\nBefore you reinstall the printer driver, do the following:\nOpen\nFile Explorer\nor\nWindows Explorer\n.\nSelect\nThis PC\nor\nComputer\n>\nC:\ndrive >\nProgram Files\n>\nEpson\n> [your printer name].\nMove the UCI extension files to a different folder on your desktop.\nNote:\nAfter you reinstall the Epson printer driver, move the UCI extension files back to your printer's folder as described in step 2.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-00009e6-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-VM~faq-00009e6-shared",
+          "display_order": 24,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:52.440163"
+        },
+        {
+          "question": "How do I install the ICC profiles in Windows XP or Windows 7?",
+          "answer": "Do the following:\nDownload the ICC profiles for your printer and save them in a folder you can easily find.\nClose all open software.\nOpen\nWindows Explorer\n, then select\nComputer\n>\nC:\ndrive >\nWindows\n>\nSystem32\n>\nspool\n>\ndrivers\n>\ncolor\n.\nMove the ICC profiles into the\ncolor\nfolder, then close all open windows.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-00009E5-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-VM~faq-00009E5-shared",
+          "display_order": 25,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:53.595618"
+        },
+        {
+          "question": "How do I manually install the Epson ICC profiles on my Mac?",
+          "answer": "Do the following:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinters2\n>\nICCProfiles\n.\nPress and hold the\ncontrol\nkey on your keyboard while you select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n, select and copy all files, then close all open windows.\nOpen your hard drive, select\nLibrary\n>\nColorSync\n>\nProfiles\n, then paste the files into this folder.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-0000b03-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-VM~faq-0000b03-shared",
+          "display_order": 26,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:54.777169"
+        },
+        {
+          "question": "Where are the ICC profiles located for my printer on my Mac?",
+          "answer": "Do the following to locate the files:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinter2\n>\nICCProfiles\n.\nPress and hold the\nControl\nkey on your keyboard while you click the profile package in the\nICCProfiles\nfolder. In the pop-up menu that appears, select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-00009ed-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-VM~faq-00009ed-shared",
+          "display_order": 27,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:55.841114"
+        },
+        {
+          "question": "My print job disappears from the Windows print queue but does not print. What should I do?",
+          "answer": "Follow the steps below:\nDo one of the following:\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your printer and select\nManage\n>\nPrinting preferences\n.\nWindows 8\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the\nUtility\ntab, then\nSpeed and Progress\n.\nSelect the\nAlways Spool RAW Datatype\nand\nCoarse Rendering\ncheckboxes, then click\nOK\n.\nNote:\nIf the\nProcessed by Printer\ncheckbox is selected, deselect it.\nTry printing again.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-00009e8-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-VM~faq-00009e8-shared",
+          "display_order": 28,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:57.073188"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-VM~faq-00004dc-shared",
+          "display_order": 29,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:58.270799"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-VM~faq-0000f4b-shared",
+          "display_order": 30,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:33:59.408212"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-VM~faq-0000f4c-shared",
+          "display_order": 31,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:34:00.483681"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 9,
+      "faqs": [
+        {
+          "question": "Is an extended warranty available for my product?",
+          "answer": "Yes, there are two plans available. A One-Year extended warranty (part# EPP38B1, MSRP $179.00) and a Two-Year extended warranty (part# EPP38B2, MSRP $319.00).",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149362?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_CA61201-VM~faq-149362",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:34:01.528986"
+        },
+        {
+          "question": "What is the size of my product with all the covers closed?",
+          "answer": "684 mm x 257 mm x 376 mm (26.93 in x 10.12 in x 14.8 in)",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149331?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_CA61201-VM~faq-149331",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:34:02.642242"
+        },
+        {
+          "question": "How many nozzles does the print head have?",
+          "answer": "The print head consists of 8 nozzle columns (one for each color) and each column has 180 nozzles.  Matte Black and Photo Black share a nozzle column.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149315?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_CA61201-VM~faq-149315",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:34:03.731515"
+        },
+        {
+          "question": "What are the Auto Expand values for borderless printing?",
+          "answer": "See the table below.\nMin\nMid\nMax\n1/4 in\n1/2 in\n1 in (default)\n1.25 mm\n2.5 mm\n5 mm",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149329?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_CA61201-VM~faq-149329",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:34:04.941264"
+        },
+        {
+          "question": "Why do Epson UltraChrome K3 prints last so long, even on non-Epson media?",
+          "answer": "Epson uses 100% pigment-based ink technology, which lasts longer than dye.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149355?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_CA61201-VM~faq-149355",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:34:06.191095"
+        },
+        {
+          "question": "Which interfaces does my product support?",
+          "answer": "It includes one Hi Speed USB 2.0 (1.1 compatible) port and one 10/100Base-T Ethernet port.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149316?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_CA61201-VM~faq-149316",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:34:07.414293"
+        },
+        {
+          "question": "How do I get service for my product I purchased in another country?",
+          "answer": "Please visit the appropriate Epson website by selecting the region where the printer was purchased from the\nEpson Global website\n. Due to differences in products sold in other countries, printers need to be serviced in the country of origin.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149348?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_CA61201-VM~faq-149348",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:34:08.580033"
+        },
+        {
+          "question": "Is there my product cover available for my product?",
+          "answer": "Yes, there is an optional printer cover (C3800TUMI) available.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149364?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_CA61201-VM~faq-149364",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:34:09.718564"
+        },
+        {
+          "question": "What is the maximum USB cable length I can use to connect my product?",
+          "answer": "The maximum cable length supported is 10 feet (3 meters).",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149317?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_CA61201-VM~faq-149317",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:34:10.840427"
+        },
+        {
+          "question": "What are the dimensions and weight of my product?",
+          "answer": "See the table below.\nSpecification\nCovers closed\nCovers open\nHeight\n10.28 in (257 mm)\n22.8 in (579 mm)\nWidth\n27.36 in (684 mm)\n27.36 in (684 mm)\nDepth\n14.88 in (376 mm)\n37.87 in (962 mm)\nWeight\n39.7 lb (18 kg) with cartridges installed",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149323?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_CA61201-VM~faq-149323",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:34:12.271550"
+        },
+        {
+          "question": "What is my product's maximum print resolution?",
+          "answer": "2880 x 1440 dpi.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149318?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_CA61201-VM~faq-149318",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:34:13.549434"
+        },
+        {
+          "question": "How does the High Speed setting in my product driver work?",
+          "answer": "When High Speed is selected, the print head prints in both directions to speed up printing. When High Speed is turned off, the printer prints in one direction only, which produces the highest quality images.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149350?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_CA61201-VM~faq-149350",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:34:15.250183"
+        },
+        {
+          "question": "Which covers must be open during printing?",
+          "answer": "The front cover must be open when the printer is feeding paper from any of the three paper paths. If you're using the auto sheet feeder, it must also be open.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149325?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_CA61201-VM~faq-149325",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:34:14.481711"
+        },
+        {
+          "question": "What is the size of my product with all the covers and paper trays extended?",
+          "answer": "684 mm x 579 mm x 962 mm (26.93 in x 22.8 in x 37.9 in)",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-149332?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_CA61201-VM~faq-149332",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:34:15.669536"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_CA61201-VM~faq-00004b0-shared",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:34:16.796870"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-VM~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_CA61201-VM~faq-0000f4a-shared",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880/s/SPT_CA61201-VM",
+          "fetched_at": "2026-04-02T01:34:17.962876"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

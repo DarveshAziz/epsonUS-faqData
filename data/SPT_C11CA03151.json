@@ -1,0 +1,662 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "B Series",
+  "model": {
+    "name": "Epson B-300",
+    "sku": "SPT_C11CA03151",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "Can the Epson ink cartridges be refilled or can I use third-party ink cartridges without voiding the warranty?",
+          "answer": "Epson does not recommend refilling or using other brands of ink cartridges.  Epson uses a permanent Micro Piezo print head that has allowed Epson to lead the industry in delivering consistent photo image quality by using variable-sized droplets.  Micro Piezo print head can also use a wider variety of inks, which has allowed Epson to introduce such ink breakthroughs as DURABrite® and Epson UltraChrome® inks that offer greatly improved humidity resistance, smudge resistance, and fade resistance.\nUsing refilled ink cartridges will not void the product's original warranty; however, if these products cause a failure, the repair of that failure will not be covered under warranty.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-0000bf9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA03151~faq-0000bf9-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:15:45.708392"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-00004c5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA03151~faq-00004c5-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:15:46.893971"
+        },
+        {
+          "question": "Can the printer still print if an ink cartridge is expended or not installed?",
+          "answer": "No. The printer will not operate if any cartridge is expended or removed. It's best to always have extra cartridges on hand.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-000051b-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA03151~faq-000051b-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:15:48.046090"
+        },
+        {
+          "question": "Can I use hole-punched paper with my product?",
+          "answer": "No. The product does not support this paper type.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-0000ab4-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA03151~faq-0000ab4-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:15:49.169092"
+        },
+        {
+          "question": "When I try to print to my product in Windows 7, printing is slow or my product stops printing. What should I do?",
+          "answer": "Try the following:\nSelect a lower quality setting in the printer software.\nMake sure your system meets the minimum system requirements for your printer.\nClose the\nDevices and Printers\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-0000bf3-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA03151~faq-0000bf3-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:15:50.349750"
+        },
+        {
+          "question": "Who do I contact for support on the software that came with my product?",
+          "answer": "Contact Epson for support on Epson software. For questions about any other software that came with your printer, contact the manufacturer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-110871-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA03151~faq-110871-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:15:51.590448"
+        },
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-0000ad0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA03151~faq-0000ad0-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:15:52.777848"
+        },
+        {
+          "question": "Does my product support Epson Connect?",
+          "answer": "No, your product is not compatible.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-0000af9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA03151~faq-0000af9-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:15:52.128410"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "You can download the latest product driver from the Downloads section of this website.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-0000afb-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA03151~faq-0000afb-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:15:53.469461"
+        },
+        {
+          "question": "How do I change the font size of text when I print from software in Windows?",
+          "answer": "You need to select the text or font size in the software you are printing from, not the printer driver. For detailed instructions, contact the company for the application you are printing from.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-00004b7-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA03151~faq-00004b7-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:15:54.891950"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "How do I set up my product for the fastest printing?",
+          "answer": "If you're printing from your computer, make sure your system meets the\nrequirements\n. If you're printing a high-resolution image, you need more than the minimum requirements listed. You may also need to:\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.\nFor the fastest printing, try these tips:\nChoose\nGrayscale\nin your printer settings if your document doesn't include color.\nFor Windows, choose\nDraft\nfor the Quality Option.\nFor Macintosh, set the Quality/Speed slider to\nSpeed\n.\nIf the printer is connected to a USB hub, disconnect unused USB devices.\nFor Windows, try adjusting the settings in the Speed & Progress window.\nRight-click the\nprinter icon in the lower right corner of your screen (taskbar) and select\nPrinter Settings\n. If you don't see the icon, click\nhere\nfor instructions on making it appear.\nClick the\nMaintenance\ntab.\nClick the\nSpeed & Progress\nbutton.\nSelecting one or more of the following settings will increase print speed:\nHigh Speed Copies\nAlways spool RAW datatype\nPage Rendering Mode\nPrint as Bitmap",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-113547?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA03151~faq-113547",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:15:56.203705"
+        },
+        {
+          "question": "Can I print on transparencies?",
+          "answer": "No.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-113555?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA03151~faq-113555",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:15:57.590902"
+        },
+        {
+          "question": "How do I print a multi-page document from Windows or my Mac so it stacks in the correct page order?",
+          "answer": "Follow the steps below for your operating system to print a multi-page document in reverse order.\nWindows 2000, XP, Vista\nOpen the File menu and select\nPrint\n.\nClick\nProperties\nor\nPreferences\n.\nClick the Main tab.\nSelect\nReverse Order\n.\nClick\nOK\n.\nMacintosh 10.3.x, 10.4.x, 10.5.x\nOpen the File menu and select\nPrint\n.\nWith Macintosh OS X 10.5.x, click the\nbutton to expand the Print window, if necessary.\nSelect\nPaper Handling\nfrom the printer options pop-up menu.\nSelect\nReverse\nfor the Page Order setting.\nClick\nPrint\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-133368?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA03151~faq-133368",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:15:58.733992"
+        },
+        {
+          "question": "When I try to print to my product in Windows 7, printing is slow or my product stops printing. What should I do?",
+          "answer": "Try the following:\nSelect a lower quality setting in the printer software.\nMake sure your system meets the minimum system requirements for your printer.\nClose the\nDevices and Printers\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-0000bf3-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA03151~faq-0000bf3-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:15:59.865849"
+        },
+        {
+          "question": "Does OS X support manual duplex printing with my product?",
+          "answer": "This feature is not supported in Mac OS X. However, if your printer has a built-in automatic duplexer, auto-duplexing is supported in Mac OS X 10.6 (Snow Leopard).",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-0000c1d-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA03151~faq-0000c1d-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:00.955562"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "I see the message Cannot connect to Internet in Windows 8.1 after I select Driver Update in my product software. What should I do?",
+          "answer": "The\nDriver Update\noption does not work in Windows 8.1. All other driver options will work correctly.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-0000958-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA03151~faq-0000958-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:02.088153"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA03151~faq-00004c5-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:03.182589"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "How do I change the ink cartridges?",
+          "answer": "See\nReplacing an Ink Cartridge\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-113502?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA03151~faq-113502",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:04.583634"
+        },
+        {
+          "question": "How do I know when an ink cartridge needs to be replaced?",
+          "answer": "When the ink replace light is on, the printer will require you to change the cartridge. You need to replace a cartridge when it's expended or it gets too old. See\nReplacing an Ink Cartridge\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-113543?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA03151~faq-113543",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:05.726686"
+        },
+        {
+          "question": "Which ink cartridges should I use with my product?",
+          "answer": "Use the following cartridges:\nInk color\nPart number\nBlack\nT6161\nCyan\nT6162\nMagenta\nT6163\nYellow\nT6164\nWe recommend that you use genuine Epson cartridges and do not refill them. The use of other products may affect your print quality and could result in printer damage.\nCaution:\nLeave your old cartridges in the printer until you are ready to replace them to prevent the print head nozzles from drying out.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-113552?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA03151~faq-113552",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:06.821646"
+        },
+        {
+          "question": "How long should an ink cartridge remain in my product if it's not used often?",
+          "answer": "When an installed ink cartridge is more than six months old, you may need to replace it if you notice that your printouts don't look as good as they used to and quality doesn't improve after cleaning and aligning the print head.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-113554?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA03151~faq-113554",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:07.911023"
+        },
+        {
+          "question": "I installed new ink cartridges and my product seems to be doing a long cleaning cycle. Is this normal?",
+          "answer": "Yes. The first time you install ink cartridges, the printer must charge its print head for about 3 minutes. Wait until charging finishes (the\nPower\nlight stops flashing) before you turn off the printer, or it may charge improperly and use excess ink the next time you turn it on.\nIf the printer stops moving or making noise, but the\nPower\nlight is still flashing after 5 minutes, turn off the printer. If the light is still flashing when you turn it back on, contact Epson technical support for assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-113585?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA03151~faq-113585",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:09.018542"
+        },
+        {
+          "question": "A color ink cartridge is expended even though I print in black only. Why does this happen?",
+          "answer": "To keep the print head clear and ready to print, the printer uses a small amount of ink from all the cartridges whenever it prints. Even if you select\nGrayscale\n, some color ink is still being used.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-113588?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA03151~faq-113588",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:10.129954"
+        },
+        {
+          "question": "Can the Epson ink cartridges be refilled or can I use third-party ink cartridges without voiding the warranty?",
+          "answer": "Epson does not recommend refilling or using other brands of ink cartridges.  Epson uses a permanent Micro Piezo print head that has allowed Epson to lead the industry in delivering consistent photo image quality by using variable-sized droplets.  Micro Piezo print head can also use a wider variety of inks, which has allowed Epson to introduce such ink breakthroughs as DURABrite® and Epson UltraChrome® inks that offer greatly improved humidity resistance, smudge resistance, and fade resistance.\nUsing refilled ink cartridges will not void the product's original warranty; however, if these products cause a failure, the repair of that failure will not be covered under warranty.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-0000bf9-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA03151~faq-0000bf9-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:11.451656"
+        },
+        {
+          "question": "Can the printer still print if an ink cartridge is expended or not installed?",
+          "answer": "No. The printer will not operate if any cartridge is expended or removed. It's best to always have extra cartridges on hand.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-000051b-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA03151~faq-000051b-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:12.608370"
+        },
+        {
+          "question": "I brought my product with me to a different country and can't find ink for it. What should I do?",
+          "answer": "Some Epson printers and ink cartridges are specific to a regional market and not sold worldwide, although the same printers are sold in the U.S. and Canada. If you have a printer sold in the U.S. or Canada, you may not be able to easily get ink cartridges for it in foreign markets.\nUnfortunately, because of customs and tax regulations, the Epson E-Stores in the U.S. and Canada are unable to ship to addresses outside the U.S. and Canada.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-0000956-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA03151~faq-0000956-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:13.735674"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "I'm having paper feed problems. What should I do?",
+          "answer": "Check the following:\nMake sure the paper is not above the\narrow mark inside the edge guide.\nMake sure the edge guides are snug against the edge of the paper.\nIf multiple pages feed at once, remove the paper from the sheet feeder or cassette, fan the edges to separate the sheets, then reload it.\nMake sure you don't load more than the recommended number of sheets. If you're printing on both sides of the paper, try loading fewer sheets.\nFront paper cassette:\nPaper type\nLoad up to this many sheets\nEpson Bright White Paper\n400\nPlain paper\n500\nRear sheet feeder:\nPaper type\nLoad up to this many sheets\nPlain paper (letter-size)\nUp to 150 sheets\nPlain paper (legal-size)\n1 sheet at a time (up to 60 sheets with the optional legal-size paper support)\nEpson Bright White Paper\nUp to 100 (70 sheets for manual double-sided printing)\nEpson Premium Presentation Paper Matte\nUp to 20 sheets\nEpson Premium Presentation Paper Matte Double-Sided\n1 sheet at a time\nEpson Photo Quality Self Adhesive Sheets\n1 sheet at a time\nEpson Presentation Paper Matte\nUp to 100 sheets\nEnvelopes\nUp to 15 envelopes\nMake sure you use new, smooth, high-quality paper that is not curled, creased, old, or too thin. Load it printable side up.\nIf the paper doesn't eject fully, you may have set the wrong paper size. Press the\nPaper/Cancel\nbutton to eject the paper. Select the correct paper size when you reprint.\nIf it's wrinkled when it ejects, the paper may be over-saturated or too thin. (If the paper is over-saturated after printing, you may have selected the wrong paper\nType\nor\nMedia Type\nsetting in the printer software.)\nIf the paper jams frequently, make sure of the following:\nThe paper is smooth, not curled or wrinkled.\nYou are using high quality paper.\nThe printable side of the paper is face-up in the rear sheet feeder and face-down in the front paper cassette.\nThe paper stack was fanned before loading.\nThe paper is not loaded above the\narrow mark inside the edge guide.\nIf paper jams in the printer, see\nThe Paper Jams\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-113487?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA03151~faq-113487",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:14.947900"
+        },
+        {
+          "question": "Can I use sheet labels with my product?",
+          "answer": "You can use Epson's\nPhoto Quality Self Adhesive Sheets\n. A cutting grid is printed on the reverse side of each sheet for easy custom trimming. To avoid paper jams, load only one sheet at a time in the rear sheet feeder. Also, set the\nType\nsetting in the driver to\nPremium Presentation Paper Matte\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-113550?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA03151~faq-113550",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:16.061912"
+        },
+        {
+          "question": "How should I load envelopes?",
+          "answer": "See\nLoading Envelopes\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-113560?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA03151~faq-113560",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:17.208375"
+        },
+        {
+          "question": "How can I stop my product from feeding multiple pages at the same time?",
+          "answer": "Check the following:\nMake sure the paper stack fits under the\narrow mark inside the edge guide.\nMake sure the edge guides are snug against the edge of the paper.\nLoad only Epson Bright White Paper or plain paper in the front paper cassette.\nMake sure the paper is not curled or folded. If so, flatten it or curl it slightly toward the opposite side before loading.\nRemove the stack of paper and make sure that the paper is not too thin. Plain paper should be between 0.003 to 0.005 in. (0.08 to 0.11 mm).\nRemove the paper from the sheet feeder or front paper cassette, fan the edges to separate the sheets, then reload it.\nIf too many copies of a file are being printed, confirm the Copies setting in your printer driver and in your application.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-113559?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA03151~faq-113559",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:19.100071"
+        },
+        {
+          "question": "How do I know which paper or media type to select in my product's driver?",
+          "answer": "See\nSelecting the Correct Paper Type\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-113562?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA03151~faq-113562",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:20.506991"
+        },
+        {
+          "question": "Can I use hole-punched paper with my product?",
+          "answer": "No. The product does not support this paper type.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-0000ab4-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA03151~faq-0000ab4-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:21.583166"
+        },
+        {
+          "question": "Can the product print on CDs and DVDs?",
+          "answer": "No, this product does not support this feature.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-00004b5-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA03151~faq-00004b5-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:22.763619"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "My printout has incorrect margins. What should I do?",
+          "answer": "Check the following:\nMake sure the paper settings are correct for your paper size in the printer software.\nChoose the correct margins for your paper size in your printing program. See\nPrintable area\n.\nMake sure your paper is positioned next to the right side of the feeder. Slide the left edge guide against the paper.\nIf you're using a Macintosh, make sure you choose the correct printer in the Page Setup window and the Print window.\nIf you're printing from a web browser, the pages may not print correctly due to the web page design. Try one of the following:\nCheck to see if there is a\nPrinter Friendly Version\n(or similarly named) icon or link on the web page that you can click on.\nExperiment with page setup and paper size, then select\nPrint Preview\nin your printer settings to view the changes.\nYou may need to\nuninstall your printer software\nand then reinstall it (\nWindows\nor\nMacintosh\n).",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-113491?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA03151~faq-113491",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:23.932472"
+        },
+        {
+          "question": "My printout is blurry or smeared. What should I do?",
+          "answer": "Check the following:\nMake sure your paper is dry and the printable side is facing up in the rear sheet feeder and facing down in the front paper cassette. The printable side is usually brighter or whiter.\nMake sure your paper meets the\nspecifications\n. Also, it is important to\nselect the correct paper type\n.\nUse Epson papers to ensure proper saturation and absorption of genuine Epson inks. Also, make sure you're using genuine Epson ink cartridges.\nIf the paper is curled toward the printable side, flatten it or curl it slightly in the opposite direction.\nAlign\nthe print head.\nRemove each sheet from the front tray as it is printed.\nThe printer won't operate properly if it's tilted or at an angle. Place it on a flat, stable surface that extends beyond the printer base in all directions.\nSelect a higher\nQuality Option\nor\nPrint Quality\nin the printer software.\nIf you are using double-sided paper and printing heavily saturated or dark images on the front side of the paper, you may notice that smudges or marks appear on the front when you print the second side. If one side of the paper will contain a lighter image or text, print that side first to prevent marks or smudging. Use the Print Density Adjustment (\nWindows\n,\nMacintosh OS X 10.5\nor\nMacintosh OS X 10.3 and 10.4\n) to reduce the print density and increase the ink drying time.\nPress the\nPaper/Cancel\nbutton to eject a sheet of paper. Do this several times. If the paper is still not clean, ink may have leaked inside the printer, and you need to\nclean the printer\n.\nYou may need to\nuninstall your printer software\nand then reinstall it (\nWindows\nor\nMacintosh\n).",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-113495?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA03151~faq-113495",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:23.238120"
+        },
+        {
+          "question": "The quality of my printed output is unacceptable. What should I do?",
+          "answer": "If your output has a problem but the image looks fine on your computer screen, make sure you're using the latest driver version for your printer. Also, make sure you select the correct quality option, paper type, paper size, and orientation setting in the printer software for your print job. If that doesn't help, see\nPrint Quality Problems\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-113489?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA03151~faq-113489",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:24.317975"
+        },
+        {
+          "question": "My product is printing blank pages from Windows or my Mac. What should I do?",
+          "answer": "Check the following:\nMake sure the\nprint head nozzles\nare not clogged.\nMake sure the printer software settings are appropriate for the paper size you're using.\nThe ink cartridges may be old or low on ink, and you may need to\nreplace them\n.\nConfirm the\nSkip Blank Page\nsetting from your printer driver. For Windows, click the\nSpeed & Progress\nbutton on the Maintenance window. For Mac OS X, confirm the Extension Settings in the printer options pop-up menu. If it is selected, blank pages in your data are not printed.\nTry printing a different document to determine if the problem is limited to one document. If the problem is with one document, try recreating the document.\nYou may need to\nuninstall your printer software\nand then reinstall it (\nWindows\nor\nMacintosh\n).",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-113493?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA03151~faq-113493",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:25.490571"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Try the following:\nThe print head nozzles may need to be\nchecked\nand\ncleaned\n.\nSelect a higher\nQuality Option\nor\nPrint Quality\nand turn off\nHigh Speed\nmode in the printer software.\nMake sure the paper\nType or Media Type setting\nmatches the paper you loaded.\nMake sure the printable side of the paper is face up in the rear sheet feeder and face down in the front paper cassette. The printable side is usually brighter or whiter.\nMake sure you're using genuine Epson ink cartridges and you use them within six months after you open the packages.\nAlign\nthe print head.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-113490?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA03151~faq-113490",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:26.602455"
+        },
+        {
+          "question": "The printout is grainy. What should I do?",
+          "answer": "Check the following:\nMake sure your paper is dry and the printable side is facing up in the rear sheet feeder and facing down in the front paper cassette. The printable side is usually brighter or whiter.\nSelect a higher\nQuality Option\nor\nPrint Quality\nin the printer software.\nAlign\nthe print head.\nYou may need to increase the resolution of the image or print in a smaller size; see your software documentation.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-113498?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA03151~faq-113498",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:28.002384"
+        },
+        {
+          "question": "My printout contains garbled characters when I print from Windows or my Mac. What should I do?",
+          "answer": "Try the following:\nMake sure the USB cable is a shielded “AB” cable not more than 6.5 feet (2 meters) long.\nTurn off the printer, check that the cables are securely connected, turn it back on, then try printing again.\nYou may need to\nuninstall your printer software\nand then reinstall it (\nWindows\nor\nMacintosh\n).",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-113497?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA03151~faq-113497",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:29.140677"
+        },
+        {
+          "question": "My printout has incorrect or missing colors. What should I do?",
+          "answer": "The problem could be due to a software setting, the condition of the printer, or the paper you're using. Check the following:\nFor Windows, make sure the ink setting in your printer software is not set to\nGrayscale\n. For Mac OS X, change the Color setting to\nColor\nin the Print Settings of your printer driver.\nThe print head nozzles may need\ncleaning\n.\nThe ink cartridges may be old or low on ink, and you may need to\nreplace them\n.\nYour printed colors can never exactly match your on-screen colors. However, you can use a color management system to get as close as possible. Try using the\nICM\n(Windows) or\nColorSync\n(Macintosh) setting.\nIf you're using color management in your application, select\nOff (No Color Adjustment)\nto disable color management in the printer software.\nFor best results, use genuine Epson ink and paper.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-113496?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA03151~faq-113496",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:30.258825"
+        },
+        {
+          "question": "The image look inverted, as if viewed in a mirror. What should I do?",
+          "answer": "You may have accidentally selected the\nMirror Image\nor\nRotate 180°\noption in the printer driver or a similar feature in your software application. Make sure the settings are not turned on in the printer driver or in your application program.\nWindows\nMacintosh",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-113557?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA03151~faq-113557",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:31.357106"
+        },
+        {
+          "question": "The printout has a slight slant. What should I do?",
+          "answer": "Try the following:\nMake sure that the paper is loaded into the front paper cassette or the rear sheet feeder correctly. See\nLoading Paper\n.\nAlign\nthe print head.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-113589?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA03151~faq-113589",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:32.653075"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "I'm having problems installing the software. What should I do?",
+          "answer": "Check the following:\nMake sure your printer is turned on, then carefully follow the software installation instructions on the Start Here sheet (\nWindows\nor\nMacintosh\n).\nMake sure your system meets the\nrequirements\n.\nMake sure all applications (including any screen savers and virus protectors) are closed before you install the printer software. If any applications were open,\nuninstall the printer software\n, then reinstall the printer software (\nWindows\nor\nMacintosh\n).\nIf you see an error message or your software doesn't install correctly, you may not have software installation privileges. Contact your System Administrator.\nMake sure the USB Controller is working properly in Device Manager. See your Windows help system for details. If it's not working, contact your computer manufacturer.\nIf you're printing over a network, see\nSetting Up the Printer as a Shared Printer for Windows\n.\nUninstall the printer software\n, then reinstall the printer software (\nWindows\nor\nMacintosh\n).\nNote:\nYou must connect the printer to your computer at the correct time to make sure the driver is installed correctly on your computer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-113500?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA03151~faq-113500",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:33.842606"
+        },
+        {
+          "question": "I cancelled the software installation before it was complete, or connected the USB cable before starting the software installation. What should I do?",
+          "answer": "First\nuninstall the software\n, then reinstall the software (\nWindows\nor\nMacintosh\n).\nNote:\nYou must connect the printer to your computer at the correct time to make sure the driver is installed correctly on your computer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-113499?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA03151~faq-113499",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:34.929096"
+        },
+        {
+          "question": "How do I install the software using the CD-ROM?",
+          "answer": "See the Start Here sheet (\nWindows\nor\nMacintosh\n).",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-113544?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA03151~faq-113544",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:36.071766"
+        },
+        {
+          "question": "How do I uninstall the product software?",
+          "answer": "Follow the instructions below for your computer system:\nWindows\nNote:\nTo uninstall programs in Windows Vista, you need an administrator account and the password if you log on as a standard user.\nTo uninstall programs in Windows XP, you must log on to a Computer Administrator account.\nTo uninstall programs in Windows 2000, you must log on as a user with administrative privileges (belonging to the Administrators group).\nTurn off the printer and disconnect its interface cable.\nWindows Vista:\nClick the\nbutton and select\nControl Panel\n.\nWindows XP and Server 2003:\nClick\nStart\nand select\nControl Panel\n.\nWindows 2000:\nClick\nStart\n, point to\nSettings\n, and select\nControl Panel\n.\nWindows Vista:\nClick\nUninstall a program\nfrom the Programs category, and then select\nEPSON Printer Software\nfrom the list.\nWindows XP, Server 2003, and 2000:\nSelect\nAdd/Remove Programs\nand then select\nEPSON Printer Software\nfrom the list.\nWindows Vista:\nClick\nUninstall/Change\n.\nWindows XP, Server 2003, and 2000:\nClick\nChange/Remove\n.\nSelect the icon for your printer and click\nOK\n.\nClick\nOK\nto uninstall the printer driver.\nMacintosh\nNote:\nTo uninstall the programs, you must log on to a Computer Administrator account. You cannot uninstall programs if you log on as a Limited account user.\nQuit all running applications.\nInsert the Epson printer software CD-ROM into your Macintosh.\nDouble-click the\nMac OS X\nicon in the Epson folder. The CD Installer screen is displayed. Click\nCustom Install\n.\nSelect\nPrinter Driver\n.\nNote:\nIf the Authenticate dialog appears, enter your password or phrase and click\nOK\n.\nRead the software license agreement and click\nAccept\n.\nSelect\nUninstall\nfrom the menu in the upper left and click\nUninstall\n.\nFollow the on-screen instructions to uninstall the printer driver.\nNote for Mac OS X 10.3 or 10.4:\nIf the name of your printer remains in the Print Center or Printer Setup Utility, select the name from Printer List and click\nDelete\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-113545?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA03151~faq-113545",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:37.251214"
+        },
+        {
+          "question": "Can I select a print resolution by indicating a specific dpi (dots per inch) setting?",
+          "answer": "No. The print resolution is determined by other driver software settings.\nIn Windows, the\nQuality Option\nand paper\nType\nsettings determine the print resolution.\nIn Mac OS X, the resolution settings depend on the\nMode\nsetting:\nNote:\nTo access the resolution settings in Mac OS X, select\nPrint\nfrom the File menu. Then select\nPrint Settings\nfrom the pull-down menu.\nIf you've selected\nAutomatic\nas the\nMode\nsetting, the resolution is determined by the\nMedia Type\nsetting and the position of the Quality/Speed slider.\nIf you've selected\nAdvanced\nas the\nMode\nsetting, the resolution is determined by the\nMedia Type\nsetting and the\nPrint Quality\nsetting.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-113546?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA03151~faq-113546",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:38.448865"
+        },
+        {
+          "question": "Can I use my product on a network?",
+          "answer": "Yes. See Setting Up the Printer as a Shared Printer (\nWindows\nor\nMacintosh\n).",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-113561?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA03151~faq-113561",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:39.754727"
+        },
+        {
+          "question": "My product software doesn't work properly. What should I do?",
+          "answer": "Try the following:\nMake sure your printer is turned on and the USB cable is securely connected at both ends.\nMake sure your system\nmeets the requirements\n.\nIf you cancelled the printer software installation before it was complete, or connected the USB cable before starting the software installation,\nuninstall the software\n, then reinstall the software (\nWindows\nor\nMacintosh\n).\nClose your other programs, including any screen savers and virus protection software, and install the software (\nWindows\nor\nMacintosh\n) again.\nIf you see an error message or your software doesn't install correctly, you may not have software installation privileges. Contact your System Administrator.\nMake sure the USB Controller is working properly in Device Manager. See your Windows help system for details. If it's not working, contact your computer manufacturer.\nIf you're printing over a network, set up the software for network printing. See Setting Up the Printer as a Shared Printer (\nWindows\nor\nMacintosh\n).",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-113587?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA03151~faq-113587",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:41.015662"
+        },
+        {
+          "question": "How do I set default print settings when I print from Windows or my Mac?",
+          "answer": "When you change your print settings from within a program, the changes apply only while you're printing at that time in the open program. If you want to select different settings to use in all your programs, you can change the default print settings. Follow the steps below for your operating system to change the default print settings.\nWindows 2000, XP, Vista\nRight-click the\nprinter icon in the task bar (bottom-right corner of your screen), and select\nPrinter Settings\n.\nSelect the settings you want to use as defaults in all your Windows programs.\nClick\nOK\nto accept the changes.\nMacintosh 10.5.x\nOpen a document and select\nPrint\nfrom the File menu.\nSelect the print settings you want to to save.\nClick the\nPresets\npop-up menu and do one of the following:\nSelect\nLast Used Settings\n.\nSelect\nSave As\n, enter a name for your preset, and click\nOK\n.\nClick\nPrint\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-133367?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA03151~faq-133367",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:42.176683"
+        },
+        {
+          "question": "Does my product support Epson Connect?",
+          "answer": "No, your product is not compatible.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-0000af9-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA03151~faq-0000af9-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:43.307821"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "You can download the latest product driver from the Downloads section of this website.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-0000afb-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA03151~faq-0000afb-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:49.747286"
+        },
+        {
+          "question": "Who do I contact for support on the software that came with my product?",
+          "answer": "Contact Epson for support on Epson software. For questions about any other software that came with your printer, contact the manufacturer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-110871-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA03151~faq-110871-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:51.138711"
+        },
+        {
+          "question": "How do I change the font size of text when I print from software in Windows?",
+          "answer": "You need to select the text or font size in the software you are printing from, not the printer driver. For detailed instructions, contact the company for the application you are printing from.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-00004b7-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA03151~faq-00004b7-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:52.344719"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA03151~faq-00004dc-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:53.488752"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA03151~faq-0000f4b-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:54.613688"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA03151~faq-0000f4c-shared",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:54.133499"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA03151~faq-0000f4d-shared",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:55.242042"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Wireless or Wired Connection",
+      "section_id": "8796127635532",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-0000ad0-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CA03151~faq-0000ad0-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:56.415714"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "How should I transport my product?",
+          "answer": "See\nTransporting Your Printer\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-113548?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA03151~faq-113548",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:57.746638"
+        },
+        {
+          "question": "When printing in Windows, how can I prevent an extra page from being ejected after every print job?",
+          "answer": "The Separator Page function may be enabled. Follow these steps to disable it:\nClick\nStart\nor\n.\nDo one of the following:\nWindows XP\n:\nSelect\nPrinters and Faxes\n(or select\nSettings\n, then select\nPrinters and Faxes\n).\nWindows Vista\n:\nSelect\nControl Panel\n, then\nPrinter\nor\nPrinters\nunder Hardware and Sound\n.\nWindows 7\n:\nSelect\nControl Panel\n, then\nView Devices and Printers\nunder Hardware and Sound.\nIn the\nPrinters\nor\nPrinters and Faxes\nwindow, right-click on your printer's name.\nSelect\nProperties\n, click the Advanced tab, then press the\nSeparator Page\nbutton.\nIn the Separator Page window, delete the information in the text box and then click\nOK\n.\nClick\nOK\nagain.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-134050?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA03151~faq-134050",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:16:58.942036"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA03151~faq-00004b0-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:17:00.112921"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA03151~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA03151~faq-0000f4a-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/B-Series/Epson-B-300/s/SPT_C11CA03151",
+          "fetched_at": "2026-04-02T04:17:01.265512"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

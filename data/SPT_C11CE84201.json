@@ -1,0 +1,847 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "PictureMate Series",
+  "model": {
+    "name": "Epson PictureMate PM 400",
+    "sku": "SPT_C11CE84201",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-00004c5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CE84201~faq-00004c5-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:02.727973"
+        },
+        {
+          "question": "Why doesn't Epson include a USB or Ethernet cable in the box with the product?",
+          "answer": "We are committed to giving our customers the best value possible with every product we sell. To provide high-quality products with the latest technology and sell them at the most competitive prices, it is critical to choose which components are necessary and which may be redundant. Because many of our customers already own USB or Ethernet cables, it makes good sense to eliminate the costs of including a cable in every box and use those savings to improve product features and lower the cost to you, the consumer.\nNote:\nNot all products support an Ethernet interface.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-0000490-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CE84201~faq-0000490-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:03.832484"
+        },
+        {
+          "question": "Can I read or write to my memory card when my product display indicates that one or more ink cartridges are expended?",
+          "answer": "Yes, you can read or write to a memory card when the installed ink cartridge is expended. However, you cannot read or write to a memory card if the ink cartridge is not installed.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-0000ab2-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CE84201~faq-0000ab2-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:05.030127"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CE84201~faq-00004b0-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:06.140271"
+        },
+        {
+          "question": "How should I store my product if it's not going to be used for a long time?",
+          "answer": "Epson recommends storing the product in a cool, dry environment. See your product's documentation for recommended storage temperatures.\nCheck the ink cartridge before placing the product in storage. If the ink cartridge is very low or expended, Epson recommends replacing it with a new ink cartridge to help prevent the print head from drying out. When taking the product out of storage, check the ink cartridge again to see if it has expired. If the cartridge is expired and you experience print quality issues, you may need to replace the expired ink cartridge to improve print quality.\nMake sure to turn off the product using the power button and unplug the power cord before placing it in storage. Cover the product to protect it from dust.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-0000ac7-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CE84201~faq-0000ac7-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:07.235561"
+        },
+        {
+          "question": "How do I find my SSID and network password?",
+          "answer": "Check your router documentation for this information. Most routers have a default SSID and password that can be modified once the router is set up.\nNote:\nThe SSID is the name of the wireless network that is set up on your router or access point.\nIf you don't know this information, you'll need to contact the manufacturer of your router or the person who set up your network.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-0000ae9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CE84201~faq-0000ae9-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:08.363075"
+        },
+        {
+          "question": "My product will not wake up when I try to print with a wireless connection. What should I do?",
+          "answer": "Turn the product off and on. If you can print now, the problem is related to your wireless router. Contact the manufacturer of your router for assistance or try using a different router.\nIf you cannot print after turning the product off and on, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-00004c8-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CE84201~faq-00004c8-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:09.486039"
+        },
+        {
+          "question": "I see the message Unable to connect to the server. Please try again later. when I try to install the Drivers and Utilities Combo Package Installer. What should I do?",
+          "answer": "Make sure your computer has an Internet connection and try installing the software again. If the same message appears, then do the following:\nGo to the Downloads tab on your product's support page.\nDownload and save the Drivers and Utilities Combo Package Installer to your computer.\nMake a note of the file name and save the location so you can easily retrieve it.\nRight-click the file and select\nRun as Administrator\n.\nThe software should install.\nNote:\nYou can also try to install the drivers and utilities individually.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-000094f-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CE84201~faq-000094f-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:10.572740"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CE84201~faq-00004dc-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:11.692376"
+        },
+        {
+          "question": "I brought my product with me to a different country and can't find ink for it. What should I do?",
+          "answer": "Some Epson printers and ink cartridges are specific to a regional market and not sold worldwide, although the same printers are sold in the U.S. and Canada. If you have a printer sold in the U.S. or Canada, you may not be able to easily get ink cartridges for it in foreign markets.\nUnfortunately, because of customs and tax regulations, the Epson E-Stores in the U.S. and Canada are unable to ship to addresses outside the U.S. and Canada.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-0000956-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CE84201~faq-0000956-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:12.768045"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Cloud or Mobile",
+      "section_id": "8796127340620",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "What is Epson Connect?",
+          "answer": "Epson Connect provides mobile services that allow you to print and scan from anywhere with internet connection. Epson Connect includes the following solutions:\nNote:\nYour product may not support all of the Epson Connect features or services.\nEpson Email Print\n- Print your photos and documents from anywhere by simply sending an email. See\nEpson Email Print\nfor more information.\nEpson Remote Print\n- Print remotely over the Internet. See\nEpson Remote Print\nfor more information.\nEpson Scan to Cloud\n- Scan your documents and photos to an online storage account. See\nEpson Scan to Cloud\nfor more information.\nEpson iPrint\n- A wireless printing app for iOS or Android smartphones and tablets. See\nEpson iPrint for iOS\nor\nEpson iPrint for Android\nfor more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-286743?faq_cat=faq-8796127340620",
+          "faq_slug": "SPT_C11CE84201~faq-286743",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:13.866322"
+        },
+        {
+          "question": "How do I install my Epson product on a Windows RT tablet?",
+          "answer": "The software will automatically install when you plug your product into the tablet's USB port or you connect the tablet to the network where your product is connected.\nNote:\nLimited printing and scanning functions will be available.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-0000ac4-shared?faq_cat=faq-8796127340620",
+          "faq_slug": "SPT_C11CE84201~faq-0000ac4-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:13.182971"
+        },
+        {
+          "question": "Is my Epson product compatible with Windows RT?",
+          "answer": "Yes, drivers will automatically install when you plug your product into the tablet's USB port or you connect the tablet to the network where your product is connected.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-0000ac3-shared?faq_cat=faq-8796127340620",
+          "faq_slug": "SPT_C11CE84201~faq-0000ac3-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:14.243525"
+        },
+        {
+          "question": "Where can I find information on using my Epson product with Google Cloud Print?",
+          "answer": "See our\nGoogle Cloud Print Support\npage.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-000049e-shared?faq_cat=faq-8796127340620",
+          "faq_slug": "SPT_C11CE84201~faq-000049e-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:15.317982"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "Printing is slow or my product stops printing when I try to print from Windows or OS X. What should I do?",
+          "answer": "Try the following:\nMake sure your system meets the requirements for your operating system. If you are printing a high-resolution image, you may need more than the minimum requirements. If necessary, increase your system's memory.\nIf you're using Windows 7, close the\nDevices and Printers\nwindow before you print.\nClear space on your hard drive or run the defragmentation utility to free up existing space.\nClose any programs that you're not using when you print.\nIf your product is connected to a USB hub, connect it directly to your computer instead.\nIf printing becomes slower after printing continuously for a long time, the product may have automatically slowed down to protect the print mechanism from overheating or becoming damaged. Let the product rest with the power on for 30 minutes, then try printing again.\nIf the steps above did not help, and you're using Windows 7, Windows Vista, or Windows XP, delete the\nEPAUDF01.AUD\nfile as described below.\nDo one of the following:\nWindows 7\nor\nWindows Vista\n: Click\n, then select\nComputer\nor\nMy Computer\n. Double-click the\nC:\ndrive, then open the folders\nProgramData\n>\nEPSON\n>\nPRINTER\n.\nNote:\nIf you don't see the ProgramData folder, select\nFolder and search options\nfrom the Organize menu. A new window appears. Click the\nView\ntab, then select\nShow hidden files, folders, and drives\nin the Advanced settings. Click\nOK\n.\nWindows XP\n: Click\nStart\n, then select\nMy Computer\n. Double-click the\nC:\ndrive, then open the folders\nDocuments and Settings\n>\nAll Users\n>\nApplication Data\n>\nEPSON\n>\nPRINTER\n.\nNote:\nIf you don't see the Application Data folder, select\nFolder Options\nfrom the Tools menu. A new window appears. Click the\nView\ntab, then select\nShow hidden files, folders, and drives\nin the Advanced settings. Click\nOK\n.\nRight-click the\nEPAUDF01.AUD\nfile, then select\nDelete\n.\nRestart your computer.\nTry printing again.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-286768?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CE84201~faq-286768",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:16.387299"
+        },
+        {
+          "question": "Printing is slow over my wireless connection. What should I do?",
+          "answer": "Try the following:\nMove the computer and your Epson product closer to your wireless router or access point.\nDon't place the computer, product, or wireless access point near microwaves, cordless telephones, or other sources of wireless interference.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-286782?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CE84201~faq-286782",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:17.461577"
+        },
+        {
+          "question": "My product is printing blank pages from Windows or my Mac. What should I do?",
+          "answer": "Try the following:\nMake sure you selected the correct paper size settings in your printing program and printer software.\nRun a print head nozzle check to see if any of the nozzles are clogged. Then clean the print head, if necessary.\nMake sure the yellow tape on the ink cartridge(s) installed in your product was removed.\nThe product won't operate properly if it's tilted or at an angle. Place it on a flat, stable surface that extends beyond the base in all directions.\nIf a blank page exists in a document you are printing and you want to skip printing it, select the\nSkip Blank Page\nsetting in your printer software as instructed below.\nWindows\nDo one of the following:\nWindows 10\n: Right-click\nand select\nControl Panel\n>\nHardware and Sounds\n>\nDevices and Printers\n. Right-click your product name and select\nPrinter Preferences\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows XP\n: Click\nStart\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n. Right-click your printer and select\nPrinting Preferences\n.\nClick the\nMaintenance\ntab, then click the\nExtended Settings\nbutton.\nIn the Settings area, select the\nSkip Blank Page\nsetting or checkbox.\nClick\nOK\nas necessary to save your settings.\nOS X\nOpen the\nmenu, then select\nSystem Preferences\n.\nSelect\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n, select your product, then select\nOptions & Supplies\n.\nSelect\nDriver\nor\nOptions\n.\nYou see this screen:\nSet\nSkip Blank Page\nto\nOn\n.\nClick\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-286778?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CE84201~faq-286778",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:18.529557"
+        },
+        {
+          "question": "How do I print a borderless photo from Windows or my Mac?",
+          "answer": "Make sure you loaded a compatible borderless paper size and type, then follow the steps below for your operating system.\nWindows\nOpen a photo or document for printing.\nSelect the print command in your application.\nNote:\nYou may need to select a print icon on your screen, the\nPrint\noption in the File menu, or another command. See your application's help utility for details.\nIf necessary, select your product name as the printer you want to use.\nNote:\nYou may also need to select\nProperties\nor\nPreferences\nto view your print settings.\nYou see the Main tab of your printer settings window:\nSelect a borderless paper type as the\nPaper\nType\nsetting.\nSelect a borderless paper size as the\nDocument\nSize\nsetting.\nSelect\nBorderless\n.\nNote:\nYou must select a compatible borderless paper type and size to print borderlessly. Check the borderless paper compatibility list for details. You cannot print borderlessly with a custom paper size.\nClick\nOK\n.\nOS X\nOpen a photo or document for printing.\nSelect the print command in your application.\nNote:\nYou may need to select a print icon on your screen, the\nPrint\noption in the File menu, or another command. See your application's help utility for details.\nSelect your product as the\nPrinter\nsetting.\nIf necessary, click the arrow next to the Printer setting or the\nShow Details\nbutton to expand the print window. You see the expanded printer settings window for your product:\nNote:\nThe print window may look different, depending on the version of OS X and the application you are using.\nSelect a borderless paper size as the\nPaper Size\nsetting.\nSelect\nPrint Settings\nfrom the pop-up menu.\nYou see these settings:\nSelect a borderless paper type as the\nMedia Type\nsetting.\nSelect the\nBorderless\ncheckbox or a paper size with a Borderless option. You can also select a custom setting to create a custom paper size.\nNote:\nYou must select a compatible borderless paper type and size to print borderlessly. Check the borderless paper compatibility list below for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-286781?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CE84201~faq-286781",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:19.721409"
+        },
+        {
+          "question": "How do I set up my product for the fastest printing?",
+          "answer": "If printing becomes slow, try these solutions:\nMake sure your system meets the requirements for your operating system. If you are printing a high-resolution image, you may need more than the minimum requirements. If necessary, increase your system's memory.\nIf you are using Windows 7, close the\nDevices and Printers\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility to free up existing space.\nClose any programs you are not using when you print.\nIf your product is connected to a USB hub, connect it directly to your computer instead.\nIf printing becomes slower after printing continuously for a long time, the product may have automatically slowed down to protect the print mechanism from overheating or becoming damaged. Let the product rest with the power on for 30 minutes, then try printing again.\nFor the fastest printing, select the following settings in your product software:\nMake sure the paper type setting matches the type of paper you loaded.\nTurn on any high speed settings in your product software.\nSelect a lower print quality setting.\nWindows\n: Click the\nMaintenance\nor\nUtility\ntab, select\nExtended Settings\nor\nSpeed and Progress\n, and select the following settings:\nAlways Spool RAW Datatype\nPage Rendering Mode\nPrint as Bitmap\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Extended Settings - Windows\nSelecting Basic Print Settings - OS X\nSelecting Printing Preferences - OS X\nRelated references\nWindows System Requirements\nOS X System Requirements\nPaper or Media Type Settings - Product Software",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-287935?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CE84201~faq-287935",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:20.871669"
+        },
+        {
+          "question": "I can print wirelessly to my product on my home network, but I can't print when I connect the same computer to a VPN (virtual private network). What should I do?",
+          "answer": "Your product is set up to communicate wirelessly with your home network. When you connect to a VPN, your computer is no longer communicating with your home network, so it cannot print to the product. You'll need to connect to your home network to print again.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-0000ad6-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CE84201~faq-0000ad6-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:22.008049"
+        },
+        {
+          "question": "How do I print with Windows RT?",
+          "answer": "See the instructions below for your printing task.\nWindows Store apps\nTo print from apps that open from the Start screen, do the following:\nOpen the document, photo, or web page you want to print.\nDo one of the following to open the Devices charm:\nTouch\n: Swipe in from the right edge of the screen, then tap the\nDevices\ncharm.\nMouse\n: Move the mouse pointer into the upper- or lower-right corner of the screen, then click the charm you want.\nKeyboard\n: Press the\nDevices charm key.\nTap the\nPrint\ncharm.\nTap or click your printer from the list.\nNote:\nIf your printer isn't listed, your app may not support printing or you haven't added a printer.\nChoose your printing options, and tap or click\nPrint\n.\nWindows Desktop apps\nTo print from software that opens on the desktop, such as Notepad, Microsoft Word or Excel, press\nCtrl\n+\nP\nor find the Print command in the app.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-0000b02-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CE84201~faq-0000b02-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:23.082578"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CE84201~faq-00004c5-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:24.196932"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "Why is Epson shipping initial ink cartridges with my product?",
+          "answer": "The ink cartridge included with the printer is designed for printer setup and not for resale. After some ink is used for charging, the rest is available for printing.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-286745?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CE84201~faq-286745",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:25.306925"
+        },
+        {
+          "question": "How long should an ink cartridge remain in my product if it's not used often?",
+          "answer": "When the installed ink cartridge is more than six months old, you may need to replace it. If you notice that your printouts don't look as good as they used to and quality doesn't improve after cleaning and aligning the print head, replace the ink cartridge.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-286747?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CE84201~faq-286747",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:26.396531"
+        },
+        {
+          "question": "How do I know when the ink cartridge needs to be replaced?",
+          "answer": "The printer's LCD screen will display a message when the ink cartridge is expended. You may also see a message on your computer screen.\nNote:\nIf a cartridge installed in the product is broken, incompatible with the product model, or improperly installed, Epson Status Monitor will not display an accurate cartridge status.\nYou may also need to replace a cartridge that is more than six months old if your printouts do not look their best even after cleaning and aligning the print head.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-286772?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CE84201~faq-286772",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:27.503137"
+        },
+        {
+          "question": "What is my product doing after I install a new ink cartridge?",
+          "answer": "It takes about 4 minutes for the printer to charge the ink delivery system when you install the first ink cartridge.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-286773?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CE84201~faq-286773",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:28.592239"
+        },
+        {
+          "question": "Can my product still print if an ink cartridge is expended or not installed?",
+          "answer": "No. The printer will not operate if the cartridge is expended or removed. It's best to always have extra cartridges on hand.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-286784?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CE84201~faq-286784",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:29.707901"
+        },
+        {
+          "question": "I replaced an ink cartridge and my product shows that the same ink cartridge is expended. What should I do?",
+          "answer": "The cartridge may not be seated properly, and may need to be reseated.\nTurn on your product.\nSelect the option to replace the ink cartridge and press the\nOK\nbutton again.\nLift up the inner cover.\nCaution:\nDo not touch the flat white cable inside the printer.\nPush down the cartridge until it clicks into place. (If the cartridge is properly seated already, you may not hear a click.)\nClose the inner cover.\nThe printer will start charging the cartridge.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-286785?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CE84201~faq-286785",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:30.784198"
+        },
+        {
+          "question": "How do I change the ink cartridge?",
+          "answer": "Do the following:\nRemoving and Installing the Ink Cartridge\nMake sure you have a replacement cartridge handy before you begin. You must install the new cartridge immediately after removing the old one.\nCaution:\nLeave your old cartridge in the printer until you are ready to replace it to prevent the print head nozzles from drying out. Do not open ink cartridge packages until you are ready to install the ink. Cartridges are vacuum packed to maintain reliability.\nNote:\nIf you remove a low or expended ink cartridge, you cannot re-install and use the cartridge.\nTurn on your product.\nDo one of the following:\nIf the ink cartridge is expended, you see a message on the LCD screen. Press the\nOK\nbutton.\nIf you are replacing the cartridge before you see a message on the LCD screen, select\nSetup\n>\nMaintenance\n>\nInk Cartridge Replacement\n. Then press the\nOK\nbutton to proceed.\nUnpack the new ink cartridge and completely remove only the yellow tape.\nCaution:\nDo not remove any other labels or seals, or ink may leak.\nRemove the cap as shown. Retain the cap so that you can use it to recap the used cartridge you are replacing.\nCaution:\nDo not touch the ink cartridge areas shown here. Doing so may prevent normal operation and printing.\nWarning:\nIf ink gets on your skin, wash it thoroughly with soap and water. If ink gets into your eyes, flush them immediately with water. If ink gets into your mouth, spit it out and see a doctor right away. Keep ink cartridges out of the reach of children.\nPress the\nstart button.\nOpen the inner cover.\nCaution:\nDo not move the print head by hand; otherwise, you may damage your product. Do not touch the flat white cable inside the product.\nPress down the blue tab to unlock the used ink cartridge, then lift it out.\nUse the cap from the replacement ink cartridge to recap the used cartridge before disposing of it.\nNote:\nDispose of used cartridges carefully. Do not take the used cartridge apart or try to refill it.\nHold the cartridge with the green chip facing you and insert the cartridge at an angle as shown. Press down the ink cartridge until it clicks into place.\nCaution:\nMake sure to insert the ink cartridge in the correct direction or you may damage the product.\nClose the inner cover.\nPress the\nstart button to start charging the ink. Then follow the rest of the on-screen instructions. Ink charging takes a few minutes. When you see a completion message on the LCD screen, ink replacement is complete.\nCaution:\nDo not turn off the product or open the inner cover while ink is charging or you may not be able to print.\nCaution:\nIf you remove an ink cartridge for later use, recap the ink cartridge using the cap that came with it to prevent the ink from drying out and to protect the surrounding area from getting smeared by ink. Store the ink cartridge in the same environment as the product. Do not leave the product with the ink cartridges removed for an extended period of time. Otherwise, ink remaining in the print head nozzles may dry out and you may not be able to print.\nRelated concepts\nPurchase Epson Ink Cartridges",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-287916?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CE84201~faq-287916",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:31.927609"
+        },
+        {
+          "question": "Which ink cartridges should I use with my product?",
+          "answer": "See below.\nInk Cartridge Part Numbers\nUse these part numbers when you order or purchase new ink cartridges.\nNote:\nFor best printing results, use up a cartridge within 6 months of opening the package.\nPart number\nDescription\n320\nColor Ink Cartridge\n320P\nPrint Pack - Color Ink Cartridge and Glossy Photo Paper (100 sheets)",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-287917?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CE84201~faq-287917",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:33.031526"
+        },
+        {
+          "question": "I brought my product with me to a different country and can't find ink for it. What should I do?",
+          "answer": "Some Epson printers and ink cartridges are specific to a regional market and not sold worldwide, although the same printers are sold in the U.S. and Canada. If you have a printer sold in the U.S. or Canada, you may not be able to easily get ink cartridges for it in foreign markets.\nUnfortunately, because of customs and tax regulations, the Epson E-Stores in the U.S. and Canada are unable to ship to addresses outside the U.S. and Canada.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-0000956-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CE84201~faq-0000956-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:34.110593"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "How should I store my product if it's not going to be used for a long time?",
+          "answer": "Epson recommends storing the product in a cool, dry environment. See your product's documentation for recommended storage temperatures.\nCheck the ink cartridge before placing the product in storage. If the ink cartridge is very low or expended, Epson recommends replacing it with a new ink cartridge to help prevent the print head from drying out. When taking the product out of storage, check the ink cartridge again to see if it has expired. If the cartridge is expired and you experience print quality issues, you may need to replace the expired ink cartridge to improve print quality.\nMake sure to turn off the product using the power button and unplug the power cord before placing it in storage. Cover the product to protect it from dust.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-0000ac7-shared?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C11CE84201~faq-0000ac7-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:35.204662"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Memory Cards or External Devices",
+      "section_id": "8796127307852",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "How do I access the memory card or USB flash drive in my Epson product from Windows RT?",
+          "answer": "Do the following:\nNote:\nYour product may not support all of the features mentioned below.\nAt the Start screen, do one of the following:\nTouch:\nSwipe in from the right edge of the screen, then tap the\nSearch\ncharm.\nMouse:\nMove the mouse pointer into the upper or lower-right corner of the screen, then click on the\nSearch\ncharm.\nKeyboard:\nPress the\nSearch\ncharm key.\nEnter\nnetwork computers\nin the Search field, then select\nView network computers and devices\nfrom the options that appear.\nFind your product's name and enter it into the address bar of the window. You should see\nmemorycard\nand\nusbstorage\nfolders.\nNote:\nIf you don't see your product, make sure you're connected to the same network as your product and that\nNetwork Discovery\nis installed in Windows RT.\nOpen the respective folder to access the files on the memory card or USB flash drive.\nNote:\nYou can create a shortcut to the memory card or USB flash drive in your product. To create the shortcut, right-click the\nmemorycard\nor\nusbstorage\nfolder, then select\nPin To Start\n.\nThe shortcut appears on the Start screen.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-286749?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CE84201~faq-286749",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:36.250033"
+        },
+        {
+          "question": "I am having problems using a memory card with my product. What should I do?",
+          "answer": "Check the following:\nMake sure you're using a compatible memory card.\nPictureMate recognizes and can print the first 9,990 photos on a memory card.\nPhotos must be JPEG or uncompressed TIFF format and taken with a DCF-compliant digital camera (a camera that complies with the Design rule for Camera File system).\nPictureMate can't read progressive-scan JPEG files or RAW files.\nIf you access the card from your computer and delete files, the card may not work correctly with your camera. Always delete pictures using your camera.\nIf you copy files from Adobe Photoshop to a memory card, save them as RGB images using the standard save option (non-professive). Files saved in CMYK format may not print with the colors you expect.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-286788?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CE84201~faq-286788",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:37.329298"
+        },
+        {
+          "question": "Which memory cards are compatible with my product?",
+          "answer": "See below.\nMemory Card Types\nYou can insert these types of memory cards in your product.\nNote:\nCards marked with an asterisk (*) require an adapter; consult your adapter documentation for details on using it.\nYou can insert the following cards in the memory card slot:\nSD\nSDHC\nSDXC\nminiSD*\nminiSDHC*\nmicroSD*\nmicroSDHC*\nmicroSDXC*",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-287918?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CE84201~faq-287918",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:38.465822"
+        },
+        {
+          "question": "How do I transfer photos from a memory card to my computer?",
+          "answer": "See below.\nTransferring Photos from a Memory Card to Your Computer\nYou can transfer photos to and from a memory card inserted in your product and a computer connected to your product over a wireless network.\nNote:\nYou cannot transfer photos if the product is connected to the computer using a USB cable. Do not transfer photos to and from a memory card while you are printing from the memory card.\nMake sure the product is connected to the same network as the computer.\nInsert a memory card into a memory card slot on your product.\nDo one of the following to access your memory card files from your computer:\nWindows\n: Open the\nComputer\n,\nMy Computer\n,\nWindows Explorer\n, or\nFile Explorer\nutility, then select the removable disk icon.\nOS X\n: Select the hard drive icon on your desktop or computer window, select your product in the\nSHARED\nsection of the sidebar (you may need to widen the sidebar to see the name), then select the\nMEMORYCARD\nicon.\nSelect the folder that contains your photos.\nDrag the photos you want to transfer to the desired folder on your computer or on your memory card.\nNote:\nYour product's LCD screen does not update to display new photos transferred to the memory card. Wait until the memory card access light stops flashing, then remove and insert the memory card to update the photos displayed.\nRelated tasks\nInserting a Memory Card\nRemoving a Memory Card\nViewing the Network Status",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-287921?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CE84201~faq-287921",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:39.525820"
+        },
+        {
+          "question": "Can I just pull the memory card out of my product when I'm finished printing?",
+          "answer": "No. See the following for instructions on removing the memory card.\nRemoving a Memory Card\nAfter you finish working with a memory card, check to make sure it is safe to remove it from your product.\nCaution:\nDo not remove a memory card or turn off your product while the memory card access light is flashing or you may lose data from the memory card.\nMake sure the memory card access light is not flashing.\nPull the memory card straight out of its slot.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-287920?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CE84201~faq-287920",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:40.605912"
+        },
+        {
+          "question": "How do I print from a USB flash drive or external device?",
+          "answer": "See below.\nConnecting and Using a USB Flash Drive or External Device\nBefore you connect your thumb drive or device, make sure the product is turned on but not printing.\nNote:\nEpson cannot guarantee the compatibility of your drive.\nRemove any memory cards from the product.\nLoad the paper you want to use for printing.\nInsert your USB thumb drive or the USB cable that came with your external device into the\nUSB port on the front of your product. If connecting an external CD/DVD drive, insert a CD or DVD into the drive.\nPress the\nhome button, if necessary.\nPress the arrow buttons to select\nPrint Photos\nand press the\nOK\nbutton.\nSelect\nView and Print Photos\nand press the\nOK\nbutton\nSelect the photos to print from the LCD screen.\nWhen you finish printing, make sure the access light on the drive is not flashing, then remove or disconnect it from the product.\nCaution:\nDo not remove the USB drive or turn off the product when the access light is flashing, or you may lose photos on the drive.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-287938?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CE84201~faq-287938",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:41.680440"
+        },
+        {
+          "question": "What is the largest supported memory card for my product?",
+          "answer": "See below.\nMemory Card Specifications\nNote:\nCards marked with an asterisk (*) require an adapter; consult your adapter documentation for details on using it.\nCompatible types/Maximum capacities\nSD: 2GB\nSDHC: 32GB\nSDXC: 64GB\nminiSD*: 2GB\nminiSDHC*: 32GB\nmicroSD*: 2GB\nmicroSDHC*: 32GB\nmicroSDXC*: 64GB\nVoltage requirements\n3.3 V type, dual voltage type (3.3 V and 5V); supply voltage 3.3 V\nMaximum current: 200 mA",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-287919?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CE84201~faq-287919",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:42.761974"
+        },
+        {
+          "question": "Can I read or write to my memory card when my product display indicates that one or more ink cartridges are expended?",
+          "answer": "Yes, you can read or write to a memory card when the installed ink cartridge is expended. However, you cannot read or write to a memory card if the ink cartridge is not installed.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-0000ab2-shared?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CE84201~faq-0000ab2-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:43.841524"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "How do I create a custom paper size for my product in Windows?",
+          "answer": "Do the following:\nOpen a photo or document for printing.\nSelect the print command in your application.\nNote:\nYou may need to select a print icon on your screen, the\nPrint\noption in the\nFile\nmenu, or another command. See your application's help utility for details.\nIf necessary, select your product name as the printer you want to use.\nNote:\nYou may also need to select\nProperties\nor\nPreferences\nto view your print settings.\nYou see the Main tab of your printer settings window.\nSelect\nUser-Defined\nas the Document Size. The User-Defined Paper Size window appears.\nNote:\nThis option may not be available for all paper sources.\nEnter a Paper Size Name, then select the Paper Width and Paper Height.\nClick\nSave\n, then\nOK\n.\nClick\nOK\nagain. The new size is created. You can now select the new size from the Document Size list.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-286774?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CE84201~faq-286774",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:44.911829"
+        },
+        {
+          "question": "I'm having paper feed problems. What should I do?",
+          "answer": "See below.\nPaper Feeding Problems\nIf you have problems feeding paper, try these solutions:\nIf paper does not feed for printing, remove it. Then reload it in the rear paper feed against the left side. Slide the edge guide against the edge of the paper, making sure that the paper stack is not above the arrow mark on the edge guide.\nIf multiple pages feed at once, remove the paper, fan the edges to separate the sheets, and reload it.\nIf paper jams when you print on both sides of the paper, try loading fewer sheets.\nMake sure your paper meets the specifications for your product.\nMake sure the paper size and paper type settings on the control panel are correct.\nFor best results, follow these guidelines:\nUse new, smooth, high-quality paper that is not curled, creased, old, too thin, or too thick.\nLoad paper in the rear paper feed printable side up.\nFollow any special loading instructions that came with the paper.\nRelated tasks\nLoading Paper in the Paper Feed Slot\nRelated references\nPaper Loading Capacity\nPaper Jam Problems Inside the Product",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-287914?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CE84201~faq-287914",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:44.227567"
+        },
+        {
+          "question": "Does the type of paper I use really make a difference?",
+          "answer": "The type of paper you choose affects the way your printout looks, so be sure to select the correct paper for your print job. If you are just printing a rough draft of an image, plain paper is fine. However, for the best results, you'll want to use one of Epson's special ink jet papers. For example, your photos will look great printed on\nEpson Premium Photo Paper Glossy\n.\nAvailable Epson Papers\nNote:\nPaper/media availability varies by country.\nPaper Type\nSize\nPart number\nSheet count\nPrint Pack (includes Epson Photo Paper Glossy paper and ink cartridge)\n4 × 6 inches (102 × 152 mm)\n320P\n100\nEpson Photo Paper Glossy\n4 × 6 inches (102 × 152 mm)\nS041809\nS042038\n50\n100\nEpson Premium Photo Paper Glossy\n4 × 6 inches (102 × 152 mm)\nS041808\nS041727\n40\n100\n5 × 7 inches (127 × 178 mm)\nS041464\n20\nEpson Premium Photo Paper Semi-gloss\n4 × 6 inches (102 × 152 mm)\nS041982\n40\nEpson Ultra Premium Photo Paper Glossy\n4 × 6 inches (102 × 152 mm)\nS042181\nS042174\n60\n100",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-287924?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CE84201~faq-287924",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:45.294131"
+        },
+        {
+          "question": "How should I load envelopes?",
+          "answer": "Do the following:\nLoading Paper in the Paper Feed Slot\nYou can print photos on a variety of paper types and sizes up to: 5 × 7 inches (127 × 178 mm)\nSlide the edge guide to the right.\nLoad paper, glossy or printable side up and short edge first, against the left side of the paper feed slot.\nNote:\nTo load envelopes, insert the envelopes printable side up and flap edge left.\nSlide the edge guide against the paper, but not too tightly.\nIf prompted by the product's LCD screen, select the size and type of the paper you loaded.\nAlways follow these paper loading guidelines:\nLoad only the recommended number of sheets.\nLoad paper short edge first, no matter which way your document faces.\nDo not load paper above the arrow mark inside the edge guide.\nIf you have trouble loading a stack of envelopes, press each envelope flat before loading it or load one envelope at a time.\nDo not load envelopes that are curled, folded, or too thin, or that have plastic windows.\nCheck the paper package for any additional loading instructions.\nRelated references\nPaper Loading Capacity\nPaper Specifications",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-287925?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CE84201~faq-287925",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:46.484813"
+        },
+        {
+          "question": "How do I know which paper or media type to select in my product's driver?",
+          "answer": "See the table below.\nPaper or Media Type Settings - Product Software\nFor this paper\nSelect this Paper Type or Media Type setting\nPlain paper\nPlain Paper\nEpson Ultra Premium Photo Paper Glossy\nUltra Premium Photo Paper Glossy\nEpson Premium Photo Paper Glossy\nPremium Photo Paper Glossy\nEpson Photo Paper Glossy\nPhoto Paper Glossy\nEpson Premium Photo Paper Semi-gloss\nPremium Photo Paper Semi-Gloss\nEnvelope\nEnvelope",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-287936?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CE84201~faq-287936",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:47.563240"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print",
+      "section_id": "8796158634060",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "How do I set the default print settings when I print from Windows or my Mac?",
+          "answer": "When you change your print settings from within a program, the changes apply only while you're printing with the program open. If you want to select different settings to use in all your programs, you can change the default print settings in Windows or save a preset of printer options on Mac. Follow the steps below for your operating system.\nWindows\nDo one of the following:\nWindows 10\n: Right-click\nand select\nControl Panel\n>\nHardware and Sounds\n>\nDevices and Printers\n. Right-click your product name and select\nPrinter Preferences\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows XP\n: Click\nStart\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the settings you want to use as defaults in all your Windows programs.\nClick\nOK\n.\nOS X\nOpen a document and select\nPrint\nfrom the File menu.\nMake sure your product is selected. Click the\nor the\nShow Details\nbutton to expand the Print window, if necessary.\nDefine the print settings you want to save.\nNote:\nSome options may not be able to be saved in a preset.\nClick the\nPresets\npop-up menu and select\nSave As.\nEnter a name for your preset and choose whether this preset can be used with any printer or only with the currently selected printer.\nClick\nOK\n.\nWhen you are ready to print with the preset you saved, click the\nPresets\npop-up menu, select your preset from the list, and click\nPrint\n. Once a preset has been selected, it will continue to be automatically selected in the print dialogue until another preset is selected. To go back to the original default print settings, select\nStandard\nfrom the\nPresets\npop-up menu.\nIf you don't want to create a preset and simply want to print with the last print settings you selected, select\nLast Used Settings\nin the\nPresets\npop-up menu.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-286760?faq_cat=faq-8796158634060",
+          "faq_slug": "SPT_C11CE84201~faq-286760",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:48.683567"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 9,
+      "faqs": [
+        {
+          "question": "My printout has a slight slant. What should I do?",
+          "answer": "If your printouts are slanted, try these solutions:\nSlide the edge guide against the edge of the paper.\nSelect a higher print quality setting in your printer software.\nTurn off any high speed settings in your product software.\nAlign the print head.\nMake sure the product is not printing while tilted or at an angle.\nRelated tasks\nLoading Paper in the Paper Feed Slot\nSelecting Basic Print Settings - Windows\nSelecting Basic Print Settings - OS X",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-287926?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CE84201~faq-287926",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:49.760321"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "If you notice white or dark lines in your prints (also called banding), try these solutions before you reprint:\nRun a nozzle check to see if any of the print head nozzles are clogged. Then clean the print head, if necessary.\nMake sure the paper type setting matches the type of paper you loaded.\nMake sure you loaded the printable side of the paper correctly for your product.\nTurn off any high speed settings in your product software.\nAlign the print head.\nYou may need to replace the ink cartridge.\nRelated concepts\nPrint Head Nozzle Check\nPrint Head Cleaning\nPrint Head Alignment\nRelated tasks\nLoading Paper in the Paper Feed Slot\nSelecting Additional Layout and Print Options - Windows\nSelecting Printing Preferences - OS X\nRelated references\nPaper or Media Type Settings - Product Software\nPaper Type Settings - Control Panel\nRelated information\nReplacing the Ink Cartridge",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-287927?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CE84201~faq-287927",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:50.864415"
+        },
+        {
+          "question": "My printout is grainy when I print from any application. What should I do?",
+          "answer": "If your printouts are grainy, try these solutions:\nMake sure you loaded the printable side of the paper correctly for your product.\nSelect a higher print quality setting and turn off any high speed settings in your product software.\nRun a nozzle check to see if any of the print head nozzles are clogged. Then clean the print head, if necessary.\nAlign the print head.\nYou may need to increase the image resolution or print a smaller size; see your software documentation.\nNote:\nImages from the Internet may be low resolution and not result in a high quality printout.\nIf you enlarged the image in an image-editing program, you need to increase the resolution setting to retain a high image quality. Increase the resolution by the same amount you increased the image size. For example, if the resolution is 300 dpi (dots per inch) and you will double the image size later, change the resolution setting to 600 dpi.\nNote:\nHigher resolution settings result in larger file sizes, which take longer to process and print. Consider the limitations of your computer system when selecting a resolution, and select the lowest possible resolution that produces acceptable quality to keep file sizes manageable.\nRelated concepts\nPrint Head Nozzle Check\nPrint Head Cleaning\nPrint Head Alignment\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Additional Layout and Print Options - Windows\nSelecting Basic Print Settings - OS X\nSelecting Printing Preferences - OS X",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-287929?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CE84201~faq-287929",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:52.192072"
+        },
+        {
+          "question": "My printout contains garbled characters when I print from Windows or my Mac. What should I do?",
+          "answer": "If incorrect characters appear in your prints, try these solutions before reprinting:\nMake sure any cables are securely connected at both ends.\nIn Windows, delete all jobs from the Windows Spooler. Click\nPrint Queue\non the Maintenance tab in the printer settings window, and cancel any stalled print jobs.\nIf your product is connected to a USB hub, connect it directly to your computer instead.\nIf your computer entered sleep mode the last time you printed, the next print job after your computer exits sleep mode may contain garbled characters. Print your document again.\nIf incorrect characters still appear in your prints, try connecting your product using a different cable.\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Basic Print Settings - OS X\nSelecting Page Setup Settings - OS X",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-287930?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CE84201~faq-287930",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:53.277395"
+        },
+        {
+          "question": "My printout has incorrect margins. What should I do?",
+          "answer": "If your printed page has incorrect margins, try these solutions:\nMake sure you selected the correct paper size settings in your printing program and printer software.\nMake sure you selected the correct margins for your paper size in your printing program.\nMake sure your paper is positioned correctly for feeding into the printer.\nYou can use the preview option in your printer software to check your margins before you print.\nRelated tasks\nLoading Paper in the Paper Feed Slot\nSelecting Basic Print Settings - Windows\nSelecting Basic Print Settings - OS X\nSelecting Page Setup Settings - OS X",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-287932?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CE84201~faq-287932",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:54.365904"
+        },
+        {
+          "question": "My printout looks inverted, as if viewed in a mirror. What should I do?",
+          "answer": "If your printed image is inverted unexpectedly, try these solutions:\nTurn off any mirror or inversion settings in your printing application.\nTurn off the\nMirror Image\n,\nFlip horizontally\n, or\nReverse page orientation\nsettings in your printer software. (This option has different names, depending on your operating system version.)\nNote:\nLeave these options turned on when you print on Epson Iron-on Cool Peel Transfer paper, if available for your product.\nRelated tasks\nSelecting Additional Layout and Print Options - Windows\nSelecting Basic Print Settings - OS X",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-287933?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CE84201~faq-287933",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:55.446330"
+        },
+        {
+          "question": "My printout is blurry or smeared. What should I do?",
+          "answer": "If your printouts are blurry or smeared, try these solutions:\nMake sure your paper is not damp, curled, old, or loaded incorrectly in your product.\nUse a support sheet with special paper, or load special paper one sheet at a time.\nMake sure your paper meets the specifications for your product.\nUse Epson papers to ensure proper saturation and absorption of genuine Epson inks.\nMake sure the paper type setting in your product software matches the type of paper you loaded.\nMake sure you loaded the printable side of the paper correctly for your product.\nRemove each sheet from the output tray as it is printed.\nAvoid handling printouts on glossy paper right after printing to allow the ink to set.\nTurn off any high speed settings in your product software.\nIf you print on both sides of a sheet of paper, smudges may appear on the reverse side of heavily saturated or dark images. If one side of a sheet will contain a lighter image or text, print that side first. Make sure the ink has dried before reloading the paper to print on the other side.\nRun a nozzle check to see if any of the print head nozzles are clogged. Then clean the print head, if necessary.\nAlign the print head.\nClean the paper path.\nNote:\nYour product will not operate properly while tilted at an angle. Place it on a flat, stable surface that extends beyond the base of the product in all directions.\nRelated concepts\nPrint Head Nozzle Check\nPrint Head Cleaning\nPrint Head Alignment\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Additional Layout and Print Options - Windows\nSelecting Extended Settings - Windows\nSelecting Basic Print Settings - OS X\nSelecting Printing Preferences - OS X\nCleaning the Paper Path\nLoading Paper in the Paper Feed Slot\nRelated references\nAvailable Epson Papers\nPaper Specifications",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-287928?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CE84201~faq-287928",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:56.544225"
+        },
+        {
+          "question": "My printout has incorrect colors. What should I do?",
+          "answer": "If your printouts have incorrect colors, try these solutions:\nMake sure the paper type setting matches the paper you loaded.\nMake sure the\nBlack/Grayscale\nor\nGrayscale\nsetting is not selected in your printer software.\nRun a nozzle check to see if any of the print head nozzles are clogged. Then clean the print head, if necessary.\nThe ink cartridge may be old or low on ink, and you may need to replace it.\nAfter you print, the colors in your printout need time to set as the ink dries. During this time, the colors may look different than you expect. To speed up drying time, do not stack your printouts on top of each other.\nYour printed colors can never exactly match your on-screen colors. However, you can use a color management system to get as close as possible. Try using the color management options in your printer software.\nFor best results, use genuine Epson ink and paper.\nRelated concepts\nPrint Head Nozzle Check\nPrint Head Cleaning\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Additional Layout and Print Options - Windows\nSelecting Basic Print Settings - OS X\nManaging Color - OS X\nRelated information\nReplacing the Ink Cartridge",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-287931?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CE84201~faq-287931",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:57.795145"
+        },
+        {
+          "question": "How do I reduce the appearance of red eyes in my photos?",
+          "answer": "Turn on the\nFix Red-Eye\nsetting in the printer software or from the product's control panel, if available for your product.\nNote:\nDue to the complexity and nature of some photographs, not all images can be corrected. If the Fix Red-Eye setting does not fix the photo, you need to use a software application such as Adobe Photoshop or Adobe Elements to fix it.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-00004b9-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CE84201~faq-00004b9-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:58.882774"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 10,
+      "faqs": [
+        {
+          "question": "How do I turn off Epson Status Monitor in Windows?",
+          "answer": "Do the following:\nDo one of the following:\nWindows 10\n: Right-click\nand select\nControl Panel\n>\nHardware and Sounds\n>\nDevices and Printers\n. Right-click your product name and select\nPrinter Preferences\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows XP\n: Click\nStart\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n. Right-click your printer and select\nPrinting Preferences\n.\nClick the\nMaintenance\ntab.\nClick\nExtended Settings\n.\nDeselect\nEnable EPSON Status Monitor 3\n.\nClick\nOK\nas necessary to save your settings.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-286763?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CE84201~faq-286763",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:30:59.954745"
+        },
+        {
+          "question": "Can I select a print resolution by indicating a specific dpi (dots per inch) setting?",
+          "answer": "No. The print resolution is determined by other driver settings.\nWindows\nThe\nQuality\nand\nPaper Type\nsettings determine the print resolution.\nOS X\nThe\nMedia Type\nand\nPrint Quality\nsettings determine the print resolution.\nNote:\nTo access the resolution settings in OS X, select\nPrint\nfrom the File menu. Then select\nPrint Settings\nfrom the pop-up menu.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-286780?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CE84201~faq-286780",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:31:01.028703"
+        },
+        {
+          "question": "I tried installing my product's software using a USB connection but cannot complete the installation in Windows or on my Mac. What should I do?",
+          "answer": "Before reinstalling the software, check for the following:\nMake sure the product is not connected to your computer. You must connect the product to your computer at the correct time to make sure the driver is installed correctly on your computer.\nMake sure your system meets the requirements.\nMake sure all applications (including any screen savers, virus protectors, and firewall software) are closed.\nMake sure you have administrative rights or software installation privileges to your computer, if necessary.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-286787?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CE84201~faq-286787",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:31:02.099759"
+        },
+        {
+          "question": "How do I connect my product with a Wi-Fi connection to a computer or another device without using a wireless router or access point?",
+          "answer": "You can enable Wi-Fi Direct mode to allow direct communication between your product and computer or other devices without a wireless router or access point.\nPress the\nhome button, if necessary.\nPress the arrow buttons to select\nWi-Fi Setup\nand press the\nOK\nbutton. You see this screen:\nSelect\nWi-Fi Direct\nand press the\nOK\nbutton.\nPress the\nOK\nbutton again to proceed.\nPress the down arrow button to change the password.\nNote:\nIf you have already connected devices or computers to your product via Wi-Fi Direct, they will be disconnected when you change the password.\nSelect\nYes\nand press the\nOK\nbutton.\nEnter your new Wi-Fi Direct password.\nNote:\nYour password must be at least 8 and no more than 22 characters long.\nPress the arrow buttons to highlight a character or a function button displayed on the keypad. Then press the\nOK\nbutton to select it.\nTo change the case of letters or select symbols, select\nAB12\n(uppercase),\nab12\n(lowercase), or\nSymbol\nand press the\nOK\nbutton.\nTo enter a space, select\nSpace\nand press the\nOK\nbutton.\nTo delete characters, select the back arrow and press the\nOK\nbutton.\nWhen you finish entering characters, select\nDone\nand press the\nOK\nbutton.\nPress the down arrow button to view the Wi-Fi network name and password you selected.\nUse your computer or wireless device to select the Wi-Fi network name (SSID) displayed on the LCD screen, then enter the password shown.\nPress the\nOK\nbutton to exit. You see either an\nAP\nor\nDirect\nconnection symbol on the LCD screen and should be able to print directly to your product from your computer or device.\nNote:\nIf the\nAP\nor\nDirect\nconnection symbol is not displayed on the LCD screen, Wi-Fi Direct mode is not enabled. Repeat these steps to try again.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-287912?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CE84201~faq-287912",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:31:03.186943"
+        },
+        {
+          "question": "How do I set up my product with a WPS-enabled router or access point?",
+          "answer": "If you have a WPS-enabled wireless router or access point, you can use Wi-Fi Protected Setup (WPS) to connect your product to the network.\nOn the product, press the\nhome button, if necessary.\nPress the arrow buttons to select\nWi-Fi Setup\nand press the\nOK\nbutton.\nPress the\nOK\nbutton to select\nWi-Fi (Recommended)\n.\nPress the\nOK\nbutton again to proceed.\nSelect\nPush Button Setup (WPS)\nand press the\nOK\nbutton.\nFollow the instructions on the LCD screen to complete WPS setup. Your product should now display a WiFi symbol on the LCD screen. If it does not, repeat these steps to try again.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-287913?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CE84201~faq-287913",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:31:04.272938"
+        },
+        {
+          "question": "How do I restore my product's default settings?",
+          "answer": "See below.\nResetting Control Panel Defaults\nIf you have a problem with settings on the product control panel, you can reset them to their factory defaults. You can choose which settings to reset or reset them all.\nPress the\nhome button, if necessary.\nPress the arrow buttons to select\nSetup\nand press the\nOK\nbutton.\nSelect\nRestore Default Settings\nand press the\nOK\nbutton.\nSelect one of these options:\nNetwork Settings\n: Resets all network settings.\nAll Except Network Settings\n: Resets all control panel settings, except for network settings.\nAll Settings\n: Resets all control panel settings.\nYou see a confirmation screen.\nSelect\nYes\nto reset the selected settings. (Select\nNo\nif you want to cancel the operation.)",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-287934?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CE84201~faq-287934",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:31:05.371946"
+        },
+        {
+          "question": "How do I uninstall the Epson printer software?",
+          "answer": "Follow the instructions below for your operating system.\nUninstalling Printing Software - Windows\nYou can uninstall and then re-install your printer software to solve certain problems.\nTurn off the product.\nDisconnect any interface cables.\nDo one of the following:\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nPrograms\n>\nPrograms and Features\n. Select the uninstall option for your Epson product, then select\nUninstall/Change\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nIn the next window, select your product, if necessary, and click\nOK\n. Then follow any on-screen instructions.\nWindows (other versions)\n: Click\nor\nStart\n, and select\nAll Programs\nor\nPrograms\n. Select\nEpson\n, select your product, then click\nEPSON Printer Software Uninstall\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nIn the next window, select your product, if necessary, and click\nOK\n. Then follow any on-screen instructions.\nRestart your computer, then re-install your software.\nNote:\nIf you find that re-installing your product software does not solve a problem, contact Epson.\nUninstalling Product Software - OS X\nIn most cases, you do not need to uninstall your product software before re-installing it. However, you can download the Uninstaller utility from the Epson support website to uninstall your product software as described here.\nNote:\nIf you find that re-installing your product software does not solve a problem, contact Epson.\nTo download the Uninstaller utility, visit the Downloads tab for your product.\nFollow the instructions on the screen to install the Uninstaller utility.\nQuit all applications currently running on your Mac.\nDouble-click the\nUninstaller\nicon.\nSelect the checkbox for each software program you want to uninstall.\nClick\nUninstall\n.\nFollow the on-screen instructions to uninstall the software.\nTo reinstall your product software, see the Start Here sheet for instructions.\nNote:\nIf you uninstall the printer driver and your product name remains in the\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\nwindow, select your product name and click the\n–\n(remove) icon to remove it.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-287940?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CE84201~faq-287940",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:31:06.436876"
+        },
+        {
+          "question": "How do I change the Power Off and Sleep Timer setting?",
+          "answer": "See below.\nChanging the Power and Sleep Timer Settings - Windows\nYou can use the printer software to change the time period before the product enters sleep mode or turns off automatically.\nMake sure your product is turned on.\nAccess the Windows Desktop and right-click the product icon in the Windows taskbar.\nSelect\nPrinter Settings\n.\nClick the\nMaintenance\ntab.\nClick the\nPrinter and Option Information\nbutton. You see this screen:\nTurn on the\nAuto Power On\nsetting if you want the product to automatically turn on when it receives a print job.\nNote:\nThis setting works with print jobs sent over a USB or network connection. Enabling this setting slightly increases the product's power consumption in standby mode.\nClick\nSend\n.\nSelect the length of time after which you want the product to automatically turn off when it is not in use as the\nPower Off Timer\nsetting.\nClick\nSend\n.\nSelect the time period you want before the product goes to sleep as the\nSleep Timer\nsetting.\nClick\nSend\n.\nClick\nOK\nto close the open program windows.\nChanging the Power and Sleep Timer Settings - OS X\nYou can use the printer software to change the time period before the product enters sleep mode or turns off automatically.\nMake sure your product is turned on.\nIn the Apple menu or the Dock, select\nSystem Preferences\n. Select\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n, select your product, and select\nOptions & Supplies\n. Select\nUtility\nand select\nOpen Printer Utility\n.\nSelect\nPrinter Settings\n. You see this window:\nTurn on the\nAuto Power On\nsetting if you want the product to automatically turn on when it receives a print job.\nNote:\nThis setting works with print jobs sent over a USB or network connection. Enabling this setting slightly increases the product's power consumption in standby mode.\nClick\nSend\n.\nSelect the length of time after which you want the product to automatically turn off when it is not in use as the\nPower Off Timer\nsetting.\nSelect the time period you want before the product goes to sleep as the\nSleep Timer\nsetting.\nClick\nApply\n.\nClose the Printer Settings window.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-287941?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CE84201~faq-287941",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:31:07.544499"
+        },
+        {
+          "question": "How do I set up my product for wireless printing in Windows or on my Mac?",
+          "answer": "You need to know your network name (SSID) and network password before setting up your product on your wireless network. If you don't know your network name (SSID) and network password, contact the person who set up your network.\nYou can also view helpful how-to videos on the Videos tab for your product.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-286764?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CE84201~faq-286764",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:31:08.666868"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "The following options are available:\nYou can use Epson Software Updater (which is installed the first time you install the printer driver) to notify you when new updates are available for download. Software Updater analyzes the Epson software (drivers, utilities, firmware, etc.) installed on your computer and product, and notifies you if new updates are available for download.\nIf you've already installed a Windows printer driver, you can update the driver by selecting\nSoftware Update\non the Maintenance tab in the printer driver settings window.*\nIf you're using a Mac, update the driver by doing one of the following:\nOS X 10.10\n,\nOS X 10.11\n,\nmacOS 10.12.x\n, or\nmacOS 10.13.x\n: Open the\nmenu and select\nApp Store\n>\nUpdates\n.\nOS X (other versions)\n: Open the\nmenu and select\nSoftware Update\n.\nYou can download the software from the Downloads tab for your product.\n*This option may not be available in all drivers.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-0000aff-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CE84201~faq-0000aff-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:31:09.810949"
+        },
+        {
+          "question": "Where can I find the IP address of my router?",
+          "answer": "Most wireless routers have a default IP address that can usually be found in the router's documentation.\nFor more support on your router, contact the manufacturer of your router.\nYou can also print a network status sheet from your printer's control panel to find your router's IP address.\nNote:\nThe network status sheet will list your router’s IP address only if you have set up your printer with a network connection to the router. If you print a network status sheet before setup, the router's IP address will not be listed on the network status sheet.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-00004c0-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CE84201~faq-00004c0-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:31:10.914494"
+        },
+        {
+          "question": "I can't get Epson Status Monitor to work over my wireless network. What should I do?",
+          "answer": "If the product is not shared, make sure it is connected to the network wirelessly. Try moving your product or computer to a different location within range of your wireless network. Avoid placing the computer, product, or wireless access point near microwaves, cordless telephones, or other sources of wireless interference.\nIf the product is set up as a shared printer, Epson Status Monitor will not work and is not supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-00004c7-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CE84201~faq-00004c7-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:31:11.988285"
+        },
+        {
+          "question": "I see the message Unable to connect to the server. Please try again later. when I try to install the Drivers and Utilities Combo Package Installer. What should I do?",
+          "answer": "Make sure your computer has an Internet connection and try installing the software again. If the same message appears, then do the following:\nGo to the Downloads tab on your product's support page.\nDownload and save the Drivers and Utilities Combo Package Installer to your computer.\nMake a note of the file name and save the location so you can easily retrieve it.\nRight-click the file and select\nRun as Administrator\n.\nThe software should install.\nNote:\nYou can also try to install the drivers and utilities individually.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-000094f-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CE84201~faq-000094f-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:31:13.089549"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CE84201~faq-00004dc-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:31:14.171304"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CE84201~faq-0000f4b-shared",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:31:15.273500"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CE84201~faq-0000f4c-shared",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:31:14.580914"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CE84201~faq-0000f4d-shared",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:31:15.681327"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Wireless or Wired Connection",
+      "section_id": "8796127635532",
+      "section_order": 11,
+      "faqs": [
+        {
+          "question": "How do I connect my product to my wireless network using my product's control panel?",
+          "answer": "See below.\nSelecting Wireless Network Settings from the Control Panel\nYou can select or change wireless network settings using your product control panel.\nTo install your product on a wireless network, follow the instructions on the\nStart Here\nsheet and install the necessary software. The installer program guides you through network setup.\nPress the\nhome button, if necessary.\nPress the arrow buttons to select\nWi-Fi Setup\nand press the\nOK\nbutton. You see this screen:\nPress the\nOK\nbutton to select\nWi-Fi (Recommended)\n.\nPress the\nOK\nbutton again to proceed.\nSelect\nWi-Fi Setup Wizard\nand press the\nOK\nbutton.\nPress the arrow buttons to select the name of your wireless network and press the\nOK\nbutton. If you do not see your wireless network's name, you can enter it manually.\nNote:\nTo enter the wireless network name manually, select\nOther Networks\nand press the\nOK\nbutton. Enter your network name as described in the next step.\nIf you see the following screen, enter your wireless password (or network name and then password).\nPress the arrow buttons to highlight a character or a function button displayed on the keypad. Then press the\nOK\nbutton to select it.\nTo change the case of letters or select symbols, select\nAB12\n(uppercase),\nab12\n(lowercase), or\nSymbol\nand press the\nOK\nbutton.\nTo enter a space, select\nSpace\nand press the\nOK\nbutton.\nTo delete characters, select the back arrow and press the\nOK\nbutton.\nWhen you finish entering characters, select\nDone\nand press the\nOK\nbutton.\nPress the\nOK\nbutton to confirm Wi-Fi settings.\nIf you want to print a network status report, press the\nstart button. (Otherwise, press the\nOK\nbutton.) Your product should now be connected to the network.\nNote:\nIf the Wi-Fi connection symbol is not lit or does not appear on the LCD screen, you may have selected the wrong network name or entered the password incorrectly. Repeat these steps to try again.\nRelated information\nChanging or Updating Network Connections",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-287923?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CE84201~faq-287923",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:31:16.765512"
+        },
+        {
+          "question": "How do I change from a USB connection to a Wi-Fi connection?",
+          "answer": "See below.\nChanging a USB Connection to a Wi-Fi Connection\nIf you have already connected your product to your computer using a USB connection, you can change to a Wi-Fi connection.\nDisconnect the USB cable from your product.\nUninstall your product software.\nDownload and install your product software from the Epson website using the instructions on the Start Here sheet.\nRelated concepts\nUninstall Your Product Software",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-287922?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CE84201~faq-287922",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:31:17.850248"
+        },
+        {
+          "question": "How do I find my SSID and network password?",
+          "answer": "Check your router documentation for this information. Most routers have a default SSID and password that can be modified once the router is set up.\nNote:\nThe SSID is the name of the wireless network that is set up on your router or access point.\nIf you don't know this information, you'll need to contact the manufacturer of your router or the person who set up your network.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-0000ae9-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CE84201~faq-0000ae9-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:31:18.957798"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 12,
+      "faqs": [
+        {
+          "question": "How should I transport or store my product?",
+          "answer": "Whenever you transport your product, prepare it as described here.\nCaution:\nObserve the following precautions when transporting the product: Avoid tilting the product, placing it vertically, or turning it upside down; otherwise ink may leak. Leave the ink cartridge installed. Removing the cartridge can dry out the print head and may prevent the product from printing. Avoid strong impacts which may damage the product. Do not leave the product in direct sunlight, near heat sources, or inside cars or other hot locations. The product may be deformed or ink may leak.\nPress the\npower button to turn off the product.\nMake sure the green power light on the front of the product is turned off and then unplug the power cord.\nCaution:\nMake sure the power light is off before unplugging the power cord; otherwise, the print head may not return to the home position. This can cause the print head to dry out and may prevent the product from printing.\nRemove all the paper.\nRemove any memory cards inserted in the product.\nDisconnect any connected cables.\nClose the LCD screen, cover, and output tray.\nPlace the product in a bag if traveling a short distance, or in its original packaging materials (or equivalent packing materials) when transporting the product a long distance.\nIf print quality has declined when you print again, clean and align the print head.\nRelated concepts\nPrint Head Maintenance\nPrint Head Alignment\nRelated tasks\nRemoving a Memory Card",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-287915?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CE84201~faq-287915",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:31:20.051852"
+        },
+        {
+          "question": "My product makes noise after I turn it on or after it has been sitting for a while. What should I do?",
+          "answer": "This is normal. It is performing routine maintenance.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-000096b-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CE84201~faq-000096b-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:31:21.428019"
+        },
+        {
+          "question": "My product will not wake up when I try to print with a wireless connection. What should I do?",
+          "answer": "Turn the product off and on. If you can print now, the problem is related to your wireless router. Contact the manufacturer of your router for assistance or try using a different router.\nIf you cannot print after turning the product off and on, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-00004c8-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CE84201~faq-00004c8-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:31:22.520915"
+        },
+        {
+          "question": "Why doesn't Epson include a USB or Ethernet cable in the box with the product?",
+          "answer": "We are committed to giving our customers the best value possible with every product we sell. To provide high-quality products with the latest technology and sell them at the most competitive prices, it is critical to choose which components are necessary and which may be redundant. Because many of our customers already own USB or Ethernet cables, it makes good sense to eliminate the costs of including a cable in every box and use those savings to improve product features and lower the cost to you, the consumer.\nNote:\nNot all products support an Ethernet interface.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-0000490-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CE84201~faq-0000490-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:31:23.636876"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CE84201~faq-00004b0-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:31:24.774091"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CE84201~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CE84201~faq-0000f4a-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-PM-400/s/SPT_C11CE84201",
+          "fetched_at": "2026-04-02T04:31:25.953425"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

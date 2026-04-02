@@ -1,0 +1,615 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "All-In-Ones",
+  "series": "Epson Stylus Series",
+  "model": {
+    "name": "Epson Stylus CX6600",
+    "sku": "SPT_C11C578001",
+    "url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "You can download the latest product driver from the Downloads section of this website.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-0000afb-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C578001~faq-0000afb-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:12:49.853043"
+        },
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-0000ad0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C578001~faq-0000ad0-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:12:50.716034"
+        },
+        {
+          "question": "Can I use hole-punched paper with my product?",
+          "answer": "No. The product does not support this paper type.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-0000ab4-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C578001~faq-0000ab4-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:12:51.593960"
+        },
+        {
+          "question": "How do I change the font size of text when I print from software in Windows?",
+          "answer": "You need to select the text or font size in the software you are printing from, not the printer driver. For detailed instructions, contact the company for the application you are printing from.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-00004b7-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C578001~faq-00004b7-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:12:52.607747"
+        },
+        {
+          "question": "Can the Epson ink cartridges be refilled or can I use third-party ink cartridges without voiding the warranty?",
+          "answer": "Epson does not recommend refilling or using other brands of ink cartridges.  Epson uses a permanent Micro Piezo print head that has allowed Epson to lead the industry in delivering consistent photo image quality by using variable-sized droplets.  Micro Piezo print head can also use a wider variety of inks, which has allowed Epson to introduce such ink breakthroughs as DURABrite® and Epson UltraChrome® inks that offer greatly improved humidity resistance, smudge resistance, and fade resistance.\nUsing refilled ink cartridges will not void the product's original warranty; however, if these products cause a failure, the repair of that failure will not be covered under warranty.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-0000bf9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C578001~faq-0000bf9-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:12:53.549655"
+        },
+        {
+          "question": "Does OS X support manual duplex printing with my product?",
+          "answer": "This feature is not supported in Mac OS X. However, if your printer has a built-in automatic duplexer, auto-duplexing is supported in Mac OS X 10.6 (Snow Leopard).",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-0000c1d-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C578001~faq-0000c1d-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:12:54.454686"
+        },
+        {
+          "question": "When I try to print to my product in Windows 7, printing is slow or my product stops printing. What should I do?",
+          "answer": "Try the following:\nSelect a lower quality setting in the printer software.\nMake sure your system meets the minimum system requirements for your printer.\nClose the\nDevices and Printers\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-0000bf3-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C578001~faq-0000bf3-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:12:55.312399"
+        },
+        {
+          "question": "Web pages don't print the way they appear on my monitor. What should I do?",
+          "answer": "The pages may not print correctly due to the web page design. Try the following:\nCheck for a\nPrinter-friendly Version\n(or similarly named) option on the web page.\nChange the page setup and paper size settings, and select the preview option in your browser to check the changes before you print.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-00004b8-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C578001~faq-00004b8-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:12:56.175565"
+        },
+        {
+          "question": "I can't scan multiple document pages into a single PDF. What should I do?",
+          "answer": "If you are using the Scanner Driver and Epson Scan Utility v2.92a or earlier, the ability to scan multiple pages to a single PDF is not supported. This feature is supported when using the Scanner Driver (which is sometimes shown as TWAIN Driver) and Epson Scan Utility v3.04a or higher. Check your product's Downloads tab to make sure you're using the latest version.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-0000963-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C578001~faq-0000963-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:12:57.020480"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C578001~faq-00004b0-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:12:57.884526"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "How do I print on envelopes with my product?",
+          "answer": "See\nPrinting on Envelopes\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-46348?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C578001~faq-46348",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:12:58.890667"
+        },
+        {
+          "question": "When I try to print to my product in Windows 7, printing is slow or my product stops printing. What should I do?",
+          "answer": "Try the following:\nSelect a lower quality setting in the printer software.\nMake sure your system meets the minimum system requirements for your printer.\nClose the\nDevices and Printers\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-0000bf3-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C578001~faq-0000bf3-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:12:59.790976"
+        },
+        {
+          "question": "Does OS X support manual duplex printing with my product?",
+          "answer": "This feature is not supported in Mac OS X. However, if your printer has a built-in automatic duplexer, auto-duplexing is supported in Mac OS X 10.6 (Snow Leopard).",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-0000c1d-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C578001~faq-0000c1d-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:01.220292"
+        },
+        {
+          "question": "It takes a long time to copy a document. What should I do?",
+          "answer": "Try the following:\nSelect\nB&W\nas the copy type.\nSelect\nWith Border\nas the layout type.*\nMake sure\n2-Sided Printing\nis turned off.*\nSelect\nPlain Paper\nas the paper type.\nSelect\nDraft\nor\nStandard\nas the quality type.\nMake sure\nDry Time\nis set to\nStandard\n.*\n* This step may not apply to your all-in-one.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-151077?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C578001~faq-151077",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:02.276412"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Fax",
+      "section_id": "8796125866060",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "Can I fax multiple pages at once with my product?",
+          "answer": "No. The CX6600 faxes a single page at a time.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-46363?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11C578001~faq-46363",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:07.305978"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Image Quality or Appearance",
+      "section_id": "8796127275084",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "The edges of my original do not scan. What should I do?",
+          "answer": "Make sure you've placed your document correctly on the scanner glass. See\nEdges of the document are not scanned\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-46331?faq_cat=faq-8796127275084",
+          "faq_slug": "SPT_C11C578001~faq-46331",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:08.531875"
+        },
+        {
+          "question": "What's the best way to resize images if I want to scan them and make them larger?",
+          "answer": "If you plan to enlarge your image, it is better to enlarge it when you're scanning rather than in your application. Each time you modify an image, you lose some quality.  Keep in mind when you enlarge a small photo, such as a 35 mm slide or wallet-size photo, you'll need to scan at a high enough resolution to retain your image quality, but not so high that your file size is too large to be efficient.  You must manually adjust the resolution (dpi) to maintain the same image quality when you resize your image. For example, if you have a 300 dpi 2 x 2-inch image that you want to enlarge to 4 x 4 inches (a factor of 200%), increase the Scale setting to 200%.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-46350?faq_cat=faq-8796127275084",
+          "faq_slug": "SPT_C11C578001~faq-46350",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:09.620733"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "A color ink cartridge is expended even though I print in black only. Why does this happen?",
+          "answer": "To keep the print head clear and ready to print, the printer uses a small amount of ink from all the cartridges whenever it prints.   Even if you select\nBlack ink Only\n, some color ink is still being used.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-46293?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C578001~faq-46293",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:10.653781"
+        },
+        {
+          "question": "How do I change the ink cartridges?",
+          "answer": "See\nReplacing an Ink Cartridge\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-46298?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C578001~faq-46298",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:11.762498"
+        },
+        {
+          "question": "How can I check to see how much ink is left?",
+          "answer": "See\nChecking the Ink Supply\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-46346?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C578001~faq-46346",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:12.822031"
+        },
+        {
+          "question": "Which ink cartridges should I use with my product?",
+          "answer": "You can use the following cartridges.\nInk cartridge\nPart number\nBlack (high capacity)\nT0431\nBlack (standard capacity)\nT0441\nCyan\nT0442\nMagenta\nT0443\nYellow\nT0444\nNote:\nThe availability of black ink cartridge types varies by location. The high-capacity black ink cartridges are recommended as replacement cartridges for users who print frequently. Users who print infrequently may want to choose the standard capacity black ink cartridge. The CX6600 comes with the high-capacity black ink cartridge.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-46364?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C578001~faq-46364",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:13.871121"
+        },
+        {
+          "question": "How long should an ink cartridge remain in my product if it's not used often?",
+          "answer": "When an installed ink cartridge is more than six months old, you may need to replace it if you notice that your printouts don't look as good as they used to and quality doesn't improve after cleaning and aligning the print head.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-46366?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C578001~faq-46366",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:14.920896"
+        },
+        {
+          "question": "Can the Epson ink cartridges be refilled or can I use third-party ink cartridges without voiding the warranty?",
+          "answer": "Epson does not recommend refilling or using other brands of ink cartridges.  Epson uses a permanent Micro Piezo print head that has allowed Epson to lead the industry in delivering consistent photo image quality by using variable-sized droplets.  Micro Piezo print head can also use a wider variety of inks, which has allowed Epson to introduce such ink breakthroughs as DURABrite® and Epson UltraChrome® inks that offer greatly improved humidity resistance, smudge resistance, and fade resistance.\nUsing refilled ink cartridges will not void the product's original warranty; however, if these products cause a failure, the repair of that failure will not be covered under warranty.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-0000bf9-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C578001~faq-0000bf9-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:16.009892"
+        },
+        {
+          "question": "Can the printer still print if an ink cartridge is expended or not installed?",
+          "answer": "No. The printer will not operate if any cartridge is expended or removed. It's best to always have extra cartridges on hand.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-000051b-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C578001~faq-000051b-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:17.128876"
+        },
+        {
+          "question": "I brought my product with me to a different country and can't find ink for it. What should I do?",
+          "answer": "Some Epson printers and ink cartridges are specific to a regional market and not sold worldwide, although the same printers are sold in the U.S. and Canada. If you have a printer sold in the U.S. or Canada, you may not be able to easily get ink cartridges for it in foreign markets.\nUnfortunately, because of customs and tax regulations, the Epson E-Stores in the U.S. and Canada are unable to ship to addresses outside the U.S. and Canada.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-0000956-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C578001~faq-0000956-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:18.219447"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "I'm having paper feed problems. What should I do?",
+          "answer": "See\nPaper Does Not Feed Correctly\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-46324?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C578001~faq-46324",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:19.275021"
+        },
+        {
+          "question": "Does the type of paper I use really make a difference?",
+          "answer": "The CX6600 will work with a variety of papers and media. However, we recommend using Epson media for the best results.\nEpson Matte Paper Heavyweight\nand\nEpson DuraBrite Ink Glossy Photo Paper\nhave been developed to produce the highest-quality output with DuraBrite inks. For optimum image quality and longest print life (up to 70 years), print your photos with\nEpson Matte Paper Heavyweight\n.\nOther brands of paper may not work as well with DuraBrite inks. They will not have the longevity of Epson's long-lasting media and may produce lower-quality images. The ink also may not dry properly.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-46347?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C578001~faq-46347",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:20.344434"
+        },
+        {
+          "question": "Can I use sheet labels with my product?",
+          "answer": "Yes, Epson makes\nPhoto Quality Self Adhesive Sheets\n. To avoid paper jams, load only one sheet at a time. Also, set the\nType\nor\nMedia Type\nsetting in the driver to\nMatte Paper - Heavyweight\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-46361?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C578001~faq-46361",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:21.399418"
+        },
+        {
+          "question": "Can I use hole-punched paper with my product?",
+          "answer": "No. The product does not support this paper type.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-0000ab4-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C578001~faq-0000ab4-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:22.429387"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "When I print, my product cuts off some of the characters on the right side of the page. What should I do?",
+          "answer": "In some older applications you can resolve character clipping by enabling fractional character widths.  Do the following:\nAppleWorks:\nOpen your document.\nClick\nEdit\n, then\nPreferences\n.\nTopic should be set to\nText\n.\nBelow Options, check\nFractional Character Widths\n.\nClick\nOK\nto print the document.\nWhen the file is saved, the setting will be saved with it.\nMicrosoft Word 98\nOpen your document.\nClick\nTools\n, then\nPreferences\n.\nClick the Print tab.\nBelow options for current document only, select\nFractional Widths\n.\nClick\nOK\nto print the document.\nWhen the file is saved, the setting will be saved with it.\nWordPerfect\nClick\nFile\nthen\nPage Setup\n.\nBelow Options, make sure Fractional Character Widths is\nON\n.\nWhen other Macintosh programs are affected, you can also try to disable\nSmooth all fonts on screen\n.\nClick\nApple\n,\nControl Panel\n, then\nAppearance\n.\nClick\nFont\n, then disable\nSmooth all fonts on screen\n.\nClose Appearance then restart and try printing again.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-162968?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C578001~faq-162968",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:23.472914"
+        },
+        {
+          "question": "The quality of my printed output is unacceptable. What should I do?",
+          "answer": "See\nPrint Quality Problems\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-46326?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C578001~faq-46326",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:24.507053"
+        },
+        {
+          "question": "The quality of a scanned image is poor. What should I do?",
+          "answer": "See\nQuality Problems\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-46332?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C578001~faq-46332",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:25.596344"
+        },
+        {
+          "question": "My product is printing blank pages from Windows or my Mac. What should I do?",
+          "answer": "If pages are coming out blank, the problem could be due to a software setting or the CX6600's condition. See\nBlank pages print\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-46330?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C578001~faq-46330",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:26.670367"
+        },
+        {
+          "question": "My printout has incorrect margins. What should I do?",
+          "answer": "If margins are incorrect, the problem could be due to a software setting or the paper may be loaded incorrectly. Make sure your paper is loaded against the right side of the sheet feeder and then slide the left edge guide against the paper. See\nIncorrect margins\n.\nIf you're printing from a web browser, the pages may not print correctly due to the web page design. Check to see if there is a\nPrinter Friendly Version\n(or similarly named) icon or link on the web page that you can click on. If not, experiment with page setup and paper size, then select\nPrint Preview\nfrom the\nFile\nmenu in your application to view the changes.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-46328?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C578001~faq-46328",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:27.751478"
+        },
+        {
+          "question": "The printout has a slight slant. What should I do?",
+          "answer": "Make sure the original document is aligned with the edges of the scanner glass (but leave a 1/8-inch gap between the document and the top and side edges of the scanner glass).",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-46333?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C578001~faq-46333",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:28.904846"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "See\nVertical misalignment or banding\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-46335?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C578001~faq-46335",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:29.962421"
+        },
+        {
+          "question": "My printout contains garbled characters when I print from my computer. What should I do?",
+          "answer": "If you see incorrect or garbled characters, the problem could be due to a software setting. See\nIncorrect or garbled characters\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-46338?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C578001~faq-46338",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:31.052843"
+        },
+        {
+          "question": "My printout is blurry or smeared. What should I do?",
+          "answer": "If your printout is blurry or smeared, the problem could be due to a software setting, the CX6600's setup or condition, or your paper's condition. See\nBlurry or smeared printout\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-46336?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C578001~faq-46336",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:32.137107"
+        },
+        {
+          "question": "My printout is grainy when I print from any application. What should I do?",
+          "answer": "If the printout is grainy, try one or more of the following suggestions:\nUse a higher quality paper.\nSelect a higher print quality setting in the printer software settings.\nAlign the print head\n.\nIncrease the image resolution or print it in a smaller size.\nMake sure the paper thickness lever is set to the correct position.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-46339?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C578001~faq-46339",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:33.173425"
+        },
+        {
+          "question": "My printout has incorrect or missing colors. What should I do?",
+          "answer": "If colors are incorrect or missing, the problem could be due to a software setting or the CX6600's condition. See\nIncorrect or missing colors\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-46337?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C578001~faq-46337",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:34.286468"
+        },
+        {
+          "question": "Web pages don't print the way they appear on my monitor. What should I do?",
+          "answer": "The pages may not print correctly due to the web page design. Try the following:\nCheck for a\nPrinter-friendly Version\n(or similarly named) option on the web page.\nChange the page setup and paper size settings, and select the preview option in your browser to check the changes before you print.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-00004b8-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C578001~faq-00004b8-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:35.391582"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Scan",
+      "section_id": "8796127569996",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "I am unable to scan from my computer. What should I do?",
+          "answer": "Try the following:\nMake sure your CX6600 is turned on and securely connected to your computer or USB hub.\nIf your CX6600 is connected to a USB hub, make sure it's connected to a first tier hub. The first tier hub is the hub closest to the host computer when more than one hub is connected to the computer.\nCheck to make sure no lights are flashing on the device. You cannot scan when any light is flashing.\nTry restarting your computer.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-46295?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11C578001~faq-46295",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:36.650877"
+        },
+        {
+          "question": "How do I decide which resolution to select when scanning from Epson Scan?",
+          "answer": "The best scanning resolution depends on the purpose of the scan. If you are enlarging your image, you must increase the resolution (dpi) proportionally to maintain the resolution of your original.\nHigher resolution settings result in larger file sizes. For example, an 8.5 x 11-inch original scanned at 300 dpi can produce a 24MB file. The same original scanned at 72 dpi creates only a 1.3MB file. Large files take longer to process and print, so consider the practical limitations of your computer system when selecting a resolution. To keep your file size manageable, select the lowest possible resolution that gives acceptable quality.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-46299?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11C578001~faq-46299",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:37.937518"
+        },
+        {
+          "question": "What scanning resolution should I use to get the best results when I print the scanned image?",
+          "answer": "When you use the scanner buttons and EPSON Smart Panel, the software selects the best settings automatically. Here are some recommended settings for different types of scans.\nImage type\nRecommended image type\nScanning resolution for printing\nPhotograph\nColor photo\n300 dpi\nSmall photograph to be enlarged\nColor photo\n300 dpi to 2400 dpi\nMagazine\nColor photo\n300 dpi\nNewspaper (text only)\nText (background removal)\n400 dpi\nText for OCR\nText (background removal)\n400 dpi\nText with images\nColor document\n400 dpi\nLine art\nLine art\n300 to 2400 dpi\nNote:\nIf your final file is for on-screen viewing (for example, on a web page or in an e-mail message), select 96 dpi for your resolution. If you are enlarging your image, you must manually increase the resolution (dpi) proportionally to maintain the resolution of your original.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-46351?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11C578001~faq-46351",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:38.979059"
+        },
+        {
+          "question": "Can I scan if an ink cartridge is expended in the product?",
+          "answer": "You can scan from your computer with Epson Scan, but you can't copy or scan from the product's control panel.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-0000bf4-shared?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11C578001~faq-0000bf4-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:40.027892"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "I'm having problems installing the software. What should I do?",
+          "answer": "Did you close all other applications, including any screen savers? You may need to\nuninstall the printer software\nand\nuninstall Epson Scan\n, then\nreinstall the software\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-46294?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C578001~faq-46294",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:41.111858"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "You can download the latest product driver from the Downloads section of this website.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-0000afb-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C578001~faq-0000afb-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:42.162223"
+        },
+        {
+          "question": "I can't scan multiple document pages into a single PDF. What should I do?",
+          "answer": "If you are using the Scanner Driver and Epson Scan Utility v2.92a or earlier, the ability to scan multiple pages to a single PDF is not supported. This feature is supported when using the Scanner Driver (which is sometimes shown as TWAIN Driver) and Epson Scan Utility v3.04a or higher. Check your product's Downloads tab to make sure you're using the latest version.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-0000963-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C578001~faq-0000963-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:43.175887"
+        },
+        {
+          "question": "How do I change the font size of text when I print from software in Windows?",
+          "answer": "You need to select the text or font size in the software you are printing from, not the printer driver. For detailed instructions, contact the company for the application you are printing from.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-00004b7-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C578001~faq-00004b7-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:44.256961"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C578001~faq-00004dc-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:45.302926"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C578001~faq-0000f4b-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:46.393463"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C578001~faq-0000f4c-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:47.432499"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Wireless or Wired Connection",
+      "section_id": "8796127635532",
+      "section_order": 9,
+      "faqs": [
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-0000ad0-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11C578001~faq-0000ad0-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:48.499216"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 10,
+      "faqs": [
+        {
+          "question": "When printing in Windows, how can I prevent an extra page from being ejected after every print job?",
+          "answer": "The Separator Page function may be enabled. Follow these steps to disable it:\nClick\nStart\nor\n.\nDo one of the following:\nWindows XP\n:\nSelect\nPrinters and Faxes\n(or select\nSettings\n, then select\nPrinters and Faxes\n).\nWindows Vista\n:\nSelect\nControl Panel\n, then\nPrinter\nor\nPrinters\nunder Hardware and Sound\n.\nWindows 7\n:\nSelect\nControl Panel\n, then\nView Devices and Printers\nunder Hardware and Sound.\nIn the\nPrinters\nor\nPrinters and Faxes\nwindow, right-click on your printer's name.\nSelect\nProperties\n, click the Advanced tab, then press the\nSeparator Page\nbutton.\nIn the Separator Page window, delete the information in the text box and then click\nOK\n.\nClick\nOK\nagain.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-134302?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C578001~faq-134302",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:49.544179"
+        },
+        {
+          "question": "How should I transport my product?",
+          "answer": "See\nTransporting the CX6600\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-46358?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C578001~faq-46358",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:50.581778"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C578001~faq-00004b0-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:51.694029"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11C578001~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C578001~faq-0000f4a-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX6600/s/SPT_C11C578001",
+          "fetched_at": "2026-04-01T09:13:52.730842"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

@@ -1,0 +1,752 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "Epson Stylus Series",
+  "model": {
+    "name": "Epson Stylus Pro 7880 UltraChrome",
+    "sku": "SPT_SP7880K3",
+    "url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "Where can I get the latest version of the Epson Communication Driver for my printer?",
+          "answer": "Download the Communication Driver from the Downloads tab on your product's support page.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-00009fb-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SP7880K3~faq-00009fb-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:07.008645"
+        },
+        {
+          "question": "How do I add a print queue for my printer in OS X 10.1 to 10.6?",
+          "answer": "Do the following:\nTurn on the printer, if necessary.\nSelect\nSystem Preference\nand click\nPrint                     Center\n,\nPrinter Setup Utility\n, or\nPrint & Fax\n.\nClick\nAdd\n, or select\nAdd Printer\nfrom the printer's drop-down menu.\nSelect the appropriate Epson port                 connection (e.g.\nEpson USB\n) and select the product.\nSelect\nAll\nfor the\nPage Setup\n.\nClick\nAdd\n.  All                 print queues should appear in the printer list.\nSelect your product and click\nMake Default\n.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-000062D-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SP7880K3~faq-000062D-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:07.922220"
+        },
+        {
+          "question": "I see the message Communication Error when I use a USB connection. What should I do?",
+          "answer": "Do the following:\nDelete all print jobs in the print queue.\nTurn the printer off.\nNote:\nMake sure the USB cable is connected correctly.\nRestart your computer. When the desktop appears, turn your printer on and follow the on-screen instructions.\nNote:\nIf the problem continues, turn the printer off again and delete the printer in the list of printers. Then disconnect the USB cable from the printer and connect it again.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-00009ea-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SP7880K3~faq-00009ea-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:10.255453"
+        },
+        {
+          "question": "I see horizontal or vertical lines in my printout. What should I do?",
+          "answer": "Perform a nozzle check from the printer's control panel or the Epson printer driver, then do one of the following:\nIf there are gaps in the nozzle check pattern, clean the print head nozzles.\nIf there are no gaps in the nozzle check pattern, try the solutions below.\nHorizontal Banding\nIncrease the print resolution.\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nSelect an alternate paper profile for ink coverage.\nSelect the correct paper type in the printer driver.\nAdjust the paper feed\nVertical Banding\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nAlign the print head.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-00009eb-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SP7880K3~faq-00009eb-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:11.218775"
+        },
+        {
+          "question": "My printer's ink cartridges are half full after I install the first set of ink cartridges. Why does this happen?",
+          "answer": "Ink from the first set of ink cartridges is used to charge the printer's ink delivery system. This will not happen again when you install new ink cartridges.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-00009d6-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SP7880K3~faq-00009d6-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:12.129785"
+        },
+        {
+          "question": "How many prints can I print from an ink cartridge in my printer?",
+          "answer": "There are too many variables to provide a count. You can estimate the amount by printing a Job Information sheet from the printer's Test Print menu. This sheet provides the amount of ink used for the last 10 print jobs, which can help you calculate ink usage.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-00009e2-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SP7880K3~faq-00009e2-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:13.109706"
+        },
+        {
+          "question": "How do I uninstall and reinstall the printer driver in Windows?",
+          "answer": "Do the following:\nTurn off the product.\nDisconnect any interface cables.\nDo one of the following:\nWindows 10\n: Right click\nand select\nControl Panel\n>\nPrograms\n>\nPrograms and                             Features\n.  Select the uninstall option for your Epson                         product, then select\nUninstall/Change\n.\nNote:\nIf you                             see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto                         confirm the uninstallation.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl                             Panel\n>\nPrograms\n>\nPrograms and Features\n.  Select the uninstall                         option for your Epson product, then select\nUninstall/Change\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto                         confirm the uninstallation.\nWindows (other versions)\n: Click\nor\nStart\n, and select\nAll Programs\nor\nPrograms\n.                         Select\nEPSON\n, select your product, then click\nEPSON Printer Software Uninstall\n.\nNote:\nIf you                             see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nIn the next window, select your product and click\nOK\n. Then follow any on-screen instructions.\nRestart your computer, then see the\nStart Here\nsheet or User Guide to                 re-install your software.\nIf these instructions did not solve the problem, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-0000630-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SP7880K3~faq-0000630-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:14.223163"
+        },
+        {
+          "question": "How do I stop the printer from printing a nozzle check pattern before every print job?",
+          "answer": "Do the following on the product's control panel:\nPress\nMenu\ntwice, then select\nAuto Nozzle Check\n.\nPress\nMenu\n, then select\nOff",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-00009e1-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SP7880K3~faq-00009e1-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:15.355149"
+        },
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-00009e9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SP7880K3~faq-00009e9-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:16.407759"
+        },
+        {
+          "question": "How do I uninstall and reinstall my printer driver in OS X 10.8?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\n, then\nPrint & Scan\n.\nSelect your printer in the list, then click\n. Press and hold the\ncontrol\nkey on your keyboard and click anywhere on the printer list. Click\nReset Printing Systems\n. Close the open windows.\nOpen your hard drive and do the following:\nSelect\nLibrary\n>\nPrinters\n>\nInstalledPrinters.plist\n. Drag the InstalledPrinters.plist file to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nEpson\n. Drag the\nEpson\nfolder to the trash.\nSelect\nApplications\n>\nUtility\n>\nDisk Utility\n> your hard drive, then select\nRepair Disk Permissions\n. Close the open windows.\nReinstall the driver for your product.\nOpen the\nmenu, select\nSystem Preferences\n, then\nPrint & Scan\n.\nClick\n, then select your printer.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-00009dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SP7880K3~faq-00009dc-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:17.446030"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "I see the message 0002 on the printer's LCD. What should I do?",
+          "answer": "If you notice odd noises or image quality problems, troubleshoot the printer for the noise or image quality problem. Otherwise, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-298374?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SP7880K3~faq-298374",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:18.333940"
+        },
+        {
+          "question": "I see the message Communication Error when I use a USB connection. What should I do?",
+          "answer": "Do the following:\nDelete all print jobs in the print queue.\nTurn the printer off.\nNote:\nMake sure the USB cable is connected correctly.\nRestart your computer. When the desktop appears, turn your printer on and follow the on-screen instructions.\nNote:\nIf the problem continues, turn the printer off again and delete the printer in the list of printers. Then disconnect the USB cable from the printer and connect it again.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-00009ea-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SP7880K3~faq-00009ea-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:19.286343"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SP7880K3~faq-00004c5-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:20.352553"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "How to...",
+      "section_id": "8796159027276",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "How do I add a print queue for my printer in OS X 10.1 to 10.6?",
+          "answer": "Do the following:\nTurn on the printer, if necessary.\nSelect\nSystem Preference\nand click\nPrint                     Center\n,\nPrinter Setup Utility\n, or\nPrint & Fax\n.\nClick\nAdd\n, or select\nAdd Printer\nfrom the printer's drop-down menu.\nSelect the appropriate Epson port                 connection (e.g.\nEpson USB\n) and select the product.\nSelect\nAll\nfor the\nPage Setup\n.\nClick\nAdd\n.  All                 print queues should appear in the printer list.\nSelect your product and click\nMake Default\n.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-000062D-shared?faq_cat=faq-8796159027276",
+          "faq_slug": "SPT_SP7880K3~faq-000062D-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:21.289837"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "Do I need to drain the ink cartridges before transporting my product?",
+          "answer": "No. The printer has mechanical ink valves that close when the ink levers are lifted up. For transportation, 110ml ink cartridges (expended or full) should be installed in each ink slot and both ink levers should be raised to their up position.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-99750?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SP7880K3~faq-99750",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:22.211308"
+        },
+        {
+          "question": "How long does it take to switch between black modes on my product?",
+          "answer": "Less than ten minutes.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-99757?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SP7880K3~faq-99757",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:23.172261"
+        },
+        {
+          "question": "Does my product support the same replaceable ink maintenance tank used by the other Epson Stylus Pro products?",
+          "answer": "Yes. However, the color may be slightly different to match the color of the printer's case.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-102932?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SP7880K3~faq-102932",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:24.203293"
+        },
+        {
+          "question": "How much ink is used during the switching of black ink modes?",
+          "answer": "The amount of ink flushed through the printer in the switching process varies, but we estimate the total ink usage (all cartridges combined) to be between 88ml and 117ml per switch. All cartridges should be at least 30% full before you begin the conversion process.\nSwitching from one black mode to another (for example, from Photo Black to Matte Black) does use a significant quantity of ink. Part of it is used to flush all of the old ink type out of the printer's tubing, damper, and head, and to prime those components with a sufficient amount of the new ink type. As part of the switching process, the printer also flushes a smaller amount of each of the other colors through the print head to prepare the head for printing again. This process ensures high-quality prints in the new mode after the switch.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-102942?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SP7880K3~faq-102942",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:25.347847"
+        },
+        {
+          "question": "Which ink cartridges are optional?",
+          "answer": "The following optional ink cartridges are available from the Epson Store:\nCartridge\nPart Number\nPhoto Black 220ml\nT603100\nCyan 220ml\nT603200\nVivid Magenta 220ml\nT603300\nYellow 220ml\nT603400\nLight Cyan 220ml\nT603500\nVivid Light Magenta 220ml\nT603600\nLight Black 220ml\nT603700\nLight Light Black 220ml\nT603900\nMatte Black 110ml\nT611800\nMatte Black 220ml\nT612800",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-102879?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SP7880K3~faq-102879",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:26.678366"
+        },
+        {
+          "question": "Does the Matte Black ink cartridge come free inside my product box?",
+          "answer": "No. Only Photo Black comes standard. If you want to use Matte Black, you need to buy a Matte Black ink cartridge when you buy your new printer.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-99759?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SP7880K3~faq-99759",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:27.635284"
+        },
+        {
+          "question": "Why are there only three cartridges in the black ink conversion kit?",
+          "answer": "The ink conversion process drains only the black ink channel; the C/M/Y colors are not drained. The three cartridges in the conversion kit are used to close the C/M/Y ink valves during the draining process. However, the process performs an initial fill on the whole ink system after the draining is complete.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-99746?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SP7880K3~faq-99746",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:26.789403"
+        },
+        {
+          "question": "Do the 220ml ink cartridges stick out of the front of my product?",
+          "answer": "No. The 220ml ink cartridges do not extend out of the ink bay, so the ink bay door can remain closed.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-102927?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SP7880K3~faq-102927",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:27.846749"
+        },
+        {
+          "question": "Does my product have a pressurized ink delivery system?",
+          "answer": "Yes. This ensures positive ink flow even when the printer is used at higher elevations or if the floor is not completely level.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-102924?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SP7880K3~faq-102924",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:28.747588"
+        },
+        {
+          "question": "How many prints can I print from an ink cartridge in my printer?",
+          "answer": "There are too many variables to provide a count. You can estimate the amount by printing a Job Information sheet from the printer's Test Print menu. This sheet provides the amount of ink used for the last 10 print jobs, which can help you calculate ink usage.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-00009e2-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SP7880K3~faq-00009e2-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:29.770580"
+        },
+        {
+          "question": "My printer's ink cartridges are half full after I install the first set of ink cartridges. Why does this happen?",
+          "answer": "Ink from the first set of ink cartridges is used to charge the printer's ink delivery system. This will not happen again when you install new ink cartridges.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-00009d6-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SP7880K3~faq-00009d6-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:30.962402"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "How do I replace the Maintenance Tank?",
+          "answer": "The maintenance tank is on the right side of the printer; grasp the handle at the bottom of the tank and slide it out. See\nReplacing the Maintenance Tank\n.\nNote:\nDo not turn off the printer. It needs to be turned on to register or update status information on the maintenance tank.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-102881?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SP7880K3~faq-102881",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:31.937851"
+        },
+        {
+          "question": "In what order should the Print Head Alignments be performed?",
+          "answer": "The recommended order for performing head alignments is:\nUni-directional\nBi-directional 2 color\nBi-directional all",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-99749?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SP7880K3~faq-99749",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:32.888613"
+        },
+        {
+          "question": "How do I perform a power cleaning cycle from the printer's control panel?",
+          "answer": "Do the following:\nPrint a nozzle check pattern to make sure the print head needs cleaning.\nMake sure the printer is ready and the red\nink light is not on or flashing.\nPress\nMenu\n.\nPress\nuntil\nMAINTENANCE\nis selected, then press\nMenu\n.\nPress\nuntil\nPOWER CLEANING\nis selected, then press\nMenu\n. Press\nMenu\nagain, then press\nto start the power cleaning.\nFollow the instructions on the LCD display to raise or lower the ink levers.\nWhen cleaning is finished and the\nPause light stops flashing, print a nozzle check pattern again to confirm that the head is clean.\nFor effective cleaning, always run a nozzle check between cycles.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-00009da-sp7880_9880?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SP7880K3~faq-00009da-sp7880_9880",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:33.810517"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "What is the maximum page length for my product?",
+          "answer": "The maximum printable page length is 90.5 inches when using the Epson printer driver. This may vary depending on the application being used and the image resolution. Using a RIP may allow you to exceed this limit as well.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-102887?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SP7880K3~faq-102887",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:34.811379"
+        },
+        {
+          "question": "How can I avoid using extra media at the beginning of a print job?",
+          "answer": "Do one of the following:\nSet the margin for roll paper to 3 mm.\nPress the\nbutton on the printer.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-298444?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SP7880K3~faq-298444",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:35.765482"
+        },
+        {
+          "question": "What size borderless prints can I create with my product?",
+          "answer": "You can make borderless prints on these roll media widths using the\nAuto Expand\nor\nRetain Size\nfeatures:\nRoll paper width\nImage width (with Auto Expand)\nImage width (with Retain Size)\nCustom paper size (with Retain Size)\n10 inches\n(254 mm)\n9.7075 inches\n(246.57 mm)\n10.34 inches\n(262.6 mm)\n10.23 inches\n(259.8 mm)\n13 inches\n330 mm)\n12.8 inches\n(325.1 mm)\n13.34 inches\n(338.8 mm)\n13.23 inches\n(336.0 mm)\n16 inches\n(406 mm)\n15.8 inches\n(401.3 mm)\n16.34 inches\n(415.0 mm)\n16.23 inches\n(412.2 mm)\n17 inches\n(432 mm)\n16.8 inches\n(426.7 mm)\n17.34 inches\n(440.4 mm)\n17.23 inches\n(437.6 mm)\n24 inches\n(610 mm)\n23.8 inches\n(604.5 mm)\n24.34 inches\n(618.2 mm)\n24.23 inches\n(615.4 mm)",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-102888?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SP7880K3~faq-102888",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:36.755491"
+        },
+        {
+          "question": "Which Epson media types produce the highest Dmax or L* value?",
+          "answer": "Our testing has shown the Epson Premium Luster Photo Paper using Photo Black ink will produce a Dmax up to 2.55 with an L* value as low as 2.9. You will get different results depending upon the media, black ink mode, driver settings, and ICC profile used.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-102920?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SP7880K3~faq-102920",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:37.684479"
+        },
+        {
+          "question": "Which Epson paper type setting should I select for Legacy paper?",
+          "answer": "See the table below.\nLegacy Paper\nEpson Paper Type Setting\nBaryta\nPremium Luster Photo Paper\nPlatine\nPremium Luster Photo Paper\nFibre\nWatercolor Paper – Radiant White\nEtching\nWatercolor Paper – Radiant White",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-00009EC-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SP7880K3~faq-00009EC-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:38.751215"
+        },
+        {
+          "question": "Which Epson Professional papers do not have optical brighteners?",
+          "answer": "Hot Press Natural, Cold Press Natural, and UltraSmooth Fine Art Paper.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-0000b07-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SP7880K3~faq-0000b07-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:39.859623"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "The image preview is displaying only a small portion of my image. How can I preview and print the entire image?",
+          "answer": "Do the following:\nClick\nStart\nand select\nControl Panel\n.\nSelect\nPrinters\nor\nPrinters and Faxes\n, right-click your printer icon, and select\nProperties\n.\nSelect the\nAdvanced\ntab and uncheck\nEnable advanced printing features\n.\nResend your print job.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-157096?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SP7880K3~faq-157096",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:40.931726"
+        },
+        {
+          "question": "I upgraded to Photoshop CS4 and now my prints come out darker than what is displayed on my monitor. What should I do?",
+          "answer": "Try turning off the color management in Photoshop and make sure you are using the color management in the printer driver.  Do the following:\nWindows:\nIn the printer driver, under Mode, click\nCustom\n, then select\nColor Controls\n.\nIn Photoshop, open your file and select\nPrint\nfrom the File menu.  Then choose\nNo Color Management\nfor Color Handling.\nMacintosh:\nIn the final print window under Layout, select\nPrint Settings\nor\nPrinter Settings\n.  For Color Mode, select\nColor Controls\n, and choose\nEpson Standard sRGB\n,\nAdobe RGB\n, or another selection if appropriate.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-158690?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SP7880K3~faq-158690",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:41.858506"
+        },
+        {
+          "question": "Drips, smears, or head strikes appear on my printout. What should I do?",
+          "answer": "Make sure the platen gap is adjusted for your media type. To adjust the platen gap, do the following from the printer's control panel:\nMake sure the printer is ready to print. Ready should be displayed on the printer's LCD screen.\nPress the\nbutton three times.\nSelect\nNarrow\n,\nStandard\n,\nWide\n, or\nWider\nas the gap setting.\nPress\nOK\nor\nEnter\n(the middle button).\nPress the pause button.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-0000c1e-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SP7880K3~faq-0000c1e-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:42.813368"
+        },
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-00009e9-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SP7880K3~faq-00009e9-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:43.738153"
+        },
+        {
+          "question": "I see horizontal or vertical lines in my printout. What should I do?",
+          "answer": "Perform a nozzle check from the printer's control panel or the Epson printer driver, then do one of the following:\nIf there are gaps in the nozzle check pattern, clean the print head nozzles.\nIf there are no gaps in the nozzle check pattern, try the solutions below.\nHorizontal Banding\nIncrease the print resolution.\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nSelect an alternate paper profile for ink coverage.\nSelect the correct paper type in the printer driver.\nAdjust the paper feed\nVertical Banding\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nAlign the print head.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-00009eb-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SP7880K3~faq-00009eb-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:44.668586"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "What is the Epson Advanced Black & White Printing Mode?",
+          "answer": "This is a proprietary Epson screening and color management technology designed specifically to produce professional-level black and white prints. This unique screen technology takes advantage of our three-level black technology—along with Yellow, Light Cyan, and Light Vivid Magenta—to produce professional black and white prints from either color or grayscale files. Epson's new Advanced Black & White printing technology is simply another tool for achieving the ultimate black and white print.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-102921?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7880K3~faq-102921",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:45.588892"
+        },
+        {
+          "question": "How do Media Counter Settings work?",
+          "answer": "To access the Media Counter Settings you must first launch the EPSON LFP Remote Panel utility. The Media Counter Settings allow you to select when low paper messages will appear on the printer's control panel, based on the quantity of remaining media. If another print job is sent to the printer while the\nPaper Low\nmessage is displayed, the status monitor will display an alert and ask whether to continue or cancel the print.\nWhen alternating between different rolls, it is essential to keep track of what roll is being used in the printer. To clear an alert, load a new roll or a sheet of paper in the printer and set the parameters. Turning off the media counter also clears the alert on the control panel.\nNote:\nOnly roll paper media can be counted.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-102946?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7880K3~faq-102946",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:46.592537"
+        },
+        {
+          "question": "The Advanced B&W Photo setting is grayed out in my product software. What should I do?",
+          "answer": "Make sure you install the correct black ink cartridge for the media type selected. When the photo black cartridge is installed, the\nAdvanced B&W Photo\nsetting is available only for glossy media types. It is not available for any of the matte media types. When the matte black cartridge is installed, the\nAdvanced B&W Photo\nsetting is available only for matte media types.\nIf you're using the correct black ink cartridge for your media type but the\nAdvanced B&W Photo\nsetting is still grayed out, Do the following:\nOpen the\nHard Drive\n.\nSelect\nApplications\n>\nEPSON Printer Utility 2\nor\nEPSON Printer Utility 3\n.\nSelect your printer and click\nOK\n.\nClick\nEPSON Status Monitor\n, make sure you see the ink levels in the status window, then click\nUpdate\n.\nRestart the computer.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-102868?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7880K3~faq-102868",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:47.552168"
+        },
+        {
+          "question": "What is the High Speed setting in the Epson driver?",
+          "answer": "When\nHigh Speed\nis selected, the print head prints in both directions to speed up printing. When\nHigh Speed\nis deselected or turned off, the printer prints in one direction only, which produces the highest quality images, but slows down printing.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-99753?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7880K3~faq-99753",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:48.513949"
+        },
+        {
+          "question": "What does the Common Updater 7.0 file do?",
+          "answer": "The Common Updater 7.0 file provides the latest Mac OS X 10.6 support for your printer driver. Before installing the updater, make sure the most current version of the Mac OS X 10.5 or 10.6 printer driver is installed on your computer. Restart your computer after installing the updater.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-162921?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7880K3~faq-162921",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:49.496238"
+        },
+        {
+          "question": "ICC profiles that are included with my product are labeled by their acronyms. Is there a list that explains these acronyms and their definitions?",
+          "answer": "Profiles ending in\nMK\nare to be used when the Matte black ink is installed as the primary black, and\nPK\nis for Photo black.\nAny profile ending in\n250\nis intended for the roll stock or 17” sheets of that particular media. These profiles are intended for use with any driver resolution available.\nFor PremierArt Water Resistant Canvas for Epson, choose the\nWatercolor Paper - Radiant White\nsetting.\nRoll papers\nICC Profile\nMedia Name\nSpindle size\nPro9880_7880_PGPP.icc\nPremium Photo Paper Glossy\n(Premium Glossy Photo Paper*)\n2 inch\nPro9880_7880_PGPP250.icc\nPremium Glossy Photo Paper (250)\n3 inch\nPro9880_7880_PGPP170.icc\nPremium Glossy Photo Paper (170)\n2 inch\nPro9880_7880_PSPP250.icc\nPremium Semigloss Photo Paper (250)\n2 inch\nPro9880_7880_PSPP170.icc\nPremium Semigloss Photo Paper (170)\n2 inch\nPro9880_7880_DWMP_PK.icc\nPro9880_7880_DWMP_MK.icc\nDoubleweight Matte Paper\n2 inch\nPro9880_7880_Proof_Com.icc\nProofing Paper Commercial\n2 inch\nPro9880_7880_Proof_Pub.icc\nProofing Paper Publication\n2 inch\nPro9880_7880_Proof_WS.icc\nProofing Paper White Semimatte\n2 inch\nPro9880_7880_PLPP260.icc\nPremium Luster Photo Paper (260)\n3 inch\nPro9880_7880_PSmPP260.icc\nPremium Semimatte Photo Paper (260)\n3 inch\nPro9880_7880_EMP_PK.icc\nPro9880_7880_EMP_MK.icc\nEnhanced Matte Paper\n3 inch\nPro9880_7880_ARMP_PK.icc\nPro9880_7880_ARMP_MK.icc\nArchival Matte Paper (N/A same as Enhanced Matte)\n—\nPro9880_7880_SWMP_PK.icc\nPro9880_7880_SWMP_MK.icc\nSingleweight Matte Paper\n2 inch\nPro9880_7880_Canvas_PK.icc\nPro9880_7880_Canvas_MK.icc\nCanvas\n2 inch\nPro9880_7880_TFAP_PK.icc\nPro9880_7880_TFAP_MK.icc\nTextured Fine Art Paper\n3 inch High Tension\nPro9880_7880_USFAP_PK.icc\nPro9880_7880_USFAP_MK.icc\nUltraSmooth Fine Art Paper\n3 inch High Tension\nPro9880_7880_WCRW_PK.icc\nPro9880_7880_WCRW_MK.icc\nPremierArt Water Resistant Canvas for Epson / Piezo Pro Matte Canvas\n—\nPro9880_7880_EMPB_PK.icc\nPro9880_7880_EMPB_MK.icc\nSomerset Velvet\n—\nCut sheet papers\nICC Profile\nMedia Name\nPro9880_7880_PPG250.icc\nPhoto Paper Glossy\n(Photo Paper Gloss 250*)\nPro9880_7880_PGPP.icc\nPremium Photo Paper Glossy\n(Premium Glossy Photo Paper*)\nPro9880_7880_PSPP.icc\nPremium Photo Paper Semi-gloss\n(Premium Semigloss Photo Paper*)\nPro9880_7880_PLPP.icc\nUltra Premium Photo Paper Luster\n(Premium Luster Photo Paper*)\nPro9880_7880_EMP_PK.icc\nPro9880_7880_EMP_MK.icc\nUltra Premium Presentation Paper Matte\n(Enhanced Matte Paper*)\nPro9880_7880_WCRW_PK.icc\nPro9880_7880_WCRW_MK.icc\nWatercolor Paper Radiant White\nPro9880_7880_Proof_Com.icc\nProofing Paper Commercial\nPro9880_7880_SWMP_PK.icc\nPro9880_7880_SWMP_MK.icc\nSingleweight Matte Paper\nPro9880_7880_PQIJP_PK.icc\nPro9880_7880_PQIJP_MK.icc\nPresentation Paper Matte\n(Photo Quality Ink Jet Paper*)\nPro9880_7880_USFAP_PK.icc\nPro9880_7880_USFAP_MK.icc\nUltraSmooth Fine Art Paper\nPro9880_7880_VFAP_PK.icc\nPro9880_7880_VFAP_MK.icc\nVelvet Fine Art Paper\nPro9880_7880_TFAP_PK.icc\nPro9880_7880_TFAP_MK.icc\nTextured Fine Art Paper\nPro9880_7880_EMPB_PK.icc\nPro9880_7880_EMPB_MK.icc\nEnhanced Matte Posterboard\n*\nSelect this name in the printer driver for this media type.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-102901?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7880K3~faq-102901",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:50.418745"
+        },
+        {
+          "question": "Can my product switch automatically between Matte Black and Photo Black?",
+          "answer": "No. Because Epson UltraChrome K3 with Vivid Magenta Ink technology requires all eight channels to produce both color and black and white prints, there isn't enough room to install both the Matte Black and Photo Black ink cartridges at the same time.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-102916?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7880K3~faq-102916",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:51.648163"
+        },
+        {
+          "question": "Why are only matte media types displayed in the driver's media list?",
+          "answer": "When matte black ink is installed in the printer, only matte media types are displayed in the driver list. The complete media list appears only when the photo black ink cartridge is installed.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-99745?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7880K3~faq-99745",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:52.623852"
+        },
+        {
+          "question": "What does the Optimize Enlargement option in my product driver do?",
+          "answer": "Select\nOptimize Enlargement\nif you are enlarging an image beyond the limits of your application program. The driver will increase the image size up to 650% and decrease the output resolution to stay within the pixel limitations. Depending on the resolution of the original image and the print size, you may see reduced quality in the print.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-102944?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7880K3~faq-102944",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:53.559279"
+        },
+        {
+          "question": "What does the Remote Panel utility do?",
+          "answer": "The EPSON LFP Remote Panel Utility can be used to:\nUpdate firmware\nPerform nozzle checks\nRun the bi-d and uni-d alignments/auto alignments\nPrint status sheets\nMake custom paper settings\nPerform power cleanings\nSet the printer clock\nSet media counter settings\nMake paper feed and print adjustments\nMonitor printer status\nRecord print logs",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-102866?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7880K3~faq-102866",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:54.619748"
+        },
+        {
+          "question": "Can I set the date and time on my product?",
+          "answer": "Yes. Do the following:\nPress the\nMenu\nbutton.\nPress the\nbutton until\nMAINTENANCE\nis highlighted, then press\nMenu\n.\nPress the\nbutton until you see\nCLOCK SETTING\n, then press\nMenu\n.\nUse the\n,\nand\nMenu\nbuttons to set each item in the date and time, displayed in the following format:\nMM/DD/YY HH:MM\n.\nPress\nto save the setting.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-102883?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7880K3~faq-102883",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:55.611554"
+        },
+        {
+          "question": "Why should I use the Matte Black mode?",
+          "answer": "The standard Photo Black ink has been optimized for RC and Photographic grade media types. If you're printing on matte-type papers such as Epson Velvet Fine Art, Enhanced Matte, or UltraSmooth Fine Art, your black density is significantly better when using Matte Black ink (and worth the switch).",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-102918?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7880K3~faq-102918",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:56.508287"
+        },
+        {
+          "question": "When should I use the product profiles that end in PK and MK?",
+          "answer": "Use the PK profile when photo black ink is installed in the printer. Use the MK profile when matte black ink is installed in the printer.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-99752?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7880K3~faq-99752",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:57.471867"
+        },
+        {
+          "question": "How do I uninstall and reinstall my printer driver in OS X 10.8?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\n, then\nPrint & Scan\n.\nSelect your printer in the list, then click\n. Press and hold the\ncontrol\nkey on your keyboard and click anywhere on the printer list. Click\nReset Printing Systems\n. Close the open windows.\nOpen your hard drive and do the following:\nSelect\nLibrary\n>\nPrinters\n>\nInstalledPrinters.plist\n. Drag the InstalledPrinters.plist file to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nEpson\n. Drag the\nEpson\nfolder to the trash.\nSelect\nApplications\n>\nUtility\n>\nDisk Utility\n> your hard drive, then select\nRepair Disk Permissions\n. Close the open windows.\nReinstall the driver for your product.\nOpen the\nmenu, select\nSystem Preferences\n, then\nPrint & Scan\n.\nClick\n, then select your printer.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-00009dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7880K3~faq-00009dc-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:58.503059"
+        },
+        {
+          "question": "How do I disable the Roll Paper Remaining feature on my printer?",
+          "answer": "Do the following on the product's control panel:\nPress the paper release button to feed paper out of the printer, if necessary.\nPress\nMenu\n.\nSelect\nPaper Setup\n, then press\n.\nSelect\nRoll Paper Remaining\n, then press\n.\nSelect\nRemaining Paper Setup\n, then press\n.\nSelect\nOff\n, then press\nOK\n.\nPress\n, then load the paper again.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-00009e0-pgg_4800_multi_9900?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7880K3~faq-00009e0-pgg_4800_multi_9900",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:06:57.671949"
+        },
+        {
+          "question": "How do I stop the printer from printing a nozzle check pattern before every print job?",
+          "answer": "Do the following on the product's control panel:\nPress\nMenu\ntwice, then select\nAuto Nozzle Check\n.\nPress\nMenu\n, then select\nOff",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-00009e1-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7880K3~faq-00009e1-shared",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:07:03.033517"
+        },
+        {
+          "question": "Where can I get the latest version of the Epson Communication Driver for my printer?",
+          "answer": "Download the Communication Driver from the Downloads tab on your product's support page.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-00009fb-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7880K3~faq-00009fb-shared",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:07:04.249750"
+        },
+        {
+          "question": "How do I uninstall and reinstall my printer driver in OS X 10.1, 10.2, or 10.3?",
+          "answer": "Open your hard drive, then do the following:\nSelect\nApplications\n>\nUtilities\n, then double-click\nPrinter Service Utility\n. Remove all Epson Stylus Pro paper queues from the Printers List, then close the open windows.\nSelect\nLibrary\n>\nReceipts\n, then drag the\nSProXX00.xx.pkg\nfile to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nEpson\n, then drag the plugin for your product to the trash.\nSelect\nPreferences\n>\nEpson\n, then drag files related to your product to the trash.\nClose the open windows.\nReinstall the driver for your product.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-00009fe-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7880K3~faq-00009fe-shared",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:07:05.353531"
+        },
+        {
+          "question": "How do I uninstall and reinstall the printer driver in Windows?",
+          "answer": "Do the following:\nTurn off the product.\nDisconnect any interface cables.\nDo one of the following:\nWindows 10\n: Right click\nand select\nControl Panel\n>\nPrograms\n>\nPrograms and                             Features\n.  Select the uninstall option for your Epson                         product, then select\nUninstall/Change\n.\nNote:\nIf you                             see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto                         confirm the uninstallation.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl                             Panel\n>\nPrograms\n>\nPrograms and Features\n.  Select the uninstall                         option for your Epson product, then select\nUninstall/Change\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto                         confirm the uninstallation.\nWindows (other versions)\n: Click\nor\nStart\n, and select\nAll Programs\nor\nPrograms\n.                         Select\nEPSON\n, select your product, then click\nEPSON Printer Software Uninstall\n.\nNote:\nIf you                             see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nIn the next window, select your product and click\nOK\n. Then follow any on-screen instructions.\nRestart your computer, then see the\nStart Here\nsheet or User Guide to                 re-install your software.\nIf these instructions did not solve the problem, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-0000630-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7880K3~faq-0000630-shared",
+          "display_order": 20,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:07:06.511918"
+        },
+        {
+          "question": "Do I need a raster image processor (RIP) to print from Adobe Illustrator?",
+          "answer": "For the best output, a RIP should be used. Adobe Illustrator is a postscript application that requires a RIP to translate the postscript language. The printer comes with a non-postscript driver that has difficulty translating the postscript language.\nEpson has partnered with the following manufacturers for some printers:\nColorBurst\nefi\nOnyx\nWasatch",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-00009f1-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7880K3~faq-00009f1-shared",
+          "display_order": 21,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:07:07.593767"
+        },
+        {
+          "question": "Do I need a raster image processor (RIP) to print from Adobe Photoshop?",
+          "answer": "No, Adobe Photoshop is not a postscript application and does not require a RIP.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-00009f0-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7880K3~faq-00009f0-shared",
+          "display_order": 22,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:07:08.657899"
+        },
+        {
+          "question": "How do I save my Epson printer driver presets so I can restore them if I reinstall the Epson printer driver in Windows?",
+          "answer": "Note:\nYou may lose some custom settings when you uninstall the printer driver.\nBefore you reinstall the printer driver, do the following:\nOpen\nFile Explorer\nor\nWindows Explorer\n.\nSelect\nThis PC\nor\nComputer\n>\nC:\ndrive >\nProgram Files\n>\nEpson\n> [your printer name].\nMove the UCI extension files to a different folder on your desktop.\nNote:\nAfter you reinstall the Epson printer driver, move the UCI extension files back to your printer's folder as described in step 2.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-00009e6-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7880K3~faq-00009e6-shared",
+          "display_order": 23,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:07:09.726146"
+        },
+        {
+          "question": "How do I install the ICC profiles in Windows XP or Windows 7?",
+          "answer": "Do the following:\nDownload the ICC profiles for your printer and save them in a folder you can easily find.\nClose all open software.\nOpen\nWindows Explorer\n, then select\nComputer\n>\nC:\ndrive >\nWindows\n>\nSystem32\n>\nspool\n>\ndrivers\n>\ncolor\n.\nMove the ICC profiles into the\ncolor\nfolder, then close all open windows.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-00009E5-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7880K3~faq-00009E5-shared",
+          "display_order": 24,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:07:10.802175"
+        },
+        {
+          "question": "How do I determine my printer driver version on my Mac?",
+          "answer": "Open the\nmenu and select\nSystem Preferences\nor\nSystem Settings\n>\nPrinters & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n. Your printer driver version is displayed.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-00009e4-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7880K3~faq-00009e4-shared",
+          "display_order": 25,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:07:11.873501"
+        },
+        {
+          "question": "How do I manually install the Epson ICC profiles on my Mac?",
+          "answer": "Do the following:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinters2\n>\nICCProfiles\n.\nPress and hold the\ncontrol\nkey on your keyboard while you select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n, select and copy all files, then close all open windows.\nOpen your hard drive, select\nLibrary\n>\nColorSync\n>\nProfiles\n, then paste the files into this folder.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-0000b03-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7880K3~faq-0000b03-shared",
+          "display_order": 26,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:07:12.950628"
+        },
+        {
+          "question": "Where are the ICC profiles located for my printer on my Mac?",
+          "answer": "Do the following to locate the files:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinter2\n>\nICCProfiles\n.\nPress and hold the\nControl\nkey on your keyboard while you click the profile package in the\nICCProfiles\nfolder. In the pop-up menu that appears, select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-00009ed-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7880K3~faq-00009ed-shared",
+          "display_order": 27,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:07:14.079106"
+        },
+        {
+          "question": "My print job disappears from the Windows print queue but does not print. What should I do?",
+          "answer": "Follow the steps below:\nDo one of the following:\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your printer and select\nManage\n>\nPrinting preferences\n.\nWindows 8\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the\nUtility\ntab, then\nSpeed and Progress\n.\nSelect the\nAlways Spool RAW Datatype\nand\nCoarse Rendering\ncheckboxes, then click\nOK\n.\nNote:\nIf the\nProcessed by Printer\ncheckbox is selected, deselect it.\nTry printing again.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-00009e8-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7880K3~faq-00009e8-shared",
+          "display_order": 28,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:07:15.147609"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7880K3~faq-00004dc-shared",
+          "display_order": 29,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:07:16.229054"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7880K3~faq-0000f4b-shared",
+          "display_order": 30,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:07:17.303604"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7880K3~faq-0000f4c-shared",
+          "display_order": 31,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:07:18.380728"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "Does my product stand come with my product?",
+          "answer": "Yes.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-102936?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7880K3~faq-102936",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:07:19.481918"
+        },
+        {
+          "question": "Which connection enables my product to operate at full speed?",
+          "answer": "Both built-in USB (USB port on the computer must be 2.0 compatible) and Ethernet connections allow the printer to operate at full print engine speed. Your CPU is the biggest factor in print engine speed.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-102930?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7880K3~faq-102930",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:07:20.551951"
+        },
+        {
+          "question": "How do I get service for my product I purchased in another country?",
+          "answer": "Due to differences in products sold in other countries, printers need to be serviced in the country of origin.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-99751?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7880K3~faq-99751",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:07:21.658039"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7880K3~faq-00004b0-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:07:22.710105"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SP7880K3~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7880K3~faq-0000f4a-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7880-UltraChrome/s/SPT_SP7880K3",
+          "fetched_at": "2026-04-02T02:07:23.768060"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

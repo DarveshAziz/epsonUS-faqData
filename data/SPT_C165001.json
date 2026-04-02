@@ -1,0 +1,367 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Impact Printers",
+  "series": "LQ Series",
+  "model": {
+    "name": "Epson LQ-2170",
+    "sku": "SPT_C165001",
+    "url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "Two pages print for each page I print. What should I do?",
+          "answer": "If you're using single sheets you need to make sure the software is set up for either single sheet paper or 61 lines per page otherwise it will print a few lines on a second page if the document is over 61 lines.\nSome older DOS software may not have those settings if it is designed to be used only with tractor feed paper. For Windows software, make sure to select Sheet Feeder bin 1 for your paper source in Printer setup.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-000096e-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C165001~faq-000096e-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:04.101499"
+        },
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-000096d-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C165001~faq-000096d-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:05.020537"
+        },
+        {
+          "question": "The paper feed knob broke. What should I do?",
+          "answer": "This is usually caused by incorrectly using the paper feed knob to adjust the paper position when the printer is turned on.\nTo prevent this problem the printer's paper feed, form feed or alignment buttons should be used.\nYou can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-000096c-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C165001~faq-000096c-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:05.898181"
+        },
+        {
+          "question": "A label peeled off in the product. How should I remove it?",
+          "answer": "Press the product's\nLF/FF\nbutton until the label appears on the platen and remove the label. If you can't remove the label this way, do not remove the platen from the product. Get the printer serviced.\nNote:\nWe recommend you use the pull tractor to print labels. Labels fed through the rear push tractor can curl and peel off under the platen.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-0000937-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C165001~faq-0000937-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:06.812060"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C165001~faq-00004b0-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:07.723300"
+        },
+        {
+          "question": "What is the recommended duty cycle for my product?",
+          "answer": "The specification recommended is 25 percent. Epson America's definition of a 25 percent duty cycle stands for the printer printing (not idle) for two hours per day based on an eight hour day at 22 days per month.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-43382?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C165001~faq-43382",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:08.591023"
+        },
+        {
+          "question": "When printing a multiple page document on single sheets, the first page prints correctly, but the pages after start printing too low. What should I do?",
+          "answer": "The difference in print position is usually caused by the page length setting in the software application program. Most applications have a default page length of 66 lines per page when using 11\" continuous paper. When using single sheets, the printer automatically provides a small top and bottom margin. Since the top and bottom margins are non-printable areas, the maximum number of lines per page is reduced from 66 to 61 lines per page. Many applications have an option to change the number of lines per page. You should change the number of lines per page to 61. If the program offers a selection for \"cut-sheet feeder,\" change the paper type to cut-sheet feeder.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-43366?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C165001~faq-43366",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:09.436862"
+        },
+        {
+          "question": "Can my product emulate an IBM Proprinter?",
+          "answer": "Yes, the printer has an IBM emulation, selectable through the Default Settings mode.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-43364?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C165001~faq-43364",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:10.326794"
+        },
+        {
+          "question": "When I turn my product on, the paper feeds through about one and a half pages, then stops. I hit the Load/Eject button and it feeds more paper instead of ejecting backwards. Why won't it go to the right top-of-form position?",
+          "answer": "Check the front panel to see if the Bin 1 or Bin 2 lights are on. If the light sequence for Bin 1 or Bin 2 are is, turn the printer OFF and manually eject the continuous feed paper. Reinstall the paper on the tractor unit. Move the paper release lever on the right side of the printer all the forward, then all the way to the back. Move the lever forward and backward five times, then move it into the second position from the rear of the printer (for front push and front push/pull tractor) or into the third position from the rear of the printer (for rear push and rear push/pull tractor). Turn the printer back ON. The printer should initialize properly and both Bin lights should be off. If you are still having problems, repeat the above steps. If the problem still persists, have the printer taken in to be serviced.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-43368?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C165001~faq-43368",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:11.232874"
+        },
+        {
+          "question": "How do I create a custom paper size in the Server Properties?",
+          "answer": "Follow these steps to create a new page size accessible by all printer drivers installed in Windows:\nOpen the\nPrinters\nor\nPrinters and Faxes\nwindow.\nClick\nFile\n, then\nServer Properties\n.\nPut a check in the\nCreate a new form\nbox.\nInput a name for the custom paper size.\nUnder\nPaper Size\n, enter the desired height and width.\nClick\nSave\nor\nSave Form\nto add the new form size to the list, then\nOK\nto close Server Properties.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-140664?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C165001~faq-140664",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:12.113982"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Why won't my product print serially from my computer?",
+          "answer": "If you are using a straight through modem cable, change the cable to a null modem cable (pins 2 and 3 are reversed). If you are already using a null modem cable, ensure that the Default Settings for the serial port on the printer match the settings on your computer. There is always the possibility of a loose connection or a bad cable. Disconnect and reconnect the cable on the PC and the printer and try printing again. If you are still experiencing difficulty, try a different cable or take the printer to another computer to see if the computer's port is malfunctioning.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-43362?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C165001~faq-43362",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:13.017473"
+        },
+        {
+          "question": "Two pages print for each page I print. What should I do?",
+          "answer": "If you're using single sheets you need to make sure the software is set up for either single sheet paper or 61 lines per page otherwise it will print a few lines on a second page if the document is over 61 lines.\nSome older DOS software may not have those settings if it is designed to be used only with tractor feed paper. For Windows software, make sure to select Sheet Feeder bin 1 for your paper source in Printer setup.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-000096e-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C165001~faq-000096e-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:13.902874"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "A label peeled off in the product. How should I remove it?",
+          "answer": "Press the product's\nLF/FF\nbutton until the label appears on the platen and remove the label. If you can't remove the label this way, do not remove the platen from the product. Get the printer serviced.\nNote:\nWe recommend you use the pull tractor to print labels. Labels fed through the rear push tractor can curl and peel off under the platen.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-0000937-shared?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C165001~faq-0000937-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:14.836640"
+        },
+        {
+          "question": "The paper feed knob broke. What should I do?",
+          "answer": "This is usually caused by incorrectly using the paper feed knob to adjust the paper position when the printer is turned on.\nTo prevent this problem the printer's paper feed, form feed or alignment buttons should be used.\nYou can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-000096c-shared?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C165001~faq-000096c-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:15.734227"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "How do I create a custom paper size in the Server Properties?",
+          "answer": "Follow these steps to create a new page size accessible by all printer drivers installed in Windows:\nOpen the\nPrinters\nor\nPrinters and Faxes\nwindow.\nClick\nFile\n, then\nServer Properties\n.\nPut a check in the\nCreate a new form\nbox.\nInput a name for the custom paper size.\nUnder\nPaper Size\n, enter the desired height and width.\nClick\nSave\nor\nSave Form\nto add the new form size to the list, then\nOK\nto close Server Properties.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-140664?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C165001~faq-140664",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:16.681470"
+        },
+        {
+          "question": "When I turn my product on, the paper feeds through about one and a half pages, then stops. I hit the Load/Eject button and it feeds more paper instead of ejecting backwards. Why won't it go to the right top-of-form position?",
+          "answer": "Check the front panel to see if the Bin 1 or Bin 2 lights are on. If the light sequence for Bin 1 or Bin 2 are is, turn the printer OFF and manually eject the continuous feed paper. Reinstall the paper on the tractor unit. Move the paper release lever on the right side of the printer all the forward, then all the way to the back. Move the lever forward and backward five times, then move it into the second position from the rear of the printer (for front push and front push/pull tractor) or into the third position from the rear of the printer (for rear push and rear push/pull tractor). Turn the printer back ON. The printer should initialize properly and both Bin lights should be off. If you are still having problems, repeat the above steps. If the problem still persists, have the printer taken in to be serviced.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-43368?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C165001~faq-43368",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:17.558499"
+        },
+        {
+          "question": "Can I use the platen knob to load or adjust paper?",
+          "answer": "No, the platen knob is not to be used to load or adjust paper. The knob should only be used to clear paper jams after the printer has been turned off. Use the Load/Eject button to load or remove paper and the Microfeed feature to adjust the top-of-form position of the paper.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-43391?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C165001~faq-43391",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:18.565600"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "When printing a multiple page document on single sheets, the first page prints correctly, but the pages after start printing too low. What should I do?",
+          "answer": "The difference in print position is usually caused by the page length setting in the software application program. Most applications have a default page length of 66 lines per page when using 11\" continuous paper. When using single sheets, the printer automatically provides a small top and bottom margin. Since the top and bottom margins are non-printable areas, the maximum number of lines per page is reduced from 66 to 61 lines per page. Many applications have an option to change the number of lines per page. You should change the number of lines per page to 61. If the program offers a selection for \"cut-sheet feeder,\" change the paper type to cut-sheet feeder.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-43366?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C165001~faq-43366",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:17.740063"
+        },
+        {
+          "question": "My product starts printing too far down the page. Is there any way I can adjust the starting point of the print job?",
+          "answer": "There is a feature called Micro Adjust that allows you to adjust the top-of-form (TOF) position in minute increments. To use this feature, load the paper into the printer with the Load/Eject button. Press the Pause button for three seconds (until Pause light flashes), then press LF/FF to move the paper forward or press Load/Eject to move the paper backward. Once you have the TOF position set where you want it, send a print job. The printer will remember the TOF setting and will position the print head accordingly for the next page.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-43371?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C165001~faq-43371",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:18.679882"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Some video drivers may cause a conflict in memory between the printerdriver and video memory. Try changing to the Windows video driver provided by Microsoft or check to see if the video card manufacturer has an updated video driver available. This is often the cause of strange printing problems such as missing characters or lines through the printed document.\nBroken printhead pins may also cause this problem. If the problem continues when performing the printer's self test then the printhead is most likely the problem. This would need to be serviced by an Epson authorized repair center.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-49647?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C165001~faq-49647",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:19.557432"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "Can my product emulate an IBM Proprinter?",
+          "answer": "Yes, the printer has an IBM emulation, selectable through the Default Settings mode.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-43364?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C165001~faq-43364",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:20.443467"
+        },
+        {
+          "question": "What are the common escape codes for my product?",
+          "answer": "Some commonly used escape codes include (in decimal values) -Reset (27, 64); Set page length in lines (27, 67, n - where n is a number from 1 to 127); Carriage return (13); Line feed (10); Form feed (12); Select 1/8-inch line spacing (27, 48); 10 cpi (27, 80); 12 cpi (27, 77); Select bold font (27, 69); Cancel bold font (27, 70); Select italic font (27, 52); Cancel italic font (27, 53); Turn underline on/off (27, 45, n - where n equals 49=ON or 48=OFF); Select condensed print (15); Cancel condensed print (18). For more escape codes, please refer to the Command Summary of your User's Manual. If you need to use advanced escape codes for programming purposes, you can purchase an ESC/P Reference Manual from EPSON Accessories.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-43365?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C165001~faq-43365",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:21.365366"
+        },
+        {
+          "question": "How can I change my product's default settings?",
+          "answer": "There are two ways to change the default settings on the printer. You can use the EPSON Remote! utility program to change the printer's default settings from your computer or you can change the default settings manually with the printer's front control panel buttons.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-43370?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C165001~faq-43370",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:22.287867"
+        },
+        {
+          "question": "Can I connect my product to IBM mainframe (IBM 3270) and IBM minicomputer (AS/400 or System 3X) environments?",
+          "answer": "Yes, you can. For IBM mainframe environments, you can purchase an optional Type-B Coax interface card (C823141) which allows direct connectivity and emulates IBM printer models: 3287, 3268, 4214-1, and 4224 (non IPDS). For direct connectivity to IBM minicomputer environments emulating IBM printer models: 4210, 4214, 5225, 5224, 5256, 5219, and 3812, you will need the optional Type-B Twinax interface card (C823151).",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-43380?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C165001~faq-43380",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:23.229057"
+        },
+        {
+          "question": "I'm printing serial, my baud rate is at 9600, and intermittently my product will lose data. What should I do?",
+          "answer": "If you are using a non-buffered serial interface board and XON/XOFF is enabled, the XOFF signal may not reach the printer in time to delay data transmission that would result in an overflow and loss of data. If you can use a DTR setting, change XON/XOFF to DTR. If you must use XON/XOFF, try decreasing the baud rate. Another option would be to purchase a 32KB buffered serial interface card (C823071). The buffered serial interface has a flag reset timing, which sets aside additional buffer space to \"catch\" the data overflow. The flag reset timing feature settings are selectable through dip switches on the serial interface card.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-43386?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C165001~faq-43386",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:24.116751"
+        },
+        {
+          "question": "How do I change my product's default settings?",
+          "answer": "Hold down the PITCH button while you turn the printer on.\nThe default settings will print with instructions on how to change them.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-50169?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C165001~faq-50169",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:25.022652"
+        },
+        {
+          "question": "What settings do the DIP switches control?",
+          "answer": "This printer does not have dip switches. Hold down the PITCH button while you turn the printer on, and it will print out its settings and tell you how to change them.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-52284?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C165001~faq-52284",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:25.941615"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "How do you select bar codes on my product?",
+          "answer": "The eight built-in bar codes are only selectable through software using an ESC code sequence. The built-in bar codes include: EAN-13, EAN-8, Interleaved 2 of 5, UPC-A, UPC-E, Code 39, Code 128, and POSTNET.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-43369?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C165001~faq-43369",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:26.839209"
+        },
+        {
+          "question": "What is the recommended duty cycle for my product?",
+          "answer": "The specification recommended is 25 percent. Epson America's definition of a 25 percent duty cycle stands for the printer printing (not idle) for two hours per day based on an eight hour day at 22 days per month.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-43382?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C165001~faq-43382",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:27.781941"
+        },
+        {
+          "question": "Why does my product stop or pause in the middle of a print job?",
+          "answer": "The printer has a built-in sensor that monitors the temperature of the print head. When the print head begins to get too hot, the printer may pause or slow down the speed of the print head unit to ensure that the print head does not overheat. If the print head begins to overheat, the thermistor will stop the print head completely until it has cooled down. Once the print head has sufficiently cooled down, the printer will resume the print job. Another reason for the printer to pause or stop can be that the printer is waiting for more data or is in the middle of processing data already received.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-43381?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C165001~faq-43381",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:28.787209"
+        },
+        {
+          "question": "My product beep 5 times when I turn it on. What should I do?",
+          "answer": "If the printer beeps 5 times when it is turned on, try the following to see if it solves the problem.\n1) Shut printer power off\n2) Slide printhead from left to right about 10 times (ensuring the printhead touches each side of the carriage)\n3) Center the printhead and power it back on\nThis may clear the error, which is most likely due to a faulty or dirty contact in the home position sensor. If not, then the unit may be in need of service by an authorized EPSON service center.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-49646?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C165001~faq-49646",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:29.698844"
+        },
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-000096d-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C165001~faq-000096d-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:30.607339"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C165001~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C165001~faq-00004b0-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2170/s/SPT_C165001",
+          "fetched_at": "2026-04-02T05:15:31.643633"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

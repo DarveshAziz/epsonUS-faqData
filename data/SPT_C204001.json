@@ -1,0 +1,278 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Impact Printers",
+  "series": "DFX Series",
+  "model": {
+    "name": "Epson DFX-8500",
+    "sku": "SPT_C204001",
+    "url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8500/s/SPT_C204001"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C204001~faq-000096d-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C204001~faq-000096d-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8500/s/SPT_C204001",
+          "fetched_at": "2026-04-02T04:49:56.778266"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C204001~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C204001~faq-00004b0-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8500/s/SPT_C204001",
+          "fetched_at": "2026-04-02T04:49:57.917093"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C204001~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C204001~faq-00004dc-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8500/s/SPT_C204001",
+          "fetched_at": "2026-04-02T04:49:59.005338"
+        },
+        {
+          "question": "What printer driver should I use if my product is not listed?",
+          "answer": "DFX-5000+, DFX-8000, DFX-5000, FX-870/1170, FX series, LX series, RX series, or MX series.",
+          "faq_url": "https://epson.com/faq/SPT_C204001~faq-33996?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C204001~faq-33996",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8500/s/SPT_C204001",
+          "fetched_at": "2026-04-02T04:50:00.103860"
+        },
+        {
+          "question": "What is the recommended duty cycle for my product?",
+          "answer": "The specification recommended is 25 percent. Epson America's definition of a 25 percent duty cycle stands for the printer printing (not idle) for two hours per day based on an eight hour day at 22 days per month.",
+          "faq_url": "https://epson.com/faq/SPT_C204001~faq-33985?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C204001~faq-33985",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8500/s/SPT_C204001",
+          "fetched_at": "2026-04-02T04:50:01.264469"
+        },
+        {
+          "question": "Can my product be connected to IBM mainframe (IBM 3270) and IBM minicomputer (AS/400 or System 3X) environments?",
+          "answer": "Yes, the printer uses Type-B Twinax and Coax interface cards that enable users to attach their printer to an IBM 3270, System 3X, or AS/400. The Twinax and Coax interface cards are available through EPSON Accessories.",
+          "faq_url": "https://epson.com/faq/SPT_C204001~faq-33987?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C204001~faq-33987",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8500/s/SPT_C204001",
+          "fetched_at": "2026-04-02T04:50:02.535862"
+        },
+        {
+          "question": "Can my product be connected to an Ethernet network?",
+          "answer": "Yes, by adding an optional (internal) EPSON Multiprotocol Ethernet Print Server board (C823572), the printer can be directly connected to an Ethernet network as a print server. With the printer's Status Monitor capability, users are alerted when errors occur and receive printer status and trouble shooting information.",
+          "faq_url": "https://epson.com/faq/SPT_C204001~faq-34005?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C204001~faq-34005",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8500/s/SPT_C204001",
+          "fetched_at": "2026-04-02T04:50:03.905242"
+        },
+        {
+          "question": "I get incorrect print on labels or other custom paper sizes. What should I do?",
+          "answer": "When printing on Custom paper sizes, you should use the EPSON FX-1050 driver ( in the Print Wizard), here are the steps to take:\n1) From the Desktop click Start\n2) Go to Settings\n3) Go to Printers\n4) Highlight the EPSON FX-1050 printer and click File, then Properties\n5) Go to Details and Setup\n6) For the Paper go to custom and click on it (this will give options to change paper sizes).\n7) Once paper size has been made ensure that you click OK to keep the setting.",
+          "faq_url": "https://epson.com/faq/SPT_C204001~faq-49457?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C204001~faq-49457",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8500/s/SPT_C204001",
+          "fetched_at": "2026-04-02T04:50:05.033735"
+        },
+        {
+          "question": "Why doesn't remote paper path switching work?",
+          "answer": "The only time the printer can change paper paths is when the optional paper cutter has been installed on the printer.\nIf the paper cutter is not installed, the printer would have to pull back through all the pages it had just printed and then change tractors. if you had a 20 or more page report, that would be a lot of paper being pulled back through the printer.\nSo, the change tractor code will not work with out the optional paper cutter.\nYou can get more information on the paper cutter by contacting the Epson Store.",
+          "faq_url": "https://epson.com/faq/SPT_C204001~faq-49456?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C204001~faq-49456",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8500/s/SPT_C204001",
+          "fetched_at": "2026-04-02T04:50:06.316635"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Some video drivers may cause a conflict in memory between the printerdriver and video memory. Try changing to the Windows video driver provided by Microsoft or check to see if the video card manufacturer has an updated video driver available. This is often the cause of strange printing problems such as missing characters or lines through the printed document.\nBroken printhead pins may also cause this problem. If the problem continues when performing the printer's self test then the printhead is most likely the problem. This would need to be serviced by an Epson authorized repair center.",
+          "faq_url": "https://epson.com/faq/SPT_C204001~faq-49452?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C204001~faq-49452",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8500/s/SPT_C204001",
+          "fetched_at": "2026-04-02T04:50:07.412413"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "How can I print barcodes?",
+          "answer": "This model does not have bar codes built-in. To print bar codes you will need to use an application that will send them graphically. You may want to check with a local computer supply store to see if they have such an application.",
+          "faq_url": "https://epson.com/faq/SPT_C204001~faq-49455?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C204001~faq-49455",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8500/s/SPT_C204001",
+          "fetched_at": "2026-04-02T04:50:08.506317"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "How do I create a custom paper size in the Server Properties?",
+          "answer": "Follow these steps to create a new page size accessible by all printer drivers installed in Windows:\nOpen the\nPrinters\nor\nPrinters and Faxes\nwindow.\nClick\nFile\n, then\nServer Properties\n.\nPut a check in the\nCreate a new form\nbox.\nInput a name for the custom paper size.\nUnder\nPaper Size\n, enter the desired height and width.\nClick\nSave\nor\nSave Form\nto add the new form size to the list, then\nOK\nto close Server Properties.",
+          "faq_url": "https://epson.com/faq/SPT_C204001~faq-140644?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C204001~faq-140644",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8500/s/SPT_C204001",
+          "fetched_at": "2026-04-02T04:50:09.771436"
+        },
+        {
+          "question": "Why doesn't remote paper path switching work?",
+          "answer": "The only time the printer can change paper paths is when the optional paper cutter has been installed on the printer.\nIf the paper cutter is not installed, the printer would have to pull back through all the pages it had just printed and then change tractors. if you had a 20 or more page report, that would be a lot of paper being pulled back through the printer.\nSo, the change tractor code will not work with out the optional paper cutter.\nYou can get more information on the paper cutter by contacting the Epson Store.",
+          "faq_url": "https://epson.com/faq/SPT_C204001~faq-49456?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C204001~faq-49456",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8500/s/SPT_C204001",
+          "fetched_at": "2026-04-02T04:50:11.044511"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "My product is not starting printing at the right position on the paper. How can I change the top-of-form setting?",
+          "answer": "You can change the starting print position by using the MICROFEED feature on the printer's control panel. Load your paper and wait until it stops feeding. Once it has stops press the TOF button to enter top-of-form mode. Then use the MICROFEED UP arrow or MICROFEED DOWN arrow to adjust the top-of-form position. The printer will beep continuously and will not move anymore when it has reached the maximum adjustment point. Once you have the paper where you want it, press the TOF button again.",
+          "faq_url": "https://epson.com/faq/SPT_C204001~faq-33991?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C204001~faq-33991",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8500/s/SPT_C204001",
+          "fetched_at": "2026-04-02T04:50:12.209988"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Some video drivers may cause a conflict in memory between the printerdriver and video memory. Try changing to the Windows video driver provided by Microsoft or check to see if the video card manufacturer has an updated video driver available. This is often the cause of strange printing problems such as missing characters or lines through the printed document.\nBroken printhead pins may also cause this problem. If the problem continues when performing the printer's self test then the printhead is most likely the problem. This would need to be serviced by an Epson authorized repair center.",
+          "faq_url": "https://epson.com/faq/SPT_C204001~faq-49452?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C204001~faq-49452",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8500/s/SPT_C204001",
+          "fetched_at": "2026-04-02T04:50:13.335118"
+        },
+        {
+          "question": "I get incorrect print on labels or other custom paper sizes. What should I do?",
+          "answer": "When printing on Custom paper sizes, you should use the EPSON FX-1050 driver ( in the Print Wizard), here are the steps to take:\n1) From the Desktop click Start\n2) Go to Settings\n3) Go to Printers\n4) Highlight the EPSON FX-1050 printer and click File, then Properties\n5) Go to Details and Setup\n6) For the Paper go to custom and click on it (this will give options to change paper sizes).\n7) Once paper size has been made ensure that you click OK to keep the setting.",
+          "faq_url": "https://epson.com/faq/SPT_C204001~faq-49457?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C204001~faq-49457",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8500/s/SPT_C204001",
+          "fetched_at": "2026-04-02T04:50:14.507925"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "What printer driver should I use if my product is not listed?",
+          "answer": "DFX-5000+, DFX-8000, DFX-5000, FX-870/1170, FX series, LX series, RX series, or MX series.",
+          "faq_url": "https://epson.com/faq/SPT_C204001~faq-33996?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C204001~faq-33996",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8500/s/SPT_C204001",
+          "fetched_at": "2026-04-02T04:50:15.772621"
+        },
+        {
+          "question": "Can my product be connected to IBM mainframe (IBM 3270) and IBM minicomputer (AS/400 or System 3X) environments?",
+          "answer": "Yes, the printer uses Type-B Twinax and Coax interface cards that enable users to attach their printer to an IBM 3270, System 3X, or AS/400. The Twinax and Coax interface cards are available through EPSON Accessories.",
+          "faq_url": "https://epson.com/faq/SPT_C204001~faq-33987?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C204001~faq-33987",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8500/s/SPT_C204001",
+          "fetched_at": "2026-04-02T04:50:17.140772"
+        },
+        {
+          "question": "Can my product emulate an IBM Proprinter?",
+          "answer": "Yes, the DFX-8500 has a built-in IBM 2380+ and IBM 2381+ emulation.",
+          "faq_url": "https://epson.com/faq/SPT_C204001~faq-33999?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C204001~faq-33999",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8500/s/SPT_C204001",
+          "fetched_at": "2026-04-02T04:50:18.330223"
+        },
+        {
+          "question": "Can my product be connected to an Ethernet network?",
+          "answer": "Yes, by adding an optional (internal) EPSON Multiprotocol Ethernet Print Server board (C823572), the printer can be directly connected to an Ethernet network as a print server. With the printer's Status Monitor capability, users are alerted when errors occur and receive printer status and trouble shooting information.",
+          "faq_url": "https://epson.com/faq/SPT_C204001~faq-34005?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C204001~faq-34005",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8500/s/SPT_C204001",
+          "fetched_at": "2026-04-02T04:50:19.430397"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C204001~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C204001~faq-00004dc-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8500/s/SPT_C204001",
+          "fetched_at": "2026-04-02T04:50:20.583040"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "What is the recommended duty cycle for my product?",
+          "answer": "The specification recommended is 25 percent. Epson America's definition of a 25 percent duty cycle stands for the printer printing (not idle) for two hours per day based on an eight hour day at 22 days per month.",
+          "faq_url": "https://epson.com/faq/SPT_C204001~faq-33985?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C204001~faq-33985",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8500/s/SPT_C204001",
+          "fetched_at": "2026-04-02T04:50:21.728870"
+        },
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C204001~faq-000096d-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C204001~faq-000096d-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8500/s/SPT_C204001",
+          "fetched_at": "2026-04-02T04:50:22.864508"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C204001~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C204001~faq-00004b0-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8500/s/SPT_C204001",
+          "fetched_at": "2026-04-02T04:50:24.102994"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

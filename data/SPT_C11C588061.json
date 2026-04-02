@@ -1,0 +1,607 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "All-In-Ones",
+  "series": "AcuLaser Series",
+  "model": {
+    "name": "Epson AcuLaser CX11N",
+    "sku": "SPT_C11C588061",
+    "url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C588061~faq-00004dc-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:52:43.205164"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C588061~faq-00004b0-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:52:44.226140"
+        },
+        {
+          "question": "What are the port numbers for Epson network printers (wired and wireless)?",
+          "answer": "See the table below.\nNote:\nNot all operations are supported by all products.\nService name\nProtocol type\nLocal/Remote port number\nControls these operations\nENPC\nUDP\n3289/Any port\nSearching for a product from applications such as printer or scanner drivers, or EpsonNet Config\nSNMP\nUDP\n161/Any port\nAcquiring and configuring MIB from applications such as printer or scanner drivers, or EpsonNet Config\nLPR\nTCP\n515/Any port\nForwarding LPR data\nRAW (Port9100)\nTCP\n9100/any port\nForwarding RAW data\nIPP/IPPS\nTCP\n631/Any port\nForwarding AirPrint data (IPP/IPPS printing)\nWSD\nTCP\nAny port/5357\nControlling WSD\nWS-Discovery\nUDP\n3702/Any port\nSearching for a product from WSD\nNetwork Scan\nTCP\n1865/Any port\nForwarding scan data from Document Capture Pro and Document Capture\nNetwork Push Scan\nTCP\nAny port/2968\nAcquiring job information on push scanning from Document Capture Pro and Document Capture\nNetwork Push Scan Discovery\nUDP\n2968/Any port\nSearching for a computer during push scanning from Document Capture Pro and Document Capture\nFTP Data (Local)\nTCP\n20/Any port\nForwarding FTP printing data to FTP server\nFTP Control (Local)\nTCP\n21/Any port\nControlling FTP printing to FTP server\nFTP Data (Remote)\nTCP\nAny port/20\nForwarding scan data and received fax data to FTP client; controls only an FTP server that uses remote port 20\nFTP Control (Remote)\nTCP\nAny port/21\nForwarding scan data and received fax data to FTP client\nCIFS (Local)*\nTCP\n445/Any port\nSharing a network folder on CIFS server\nCIFS (Remote)*\nTCP\nAny port/445\nForwarding scan data and received fax data to a folder on CIFS server\nNetBIOS Name Service (Local)\nUDP\n137/Any port\nSharing a network folder on CIFS server\nNetBIOS Datagram Service (local)\nUDP\n138/Any port\nNetBIOS Session Service (Local)\nTCP\n139/Any port\nNetBIOS Name Service (Remote)\nUDP\nAny port/137\nForwarding scan data and received fax to a folder on CIFS server\nNetBIOS Datagram Service (Remote)\nUDP\nAny port/138\nNetBIOS Service (Remote)\nTCP\nAny port/139\nHTTP (Local)\nTCP\n80/Any port\nForwarding Web Config and WSD data to a HTTP or HTTPS server\nHTTPS (Local)\nTCP\n443/Any port\nHTTP (Remote)\nTCP\nAny port/80\nCommunicating with Epson Connect or Chromebook Native Printing, firmware update, and root certificate update on a HTTP or HTTPS client\nHTTPS (Remote)\nTCP\nAny port/443\n* To control forwarding of scan and received fax data, share a network folder, or receive fax data from PC-Fax, select\nPort Number\nas the\nMethod of Choosing Port\noption and specify the port numbers for CIFS and NetBIOS.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-0000525-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C588061~faq-0000525-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:52:45.185205"
+        },
+        {
+          "question": "How do I set up my product to work on a TCP/IP network?",
+          "answer": "If you have an existing network, TCP/IP is probably being used and being distributed by a DHCP device (a DHCP server or DHCP stand-alone router/gateway, for example). All you need to do is verify that a TCP/IP address has been obtained or manually enable TCP/IP through the CX11N's control panel.\nFollow these steps to verify whether a TCP/IP address has been obtained:\nPress the\nSetup\nbutton.\nAt the\nPrinter Settings\noption, press the\nbutton.\nAt the\nInformation\noption, press the\nbutton.\nUse the\nbutton to select\nNetwork Status Sheet\n, then press the\nbutton. The CX11N will print a status sheet.\nOn the status sheet, check the second item in the\nTCP/IP\nsection and verify that the IP address has a number such as the example shown below:\nIP Address\n135.792.46.813\nSubnet Mask\n255.255.255.0\nDefault Gateway\n135.792.46.001\nThe information in the\nTCP/IP\nsection on your status sheet should match the network segment being used on the network that the computers belong to.\nIf the IP address in the\nTCP/IP\nsection is 169.254.43.71 and the information is as shown below, the network is not releasing a TCP/IP address to the CX11N.\nIP Address\n169.254.43.71\nSubnet Mask\n255.255.0.0\nDefault Gateway\n(None)\nFollow these steps to enable the CX11N to accept a TCP/IP address:\nPress the\nSetup\nbutton.\nUse the\nbutton to select\nHost I/F Settings\n, then press the\nbutton.\nUse the\nbutton to select\nNetwork Settings\n, then press the\nbutton.\nUse the\nbutton to select\nNetwork I/F=On\n, then press the\nbutton.\nTurn the CX11N off, wait 1 minute, then turn it back on.\nReprint a network status sheet to verify that the CX11N has obtained a TCP/IP address. The CX11N should now be enabled for TCP/IP and available on the network segment.\nInstall the CX11N software in network mode to print and scan from the network.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61839?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C588061~faq-61839",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:52:46.114152"
+        },
+        {
+          "question": "How do I remove a toner cartridge if no toner out message is displayed?",
+          "answer": "Follow these steps to replace a toner cartridge when no toner out message is displayed:\nPress the\nSetup\nbutton on the control panel.\nPress the\nor\nbutton to select\nPrint Settings\n, then press the\nbutton.\nPress the\nor\nbutton to select\nReset Menu\n, then press the\nbutton.\nPress the\nor\nbutton to select\nChange Toner C/M/Y/K\nfor the color of the toner cartridge you want to change, then press the\nbutton.\nWhen\nReplace Toner\nappears, open the front door and replace the toner cartridge.\nClose the front door to bring the printer back online.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-77583?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C588061~faq-77583",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:52:47.005743"
+        },
+        {
+          "question": "The background on my printout seems dark or speckled. What should I do?",
+          "answer": "See\nThe printout background seems dark or speckled\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61811?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C588061~faq-61811",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:52:47.898048"
+        },
+        {
+          "question": "My scanner software doesn't work properly. What should I do?",
+          "answer": "See\nThe scanner software does not work properly\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61833?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C588061~faq-61833",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:52:48.770414"
+        },
+        {
+          "question": "My product does not appear in the EpsonNet setup list after I installed my product on my network using DHCP mode. What should I do?",
+          "answer": "Depending on the configuration of your network, it may take several minutes for the printer to initially appear on the EpsonNET list.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-77044?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C588061~faq-77044",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:52:49.619922"
+        },
+        {
+          "question": "I can't start Epson Scan. What should I do?",
+          "answer": "See\nYou cannot start EPSON Scan\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61832?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C588061~faq-61832",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:52:50.506827"
+        },
+        {
+          "question": "The Print light does not turn on when I turn on the product. What should I do?",
+          "answer": "Make sure the power cord is plugged into both a power outlet and the CX11N. Also, make sure the outlet is operational and not connected to a timer or switch.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61808?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C588061~faq-61808",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:52:51.404757"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "How do I print a status sheet?",
+          "answer": "See\nPrinting a Status Sheet\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61807?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C588061~faq-61807",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:52:52.319728"
+        },
+        {
+          "question": "When I press the B&W Start or Color Start button to make a copy, nothing happens. What should I do?",
+          "answer": "Check the following:\nThe CX11N may not be in Copy mode when you are pressing the button (Print mode is the default mode). Make sure you press the\nCopy\nbutton before you press either\nB&W Start\nor\nColor Start\n.\nNote:\nIf you don't press any button for more than 3 minutes, the CX11N returns to Print mode.\nMake sure paper is loaded in the MP tray or the optional Paper Cassette Unit. See\nLoading Paper\n.\nMake sure your original is placed face-down on the document table. See\nSetting Your Originals\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61825?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C588061~faq-61825",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:52:53.290347"
+        },
+        {
+          "question": "What sizes of documents can I copy or scan with my product?",
+          "answer": "You can copy or scan any document up to size A4 (8.5” x 11.7”).",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61828?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C588061~faq-61828",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:52:54.342167"
+        },
+        {
+          "question": "It takes a long time to copy a document. What should I do?",
+          "answer": "Try the following:\nSelect\nB&W\nas the copy type.\nSelect\nWith Border\nas the layout type.*\nMake sure\n2-Sided Printing\nis turned off.*\nSelect\nPlain Paper\nas the paper type.\nSelect\nDraft\nor\nStandard\nas the quality type.\nMake sure\nDry Time\nis set to\nStandard\n.*\n* This step may not apply to your all-in-one.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-151058?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C588061~faq-151058",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:52:55.269152"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "When I try to copy using the High quality document type setting at the same time as the 2 Pages per Sheet setting, I get a memory error message. What should I do?",
+          "answer": "To use the\nHigh quality\nsetting, your CX11N should have at least 256MB of memory. If you're not sure how much memory your CX11N has,\nprint a status sheet\nand then\nadd memory\nif necessary.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61821?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11C588061~faq-61821",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:52:56.154432"
+        },
+        {
+          "question": "Why do I see the message Mem Overflow on my product's LCD screen?",
+          "answer": "The CX11N doesn't have enough memory to print the job. Press the\nB&W Start\nor\nColor Start\nto resume printing, or press the\nCancel\nbutton to cancel the print job.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61822?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11C588061~faq-61822",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:52:57.061495"
+        },
+        {
+          "question": "Why do I see the message Check Transparency on my product's LCD screen?",
+          "answer": "There may be a mismatch between the loaded paper or transparencies and the printer driver setting for your paper or transparencies.\nAlso, paper may be jammed in the MP (multi-purpose) tray.\nClear jammed paper\nif necessary.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61823?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11C588061~faq-61823",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:52:58.010757"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "How often should I clean my product?",
+          "answer": "The product needs only minimal cleaning. When print quality has decreased, scan quality has decreased, or there is trouble with paper feeding, cleaning the CX11N may solve the problem. See\nCleaning the Product\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61817?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C11C588061~faq-61817",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:52:58.923018"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Memory Cards or External Devices",
+      "section_id": "8796127307852",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "How can I upgrade the memory on my product?",
+          "answer": "See\nMemory Module\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-62503?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11C588061~faq-62503",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:52:59.878628"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "How do I create a custom paper size in the Server Properties?",
+          "answer": "Follow these steps to create a new page size accessible by all printer drivers installed in Windows:\nOpen the\nPrinters\nor\nPrinters and Faxes\nwindow.\nClick\nFile\n, then\nServer Properties\n.\nPut a check in the\nCreate a new form\nbox.\nInput a name for the custom paper size.\nUnder\nPaper Size\n, enter the desired height and width.\nClick\nSave\nor\nSave Form\nto add the new form size to the list, then\nOK\nto close Server Properties.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-140850?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C588061~faq-140850",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:00.951555"
+        },
+        {
+          "question": "How do I create a custom paper size for my product in Windows?",
+          "answer": "Do the following:\nOpen the\nPrinters\nor\nPrinters and Faxes\nwindow.\nRight click you Epson Printer and select\nPrinting Preferences\n.\nOn the Main or Paper tab, select\nUser Defined\nfrom the Paper Size drop down menu.\nEnter the custom paper size and name.\nClick\nSave\nthen\nOK\n.\nClick\nOK\n.\nHow do I create a custom paper size within my Epson Windows printer driver?",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-140851?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C588061~faq-140851",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:02.074084"
+        },
+        {
+          "question": "How do I clear a paper jam?",
+          "answer": "See\nClearing Jammed Paper\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61818?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C588061~faq-61818",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:03.931398"
+        },
+        {
+          "question": "What types and quantities of paper can I load in my product?",
+          "answer": "You can load paper in the MP (multi-purpose) tray or the optional Paper Cassette Unit. For information on the types and quantities of paper you can use in each, see\nPaper Sources\n.\nYou can purchase the optional Paper Cassette Unit (part # C12C802181) from the Epson Store or from a local Epson dealer.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61824?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C588061~faq-61824",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:04.950507"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "Some or all of my printout is garbled. What should I do?",
+          "answer": "Check the following:\nMake sure both ends of the interface cable are fully plugged in. The interface cable may not be securely connected.\nMake sure you're using an interface cable with the correct specifications. If you're using a USB cable, make sure it is a shielded “AB” cable no more than 6.5 feet (2 meters) long.\nMake sure you have the correct printer driver selected in your software.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61810?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C588061~faq-61810",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:05.848991"
+        },
+        {
+          "question": "The background on my printout seems dark or speckled. What should I do?",
+          "answer": "See\nThe printout background seems dark or speckled\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61811?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C588061~faq-61811",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:06.753228"
+        },
+        {
+          "question": "What could be causing uneven tone in my printout?",
+          "answer": "See\nPrint quality or tone is uneven\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61812?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C588061~faq-61812",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:07.755032"
+        },
+        {
+          "question": "What could be causing toner smudges in my printout?",
+          "answer": "See\nToner smudges\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61813?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C588061~faq-61813",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:08.632573"
+        },
+        {
+          "question": "My product is printing blank pages from Windows or my Mac. What should I do?",
+          "answer": "See\nCompletely blank pages are output\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61815?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C588061~faq-61815",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:09.585664"
+        },
+        {
+          "question": "Why is the print missing on part of my printout?",
+          "answer": "See\nAreas are missing in the printed image\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61814?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C588061~faq-61814",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:10.633165"
+        },
+        {
+          "question": "My printed image is light or faint. What should I do?",
+          "answer": "See\nThe printed image is light or faint\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61816?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C588061~faq-61816",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:11.636620"
+        },
+        {
+          "question": "My copy is blank, or images are missing or faded. What should I do?",
+          "answer": "See\nCopies are blank, or images are missing or faded\nand/or\nCompletely blank pages are output\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61827?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C588061~faq-61827",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:10.776115"
+        },
+        {
+          "question": "The quality of my copies is not good. What should I do?",
+          "answer": "Make sure you're using the correct type of paper for copying. The available paper types for copying are not the same as those for printing. Depending on the paper source, the following paper types are available for copying:\nMP Tray: Plain paper, Letterhead, Recycled paper, Colored paper, Transparencies, Labels\nOptional Paper Cassette Unit: Plain paper, Letterhead, Recycled paper, Colored paper\nFor more help with copy quality, see\nCopy Quality Problems\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61826?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C588061~faq-61826",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:12.280935"
+        },
+        {
+          "question": "My scanned image is blurry. What should I do?",
+          "answer": "See\nThe image is distorted or blurred\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61837?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C588061~faq-61837",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:13.614810"
+        },
+        {
+          "question": "Why are the colors of my scanned image wrong?",
+          "answer": "See\nColors differ from the original\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61836?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C588061~faq-61836",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:14.714275"
+        },
+        {
+          "question": "My scans are being cropped (the edges are missing). What should I do?",
+          "answer": "Make sure you place your original at least .06 inches (1.5 mm) away from the top and left edges of the document table (glass) to avoid image cropping.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61838?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C588061~faq-61838",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:15.775987"
+        },
+        {
+          "question": "My product is new and all the colors are printing incorrectly. What should I do?",
+          "answer": "Make sure the toner cartridges are installed in the correct slots. The back plate of each cartridge slot is color coded to match the toner color for that slot.\nYellow toner cartridge\nYellow toner slot",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-76986?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C588061~faq-76986",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:16.858368"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Scan",
+      "section_id": "8796127569996",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "Why doesn't scanning start when I press the B&W Start or Color Start button?",
+          "answer": "If scanning doesn't start when you press one of the buttons on the CX11N, it could be software related. See\nPressing the Start button does not start scanning\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61829?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11C588061~faq-61829",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:17.965587"
+        },
+        {
+          "question": "My scanner software doesn't work properly. What should I do?",
+          "answer": "See\nThe scanner software does not work properly\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61833?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11C588061~faq-61833",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:18.857851"
+        },
+        {
+          "question": "How do I decide which resolution to select when scanning from Epson Scan?",
+          "answer": "See\nSelecting the Scan Resolution\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-72143?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11C588061~faq-72143",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:19.736845"
+        },
+        {
+          "question": "I want to enlarge an image that I'm scanning with Epson Scan. How do I obtain the best quality?",
+          "answer": "To obtain the best quality, you should resize your image when you're scanning instead of enlarging it later in an image-editing program.\nFor specific instructions on resizing your image when you're scanning, see\nSelecting the Scan Size\n.\nNote:\nIf you plan to enlarge your image later in an image-editing program, you need to increase the\nResolution\nsetting to retain a high image quality after enlargement. Increase the resolution by the same amount you will increase the image size. For example, if the resolution is 300 dpi (dots per inch), but you will increase the image size by 200% in an image-editing program, change the\nResolution\nsetting to 600 dpi in Epson Scan.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-72124?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11C588061~faq-72124",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:20.667377"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "The settings are grayed out in Epson Scan on my Mac. What should I do?",
+          "answer": "Create a new user account using the instructions below.  If you are able to change the settings in Epson Scan using the new account but not with the old account, please contact Apple for possible solutions.\nClick the Apple icon, then select\nSystem Preferences\n.\nUnder\nSystem\n, select\nAccounts\n.\nIf the padlock in the lower left corner is locked, click it to unlock it and enter the password when prompted.\nClick the\n+\nto create a new account.\nAt the top, change the New Account field to\nAdministrator\n.\nComplete the required fields, then click\nCreate Account\n.  (Do not set to automatically log in).\nClose the Accounts screen, click on the Apple icon to log out, then log in as the new user.\nOpen Epson Scan.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-156819?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C588061~faq-156819",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:21.647587"
+        },
+        {
+          "question": "How do I install the product software on a local computer that will be connected with a USB cable?",
+          "answer": "See\nInstall software\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61806?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C588061~faq-61806",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:22.617798"
+        },
+        {
+          "question": "How do I share the product on a standard Windows network?",
+          "answer": "See\nSharing the Printer on a Network\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61819?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C588061~faq-61819",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:23.511903"
+        },
+        {
+          "question": "I can't start Epson Scan. What should I do?",
+          "answer": "See\nYou cannot start EPSON Scan\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61832?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C588061~faq-61832",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:24.521700"
+        },
+        {
+          "question": "How do I set up my product to work on a TCP/IP network?",
+          "answer": "If you have an existing network, TCP/IP is probably being used and being distributed by a DHCP device (a DHCP server or DHCP stand-alone router/gateway, for example). All you need to do is verify that a TCP/IP address has been obtained or manually enable TCP/IP through the CX11N's control panel.\nFollow these steps to verify whether a TCP/IP address has been obtained:\nPress the\nSetup\nbutton.\nAt the\nPrinter Settings\noption, press the\nbutton.\nAt the\nInformation\noption, press the\nbutton.\nUse the\nbutton to select\nNetwork Status Sheet\n, then press the\nbutton. The CX11N will print a status sheet.\nOn the status sheet, check the second item in the\nTCP/IP\nsection and verify that the IP address has a number such as the example shown below:\nIP Address\n135.792.46.813\nSubnet Mask\n255.255.255.0\nDefault Gateway\n135.792.46.001\nThe information in the\nTCP/IP\nsection on your status sheet should match the network segment being used on the network that the computers belong to.\nIf the IP address in the\nTCP/IP\nsection is 169.254.43.71 and the information is as shown below, the network is not releasing a TCP/IP address to the CX11N.\nIP Address\n169.254.43.71\nSubnet Mask\n255.255.0.0\nDefault Gateway\n(None)\nFollow these steps to enable the CX11N to accept a TCP/IP address:\nPress the\nSetup\nbutton.\nUse the\nbutton to select\nHost I/F Settings\n, then press the\nbutton.\nUse the\nbutton to select\nNetwork Settings\n, then press the\nbutton.\nUse the\nbutton to select\nNetwork I/F=On\n, then press the\nbutton.\nTurn the CX11N off, wait 1 minute, then turn it back on.\nReprint a network status sheet to verify that the CX11N has obtained a TCP/IP address. The CX11N should now be enabled for TCP/IP and available on the network segment.\nInstall the CX11N software in network mode to print and scan from the network.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61839?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C588061~faq-61839",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:25.584299"
+        },
+        {
+          "question": "My product does not appear in the EpsonNet setup list after I installed my product on my network using DHCP mode. What should I do?",
+          "answer": "Depending on the configuration of your network, it may take several minutes for the printer to initially appear on the EpsonNET list.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-77044?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C588061~faq-77044",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:26.484157"
+        },
+        {
+          "question": "How can I make sure the toner cartridges are correctly installed?",
+          "answer": "The back plate of each cartridge slot is color coded to match the toner color for that slot. Be sure to install each toner cartridge in its corresponding slot.\nYellow toner cartridge\nYellow toner slot",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-81649?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C588061~faq-81649",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:27.417603"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C588061~faq-00004dc-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:28.469800"
+        },
+        {
+          "question": "What are the port numbers for Epson network printers (wired and wireless)?",
+          "answer": "See the table below.\nNote:\nNot all operations are supported by all products.\nService name\nProtocol type\nLocal/Remote port number\nControls these operations\nENPC\nUDP\n3289/Any port\nSearching for a product from applications such as printer or scanner drivers, or EpsonNet Config\nSNMP\nUDP\n161/Any port\nAcquiring and configuring MIB from applications such as printer or scanner drivers, or EpsonNet Config\nLPR\nTCP\n515/Any port\nForwarding LPR data\nRAW (Port9100)\nTCP\n9100/any port\nForwarding RAW data\nIPP/IPPS\nTCP\n631/Any port\nForwarding AirPrint data (IPP/IPPS printing)\nWSD\nTCP\nAny port/5357\nControlling WSD\nWS-Discovery\nUDP\n3702/Any port\nSearching for a product from WSD\nNetwork Scan\nTCP\n1865/Any port\nForwarding scan data from Document Capture Pro and Document Capture\nNetwork Push Scan\nTCP\nAny port/2968\nAcquiring job information on push scanning from Document Capture Pro and Document Capture\nNetwork Push Scan Discovery\nUDP\n2968/Any port\nSearching for a computer during push scanning from Document Capture Pro and Document Capture\nFTP Data (Local)\nTCP\n20/Any port\nForwarding FTP printing data to FTP server\nFTP Control (Local)\nTCP\n21/Any port\nControlling FTP printing to FTP server\nFTP Data (Remote)\nTCP\nAny port/20\nForwarding scan data and received fax data to FTP client; controls only an FTP server that uses remote port 20\nFTP Control (Remote)\nTCP\nAny port/21\nForwarding scan data and received fax data to FTP client\nCIFS (Local)*\nTCP\n445/Any port\nSharing a network folder on CIFS server\nCIFS (Remote)*\nTCP\nAny port/445\nForwarding scan data and received fax data to a folder on CIFS server\nNetBIOS Name Service (Local)\nUDP\n137/Any port\nSharing a network folder on CIFS server\nNetBIOS Datagram Service (local)\nUDP\n138/Any port\nNetBIOS Session Service (Local)\nTCP\n139/Any port\nNetBIOS Name Service (Remote)\nUDP\nAny port/137\nForwarding scan data and received fax to a folder on CIFS server\nNetBIOS Datagram Service (Remote)\nUDP\nAny port/138\nNetBIOS Service (Remote)\nTCP\nAny port/139\nHTTP (Local)\nTCP\n80/Any port\nForwarding Web Config and WSD data to a HTTP or HTTPS server\nHTTPS (Local)\nTCP\n443/Any port\nHTTP (Remote)\nTCP\nAny port/80\nCommunicating with Epson Connect or Chromebook Native Printing, firmware update, and root certificate update on a HTTP or HTTPS client\nHTTPS (Remote)\nTCP\nAny port/443\n* To control forwarding of scan and received fax data, share a network folder, or receive fax data from PC-Fax, select\nPort Number\nas the\nMethod of Choosing Port\noption and specify the port numbers for CIFS and NetBIOS.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-0000525-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C588061~faq-0000525-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:29.358004"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 9,
+      "faqs": [
+        {
+          "question": "When printing in Windows, how can I prevent an extra page from being ejected after every print job?",
+          "answer": "The Separator Page function may be enabled. Follow these steps to disable it:\nClick\nStart\nor\n.\nDo one of the following:\nWindows XP\n:\nSelect\nPrinters and Faxes\n(or select\nSettings\n, then select\nPrinters and Faxes\n).\nWindows Vista\n:\nSelect\nControl Panel\n, then\nPrinter\nor\nPrinters\nunder Hardware and Sound\n.\nWindows 7\n:\nSelect\nControl Panel\n, then\nView Devices and Printers\nunder Hardware and Sound.\nIn the\nPrinters\nor\nPrinters and Faxes\nwindow, right-click on your printer's name.\nSelect\nProperties\n, click the Advanced tab, then press the\nSeparator Page\nbutton.\nIn the Separator Page window, delete the information in the text box and then click\nOK\n.\nClick\nOK\nagain.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-164719?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C588061~faq-164719",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:30.314045"
+        },
+        {
+          "question": "The Print light does not turn on when I turn on the product. What should I do?",
+          "answer": "Make sure the power cord is plugged into both a power outlet and the CX11N. Also, make sure the outlet is operational and not connected to a timer or switch.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61808?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C588061~faq-61808",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:31.219237"
+        },
+        {
+          "question": "The Print light is on but nothing prints. What should I do?",
+          "answer": "If your CX11N won't print, you may have one of the following problems:\nYour computer may not be securely connected to the CX11N. Check the connection at both ends. If you're using a USB cable, connect the square end of the cable to the back of the CX11N and the flat end of the USB cable to any open USB port on your computer.\nYour application software may not be set up correctly. Make sure the CX11N is selected in your software.\nYour computer system's memory may be too small to handle the volume of data in your document. Try reducing the image resolution in your application software, or install more memory in your computer.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61809?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C588061~faq-61809",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:32.221214"
+        },
+        {
+          "question": "My product is connected to my computer with a USB cable and scanning is too slow. How can I improve my scanning speed?",
+          "answer": "If your computer supports USB 2.0, make sure the USB port on the CX11N is set for high speed.  Follow these steps to adjust the USB speed setting:\nMake sure the CX11N is turned on, then press the\nSetup\nbutton. The\nSetup\nlight comes on and the LCD screen displays\nSetup Mode\nfor a few seconds, then changes to the\nSetup\nmenu screen.\nUse the\nor\nbutton to select\nHost I/F Settings\n, then press the\nbutton.\nUse the\nor\nbutton to select\nUSB Settings\n, then press the\nbutton.\nUse the\nor\nbutton to select\nUSB Speed\n, then press the\nbutton.\nUse the\nor\nbutton to select\nHS\n.\nPress the\nScan\nbutton to exit Setup mode and return to Scan mode.\nTurn the CX11N off and then back on to activate the setting.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61820?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C588061~faq-61820",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:33.477874"
+        },
+        {
+          "question": "Why won't my product scan?",
+          "answer": "See\nThe product does not scan\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61835?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C588061~faq-61835",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:34.414553"
+        },
+        {
+          "question": "My product is connected to my computer with a USB cable, but the computer won't recognize it. Why?",
+          "answer": "Your CX11N may not work properly if you use a USB cable other than the one supplied by Epson. Use the USB cable that comes with your product.\nAlso, the CX11N may not work properly if you connect it to the computer through more than one hub. Connect the CX11N directly to your computer's USB port, or through one hub only.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-61834?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C588061~faq-61834",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:35.333396"
+        },
+        {
+          "question": "How do I remove a toner cartridge if no toner out message is displayed?",
+          "answer": "Follow these steps to replace a toner cartridge when no toner out message is displayed:\nPress the\nSetup\nbutton on the control panel.\nPress the\nor\nbutton to select\nPrint Settings\n, then press the\nbutton.\nPress the\nor\nbutton to select\nReset Menu\n, then press the\nbutton.\nPress the\nor\nbutton to select\nChange Toner C/M/Y/K\nfor the color of the toner cartridge you want to change, then press the\nbutton.\nWhen\nReplace Toner\nappears, open the front door and replace the toner cartridge.\nClose the front door to bring the printer back online.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-77583?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C588061~faq-77583",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:36.259452"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11C588061~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C588061~faq-00004b0-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/AcuLaser-Series/Epson-AcuLaser-CX11N/s/SPT_C11C588061",
+          "fetched_at": "2026-04-01T22:53:37.143127"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

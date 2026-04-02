@@ -1,0 +1,349 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Impact Printers",
+  "series": "FX Series",
+  "model": {
+    "name": "Epson FX-2190N",
+    "sku": "SPT_C11C526001NT",
+    "url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11C526001NT~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C526001NT~faq-00004b0-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT",
+          "fetched_at": "2026-04-02T05:02:57.808670"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11C526001NT~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C526001NT~faq-00004dc-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT",
+          "fetched_at": "2026-04-02T05:02:58.881973"
+        },
+        {
+          "question": "What are the common escape codes for my product?",
+          "answer": "Some commonly used escape codes are listed (in decimal values) in the table below.\nFunction\nCode\nReset\n(27, 64)\nSet page length in lines\n(27, 67, n - where n is a number from 1 to 127)\nCarriage return\n(13)\nLine feed\n(10)\nForm feed\n(12)\nSelect 1/8-inch line spacing\n(27, 77)\nSelect bold font\n(27, 69)\nCancel bold font\n27, 70\nSelect italic font\n(27, 52)\nCancel italic font\n(27, 53)\nTurn underline on/off\n(27, 45, n - where n equals 49=ON or 48=OFF)\nSelect condensed print\n(15)\nCancel condensed print\n(18)\nIf you need to use advanced escape codes for programming purposes, you can purchase an ESC/P Reference Manual from the Epson Store.",
+          "faq_url": "https://epson.com/faq/SPT_C11C526001NT~faq-35557?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C526001NT~faq-35557",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT",
+          "fetched_at": "2026-04-02T05:03:00.131885"
+        },
+        {
+          "question": "How should I print on single-sheet multipart forms?",
+          "answer": "See the instructions for Single-sheet Multipart Forms under\nLoading Special Papers\nand\nAdjusting the Paper-Thickness Setting\nin the User's Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C526001NT~faq-35531?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C526001NT~faq-35531",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT",
+          "fetched_at": "2026-04-02T05:03:01.687724"
+        },
+        {
+          "question": "Can I use the knob on the side of my product to adjust the paper position or to clear paper jams?",
+          "answer": "No. Never use the paper knob when the printer is on; this may damage the printer or cause it to lose the top-of-form position.",
+          "faq_url": "https://epson.com/faq/SPT_C11C526001NT~faq-35564?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C526001NT~faq-35564",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT",
+          "fetched_at": "2026-04-02T05:03:02.975598"
+        },
+        {
+          "question": "What optional interfaces are available from Epson for my product?",
+          "answer": "A list of\noptional interface cards\nis available in the Reference Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C526001NT~faq-35570?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C526001NT~faq-35570",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT",
+          "fetched_at": "2026-04-02T05:03:04.047053"
+        },
+        {
+          "question": "How should I print labels on my product?",
+          "answer": "See the instructions for Labels under\nLoading Special Papers\nin the User's Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C526001NT~faq-35527?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C526001NT~faq-35527",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT",
+          "fetched_at": "2026-04-02T05:03:05.361187"
+        },
+        {
+          "question": "How can I determine a problem from looking at the control panel lights and listening to my product beep patterns?",
+          "answer": "Use the table under\nUsing the Error Indicators\nin the User's Guide to diagnose printer errors.",
+          "faq_url": "https://epson.com/faq/SPT_C11C526001NT~faq-35571?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C526001NT~faq-35571",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT",
+          "fetched_at": "2026-04-02T05:03:06.509290"
+        },
+        {
+          "question": "How do I select bar codes on my product?",
+          "answer": "The built-in bar codes are only selectable through software using an ESC code sequence. The built-in bar codes include: EAN-13, EAN-8, Interleaved 2 of 5, UPC-A, UPC-E, Code 39, Code 128, POSTNET, Coda bar (NW-7), Industrial 2 of 5, Matrix 2 of 5",
+          "faq_url": "https://epson.com/faq/SPT_C11C526001NT~faq-35539?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C526001NT~faq-35539",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT",
+          "fetched_at": "2026-04-02T05:03:07.687098"
+        },
+        {
+          "question": "What types of computer interfaces does my product support?",
+          "answer": "The printer has built-in parallel and USB interfaces. It also has a factory installed 10/100 Mbps Ethernet interface.",
+          "faq_url": "https://epson.com/faq/SPT_C11C526001NT~faq-35577?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C526001NT~faq-35577",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT",
+          "fetched_at": "2026-04-02T05:03:08.756059"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "How should I print labels on my product?",
+          "answer": "See the instructions for Labels under\nLoading Special Papers\nin the User's Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C526001NT~faq-35527?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C526001NT~faq-35527",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT",
+          "fetched_at": "2026-04-02T05:03:09.877958"
+        },
+        {
+          "question": "How should I print on single-sheet multipart forms?",
+          "answer": "See the instructions for Single-sheet Multipart Forms under\nLoading Special Papers\nand\nAdjusting the Paper-Thickness Setting\nin the User's Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C526001NT~faq-35531?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C526001NT~faq-35531",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT",
+          "fetched_at": "2026-04-02T05:03:11.179504"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "How can I determine a problem from looking at the control panel lights and listening to my product beep patterns?",
+          "answer": "Use the table under\nUsing the Error Indicators\nin the User's Guide to diagnose printer errors.",
+          "faq_url": "https://epson.com/faq/SPT_C11C526001NT~faq-35571?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11C526001NT~faq-35571",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT",
+          "fetched_at": "2026-04-02T05:03:12.396913"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "The paper will not load from the tractor unit. What should I do?",
+          "answer": "Make sure the paper is loaded correctly. See\nSetting the Paper Release Lever\nand\nAdjusting the Paper-Thickness Setting\nin the User's Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C526001NT~faq-35529?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C526001NT~faq-35529",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT",
+          "fetched_at": "2026-04-02T05:03:13.628868"
+        },
+        {
+          "question": "Can I use the knob on the side of my product to adjust the paper position or to clear paper jams?",
+          "answer": "No. Never use the paper knob when the printer is on; this may damage the printer or cause it to lose the top-of-form position.",
+          "faq_url": "https://epson.com/faq/SPT_C11C526001NT~faq-35564?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C526001NT~faq-35564",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT",
+          "fetched_at": "2026-04-02T05:03:14.773443"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Follow the instructions under\nAligning Vertical Lines in Your Printout\nin the Reference Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C526001NT~faq-35524?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C526001NT~faq-35524",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT",
+          "fetched_at": "2026-04-02T05:03:15.894082"
+        },
+        {
+          "question": "My product starts printing too high or low on the page. How can I adjust the starting point of the print job?",
+          "answer": "The Micro Adjust function allows you to move the paper forward or backward in 1/216-inch (0.118 mm) increments to adjust the tear-off and top-of-form positions. See\nUsing the Micro Adjust Function\nin the User's Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C526001NT~faq-35569?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C526001NT~faq-35569",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT",
+          "fetched_at": "2026-04-02T05:03:17.131971"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "Can I change my product's default settings from the computer?",
+          "answer": "Yes, you can use the\nEPSON Remote Configuration Manager\nto change the printer's default settings from the computer.",
+          "faq_url": "https://epson.com/faq/SPT_C11C526001NT~faq-35544?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C526001NT~faq-35544",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT",
+          "fetched_at": "2026-04-02T05:03:16.591955"
+        },
+        {
+          "question": "How do I change the lock-out mode settings?",
+          "answer": "See\nChanging the lock-out mode setting\nin the Reference Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C526001NT~faq-35550?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C526001NT~faq-35550",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT",
+          "fetched_at": "2026-04-02T05:03:18.066227"
+        },
+        {
+          "question": "How do I change the default printer settings?",
+          "answer": "See\nChanging the Printer's Default Settings\nin the User's Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C526001NT~faq-35559?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C526001NT~faq-35559",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT",
+          "fetched_at": "2026-04-02T05:03:19.118746"
+        },
+        {
+          "question": "How do I reset my product?",
+          "answer": "To reset the printer's EEPROM, hold down the Load/Eject, LF/FF, and Pause buttons while turning on the printer. The printer beeps once, and restores its factory default settings.",
+          "faq_url": "https://epson.com/faq/SPT_C11C526001NT~faq-35560?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C526001NT~faq-35560",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT",
+          "fetched_at": "2026-04-02T05:03:20.228430"
+        },
+        {
+          "question": "What are the common escape codes for my product?",
+          "answer": "Some commonly used escape codes are listed (in decimal values) in the table below.\nFunction\nCode\nReset\n(27, 64)\nSet page length in lines\n(27, 67, n - where n is a number from 1 to 127)\nCarriage return\n(13)\nLine feed\n(10)\nForm feed\n(12)\nSelect 1/8-inch line spacing\n(27, 77)\nSelect bold font\n(27, 69)\nCancel bold font\n27, 70\nSelect italic font\n(27, 52)\nCancel italic font\n(27, 53)\nTurn underline on/off\n(27, 45, n - where n equals 49=ON or 48=OFF)\nSelect condensed print\n(15)\nCancel condensed print\n(18)\nIf you need to use advanced escape codes for programming purposes, you can purchase an ESC/P Reference Manual from the Epson Store.",
+          "faq_url": "https://epson.com/faq/SPT_C11C526001NT~faq-35557?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C526001NT~faq-35557",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT",
+          "fetched_at": "2026-04-02T05:03:21.317241"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11C526001NT~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C526001NT~faq-00004dc-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT",
+          "fetched_at": "2026-04-02T05:03:22.589236"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "How do I select bar codes on my product?",
+          "answer": "The built-in bar codes are only selectable through software using an ESC code sequence. The built-in bar codes include: EAN-13, EAN-8, Interleaved 2 of 5, UPC-A, UPC-E, Code 39, Code 128, POSTNET, Coda bar (NW-7), Industrial 2 of 5, Matrix 2 of 5",
+          "faq_url": "https://epson.com/faq/SPT_C11C526001NT~faq-35539?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C526001NT~faq-35539",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT",
+          "fetched_at": "2026-04-02T05:03:23.691519"
+        },
+        {
+          "question": "Can the Control Panel buttons be locked?",
+          "answer": "You can restrict the use of buttons on the control panel using the Lock-out mode. In the default Lock-out mode, you can use only the Pause, Load/Eject, and Tear off buttons.\nTo turn the Lock-out mode on and off, see\nTurning on or off the lock-out mode\nin the Reference Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C526001NT~faq-35546?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C526001NT~faq-35546",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT",
+          "fetched_at": "2026-04-02T05:03:24.769659"
+        },
+        {
+          "question": "How do I select the font and pitch?",
+          "answer": "See\nSelecting a Font and Pitch\nin the User's Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C526001NT~faq-35552?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C526001NT~faq-35552",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT",
+          "fetched_at": "2026-04-02T05:03:25.973974"
+        },
+        {
+          "question": "What optional interfaces are available from Epson for my product?",
+          "answer": "A list of\noptional interface cards\nis available in the Reference Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C526001NT~faq-35570?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C526001NT~faq-35570",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT",
+          "fetched_at": "2026-04-02T05:03:27.074094"
+        },
+        {
+          "question": "What is the recommended duty cycle for my product?",
+          "answer": "The specification is 25 percent. Which means the printer is printing (not idle) for two hours per day based on an eight-hour day, 22 days per month.",
+          "faq_url": "https://epson.com/faq/SPT_C11C526001NT~faq-35574?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C526001NT~faq-35574",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT",
+          "fetched_at": "2026-04-02T05:03:28.251614"
+        },
+        {
+          "question": "What types of computer interfaces does my product support?",
+          "answer": "The printer has built-in parallel and USB interfaces. It also has a factory installed 10/100 Mbps Ethernet interface.",
+          "faq_url": "https://epson.com/faq/SPT_C11C526001NT~faq-35577?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C526001NT~faq-35577",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT",
+          "fetched_at": "2026-04-02T05:03:29.440020"
+        },
+        {
+          "question": "Is there a self test to check my product operation separate from the computer?",
+          "answer": "Yes. See\nPrinting a Self Test\nin the User's Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C526001NT~faq-35576?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C526001NT~faq-35576",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT",
+          "fetched_at": "2026-04-02T05:03:30.684942"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11C526001NT~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C526001NT~faq-00004b0-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/FX-Series/Epson-FX-2190N/s/SPT_C11C526001NT",
+          "fetched_at": "2026-04-02T05:03:31.769023"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

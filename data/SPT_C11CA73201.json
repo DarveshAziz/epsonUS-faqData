@@ -1,0 +1,1503 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "All-In-Ones",
+  "series": "Artisan Series",
+  "model": {
+    "name": "Epson Artisan 835",
+    "sku": "SPT_C11CA73201",
+    "url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-00004c5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA73201~faq-00004c5-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:50:36.444094"
+        },
+        {
+          "question": "Can I use hole-punched paper with my product?",
+          "answer": "No. The product does not support this paper type.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000ab4-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA73201~faq-0000ab4-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:50:37.378660"
+        },
+        {
+          "question": "Can the Epson ink cartridges be refilled or can I use third-party ink cartridges without voiding the warranty?",
+          "answer": "Epson does not recommend refilling or using other brands of ink cartridges.  Epson uses a permanent Micro Piezo print head that has allowed Epson to lead the industry in delivering consistent photo image quality by using variable-sized droplets.  Micro Piezo print head can also use a wider variety of inks, which has allowed Epson to introduce such ink breakthroughs as DURABrite® and Epson UltraChrome® inks that offer greatly improved humidity resistance, smudge resistance, and fade resistance.\nUsing refilled ink cartridges will not void the product's original warranty; however, if these products cause a failure, the repair of that failure will not be covered under warranty.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000bf9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA73201~faq-0000bf9-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:50:38.316635"
+        },
+        {
+          "question": "What security measures does Epson recommend for its network products?",
+          "answer": "To help deter unauthorized access to your product over a network, you should protect your network environment using appropriate security measures.\nSecurity measures such as these can help deter threats such as loss of user data, use of telephone and fax lines, and other intrusions:\nEnable security on your wireless LAN if your product supports a wireless connection\nEnable the appropriate security on the wireless LAN you plan to use with your product. Network security, such as a network password, can deter interception of traffic over the wireless LAN. Your router may already have a default password enabled by your Internet service provider (ISP). See your ISP and router documentation for instructions on how to change the default password and better secure your network.\nConnect your product only to a network protected by a firewall\nConnecting your product directly to the Internet may leave it vulnerable to security threats. Instead, connect it to a router or other networking device protected by a firewall. Your router may already have a firewall set up by your Internet service provider; check with your ISP for confirmation. For best results, set up and use a private IP address for your network connection.\nChange the default administrator password on your product\nIf your product has an option to set an administrator password, change the default administrator password to deter access by unauthorized users to personal data stored on your product, such as IDs, passwords, and contact lists. See the product's User's Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000a05-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA73201~faq-0000a05-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:50:39.473123"
+        },
+        {
+          "question": "How do I find my SSID and network password?",
+          "answer": "Check your router documentation for this information. Most routers have a default SSID and password that can be modified once the router is set up.\nNote:\nThe SSID is the name of the wireless network that is set up on your router or access point.\nIf you don't know this information, you'll need to contact the manufacturer of your router or the person who set up your network.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000ae9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA73201~faq-0000ae9-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:50:40.458263"
+        },
+        {
+          "question": "How do I change the font size of text when I print from software in Windows?",
+          "answer": "You need to select the text or font size in the software you are printing from, not the printer driver. For detailed instructions, contact the company for the application you are printing from.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-00004b7-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA73201~faq-00004b7-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:50:41.471892"
+        },
+        {
+          "question": "Can I set up my product for both a USB and network connection?",
+          "answer": "No. The product supports only one connection type at a time: USB, Ethernet, or wireless.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000b00-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA73201~faq-0000b00-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:50:42.374410"
+        },
+        {
+          "question": "Where can I find information about Epson iPrint app?",
+          "answer": "See our FAQ page for the app (\niOS\nor\nAndroid\n).",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000950-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA73201~faq-0000950-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:50:43.345817"
+        },
+        {
+          "question": "Where can I find the IP address of my router?",
+          "answer": "Most wireless routers have a default IP address that can usually be found in the router's documentation.\nFor more support on your router, contact the manufacturer of your router.\nYou can also print a network status sheet from your printer's control panel to find your router's IP address.\nNote:\nThe network status sheet will list your router’s IP address only if you have set up your printer with a network connection to the router. If you print a network status sheet before setup, the router's IP address will not be listed on the network status sheet.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-00004c0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA73201~faq-00004c0-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:50:44.237791"
+        },
+        {
+          "question": "Can the printer still print if an ink cartridge is expended or not installed?",
+          "answer": "No. The printer will not operate if any cartridge is expended or removed. It's best to always have extra cartridges on hand.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-000051b-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA73201~faq-000051b-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:50:45.149282"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Cloud or Mobile",
+      "section_id": "8796127340620",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Where can I find information about Epson iPrint app?",
+          "answer": "See our FAQ page for the app (\niOS\nor\nAndroid\n).",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000950-shared?faq_cat=faq-8796127340620",
+          "faq_slug": "SPT_C11CA73201~faq-0000950-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:50:46.098879"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "My product is printing blank pages from Windows or my Mac. What should I do?",
+          "answer": "Try the following:\nMake sure the product is selected as your printer.\nMake sure the\nprint head nozzles\nare not clogged.\nTry turning on the\nSkip Blank Page\nsetting in the printer driver by doing one of the following:\nWindows\n: Access your print settings, click the\nMaintenance\ntab, then click the\nSpeed & Progress\nbutton. Select\nSkip Blank Page\n.\nMac OS X 10.4\n: Access your print settings and select\nExtension Setting\nfrom the print options pop-up menu. Select\nSkip Blank Page\n.\nMac OS X 10.5/6\n: Open the\nPrint + Fax\nutility, click the\nOptions + Supplies\nbutton, then click the\nDriver\ntab. Select\nSkip Blank Pages\n.\nTry printing a different document to determine if the problem is limited to one document. If it is, try recreating the document (with copy and paste, for example).",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167557?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA73201~faq-167557",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:50:47.454861"
+        },
+        {
+          "question": "How do I print a multi-page document from Windows or my Mac so it stacks in the correct page order?",
+          "answer": "Open a document, then follow the steps below for your operating system.\nWindows\nOpen the File menu or click\nand select\nPrint\n.\nMake sure the product is selected as the printer.\nClick\nProperties\nor\nPreferences\n.\nNote\n:\nIf you don't see these buttons, click\nSetup\n,\nPrinter\n, or\nOptions\n, then click\nProperties\nor\nPreferences\non the next screen.\nClick the\nMain\ntab.\nSelect\nReverse Order\n.\nClick\nOK\n.\nMac\nOpen the File menu and select\nPrint\n.\nMake sure the product is selected as the printer.\nWith Mac OS X 10.5 or 10.6, click the\nbutton to expand the Print window, if necessary.\nSelect\nPaper Handling\nfrom the printer options pop-up menu.\nSelect\nReverse\nfor the Page Order setting.\nClick\nPrint\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167576?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA73201~faq-167576",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:50:48.423710"
+        },
+        {
+          "question": "How do I print double-sided?",
+          "answer": "For Mac computers, see\nMac OS X 10.5/10.6\nor\nMac OS X 10.4\n.  For Windows, do the following:\nClick\nStart\n, select\nControl Panel\n, then\nPrinters and Faxes\nor\nPrinters and Other Hardware\n.\nClick\nView Installed Printers\n(if applicable), right-click on your printer icon then select\nPrinting Preferences\n.\nRight-click your product's printer software name.\nClick\nPrinting Preferences\n. A new window should open.\nClick the\nPage Layout\ntab.\nBelow 2-sided printing, choose\nAuto\nand click\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167578?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA73201~faq-167578",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:50:49.411516"
+        },
+        {
+          "question": "How do I print in black/grayscale only?",
+          "answer": "Open a document, then follow the steps below for your operating system to select\nBlack/Grayscale\nin the printer driver.\nNote\n:\nTo keep the print head clear and ready to print, the printer uses a small amount of ink from all the cartridges whenever it prints. Even if you select\nBlack/Grayscale\n, some color ink is still being used.\nBlack/Grayscale\nis not recommended for printing black-and-white photos.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167579?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA73201~faq-167579",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:50:50.278897"
+        },
+        {
+          "question": "How do I print a borderless photo from Windows or my Mac?",
+          "answer": "Make sure you loaded a\ncompatible borderless paper size and type\n, then do one of the following:\nFor Windows, select\nBorderless\non the Main tab of the printer driver. See\nSelect Basic Options\nfor more details.\nFor a Mac, select a paper size with a\nSheet feeder - Borderless\noption. See\nSelect Page Setup Options\n(Mac OS X 10.5/10.6) or\nSelect Page Options\n(Mac OS X 10.4) for more details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167593?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA73201~faq-167593",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:50:51.705276"
+        },
+        {
+          "question": "How do I set up my product for the fastest printing?",
+          "answer": "If you're printing from your computer, make sure your system\nmeets the requirements\n. If you're printing a high-resolution image, you need more than the minimum requirements listed. You may also need to:\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.\nIf you installed the product using a USB cable, use a computer with a high-speed USB 2.0 port.\nIf you installed the product using an Ethernet cable, use a computer and router (or hub or switch) with 100 Base-T ports.\nIf you installed the product as a wireless printer, use a computer and a router or wireless access point with 802.11g. Try moving the product and your wireless router closer together. Also avoid placing your product next to large metal objects (such as a filing cabinet), microwave ovens, or 2.4 GHz cordless phones.\nFor the fastest printing, try these tips:\nChoose\nBlack/Grayscale\nin your printer settings if your document doesn't include color.\nFor Windows, choose\nDraft\nfor the Quality Option.\nFor Mac, set the Quality/Speed slider to\nSpeed\n.\nMake sure\nQuiet Mode\nis not selected.\nIf the product is connected to a USB hub, disconnect unused USB devices.\nFor Windows, try adjusting the settings in the Speed & Progress window:\nRight-click the\nprinter icon in the lower right corner of your screen (taskbar) and select\nPrinter Settings\n. If you don't see the icon, see\nNo Printer Icon Appears in Windows Taskbar\nfor instructions on making it appear.\nClick the\nMaintenance\ntab.\nClick the\nSpeed & Progress\nbutton.\nSelecting one or more of the following settings will increase print speed:\nHigh Speed Copies\nAlways spool RAW datatype\nPage Rendering Mode\nPrint as Bitmap",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167587?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA73201~faq-167587",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:50:52.592373"
+        },
+        {
+          "question": "Can I print on transparencies?",
+          "answer": "No. The product does not support printing on this type of media.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167596?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA73201~faq-167596",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:50:53.552179"
+        },
+        {
+          "question": "Can I print on CDs and DVDs?",
+          "answer": "Yes. See\nPrint on a CD or DVD\nfor details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167597?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA73201~faq-167597",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:50:54.658283"
+        },
+        {
+          "question": "Does OS X support double-sided (duplex) printing with my product?",
+          "answer": "Your product has a built-in automatic duplexer and auto-duplexing is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167609?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA73201~faq-167609",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:50:55.954416"
+        },
+        {
+          "question": "How do I restore the colors in faded photos?",
+          "answer": "If you are making a copy of a photo using the product's control panel, see\nRestore, Crop, or Copy Multiple Photos\n.\nIf you are scanning a photo to your computer using Epson Scan, see\nRestore Color as You Scan\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167612?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA73201~faq-167612",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:50:56.875646"
+        },
+        {
+          "question": "How do I use the copy feature to print a label on a CD/DVD?",
+          "answer": "See\nCopy Onto CDs/DVDs\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167623?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA73201~faq-167623",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:50:57.789971"
+        },
+        {
+          "question": "How do I use the control panel buttons to copy a document, photo, or CD/DVD design?",
+          "answer": "See\nCopy a Document, Photo, or CD/DVD Design\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167632?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA73201~faq-167632",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:50:58.711825"
+        },
+        {
+          "question": "Printing and scanning seems slow on my product when I use a wireless connection (router or access point). What should I do?",
+          "answer": "Check the following:\nTry moving the computer and product closer to your wireless router .\nDon't place the computer, product, or wireless access point near microwaves, cordless telephones, or other sources of wireless interference.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167650?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA73201~faq-167650",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:01.096022"
+        },
+        {
+          "question": "Printing is slow or my product stops printing when I try to print from Windows or OS X. What should I do?",
+          "answer": "If printing becomes slow, try the following:\nMake sure your system meets the requirements for your operating system. If you are printing a high-resolution\n                    image, you may need more than the minimum requirements. If necessary, increase\n                    your system's memory.\nIf you're using Windows 7, close the\nDevices and Printer\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility to free up existing space.\nClose any programs that you're not using when you print.\nIf your product is connected to a USB hub, connect it directly to your computer instead.\nIf printing becomes slower after printing continuously for a long time, the product may have automatically slowed down to protect the print mechanism from\n                    overheating or becoming damaged. Let the product rest with the power on for 30\n                    minutes, then try printing again.\nIf the above steps did not improve your print speed, the\nEPAUDF01.AUD\nfile can be deleted.\nNote:\nRemoval of this temporary file is not an option in Windows 8 or Mac OS.\nFollow the instructions below to delete this temporary file:\nWindows 7 and Windows Vista\nClick on the\nbutton and click on\nMy Computer\n.\nDouble-click the\nLocal Disk C:\nand locate the\nProgramData\nfolder.\nOpen the\nProgramData\nfolder and double-click the\nEPSON\nfolder.\nNext, open the\nPRINTER\nfolder by double-clicking it.\nRight-click into the\nEPAUDF01.AUD\nfile and click\nDelete\n.\nOnce deleted, restart your computer.\nTry to print again.\nIf you do not see the ProgramData Folder try the following to unhide it:\nClick into the\nOrganize\nbutton from the Menu Bar.\nScroll down and click on\nFolder and search options\nand a Folder Options window will open.\nClick on the\nView\ntab. Under the Advance settings section locate the\nShow hidden files, folders, and drives\noption and mark the radio\n                    button. Once marked click\nOK\n.\nWindows XP\n:\nClick the\nand select\nMy Computer\n.\nDouble-click the\nLocal Disk C:\nand open the\nDocuments and Settings\nfolder.\nLocate the\nAll User\nfolder and double-click to open it.\nNext double-click to open\nApplication Data\nfolder and then the\nEPSON\nfolder.\nDouble-click to open the\nPRINTER\nfolder.  Right-click into the\nEPAUDF01.AUD\nfile and click\nDelete\n.\nOnce deleted, restart your computer.\nTry to print again.\nIf you do not see the Application Data Folder try the following to unhide it:\nClick into the\nTools\noption from the Menu Bar and select\nFolder Options\n, a new window will appear.\nSelect the\nView\ntab. Under the Advance settings section locate the\nShow hidden files, folders, and drives\noption and mark the radio button.\nOnce marked click\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-233596?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA73201~faq-233596",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:05.681194"
+        },
+        {
+          "question": "When I try to print to my product in Windows 7, printing is slow or my product stops printing. What should I do?",
+          "answer": "Try the following:\nSelect a lower quality setting in the printer software.\nMake sure your system meets the minimum system requirements for your printer.\nClose the\nDevices and Printers\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000bf3-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA73201~faq-0000bf3-shared",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:06.959385"
+        },
+        {
+          "question": "I can print wirelessly to my product on my home network, but I can't print when I connect the same computer to a VPN (virtual private network). What should I do?",
+          "answer": "Your product is set up to communicate wirelessly with your home network. When you connect to a VPN, your computer is no longer communicating with your home network, so it cannot print to the product. You'll need to connect to your home network to print again.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000ad6-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA73201~faq-0000ad6-shared",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:07.845540"
+        },
+        {
+          "question": "It takes a long time to copy a document. What should I do?",
+          "answer": "Try the following:\nSelect\nB&W\nas the copy type.\nSelect\nWith Border\nas the layout type.\nMake sure\n2-Sided Printing\nis turned off.\nSelect\nPlain Paper\nas the paper type.\nSelect\nDraft\n(draft quality is available for plain paper only) or\nStandard\nas the quality type.\nMake sure\nDry Time\nis set to\nStandard\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167639?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA73201~faq-167639",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:08.785768"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "I see the message Scanner Not Ready or Epson Scan will not start in Windows or on my Mac. What should I do?",
+          "answer": "Try the following:\nMake sure your product is turned on and securely connected to your computer or USB hub.\nIf your product is connected to a USB hub, make sure it's connected to a first tier hub (the hub closest to the computer) that has its own A/C adapter when more than one hub is connected to the computer.\nTry restarting your computer.\nMake sure Epson Scan is set up correctly for your connection type. See the steps below:\nMake sure the product is turned on.\nDo one of the following:\nWindows 8\n: Navigate to the\nStart\nscreen, right-click the screen, select\nAll apps\n, then select\nEPSON Scan Settings\n.\nWindows (other versions)\n: Click\nStart\nor\n, and select\nPrograms\nor\nAll Programs\n. Select\nEPSON Scan\n>\nEPSON Scan Settings\n(or\nEPSON\n, then\nEPSON Scan\n, and then\nEPSON Scan Settings\n.)\nMac\n: Search for\nEPSON Scan Settings\n, then click\nEPSON Scan Settings\nto open it.\nIf you see the screen below, click\nNo\n. The screen may appear twice.\nMake sure the correct scanner is selected.\nDo one of the following:\nIf the product is connected to your computer with a USB cable, make sure the\nConnection\nsetting is set to\nLocal\n, then skip the remaining steps.\nIf the product is set up on a network, make sure the\nConnection\nsetting is set to\nNetwork\nand your scanner appears under Network Scanner Address with the correct IP address, if these settings are correct, skip the remaining steps. If the IP address for your product does not appear, click\nAdd\n.\nNote:\nIf you don't know your product's IP address, print a Confirm Network Settings page from the printer's control panel. The IP address will appear on the page.\nClick\nAdd\n.\nSelect the IP address that appears in the list. If more than one IP address appears, be sure to select the one that matches your product's IP address.\nIf you have a firewall or Internet security software installed, the search feature may not work correctly. In this case, click\nEnter address\n, and enter the IP address manually.\nClick\nOK\n.\nClick\nOK\nagain to close the Epson Scan settings window.\nIf the steps above do not help, try the following.\nWindows 7 and Windows Vista\n:\nTurn off the printer.\nUninstall Epson Scan.\nRestart your computer.\nOpen Windows Explorer (right-click\n, then select\nExplore\nor\nOpen Windows Explorer\n).\nNavigate to\nC:\\Windows\nLocate the\ntwain_32\nfolder and rename it to a different name such as\ntwain_32_old\n.\nRestart your computer.\nReinstall Epson Scan.\nWindows (other versions)\nor\nMac\n: Uninstall and reinstall the Epson Scan software.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167625?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA73201~faq-167625",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:09.682240"
+        },
+        {
+          "question": "I see the message Installation Failed or Installation could not be completed due to the following error: 0x11 when I install my product software. What should I do?",
+          "answer": "An update to Windows 7 64-Bit Edition has caused the network installation on the product CD to not function properly. The driver files need to be updated.  Instead of using the CD to install the driver, please visit\nwww.epson.com/support\nand download the Drivers and Utilities Combo Driver package for your printer.\nDo the following:\nGo to\nwww.epson.com/support\n.\nUse the\nProduct Finder\nor select your product from the list.\nSelect\nDrivers and Utilities Combo Package\nfor Windows 7 64-bit Edition, then select\nDownload Now\n.\nFollow the on-screen instructions to install the software.\nTo install additional software utilities from the CD, follow the instructions below:\nInsert the CD into your computer's CD-ROM drive.\nSelect\nCustom.\nDeslect the\nPrinter Driver\nbox.\nSelect\nInstall\n. (All software will be installed except for the printer driver.)",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-181483?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA73201~faq-181483",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:10.546441"
+        },
+        {
+          "question": "The message An Error Has Occurred appears on my product's display screen. What should I do?",
+          "answer": "Please check the following:\nIf the CD tray is in the eject position, make sure you press the\nCD Tray\nbutton to retract the tray to the storage position.\nNever push or pull the CD tray into position.\nTurn the Artisan off and make sure paper is not jammed inside the unit.\nMake sure the transportation lock has been removed.\nStore the transportation lock as shown below.\nIf you continue to see the message on your control panel after the transportation lock has been removed, your printer may require service.\nPlease contact Epson support when you are with your computer and printer setup. The representative will assist you with a brief telephone diagnostic to confirm the need for service",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-204558?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA73201~faq-204558",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:11.422436"
+        },
+        {
+          "question": "I see the message Printer is Offline. What should I do?",
+          "answer": "Try the following:\nMake sure the product is powered on.\nCheck the product control panel for any error messages and follow the instructions to solve them.  See\nCheck the Messages on the Touch Screen\n.\nMake sure you are choosing the correct printer when printing.  If there are multiple copies of the same printer driver, remove the ones not in use.\nMake sure the USB cable is a shielded \"AB\" cable not more than 10 feet long.\nNote:\nDo not use devices that extend the length of the cable because they can interfere with signal transmission.\nIf you're using a USB hub with your printer, connect the printer directly to your computer.\nNote:\nDo not connect through a USB keyboard.  The keyboard acts like a hub and can interfere with signal transmission.\nUse a different port on your computer.\nIf your product is networked wirelessly, make sure it is connected to the network by checking the WiFi light.  If the WiFi light is off, reconfigure the product using the control panel.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-187435?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA73201~faq-187435",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:16.314338"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA73201~faq-00004c5-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:17.563503"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Fax",
+      "section_id": "8796125866060",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "Can I use the Epson FAX Utility to receive faxes into my computer?",
+          "answer": "No. The Epson FAX Utility will only send faxes from your computer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167616?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA73201~faq-167616",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:18.655929"
+        },
+        {
+          "question": "How do I send a fax?",
+          "answer": "See\nSend a Fax\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167640?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA73201~faq-167640",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:19.726022"
+        },
+        {
+          "question": "How do I create a header for my faxes?",
+          "answer": "See\nEnter the Header and Time Information\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167642?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA73201~faq-167642",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:20.787940"
+        },
+        {
+          "question": "What are speed dial and group lists and how do I create them for my fax numbers?",
+          "answer": "You can set up a speed dial list of fax numbers so you can quickly select them for faxing. You can also set up a group dial list to send a fax message to multiple speed dial numbers. See\nSet Up a Speed Dial and Group Dial List\nfor more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167641?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA73201~faq-167641",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:21.824623"
+        },
+        {
+          "question": "Will I lose faxes stored in the fax memory if my product is turned off?",
+          "answer": "Yes.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167644?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA73201~faq-167644",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:22.892182"
+        },
+        {
+          "question": "I'm having trouble sending or receiving faxes over a VoIP (Voice over Internet Protocol) phone line. Why?",
+          "answer": "Because fax machines are designed to work over standard analog telephone lines, Epson does not guarantee that fax transmission will work over VoIP phone lines. (VoIP uses a compression algorithm that can corrupt fax transmission.) Examples of VoIP or companies that provide VoIP service are Cox, Charter, Time Warner, Comcast, FiOS, magicJack, Verizon, Phone Power, AT&T and Vonage.\nInternet traffic can interfere with faxing because VoIP communicates through the Internet and not through standard analog telephone line. The data sent over the Internet for a fax is digitized into packets and this process can cause data loss.\nYou can try slowing the transmission speed of the fax by setting ECM and V.34 on the product to\nOff\n. See\nSelect Communication Settings\nfor instructions.\nIf this does not help, contact your VoIP service provider for help.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167649?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA73201~faq-167649",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:23.935073"
+        },
+        {
+          "question": "I'm having trouble sending or receiving faxes. What should I do?",
+          "answer": "Try the following:\nPrint a fax connection report to diagnose the problem. Press\nHome\nif necessary, then press\nor\nand select\nSetup\n. Select\nFax Settings\nand choose\nCheck Fax Connection\n. Make sure letter- or A4-size plain paper is loaded, and press\nStart\nto print the report.\nMake sure the\nLINE\nport on the product is connected to a telephone wall jack.\nIf you connected a\ntelephone or answering machine\n, make sure it is connected to your product's\nEXT.\nport. If you answer the phone and hear a fax tone, and the call disconnects when you hang up, check for a secure connection to the\nEXT.\nport.\nMake sure the Auto Answer feature is turned on so your product can automatically receive faxes as necessary. Press\n(Auto Answer) to turn it on.\nVerify that the telephone wall jack works by connecting a phone to it. If the line has static, turn off the\nV.34 and ECM (Error Correction Mode) settings\n.\nIf the product is connected to a DSL phone line, you must have a DSL filter connected to the phone jack. Contact your DSL provider for the necessary filter.\nIf the product is connected to a VoIP (Voice over Internet Protocol) phone line, you should be aware that fax machines are designed to work over standard analog phone lines. Epson cannot guarantee that fax transmission will work when using VoIP.\nIf your phone line includes voicemail answering services, calls or faxes may be inadvertently received by your voicemail service or calls may be received by the fax. If you use a voicemail service instead of an answering machine, you should set the product to receive faxes manually. then you can check for a fax tone from the fax machine and press a button to receive the fax.\nMake sure that your recipient's fax machine is turned on and working.\nMake sure\npaper is loaded correctly\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167647?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA73201~faq-167647",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:24.982067"
+        },
+        {
+          "question": "Can my product still send and receive a fax if an ink cartridge is expended or not installed?",
+          "answer": "Yes. Incoming faxes will be stored in the product's fax memory and will be printed automatically once the expended ink cartridge is replaced. The fax memory can hold up to 180 pages.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167643?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA73201~faq-167643",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:26.018378"
+        },
+        {
+          "question": "How do I change the baud rate on my fax?",
+          "answer": "There is no specific Baud Rate selection on the fax machine.  You can change the V.34 setting to OFF to slow down the Baud Rate to 14.4k.  See\nSelect Communication Settings\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-200847?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA73201~faq-200847",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:27.086588"
+        },
+        {
+          "question": "How do I use an answering machine with my fax?",
+          "answer": "See\nConnect a Phone or Answering Machine\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-200889?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA73201~faq-200889",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:28.128533"
+        },
+        {
+          "question": "My product is unable to receive faxes after I changed the number of rings to answer, V.34, and DRD settings. What should I do?",
+          "answer": "Do the following:\nPress the\nHome\nbutton, then select\nSetup\n.\nPress\nor\nto select\nRestore Default Settings\n.\nSelect\nReset Fax Send/Receive Settings\n.\nSelect\nYes\nand press\nOK\nto confirm.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-200980?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA73201~faq-200980",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:29.251349"
+        },
+        {
+          "question": "When I send a hand-written fax, the recipient can't read the fax content. What should I do?",
+          "answer": "Try writing your fax content with dark black or blue ink. Colored ink may not transfer properly. Also try changing the fax resolution to Fine or Photo. Note that selecting a higher resolution may slow down the fax speed slightly.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-203127?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA73201~faq-203127",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:30.337021"
+        },
+        {
+          "question": "How do I confirm my fax was sent?",
+          "answer": "You can print a fax report to confirm the fax was sent. See\nPrint Fax Reports\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-203240?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA73201~faq-203240",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:31.387291"
+        },
+        {
+          "question": "Will my fax still go through if I receive an ink expended or other error during transmission?",
+          "answer": "Yes, the fax will still go through unless the product is turned off.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-203273?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA73201~faq-203273",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:32.451851"
+        },
+        {
+          "question": "When I use the Epson Fax Utility to Fax from Microsoft Works, the text looks compressed or scrambled. What should I do?",
+          "answer": "Go to the\nDownloads\ntab for your product and download version 1.20 of the Utility.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-203305?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA73201~faq-203305",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:33.473293"
+        },
+        {
+          "question": "How do I add a delay when I fax to an International number?",
+          "answer": "Press the phone button on the product's touch screen, to insert a 3 second delay within a phone number. The delay will appear as a − (minus) symbol on product's display. For a longer delay, insert the − symbol multiple times.\nNote:\nYou can't add a delay at the beginning of a phone number.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-203338?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA73201~faq-203338",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:34.501526"
+        },
+        {
+          "question": "How do I restore my original fax settings?",
+          "answer": "Do the following:\nPress\nHome\nif necessary, then press\nor\nand select\nSetup\n.\nPress\nor\nand select\nRestore Default Settings\n.\nSelect\nReset Fax Send/Receive Settings\n.\nSelect\nYes\n, then press\nOK\nto confirm.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-203359?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA73201~faq-203359",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:35.593490"
+        },
+        {
+          "question": "How do I clear the fax header on my product?",
+          "answer": "Do the following:\nPress\nHome\nif necessary, then press\nor\nand select\nSetup\n.\nPress\nor\nand select\nRestore Default Settings\n.\nSelect\nReset Fax Data Settings:\n.\nNote:\nThis setting will restore the\nSpeed Dial Setup\n,\nGroup Dial Setup\n,\nHeader\n, and\nFax Log\nsettings to their original state.\nSelect\nYes\n, then press\nOK\nto confirm.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-203360?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA73201~faq-203360",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:36.660315"
+        },
+        {
+          "question": "Can I use the Fax Utility software to send a fax over a wireless network?",
+          "answer": "You can use the FAX Utility to send a fax in both Windows and Mac OS X.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-203366?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA73201~faq-203366",
+          "display_order": 20,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:37.700097"
+        },
+        {
+          "question": "I can send a fax but can't receive one. What should I do?",
+          "answer": "Try the following:\nSet the Auto Answer setting on the product to\nOn\n.\nIf you're using an answering machine, make sure it's connected to the EXT port on the product (not a wall jack).\nMake sure paper is loaded correctly in your product.\nTurn call waiting off. Call waiting may disrupt an incoming fax.\nIf you connect an answering machine and\nAuto Answer\nis turned on, make sure the product's\nRings to Answer\nsetting is set higher than the number of rings your answering machine is set to answer a call.\nNote:\nIf your phone line includes voicemail answering services, calls or faxes may be inadvertently received by your voicemail service.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-205409?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA73201~faq-205409",
+          "display_order": 21,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:38.985106"
+        },
+        {
+          "question": "Do I need to use a filter if I fax over a VoIP (Voice over Internet Protocol) line?",
+          "answer": "No, the filters are only required if you have DSL service.\nBecause fax machines are designed to work over standard analog telephone lines, Epson does not guarantee that fax transmission will work over VoIP phone lines (cable systems such as Cox, Charter, Time Warner, Comcast, FiOS, magicJack, and Vonage).\nInternet traffic can interfere with faxing because VoIP communicates through the internet and not through standard analog telephone lines. The data sent over the internet for a fax is digitized into packets and this process can cause data loss.\nYou can try slowing the transmission speed of the fax by setting ECM on the product to\nOff\nand selecting a slower Fax Speed. If this does not help, contact your VoIP service provider for help.\nFor more information, please contact your telephone service provider.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000ae8-shared?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA73201~faq-0000ae8-shared",
+          "display_order": 22,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:40.024072"
+        },
+        {
+          "question": "How many pages can I store in the fax memory?",
+          "answer": "The fax memory can store up to 180 pages.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000ad3-shared?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA73201~faq-0000ad3-shared",
+          "display_order": 23,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:41.075211"
+        },
+        {
+          "question": "Can I use digital voicemail with my fax?",
+          "answer": "If your digital voicemail is provided by your phone company and is not a separate answering machine, you cannot use the product to automatically receive and print faxes. To receive faxes manually, turn off Auto Answer mode. Epson recommends that you use a separate answering machine connected to the\nEXT\nport on the product for best results.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000afa-shared?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA73201~faq-0000afa-shared",
+          "display_order": 24,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:42.112558"
+        },
+        {
+          "question": "How do I print faxes stored in the fax memory when my product has an expended ink cartridge?",
+          "answer": "You will need to replace any ink cartridges that are expended. Once the ink cartridges are replaced and the printer has finished charging them, the printer will automatically print the faxes stored in memory.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-142897-shared?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA73201~faq-142897-shared",
+          "display_order": 25,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:43.158466"
+        },
+        {
+          "question": "The fax header gets cut off when I send a fax. What should I do?",
+          "answer": "Enter 25 characters or fewer for the fax header. Although you can enter up to 40 characters for the fax header (including spaces) on the product, only the first 25 characters will be on the outgoing fax.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-00004a2-shared?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA73201~faq-00004a2-shared",
+          "display_order": 26,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:44.209637"
+        },
+        {
+          "question": "I cannot access the fax settings on my product's control panel. What should I do?",
+          "answer": "If you're using a cordless phone with a base and the product is connected to the same phone line, make sure the cordless phone is in the phone cradle to access the fax settings on the control panel.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-00004a0-shared?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA73201~faq-00004a0-shared",
+          "display_order": 27,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:45.264287"
+        },
+        {
+          "question": "Do I need a filter if I'm faxing over a DSL?",
+          "answer": "Yes, you must connect the appropriate DSL filter or ISDN terminal adapter or router to the wall jack to use the line for faxing or voice calls on your product. Contact your DSL or ISDN provider for the necessary equipment.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-00004a1-shared?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA73201~faq-00004a1-shared",
+          "display_order": 28,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:46.452624"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Image Quality or Appearance",
+      "section_id": "8796127275084",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "An area I highlighted with a fluorescent (or neon) marker does not appear in my scan. What should I do?",
+          "answer": "Try using a non-fluorescent marker. This limitation occurs with some scanners that use a contact image sensor (CIS) and cannot detect fluorescent marks accurately, especially yellow marks.\nIf you need to scan a document with fluorescent marks, we recommend you use a scanner with charge-coupled device (CCD) technology or a full-color contact image sensor, both of which can detect fluorescent marks. The following Epson products feature CCD or full-color CIS optics:\nDS-30000\nDS-32000\nWorkForce DS-50000\nWorkForce DS-60000\nWorkForce DS-70000",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-00008c5-shared?faq_cat=faq-8796127275084",
+          "faq_slug": "SPT_C11CA73201~faq-00008c5-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:47.535021"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "The color ink cartridge is expended even though I print in black only. Why does this happen?",
+          "answer": "To keep the print head clear and ready to print, the printer uses a small amount of ink from all the cartridges whenever it prints. Even if you select\nBlack/Grayscale\n, some color ink is still being used.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167544?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA73201~faq-167544",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:48.580554"
+        },
+        {
+          "question": "I installed new ink cartridges and my product seems to be doing a long cleaning cycle. Is this normal?",
+          "answer": "Yes. It takes about 5 minutes for the printer to charge the ink delivery system when you install the first set of ink cartridges.\nNote\n:\nNever turn off the printer while it is charging the ink delivery system (unless the printer hasn't moved or made noise for more than 9 minutes). This initialization is a normal and necessary process. If the printer initialization does not stop after 9 minutes, turn the printer off and contact Epson technical support for assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167548?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA73201~faq-167548",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:49.617642"
+        },
+        {
+          "question": "Which ink cartridges should I use with my product?",
+          "answer": "You can use the following cartridges:\nInk color\nPart number\nStandard-capacity\nHigh-capacity\nBlack\n—\n98\nMagenta\n99\n98\nYellow\n99\n98\nCyan\n99\n98\nLight Magenta\n99\n98\nLight Cyan\n99\n98\nNote\n:\nWe recommend that you use genuine Epson cartridges and do not refill them. The use of other products may affect your print quality and could result in printer damage.\nCaution\n:\nLeave your old cartridges installed until you are ready to replace them to prevent the print head nozzles from drying out.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167546?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA73201~faq-167546",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:50.692964"
+        },
+        {
+          "question": "How do I know when an ink cartridge needs to be replaced?",
+          "answer": "You need to replace a cartridge when the replace cartridge indicator message appears. This means that one or more of the cartridges is expended. You may also see a message on your computer screen. See\nReplace Ink Cartridges\n.\nNote\n:\nWhen an installed ink cartridge is more than six months old, you may need to replace it if your printouts do not look their best even after you clean and align the print head.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167545?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA73201~faq-167545",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:51.727068"
+        },
+        {
+          "question": "I replaced an ink cartridge and my product shows that the same ink cartridge is expended. What should I do?",
+          "answer": "If you have just installed a new cartridge and you still see an ink-related error, the cartridge may not be installed correctly.\nFollow the steps below to make sure the cartridge is correctly installed.\nNote\n: We recommend that you use genuine Epson cartridges and do not refill them. The use of other products may affect your print quality and could result in printer damage.\nMake sure the printer is turned on.\nOpen the scanner.\nCaution\n:\nMake sure the Auto Document Feeder (scanner cover) is closed when you open the scanner.\nPress down each ink cartridge until it clicks into place. (If a cartridge is properly seated already, you may not hear a click.)\nNote\n: When you installed the new cartridge, you should have removed the yellow tape from the bottom. If you know you removed it, skip to step 4. If you're not sure, you can pull out the cartridge to check. (Squeeze the tab on the cartridge and lift it straight up.) Remove the tape if necessary, then reinstall the cartridge, pressing it down firmly.\nCaution\n: It's best not to remove a cartridge unless necessary. Note that if you remove a\nlow or expended\nink cartridge, you cannot reinstall and use that cartridge again.\nWarning\n: If ink gets on your hands, wash them thoroughly with soap and water. If ink gets into your eyes, flush them immediately with water. Keep ink cartridges out of the reach of children.\nClose the scanner.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167549?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA73201~faq-167549",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:52.755847"
+        },
+        {
+          "question": "How do I change the ink cartridges?",
+          "answer": "See\nReplace Ink Cartridges\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167571?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA73201~faq-167571",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:53.765851"
+        },
+        {
+          "question": "How long should an ink cartridge remain in my product if it's not used often?",
+          "answer": "When an installed ink cartridge is more than six months old, you may need to replace it if you notice that your printouts don't look as good as they used to and quality doesn't improve after cleaning and aligning the print head.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167601?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA73201~faq-167601",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:54.802221"
+        },
+        {
+          "question": "Can the Epson ink cartridges be refilled or can I use third-party ink cartridges without voiding the warranty?",
+          "answer": "Epson does not recommend refilling or using other brands of ink cartridges.  Epson uses a permanent Micro Piezo print head that has allowed Epson to lead the industry in delivering consistent photo image quality by using variable-sized droplets.  Micro Piezo print head can also use a wider variety of inks, which has allowed Epson to introduce such ink breakthroughs as DURABrite® and Epson UltraChrome® inks that offer greatly improved humidity resistance, smudge resistance, and fade resistance.\nUsing refilled ink cartridges will not void the product's original warranty; however, if these products cause a failure, the repair of that failure will not be covered under warranty.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000bf9-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA73201~faq-0000bf9-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:55.825003"
+        },
+        {
+          "question": "Can the printer still print if an ink cartridge is expended or not installed?",
+          "answer": "No. The printer will not operate if any cartridge is expended or removed. It's best to always have extra cartridges on hand.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-000051b-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA73201~faq-000051b-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:56.867710"
+        },
+        {
+          "question": "Does my all-in-one printer support non-printing functions when an ink cartridge is expended or not installed?",
+          "answer": "See our\nFAQ page\non which non-printing functions are supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000d77-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA73201~faq-0000d77-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:57.913123"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Memory Cards or External Devices",
+      "section_id": "8796127307852",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "Which memory cards are compatible with my product?",
+          "answer": "You can use the following memory cards:\nCompactFlash\nMicrodrive\nSD\nSDHC\nminiSD*\nminiSDHC*\nmicroSD*\nmicroSDHC*\nMemory Stick\nMemory Stick Duo*\nMemory Stick Micro (M2)*\nMemory Stick PRO\nMemory Stick PRO Duo*\nMemory Stick PRO-HG Duo*\nMultiMediaCard\nMMCplus\nMMCmobile*\nMMCmicro*\nMagicGate Memory Stick\nMagicGate Memory Stick Duo*\nxD-Picture Card\nxD-Picture Card Type H\nxD-Picture Card Type M\nxD-Picture Card Type M+\n* Adapter Required",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167618?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CA73201~faq-167618",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:51:58.968303"
+        },
+        {
+          "question": "Can I just pull the memory card out of my product when I'm finished printing?",
+          "answer": "No. Before removing a memory card from the product, make sure the memory card access light is not flashing. Do not remove a card while the card light is flashing, or you may lose data on the card.\nIf the product is connected to your computer, do one of the following before removing the memory card or turning it off:\nWindows:\nIf the product is connected to your computer by a USB cable, right-click the name of your card (removable disk) in My Computer or Windows Explorer, and select\nEject\n.\nIf the product is connected to your computer over a network connection, make sure that the memory card light is not flashing, then remove the card from the slot.\nMac:\nIf the product is connected to your computer by a USB cable, drag the\nremovable disk icon from your desktop into the trash.\nIf the product is connected to your computer over a network connection, make sure the memory card light is not flashing, then remove the card from the slot.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167617?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CA73201~faq-167617",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:00.014406"
+        },
+        {
+          "question": "I was able to access a memory card in my product when it was connected to my computer with a USB cable. But after I installed the network software, I can no longer access a card in my product from my computer. What happened?",
+          "answer": "When you enabled the network connection, the USB connection was disabled. The product supports only one connection type at a time: USB, Ethernet cable, or wireless.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167619?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CA73201~faq-167619",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:01.050699"
+        },
+        {
+          "question": "What is the largest supported memory card for my product?",
+          "answer": "See our\nMaximum Memory Card Specifications\npage for the specifications.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167621?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CA73201~faq-167621",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:02.092302"
+        },
+        {
+          "question": "Can I read or write to my memory card when my product display indicates that one or more ink cartridges are expended?",
+          "answer": "Yes, you can read or write to a memory card when the installed ink cartridge is expended. However, you cannot read or write to a memory card if the ink cartridge is not installed.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000ab2-shared?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CA73201~faq-0000ab2-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:03.127813"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "I'm having paper feed problems. What should I do?",
+          "answer": "See the solutions below.\nIf paper doesn't feed, remove it from the tray. Reload it against the right side, then adjust the edge guides. Make sure the paper is not above the edge guides inside the paper cassette.\nIf multiple pages feed at once, remove the paper from the tray or the Automatic Document Feeder, fan the edges to separate the sheets, then reload it.\nMake sure you use new, smooth, high-quality paper that is not curled, creased, old, or too thin. Load it printable side down.\nDo not load paper with holes punched in it for insertion in a binder.\nLoad only up to the\nrecommended number of sheets\n. If you're printing on both sides of the paper, try loading fewer sheets.\nMake sure you adjust the edge guide to match the length of the paper.\nIf you're using the Automatic Document Feeder, make sure the originals are not creased or folded and do not have tape, staples, or other materials that could obstruct the feeder. Load only up to 30 letter-size sheets (up to 10 for legal-size) at a time and slide the edge guides against the paper. Insert the originals face-down.\nFor help removing a paper jam, see the solution below for your problem:\nPaper Jams in the Cassette\nPaper Jams Inside the Product\nPaper Jams in the Auto Duplexer\nPaper Jams in Other Parts of the Product\nPaper Jams in the Automatic Document Feeder",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167550?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA73201~faq-167550",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:04.174286"
+        },
+        {
+          "question": "Does the type of paper I use really make a difference?",
+          "answer": "The type of paper you choose affects the way your printout looks, so be sure to select the correct paper for your print job. If you are just making a copy or printing a rough draft of an image, plain paper is fine. However, for the best results, you'll want to use one of Epson's special ink jet papers. For example, your photos will look great printed on\nEpson Premium Photo Paper Glossy\n. For a list of Epson special ink jet papers designed for the printer, see\nAvailable Epson Papers\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167572?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA73201~faq-167572",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:05.233365"
+        },
+        {
+          "question": "What kind of paper gives the best results for high quality printing?",
+          "answer": "For the best results, you'll want to use one of Epson's special ink jet papers designed for your printer. For example, your photos or presentations will look great printed on\nEpson Premium Photo Paper Glossy\n,\nEpson Premium Presentation Paper Matte\n, and\nEpson Bright White Paper\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167575?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA73201~faq-167575",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:06.325916"
+        },
+        {
+          "question": "How should I load envelopes?",
+          "answer": "See\nLoad Envelopes\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167574?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA73201~faq-167574",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:07.396561"
+        },
+        {
+          "question": "How do I know which paper or media type to select in my product's driver?",
+          "answer": "See\nPaper or Media Type Settings for Loaded Paper\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167583?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA73201~faq-167583",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:08.450172"
+        },
+        {
+          "question": "Can I print on sheet labels?",
+          "answer": "You can use Epson's\nPhoto Quality Self-adhesive Sheets\n. A cutting grid is printed on the reverse side of each sheet for easy trimming. To avoid paper jams, load only one sheet at a time. Also, set the\nType\nor\nMedia Type\nsetting in the driver to\nPremium Presentation Paper Matte\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167594?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA73201~faq-167594",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:09.461649"
+        },
+        {
+          "question": "Can I print on vellum paper?",
+          "answer": "No. The product does not support printing on this type of media.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167599?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA73201~faq-167599",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:10.502899"
+        },
+        {
+          "question": "Can I use hole-punched paper with my product?",
+          "answer": "No. The product does not support this paper type.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000ab4-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA73201~faq-0000ab4-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:11.546202"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 9,
+      "faqs": [
+        {
+          "question": "The quality of my printed output is unacceptable. What should I do?",
+          "answer": "If the image looks fine on your computer screen but not when printed, make sure you're using the latest driver version for your printer. Also make sure you select the correct quality option and paper type setting in the\nWindows\n,\nMac OS X 10.5/10.6\n, or\nMac OS X 10.4\nprinter software for your print job.\nIf the image also looks incorrect on screen, see\nImage Quality Problems (quality problem appears on screen)\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167553?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA73201~faq-167553",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:12.593609"
+        },
+        {
+          "question": "My printout has incorrect margins. What should I do?",
+          "answer": "The answer depends on whether you're printing, scanning, or copying. See the solutions below for your task.\nPrinting\nMake sure your paper is positioned correctly in the cassette.\nMake sure the paper settings are correct for your paper size in the\nWindows\n,\nMac OS X 10.5/10.6\n, or\nMac OS X 10.4\nprinter software.\nChoose the correct margins for your paper size in your printing program.\nUse the\nPrint Preview\noption in your\nWindows\n,\nMac OS X 10.5/10.6\n, or\nMac OS X 10.4\nprinter software to check your margins before you print.\nIf you're printing from a web browser, the pages may not print correctly due to the web page design. Try the following:\nCheck to see if there is a\nPrinter Friendly Version\n(or similarly named) icon or link on the web page that you can click on.\nExperiment with page setup and paper size, then select\nPrint Preview\nfrom the File menu in your web browser to view the changes.\nScanning or Copying\nMake sure your original is positioned against the back left corner of the glass. Move your original away from the edges slightly.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167555?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA73201~faq-167555",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:13.650468"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "See the solutions below:\nIf the paper you're using has a printable side (check your paper packaging for details), make sure the printable side is loaded face-down in the printer. The printable side is usually brighter or whiter.\nMake sure the paper\nType or Media Type setting\nmatches the paper you loaded.\nPrint a\nnozzle check pattern\n. If there are gaps,\nclean the print head\n.\nTry\naligning the print head\n.\nFor best print quality, use genuine Epson ink cartridges.\nCheck the\nink cartridge status\n. If any ink cartridge is low, you may need to replace it to improve print quality.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167554?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA73201~faq-167554",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:14.703394"
+        },
+        {
+          "question": "My printout is blurry or smeared. What should I do?",
+          "answer": "Check the following:\nMake sure your paper isn't damp or curled, or loaded face-down (the printable side should be face-down). It's usually brighter or whiter.\nMake sure your paper meets the\nspecifications\n.\nMake sure the paper\nType or Media Type setting\nmatches the paper you loaded.\nUse Epson papers to ensure proper saturation and absorption of genuine Epson inks. Also, make sure you're using genuine Epson ink cartridges.\nAlign\nthe print head.\nRemove each sheet from the output tray as it is printed.\nAvoid handling printouts on glossy paper for a few hours to allow the ink to set.\nTurn off\nHigh Speed\nmode in the\nWindows\nprinter software.\nIf you are using double-sided paper and printing heavily saturated or dark images on the front side of the paper, you may notice that smudges or marks appear on the front when you print the second side. If one side of the paper will contain a lighter image or text, print that side first to eliminate marks or smudging. If you're copying a document or photo, increase the\nDry Time\nin the printer's\nPaper and Copy Settings\n.\nIf ink smears when you print on envelopes or other thick paper, do the following:\nWindows\n: Access your print settings, click the\nMaintenance\ntab, then click the\nSpeed & Progress\nbutton. Select\nSkip Blank Page\n.\nMac OS X 10.4\n: Access your print settings and select\nExtension Setting\nfrom the print options pop-up menu. Select\nSkip Blank Page\n.\nMac OS X 10.5/6\n: Open the\nPrint + Fax\nutility, click the\nOptions + Supplies\nbutton, then click the\nDriver\ntab. Select\nSkip Blank Pages\n.\nWhen you're done printing on envelopes or thicker paper, be sure to turn off the setting.\nTo clean the rollers inside the product, try making several copies without placing a document on the scanner glass.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167558?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA73201~faq-167558",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:15.733742"
+        },
+        {
+          "question": "My printout is grainy when I print from any application. What should I do?",
+          "answer": "Check the following:\nIf the paper you're using has a printable side (check your paper packaging for details), make sure the printable side is loaded face-down in the printer. The printable side is usually brighter or whiter.\nSelect a higher\nQuality Option\nor\nPrint Quality\n, and turn off\nHigh Speed\nand\nFast Economy\nor\nEconomy\nmode in the\nWindows\nprinter software.\nAlign\nthe print head.\nYou may need to increase the image resolution or print in a smaller size; see your software documentation.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167561?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA73201~faq-167561",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:16.774070"
+        },
+        {
+          "question": "My printout contains garbled characters when I print from Windows or my Mac. What should I do?",
+          "answer": "Try the following:\nMake sure your printer is selected in Windows.\nIf the printer is connected to a computer with a USB cable or a network with an Ethernet cable, check the following:\nMake sure the cable meets the requirements\n.\nIf you're using a switch box or USB hub, connect the printer directly to your computer.\nTurn off the product, check that the cable is securely connected, turn the printer back on, then try printing again.\nTry using a different cable.\nIf you're printing from Windows XP or Windows Vista, clear any stalled print jobs from the Windows Spooler by following these steps:\nDo one of the following:\nWindows Vista\n:\nClick\n, and select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound)\nor\nPrinters\n.\nWindows XP\n:\nClick\nStart\n, and select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n..\nRight-click your printer and select\nOpen\n.\nRight-click any stalled print jobs you see and select\nCancel\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167560?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA73201~faq-167560",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:17.825558"
+        },
+        {
+          "question": "My printout has incorrect or missing colors. What should I do?",
+          "answer": "The problem could be due to a software setting, the product's condition, or the paper you're using. Check the following:\nMake sure your\nWindows\n,\nMac OS X 10.5/10.6\n, or\nMac OS X 10.4\nprinter software is not set to print in\ngrayscale\n.\nFor best results, use genuine Epson ink and paper.\nThe print head nozzles may need\ncleaning\n.\nThe ink cartridges may be old or low on ink, and you may need to\nreplace them\n.\nTry turning off\nFix Photo\nin the\nWindows\nor\nMac OS X 10.5/10.6\nprinter software or on the product's\ntouch screen\n.\nWith >Mac OS X 10.5/10.6 or >Mac OS X 10.4, try using\nAutomatic\nmode.\nTry changing the\nGamma\nsetting in your\nWindows\n,\nMac OS X 10.5/10.6\n, or\nMac OS X 10.4\nprinter software.\nYour printed colors can never exactly match your on-screen colors. However, you can use a color management system to get as close as possible. Try using the ICM (\nWindows\n) or ColorSync (\nMac OS X 10.4\n) or\nMac OS X 10.5/10.6\nIf you're using color management in your application, select\nOff (No Color Adjustment)\nfor the Color Management setting in the printer software.\nAfter you print, the colors on your printout will take some time to set as the ink dries. During this time, the colors may look different than you expect. To reduce the drying time, avoid stacking your prints on top of each other.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167559?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA73201~faq-167559",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:18.906713"
+        },
+        {
+          "question": "My printout looks inverted, as if viewed in a mirror. What should I do?",
+          "answer": "You may have accidentally selected the\nMirror Image\noption in the printer driver or a similar feature in your software application. Make sure the settings are not turned on in the printer driver or in your application program. (If you're printing on Epson Iron-on Cool Peel Transfer paper, the image should be inverted.)\nWindows\nMac",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167562?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA73201~faq-167562",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:19.938124"
+        },
+        {
+          "question": "My printout has a slight slant. What should I do?",
+          "answer": "Try the following:\nIf you have selected\nFast Economy\nin the advanced printer settings, select\nEconomy\ninstead.\nAlign\nthe print head.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167563?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA73201~faq-167563",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:21.079553"
+        },
+        {
+          "question": "The WiFi icon appears on the touch screen but I can't print. What should I do?",
+          "answer": "Try the following:\nMake sure your firewall or security software is not set to block port 3629 (TCP/UDP). Contact your firewall manufacture for assistance.\nYour router might not be assigning IP addresses automatically using DHCP. If it isn't, you will need to set the product's IP address manually. Make sure it is set correctly for your network.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167565?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA73201~faq-167565",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:22.130098"
+        },
+        {
+          "question": "My product's Fix Red-Eye setting does not fix the red eye in my photo. What should I do?",
+          "answer": "Due to the complexity and nature of some photographs, not all images can be corrected. If the product's\nFix Red-Eye\nsetting does not fix the photo, you'll need to use a software application to fix it.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167610?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA73201~faq-167610",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:23.168986"
+        },
+        {
+          "question": "My images and text are not centered when I copy or print on a CD or DVD. What should I do?",
+          "answer": "Check the following:\nIf you're copying a CD or DVD, make sure the scan bed glass is clean and free of finger prints, smudges, etc. When cleaning the glass, spray the glass cleaner onto a paper towel or cloth and then wipe the glass. Never spray glass cleaner directly onto the scan bed.\nIf you're printing from a computer, adjust the print position through your software. For more information, see\nAdjust Print Position\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167624?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA73201~faq-167624",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:24.197473"
+        },
+        {
+          "question": "Can I edit documents that I have scanned with Epson Scan?",
+          "answer": "No. EPSON Scan only scans documents as image files and does not convert the scanned document into editable text. To convert your scan into editable text, you will need an OCR (Optical Recognition Program) application or similar program.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000ac1-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA73201~faq-0000ac1-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:25.233976"
+        },
+        {
+          "question": "How do I reduce the appearance of red eyes in my photos?",
+          "answer": "Turn on the\nFix Red-Eye\nsetting in the printer software or from the product's control panel, if available for your product.\nNote:\nDue to the complexity and nature of some photographs, not all images can be corrected. If the Fix Red-Eye setting does not fix the photo, you need to use a software application such as Adobe Photoshop or Adobe Elements to fix it.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-00004b9-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA73201~faq-00004b9-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:26.277518"
+        },
+        {
+          "question": "Web pages don't print the way they appear on my monitor. What should I do?",
+          "answer": "The pages may not print correctly due to the web page design. Try the following:\nCheck for a\nPrinter-friendly Version\n(or similarly named) option on the web page.\nChange the page setup and paper size settings, and select the preview option in your browser to check the changes before you print.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-00004b8-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA73201~faq-00004b8-shared",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:27.344981"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Scan",
+      "section_id": "8796127569996",
+      "section_order": 10,
+      "faqs": [
+        {
+          "question": "The quality of a scanned image with Epson Scan is poor. What should I do?",
+          "answer": "For Epson Scan, see\nImage Quality Problems (quality problem appears on screen)\n. For Image Capture, contact Apple for assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167626?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA73201~faq-167626",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:28.424779"
+        },
+        {
+          "question": "I want to enlarge an image that I'm scanning with Epson Scan. How do I obtain the best quality?",
+          "answer": "To obtain the best quality, you should resize your image when you're scanning instead of enlarging it later in an image-editing program. You can do this using the Target Size setting in Home or Professional Mode.\nIf you are going to scan your image to a particular size, such as 8 x 10 inches, you should select the Target Size setting after previewing it but before adjusting your scan area (indicated by the marquee). This sets the scan area to the correct proportions so your image will not be cropped unexpectedly.\nFollow these steps to select the Target Size setting:\nYou can choose a predefined scan size from the Target Size list. Click the arrow in the list and select the\nTarget Size\nyou want.\nA marquee (dotted rectangle) appears on your preview image proportioned for that size.\nNote\n:\nIf you need to rotate the orientation of the scan area marquee, click the orientation icon.\nIf you need to create a scan size that is not in the Target Size list, you can create a custom size. Click the arrow in the list and select\nCustomize\n. You see the Target Size window:\nName the custom size, enter the size, click\nSave\n, and click\nOK\n. Then create a marquee on the preview image to\ndefine the scanned image area\n. The size is automatically proportioned.\nIn Professional Mode, you can fine-tune the size using additional tools. Click the\n+\n(Windows) or\n(Mac) next to\nTarget Size\nto display these tools:\nScale:\nreduces or enlarges your image by the percentage you enter\nTrimming:\nturns automatic image cropping on or off (see Epson Scan Help for details)\n(unlock icon): unlocks the width/height proportions of the scanned image size so you can adjust it without constraint.\nOnce you have selected your scan size, you can click and drag the marquee to the area in the image you want to scan.\nNote\n:\nFor more information about using the Target Size tools, click\nHelp\nin the Epson Scan window.\nNote\n:\nIf you plan to enlarge your image later in an image-editing program, you need to increase the\nResolution\nsetting to retain a high image quality after enlargement. Increase the resolution by the same amount you will increase the image size. For example, if the resolution is 300 dpi (dots per inch) but you will increase the image size by 200% in an image-editing program, change the\nResolution\nsetting to 600 dpi in Epson Scan.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167629?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA73201~faq-167629",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:29.452355"
+        },
+        {
+          "question": "My product doesn't detect my photos placed on the scan bed when I use the reprint/restore function on the control panel. What should I do?",
+          "answer": "Check the following:\nMake sure the scanner glass is clean and free of finger prints, smudges, etc. (Clean the scanner glass with a soft, lint-free cloth (microfiber is recommended), moistened with a little glass cleaner. Do not spray glass cleaner directly on the glass and do not press the glass surface with any force.)\nMake sure the photos are placed on the scan bed correctly. See\nPlace Originals for Copying, Faxing, or Scanning\n.\nMake sure the photos are no larger than 4 × 6-inch (102 × 152 mm). You can scan multiple photos, as long as they are at least 1.2 × 1.6 inches (30 × 41 mm) in size and place them 1/4 inch (5 mm) apart as shown below.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167628?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA73201~faq-167628",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:30.453124"
+        },
+        {
+          "question": "How do I use the control panel buttons to scan a photo to a memory card or USB drive?",
+          "answer": "See\nScan to a Memory Card or USB Drive\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167631?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA73201~faq-167631",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:31.519047"
+        },
+        {
+          "question": "I am unable to scan from my computer. What should I do?",
+          "answer": "See the solutions below for your connection type:\nMake sure the product is turned on.\nIf the product is connected with a USB or Ethernet cable, make sure the cable is connected securely at both ends.\nTry restarting your computer.\nMake sure your computer has enough memory and meets the\nsystem requirements\n.\nIf you are scanning a large document at high resolution, a communication error may occur. If the scan did not complete, lower the resolution.\nIf you cannot scan from the product's touch screen, make sure you restarted your computer after installing the product software. Make sure Epson Event Manager is not being blocked by your firewall or security software.\nCheck the following if Epson Scan does not work properly:\nThe scanner may not work properly if you upgraded your operating system but did not reinstall Epson Scan.\nThe scanner software may not work properly if you upgraded your operating system, reinstall Epson Scan.\nMake sure Epson Scan is selected in your scanning program.\nIf your product is connected to your computer through a USB connection, make sure it's connected to a first tier hub (the hub closest to the host computer) that has its own A/C adapter when more than one hub is connected to the computer.\nIf the product is connected to your computer over a network connection and network communication was interrupted while starting Epson Scan, exit Epson Scan, and restart it after a few seconds. If Epson Scan cannot restart, turn the printer off and back on, and then try restarting Epson Scan. Check the\nTimeout Setting\nin\nEPSON Scan Settings\n. For details, see the Epson Scan Help.\nIf you installed the product on a wireless network, make sure that both your computer and product are connected to your wireless network.\nThe scanner software will not work if any of the printer's ink cartridges are out of ink and the\nink light flashes.\nCheck which cartridge is expended\nand\nreplace it\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167627?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA73201~faq-167627",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:32.571860"
+        },
+        {
+          "question": "How do I use the control panel buttons to automatically scan a photo or document and attach the scanned image to an email?",
+          "answer": "See\nScan to Email\nfor instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167636?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA73201~faq-167636",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:33.612704"
+        },
+        {
+          "question": "How do I decide which resolution to select when scanning from Epson Scan?",
+          "answer": "Select the scanning resolution based on how you will use your scanned image:\nE-mail, view on a computer screen, or post on the web:\n96 to 150 dpi\nFax:\n200 dpi\nPrint on an inkjet printer:\n300 dpi\nPrint/convert to editable text (OCR):\n300 dpi\nIf you plan to enlarge the image so you can print it at a larger size, you may need to increase the resolution. If you are using Epson Scan, follow these guidelines:\nYou will enlarge the image as you scan it.\nIf you will enlarge the image in Epson Scan using the\nTarget Size\nsetting (Home and Professional Modes only), you don't need to increase the\nResolution\nsetting.\nYou will scan the image at its original size, but then enlarge it later in an image-editing program.\nIf you will enlarge your image later in an image-editing program, you need to increase the\nResolution\nsetting to retain a high image quality. Increase the resolution by the same amount you will increase the image size. For example, if the resolution is 300 dpi and you plan to increase the image size by 200% later, change the\nResolution\nsetting to 600 dpi.\nNote\n: Higher resolution settings result in larger file sizes. For example, an 8.5 x 11-inch original scanned at 300 dpi can produce a 24MB file. The same original scanned at 72 dpi creates only a 1.3MB file. Large files take longer to process and print, so consider the practical limitations of your computer system when selecting a resolution. To keep your file size manageable, select the lowest possible resolution that gives acceptable quality.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167630?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA73201~faq-167630",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:34.661649"
+        },
+        {
+          "question": "How do I use the control panel buttons to scan?",
+          "answer": "See\nScan from the Control Panel\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167637?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA73201~faq-167637",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:35.755418"
+        },
+        {
+          "question": "Can I scan from my product's control panel to my computer over a network connection?",
+          "answer": "Yes. You can scan your original and save it as an image on your computer, attach it to an e-mail, or save it as a PDF file over a network or USB connection. See\nScan from the Control Panel\n.\nNote\n: If you are using Mac OS X 10.6 and want to scan from the control panel, the product must be connected to your computer with a USB cable. Scanning from the control panel produces JPEG files in OS X 10.6.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167635?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA73201~faq-167635",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:36.776983"
+        },
+        {
+          "question": "What is the maximum number of pages that I can scan into one PDF file?",
+          "answer": "See the specifications below for the version of Epson Scan that you are using:\nEpson Scan version\nNumber of pages\nv1.0 through v3.04\n100\nv3.05 through 3.2x\n200\nv3.30 or later\n999\nNote\n: You can check your version by launching Epson Scan and viewing the initial startup screen. To get the latest supported version of Epson Scan for your product, see the Downloads tab on the product support page for your product.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-229520?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA73201~faq-229520",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:37.812597"
+        },
+        {
+          "question": "The orientation of some pages change from portrait to landscape when I scan multiple pages with Epson Scan and save them as a PDF. What should I do?",
+          "answer": "This happens if ABBYY Fine Reader is installed and you selected\nCreate searchable PDF\nin Epson Scan. (The\nCreate searchable PDF\noption saves the PDF file in a format that allows you to search for text within the document.)\nFollow these steps to disable this setting:\nStart Epson Scan.\nClick the file folder icon next to the\nScan\nbutton. The File Save Settings window appears.\nUnder Image Format, select\nPDF\nfor the Type setting.\nClick the\nOptions\nbutton.\nClick the\nText\ntab.\nDeselect\nCreate searchable PDF\n.\nClick\nOK\nto save your changes.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000abe-shared?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA73201~faq-0000abe-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:38.837190"
+        },
+        {
+          "question": "How do I scan a document so I can edit the text in a word processing program?",
+          "answer": "You can scan a document and convert the text into data that you can edit with a word processing program using a process called OCR (Optical Character Recognition). To scan and use OCR, you need to use an OCR program.\nOCR software cannot recognize handwritten characters, and certain types of documents or text may be difficult for OCR software to recognize, such as:\nItems that have been copied from other copies\nFaxes\nText with tightly spaced characters\nText that is in tables or underlined\nCursive or italic fonts and font sizes less than 8 points",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000508-shared?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA73201~faq-0000508-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:39.883874"
+        },
+        {
+          "question": "Can I scan if an ink cartridge is expended in the product?",
+          "answer": "You can scan from your computer with Epson Scan, but you can't copy or scan from the product's control panel.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000bf4-shared?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA73201~faq-0000bf4-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:40.928897"
+        },
+        {
+          "question": "How do I save my scans to a specific folder when using the Scan to PC button?",
+          "answer": "You can save scans to a select destination folder (\nDocuments\n,\nPictures\n, or\nSelect target folder\n) by changing the settings in Epson Event Manager.\nDo one of the following:\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nEvent Manager\n.\nWindows (other versions)\n: Click\nStart\nor\n, and select\nAll Programs\nor\nPrograms\n>\nEPSON Software\n>\nEvent Manager\n.\nMac OS X\n: Open\nApplications\n>\nEpson software\n>\nEvent Manager\n.\nSelect your product in the Scanner drop-down box, then click\nMake Job Settings\n.\nSelect\nScan to PC\n, select your desired destination folder (\nDocuments\n,\nPictures\n, or\nSelect target folder\n) from the\nTarget Folder\ndrop-down box.\nNote\n: To save the scan to a specific folder on your computer, use the\nSelect target folder\noption.\nClick\nOK\n, then click\nClose\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-252007-shared?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA73201~faq-252007-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:41.974049"
+        },
+        {
+          "question": "How do I scan a photo without scanning the entire scanner glass?",
+          "answer": "Use the Thumbnail preview option when you scan.  The option is available only in Home or Professional Mode.\nSee below for instructions.\nHome Mode\nPlace your original(s) on the scanner glass.\nStart Epson Scan and select\nHome Mode\nif necessary.\nSelect\nPhotograph\nas the Document Type.  Click the\nThumbnail\ncheck box.\nClick\nPreview\n.  Your photo is selected automatically as the scan area with a blue marquee.\nSelect\nScan\n, then click\nOK\n.\nProfessional Mode\nPlace your original(s) on the scanner glass.\nStart Epson Scan and select\nProfessional Mode\nif necessary.\nSelect\nDocument Table\nas the Document Source and select\nPhoto\nas Auto Exposure Type.\nClick the\nThumbnail\ncheck box.\nClick\nPreview\n.  Your photo is selected automatically as the scan area with a blue marquee.\nSelect\nScan\n, then click\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-253187-shared?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA73201~faq-253187-shared",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:43.045541"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 11,
+      "faqs": [
+        {
+          "question": "How do I install the software for my product?",
+          "answer": "You can install the product's software using the CD that came with it or download the drivers and utilities from the Downloads tab for your product.\nIf you download the software you will ensure you have the latest driver version for your product. Only Epson drivers and utilities are available for download. Any third-party software that came with the product is available only on the CD that came with it.\nTo download and install the drivers and utilities, follow the steps below:\nMake sure the product is not connected to your computer. (You will be prompted to connect it during the installation process.)\nDownload the Drivers and Utilities Combo Package for your operating system. Make a note of the file name and save location so you can easily retrieve it.\nOpen the file you downloaded, and follow the on-screen instructions to install the software.\nTo install the software using the CD that came with your product, follow the software installation instructions on the\nStart Here\nsheet.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167580?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA73201~faq-167580",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:44.131496"
+        },
+        {
+          "question": "How do I uninstall the Epson printer and Epson Scan software in Windows or OS X?",
+          "answer": "Follow the instructions below for your operating system.\nWindows\nTurn off the product.\nIf the product is connected with a USB or Ethernet cable, disconnect it from the product.\nClick\nStart\nor\n, and select\nPrograms\nor\nAll Programs\n.\nSelect\nEPSON\n, then select your product, then select\nEPSON Printer Software Uninstall\n.\nNote\n: If you see a User Account Control window, click\nYes\nor\nContinue\n.\nSelect your product and click\nOK\n. Then follow the on-screen instructions.\nOpen the Windows\nControl Panel\n.\nIn Windows 7 and Windows Vista, select\nPrograms and Features\nor, if you're using Classic view, select\nPrograms\n, then click\nUninstall a program\n. In Windows XP, double-click\nAdd\nor\nRemove Programs\n.\nClick\nEpson Event Manager\nin the list of currently installed programs and click\nUninstall/Change\n(Windows 7 or Windows Vista) or\nChange/Remove\n(Windows XP). Click\nYes\nor\nContinue\nif necessary.\nClick\nEPSON Scan\nin the list of currently installed programs and click\nUninstall/Change\n(Windows 7 and Windows Vista) or\nChange/Remove\n(Windows XP). Click\nYes\nor\nContinue\nif necessary.\nClick\nNext\n. In some cases, a message may appear to prompt you to restart the computer. If so, make sure\nYes, I want to restart my computer now\nis selected and click\nFinish\n.\nRestart your computer, then see the Start Here sheet to reinstall your software.\nMac\nTurn off your product.\nIf the product is connected to your computer with a USB or Ethernet cable, disconnect it from the product.\nInsert your Epson product software CD-ROM in your CD-ROM or DVD drive.\nOpen the\nCommon\nfolder in the CD-ROM window.\nNote:\nYou may have to scroll down to see the\nCommon\nfolder.\nDo one of the following:\nMac OS X 10.6\n: Continue with step 7.\nMac OS X 10.4 and 10.5\n: Open the\nEPSON Scan\nfolder and double-click the\nEPSON Scan Uninstaller\nicon.\nWhen the Installer window appears, select\nUninstall\nfrom the pop-up menu at the top and click the\nUninstall\nbutton.\nOpen the\nPrinter\nfolder (in the\nCommon\nfolder), then double-click the\nEPSON Printer Uninstaller\nicon.\nWhen the Installer window appears, select\nUninstall\nfrom the pop-up menu at the top and click the\nUninstall\nbutton.\nDo one of the following:\nMac OS X 10.5 and 10.6\n: Open\nSystem Preferences\n, select\nPrint & Fax\n, select your product and click the\n—\nbutton.\nMac OS X 10.4\n: Open the\nApplications\nfolder, select\nUtilities\n, choose\nPrinter Setup Utility\n, select your product and click\nDelete\n.\nRestart your Mac.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167581?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA73201~faq-167581",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:45.219228"
+        },
+        {
+          "question": "Can I select a print resolution by indicating a specific dpi (dots per inch) setting?",
+          "answer": "No. The print resolution is determined by other driver settings.\nIn Windows, the\nQuality Option\nand paper\nType\nsettings determine the print resolution.\nIn Mac OS X, select\nPrint\nfrom the File menu. Then select\nPrint Settings\nfrom the pop-up menu.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167582?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA73201~faq-167582",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:46.304144"
+        },
+        {
+          "question": "How do I set default print settings when I print from Windows or my Mac?",
+          "answer": "When you change your print settings from within a program, the changes apply only while you're printing at that time in the open program. If you want to select different settings to use in all your programs, you can change the default print settings in Windows or save a preset of printer options on Mac. Follow the steps below for your operating system.\nWindows\nRight-click the\nprinter icon in the task bar (bottom-right corner of your screen), and select\nPrinter Settings\n.\nIf you don't see the icon, see\nNo Printer Icon Appears in Windows Taskbar\nfor instructions on making it appear or do one of the following:\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\n, and select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound)\nor\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows XP\n: Click\nStart\n, and select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the settings you want to use as defaults in all your Windows programs.\nClick\nOK\nto accept the changes.\nMac\nOpen a document and select\nPrint\nfrom the File menu.\nDefine the print settings you want to save.\nNote\n:\nSome options may not be able to be saved in a preset.\nClick the\nPresets\npop-up menu and select\nSave As.\nEnter a name for your preset, and choose whether this preset can be used with any printer or only with the currently selected printer.\nClick\nOK\n.\nWhen you are ready to print with the preset you saved, click the\nPresets\npop-up menu, select your preset from the list, and click\nPrint\n. Once a preset has been selected, it will continue to be automatically selected in the print dialogue until another preset is selected. To go back to the original default print settings, select\nStandard\nfrom the\nPresets\npop-up menu.\nIf you don't want to create a preset and simply want to print with the last print settings you selected, select\nLast Used Settings\nin the\nPresets\npop-up menu.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167585?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA73201~faq-167585",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:47.342564"
+        },
+        {
+          "question": "How do I turn off Epson Status Monitor in Windows?",
+          "answer": "Do the following:\nRight-click the\nprinter icon in the task bar (bottom-right corner of your screen), and select\nPrinter Settings\n.\nIf you don't see the icon, see\nNo Printer Icon Appears in Windows Taskbar\nfor instructions on making it appear or do one of the following:\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\n, and select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound)\nor\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows XP\n: Click\nStart\n, and select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n. Right-click your printer and select\nPrinting Preferences\n.\nClick the\nMaintenance\ntab.\nClick\nSpeed & Progress\n.\nSelect\nDisable EPSON Status Monitor 3\n.\nClick\nOK\nas necessary to save your settings.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167591?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA73201~faq-167591",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:48.404765"
+        },
+        {
+          "question": "Can I use my product on a network?",
+          "answer": "Yes. For instructions on connecting the printer to your network, see the\nQuick Guide\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167602?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA73201~faq-167602",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:49.437283"
+        },
+        {
+          "question": "What information do I need to know before I install my product on my wireless network?",
+          "answer": "You'll need to know the following:\nNetwork name (SSID)\n(This is the name of the wireless network that is set up on your router .)\nNetwork password\nThis information is stored in your network's router and may have been entered when the router was first set up. If you don't have this information, contact the person who set up your network before you begin. You may also be able to log onto the router from your computer and check its setup screens. See your router's instruction manual for details.\nNote\n:\nThe network name and password are case sensitive. Be sure to correctly note uppercase, lowercase, and numeric/special letters.\nThe product supports the following wireless security modes: WEP (64/128bit), WPA-PSK (TKIP/AES), and WPA2.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167651?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA73201~faq-167651",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:50.488917"
+        },
+        {
+          "question": "Which wireless security modes does my product support?",
+          "answer": "The following wireless security modes are supported: WEP (64/128bit), WPA-PSK (TKIP/AES), and WPA2.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167654?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA73201~faq-167654",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:51.585510"
+        },
+        {
+          "question": "During a wireless network installation, my product could not find or connect to the wireless network. What should I do?",
+          "answer": "Try the following solutions:\nTry moving the product to a different location to make sure that the product is within range of your wireless network. Avoid placing the product near a microwave oven, 2.4 GHz cordless phone, or large metal object such as a filing cabinet.\nMake sure there aren't any access restrictions (such as MAC address filtering) set on the wireless router. If access restrictions are set, register the printer's MAC address on the router.\nPrint a Network Status Sheet\nto obtain the MAC address. Then see your router manual for instructions.\nIf your wireless router doesn't broadcast its network name (SSID), see\nEntering Your SSID Manually\nfor instructions on connecting to your wireless network. If your wireless router has wireless security enabled, you will also need to know what kind of security it is using.\nIf the product doesn't connect to your wireless network, the WEP key or WPA passphrase may have been entered incorrectly.\nNote\n:\nWEP keys and WPA passphrases are case sensitive. Be sure to correctly note uppercase, lowercase, and numeric/special characters.\nTry connecting to the wireless router with your computer or another device to confirm that it is working correctly.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167658?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA73201~faq-167658",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:52.620721"
+        },
+        {
+          "question": "How do I disable the phone ringer on my product?",
+          "answer": "Do the following:\nPress\nHome\non the control panel.\nPress\nor\nto select\nSetup\n, then\nPrinter Setup\n, and then\nSound\n.\nSelect\nButton Press\n, then\nOFF\n.\nPress\nOK\n, then\nHome\nto exit.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-169910?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA73201~faq-169910",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:53.658139"
+        },
+        {
+          "question": "I set up my product on a network, but the Scan to PC, Scan to Email, and Scan to PDF features do not work. What should I do?",
+          "answer": "To use these features, you must have the EPSON Event Manager software installed. If you do not have the EPSON Event Manager installed, go to the Downloads tab for your product to download and install the software.\nMake sure you disable all software that can block communication between the printer and your computer (such as firewall, virus protection or utilities).\nInstall the EPSON Event Manager software.\nNote\n: The first time the Event Manager Utility is installed, you must restart your computer in order for the features to work over the network.\nIf you are using a Firewall application or Windows Firewall, make a program exception in the Firewall settings.\nClick\nor\nStart\n>\nControl Panel\n>\nSecurity\nor\nSecurity Center\n>\nWindows Firewall\n. Click the\nExceptions\ntab, (or click\nChange Settings\nif you cannot find the Exceptions tab.) Click the\nAdd Program\nbutton, select\nEvent Manager\nfrom the program list and click\nOK\n. Next confirm that the check box for\nEvent Manager\nis selected in the\nPrograms and Services\nlist and click\nOK\n.\nLaunch the Event Manager and make sure your Epson product and scanner option is selected.\nClick\nor\nStart\n>\nPrograms\nor\nAll Programs\n>\nEpson software\n>\nEvent Manager\n. Click the\nButton Settings\ntab, set all settings to use\nEPSON Scan\nand click\nClose\n.\nClick\nor\nStart\n>\nControl Panel\n>\nScanners and Cameras\nor\nDevices and Printers\n.\nRight-click your product's name, then click\nProperties\n.\nClick the\nEvents\ntab.\nSelect\nScan Button\nfor Select an event.\nSelect\nEpson Event Manager\nfor Start this program.\nClick\nApply\n.\nClick\nOK\n.\nTry using the Scan to PC, Scan to Email, or  Scan to PDF features.\nNote\n: Make sure you enable any software you disabled in step 1.\nIf the steps above do not help, try enabling the UDP/TCP ports for EPSON Scan (port number 1865/3289) and EPSON Event Manager (port number 2968) on your router. If you are unsure on how to do this, contact your router manufacturer for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-207384?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA73201~faq-207384",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:54.747592"
+        },
+        {
+          "question": "Can an unauthorized user access my network if I select Unblock or Allow during the EpsonNet Setup software installation?",
+          "answer": "No. This selection will only unblock or allow the EpsonNet Setup software access to your network (which is necessary for your computer to communicate with your all-in-one over your network).",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000ab1-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA73201~faq-0000ab1-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:55.789020"
+        },
+        {
+          "question": "My Microsoft Office 2013 applications crash in Windows after I installed my Epson product software. What should I do?",
+          "answer": "You'll need to update the ABBYY FineReader software. ABBYY FineReader installs a Microsoft Office Integration add-in which is not compatible with Microsoft Office 2013.\nOpen ABBYY FineReader, select\nHelp\n, then select\nCheck for Updates Now\n.\nIf an update is available, a web page should appear. Click\nDownload update\n. Make a note of the file name and save location so you can easily retrieve it later. If an update is not available, please contact Epson Support.\nClose ABBYY FineReader.\nDo one of the following to uninstall ABBYY FineReader:\nWindows 8\n: Navigate to the\nStart\nscreen, right-click the screen, and select\nAll apps\n. Select\nControl Panel\n>\nPrograms and Features\n. Select the uninstall option for ABBYY FineReader, then select\nUninstall/Change\n.\nWindows (other versions)\n: Click\nor\nStart\n, and select\nControl Panel\n>\nAdd/Remove Programs\nor\nUninstall a program\n. Select\nABBYY FineReader\n, click\nChange/Remove\n, then follow the on-screen instructions to remove the software.\nDouble-click the file you downloaded in step 2. Follow the on-screen instructions to install the ABBYY FineReader update.\nOpen a Microsoft Office 2013 application and check if the problem is resolved.\nIf the problem is gone, you're done.\nIf you still have a problem, please contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000aba-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA73201~faq-0000aba-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:56.831686"
+        },
+        {
+          "question": "I cannot launch the EPSON Event Manager, how do I uninstall and reinstall the application?",
+          "answer": "Do the following:\nDownload the Uninstall Center Utility from the Downloads tab for your product.\nExtract the contents of the zip file you downloaded onto your hard drive.\nQuit all applications currently running on your Mac.\nOpen the\nApplications\n>\nEpson software\nfolder.\nDouble-click the\nEPSON Scan Uninstaller\nicon.\nSelect\nUninstall\n, then click the\nUninstall\nbutton.\nFollow the on-screen instructions to uninstall the software.\nDelete the\nCommon\nfolder and\nEvent Manager\nin the Mac's Application folder (\nHard drive\\Applications\\Epson software\n).\nDelete the highlighted files and folders below from the Mac's Library Preferences folder (\nHard drive\\Users\\login_name\\Library\\Preferences\n).\nRestart your computer.\nRe-install EPSON Scan and the Event Manager from the product software CD or from the Downloads tab for your product.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000957-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA73201~faq-0000957-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:57.959905"
+        },
+        {
+          "question": "I cannot edit the CD jacket I am creating using Epson Print CD. What should I do?",
+          "answer": "Try the following:\nStart Epson Print CD.\nOpen the CD jacket file you want to edit.\nClick\nView\nand select\nSelect Editing Face\n.\nSelect the CD jacket face you want to edit.\nClick\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-00004c4-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA73201~faq-00004c4-shared",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:52:59.124937"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "You can download the latest product driver from the Downloads section of this website.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000afb-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA73201~faq-0000afb-shared",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:53:00.239624"
+        },
+        {
+          "question": "Can I use the Epson iPrint app with my iOS device?",
+          "answer": "Yes. See our\nFAQ\npage for the app for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000b04-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA73201~faq-0000b04-shared",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:53:01.258381"
+        },
+        {
+          "question": "Can I use the Epson iPrint app with my Android device?",
+          "answer": "Yes. See our\nFAQ\npage for the app for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000b05-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA73201~faq-0000b05-shared",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:53:02.317893"
+        },
+        {
+          "question": "How can I get a replacement CD for my product?",
+          "answer": "You can download the driver from the Downloads tab for your product.\nNote\n:\nOnly the drivers are available for download. Any extra software that came with the product is available only on the CD.\nIf you wish to obtain a replacement copy of the Software CD (stock permitting), please contact our Driver Fulfillment department at 562-276-4367 (US) or 905-709-3839 (Canada). A charge for shipping and handling plus any applicable taxes may apply.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-198080-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA73201~faq-198080-shared",
+          "display_order": 20,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:53:03.356511"
+        },
+        {
+          "question": "How do I change the default settings for the Scan to PC feature?",
+          "answer": "You need to change the settings in Epson Event Manager.  Follow the instructions below.\nDo one of the following:\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nEvent Manager\n.\nWindows (other versions)\n: Click\nStart\nor\n, and select\nAll Programs\nor\nPrograms\n>\nEPSON Software\n>\nEvent Manager\n.\nMac OS X\n: Open\nApplications\n>\nEpson software\n>\nEvent Manager\n.\nSelect your product in the Scanner drop-down box, then click\nMake Job Settings\n.\nSelect\nScan to PC\n, then click on\nDetailed Settings for Scanning\n.\nSelect the settings you would like to use.\nThe following dpi (dots per inch) settings are supported:\nSpeed (150 dpi)\nStandard (300 dpi)\nHigh resolution (600 dpi)\nCustom\nNote\n: Higher dpi settings take longer to scan.\nClick\nOK\ntwice, then click\nClose\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-251949-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA73201~faq-251949-shared",
+          "display_order": 21,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:53:04.415039"
+        },
+        {
+          "question": "Where can I find the IP address of my router?",
+          "answer": "Most wireless routers have a default IP address that can usually be found in the router's documentation.\nFor more support on your router, contact the manufacturer of your router.\nYou can also print a network status sheet from your printer's control panel to find your router's IP address.\nNote:\nThe network status sheet will list your router’s IP address only if you have set up your printer with a network connection to the router. If you print a network status sheet before setup, the router's IP address will not be listed on the network status sheet.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-00004c0-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA73201~faq-00004c0-shared",
+          "display_order": 22,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:53:05.457589"
+        },
+        {
+          "question": "How do I add my product as an IP printer on my Mac?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n.\nSelect your printer, if necessary.\nClick\n+\nor\nAdd Printer, Scanner, or Fax\nand select\nIP\non the toolbar.\nSelect a protocol. If you do not know which protocol to choose, leave it as\nLine Printer Daemon-LPD\n.\nClick the\nAddress\nfield and enter your printer's IP address. You see the message\nGathering printer information\nas your Mac connects to the printer.\nClick\nAdd\nafter your printer appears in the Use field to create a printer queue. If your printer does not appear in the Use field, select\nAuto Select\nfrom the drop-down box.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-00004ba-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA73201~faq-00004ba-shared",
+          "display_order": 23,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:53:06.529197"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA73201~faq-00004dc-shared",
+          "display_order": 24,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:53:07.625173"
+        },
+        {
+          "question": "How do I change the font size of text when I print from software in Windows?",
+          "answer": "You need to select the text or font size in the software you are printing from, not the printer driver. For detailed instructions, contact the company for the application you are printing from.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-00004b7-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA73201~faq-00004b7-shared",
+          "display_order": 25,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:53:08.663265"
+        },
+        {
+          "question": "I can't get Epson Status Monitor to work over my wireless network. What should I do?",
+          "answer": "If the product is not shared, make sure it is connected to the network wirelessly. Try moving your product or computer to a different location within range of your wireless network. Avoid placing the computer, product, or wireless access point near microwaves, cordless telephones, or other sources of wireless interference.\nIf the product is set up as a shared printer, Epson Status Monitor will not work and is not supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-00004c7-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA73201~faq-00004c7-shared",
+          "display_order": 26,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:53:09.701572"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA73201~faq-0000f4b-shared",
+          "display_order": 27,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:53:10.807555"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA73201~faq-0000f4c-shared",
+          "display_order": 28,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:53:11.843512"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA73201~faq-0000f4d-shared",
+          "display_order": 29,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:53:12.898769"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Wireless or Wired Connection",
+      "section_id": "8796127635532",
+      "section_order": 12,
+      "faqs": [
+        {
+          "question": "How do I connect my product to my wireless network using my product's control panel?",
+          "answer": "See\nSetting Up With the Touch Screen\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167656?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CA73201~faq-167656",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:53:13.981530"
+        },
+        {
+          "question": "Can I set up my product for both a USB and network connection?",
+          "answer": "No. The product supports only one connection type at a time: USB, Ethernet, or wireless.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000b00-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CA73201~faq-0000b00-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:53:15.013807"
+        },
+        {
+          "question": "How do I find my SSID and network password?",
+          "answer": "Check your router documentation for this information. Most routers have a default SSID and password that can be modified once the router is set up.\nNote:\nThe SSID is the name of the wireless network that is set up on your router or access point.\nIf you don't know this information, you'll need to contact the manufacturer of your router or the person who set up your network.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000ae9-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CA73201~faq-0000ae9-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:53:16.100099"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 13,
+      "faqs": [
+        {
+          "question": "When printing in Windows, how can I prevent an extra page from being ejected after every print job?",
+          "answer": "The Separator Page function may be enabled. Follow these steps to disable it:\nDo one of the following:\nWindows 7\n: Click\n, and select\nDevices and Printers\n.\nWindows Vista\n: Click\n, and select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound)\nor\nPrinters\n.\nWindows XP\n: Click\nStart\n, and select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n.\nRight-click your printer icon, and then select\nPrinter Properties\n(Windows 7) or\nProperties\n(Windows Vista or Windows XP).\nClick the\nAdvanced\ntab, then click the\nSeparator Page\nbutton. A Separator Page window appears.\nDelete the information in the text box.\nClick\nOK\nas necessary to save your settings.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167570?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA73201~faq-167570",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:53:17.126591"
+        },
+        {
+          "question": "How should I transport my product?",
+          "answer": "See\nTransportation\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167588?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA73201~faq-167588",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:53:18.177084"
+        },
+        {
+          "question": "What does a flashing Auto Answer light mean?",
+          "answer": "The Auto Answer light flashes to indicate that the product has received a fax and stored it in memory because the product was not able to print it.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-167645?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA73201~faq-167645",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:53:19.208579"
+        },
+        {
+          "question": "My product makes noise after I turn it on or after it has been sitting for a while. What should I do?",
+          "answer": "This is normal. It is performing routine maintenance.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-000096b-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA73201~faq-000096b-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:53:24.477071"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA73201~faq-00004b0-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:53:25.697674"
+        },
+        {
+          "question": "What security measures does Epson recommend for its network products?",
+          "answer": "To help deter unauthorized access to your product over a network, you should protect your network environment using appropriate security measures.\nSecurity measures such as these can help deter threats such as loss of user data, use of telephone and fax lines, and other intrusions:\nEnable security on your wireless LAN if your product supports a wireless connection\nEnable the appropriate security on the wireless LAN you plan to use with your product. Network security, such as a network password, can deter interception of traffic over the wireless LAN. Your router may already have a default password enabled by your Internet service provider (ISP). See your ISP and router documentation for instructions on how to change the default password and better secure your network.\nConnect your product only to a network protected by a firewall\nConnecting your product directly to the Internet may leave it vulnerable to security threats. Instead, connect it to a router or other networking device protected by a firewall. Your router may already have a firewall set up by your Internet service provider; check with your ISP for confirmation. For best results, set up and use a private IP address for your network connection.\nChange the default administrator password on your product\nIf your product has an option to set an administrator password, change the default administrator password to deter access by unauthorized users to personal data stored on your product, such as IDs, passwords, and contact lists. See the product's User's Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000a05-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA73201~faq-0000a05-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:53:26.895438"
+        },
+        {
+          "question": "My product will not wake up when I try to print with a wireless connection. What should I do?",
+          "answer": "Turn the product off and on. If you can print now, the problem is related to your wireless router. Contact the manufacturer of your router for assistance or try using a different router.\nIf you cannot print after turning the product off and on, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-00004c8-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA73201~faq-00004c8-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:53:28.006125"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA73201~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA73201~faq-0000f4a-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-835/s/SPT_C11CA73201",
+          "fetched_at": "2026-04-01T08:53:29.070888"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

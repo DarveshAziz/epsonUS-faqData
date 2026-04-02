@@ -1,0 +1,1074 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "All-In-Ones",
+  "series": "Epson Stylus Series",
+  "model": {
+    "name": "Epson Stylus NX300",
+    "sku": "SPT_C11CA17201",
+    "url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-0000ad0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA17201~faq-0000ad0-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:39:36.277465"
+        },
+        {
+          "question": "Can the printer still print if an ink cartridge is expended or not installed?",
+          "answer": "No. The printer will not operate if any cartridge is expended or removed. It's best to always have extra cartridges on hand.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-000051b-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA17201~faq-000051b-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:39:37.355797"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-00004c5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA17201~faq-00004c5-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:39:38.431759"
+        },
+        {
+          "question": "How do I change the font size of text when I print from software in Windows?",
+          "answer": "You need to select the text or font size in the software you are printing from, not the printer driver. For detailed instructions, contact the company for the application you are printing from.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-00004b7-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA17201~faq-00004b7-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:39:39.494440"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "You can download the latest product driver from the Downloads section of this website.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-0000afb-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA17201~faq-0000afb-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:39:40.578490"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA17201~faq-00004b0-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:39:41.630697"
+        },
+        {
+          "question": "Can I use hole-punched paper with my product?",
+          "answer": "No. The product does not support this paper type.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-0000ab4-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA17201~faq-0000ab4-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:39:42.689407"
+        },
+        {
+          "question": "Can I scan if an ink cartridge is expended in the product?",
+          "answer": "You can scan from your computer with Epson Scan, but you can't copy or scan from the product's control panel.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-0000bf4-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA17201~faq-0000bf4-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:39:43.723164"
+        },
+        {
+          "question": "I can't scan multiple document pages into a single PDF. What should I do?",
+          "answer": "If you are using the Scanner Driver and Epson Scan Utility v2.92a or earlier, the ability to scan multiple pages to a single PDF is not supported. This feature is supported when using the Scanner Driver (which is sometimes shown as TWAIN Driver) and Epson Scan Utility v3.04a or higher. Check your product's Downloads tab to make sure you're using the latest version.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-0000963-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA17201~faq-0000963-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:39:44.772015"
+        },
+        {
+          "question": "Does my product support Epson Connect?",
+          "answer": "No, your product is not compatible.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-0000af9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA17201~faq-0000af9-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:39:45.835352"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "How do I set up my product for the fastest printing?",
+          "answer": "If you're printing from your computer, make sure your system\nmeets the requirements\n. If you're printing a high-resolution image, you need more than the minimum requirements listed. You may also need to:\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.\nUse a computer with a high-speed USB 2.0 port.\nFor the fastest printing, try these tips:\nChoose\nBlack Ink Only\nin your printer settings if your document doesn't include color.\nFor Windows, choose\nDraft\nfor the Quality Option.\nFor Macintosh, set the Quality/Speed slider to\nSpeed\n.\nMake sure\nQuiet Mode\nis not selected.\nIf the Epson Stylus is connected to a USB hub, disconnect unused USB devices.\nFor Windows, try adjusting the settings in the Speed & Progress window:\nRight-click the\nprinter icon in the lower right corner of your screen (taskbar) and select\nPrinter Settings\n. If you don't see the icon, see\nNo Printer Icon Appears in Windows Taskbar\nfor instructions on making it appear.\nClick the\nMaintenance\ntab.\nClick the\nSpeed & Progress\nbutton.\nSelecting one or more of the following settings will increase print speed:\nHigh Speed Copies\nAlways spool RAW datatype\nPage Rendering Mode\nPrint as Bitmap",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116459?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA17201~faq-116459",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:39:46.977060"
+        },
+        {
+          "question": "How do I print a borderless photo from Windows or my Mac?",
+          "answer": "Do the following:\nFor Windows, click the Borderless checkbox on the\nMain\ntab of the printer driver. See\nSelect Basic Options\nfor more details.\nFor a Macintosh, select a paper size with the\nSheet Feeder - Borderless\noption. See\nSelect Page Setup Options\n(Macintosh OS X 10.5 or 10.6) or\nSelect Page Options\n(Macintosh OS X 10.4) for more details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116463?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA17201~faq-116463",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:39:48.155691"
+        },
+        {
+          "question": "How do I restore the colors in faded photos?",
+          "answer": "See\nRestore Color as You Scan\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116474?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA17201~faq-116474",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:39:49.220200"
+        },
+        {
+          "question": "Can I print on transparencies?",
+          "answer": "No.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116466?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA17201~faq-116466",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:39:50.284219"
+        },
+        {
+          "question": "How do I copy a document or photo using my product's control panel?",
+          "answer": "See\nCopy a Photo\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116483?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA17201~faq-116483",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:39:51.392101"
+        },
+        {
+          "question": "How do I print a multi-page document from Windows or my Mac so it stacks in the correct page order?",
+          "answer": "Follow the steps below for your operating system to print a multi-page document in reverse order.\nWindows 7, Windows Vista, or Windows XP\nOpen the File menu and select\nPrint\n.\nClick\nProperties\nor\nPreferences\n.\nClick the Main tab.\nSelect\nReverse Order\n.\nClick\nOK\n.\nMacintosh 10.4.x, 10.5.x, or 10.6\nOpen the File menu and select\nPrint\n.\nWith Macintosh OS X 10.5.x or 10.6, click the\nbutton to expand the Print window, if necessary.\nSelect\nPaper Handling\nfrom the printer options pop-up menu.\nSelect\nReverse\nfor the Page Order setting.\nClick\nPrint\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-133382?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA17201~faq-133382",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:39:52.448309"
+        },
+        {
+          "question": "Printing is slow or my product stops printing when I try to print from Windows or OS X. What should I do?",
+          "answer": "If printing becomes slow, try the following:\nMake sure your system meets the requirements for your operating system. If you are printing a high-resolution\n                    image, you may need more than the minimum requirements. If necessary, increase\n                    your system's memory.\nIf you're using Windows 7, close the\nDevices and Printer\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility to free up existing space.\nClose any programs that you're not using when you print.\nIf your product is connected to a USB hub, connect it directly to your computer instead.\nIf printing becomes slower after printing continuously for a long time, the product may have automatically slowed down to protect the print mechanism from\n                    overheating or becoming damaged. Let the product rest with the power on for 30\n                    minutes, then try printing again.\nIf the above steps did not improve your print speed, the\nEPAUDF01.AUD\nfile can be deleted.\nNote:\nRemoval of this temporary file is not an option in Windows 8 or Mac OS.\nFollow the instructions below to delete this temporary file:\nWindows 7 and Windows Vista\nClick on the\nbutton and click on\nMy Computer\n.\nDouble-click the\nLocal Disk C:\nand locate the\nProgramData\nfolder.\nOpen the\nProgramData\nfolder and double-click the\nEPSON\nfolder.\nNext, open the\nPRINTER\nfolder by double-clicking it.\nRight-click into the\nEPAUDF01.AUD\nfile and click\nDelete\n.\nOnce deleted, restart your computer.\nTry to print again.\nIf you do not see the ProgramData Folder try the following to unhide it:\nClick into the\nOrganize\nbutton from the Menu Bar.\nScroll down and click on\nFolder and search options\nand a Folder Options window will open.\nClick on the\nView\ntab. Under the Advance settings section locate the\nShow hidden files, folders, and drives\noption and mark the radio\n                    button. Once marked click\nOK\n.\nWindows XP\n:\nClick the\nand select\nMy Computer\n.\nDouble-click the\nLocal Disk C:\nand open the\nDocuments and Settings\nfolder.\nLocate the\nAll User\nfolder and double-click to open it.\nNext double-click to open\nApplication Data\nfolder and then the\nEPSON\nfolder.\nDouble-click to open the\nPRINTER\nfolder.  Right-click into the\nEPAUDF01.AUD\nfile and click\nDelete\n.\nOnce deleted, restart your computer.\nTry to print again.\nIf you do not see the Application Data Folder try the following to unhide it:\nClick into the\nTools\noption from the Menu Bar and select\nFolder Options\n, a new window will appear.\nSelect the\nView\ntab. Under the Advance settings section locate the\nShow hidden files, folders, and drives\noption and mark the radio button.\nOnce marked click\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-147857?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA17201~faq-147857",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:39:53.556141"
+        },
+        {
+          "question": "Does OS X support manual duplex printing with my product?",
+          "answer": "This feature is not supported in Mac OS X. However, if your printer has a built-in automatic duplexer, auto-duplexing is supported in Mac OS X 10.6 (Snow Leopard).",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-0000c1d-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA17201~faq-0000c1d-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:39:54.610539"
+        },
+        {
+          "question": "It takes a long time to copy a document. What should I do?",
+          "answer": "Try the following:\nSelect\nB&W\nas the copy type.\nSelect\nWith Border\nas the layout type.*\nMake sure\n2-Sided Printing\nis turned off.*\nSelect\nPlain Paper\nas the paper type.\nSelect\nDraft\nor\nStandard\nas the quality type.\nMake sure\nDry Time\nis set to\nStandard\n.*\n* This step may not apply to your all-in-one.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-151097?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA17201~faq-151097",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:39:55.695370"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "I see the message Scanner Not Ready or Epson Scan will not start in Windows or on my Mac. What should I do?",
+          "answer": "Try the following:\nMake sure your product is turned on and securely connected to your computer or USB hub.\nIf your product is connected to a USB hub, make sure it's connected to a first tier hub (the hub closest to the computer) that has its own A/C adapter when more than one hub is connected to the computer.\nTry restarting your computer.\nMake sure Epson Scan is set up correctly for your connection type. See the steps below:\nMake sure the product is turned on.\nDo one of the following:\nWindows 8\n: Navigate to the\nStart\nscreen, right-click the screen, select\nAll apps\n, then select\nEPSON Scan Settings\n.\nWindows (other versions)\n: Click\nStart\nor\n, and select\nPrograms\nor\nAll Programs\n. Select\nEPSON Scan\n>\nEPSON Scan Settings\n(or\nEPSON\n, then\nEPSON Scan\n, and then\nEPSON Scan Settings\n.)\nMac\n: Search for\nEPSON Scan Settings\n, then click\nEPSON Scan Settings\nto open it.\nIf you see the screen below, click\nNo\n. The screen may appear twice.\nMake sure the correct scanner is selected.\nDo one of the following:\nIf the product is connected to your computer with a USB cable, make sure the\nConnection\nsetting is set to\nLocal\n, then skip the remaining steps.\nIf the product is set up on a network, make sure the\nConnection\nsetting is set to\nNetwork\nand your scanner appears under Network Scanner Address with the correct IP address, if these settings are correct, skip the remaining steps. If the IP address for your product does not appear, click\nAdd\n.\nNote:\nIf you don't know your product's IP address, print a Confirm Network Settings page from the printer's control panel. The IP address will appear on the page.\nClick\nAdd\n.\nSelect the IP address that appears in the list. If more than one IP address appears, be sure to select the one that matches your product's IP address.\nIf you have a firewall or Internet security software installed, the search feature may not work correctly. In this case, click\nEnter address\n, and enter the IP address manually.\nClick\nOK\n.\nClick\nOK\nagain to close the Epson Scan settings window.\nIf the steps above do not help, try the following.\nWindows 7 and Windows Vista\n:\nTurn off the printer.\nUninstall Epson Scan.\nRestart your computer.\nOpen Windows Explorer (right-click\n, then select\nExplore\nor\nOpen Windows Explorer\n).\nNavigate to\nC:\\Windows\nLocate the\ntwain_32\nfolder and rename it to a different name such as\ntwain_32_old\n.\nRestart your computer.\nReinstall Epson Scan.\nWindows (other versions)\nor\nMac\n: Uninstall and reinstall the Epson Scan software.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116477?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA17201~faq-116477",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:39:56.811742"
+        },
+        {
+          "question": "I see the message Cannot connect to Internet in Windows 8.1 after I select Driver Update in my product software. What should I do?",
+          "answer": "The\nDriver Update\noption does not work in Windows 8.1. All other driver options will work correctly.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-0000958-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA17201~faq-0000958-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:39:57.873927"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA17201~faq-00004c5-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:39:58.925377"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Fax",
+      "section_id": "8796125866060",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "How do I send a fax?",
+          "answer": "See\nSend a Fax\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116485?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA17201~faq-116485",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:39:59.989727"
+        },
+        {
+          "question": "Can I create a speed dial list for my fax numbers?",
+          "answer": "Yes. See\nSet Up a Speed Dial and Group Dial List\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116486?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA17201~faq-116486",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:01.035462"
+        },
+        {
+          "question": "How do I create a header for my faxes?",
+          "answer": "See\nEnter the Header Information\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116487?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA17201~faq-116487",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:02.082431"
+        },
+        {
+          "question": "Can I use a pre-paid calling card to send a fax?",
+          "answer": "Yes. Do the following:\nConnect an external phone to the printer.\nUse the attached phone to dial the number and password on the pre-paid calling card, then dial the destination fax number.\nWhen the destination fax number answers, press the\nStart\nbutton to send the fax.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-129151?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA17201~faq-129151",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:03.181310"
+        },
+        {
+          "question": "I'm having trouble sending or receiving faxes over a VoIP (Voice over Internet Protocol) phone line. Why?",
+          "answer": "Because fax machines are designed to work over standard analog telephone lines, Epson does not guarantee that fax transmission will work over VoIP phone lines (cable systems such as Cox, Charter, Time Warner, Comcast, FiOS, magicJack, and Vonage).\nInternet traffic can interfere with faxing because VoIP communicates through the internet and not through standard analog telephone line. The data sent over the internet for a fax is digitized into packets and this process can cause data loss.\nYou can try slowing the transmission speed of the fax by setting ECM and V.34 on the all-in-one to\nOff\n. See\nSelect Communication Settings\nfor instructions.\nIf this does not help, contact your VoIP service provider for help.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-144204?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA17201~faq-144204",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:04.215786"
+        },
+        {
+          "question": "Will I lose faxes stored in the fax memory if the product is turned off?",
+          "answer": "Yes, all faxes held in memory will be erased if the all-in-one is turned off.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-152451?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA17201~faq-152451",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:05.209484"
+        },
+        {
+          "question": "How do I confirm my fax was sent?",
+          "answer": "You can print a fax report to confirm the fax was sent. See\nPrint Fax Reports\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-152515?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA17201~faq-152515",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:06.294398"
+        },
+        {
+          "question": "Will my fax still go through if I receive an ink expended or other error during transmission?",
+          "answer": "Yes, the fax will still go through unless the all-in-one is turned off.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-154334?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA17201~faq-154334",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:07.394028"
+        },
+        {
+          "question": "When I send a hand-written fax, the recipient can't read the fax content. What should I do?",
+          "answer": "Try writing your fax content with dark black or blue ink. Colored ink may not transfer properly. Also try changing the fax resolution to Fine or Photo. Note that selecting a higher resolution may slow down the fax speed slightly.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-154811?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA17201~faq-154811",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:08.444585"
+        },
+        {
+          "question": "I'm having trouble sending or receiving faxes. What should I do?",
+          "answer": "Try the following:\nMake sure the printer's\nLINE\nport is connected to a telephone wall jack.\nVerify that the telephone wall jack works by connecting a phone to it. If the line has static, turn off the\nV.34 and ECM (Error Correction Mode) settings\n.\nIf the all-in-one is connected to a DSL phone line, a DSL filter must be connected to the phone jack. Contact your DSL provider for the necessary filter.\nIf you answer the phone and hear a fax tone and the call disconnects when you hang up, make sure there is a\nphone or answering machine connected\nto the\nEXT.\nport on the all-in-one.\nMake sure that your recipient's fax machine is turned on and working.\nMake sure\npaper is loaded correctly\n.\nIf you're using\nDRD\n(Distinctive Ring Detection), try setting\nDRD\nto\nOFF\nor\nALL\n. If the fax answers when turning off\nDRD\n, the ring pattern may be causing the problem. Contact your phone company.\nIf a telephone with an answering machine is connected to the all-in-one and you would like to set the all-in-one to automatically receive and print faxes,\nset the number of rings\non the all-in-one to more than the answering machine, and turn\nAuto Answer\nmode on (on the all-in-one).\nTurn call waiting off. Call waiting may disrupt an incoming or outgoing fax.\nIf the all-in-one does not receive a fax, verify that it's not connected to a PBX system. The ring signal on a PBX system can cause a problem. Contact your PBX administrator for support.\nNote:\nBecause fax machines are designed to work over standard analog telephone lines, Epson does not guarantee that fax transmission will work over VOIP phone lines (cable systems such as Cox, Charter, Time Warner, Comcast, FIOS, Vonage).",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-165848?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA17201~faq-165848",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:09.487682"
+        },
+        {
+          "question": "How do I use an answering machine with my fax?",
+          "answer": "Do the following:\nMake sure that your answering machine is connected to the EXT port on the Epson fax machine.\nSet the number of rings on the answering machine.\nSet the number of rings on the fax machine to a number greater than the answering machine (for example, if answering machine is set to 4, the fax must be set for 5 or more).\nEnsure that the answering machine is set to answer and the fax machine is set to Auto Answer.\nWhen the answering machine picks up a fax call, the fax machine listens on the line and if it detects the fax tones, it takes over the call and disconnects the answering machine.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-165873?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA17201~faq-165873",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:10.588687"
+        },
+        {
+          "question": "How do I change the baud rate on my fax?",
+          "answer": "There is no specific Baud Rate selection on the fax machine.  You can change the V.34 setting to OFF to slow down the Baud Rate to 14.4k.  See\nSelect Communication Settings\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-165939?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA17201~faq-165939",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:11.631060"
+        },
+        {
+          "question": "Can my product still send and receive a fax if an ink cartridge is expended or not installed?",
+          "answer": "Yes, you can continue to send and receive faxes if an ink cartridge is expended or not installed. Incoming faxes will be stored in the products fax memory and will be printed automatically once the expended ink cartridge is replaced. The fax memory can hold up to 180 pages.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-202427?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA17201~faq-202427",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:12.681840"
+        },
+        {
+          "question": "How do I add a delay when I fax to an International number?",
+          "answer": "Press\nRedial/Pause\non the product's control panel to insert a 3 second delay within a phone number. The delay will appear as a − (minus) symbol on product's display. For a longer delay, insert the − symbol multiple times.\nNote:\nYou can't add a delay at the beginning of a phone number.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-202684?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA17201~faq-202684",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:13.770934"
+        },
+        {
+          "question": "How do I clear the fax header on my product?",
+          "answer": "Do the following:\nPress the\nCopy/Fax\nbutton to select\nFax\nmode.\nPress the\nMenu\nbutton.\nPress\nor\nto select\nRestore Default Settings\n, then press\nOK\n.\nSelect\nReset Fax Data Settings\n.\nNote\n:\nReset Fax Data Settings\nrestores the Speed Dial Setup, Group Dial Setup, Header, and Fax Log settings.\nPress the\n1\nkey to confirm your selection or the\n2\nkey to cancel it.\nPress the\nMenu\nbutton to return to the\nFax\nmode screen.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-202905?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA17201~faq-202905",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:14.791102"
+        },
+        {
+          "question": "How do I restore my original fax settings?",
+          "answer": "Do the following:\nPress the\nCopy/Fax\nbutton to select\nFax\nmode.\nPress the\nMenu\nbutton.\nPress\nor\nto select\nRestore Default Settings\n, then press\nOK\n.\nSelect one of these options and press\nOK\nto restore the default settings you selected:\nReset Fax Send/Receive Settings\n: restores the Scan and Print Setup and Communication settings.\nReset Fax Data Settings\n: restores the Speed Dial Setup, Group Dial Setup, Header, and Fax Log settings.\nReset Settings, excluding Fax\n: restores all settings except options for the fax.\nReset All Settings\n: restores all settings.\nPress the\n1\nkey to confirm your selection or the\n2\nkey to cancel it.\nPress the\nMenu\nbutton to return to the\nFax\nmode screen.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-203242?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA17201~faq-203242",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:15.808400"
+        },
+        {
+          "question": "My product is unable to receive faxes after I changed the number of rings to answer, V.34, and DRD settings. What should I do?",
+          "answer": "Do the following:\nPress the\nCopy/Fax\nbutton to select\nFax\nmode.\nPress the\nMenu\nbutton.\nPress\nor\nto select\nRestore Default Settings\n, then press\nOK\n.\nSelect\nReset Fax Send/Receive Settings\n.\nPress the\n1\nkey to confirm your selection or the\n2\nkey to cancel it.\nPress the\nMenu\nbutton to return to the\nFax\nmode screen.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-203304?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA17201~faq-203304",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:16.838400"
+        },
+        {
+          "question": "Do I need to use a filter if I fax over a VoIP (Voice over Internet Protocol) line?",
+          "answer": "No, the filters are only required if you have DSL service.\nBecause fax machines are designed to work over standard analog telephone lines, Epson does not guarantee that fax transmission will work over VoIP phone lines (cable systems such as Cox, Charter, Time Warner, Comcast, FiOS, magicJack, and Vonage).\nInternet traffic can interfere with faxing because VoIP communicates through the internet and not through standard analog telephone lines. The data sent over the internet for a fax is digitized into packets and this process can cause data loss.\nYou can try slowing the transmission speed of the fax by setting ECM on the product to\nOff\nand selecting a slower Fax Speed. If this does not help, contact your VoIP service provider for help.\nFor more information, please contact your telephone service provider.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-0000ae8-shared?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA17201~faq-0000ae8-shared",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:17.904665"
+        },
+        {
+          "question": "How many pages can I store in the fax memory?",
+          "answer": "The fax memory can store up to 180 pages.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-0000ad3-shared?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA17201~faq-0000ad3-shared",
+          "display_order": 20,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:19.019383"
+        },
+        {
+          "question": "Can I use digital voicemail with my fax?",
+          "answer": "If your digital voicemail is provided by your phone company and is not a separate answering machine, you cannot use the product to automatically receive and print faxes. To receive faxes manually, turn off Auto Answer mode. Epson recommends that you use a separate answering machine connected to the\nEXT\nport on the product for best results.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-0000afa-shared?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA17201~faq-0000afa-shared",
+          "display_order": 21,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:20.063112"
+        },
+        {
+          "question": "How do I print faxes stored in the fax memory when my product has an expended ink cartridge?",
+          "answer": "You will need to replace any ink cartridges that are expended. Once the ink cartridges are replaced and the printer has finished charging them, the printer will automatically print the faxes stored in memory.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-142897-shared?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA17201~faq-142897-shared",
+          "display_order": 22,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:21.093674"
+        },
+        {
+          "question": "I cannot access the fax settings on my product's control panel. What should I do?",
+          "answer": "If you're using a cordless phone with a base and the product is connected to the same phone line, make sure the cordless phone is in the phone cradle to access the fax settings on the control panel.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-00004a0-shared?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA17201~faq-00004a0-shared",
+          "display_order": 23,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:22.116132"
+        },
+        {
+          "question": "The fax header gets cut off when I send a fax. What should I do?",
+          "answer": "Enter 25 characters or fewer for the fax header. Although you can enter up to 40 characters for the fax header (including spaces) on the product, only the first 25 characters will be on the outgoing fax.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-00004a2-shared?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA17201~faq-00004a2-shared",
+          "display_order": 24,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:24.100019"
+        },
+        {
+          "question": "Do I need a filter if I'm faxing over a DSL?",
+          "answer": "Yes, you must connect the appropriate DSL filter or ISDN terminal adapter or router to the wall jack to use the line for faxing or voice calls on your product. Contact your DSL or ISDN provider for the necessary equipment.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-00004a1-shared?faq_cat=faq-8796125866060",
+          "faq_slug": "SPT_C11CA17201~faq-00004a1-shared",
+          "display_order": 25,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:25.125193"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "I installed new ink cartridges and my product seems to be doing a long cleaning cycle. Is this normal?",
+          "answer": "Yes. It takes about 2 minutes for the printer to charge the ink delivery system when you install or replace the ink cartridges.\nNote:\nNever turn off the printer while the printer is charging the ink delivery system (unless the printer hasn't moved or made noise for more than 5 minutes). This initialization is a normal and necessary process. If the printer initialization does not stop after 5 minutes, turn the printer off and contact Epson technical support for assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116428?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA17201~faq-116428",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:26.072940"
+        },
+        {
+          "question": "How do I know when an ink cartridge needs to be replaced?",
+          "answer": "When you see a message on the display screen, the Epson Stylus will require you to change the cartridge. You need to replace a cartridge when it's expended or it gets too old. See\nReplace Ink Cartridges\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116425?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA17201~faq-116425",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:26.960527"
+        },
+        {
+          "question": "Which ink cartridges should I use with my product?",
+          "answer": "You can use the following cartridges:\nInk color\nHigh Capacity\n(for heavy use)\nStandard Capacity\nModerate Capacity\n(for light use)\nBlack\n68\n69\n88\nCyan\n--\n69\n88\nMagenta\n--\n69\n88\nYellow\n--\n69\n88\nNote:\nWe recommend that you use genuine Epson cartridges and do not refill them. The use of other products may affect your print quality and could result in printer damage.\nCaution:\nLeave your old cartridges installed until you are ready to replace them to prevent the print head nozzles from drying out.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116426?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA17201~faq-116426",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:27.840772"
+        },
+        {
+          "question": "The color ink cartridge is expended even though I print in black only. Why does this happen?",
+          "answer": "To keep the print head clear and ready to print, the printer uses a small amount of ink from all the cartridges whenever it prints. Even if you select\nBlack Ink Only\n, some color ink is still being used.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116424?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA17201~faq-116424",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:28.933212"
+        },
+        {
+          "question": "How do I change the ink cartridges?",
+          "answer": "See\nReplace Ink Cartridges\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116448?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA17201~faq-116448",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:29.915173"
+        },
+        {
+          "question": "How long should an ink cartridge remain in my product if it's not used often?",
+          "answer": "When an installed ink cartridge is more than six months old, you may need to replace it if you notice that your printouts don't look as good as they used to and quality doesn't improve after cleaning and aligning the print head.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116469?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA17201~faq-116469",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:30.783724"
+        },
+        {
+          "question": "I replaced an ink cartridge and my product shows that the same ink cartridge is expended. What should I do?",
+          "answer": "Follow the steps below to make sure the cartridges are correctly installed.\nTurn on the Epson Stylus.\nPress the\nMenu\nbutton.\nPress the up or down arrow to select\nMaintenance\nand press\nOK\n.\nSelect\nInk Cartridge Replacement\nand press\nOK\n.\nOpen the scanner.\nCaution:\nDo not lift up the scanner unit when the document cover is open.\nOpen the cartridge cover.\nPress down all the ink cartridges until they click into place to make sure they are properly seated.\nClose the cartridge cover and press it until it clicks into place.\nClose the scanner.\nPress\nOK\nto begin charging the ink. This takes about 2 minutes.\nYou see a message on the display screen when ink charging is finished.\nCaution\n:\nNever turn off the Epson Stylus while the ink is charging or you'll waste ink.\nIf you remove an ink cartridge for later use, protect the ink supply area from dirt and dust and store it in the same environment as the Epson Stylus with the label facing upward. Note that there is a valve in the ink supply port, making covers or plugs unnecessary, but take care to prevent the ink from staining items that the cartridge touches. Do not touch the ink cartridge ink supply port or surrounding area.\nIf you remove a low or expended ink cartridge, you cannot reinstall and use the cartridge.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-130244?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA17201~faq-130244",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:31.692317"
+        },
+        {
+          "question": "Can the Epson ink cartridges be refilled or can I use third-party ink cartridges without voiding the warranty?",
+          "answer": "Epson does not recommend refilling or using other brands of ink cartridges.  Epson uses a permanent Micro Piezo print head that has allowed Epson to lead the industry in delivering consistent photo image quality by using variable-sized droplets.  Micro Piezo print head can also use a wider variety of inks, which has allowed Epson to introduce such ink breakthroughs as DURABrite® and Epson UltraChrome® inks that offer greatly improved humidity resistance, smudge resistance, and fade resistance.\nUsing refilled ink cartridges will not void the product's original warranty; however, if these products cause a failure, the repair of that failure will not be covered under warranty.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-0000bf9-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA17201~faq-0000bf9-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:32.561745"
+        },
+        {
+          "question": "Can the printer still print if an ink cartridge is expended or not installed?",
+          "answer": "No. The printer will not operate if any cartridge is expended or removed. It's best to always have extra cartridges on hand.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-000051b-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA17201~faq-000051b-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:33.460437"
+        },
+        {
+          "question": "I brought my product with me to a different country and can't find ink for it. What should I do?",
+          "answer": "Some Epson printers and ink cartridges are specific to a regional market and not sold worldwide, although the same printers are sold in the U.S. and Canada. If you have a printer sold in the U.S. or Canada, you may not be able to easily get ink cartridges for it in foreign markets.\nUnfortunately, because of customs and tax regulations, the Epson E-Stores in the U.S. and Canada are unable to ship to addresses outside the U.S. and Canada.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-0000956-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA17201~faq-0000956-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:34.392165"
+        },
+        {
+          "question": "Does my all-in-one printer support non-printing functions when an ink cartridge is expended or not installed?",
+          "answer": "See our\nFAQ page\non which non-printing functions are supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-0000d77-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA17201~faq-0000d77-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:35.410365"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "I'm having paper feed problems. What should I do?",
+          "answer": "The solution for a paper problem depends on whether you are using the sheet feeder or the Automatic Document Feeder. See the solutions below.\nSheet Feeder\nIf paper doesn't feed into the printer, remove it from the sheet feeder. Reload it against the right side, behind the tab, then press in the tab on the edge guide and slide it against the paper and make sure it's not too tight. Make sure the paper is not above the arrow mark inside the edge guide.\nIf multiple pages feed at once, remove the paper from the sheet feeder, fan the edges to separate the sheets, then reload it.  Make sure the paper is not above the arrow mark inside the edge guide.\nIf the paper doesn't eject fully, you may have set the wrong paper size. Press the\nOK\nbutton to eject the paper. Select the correct paper size when you reprint.\nIf it's wrinkled when it ejects, the paper may be over-saturated or too thin. (If the paper is over-saturated, make sure you select the correct media type in the printer software).\nMake sure you use new, smooth, high-quality paper, that is not curled, creased, old, or too thin. Load it printable side up.\nDo not load paper with holes punched in it for insertion in a binder.\nMake sure you don't load more than the recommended number of sheets. If you're printing on both sides of the paper, try loading fewer sheets.\nPaper type\nLoad up to\nthis many sheets\nPlain paper\nApproximately 100 sheets, or a stack no more than 1/2 inch (12 mm) thick\nEpson Bright White Paper\n80\nEpson Presentation Paper Matte\n100\nEpson Photo Paper Glossy\nEpson Premium Photo Paper Glossy\nEpson Ultra Premium Photo Paper Glossy\nEpson Premium Photo Paper Semi-gloss\nEpson Premium Presentation Paper Matte\n20\nEpson Premium Presentation Paper Matte Double-Sided\nEpson Photo Quality Self-adhesive Sheets\nEpson Iron-on Cool Peel Transfer Paper\n1\nIf the paper jams, do the following:\nGently pull any jammed paper out from the output tray or sheet feeder.\nTo eject the jammed paper, try turning the Epson Stylus off and then back on.\nIf that doesn't work and paper is stuck inside, turn off the Epson Stylus. Open the scanner, remove the jammed paper and torn pieces, close the scanner, and turn the Epson Stylus back on.\nAutomatic Document Feeder\nMake sure the originals are not creased or folded and do not have tape, staples, or other materials that could obstruct the feeder.  Load only up to 30 letter-size sheets (up to 10 for legal-size) at a time and slide the edge guide against the paper.\nIf the LCD indicates that a paper jam has occurred, press\nOK\nand follow the instructions below:\nOpen the ADF cover and remove any jammed paper.\nCaution:\nOpen the ADF cover before removing paper, or you could damage the mechanism.\nThe message on the LCD screen asks if paper has been removed.  Press\n1\nto clear the message.\nClose the ADF cover and reload the paper.  Make sure the corners of the paper are not bent, folded, or curled up.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116429?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA17201~faq-116429",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:36.298522"
+        },
+        {
+          "question": "How can I prevent my product from feeding multiple pages at the same time?",
+          "answer": "If multiple pages feed at once, remove the paper from the rear sheet feeder or Automatic Document Feeder, fan the edges to separate the sheets, tap the paper on a flat surface to even the edges, and then reload the paper.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116430?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA17201~faq-116430",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:37.147319"
+        },
+        {
+          "question": "Does the type of paper I use really make a difference?",
+          "answer": "The type of paper you choose affects the way your printout looks, so be sure to select the correct paper for your print job. If you are just making a copy or printing a rough draft of an image, plain paper is fine. However, for the best results, you'll want to use one of Epson's special ink jet papers designed for your printer. For example, your photos will look great printed on\nEpson Premium Photo Paper Glossy\n. See\nAvailable Epson Papers\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116449?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA17201~faq-116449",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:38.031000"
+        },
+        {
+          "question": "What kind of paper gives the best results for high quality printing?",
+          "answer": "For the best results, you'll want to use one of Epson's special ink jet papers designed for your printer. For example, your photos will look great printed on\nEpson Premium Photo Paper Glossy\n,\nEpson Premium Presentation Paper Matte\n, and\nEpson Bright White Paper\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116452?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA17201~faq-116452",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:38.912659"
+        },
+        {
+          "question": "How should I load envelopes?",
+          "answer": "See\nLoad Envelopes\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116451?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA17201~faq-116451",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:39.883387"
+        },
+        {
+          "question": "How do I know which paper or media type to select in my product's driver?",
+          "answer": "See\nPaper or Media Type Settings for Loaded Paper/Media\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116457?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA17201~faq-116457",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:40.879061"
+        },
+        {
+          "question": "Can I use sheet labels with my product?",
+          "answer": "You can use Epson's\nPhoto Quality Self-adhesive Sheets\n. A cutting grid is printed on the reverse side of each sheet for easy custom trimming (such as labels). To avoid paper jams, load only one sheet at a time. Also, set the\nType\nor\nMedia Type\nsetting in the driver to\nPremium Presentation Paper Matte\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116464?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA17201~faq-116464",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:42.051570"
+        },
+        {
+          "question": "Can I use hole-punched paper with my product?",
+          "answer": "No. The product does not support this paper type.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-0000ab4-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA17201~faq-0000ab4-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:43.021974"
+        },
+        {
+          "question": "Can the product print on CDs and DVDs?",
+          "answer": "No, this product does not support this feature.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-00004b5-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA17201~faq-00004b5-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:43.937593"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "The quality of my printed output is unacceptable. What should I do?",
+          "answer": "If the image looks fine on your computer screen but not when printed, make sure you're using the latest driver version for your printer. Also, make sure you select the correct quality option, paper type, paper size, and orientation setting in the\nWindows\n,\nMacintosh OS X 10.5 or 10.6\n, or\nMacintosh OS X 10.4\nprinter software for your print job.  If that doesn't help, see\nPrint Quality Problems (quality is correct on screen)\n.\nIf the image also looks incorrect on screen, see\nImage Quality Problems (quality problem appears on screen)\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116432?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA17201~faq-116432",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:44.798334"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Try the following:\nClean\nthe print head nozzles.\nSelect a higher\nQuality Option\nor\nPrint Quality\nand turn off\nHigh Speed\nmode in the\nWindows\n,\nMacintosh OS X 10.5 or 10.6\n, or\nMacintosh OS X 10.4\nprinter software.\nMake sure the paper\nType or Media Type setting\nmatches the paper you loaded.\nMake sure the printable side of the paper is face up. It's usually brighter or whiter.\nWith\nMacintosh OS X 10.5 or 10.6\nor\nMacintosh OS X 10.4\n, try using\nAutomatic\nmode.\nAlign\nthe print head.\nThe printer won't operate properly if it's tilted or at an angle. Place it on a flat, stable surface that extends beyond the base in all directions.\nThe ink cartridges may need\nreplacing\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116433?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA17201~faq-116433",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:45.687533"
+        },
+        {
+          "question": "My printout has incorrect margins. What should I do?",
+          "answer": "The solution depends on if you're printing, scanning or copying. See the solutions below for your task.\nPrinting\nMake sure the paper settings are correct for your paper size in the\nWindows\n,\nMacintosh OS X 10.5 or 10.6\n, or\nMacintosh OS X 10.4\nprinter software.\nChoose the correct margins for your paper size in your printing program.\nUse the\nPrint Preview\noption in your\nWindows\n,\nMacintosh OS X 10.5 or 10.6\n, or\nMacintosh OS X 10.4\nprinter software to check your margins before you print.\nMake sure your paper is positioned next to the right side of the feeder and the edge guide is against the left side of the paper. See\nLoad Paper\n.\nIf you're using a Macintosh, make sure you choose the correct printer in the Page Setup and Print windows.\nIf you're printing from a web browser, the pages may not print correctly due to the web page design. Try one of the following:\nCheck to see if there is a\nPrinter Friendly Version\n(or similarly named) icon or link on the web page that you can click on.\nExperiment with page setup and paper size, then select\nPrint Preview\nfrom the\nFile\nmenu in your application to view the changes.\nScanning\nMake sure you've aligned the document correctly. See\nPlace Originals for Copying, Scanning, or Faxing\n.\nCopying\nMake sure you've aligned the document correctly. See\nPlace Originals for Copying, Scanning, or Faxing\n.\nMake sure your paper is positioned next to the right side of the feeder and the edge guide is against the left side of the paper. See\nLoad Paper\n.\nMake sure you selected the correct paper size on the LCD screen using the control panel. See\nCopy a Document or Photo\nfor details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116434?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA17201~faq-116434",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:46.581865"
+        },
+        {
+          "question": "My printout is blurry or smeared. What should I do?",
+          "answer": "Check the following:\nMake sure your paper isn't damp or curled, or loaded face down (the printable side should be face up). It's usually brighter or whiter.\nUse a support sheet with special paper, or try loading your paper one sheet at a time.\nMake sure your paper meets the\nspecifications\n.\nMake sure the paper\nType or Media Type setting\nmatches the paper you loaded.\nUse Epson papers to ensure proper saturation and absorption of genuine Epson inks. Also, make sure you're using genuine Epson ink cartridges.\nAlign\nthe print head.\nRemove each sheet from the output tray as it is printed.\nAvoid handling printouts on glossy paper for a few hours to allow the ink to set.  Let your prints dry separately for at least 12 hours before framing or placing them in protective sheets.  If you need to stack them, place a sheet of plain paper between each print.\nTurn off\nHigh Speed\nmode in the\nWindows\n,\nMacintosh OS X 10.5 or 10.6\n, or\nMacintosh OS X 10.4\nprinter software.\nIf you are using double-sided paper and printing heavily saturated or dark images on the front side of the paper, you may notice that smudges or marks appear on the front when you print the second side. If one side of the paper will contain a lighter image or text, print that side first to eliminate marks or smudging.\nMake sure the printer is on a flat, stable surface that extends beyond the base in all directions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116437?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA17201~faq-116437",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:47.553143"
+        },
+        {
+          "question": "My product is printing blank pages from Windows or my Mac. What should I do?",
+          "answer": "Check the following:\nMake sure the\nprint head nozzles\nare not clogged.\nMake sure your printer is selected as the active printer in your printing program.\nMake sure the printer software settings are appropriate for the paper size you're using.\nThe ink cartridges may be old or low on ink, and you may need to\nreplace them\n.\nIf you're using Windows, activate the\nSkip Blank Pages\nsetting:\nRight-click the\nprinter icon in the lower right corner of your screen (taskbar) and select\nPrinter Settings\n. If you don't see the icon, click\nhere\nfor instructions on making it appear.\nClick the\nMaintenance\ntab.\nClick the\nSpeed & Progress\nbutton, then select\nSkip Blank Pages\n.\nFor Macintosh, check the\nSkip Blank Pages\nsetting in the Extension Settings in the Print dialog box.\nTry printing a different document to determine if the problem is limited to one document. If the problem is with one document, try recreating the document.\nYou may need to uninstall the software (\nWindows\nor\nMacintosh\n) and then reinstall it (\nWindows\nor\nMacintosh\n).",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116436?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA17201~faq-116436",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:48.462737"
+        },
+        {
+          "question": "The printout is grainy. What should I do?",
+          "answer": "Check the following:\nMake sure the printable side of the paper is face up. It's usually brighter or whiter.\nSelect a higher\nQuality Option\nor\nPrint Quality\n, and turn off\nHigh Speed\nand\nFast Economy\nor\nEconomy\nmode in the\nWindows\n,\nMacintosh OS X 10.5 or 10.6\nor\nMacintosh OS X 10.4\nprinter software.\nSelect\nPhoto RPM\nfor Quality type (\nWindows\n) or Print Quality (\nMacintosh OS X 10.5 or 10.6\nor\nMacintosh OS X 10.4\n). Remember that this setting increases print time.\nAlign\nthe print head.\nYou may need to increase the image resolution or print in a smaller size; see your software documentation.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116440?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA17201~faq-116440",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:49.316630"
+        },
+        {
+          "question": "My printout has incorrect or missing colors. What should I do?",
+          "answer": "The problem could be due to a software setting, the condition of the Epson Stylus, or the paper you're using. Check the following:\nMake sure your\nWindows\n,\nMacintosh OS X 10.5 or 10.6\n, or\nMacintosh OS X 10.4\nprinter software is not set to use black ink only.\nThe print head nozzles may need\ncleaning\n.\nThe ink cartridges may be old or low on ink, and you may need to\nreplace them\n.\nTry turning off\nFix Photo\nin the\nWindows\nor\nMacintosh OS X 10.5 or 10.6\nprinter software.\nWith\nMacintosh OS X 10.5 or 10.6\nor\nMacintosh OS X 10.4\n, try using\nAutomatic\nmode.\nTry changing the\nGamma\nsetting in your\nWindows\n,\nMacintosh OS X 10.5 or 10.6\n, or\nMacintosh OS X 10.4\nprinter software.\nYour printed colors can never exactly match your on-screen colors. However, you can use a color management system to get as close as possible. Try using the\nICM\n(\nWindows\n) or\nColorSync\n(\nMacintosh OS X 10.4\n) or (\nMacintosh OS X 10.5 or 10.6\n[\nin Color Matching\npop-up menu]).\nIf you're using color management in your application, select\nOff (No Color Adjustment)\nfor the ICM setting in the printer software (\nWindows\n,\nMacintosh OS X 10.5 or 10.6\n, or\nMacintosh OS X 10.4\n).\nAfter you print, the colors on your printout will take some time to set as the ink dries. During this time, the colors may look different than you expect. To reduce the drying time, avoid stacking your prints on top of each other.\nFor best results, use genuine Epson ink and paper.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116438?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA17201~faq-116438",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:50.286815"
+        },
+        {
+          "question": "My printout contains garbled characters when I print from Windows or my Mac. What should I do?",
+          "answer": "Try the following:\nMake sure the USB cable is a shielded “AB” cable not more than 6.5 feet (2 meters) long.\nTurn the Epson Stylus off, check that the cables are securely connected, turn it back on, then try printing again.\nIf you're using a switch box or USB hub with your printer, connect the printer directly to your computer.\nYou may need to uninstall the software (\nWindows\nor\nMacintosh\n) and then reinstall it (\nWindows\nor\nMacintosh\n).\nCancel the print job.  Close all programs, except the application being used.  Resend the file again.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116439?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA17201~faq-116439",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:51.162744"
+        },
+        {
+          "question": "The printout has a slight slant. What should I do?",
+          "answer": "Try the following:\nIf you have selected\nFast Economy\nin your advanced printer settings, select\nEconomy\ninstead.\nMake sure you have loaded the paper correctly.\nAlign\nthe print head.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116442?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA17201~faq-116442",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:52.155176"
+        },
+        {
+          "question": "The image look inverted, as if viewed in a mirror. What should I do?",
+          "answer": "You may have accidentally selected the\nMirror Image\nor\nRotate 180°\noption in the printer driver or a similar feature in your software application. Make sure the settings are not turned on in the printer driver or in your application program. (If you're printing on Epson Iron-On Transfer Paper, the image should be inverted.)\nWindows\nMacintosh OS X 10.5 or 10.6\nMacintosh OS X 10.4",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116441?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA17201~faq-116441",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:53.009819"
+        },
+        {
+          "question": "How do I reduce the appearance of red eyes in my photos?",
+          "answer": "Turn on the\nFix Red-Eye\nsetting in the printer software or from the product's control panel, if available for your product.\nNote:\nDue to the complexity and nature of some photographs, not all images can be corrected. If the Fix Red-Eye setting does not fix the photo, you need to use a software application such as Adobe Photoshop or Adobe Elements to fix it.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-00004b9-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA17201~faq-00004b9-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:54.018871"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Scan",
+      "section_id": "8796127569996",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "The quality of a scanned image with Epson Scan is poor. What should I do?",
+          "answer": "See\nImage Quality Problems (quality problem appears on screen)\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116478?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA17201~faq-116478",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:54.985373"
+        },
+        {
+          "question": "I am unable to scan from my computer. What should I do?",
+          "answer": "Try the following:\nMake sure the Epson Stylus is turned on and securely connected to your computer or USB hub.\nIf the Epson Stylus is connected to a USB hub, make sure it's connected to a first tier hub (the hub closest to the host computer) when more than one hub is connected to the computer.\nTry restarting your computer.\nMake sure you installed all the software correctly. See Install Software for\nWindows\nor\nMacintosh\n.\nMake sure the correct printer is selected in the Epson Scan settings.\nClick\nStart\n,\nPrograms\n,\nEpson Scan\n, then\nEpson Scan Settings\n.\nIn the Select Scanner field, choose your printer.\nSelect the proper connection and click\nOK\n.\nNote\n: If a message appears asking if you want to open troubleshooting assistant, click\nNo\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116479?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA17201~faq-116479",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:55.855049"
+        },
+        {
+          "question": "How do I decide which resolution to select when scanning from Epson Scan?",
+          "answer": "The best scanning resolution depends on the purpose of the scan.  Before you select the scan resolution, you should consider whether you will enlarge the images, and if so, whether you will enlarge them as you scan or after you scan. Follow these guidelines:\nYou will not enlarge the images.\nIf you will scan the images at 100% size or smaller and will not enlarge them later, accept the\nResolution\nsetting selected by Epson Scan.\nYou will enlarge the images as you scan them (increase the Target Size setting).\nIf you will enlarge the images in Epson Scan so you can use them at a larger size, accept the\nResolution\nsetting selected by Epson Scan.\nYou will scan the images at their original size, but then enlarge them later in an image-editing program.\nIf you plan to enlarge your images later in an image-editing program, you need to increase the\nResolution\nsetting to retain a high image quality. Increase the resolution by the same amount you will increase the image size. For example, if the resolution is 300 dpi (dots per inch), and you will increase the image size by 200% later, change the\nResolution\nsetting to 600 dpi.\nNote:\nHigher resolution settings result in larger file sizes. For example, an 8.5 x 11-inch original scanned at 300 dpi can produce a 24MB file. The same original scanned at 72 dpi creates only a 1.3MB file. Large files take longer to process and print, so consider the practical limitations of your computer system when selecting a resolution. To keep your file size manageable, select the lowest possible resolution that gives acceptable quality.\nIf you are scanning at 100% or reducing the size, select your\nResolution\nbased on how you will use the scanned image:\nE-mail or view on a computer screen, or post on the web:\n96 to 150 dpi\nPrint or convert to editable text (OCR):\n300 dpi\nFax:\n200 dpi",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116482?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA17201~faq-116482",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:56.789370"
+        },
+        {
+          "question": "I want to enlarge an image that I'm scanning with Epson Scan. How do I obtain the best quality?",
+          "answer": "To obtain the best quality, you should resize your image when you're scanning instead of enlarging it later in an image-editing program. You can do this using the\nTarget Size\nsetting in Home or Professional Mode.\nIf you are going to scan your image to a particular size, such as 8 x 10 inches, you should select the\nTarget Size\nsetting after previewing it, but before adjusting your scan area (indicated by the marquee). This sets the scan area to the correct proportions so your image will not be cropped unexpectedly.\nFollow these steps to select the\nTarget Size\nsetting:\nYou can choose a predefined scan size from the Target Size list. Click the arrow in the list and select the\nTarget Size\nyou want.\nA dotted line (marquee) appears on your preview image proportioned for that size.\nNote:\nIf you need to rotate the orientation of the scan area marquee, click the orientation icon.\nIf you need to create a scan size that is not in the Target Size list, you can create a custom size. Click the arrow in the list and select\nCustomize\n. You see the Target Size window:\nName the custom size, enter the size, click\nSave\n, and click\nOK\n. Then create a marquee on the preview image to\ndefine the scanned image area\n. The size is automatically proportioned.\nIn Professional Mode, you can fine-tune the size using additional tools. Click the + (Windows) or\n(Macintosh) next to\nTarget Size\nto display these tools:\nScale:\nreduces or enlarges your image by the percentage you enter\nTrimming:\nturns automatic image cropping on or off (see Epson Scan Help for details)\nunlock icon: unlocks the width/height proportions of the scanned image size so you can adjust it without constraint.\nOnce you have selected your scan size, you can click and drag the marquee to the area in the image you want to scan.\nNote:\nFor more information about using the Target Size tools, click\nHelp\nin the EPSON Scan window.\nNow you are ready to scan your image.\nNote:\nIf you plan to enlarge your image later in an image-editing program, you need to increase the\nResolution\nsetting to retain a high image quality after enlargement. Increase the resolution by the same amount you will increase the image size. For example, if the resolution is 300 dpi (dots per inch), but you will increase the image size by 200% in an image-editing program, change the\nResolution\nsetting to 600 dpi in Epson Scan.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116481?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA17201~faq-116481",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:57.662725"
+        },
+        {
+          "question": "What is the maximum number of pages that I can scan into one PDF file?",
+          "answer": "See the specifications below for the version of Epson Scan that you are using:\nEpson Scan version\nNumber of pages\nv1.0 through v3.04\n100\nv3.05 through 3.2x\n200\nv3.30 or later\n999\nNote\n: You can check your version by launching Epson Scan and viewing the initial startup screen. To get the latest supported version of Epson Scan for your product, see the Downloads tab on the product support page for your product.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-229563?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA17201~faq-229563",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:58.539090"
+        },
+        {
+          "question": "The orientation of some pages change from portrait to landscape when I scan multiple pages with Epson Scan and save them as a PDF. What should I do?",
+          "answer": "This happens if ABBYY Fine Reader is installed and you selected\nCreate searchable PDF\nin Epson Scan. (The\nCreate searchable PDF\noption saves the PDF file in a format that allows you to search for text within the document.)\nFollow these steps to disable this setting:\nStart Epson Scan.\nClick the file folder icon next to the\nScan\nbutton. The File Save Settings window appears.\nUnder Image Format, select\nPDF\nfor the Type setting.\nClick the\nOptions\nbutton.\nClick the\nText\ntab.\nDeselect\nCreate searchable PDF\n.\nClick\nOK\nto save your changes.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-0000abe-shared?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA17201~faq-0000abe-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:40:59.468073"
+        },
+        {
+          "question": "Can I scan if an ink cartridge is expended in the product?",
+          "answer": "You can scan from your computer with Epson Scan, but you can't copy or scan from the product's control panel.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-0000bf4-shared?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA17201~faq-0000bf4-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:41:00.435534"
+        },
+        {
+          "question": "How do I save my scans to a specific folder when using the Scan to PC button?",
+          "answer": "You can save scans to a select destination folder (\nDocuments\n,\nPictures\n, or\nSelect target folder\n) by changing the settings in Epson Event Manager.\nDo one of the following:\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nEvent Manager\n.\nWindows (other versions)\n: Click\nStart\nor\n, and select\nAll Programs\nor\nPrograms\n>\nEPSON Software\n>\nEvent Manager\n.\nMac OS X\n: Open\nApplications\n>\nEpson software\n>\nEvent Manager\n.\nSelect your product in the Scanner drop-down box, then click\nMake Job Settings\n.\nSelect\nScan to PC\n, select your desired destination folder (\nDocuments\n,\nPictures\n, or\nSelect target folder\n) from the\nTarget Folder\ndrop-down box.\nNote\n: To save the scan to a specific folder on your computer, use the\nSelect target folder\noption.\nClick\nOK\n, then click\nClose\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-252007-shared?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA17201~faq-252007-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:41:01.383059"
+        },
+        {
+          "question": "How do I scan a photo without scanning the entire scanner glass?",
+          "answer": "Use the Thumbnail preview option when you scan.  The option is available only in Home or Professional Mode.\nSee below for instructions.\nHome Mode\nPlace your original(s) on the scanner glass.\nStart Epson Scan and select\nHome Mode\nif necessary.\nSelect\nPhotograph\nas the Document Type.  Click the\nThumbnail\ncheck box.\nClick\nPreview\n.  Your photo is selected automatically as the scan area with a blue marquee.\nSelect\nScan\n, then click\nOK\n.\nProfessional Mode\nPlace your original(s) on the scanner glass.\nStart Epson Scan and select\nProfessional Mode\nif necessary.\nSelect\nDocument Table\nas the Document Source and select\nPhoto\nas Auto Exposure Type.\nClick the\nThumbnail\ncheck box.\nClick\nPreview\n.  Your photo is selected automatically as the scan area with a blue marquee.\nSelect\nScan\n, then click\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-253187-shared?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CA17201~faq-253187-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:41:02.347730"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "I cancelled the software installation before it was complete, or connected the USB cable before starting the software installation. What should I do?",
+          "answer": "First uninstall the software (\nWindows\nor\nMacintosh\n), then reinstall the software (\nWindows\nor\nMacintosh\n).\nNote:\nYou must connect the Epson Stylus to your computer at the correct time to make sure the driver is installed correctly on your computer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116443?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA17201~faq-116443",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:41:03.527792"
+        },
+        {
+          "question": "I'm having problems installing the software. What should I do?",
+          "answer": "Check the following:\nMake sure your Epson Stylus is turned on and the USB cable is securely connected at both ends. If you still have problems, disconnect the USB cable and carefully follow the software installation instructions on the\nStart Here\nsheet.\nNote:\nYou must connect the Epson Stylus to your computer at the correct time to make sure the driver is installed correctly on your computer.\nMake sure your system meets the\nrequirements\n.\nMake sure all applications (including any screen savers and virus protectors) are closed before you install the software. If any applications were open, uninstall the software (\nWindows\nor\nMacintosh\n), then reinstall the software (\nWindows\nor\nMacintosh\n).\nIf you see an error message or your software doesn't install correctly in Windows, you may not have software installation privileges. Contact your System Administrator.\nMake sure the USB controller is working properly in Device Manager. See your Windows help system for details. If it's not working, contact your computer manufacturer.\nUninstall the software (\nWindows\nor\nMacintosh\n), then reinstall the printer software (\nWindows\nor\nMacintosh\n).\nNote:\nYou must connect the Epson Stylus to your computer at the correct time to make sure the driver is installed correctly on your computer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116444?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA17201~faq-116444",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:41:04.460889"
+        },
+        {
+          "question": "Can I select a print resolution by indicating a specific dpi (dots per inch) setting?",
+          "answer": "No. The print resolution is determined by other driver software settings.\nIn Windows, the\nQuality Option\nand paper\nType\nsettings determine the print resolution.\nIn Mac OS X, the resolution settings depend on the\nMode\nsetting.\nNote:\nTo access the resolution settings in Mac OS X, select\nPrint\nfrom the File menu. Then select\nPrint Settings\nfrom the pull-down menu.\nIf you've selected\nAutomatic\nas the\nMode\nsetting, the resolution is determined by the\nMedia Type\nsetting and the position of the Quality/Speed slider.\nIf you've selected\nAdvanced\nas the\nMode\nsetting, the resolution is determined by the\nMedia Type\nsetting and the\nPrint Quality\nsetting.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116456?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA17201~faq-116456",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:41:05.342108"
+        },
+        {
+          "question": "How do I set default print settings when I print from Windows or my Mac?",
+          "answer": "When you change your print settings from within a program, the changes apply only while you're printing at that time in the open program. If you want to select different settings to use in all your programs, you can change the default print settings. Follow the steps below for your operating system to change the default print settings.\nWindows 7, Windows Vista, or Windows XP\nRight-click the\nprinter icon in the task bar (bottom-right corner of your screen), and select\nPrinter Settings\n.\nSelect the settings you want to use as defaults in all your Windows programs.\nClick\nOK\nto accept the changes.\nMacintosh 10.5.x\nOpen a document and select\nPrint\nfrom the File menu.\nSelect the print settings you want to to save.\nClick the\nPresets\npop-up menu and do one of the following:\nSelect\nLast Used Settings\n.\nSelect\nSave As\n, enter a name for your preset, and click\nOK\n.\nClick\nPrint\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-133381?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA17201~faq-133381",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:41:06.243627"
+        },
+        {
+          "question": "The settings are grayed out in Epson Scan on my Mac. What should I do?",
+          "answer": "Create a new user account using the instructions below.  If you are able to change the settings in Epson Scan using the new account but not with the old account, please contact Apple for possible solutions.\nClick the Apple icon, then select\nSystem Preferences\n.\nUnder\nSystem\n, select\nAccounts\n.\nIf the padlock in the lower left corner is locked, click it to unlock it and enter the password when prompted.\nClick the\n+\nto create a new account.\nAt the top, change the New Account field to\nAdministrator\n.\nComplete the required fields, then click\nCreate Account\n.  (Do not set to automatically log in).\nClose the Accounts screen, click on the Apple icon to log out, then log in as the new user.\nOpen Epson Scan.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-156836?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA17201~faq-156836",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:41:07.168052"
+        },
+        {
+          "question": "How do I install the latest scanner driver on my Mac?",
+          "answer": "To update Image Capture, follow these directions:\nConnect and power on your product.\nClick the Apple icon on the top left corner of the desktop.\nSelect\nSoftware Updates\n.\nFollow the on-screen instructions to install the available updates.\nNote\n: Software Updates may find multiple updates for your system; you may choose to install all or some of the updates by clicking Show Details.\nTo update or install Epson Scan, go to the\nDownloads\ntab for your product select\nEpson Scan\n, then click\nDownload Now\nand follow the prompts on the screen to download and install the software.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-166013?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA17201~faq-166013",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:41:08.034365"
+        },
+        {
+          "question": "I cannot launch the EPSON Event Manager, how do I uninstall and reinstall the application?",
+          "answer": "Do the following:\nDownload the Uninstall Center Utility from the Downloads tab for your product.\nExtract the contents of the zip file you downloaded onto your hard drive.\nQuit all applications currently running on your Mac.\nOpen the\nApplications\n>\nEpson software\nfolder.\nDouble-click the\nEPSON Scan Uninstaller\nicon.\nSelect\nUninstall\n, then click the\nUninstall\nbutton.\nFollow the on-screen instructions to uninstall the software.\nDelete the\nCommon\nfolder and\nEvent Manager\nin the Mac's Application folder (\nHard drive\\Applications\\Epson software\n).\nDelete the highlighted files and folders below from the Mac's Library Preferences folder (\nHard drive\\Users\\login_name\\Library\\Preferences\n).\nRestart your computer.\nRe-install EPSON Scan and the Event Manager from the product software CD or from the Downloads tab for your product.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-0000957-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA17201~faq-0000957-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:41:08.926885"
+        },
+        {
+          "question": "Does my product support Epson Connect?",
+          "answer": "No, your product is not compatible.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-0000af9-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA17201~faq-0000af9-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:41:09.812437"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "You can download the latest product driver from the Downloads section of this website.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-0000afb-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA17201~faq-0000afb-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:41:10.713117"
+        },
+        {
+          "question": "I can't scan multiple document pages into a single PDF. What should I do?",
+          "answer": "If you are using the Scanner Driver and Epson Scan Utility v2.92a or earlier, the ability to scan multiple pages to a single PDF is not supported. This feature is supported when using the Scanner Driver (which is sometimes shown as TWAIN Driver) and Epson Scan Utility v3.04a or higher. Check your product's Downloads tab to make sure you're using the latest version.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-0000963-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA17201~faq-0000963-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:41:11.590029"
+        },
+        {
+          "question": "How do I change the default settings for the Scan to PC feature?",
+          "answer": "You need to change the settings in Epson Event Manager.  Follow the instructions below.\nDo one of the following:\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nEvent Manager\n.\nWindows (other versions)\n: Click\nStart\nor\n, and select\nAll Programs\nor\nPrograms\n>\nEPSON Software\n>\nEvent Manager\n.\nMac OS X\n: Open\nApplications\n>\nEpson software\n>\nEvent Manager\n.\nSelect your product in the Scanner drop-down box, then click\nMake Job Settings\n.\nSelect\nScan to PC\n, then click on\nDetailed Settings for Scanning\n.\nSelect the settings you would like to use.\nThe following dpi (dots per inch) settings are supported:\nSpeed (150 dpi)\nStandard (300 dpi)\nHigh resolution (600 dpi)\nCustom\nNote\n: Higher dpi settings take longer to scan.\nClick\nOK\ntwice, then click\nClose\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-251949-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA17201~faq-251949-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:41:12.498800"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA17201~faq-00004dc-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:41:13.394287"
+        },
+        {
+          "question": "How do I change the font size of text when I print from software in Windows?",
+          "answer": "You need to select the text or font size in the software you are printing from, not the printer driver. For detailed instructions, contact the company for the application you are printing from.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-00004b7-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA17201~faq-00004b7-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:41:14.389842"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA17201~faq-0000f4b-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:41:15.334013"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA17201~faq-0000f4c-shared",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:41:16.349897"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA17201~faq-0000f4d-shared",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:41:17.297626"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Wireless or Wired Connection",
+      "section_id": "8796127635532",
+      "section_order": 9,
+      "faqs": [
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-0000ad0-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CA17201~faq-0000ad0-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:41:18.162484"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 10,
+      "faqs": [
+        {
+          "question": "How should I transport my product?",
+          "answer": "See\nTransportation\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116460?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA17201~faq-116460",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:41:19.043093"
+        },
+        {
+          "question": "My product detects only one of two photos placed on the scan bed when I use the copy function on the control panel. What should I do?",
+          "answer": "Check the following:\nMake sure the scan bed glass is clean and free of finger prints, smudges, etc. (When cleaning the glass, spray the glass cleaner onto a cloth and then wipe the glass. Never spray glass cleaner directly onto the scan bed.)\nWhen copying two photos (up to 4 x 6 inches), place them 1/4 inch (5 mm) apart as shown below.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-116480?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA17201~faq-116480",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:41:20.022062"
+        },
+        {
+          "question": "When printing in Windows, how can I prevent an extra page from being ejected after every print job?",
+          "answer": "The Separator Page function may be enabled. Follow these steps to disable it:\nClick\nStart\nor\n.\nDo one of the following:\nWindows XP\n:\nSelect\nPrinters and Faxes\n(or select\nSettings\n, then select\nPrinters and Faxes\n).\nWindows Vista\n:\nSelect\nControl Panel\n, then\nPrinter\nor\nPrinters\nunder Hardware and Sound\n.\nWindows 7\n:\nSelect\nControl Panel\n, then\nView Devices and Printers\nunder Hardware and Sound.\nIn the\nPrinters\nor\nPrinters and Faxes\nwindow, right-click on your printer's name.\nSelect\nProperties\n, click the Advanced tab, then press the\nSeparator Page\nbutton.\nIn the Separator Page window, delete the information in the text box and then click\nOK\n.\nClick\nOK\nagain.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-134347?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA17201~faq-134347",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:41:20.943177"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA17201~faq-00004b0-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:41:21.846394"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA17201~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA17201~faq-0000f4a-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-NX300/s/SPT_C11CA17201",
+          "fetched_at": "2026-04-01T09:41:22.771831"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

@@ -1,0 +1,635 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "Epson Stylus Series",
+  "model": {
+    "name": "Epson Stylus Photo R320",
+    "sku": "SPT_C11C582001",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "How do I change the font size of text when I print from software in Windows?",
+          "answer": "You need to select the text or font size in the software you are printing from, not the printer driver. For detailed instructions, contact the company for the application you are printing from.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-00004b7-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C582001~faq-00004b7-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:12.871409"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C582001~faq-00004dc-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:14.037496"
+        },
+        {
+          "question": "When I try to print to my product in Windows 7, printing is slow or my product stops printing. What should I do?",
+          "answer": "Try the following:\nSelect a lower quality setting in the printer software.\nMake sure your system meets the minimum system requirements for your printer.\nClose the\nDevices and Printers\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-0000bf3-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C582001~faq-0000bf3-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:14.991477"
+        },
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-0000ad0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C582001~faq-0000ad0-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:15.927432"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "You can download the latest product driver from the Downloads section of this website.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-0000afb-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C582001~faq-0000afb-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:16.976880"
+        },
+        {
+          "question": "I brought my product with me to a different country and can't find ink for it. What should I do?",
+          "answer": "Some Epson printers and ink cartridges are specific to a regional market and not sold worldwide, although the same printers are sold in the U.S. and Canada. If you have a printer sold in the U.S. or Canada, you may not be able to easily get ink cartridges for it in foreign markets.\nUnfortunately, because of customs and tax regulations, the Epson E-Stores in the U.S. and Canada are unable to ship to addresses outside the U.S. and Canada.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-0000956-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C582001~faq-0000956-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:16.041280"
+        },
+        {
+          "question": "Heavy coated or thick paper does not load correctly or loads skewed. What should I do?",
+          "answer": "The paper you are using may be too heavy or glossy for the paper roller to pick up. Be sure the paper is within printer specifications.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-0000b08-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C582001~faq-0000b08-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:16.944596"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C582001~faq-00004b0-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:17.900206"
+        },
+        {
+          "question": "Can I use hole-punched paper with my product?",
+          "answer": "No. The product does not support this paper type.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-0000ab4-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C582001~faq-0000ab4-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:18.809932"
+        },
+        {
+          "question": "Web pages don't print the way they appear on my monitor. What should I do?",
+          "answer": "The pages may not print correctly due to the web page design. Try the following:\nCheck for a\nPrinter-friendly Version\n(or similarly named) option on the web page.\nChange the page setup and paper size settings, and select the preview option in your browser to check the changes before you print.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-00004b8-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C582001~faq-00004b8-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:19.784148"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "How do I print on envelopes with my product?",
+          "answer": "See\nLoading Envelopes\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50235?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C582001~faq-50235",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:20.728631"
+        },
+        {
+          "question": "Can I print on CDs and DVDs?",
+          "answer": "Yes. See\nPrinting on CDs or DVDs\nfor details.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50256?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C582001~faq-50256",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:21.724493"
+        },
+        {
+          "question": "When I try to print to my product in Windows 7, printing is slow or my product stops printing. What should I do?",
+          "answer": "Try the following:\nSelect a lower quality setting in the printer software.\nMake sure your system meets the minimum system requirements for your printer.\nClose the\nDevices and Printers\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-0000bf3-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C582001~faq-0000bf3-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:22.777474"
+        },
+        {
+          "question": "Does OS X support manual duplex printing with my product?",
+          "answer": "This feature is not supported in Mac OS X. However, if your printer has a built-in automatic duplexer, auto-duplexing is supported in Mac OS X 10.6 (Snow Leopard).",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-0000c1d-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C582001~faq-0000c1d-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:23.902582"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "I replaced an ink cartridge and my product shows that the same ink cartridge is expended. What should I do?",
+          "answer": "If you have just installed a new cartridge and you are still seeing an ink related error, the cartridge may be incorrectly installed. Follow these steps to reinstall the cartridge.\nMake sure the printer is turned on, then open the printer cover.\nDo one of the following:\nIf the red error light is on, press the Maintenance button.\nIf the red  error light is flashing, press the  Maintenance button. You see\nInk Cartridge Replacement\n, highlighted in the\nAdvanced Settings\nmenu. Press\nOK\n.\nYou see a message on the LCD screen telling you that ink cartridge replacement will begin. Press\nOK\nto continue. The print head moves to the replacement position.\nOpen the cartridge cover.\nPress in the tab on the back of the cartridge and lift the cartridge out of the printer.\nLower the cartridge back into the holder, with the green circuit board facing the front. Then gently push the cartridge down until it clicks into place.\nClose the ink cartridge cover.\nPress\nOK\nand close the printer cover.\nThe printer begins charging the ink delivery system.\nWhen you see a message that charging is complete (after about a minute), press\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-130809?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C582001~faq-130809",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:24.936967"
+        },
+        {
+          "question": "I installed new ink cartridges and my product seems to be doing a long cleaning cycle. Is this normal?",
+          "answer": "When an ink cartridge is installed in the printer, the printer charges the ink system. This takes about 1 minute. While the ink is charging the\npower light flashes. Never turn off the printer while the\npower light is flashing (unless the printer hasn't moved or made noise for more than 5 minutes). This initialization is a normal and necessary process. If the printer initialization does not stop after 5 minutes, turn the printer off and contact Epson technical support for assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50205?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C582001~faq-50205",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:25.966973"
+        },
+        {
+          "question": "How do I know when an ink cartridge needs to be replaced?",
+          "answer": "When the ink replace light is on, the printer will require you to change the cartridge. You need to replace a cartridge when it's expended or it gets too old. See\nReplacing an Ink Cartridge\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50231?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C582001~faq-50231",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:26.988491"
+        },
+        {
+          "question": "How do I replace an ink cartridge?",
+          "answer": "See\nReplacing an Ink Cartridge\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50232?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C582001~faq-50232",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:27.986565"
+        },
+        {
+          "question": "Can Epson ink cartridges be refilled or can 3rd party ink cartridges be used without voiding the warranty?",
+          "answer": "Epson does not recommend refilling or using 3rd party ink cartridges. Using these products will not void the product's original warranty; however, if these 3rd party products cause a failure, the repair of that failure will not be covered under warranty. The Stylus Photo R320's ink, print head, and driver have been developed to work together as a printing system.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50247?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C582001~faq-50247",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:28.893643"
+        },
+        {
+          "question": "How long should an ink cartridge remain in my product if it's not used often?",
+          "answer": "When an installed ink cartridge is more than six (6) months old, you may need to replace it if you notice that your printouts don't look as good as they used to. If print quality doesn't improve after cleaning and aligning the print head, you should replace the ink cartridges.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50246?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C582001~faq-50246",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:29.836124"
+        },
+        {
+          "question": "Which ink cartridges should I use with my product?",
+          "answer": "Use these Epson ink cartridges within six months of installing them and before the expiration date on the package:\nCartridge ink color\nPart number\nBlack\nT0481\nCyan\nT0482\nMagenta\nT0483\nYellow\nT0484\nLight Cyan\nT0485\nLight Magenta\nT0486\nCaution:\nTo ensure good results, use genuine Epson ink cartridges and do not refill them. Other products may cause damage to your printer not covered by Epson's warranty.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50248?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C582001~faq-50248",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:30.898403"
+        },
+        {
+          "question": "A color ink cartridge is expended even though I print in black only. Why does this happen?",
+          "answer": "To keep the print head clear and ready to print, the printer uses a small amount of ink from all the cartridges whenever it prints.   Even if you select\nBlack ink Only\n, some color ink is still being used.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50260?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C582001~faq-50260",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:31.858636"
+        },
+        {
+          "question": "Can the printer still print if an ink cartridge is expended or not installed?",
+          "answer": "No. The printer will not operate if any cartridge is expended or removed. It's best to always have extra cartridges on hand.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-000051b-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C582001~faq-000051b-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:32.770880"
+        },
+        {
+          "question": "I brought my product with me to a different country and can't find ink for it. What should I do?",
+          "answer": "Some Epson printers and ink cartridges are specific to a regional market and not sold worldwide, although the same printers are sold in the U.S. and Canada. If you have a printer sold in the U.S. or Canada, you may not be able to easily get ink cartridges for it in foreign markets.\nUnfortunately, because of customs and tax regulations, the Epson E-Stores in the U.S. and Canada are unable to ship to addresses outside the U.S. and Canada.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-0000956-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C582001~faq-0000956-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:33.681069"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Memory Cards or External Devices",
+      "section_id": "8796127307852",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "Can I just pull the memory card out of my product when I'm finished printing?",
+          "answer": "No. Before removing a memory card from the printer, make sure the card light below the card slot is not flashing. Do not eject a card while the card light is flashing, or you may lose data on the card.\nIf your printer is connected to your computer, you may need to do one of the following depending on your operating system:\nOperating System\nSteps to take\nWindows Me\nWindows 2000\nClick the\nUnplug or Eject Hardware icon on the taskbar. Then click\nStop USB Mass Storage Device\n.\nWindows XP\nClick the\nUnplug or Eject Hardware icon on the taskbar. Then click\nSafely Remove USB Mass Storage Device\n.\nMac OS\nDrag the memory card icon from your desktop to the trash.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50243?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11C582001~faq-50243",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:34.607802"
+        },
+        {
+          "question": "Which memory cards are compatible with my product?",
+          "answer": "CompactFlash, Memory Stick, Microdrive, MMC (MultiMediaCard), SD (Secure Digital), SmartMedia, and xD Picture Card memory cards are compatible with the Stylus Photo R320.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50255?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11C582001~faq-50255",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:35.507367"
+        },
+        {
+          "question": "The card reader for my product is not working. What should I do?",
+          "answer": "Download the latest printer driver software from the Downloads tab.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50262?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11C582001~faq-50262",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:37.805817"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "Sometimes the paper doesn't eject all the way or is wrinkled. What should I do?",
+          "answer": "See\nProblems With Paper Feeding\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50218?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C582001~faq-50218",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:38.888377"
+        },
+        {
+          "question": "How can I stop my product from feeding multiple pages at the same time?",
+          "answer": "If multiple pages feed, follow these steps:\nRemove them from the sheet feeder.\nFan the edges of the sheets.\nReload them against the right side of the feeder.\nSlide the left edge guide snugly, but not too tightly, against the paper. Don't load paper above the arrow on the left edge guide and make sure it is under the tabs on the left and right edge guides.\nIf that doesn't help, make sure the paper you're using is not too thin or too thick. If it is very humid, the paper may have absorbed moisture and should be replaced with dry paper. If necessary, try different paper from a new package.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50219?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C582001~faq-50219",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:39.818851"
+        },
+        {
+          "question": "My product won't feed paper. What should I do?",
+          "answer": "See\nProblems With Paper Feeding\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50220?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C582001~faq-50220",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:40.782267"
+        },
+        {
+          "question": "What kind of paper gives the best results for high quality printing?",
+          "answer": "For best results, Epson recommends using\nEpson Premium Bright White Paper\n,\nEpson Matte Paper Heavyweight\nand\nEpson Premium Semigloss Photo Paper\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50237?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C582001~faq-50237",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:41.683608"
+        },
+        {
+          "question": "What is the correct way to load transparency paper?",
+          "answer": "For best results, use\nEpson Ink Jet Transparencies\n. Before loading the transparency, place the included support sheet or a sheet of plain paper beneath the transparency (or beneath the stack of transparencies if you are loading more than one). Insert the transparency sheet making sure that the notch is at the top right side of the sheet. Remember to\nselect the correct paper type\nin the printer software.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50234?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C582001~faq-50234",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:42.643248"
+        },
+        {
+          "question": "Can I use sheet labels with my product?",
+          "answer": "Yes, Epson makes\nPhoto Quality Self Adhesive Sheets\n. To avoid paper jams, load only one sheet at a time. Also, set the\nType\nor\nMedia Type\nsetting in the printer driver to\nPhoto Quality Ink Jet Paper\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50252?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C582001~faq-50252",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:43.560319"
+        },
+        {
+          "question": "Why does the CD tray eject itself from the front of my product whenever I try printing on a CD?",
+          "answer": "Make sure there is at least 3 inches of clearance at the back of the printer. If there isn't, the tray may hit something and eject from the printer.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50259?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C582001~faq-50259",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:44.484427"
+        },
+        {
+          "question": "Can I use hole-punched paper with my product?",
+          "answer": "No. The product does not support this paper type.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-0000ab4-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C582001~faq-0000ab4-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:45.530748"
+        },
+        {
+          "question": "Heavy coated or thick paper does not load correctly or loads skewed. What should I do?",
+          "answer": "The paper you are using may be too heavy or glossy for the paper roller to pick up. Be sure the paper is within printer specifications.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-0000b08-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C582001~faq-0000b08-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:46.482602"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "My printout has incorrect margins. What should I do?",
+          "answer": "If margins are incorrect, the problem could be due to a software setting, control panel setting, or the paper may be loaded incorrectly. See\nThe margins are incorrect\nfor more information.\nIf you're printing from a web browser, especially when viewing web pages using frames, the pages may not print correctly due to the web page design. This is not the fault of the printer or printer setup. Often there is nothing that you can do to print the complete page as displayed. Check to see if there is a\nPrinter Friendly Version\n(or similarly-named) icon or link on the web page that you can click on. Also, try a different web browser or a newer version (if available) to see if that helps.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50208?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C582001~faq-50208",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:47.380096"
+        },
+        {
+          "question": "The image look inverted, as if viewed in a mirror. What should I do?",
+          "answer": "You may have accidentally used the\nMirror Image\nor\nRotate 180°\noption in the printer driver or a similar feature in your software application. Turn off the setting in the printer driver and/or application and try printing again.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50207?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C582001~faq-50207",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:48.324227"
+        },
+        {
+          "question": "The quality of my printed output is unacceptable. What should I do?",
+          "answer": "Make sure you're using the correct driver for your printer.  If that doesn't help, the problem could be due to a software setting or the printer's condition. For more information, see\nPrint Quality Problems\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50210?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C582001~faq-50210",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:47.416071"
+        },
+        {
+          "question": "My printouts are missing color and/or black print. What should I do?",
+          "answer": "If color or black is missing, the problem could be due to a software setting (the printer software or your application may have been set to print black only) or the printer's condition. See\nRunning a Printer Check\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50206?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C582001~faq-50206",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:48.315354"
+        },
+        {
+          "question": "My product is printing blank pages from Windows or my Mac. What should I do?",
+          "answer": "Make sure your printer is selected in the\nPrint\nwindow (Windows) or in the\nPage Setup\nand\nPrint\nwindows (Mac OS X), or is the active printer in the Chooser (Mac OS 9.2).\nYour document may have more pages than you think. Select\nPrint Preview\nfrom your application's\nFile\nmenu before printing. Then either select to print only the current page, or only those pages with text, or delete the extra pages in your document before printing.\nPaper settings in the printer software may be incorrect for your paper size. Check the paper size, orientation, printable area, and layout settings to make sure they're correct for your paper size.\nIf these suggestions don't help, the print head nozzles may be clogged.\nClean the print head and run a nozzle check\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50212?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C582001~faq-50212",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:49.246351"
+        },
+        {
+          "question": "My product sounds as though it is printing, but nothing prints. What should I do?",
+          "answer": "You may need to\nclean the print head\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50215?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C582001~faq-50215",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:50.178319"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "The print head nozzles may be clogged. See\nCleaning the Print Head\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50216?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C582001~faq-50216",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:51.124153"
+        },
+        {
+          "question": "Web pages don't print the way they appear on my monitor. What should I do?",
+          "answer": "The pages may not print correctly due to the web page design. Try the following:\nCheck for a\nPrinter-friendly Version\n(or similarly named) option on the web page.\nChange the page setup and paper size settings, and select the preview option in your browser to check the changes before you print.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-00004b8-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C582001~faq-00004b8-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:52.063505"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "I upgraded my system software to OS X 10.6.x. Now when I open the Epson Print CD software, a message appears and the Epson Print CD software quits unexpectedly. What should I do?",
+          "answer": "Try the following:\nTurn off the printer.\nClick the Spotlight\nicon in the upper-right corner of your screen. In the search field type\nEpson\n, then click\nShow All\n.\nSelect all the files and folders with\nEpson\nin the name and drag them to the trash.\nOpen your hard drive, select\nLibrary\n>\nPrinters\n, the\nEpson\nfolder and drag it to the trash.\nOn your hard drive, select\nUsers\n>\nLibrary\n>\nPreferences\n>\nEpson\n, select the files named\ncom.apple.print.\n[XXXXXXX]\n.plist\n(XXXXXX represents any name)\tand then drag the files to the trash.\nFrom the Apple menu, select\nSystem Preferences\nand click\nPrint & Fax\n.\nPress the\nControl\nand\nApple\nbutton on your keyboard at the same time, then click anywhere in the printer list. Select\nReset printing system...\n.\nClick\nOK\n, when you see the screen below.\nNote:\nResetting the printing system will remove all printers from the\nPrinter\nlist. You'll need to\nAdd\nthe printers you want again.\nRestart\nyour Mac.\nReinstall the Mac OS X 10.6.x upgrade.\nFrom the Apple menu, select\nSystem Preferences\nand then click\nPrint & Fax\n.\nTurn on the printer. Your Mac will add the printer automatically. If your printer does not appear automatically try the following:\nUpdate your version of Mac OS X 10.6.x. If there is a driver available for your printer in a later version of Mac OS X 10.6.x, your Mac will automatically add the printer when you turn the printer on.\nCheck if there is a Macintosh OS X 10.6.x driver available from the\nDownloads\ntab for your product. If it's available, download the driver and follow the on-screen installation instructions to install driver.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-145816?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C582001~faq-145816",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:52.993671"
+        },
+        {
+          "question": "How do I select the print resolution in the Windows software?",
+          "answer": "Rather than selecting the print resolution in the driver, you select the following types of documents and the resolution will be automatically selected depending on the paper type you choose to print on:\nDraft\n: For rough drafts with reduced print quality\nText\n: For text-only documents with higher text quality\nText & Image\n: For documents with text and images with higher quality\nPhoto\n: For photos and graphics with good quality and speed\nBest Photo\n: For photos or graphics with high print quality",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50225?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C582001~faq-50225",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:53.904840"
+        },
+        {
+          "question": "Can my product be set up to print in black by default instead of color?",
+          "answer": "Yes.\nIf you're using Windows, follow these steps:\nSelect\nPrint\nfrom your application's\nFile\nmenu.\nMake sure\nEPSON Stylus Photo R320 Series\nis selected in the\nPrint\nwindow.\nClick the\nPreferences\nor\nProperties\nbutton. (If you see a\nSetup\n,\nPrinter\n, or\nOptions\nbutton, click it. Then click\nPreferences\nor\nProperties\non the next screen.)\nClick the\nAdvanced\nbutton in the preferences window.\nClick the\nBlack Ink Only\ncheck box.\nClick\nOK\nin the preferences window.\nClick\nOK\nor\nPrint\nin the\nPrint\nwindow to start printing.\nIf you're using Mac OS X, follow these steps:\nSelect\nPage Setup\nfrom your application's\nFile\nmenu.\nSelect\nStylus Photo R320\nfrom the\nFormat for\ndrop-down list.\nClick\nOK\nto close the\nPage Setup\nwindow.\nSelect\nPrint\nfrom your application's\nFile\nmenu.\nSelect\nStylus Photo R320\nfrom the\nPrinter\ndrop-down list.\nClick on\nCopies & Pages\nand select\nPrint Settings\nfrom the drop-down list that appears.\nSelect\nBlack\nfrom the\nColor\ndrop-down list.\nClick\nPrint\nto start printing.\nIf you're using Mac OS 9.2, follow these steps:\nSelect\nPrint\nfrom your application's\nFile\nmenu.\nClick\nBlack\nin the\nColor\nsection of the print window.\nClick\nPrint\nto start printing.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50227?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C582001~faq-50227",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:54.880530"
+        },
+        {
+          "question": "How do I select borderless paper on my Mac?",
+          "answer": "Do the following:\nFrom the\nFile menu\n, select\nPage Setup\n.\nSelect\nStylus Photo R320\nin the\nFormat for\npop-up menu.\nChoose the borderless Paper Size for the paper you've loaded.\nClick\nOK\nto close the Page Setup window.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50264?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C582001~faq-50264",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:55.818662"
+        },
+        {
+          "question": "Does my product support Epson Connect?",
+          "answer": "No, your product is not compatible.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-0000af9-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C582001~faq-0000af9-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:56.804235"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "You can download the latest product driver from the Downloads section of this website.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-0000afb-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C582001~faq-0000afb-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:57.882121"
+        },
+        {
+          "question": "How do I change the font size of text when I print from software in Windows?",
+          "answer": "You need to select the text or font size in the software you are printing from, not the printer driver. For detailed instructions, contact the company for the application you are printing from.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-00004b7-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C582001~faq-00004b7-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:58.828578"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C582001~faq-00004dc-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:13:59.783865"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C582001~faq-0000f4b-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:14:00.713399"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C582001~faq-0000f4c-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:14:01.612956"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Wireless or Wired Connection",
+      "section_id": "8796127635532",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-0000ad0-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11C582001~faq-0000ad0-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:14:02.561485"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "When printing in Windows, how can I prevent an extra page from being ejected after every print job?",
+          "answer": "The Separator Page function may be enabled. Follow these steps to disable it:\nClick\nStart\nor\n.\nDo one of the following:\nWindows XP\n:\nSelect\nPrinters and Faxes\n(or select\nSettings\n, then select\nPrinters and Faxes\n).\nWindows Vista\n:\nSelect\nControl Panel\n, then\nPrinter\nor\nPrinters\nunder Hardware and Sound\n.\nWindows 7\n:\nSelect\nControl Panel\n, then\nView Devices and Printers\nunder Hardware and Sound.\nIn the\nPrinters\nor\nPrinters and Faxes\nwindow, right-click on your printer's name.\nSelect\nProperties\n, click the Advanced tab, then press the\nSeparator Page\nbutton.\nIn the Separator Page window, delete the information in the text box and then click\nOK\n.\nClick\nOK\nagain.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-134206?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C582001~faq-134206",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:14:03.518098"
+        },
+        {
+          "question": "The green  power light is on, but nothing prints. What should I do?",
+          "answer": "The problem could be due to the cabling, software settings, or the printer's condition. See\nThe printer is on, but nothing prints\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50221?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C582001~faq-50221",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:14:04.436155"
+        },
+        {
+          "question": "How should I transport my product?",
+          "answer": "See\nTransporting the Printer\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50239?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C582001~faq-50239",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:14:05.422191"
+        },
+        {
+          "question": "What settings are restored by the factory reset?",
+          "answer": "The following settings are restored by the factory reset:\nSetting\nFactory default\nPaper Type\nPrem. Glossy\nPaper Size\n4 x 6\"\nCrop\nOff\nFilter\nNone\nAutomatic Correction\nP.I.M.\nContrast\nStandard\nBrightness\nStandard\nSaturation\nStandard\nSharpness\nStandard\nDate\nNone\nTime\nNone\nPhoto Information\nOff\nFit to Frame\nAuto\nQuality\nHigh\nBidirectional Printing\nOn",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-50266?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C582001~faq-50266",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:14:06.404443"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C582001~faq-00004b0-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:14:07.325603"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11C582001~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C582001~faq-0000f4a-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R320/s/SPT_C11C582001",
+          "fetched_at": "2026-04-02T01:14:08.259123"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

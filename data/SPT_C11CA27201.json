@@ -1,0 +1,886 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "WorkForce Series",
+  "model": {
+    "name": "Epson WorkForce 40",
+    "sku": "SPT_C11CA27201",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-0000ad0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA27201~faq-0000ad0-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:55:58.271678"
+        },
+        {
+          "question": "Can I use hole-punched paper with my product?",
+          "answer": "No. The product does not support this paper type.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-0000ab4-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA27201~faq-0000ab4-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:55:59.290265"
+        },
+        {
+          "question": "What security measures does Epson recommend for its network products?",
+          "answer": "To help deter unauthorized access to your product over a network, you should protect your network environment using appropriate security measures.\nSecurity measures such as these can help deter threats such as loss of user data, use of telephone and fax lines, and other intrusions:\nEnable security on your wireless LAN if your product supports a wireless connection\nEnable the appropriate security on the wireless LAN you plan to use with your product. Network security, such as a network password, can deter interception of traffic over the wireless LAN. Your router may already have a default password enabled by your Internet service provider (ISP). See your ISP and router documentation for instructions on how to change the default password and better secure your network.\nConnect your product only to a network protected by a firewall\nConnecting your product directly to the Internet may leave it vulnerable to security threats. Instead, connect it to a router or other networking device protected by a firewall. Your router may already have a firewall set up by your Internet service provider; check with your ISP for confirmation. For best results, set up and use a private IP address for your network connection.\nChange the default administrator password on your product\nIf your product has an option to set an administrator password, change the default administrator password to deter access by unauthorized users to personal data stored on your product, such as IDs, passwords, and contact lists. See the product's User's Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-0000a05-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA27201~faq-0000a05-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:00.299673"
+        },
+        {
+          "question": "How do I find my SSID and network password?",
+          "answer": "Check your router documentation for this information. Most routers have a default SSID and password that can be modified once the router is set up.\nNote:\nThe SSID is the name of the wireless network that is set up on your router or access point.\nIf you don't know this information, you'll need to contact the manufacturer of your router or the person who set up your network.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-0000ae9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA27201~faq-0000ae9-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:01.341378"
+        },
+        {
+          "question": "I see the message Cannot connect to Internet in Windows 8.1 after I select Driver Update in my product software. What should I do?",
+          "answer": "The\nDriver Update\noption does not work in Windows 8.1. All other driver options will work correctly.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-0000958-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA27201~faq-0000958-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:02.438190"
+        },
+        {
+          "question": "When I try to print to my product in Windows 7, printing is slow or my product stops printing. What should I do?",
+          "answer": "Try the following:\nSelect a lower quality setting in the printer software.\nMake sure your system meets the minimum system requirements for your printer.\nClose the\nDevices and Printers\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-0000bf3-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA27201~faq-0000bf3-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:03.488672"
+        },
+        {
+          "question": "I brought my product with me to a different country and can't find ink for it. What should I do?",
+          "answer": "Some Epson printers and ink cartridges are specific to a regional market and not sold worldwide, although the same printers are sold in the U.S. and Canada. If you have a printer sold in the U.S. or Canada, you may not be able to easily get ink cartridges for it in foreign markets.\nUnfortunately, because of customs and tax regulations, the Epson E-Stores in the U.S. and Canada are unable to ship to addresses outside the U.S. and Canada.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-0000956-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA27201~faq-0000956-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:04.575489"
+        },
+        {
+          "question": "Who do I contact for support on the software that came with my product?",
+          "answer": "Contact Epson for support on Epson software. For questions about any other software that came with your printer, contact the manufacturer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-110871-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA27201~faq-110871-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:05.646413"
+        },
+        {
+          "question": "Heavy coated or thick paper does not load correctly or loads skewed. What should I do?",
+          "answer": "The paper you are using may be too heavy or glossy for the paper roller to pick up. Be sure the paper is within printer specifications.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-0000b08-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA27201~faq-0000b08-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:06.765930"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-00004c5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA27201~faq-00004c5-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:07.947004"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "How do I set up my product for the fastest printing?",
+          "answer": "If you're printing from your computer, make sure your system\nmeets the requirements\n. If you're printing a high-resolution image, you need more than the minimum requirements listed. If you are printing over a wireless network, check your signal strength; it should be high. You may also need to:\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.\nIf you installed the printer using a USB cable, use a computer with a high-speed USB 2.0 port.\nIf you installed the printer using an Ethernet cable, use a computer and router (or hub or switch) with 100 Base-T ports.\nIf you installed the printer as a wireless printer, use a computer and a router or wireless access point with 802.11g. Try moving the printer and your wireless router or access point closer together. Also avoid placing your printer next to large metal objects (such as a filing cabinet), microwave ovens, or 2.4 GHz cordless phones.\nFor the fastest printing, try these tips:\nChoose\nBlack/Grayscale\nin your printer settings if your document doesn't include color.\nFor Windows, choose\nDraft\nfor the Quality Option.\nFor Macintosh, set the Quality/Speed slider to\nSpeed\n.\nIf you're using Windows, make sure\nQuiet Mode\nis not selected.\nIf the printer is connected to a USB hub, disconnect unused USB devices.\nFor Windows, try adjusting the settings in the Speed & Progress window:\nRight-click the\nprinter icon in the lower right corner of your screen (taskbar) and select\nPrinter Settings\n. If you don't see the icon, see\nNo Printer Icon Appears in Windows Taskbar\nfor instructions on making it appear.\nClick the\nMaintenance\ntab.\nClick the\nSpeed & Progress\nbutton.\nSelecting one or more of the following settings will increase print speed:\nHigh Speed Copies\nAlways spool RAW datatype\nPage Rendering Mode\nPrint as Bitmap\n(For more information on these settings, click\nHelp\nin the Speed & Progress window.)",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116920?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA27201~faq-116920",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:09.003056"
+        },
+        {
+          "question": "How do I print a borderless photo from Windows or my Mac?",
+          "answer": "Do the following:\nFor Windows, click the\nBorderless\ncheckbox on the Main tab of the printer driver. See\nSelect Basic Options\nfor more details.\nFor a Macintosh, select a paper size with\nSheet Feeder - Borderless\nlisted. See\nSelect Page Options\n(Mac OS X 10.3 and 10.4) or\nSelect Page Setup Options\n(Mac OS X 10.5) for more details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116944?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA27201~faq-116944",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:10.074335"
+        },
+        {
+          "question": "Can I print on transparencies?",
+          "answer": "No. The WorkForce will not recognize this type of media.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116947?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA27201~faq-116947",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:11.289640"
+        },
+        {
+          "question": "Printing seems slow. I'm using a wireless connection (router or access point). What should I do?",
+          "answer": "Check the following:\nTry moving the computer and printer closer to your wireless router or access point.\nDon't place the computer, printer, or wireless router or access point near microwaves, cordless telephones, or other sources of wireless interference.\nIf your wireless router or access point and the printer are located next to each other, you can try connecting them with an ethernet cable.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116951?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA27201~faq-116951",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:12.340359"
+        },
+        {
+          "question": "How do I print a multi-page document from Windows or my Mac so it stacks in the correct page order?",
+          "answer": "Follow the steps below for your operating system to print a multi-page document in reverse order.\nWindows 2000, XP, Vista\nOpen the File menu and select\nPrint\n.\nClick\nProperties\nor\nPreferences\n.\nClick the Main tab.\nSelect\nReverse Order\n.\nClick\nOK\n.\nMacintosh 10.3.x, 10.4.x, 10.5.x\nOpen the File menu and select\nPrint\n.\nWith Macintosh OS X 10.5.x, click the\nbutton to expand the Print window, if necessary.\nSelect\nPaper Handling\nfrom the printer options pop-up menu.\nSelect\nReverse\nfor the Page Order setting.\nClick\nPrint\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-133388?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA27201~faq-133388",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:13.372931"
+        },
+        {
+          "question": "I can print wirelessly to my product on my home network, but I can't print when I connect the same computer to a VPN (virtual private network). What should I do?",
+          "answer": "Your product is set up to communicate wirelessly with your home network. When you connect to a VPN, your computer is no longer communicating with your home network, so it cannot print to the product. You'll need to connect to your home network to print again.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-0000ad6-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA27201~faq-0000ad6-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:14.427534"
+        },
+        {
+          "question": "When I try to print to my product in Windows 7, printing is slow or my product stops printing. What should I do?",
+          "answer": "Try the following:\nSelect a lower quality setting in the printer software.\nMake sure your system meets the minimum system requirements for your printer.\nClose the\nDevices and Printers\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-0000bf3-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA27201~faq-0000bf3-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:15.458336"
+        },
+        {
+          "question": "Does OS X support manual duplex printing with my product?",
+          "answer": "This feature is not supported in Mac OS X. However, if your printer has a built-in automatic duplexer, auto-duplexing is supported in Mac OS X 10.6 (Snow Leopard).",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-0000c1d-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA27201~faq-0000c1d-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:16.524294"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "I see the message The combination of IP address and subnet mask is invalid. What should I do?",
+          "answer": "Try the following:\nIf your router or access point is set to assign IP addresses using DHCP, try setting the printer's IP address setting to Auto. See\nWireless installations\nor\nWired installations\nfor more in information.\nIf you want to manually configure the printer's IP address, click Change when you see the Current IP Address Status screen and enter the IP address and subnet mask.\nMake sure your computer is connected to your wireless router or access point. See your router or access point's documentation for details.\nSet a unique IP address for your printer. All IP addresses are written in four segments of numerical values. The last segment must be set to a unique number (between 1 and 254). When the router is a set to assign IP addresses using DHCP, set the printer's IP address to a value that doesn't conflict with the IP address range assigned by the DHCP server.\nFor example:\nIP address of your router or access point: 192.168.1.1\nIP address of your printer: 192.168.1.3\nFor the subnet mask, 255.255.255.0 is normally used for small-scale networks (all devices on your network should use the same subnet mask). Also, when a gateway value is set, use the same value as the IP address for your wireless router or access point.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-119643?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA27201~faq-119643",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:15.798133"
+        },
+        {
+          "question": "I see the message Network Connection Failed when I install my product's wireless network software. What should I do?",
+          "answer": "Check the following:\nMake sure that your wireless router or access point is set to use one of the supported security settings:  None, WEP 64, WEP 128, or WPA-PSK.\nIf security is enabled for your wireless router or access point, make sure that you entered the correct security key or passphrase.\nIf there are any access restrictions (such as MAC address filtering) set on the wireless router or access point, register the printer's MAC address on the router or access point. Print a Network Status Sheet to obtain the MAC address. Then see your router or access point's documentation for instructions.\nDisable any settings (such as\nAP Isolation\n,\nClient Isolation\n, or\nPrivacy Separator\n) on your wireless router or access point that would prevent wireless devices from communicating with each other.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-119649?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA27201~faq-119649",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:16.865490"
+        },
+        {
+          "question": "I see the message Printer Not Found at the Select a Printer window (or Step 2) of the wireless network software installation. What should I do?",
+          "answer": "Make sure that the printer is turned on and the Ethernet cable is connected correctly (see\nConnect the Ethernet Cable\nfor instructions). If your printer doesn't appear in the list after 90 seconds, click the\nrefresh button. (Sometimes it does take longer then 90 seconds for your printer to appear in the printer list.)",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-119911?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA27201~faq-119911",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:18.186008"
+        },
+        {
+          "question": "I see the message: Error:/Library/Printers/EPSON/inkjetPrinter2/Filter/rastertopll.app/Contents/MacOS/rastertopll failed. What should I do?",
+          "answer": "Do the following:\nTurn off the printer.\nChoose\nSystem Preferences\n>\nPrint & Fax\n, then select your all-in-one and click the\n—\nbutton.\nClose the\nPrint & Fax\nfolder.\nOpen the Hard Drive, choose\nLibrary\n>\nPrinter\n>\nEpson\n, then delete the\nEpson\nfolder.\nIn the Hard Drive, choose\nLibrary\n>\nPrinters\n>\nPPD\n>\nContents\n>\nResources\n, then select the .gz file for your all-in-one. Delete the file.\nIn the Hard Drive, choose\nLibrary\n>\nCaches\n>\nEpson\n, then delete the\nEpson\nfolder.\nRestart the Mac.\nTurn on the printer.\nChoose\nApple\nmenu,\nSoftware Update...\nand follow the on-screen instructions. You can also download the printer software from the\nDownloads\ntab for your all-in-one.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-162879?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA27201~faq-162879",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:19.216045"
+        },
+        {
+          "question": "I see the message Installation Failed or Installation could not be completed due to the following error: 0x11 when I install my product software. What should I do?",
+          "answer": "An update to Windows 7 64-Bit Edition has caused the network installation on the product CD to not function properly. The driver files need to be updated.  Instead of using the CD to install the driver, please visit\nwww.epson.com/support\nand download the Drivers and Utilities Combo Driver package for your printer.\nDo the following:\nGo to\nwww.epson.com/support\n.\nUse the\nProduct Finder\nor select your product from the list.\nSelect\nDrivers and Utilities Combo Package\nfor Windows 7 64-bit Edition, then select\nDownload Now\n.\nFollow the on-screen instructions to install the software.\nTo install additional software utilities from the CD, follow the instructions below:\nInsert the CD into your computer's CD-ROM drive.\nSelect\nCustom.\nDeslect the\nPrinter Driver\nbox.\nSelect\nInstall\n. (All software will be installed except for the printer driver.)",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-181500?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA27201~faq-181500",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:20.242425"
+        },
+        {
+          "question": "I see the message Printer is Offline. What should I do?",
+          "answer": "Try the following:\nMake sure the product is powered on.\nCheck the product control panel for any error messages and follow the instructions to solve them.  See\nCheck the Lights on Your Product\n.\nMake sure you are choosing the correct printer when printing.  If there are multiple copies of the same printer driver, remove the ones not in use.\nMake sure the USB cable is a shielded \"AB\" cable not more than 10 feet long.\nNote:\nDo not use devices that extend the length of the cable because they can interfere with signal transmission.\nIf you're using a USB hub with your printer, connect the printer directly to your computer.\nNote:\nDo not connect through a USB keyboard.  The keyboard acts like a hub and can interfere with signal transmission.\nUse a different port on your computer.\nIf your product is networked wirelessly, make sure it is connected to the network by checking the WiFi light.  If the WiFi light is off, reconfigure the product using the control panel.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-187454?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA27201~faq-187454",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:21.293992"
+        },
+        {
+          "question": "I see the message Cannot connect to Internet in Windows 8.1 after I select Driver Update in my product software. What should I do?",
+          "answer": "The\nDriver Update\noption does not work in Windows 8.1. All other driver options will work correctly.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-0000958-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA27201~faq-0000958-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:22.336721"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA27201~faq-00004c5-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:23.370405"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "Which ink cartridges should I use with my product?",
+          "answer": "You can use the following cartridges:\nInk Color\nPart Number\nStandard\ncapacity\nHigh\ncapacity\nExtra-high\ncapacity\nBlack\n69\n68\n97\nCyan\n69\n68\n−−\nMagenta\n69\n68\n−−\nYellow\n69\n68\n−−\nNote:\nWe recommend that you use genuine Epson cartridges and do not refill them. The use of other products may affect your print quality and could result in printer damage.\nYields vary considerably based on images printed, print settings, paper type, frequency of use, and temperature. For print quality, a variable amount of ink remains in the cartridge after the \"replace cartridge\" indicator comes on.\nFor best printing results, a cartridge should be used within six months of opening the package.\nStore ink cartridges in a cool, dark place. If cartridges have been exposed to cold temperatures, allow them to warm up to room temperature for at least 3 hours before using them.\nLeave your old cartridges installed until you are ready to\nreplace them\nto prevent the print head nozzles from drying out.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116828?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA27201~faq-116828",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:24.436066"
+        },
+        {
+          "question": "The color ink cartridge is expended even though I print in black only. Why does this happen?",
+          "answer": "To keep the print head clear and ready to print, the printer uses a small amount of ink from all the cartridges whenever it prints. Even if you select\nBlack/Grayscale\n, some color ink is still being used.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116826?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA27201~faq-116826",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:25.469651"
+        },
+        {
+          "question": "How do I know when an ink cartridge needs to be replaced?",
+          "answer": "When the ink replace light is on, the printer will require you to change the cartridge. You need to replace a cartridge when it's expended or it gets too old. See\nReplace Ink Cartridges\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116827?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA27201~faq-116827",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:26.516535"
+        },
+        {
+          "question": "I installed new ink cartridges and my product seems to be doing a long cleaning cycle. Is this normal?",
+          "answer": "Yes. It takes about 2.5 minutes for the printer to charge the ink delivery system.\nNote:\nNever turn off the printer while the printer is charging the ink delivery system (unless the printer hasn't moved or made noise for more than 5 minutes). This initialization is a normal and necessary process. If the printer initialization does not stop after 5 minutes, turn the printer off and contact Epson technical support for assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116830?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA27201~faq-116830",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:27.588601"
+        },
+        {
+          "question": "How do I change the ink cartridges?",
+          "answer": "See\nReplace Ink Cartridges\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116909?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA27201~faq-116909",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:28.660889"
+        },
+        {
+          "question": "How long should an ink cartridge remain in my product if it's not used often?",
+          "answer": "When an installed ink cartridge is more than six months old, you may need to replace it if you notice that your printouts don't look as good as they used to, and quality doesn't improve after cleaning and aligning the print head.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116949?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA27201~faq-116949",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:29.688548"
+        },
+        {
+          "question": "I replaced an ink cartridge and my product shows that the same ink cartridge is expended. What should I do?",
+          "answer": "Follow these steps to reseat the ink cartridge(s):\nTurn on the printer.\nOpen the printer cover.\nPress the ink button until the print head moves to the replacement position on the right.\nOpen the cartridge cover.\nPress down all the ink cartridges until they click into place to make sure they are properly seated.\nClose the cartridge cover.\nClose the printer cover and press the ink button to begin charging the ink. This takes about about 2 1/2 minutes.\nWhen the power light stops flashing and remains on, ink charging is finished.\nCaution\n:\nNever turn off the printer while the ink is charging or you'll waste ink.\nIf you remove an ink cartridge for later use, protect the ink supply area from dirt and dust, and place it in a plastic bag. Store the cartridge in the same environment as the printer with the label facing upward. Note that there is a valve in the ink supply port, making covers or plugs unnecessary, but care is needed to prevent the ink from staining items that the cartridge touches. Do not touch the ink cartridge ink supply port or surrounding area, and do not store the cartridge upside down.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-130246?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA27201~faq-130246",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:30.728895"
+        },
+        {
+          "question": "Can the printer still print if an ink cartridge is expended or not installed?",
+          "answer": "No. The printer will not operate if any cartridge is expended or removed. It's best to always have extra cartridges on hand.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-000051b-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA27201~faq-000051b-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:31.878315"
+        },
+        {
+          "question": "I brought my product with me to a different country and can't find ink for it. What should I do?",
+          "answer": "Some Epson printers and ink cartridges are specific to a regional market and not sold worldwide, although the same printers are sold in the U.S. and Canada. If you have a printer sold in the U.S. or Canada, you may not be able to easily get ink cartridges for it in foreign markets.\nUnfortunately, because of customs and tax regulations, the Epson E-Stores in the U.S. and Canada are unable to ship to addresses outside the U.S. and Canada.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-0000956-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA27201~faq-0000956-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:32.921940"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "I'm having paper feed problems. What should I do?",
+          "answer": "Check the following:\nIf paper doesn't feed, remove it from the sheet feeder and fan the stack. Reload it against the right side, then press in the tab on the left edge guide and slide it against the paper. Make sure the paper is not above the\narrow mark inside the left edge guide.\nIf multiple pages feed at once, remove the paper from the cassette, fan the edges to separate the sheets, then reload it.\nMake sure you load only up to the recommended number of sheets. If you're printing on both sides of the paper, try loading fewer sheets.\nPaper type\nLoad up to this many sheets\nPlain paper (letter-size)\n100\nEpson Bright White Paper\nEpson Presentation Paper Matte\n80 sheets\nEpson Photo Paper Glossy\nEpson Premium Photo Paper Glossy\nEpson Ultra Premium Photo Paper Glossy\n10 sheets (for 4  6-inch or 5  7-inch)\n20 sheets (for letter-size and 8  10-inch)\nEpson Premium Photo Paper Semi-gloss\nEpson Premium Presentation Paper Matte\nEpson Premium Presentation Paper Matte Double-sided\nEpson Ultra Premium Presentation Paper Matte\n20 sheets\nEpson Photo Quality Self-adhesive Sheets\nEpson Iron-on Cool Peel Transfer Paper\n1 sheet\nNote:\nFor legal-size and user-defined sizes of paper, load one sheet at a time.\nMake sure you use new, smooth, high-quality paper, that is not curled, creased, old, or too thin. Load it printable side up in the sheet feeder.\nDo not load paper with holes punched in it for insertion in a binder.\nThe printer won't operate properly if it's tilted or at an angle. Place it on a flat, stable surface that extends beyond the base in all directions.\nIf the paper doesn't eject fully, you may have set the wrong paper size. Press the\nbutton, then open the printer cover and remove the paper. Select the correct paper size when you reprint.\nIf it's wrinkled when it ejects, the paper may be over-saturated or too thin. (If the paper is over-saturated, make sure you select the correct media type in the printer software).\nIf paper jams, follow these steps:\nGently pull any jammed paper out from the output tray or sheet feeder.\nIf paper is stuck inside, turn off the printer.\nOpen the printer cover and remove the jammed paper, including any torn pieces. Check for any paper under the far-left side of the cover.\nCaution:\nBe careful not to touch the white cable inside the printer, or you may damage it.\nClose the printer cover and turn the printer back on.\nPress the\nbutton to clear the error.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116831?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA27201~faq-116831",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:34.010391"
+        },
+        {
+          "question": "Does the type of paper I use really make a difference?",
+          "answer": "The type of paper you choose affects the way your printout looks, so be sure to select the correct paper for your print job. If you are just making a copy or printing a rough draft of an image, plain paper is fine. However, for the best results, you'll want to use one of Epson's special ink jet papers designed for the printer. For example, your photos will look great printed on\nEpson Premium Photo Paper Glossy\n.For a list of Epson special ink jet papers designed for the printer, see\nAvailable Epson Papers\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116910?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA27201~faq-116910",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:35.038749"
+        },
+        {
+          "question": "How should I load envelopes?",
+          "answer": "See\nLoad Envelopes\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116912?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA27201~faq-116912",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:36.085522"
+        },
+        {
+          "question": "What kind of paper gives the best results for high quality printing?",
+          "answer": "For the best results, you'll want to use one of Epson's special ink jet papers designed for the printer. For example, your photos will look great printed on\nEpson Premium Photo Paper Glossy\n,\nEpson Premium Presentation Paper Matte\n, and\nEpson Bright White Paper\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116913?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA27201~faq-116913",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:37.118731"
+        },
+        {
+          "question": "How do I know which paper or media type to select in my product's driver?",
+          "answer": "See the following table:\nFor this paper\nSelect this paper Type or Media Type setting\nPlain paper\nEpson Bright White Paper\nEpson Presentation Paper Matte\nPlain Paper/Bright White Paper\nEpson Ultra Premium Photo Paper Glossy\nUltra Premium Photo Paper Glossy\nEpson Premium Photo Paper Glossy\nPremium Photo Paper Glossy\nEpson Photo Paper Glossy\nPhoto Paper Glossy\nEpson Premium Photo Paper Semi-gloss\nPremium Photo Paper Semi-Gloss\nEpson Premium Presentation Paper Matte\nEpson Premium Presentation Paper Matte Double-sided\nEpson Ultra Premium Presentation Paper Matte\nEpson Photo Quality Self-adhesive Sheets\nEpson Iron-on Cool Peel Transfer Paper\nPremium Presentation Paper Matte\nEnvelopes\nEnvelope",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116918?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA27201~faq-116918",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:38.151433"
+        },
+        {
+          "question": "Can I use sheet labels with my product?",
+          "answer": "You can use Epson's\nPhoto Quality Self-adhesive Sheets\n. A cutting grid is printed on the reverse side of each sheet for easy custom trimming (such as labels). To avoid paper jams, load only one sheet at a time. Also, set the\nType\nor\nMedia Type\nsetting in the driver to\nPremium Presentation Paper Matte\n.\nCaution:\nDo not use sheet labels where the label is pre-cut; the label may peel off inside the printer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116945?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA27201~faq-116945",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:39.203185"
+        },
+        {
+          "question": "Ink smears when I print envelopes. What should I do?",
+          "answer": "Make sure to load the envelope with the flap closed, against the right side and beneath the tab. Load it printable side up and flap edge left. Then slide the edge guide to the edge of the envelope, but not too tightly.\n(Your product's sheet feeder may look different from the above image.)\nTip\n:\nPress each envelope flat before loading it or load one envelope at a time.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-170611?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA27201~faq-170611",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:40.272333"
+        },
+        {
+          "question": "Can I use hole-punched paper with my product?",
+          "answer": "No. The product does not support this paper type.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-0000ab4-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA27201~faq-0000ab4-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:41.327448"
+        },
+        {
+          "question": "Heavy coated or thick paper does not load correctly or loads skewed. What should I do?",
+          "answer": "The paper you are using may be too heavy or glossy for the paper roller to pick up. Be sure the paper is within printer specifications.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-0000b08-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA27201~faq-0000b08-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:42.373539"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print",
+      "section_id": "8796158634060",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "How do I set the default print settings when I print from Windows or my Mac?",
+          "answer": "When you change your print settings from within a program, the changes apply only while you're printing at that time in the open program. If you want to select different settings to use in all your programs, you can change the default print settings. Follow the steps below for your operating system to change the default print settings.\nWindows 2000, XP, Vista\nRight-click the\nprinter icon in the task bar (bottom-right corner of your screen), and select\nPrinter Settings\n.\nSelect the settings you want to use as defaults in all your Windows programs.\nClick\nOK\nto accept the changes.\nMacintosh 10.5.x\nOpen a document and select\nPrint\nfrom the File menu.\nSelect the print settings you want to to save.\nClick the\nPresets\npop-up menu and do one of the following:\nSelect\nLast Used Settings\n.\nSelect\nSave As\n, enter a name for your preset, and click\nOK\n.\nClick\nPrint\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-133387?faq_cat=faq-8796158634060",
+          "faq_slug": "SPT_C11CA27201~faq-133387",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:43.461654"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "The quality of my printed output is unacceptable. What should I do?",
+          "answer": "If the image looks fine on your computer screen, make sure you're using the latest driver version for the printer. Also, make sure you select the correct quality option, paper type, paper size and orientation setting in the printer driver for your print job. See Select Basic Options (\nWindows\n) or Select Basic Print Options (\nMac OS X 10.3 and 10.4\nor\nMac OS X 10.5\n). If that doesn't help, see\nPrint Quality Problems\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116833?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA27201~faq-116833",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:44.513458"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Try the following:\nPrint a\nnozzle check pattern\n. If there are gaps in the lines,\nclean\nthe print head nozzles.\nSelect a higher\nQuality Option\nor\nPrint Quality\nand turn off\nHigh Speed\nmode in the\nWindows\nor Mac OS X\n10.5\nor\n10.3 and 10.4\nprinter software.\nMake sure the paper\ntype or media type setting\nmatches the paper you loaded.\nMake sure the printable side of the paper is loaded face up in the sheet feeder. It's usually brighter or whiter.\nThe ink cartridges may need\nreplacing\n.\nWith\nMac OS X 10.3 and 10.4\nor\nMac OS X 10.5\n(in the\nPrint Settings\npop-up menu), try using\nAutomatic\nmode.\nAlign\nthe print head.\nThe printer won't operate properly if it's tilted or at an angle. Place it on a flat, stable surface that extends beyond the base in all directions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116834?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA27201~faq-116834",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:45.544957"
+        },
+        {
+          "question": "My printout has incorrect margins. What should I do?",
+          "answer": "Check the following:\nMake sure the paper settings are correct for your paper size in the\nWindows\nor Mac OS X\n10.5\nor\n10.3 and 10.4\nprinter software.\nChoose the correct margins for your paper size in your printing program. Use the\nPrint Preview\nor\nPreview\noption in your\nWindows\nor Mac OS X\n10.5\nor\n10.3 and 10.4\nprinter software to check your margins before you print.\nMake sure your paper is positioned next to the right side of the feeder. See\nLoad paper\n.\nIf you're using a Macintosh, make sure you choose the correct printer in the Page Setup window and the Print window.\nCheck to see if there is a\nPrinter Friendly Version\n(or similarly named) icon or link on the web page that you can click on.\nExperiment with page setup and paper size, then select\nPrint Preview\nfrom the File menu in your application to view the changes.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116835?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA27201~faq-116835",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:46.638431"
+        },
+        {
+          "question": "My product is printing blank pages. What should I do?",
+          "answer": "Check the following:\nMake sure the\nprint head nozzles\nare not clogged.\nMake sure the printer software settings are appropriate for the paper size you're using.\nFor Macintosh, make sure the WorkForce 40 is selected in the Page Setup and Print windows.\nIf you're using Windows, activate the\nSkip Blank Pages\nsetting:\nRight-click the\nprinter icon in the lower right corner of your screen (taskbar) and select\nPrinter Settings\n.\nClick the\nMaintenance\ntab.\nClick the\nSpeed & Progress\nbutton, then select\nSkip Blank Page\ns.\nTry printing a different document to determine if the problem is limited to one document. If the problem is with one document, try recreating the document.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116837?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA27201~faq-116837",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:47.705668"
+        },
+        {
+          "question": "My printout has incorrect or missing colors. What should I do?",
+          "answer": "The problem could be due to a software setting, the condition of the printer, or the paper you're using. Check the following:\nMake sure your\nWindows\nor Macintosh OS X\n10.5\nor\n10.3 to 10.4\nprinter software is not set to use\nBlack/Grayscale\n.\nPrint a\nnozzle check pattern\n, if there are gaps in the lines,\nclean\nthe print head nozzles.\nAlign\nthe print head.\nThe ink cartridges may be old or low on ink, and you may need to\nreplace them\n.\nTry turning off\nFix Photo\nin\nWindows\n(on the Main tab) or\nMac OS X 10.5\n.\nWith\nMac OS X 10.3 and 10.4\nor\nMac OS X 10.5\n(in the\nPrint Settings\npop-up menu), try using\nAutomatic\nmode.\nTry changing the\nGamma\nsetting in your\nWindows\n(to access the Gamma setting in Windows, click the\nAdvanced tab\n, select\nColor Controls\n, and select\nAdobe RGB\nfrom the Color Mode drop down menu),\nMac OS X 10.3 and 10.4\nor\nMac OS X 10.5\nprinter software.\nYour printed colors can never exactly match your on-screen colors. However, you can use a color management system to get as close as possible. Try using the\nICM\n(\nWindows\n) or\nColorSync\nsetting (\nMac OS X 10.3 and 10.4\nor\nMac OS X 10.5\n[in the\nColor Matching\npop-up menu]).\nAfter you print, the colors on your printout will take some time to set as the ink dries. During this time, the colors may look different than you expect. To reduce the drying time, avoid stacking your prints on top of each other.\nFor best results, use genuine Epson ink and paper.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116839?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA27201~faq-116839",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:46.995084"
+        },
+        {
+          "question": "My printout is blurry or smeared. What should I do?",
+          "answer": "Check the following:\nMake sure your paper isn't damp or curled, or loaded face-down (the printable side should be face-up) in the sheet feeder. It's usually brighter or whiter.\nUse a support sheet with special paper (such as a sheet of plain paper beneath the special paper sheet), or try loading your paper one sheet at a time.\nMake sure your paper meets the\nspecifications\n.\nUse Epson papers to ensure proper saturation and absorption of genuine Epson inks.\nYou may need to\nclean\nor\nalign\nthe print head.\nIf ink smears on the back of a printout,\nclean the paper path\n.\nRemove each sheet from the output tray as it is printed.\nAvoid handling printouts on glossy paper for a few hours to allow the ink to set.  Let your prints dry separately for at least 12 hours before framing or placing them in protective sheets.  If you need to stack them, place a sheet of plain paper between each print.\nTurn off\nHigh Speed\nmode in the\nWindows\nor Mac OS X\n10.5\nor\n10.3 and 10.4\nprinter software.\nMake sure the paper\ntype or media type setting\nmatches the paper you loaded.\nIf you are using double-sided paper and printing heavily saturated or dark images on the front side of the paper, you may notice that smudges or marks appear on the front when you print the second side. If one side of the paper will contain a lighter image or text, print that side first to eliminate marks or smudging.\nThe printer won't operate properly if it's tilted or at an angle. Place it on a flat, stable surface that extends beyond the base in all directions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116838?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA27201~faq-116838",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:48.083829"
+        },
+        {
+          "question": "The printout is grainy. What should I do?",
+          "answer": "Check the following:\nMake sure the printable side of the paper is loaded face up in the sheet feeder. It's usually brighter or whiter.\nSelect a higher\nQuality Option\nor\nPrint Quality\n, and turn off\nHigh Speed\nand\nFast Economy\nor\nEconomy\nmode in the\nWindows\n(on the Main tab) or Mac OS X\n10.5\nor\n10.3 and 10.4\nprinter software.\nSelect\nPhoto RPM\nfor Quality Type (\nWindows\n) or Print Quality (Mac OS X\n10.5\nor\n10.3 and 10.4\n). Remember that this setting increases print time.\nAlign\nthe print head.\nYou may need to increase the image resolution or print in a smaller size; see your software documentation.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116841?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA27201~faq-116841",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:49.177264"
+        },
+        {
+          "question": "My printout contains garbled characters when I print from Windows or my Mac. What should I do?",
+          "answer": "Try the following:\nCheck the following if you're using a USB connection:\nMake sure the USB cable is a shielded “AB” cable not more than 6.5 feet (2 meters) long.\nIf you're using a switch box or USB hub with the printer, connect the printer directly to your computer.\nTurn off the printer, check that the cables are securely connected, turn it back on, then try printing again.\nYou may need to uninstall your printer software (\nWindows\nor\nMacintosh\n) and then reinstall your software using the instructions for your connection type:\nUSB\n,\nWireless Network\nor\nWired Network\n.\nIf you're using a wired network (Ethernet) connection, turn off the printer, check that the cables are securely connected, turn the printer back on, then try printing again.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116840?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA27201~faq-116840",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:50.235247"
+        },
+        {
+          "question": "The image look inverted, as if viewed in a mirror. What should I do?",
+          "answer": "You may have accidentally selected the\nMirror Image\nor\nRotate 180°\noption in the printer driver or a similar feature in your software application. Make sure the settings are not turned on in the printer driver or in your application program. (If you're printing on Epson Iron-On Transfer Paper, the image should be inverted.)\nWindows\nMacintosh",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116842?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA27201~faq-116842",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:51.332398"
+        },
+        {
+          "question": "The printout has a slight slant. What should I do?",
+          "answer": "Try the following:\nIf you're using\nFast Economy\nmode in the printer software, select a higher\nQuality\nor\nPrint Quality\nsetting.\nMake sure your paper is positioned against the right side of the feeder and the left edge guide is against the paper, but not too tightly.\nAlign\nthe print head.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116903?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA27201~faq-116903",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:52.409488"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "I cancelled the software installation before it was complete. What should I do?",
+          "answer": "Uninstall the software (\nWindows\nor\nMacintosh\n), then reinstall the software using the instructions for your connection type:\nUSB\n,\nWireless Network\nor\nWired Network\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116904?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA27201~faq-116904",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:53.512399"
+        },
+        {
+          "question": "How do I uninstall the product software?",
+          "answer": "Follow the instructions below for your computer system:\nWindows\nTurn off the printer.\nDisconnect the USB cable from the printer.\nClick\nStart\nor\n, and select\nPrograms\nor\nAll Programs\n.\nSelect\nEpson\nor\nEpson Printers\n, then select\nEpson Printer Software Uninstall\n.\nNote:\nWith Windows Vista, click\nContinue\n, then go to the next step.\nIn the next window, select\nEPSON Workforce 40 Series\nand click\nOK\n. Then follow the on-screen instructions.\nRestart your computer.\nMacintosh\nTurn off the printer.\nDisconnect the USB cable from the printer.\nInsert the Workforce 40 Series software CD-ROM in your CD-ROM or DVD drive.\nDouble-click the\nEpson\nCD-ROM icon on your desktop.\nOpen the\nEnglish\nfolder, then open the\nPrinter\nfolder in the CD-ROM window.\nDouble click the\nEPSON_IJ_PRINTER\nicon.\nWhen the Installer window appears, select\nUninstall\nfrom the pop-up menu at the top and click the\nUninstall\nbutton.\nDo one of the following:\nMac OS X 10.5\nSelect\nSystem Preferences\n, select\nPrint & Fax\n, select your printer, and click the\n—\nbutton.\nMac OS X 10.3 or 10.4\nOpen the\nApplications\nfolder, select\nUtilities\n, select\nPrinter Setup Utility\n, click\nEPSON WorkForce 40\nand click\nDelete\n.\nRestart your Macintosh.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116916?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA27201~faq-116916",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:54.594161"
+        },
+        {
+          "question": "Can I select a print resolution by indicating a specific dpi (dots per inch) setting?",
+          "answer": "No. The print resolution is determined by other driver software settings.\nIn Windows, the\nQuality Option\nand paper\nType\nsettings determine the print resolution.\nIf you've selected the Main tab, you'll see the window below.\nIf you've selected the Advanced tab, you'll see the window below.\nIn Mac OS X, the resolution settings depend on the\nMode\nsetting:\nNote:\nTo access the resolution settings in Mac OS X, select\nPrint\nfrom the File menu. Then select\nPrint Settings\nfrom the pull-down menu.\nIf you've selected\nAutomatic\nas the\nMode\nsetting, the resolution is determined by the\nMedia Type\nsetting and the position of the Quality/Speed slider.\nIf you've selected\nAdvanced\nas the\nMode\nsetting, the resolution is determined by the\nMedia Type\nsetting and the\nPrint Quality\nsetting.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116917?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA27201~faq-116917",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:55.660077"
+        },
+        {
+          "question": "How do I set up my product?",
+          "answer": "See the instructions below for your connection type:\nNetwork Connection\n(Wireless or Wired)\nIf you're connecting to a network, use an Ethernet cable such as the one that came with your printer.\nEthernet network cable (included)\nIMPORTANT:\nConnect the cable for either a\nwireless or wired\nconnection. For a wireless connection, you'll remove the cable later.\nInstall your software using the\nNetwork Installation Guide\n.\nDirect Connection (USB)\nIf you are\nNOT\ninstalling your product on a network, connect it using a USB cable (not included).\nYou can purchase a USB cable at most electronics stores.\nUSB cable (not included)\nSet up your product and install your software as described on the\nStart Here\nsheet.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116915?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA27201~faq-116915",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:56.758330"
+        },
+        {
+          "question": "Does my product support 2-sided printing?",
+          "answer": "You can select 2-sided printing in your Windows applications (but not on a Macintosh). To use the option, select\nOn\nfor 2-sided printing in the Page Layout tab of the printer software. When you select this option, one side of the page(s) will print first, then you'll need to reload the paper to print the second side.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116957?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA27201~faq-116957",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:57.845910"
+        },
+        {
+          "question": "What information do I need to know before I install my product on my wireless network?",
+          "answer": "You'll need to know the following:\nNetwork name (SSID)\n(This is the name of the wireless network that is set up on your router or access point).\nWEP Key or Passphrase\n(This is the network security password).\nThis information is stored in your network's router, and may have been entered when the router was first set up. If you don't have this information, contact the person who set up your network before you begin. You may also be able to log onto the router from your computer and check its setup screens. See your router's instruction manual for details.\nNote:\nYou should also write down whether the WEP key is in ASCII or hexadecimal format. If the WEP key is 5 or 13 characters, it's ASCII. If it's 10 or 26 characters, it's hexadecimal. If your router gives you a choice of WEP keys to use, note which one is currently active. Usually the first WEP key is active, unless you've selected a different one. If your passphrase contains upper- or lowercase letters, be sure to note them correctly. The printer supports the following wireless security modes: WEP 64, WEP 128, and WPA-PSK.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116952?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA27201~faq-116952",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:58.875861"
+        },
+        {
+          "question": "How do I set up my product for a wireless connection?",
+          "answer": "You need to know your network name (SSID) and network password before setting up your product on your wireless network. If you don't know your network name (SSID) and network password, contact the person who set up your network. Then see the Wireless Network Installation section in the\nNetwork Installation Guide\nfor instructions.\nYou can also view helpful how-to videos on the Video tab for your product.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-119417?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA27201~faq-119417",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:56:59.919701"
+        },
+        {
+          "question": "I'm having problems installing the software for a USB connection. What should I do?",
+          "answer": "Check the following:\nMake sure your printer is turned on and the USB cable is securely connected at both ends. If you still have problems, disconnect the USB cable and carefully follow the software installation instructions on the\nStart Here\nsheet.\nMake sure the USB controller is working properly in Device Manager. See your Windows help system for details. If it's not working, contact your computer manufacturer.\nMake sure all applications (including any screen savers and virus protectors) are closed before you install the software. If any applications were open, uninstall the software (\nWindows\nor\nMacintosh\n), then\nreinstall\nthe software.\nIf you see an error message or your software doesn't install correctly in Windows, you may not have software installation privileges. Contact your System Administrator.\nUninstall the printer software (\nWindows\nor\nMacintosh\n), then\nreinstall\nthe printer software.\nNote:\nYou must connect the printer to your computer at the correct time to make sure the driver is installed correctly on your computer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-122670?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA27201~faq-122670",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:57:01.001507"
+        },
+        {
+          "question": "I'm having problems installing the software for a wireless network connection. What should I do?",
+          "answer": "Check the following:\nIf you don't see your network name (SSID) in the\nChoose a Wireless Network\nwindow, make sure your network name is not set to\nHidden\n. See the router or access point's documentation for details on changing the setting.\nMake sure all applications (including any screen savers and virus protectors) are closed before you install the software. If any applications were open, uninstall the printer software (\nWindows\nor\nMacintosh\n), then\nreinstall\nthe printer software.\nIf you see an error message or your software doesn't install correctly in Windows, you may not have software installation privileges. Contact your System Administrator.\nUninstall the printer software (\nWindows\nor\nMacintosh\n), then\nreinstall\nthe printer software.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-122671?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA27201~faq-122671",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:57:02.095227"
+        },
+        {
+          "question": "I'm having problems installing the software for a wired network connection. What should I do?",
+          "answer": "Check the following:\nMake sure all applications (including any screen savers and virus protectors) are closed before you install the software. If any applications were open, uninstall the printer software (\nWindows\nor\nMacintosh\n), then\nreinstall\nthe printer software.\nIf you see an error message or your software doesn't install correctly in Windows, you may not have software installation privileges. Contact your System Administrator.\nUninstall the printer software (\nWindows\nor\nMacintosh\n), then\nreinstall\nthe printer software.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-122672?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA27201~faq-122672",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:57:03.154039"
+        },
+        {
+          "question": "My networked product shows up with an ID number attached (such as EPSON4782E0 (IP)) when it is added to the print queue in OS X. How do I change the default name?",
+          "answer": "Follow these steps to change the default printer name:\nOpen the\nHard Drive\n.\nSelect\nApplications\n>\nEpsonNet\n>\nEpsonNet Config V3\n>\nEpsonNet Config\n.\nSelect your printer and click\nConfiguration\n. A Device Properties window appears.\nSelect\nAdministration\nin the folder tree.\nEnter your new printer name in the field next to\nDevice Name\n.\nClick\nTransmit\n. It may take a while for the printer to update itself.\nClose\nEpsonNet Config\n.\nFollow the steps below for your operating system to remove and re-add your printer with the new printer name.\nMac OS X 10.5\nSelect\nSystem Preferences\nfrom the Apple menu, then select\nPrint & Fax\n.\nSelect the old printer name with the ID number, and click the\nbutton.\nClick\nOK\n.\nClick the\nbutton. The new printer name you created will appear listed twice. (It may take a while for the second entry to appear.)\nSelect the printer name with\n(IP)\nat the end of it and\nEPSON TCPIP\nin the\nKind\ncolumn (do not select the one with\nBonjour\nin the\nKind\ncolumn), then click\nAdd\n.\nMac OS X 10.3/10.4\nOpen the\nApplications\nfolder and select\nUtilities\n.\nSelect\nPrinter Setup Utility.\nSelect the old printer name with the ID number and click\nDelete\n.\nClick\nAdd\n, then click\nMore Printers\n. A Printer Browser window appears.\nMake sure\nEPSON TCP/IP\nis selected in the pop-up menu.\nSelect your printer, then click\nAdd\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-123879?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA27201~faq-123879",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:57:04.216587"
+        },
+        {
+          "question": "I can't complete the installation of my product to my Windows 7 wireless/wired network using the CD that came with my product. What should I do?",
+          "answer": "Download and install the\nDrivers and Utilities Combo Package - Network\nsoftware from the\nDownloads\ntab.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-146992?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA27201~faq-146992",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:57:05.274333"
+        },
+        {
+          "question": "How do I enable double-sided printing on my product?",
+          "answer": "See the video below for instructions on enabling double-sided printing.\nNote\n: The product supports manual double-sided printing from a Windows computer. Double-sided printing is not supported on Macintosh. You will be prompted by the printer driver to reload your pages once one side has finished printing.\nEnable Double-Sided Printing",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-188295?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA27201~faq-188295",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:57:06.432909"
+        },
+        {
+          "question": "Does my product support Epson Connect?",
+          "answer": "No, your product is not compatible.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-0000af9-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA27201~faq-0000af9-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:57:07.488556"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "You can download the latest product driver from the Downloads section of this website.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-0000afb-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA27201~faq-0000afb-shared",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:57:08.579048"
+        },
+        {
+          "question": "How can I get a replacement CD for my product?",
+          "answer": "You can download the driver from the Downloads tab for your product.\nNote\n:\nOnly the drivers are available for download. Any extra software that came with the product is available only on the CD.\nIf you wish to obtain a replacement copy of the Software CD (stock permitting), please contact our Driver Fulfillment department at 562-276-4367 (US) or 905-709-3839 (Canada). A charge for shipping and handling plus any applicable taxes may apply.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-198080-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA27201~faq-198080-shared",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:57:09.666732"
+        },
+        {
+          "question": "Who do I contact for support on the software that came with my product?",
+          "answer": "Contact Epson for support on Epson software. For questions about any other software that came with your printer, contact the manufacturer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-110871-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA27201~faq-110871-shared",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:57:10.716631"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA27201~faq-00004dc-shared",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:57:11.746573"
+        },
+        {
+          "question": "How do I change the font size of text when I print from software in Windows?",
+          "answer": "You need to select the text or font size in the software you are printing from, not the printer driver. For detailed instructions, contact the company for the application you are printing from.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-00004b7-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA27201~faq-00004b7-shared",
+          "display_order": 20,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:57:12.852202"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA27201~faq-0000f4b-shared",
+          "display_order": 21,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:57:13.972465"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA27201~faq-0000f4c-shared",
+          "display_order": 22,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:57:15.022569"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA27201~faq-0000f4d-shared",
+          "display_order": 23,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:57:16.088869"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Wireless or Wired Connection",
+      "section_id": "8796127635532",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-0000ad0-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CA27201~faq-0000ad0-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:57:17.282209"
+        },
+        {
+          "question": "Can I set up my product for both a USB and network connection?",
+          "answer": "No. The product supports only one connection type at a time: USB, Ethernet, or wireless.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-0000b00-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CA27201~faq-0000b00-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:57:18.425638"
+        },
+        {
+          "question": "How do I find my SSID and network password?",
+          "answer": "Check your router documentation for this information. Most routers have a default SSID and password that can be modified once the router is set up.\nNote:\nThe SSID is the name of the wireless network that is set up on your router or access point.\nIf you don't know this information, you'll need to contact the manufacturer of your router or the person who set up your network.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-0000ae9-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CA27201~faq-0000ae9-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:57:17.629434"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 9,
+      "faqs": [
+        {
+          "question": "How should I transport my product?",
+          "answer": "See\nTransportation\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-116921?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA27201~faq-116921",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:57:18.680320"
+        },
+        {
+          "question": "My product installation software doesn't find my wireless network. What should I do?",
+          "answer": "Try the following:\nIf your wireless router or access point is set to not broadcast its Network name (SSID), you'll need to enter the SSID manually in the printer's setup software. If your wireless router or access point has wireless security enabled, you'll also need to know what kind of security it is using.\nMake sure the printer is within range of the wireless router or wireless access point.\nTry connecting to the wireless router or access point with your computer or another device to confirm that it is working correctly.\nAvoid placing the printer near a microwave oven, 2.4 GHz cordless phone, or large metal objects such as a filing cabinet.\nIf there are any access restrictions (such as MAC address filtering) set on the wireless router or access point, register the printer's MAC address on the router or access point. Print a Network Status Sheet to obtain the MAC address. Then see your router or access point's documentation for instructions.\nNote:\nTo print a network status sheet, load a sheet of plain paper in the printer, then press the\nbutton to print the status sheet.\nDisable any settings (such as\nAP Isolation\n,\nClient Isolation\n, or\nPrivacy Separator\n) on your wireless router or access point that would prevent wireless devices from communicating with each other.\nMake sure that you entered the correct WEP key or passphrase for your wireless network. WEP keys are either ASCII or Hex and passphrases are case-sensitive.\nMake sure that the printer is connected to your network with a Ethernet cable during the installation.\nMake sure the printer is turned on.\nIf you have a software firewall installed on the computer you want to print from, you need to grant full network access to the wireless software.  If necessary, open TCP port 14135 and UDP ports 69, 13364, 13621, 13878, and 14135 in your firewall software.  See your firewall documentation for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-119648?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA27201~faq-119648",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:57:19.937726"
+        },
+        {
+          "question": "When printing in Windows, how can I prevent an extra page from being ejected after every print job?",
+          "answer": "The Separator Page function may be enabled. Follow these steps to disable it:\nClick\nStart\nor\n.\nDo one of the following:\nWindows XP\n:\nSelect\nPrinters and Faxes\n(or select\nSettings\n, then select\nPrinters and Faxes\n).\nWindows Vista\n:\nSelect\nControl Panel\n, then\nPrinter\nor\nPrinters\nunder Hardware and Sound\n.\nWindows 7\n:\nSelect\nControl Panel\n, then\nView Devices and Printers\nunder Hardware and Sound.\nIn the\nPrinters\nor\nPrinters and Faxes\nwindow, right-click on your printer's name.\nSelect\nProperties\n, click the Advanced tab, then press the\nSeparator Page\nbutton.\nIn the Separator Page window, delete the information in the text box and then click\nOK\n.\nClick\nOK\nagain.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-164705?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA27201~faq-164705",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:57:20.973501"
+        },
+        {
+          "question": "My product makes noise after I turn it on or after it has been sitting for a while. What should I do?",
+          "answer": "This is normal. It is performing routine maintenance.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-000096b-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA27201~faq-000096b-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:57:22.024613"
+        },
+        {
+          "question": "My product will not wake up when I try to print with a wireless connection. What should I do?",
+          "answer": "Turn the product off and on. If you can print now, the problem is related to your wireless router. Contact the manufacturer of your router for assistance or try using a different router.\nIf you cannot print after turning the product off and on, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-00004c8-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA27201~faq-00004c8-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:57:23.117333"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA27201~faq-00004b0-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:57:24.160418"
+        },
+        {
+          "question": "What security measures does Epson recommend for its network products?",
+          "answer": "To help deter unauthorized access to your product over a network, you should protect your network environment using appropriate security measures.\nSecurity measures such as these can help deter threats such as loss of user data, use of telephone and fax lines, and other intrusions:\nEnable security on your wireless LAN if your product supports a wireless connection\nEnable the appropriate security on the wireless LAN you plan to use with your product. Network security, such as a network password, can deter interception of traffic over the wireless LAN. Your router may already have a default password enabled by your Internet service provider (ISP). See your ISP and router documentation for instructions on how to change the default password and better secure your network.\nConnect your product only to a network protected by a firewall\nConnecting your product directly to the Internet may leave it vulnerable to security threats. Instead, connect it to a router or other networking device protected by a firewall. Your router may already have a firewall set up by your Internet service provider; check with your ISP for confirmation. For best results, set up and use a private IP address for your network connection.\nChange the default administrator password on your product\nIf your product has an option to set an administrator password, change the default administrator password to deter access by unauthorized users to personal data stored on your product, such as IDs, passwords, and contact lists. See the product's User's Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-0000a05-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA27201~faq-0000a05-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:57:25.261916"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA27201~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA27201~faq-0000f4a-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-40/s/SPT_C11CA27201",
+          "fetched_at": "2026-04-01T22:57:26.335693"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "Epson Stylus Series",
+  "model": {
+    "name": "Epson Stylus Color 300",
+    "sku": "SPT_C224001",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-300/s/SPT_C224001"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C224001~faq-0000ad0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C224001~faq-0000ad0-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-300/s/SPT_C224001",
+          "fetched_at": "2026-04-02T00:22:02.587108"
+        },
+        {
+          "question": "Are the ink cartridges refillable?",
+          "answer": "EPSON does not recommend refilling ink cartridges. Refilled cartridges can cause print quality problems. In the printer's User's Guide, we advise \"Use only genuine EPSON ink cartridges and do not refill them. Other products may cause damage not covered by EPSON's warranty\".",
+          "faq_url": "https://epson.com/faq/SPT_C224001~faq-0000aaf-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C224001~faq-0000aaf-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-300/s/SPT_C224001",
+          "fetched_at": "2026-04-02T00:22:03.712374"
+        },
+        {
+          "question": "Calibration doesn't seem to have any effect. What should I do?",
+          "answer": "Make sure that whenever you turn off the printer, you are always using the printer's power button. Never use an external switch, such as a power strip, surge protector, or power protector, to turn off the printer. If you turn the printer off using an external switch, calibration settings will not be saved.",
+          "faq_url": "https://epson.com/faq/SPT_C224001~faq-0000ab0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C224001~faq-0000ab0-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-300/s/SPT_C224001",
+          "fetched_at": "2026-04-02T00:22:04.775294"
+        },
+        {
+          "question": "Heavy coated or thick paper does not load correctly or loads skewed. What should I do?",
+          "answer": "The paper you are using may be too heavy or glossy for the paper roller to pick up. Be sure the paper is within printer specifications.",
+          "faq_url": "https://epson.com/faq/SPT_C224001~faq-0000b08-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C224001~faq-0000b08-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-300/s/SPT_C224001",
+          "fetched_at": "2026-04-02T00:22:06.162567"
+        },
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C224001~faq-000096d-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C224001~faq-000096d-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-300/s/SPT_C224001",
+          "fetched_at": "2026-04-02T00:22:07.359394"
+        },
+        {
+          "question": "Does OS X support manual duplex printing with my product?",
+          "answer": "This feature is not supported in Mac OS X. However, if your printer has a built-in automatic duplexer, auto-duplexing is supported in Mac OS X 10.6 (Snow Leopard).",
+          "faq_url": "https://epson.com/faq/SPT_C224001~faq-0000c1d-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C224001~faq-0000c1d-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-300/s/SPT_C224001",
+          "fetched_at": "2026-04-02T00:22:08.512851"
+        },
+        {
+          "question": "My product is out of color ink even though I print in black only. Why does this happen?",
+          "answer": "To keep the print head clear, the printer uses a small amount of ink from all the cartridges whenever it prints. Even if you select\nBlack Only\n, some color ink is still being used.",
+          "faq_url": "https://epson.com/faq/SPT_C224001~faq-0000969-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C224001~faq-0000969-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-300/s/SPT_C224001",
+          "fetched_at": "2026-04-02T00:22:09.634775"
+        },
+        {
+          "question": "How do I change the font size of text when I print from software in Windows?",
+          "answer": "You need to select the text or font size in the software you are printing from, not the printer driver. For detailed instructions, contact the company for the application you are printing from.",
+          "faq_url": "https://epson.com/faq/SPT_C224001~faq-00004b7-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C224001~faq-00004b7-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-300/s/SPT_C224001",
+          "fetched_at": "2026-04-02T00:22:10.762738"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C224001~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C224001~faq-00004b0-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-300/s/SPT_C224001",
+          "fetched_at": "2026-04-02T00:22:11.910817"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C224001~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C224001~faq-00004dc-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-300/s/SPT_C224001",
+          "fetched_at": "2026-04-02T00:22:13.089544"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Does OS X support manual duplex printing with my product?",
+          "answer": "This feature is not supported in Mac OS X. However, if your printer has a built-in automatic duplexer, auto-duplexing is supported in Mac OS X 10.6 (Snow Leopard).",
+          "faq_url": "https://epson.com/faq/SPT_C224001~faq-0000c1d-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C224001~faq-0000c1d-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-300/s/SPT_C224001",
+          "fetched_at": "2026-04-02T00:22:14.204240"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "How do I replace an ink cartridge?",
+          "answer": "If the Ink Out light is flashing, open the printer cover and hold down the Cleaning button for three seconds. The Power light should start flashing and the print head should move slightly left to the ink cartridge replacement position. Lift up the ink cartridge clamp as far as it goes. The cartridge currently installed should lift partly out of the ink cartridge holder. Lift the cartridge out of the printer. Open the new ink cartridge package. Remove only the yellow portion of the tape seal from the top of the cartridge. Don't remove the white portion. Lower the new ink cartridge into the holder with the label face up and the arrow pointing toward the back of the printer. Press down the ink cartridge clamp until it locks in place. Press the Cleaning button. The print head should move back to home position and charge the ink delivery system. Charging will take approximately one minute.",
+          "faq_url": "https://epson.com/faq/SPT_C224001~faq-38712?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C224001~faq-38712",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-300/s/SPT_C224001",
+          "fetched_at": "2026-04-02T00:22:15.419235"
+        },
+        {
+          "question": "Which ink cartridges should I use with my product?",
+          "answer": "Use Epson ink cartridge part# S020138 with the Stylus Color 300.",
+          "faq_url": "https://epson.com/faq/SPT_C224001~faq-42839?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C224001~faq-42839",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-300/s/SPT_C224001",
+          "fetched_at": "2026-04-02T00:22:16.647807"
+        },
+        {
+          "question": "Are the ink cartridges refillable?",
+          "answer": "EPSON does not recommend refilling ink cartridges. Refilled cartridges can cause print quality problems. In the printer's User's Guide, we advise \"Use only genuine EPSON ink cartridges and do not refill them. Other products may cause damage not covered by EPSON's warranty\".",
+          "faq_url": "https://epson.com/faq/SPT_C224001~faq-0000aaf-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C224001~faq-0000aaf-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-300/s/SPT_C224001",
+          "fetched_at": "2026-04-02T00:22:17.803485"
+        },
+        {
+          "question": "My product is out of color ink even though I print in black only. Why does this happen?",
+          "answer": "To keep the print head clear, the printer uses a small amount of ink from all the cartridges whenever it prints. Even if you select\nBlack Only\n, some color ink is still being used.",
+          "faq_url": "https://epson.com/faq/SPT_C224001~faq-0000969-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C224001~faq-0000969-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-300/s/SPT_C224001",
+          "fetched_at": "2026-04-02T00:22:18.994720"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "Heavy coated or thick paper does not load correctly or loads skewed. What should I do?",
+          "answer": "The paper you are using may be too heavy or glossy for the paper roller to pick up. Be sure the paper is within printer specifications.",
+          "faq_url": "https://epson.com/faq/SPT_C224001~faq-0000b08-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C224001~faq-0000b08-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-300/s/SPT_C224001",
+          "fetched_at": "2026-04-02T00:22:20.053359"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "The quality of my printed output is unacceptable. What should I do?",
+          "answer": "Verify that you are using the EPSON Stylus Color 300 driver. Make sure that the printer's paper thickness and adjust lever are set to the correct paper type setting. For the paper thickness lever use the plain paper setting for regular paper ( the lever is set forward when facing the printer) and use the thick paper settings for envelopes or thicker media ( set the lever back). For standard paper, coated paper, index cards, transparencies or glossy paper/film set the adjust lever to the 0 setting. For envelopes set the adjustment lever to the + setting. Also, the paper you are using may be damaged, old, dirty or loaded incorrectly. Remove the paper and reload a new stack ensuring that the printable side is face up. If MicroWeave is off, turn this feature on. If High Speed is on, turn it off. Make sure the Media Type setting matches the paper or media loaded. Also, the Halftoning and Color Adjustment Mode options may be set incorrectly for your document type. Let the printer driver automatically select the settings for the best quality. If your output is faint, check the printer driver to make sure you have selected a print resolution other than Economy. For vertical banding, rough or grainy images run the Print Head Alignment utility to align the print heads for precise vertical lines. If the image does not contain the colors you expected, the color settings on your application software may need adjustment. Refer to your software documentation for help on adjusting colors. If the previous steps do not resolve the issue, the print head nozzles may be clogged. From the Utility section found in the EPSON printer driver, clean the print heads by performing a head cleaning followed by printing a nozzle check pattern. A head cleaning and nozzle check must be performed as a cycle. After printing a nozzle check, examine the printed dot pattern. Each staggered horizontal and straight vertical line should be complete, with no gaps in the dot pattern. If there are gaps in the dot pattern, continue with another cycle. Perform up to 6 cycles if necessary. If the nozzle check prints completely, and you're still experiencing a problem, make sure you are using the most current version of the printer driver. You can obtain the latest printer driver from the EPSON web site. The resolution of your image may also be set too low. Increase the image resolution using your image-editing software, or decrease the size of the image. Another troubleshooting test to try is moving the printer to another computer. This will eliminate the possibility of a defective printer cable, parallel port, or software issue. If your still experiencing a problem try replacing the ink cartridge and make sure you are using a genuine EPSON ink cartridge which has a white label on top of it. If the white label has been removed from the ink cartridge, do not install the cartridge. Using an ink cartridge which does not have the white label on it may damage the printer. If you have already installed a cartridge which is missing the white label, or if a previously installed ink cartridge was missing its white label at the time it was installed, and now head cleanings do not help the nozzle check pattern to print completely, your printer may require service and you should contact the EPSON Connection for further assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C224001~faq-38710?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C224001~faq-38710",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-300/s/SPT_C224001",
+          "fetched_at": "2026-04-02T00:22:21.226357"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Banding may be caused by a number of different reasons.\n1. Incompatible paper\nUsing an incompatible type paper can cause banding due to the way the ink is absorbed into the paper. Use genuine EPSON brand ink jet paper to make sure the paper is not causing the problem.\n2. Paper thickness lever in wrong position\nMake sure the paper thickness lever is in the normal position for ink jet paper and not in the envelope position. See your user's manual for thickness lever setting instructions).\n3. Video driver conflict\nSome video drivers may cause a conflict in memory between the printer driver and video memory. Try changing to the Windows video driver provided by Microsoft or check to see if the video card manufacturer has an updated video driver available. This is often the cause of strange printing problems such as heavy banding and missing characters.\n4. Wrong driver or driver setup\nMake sure you are using the correct printer driver for your EPSON inkjet model. Also make sure you have selected the correct print settings to print with for the type of paper and resolution in the driver setup. MicroWeave should be turned on in the driver.\n5. Clogged nozzle\nPrint the demo or self test page by pressing and holding the\nLoad/Eject\nbutton for a few moments while applying power to the printer. Check to see if white lines appear through your text. Also determine if the banding affects the color or black ink cartridge. If no banding is present then the cause is probably caused by the software or video driver.\nIf the white lines are present, perform two or more cleaning cycles on the affected color or black print head.\n(See instructions under the printer's top cover or in the User's Manual for cleaning cycle instructions.)\nAfter performing the cleaning cycles check to see if the banding has improved or cleared. Most clogged nozzle problems are cleared with a few cleaning cycles but in some stubborn cases it may be necessary to perform many cleaning cycles in order to clear a blocked nozzle.",
+          "faq_url": "https://epson.com/faq/SPT_C224001~faq-42834?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C224001~faq-42834",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-300/s/SPT_C224001",
+          "fetched_at": "2026-04-02T00:22:22.341385"
+        },
+        {
+          "question": "Why won't my product print black or color?",
+          "answer": "This is usually caused by dried ink clogging the print head nozzles.\nThe most common causes are:\nThe printer has been turned off using a power strip rather than the printer's power button. This may cause the ink to dry because the print head is not positioned properly when shut down. It will also cause long cleaning cycles on power up.\nRefilled, improperly installed or removed and reinstalled ink cartridge. Never attempt to refill ink cartridges. Make sure that only the yellow or blue tape is removed from the ink cartridge before installing it. Never remove a cartridge to visually check the ink level and reinstall it. It is not possible to visually check the ink level because the ink is contained in a sponge-like material and it will always appear to contain ink, even when empty.\nInk cartridge has been in the printer more than 6 months. The ink will slowly lose it's viscosity and dry up over time even if not used. Also check the \"USE BEFORE\" date on the cartridge box when you purchase it to make sure it is fresh.\nExtended periods of printer inactivity.\nIf using the printer's cleaning buttons on the control panel does not clear the print head. The printer's cleaning utility program should be used which is a more intense method.",
+          "faq_url": "https://epson.com/faq/SPT_C224001~faq-42833?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C224001~faq-42833",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-300/s/SPT_C224001",
+          "fetched_at": "2026-04-02T00:22:23.537411"
+        },
+        {
+          "question": "My printout is missing some characters. What should I do?",
+          "answer": "Video driver conflict\nSome video drivers may cause a conflict in memory between the printerdriver and video memory. Try changing to the Windows video driver provided by Microsoft or check to see if the video card manufacturer has an updated video driver available. This is often the cause of strange printing problems such as heavy banding and missing characters.",
+          "faq_url": "https://epson.com/faq/SPT_C224001~faq-42845?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C224001~faq-42845",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-300/s/SPT_C224001",
+          "fetched_at": "2026-04-02T00:22:24.592813"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Scan",
+      "section_id": "8796127569996",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "What scanning resolution should I use to get the best results when I print the scanned image?",
+          "answer": "The Line Screen Frequency for EPSON Stylus printers can be calculated using the following formula:\nPrinting\nResolution\n____________\n3\nX\n1\n___\n2\n=\nLine Screen\nFrequency\nYou should set the minimum scan resolution at 1/3rd of the desired print resolution. For example, for a print resolution of 720dpi, you will need to set the scan resolution to 240dpi or higher. If you are going to increase the size of the printed image then you should scan at a higher dpi resolution.",
+          "faq_url": "https://epson.com/faq/SPT_C224001~faq-42843?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C224001~faq-42843",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-300/s/SPT_C224001",
+          "fetched_at": "2026-04-02T00:22:25.746542"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "Calibration doesn't seem to have any effect. What should I do?",
+          "answer": "Make sure that whenever you turn off the printer, you are always using the printer's power button. Never use an external switch, such as a power strip, surge protector, or power protector, to turn off the printer. If you turn the printer off using an external switch, calibration settings will not be saved.",
+          "faq_url": "https://epson.com/faq/SPT_C224001~faq-0000ab0-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C224001~faq-0000ab0-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-300/s/SPT_C224001",
+          "fetched_at": "2026-04-02T00:22:26.816648"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C224001~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C224001~faq-00004dc-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-300/s/SPT_C224001",
+          "fetched_at": "2026-04-02T00:22:26.070546"
+        },
+        {
+          "question": "How do I change the font size of text when I print from software in Windows?",
+          "answer": "You need to select the text or font size in the software you are printing from, not the printer driver. For detailed instructions, contact the company for the application you are printing from.",
+          "faq_url": "https://epson.com/faq/SPT_C224001~faq-00004b7-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C224001~faq-00004b7-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-300/s/SPT_C224001",
+          "fetched_at": "2026-04-02T00:22:27.131559"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Wireless or Wired Connection",
+      "section_id": "8796127635532",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C224001~faq-0000ad0-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C224001~faq-0000ad0-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-300/s/SPT_C224001",
+          "fetched_at": "2026-04-02T00:22:28.237551"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C224001~faq-000096d-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C224001~faq-000096d-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-300/s/SPT_C224001",
+          "fetched_at": "2026-04-02T00:22:29.386360"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C224001~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C224001~faq-00004b0-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-300/s/SPT_C224001",
+          "fetched_at": "2026-04-02T00:22:30.450108"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C224001~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C224001~faq-0000f4a-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Color-300/s/SPT_C224001",
+          "fetched_at": "2026-04-02T00:22:31.521062"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

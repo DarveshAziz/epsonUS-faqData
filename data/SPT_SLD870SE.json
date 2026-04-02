@@ -1,0 +1,339 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "SureLab Series",
+  "model": {
+    "name": "Epson SureLab D870",
+    "sku": "SPT_SLD870SE",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureLab-Series/Epson-SureLab-D870/s/SPT_SLD870SE"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SLD870SE~faq-0000f4c-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SLD870SE~faq-0000f4c-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureLab-Series/Epson-SureLab-D870/s/SPT_SLD870SE",
+          "fetched_at": "2026-04-02T04:21:40.503619"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_SLD870SE~faq-0000f4b-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SLD870SE~faq-0000f4b-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureLab-Series/Epson-SureLab-D870/s/SPT_SLD870SE",
+          "fetched_at": "2026-04-02T04:21:41.648071"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SLD870SE~faq-0000f4d-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SLD870SE~faq-0000f4d-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureLab-Series/Epson-SureLab-D870/s/SPT_SLD870SE",
+          "fetched_at": "2026-04-02T04:21:42.898723"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SLD870SE~faq-0000f4a-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SLD870SE~faq-0000f4a-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureLab-Series/Epson-SureLab-D870/s/SPT_SLD870SE",
+          "fetched_at": "2026-04-02T04:21:43.891779"
+        },
+        {
+          "question": "How much maintenance does the product require?",
+          "answer": "A minimal amount of maintenance is required. You'll need to replace ink cartridges and media and perform print head maintenance as described in the product's\nOperation Guide\n.\nEpson recommends cleaning the air vents and paper path every three months. See the online\nOperation Guide\nfor more information.",
+          "faq_url": "https://epson.com/faq/SPT_SLD870SE~faq-0000ae1-sl_d870?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SLD870SE~faq-0000ae1-sl_d870",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureLab-Series/Epson-SureLab-D870/s/SPT_SLD870SE",
+          "fetched_at": "2026-04-02T04:21:44.897143"
+        },
+        {
+          "question": "The Photos print with incorrect color from Windows. What should I do?",
+          "answer": "For the best results, make sure you use the ICC profiles for the type of paper you're             printing on.\nTo install the profiles, download\nSLD870_Paper_Setting_ENA.exe\nand install the file             from the Downloads tab on the product's support page. Then follow the steps below to use             the Epson SL-D800 Series Maintenance Tool Admin to install the ICC profiles.\nOn your computer, do one of the following:\nWindows 10\n: Click\n>\nEPSON\n>\nEpson SL-D800 Series Maintenance Tool Admin\n.\nWindows 8\n: Navigate to the\nEPSON\nfolder and select\nEpson SL-D800 Series Maintenance Tool Admin\n.\nWindows 7\n: Click\nor\nStart\nand select\nAll Programs\n>\nEpson\n>\nEPSON SL-D800 Series\n>\nEpson SL-D800 Series Maintenance Tool                         Admin\n.\nNote:\nYou may need to enter a password.\nClick\nSystem Environment Settings\n.\nClick\nSelect\nfor the Reading Paper Type File setting and select\nDesktop\n>\nSL-D870 Paper Setup\n>\nSL-D870_AmericasMedia_0.0.1\n. Then click\nOpen\n.\nClick\nOK\nuntil you see\nYou need to restart your computer\n. Close all                 open software and click\nOK\n. Your computer will restart.\nThe paper types will now appear in the driver.",
+          "faq_url": "https://epson.com/faq/SPT_SLD870SE~faq-0000b14-sl_d870?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SLD870SE~faq-0000b14-sl_d870",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureLab-Series/Epson-SureLab-D870/s/SPT_SLD870SE",
+          "fetched_at": "2026-04-02T04:21:45.794328"
+        },
+        {
+          "question": "Which connection types does the product support?",
+          "answer": "The product supports a High-speed USB 2.0 connection. You can connect the product to a network if you configure it as a shared printer in Windows.\nNote:\nUse a USB 2.0 cable to assure optimal connectivity.",
+          "faq_url": "https://epson.com/faq/SPT_SLD870SE~faq-0000adc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SLD870SE~faq-0000adc-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureLab-Series/Epson-SureLab-D870/s/SPT_SLD870SE",
+          "fetched_at": "2026-04-02T04:21:51.108689"
+        },
+        {
+          "question": "Which media sizes does the product support?",
+          "answer": "You can use a variety of roll paper in sizes from 3.5 to 8.3 inches wide. Epson recommends that you use genuine Epson paper (available in 5, 6, or 8 inch widths).",
+          "faq_url": "https://epson.com/faq/SPT_SLD870SE~faq-0000ad9-sl_d870?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SLD870SE~faq-0000ad9-sl_d870",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureLab-Series/Epson-SureLab-D870/s/SPT_SLD870SE",
+          "fetched_at": "2026-04-02T04:21:52.391185"
+        },
+        {
+          "question": "Which types of media can I use with the product?",
+          "answer": "Epson recommends that you use genuine Epson paper (available in 5, 6, or 8 inch widths), but you can use a variety of roll paper in sizes from 4 to 8.3 inches wide. See below for a list of available Epson papers.\nSureLab Photo Paper Glossy\nSize\nPart number\n5 inch (127 mm)\nS450294\n6 inch (152 mm)\nS450295\n8 inch (203 mm)\nS450296\nSureLab Photo Paper Luster\nSize\nPart number\n5 inch (127 mm)\nS450297\n6 inch (152 mm)\nS450298\n8 inch (203 mm)\nS450299",
+          "faq_url": "https://epson.com/faq/SPT_SLD870SE~faq-0000ada-sl_d870?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SLD870SE~faq-0000ada-sl_d870",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureLab-Series/Epson-SureLab-D870/s/SPT_SLD870SE",
+          "fetched_at": "2026-04-02T04:21:53.617101"
+        },
+        {
+          "question": "Does the product include ink cartridges and media in the box?",
+          "answer": "No, you need to purchase a set of ink cartridges and media when you purchase the product. Use the part numbers listed below to order ink cartridges.\nInk color\nPart number\nBlack\nT43S100\nCyan\nT43S200\nMagenta\nT43S300\nYellow\nT43S400\nLight Cyan\nT43S500\nLight Magenta\nT43S600",
+          "faq_url": "https://epson.com/faq/SPT_SLD870SE~faq-0000ae6-sl_d870?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SLD870SE~faq-0000ae6-sl_d870",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureLab-Series/Epson-SureLab-D870/s/SPT_SLD870SE",
+          "fetched_at": "2026-04-02T04:21:54.803522"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Can the product print four-sided borderless prints?",
+          "answer": "Yes, four-sided borderless prints are supported. For custom paper sizes, make sure to select a supported page width for borderless prints. The following paper widths are supported:\n3.5 inches (89 mm)\n4 inches (101 mm)\n5 inches (127 mm)\n6 inches (152 mm)\n8 inches (203 mm)\n8.3 inches (210 mm)",
+          "faq_url": "https://epson.com/faq/SPT_SLD870SE~faq-0000ae0-sl_d870?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_SLD870SE~faq-0000ae0-sl_d870",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureLab-Series/Epson-SureLab-D870/s/SPT_SLD870SE",
+          "fetched_at": "2026-04-02T04:21:59.307500"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "Which type of ink does the product use?",
+          "answer": "The product uses UltraChrome D6r-S ink. UltraChrome D6r-S Ink Technology offers a wide color gamut designed for true-to-life and smudge-, water- and fade-resistant prints. See below for a list of colors and part numbers.\nInk color\nPart number\nBlack\nT43S100\nCyan\nT43S200\nMagenta\nT43S300\nYellow\nT43S400\nLight Cyan\nT43S500\nLight Magenta\nT43S600",
+          "faq_url": "https://epson.com/faq/SPT_SLD870SE~faq-0000adb-sl_d870?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SLD870SE~faq-0000adb-sl_d870",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureLab-Series/Epson-SureLab-D870/s/SPT_SLD870SE",
+          "fetched_at": "2026-04-02T04:22:00.212002"
+        },
+        {
+          "question": "How many ink colors does the product use?",
+          "answer": "The product uses six colors: Black, Cyan, Magenta, Yellow, Light Cyan, Light Magenta.",
+          "faq_url": "https://epson.com/faq/SPT_SLD870SE~faq-0000ade-sl_d870?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SLD870SE~faq-0000ade-sl_d870",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureLab-Series/Epson-SureLab-D870/s/SPT_SLD870SE",
+          "fetched_at": "2026-04-02T04:22:01.145464"
+        },
+        {
+          "question": "Does the product include ink cartridges and media in the box?",
+          "answer": "No, you need to purchase a set of ink cartridges and media when you purchase the product. Use the part numbers listed below to order ink cartridges.\nInk color\nPart number\nBlack\nT43S100\nCyan\nT43S200\nMagenta\nT43S300\nYellow\nT43S400\nLight Cyan\nT43S500\nLight Magenta\nT43S600",
+          "faq_url": "https://epson.com/faq/SPT_SLD870SE~faq-0000ae6-sl_d870?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SLD870SE~faq-0000ae6-sl_d870",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureLab-Series/Epson-SureLab-D870/s/SPT_SLD870SE",
+          "fetched_at": "2026-04-02T04:22:02.027921"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "How much maintenance does the product require?",
+          "answer": "A minimal amount of maintenance is required. You'll need to replace ink cartridges and media and perform print head maintenance as described in the product's\nOperation Guide\n.\nEpson recommends cleaning the air vents and paper path every three months. See the online\nOperation Guide\nfor more information.",
+          "faq_url": "https://epson.com/faq/SPT_SLD870SE~faq-0000ae1-sl_d870?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SLD870SE~faq-0000ae1-sl_d870",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureLab-Series/Epson-SureLab-D870/s/SPT_SLD870SE",
+          "fetched_at": "2026-04-02T04:22:01.288770"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "Which types of media can I use with the product?",
+          "answer": "Epson recommends that you use genuine Epson paper (available in 5, 6, or 8 inch widths), but you can use a variety of roll paper in sizes from 4 to 8.3 inches wide. See below for a list of available Epson papers.\nSureLab Photo Paper Glossy\nSize\nPart number\n5 inch (127 mm)\nS450294\n6 inch (152 mm)\nS450295\n8 inch (203 mm)\nS450296\nSureLab Photo Paper Luster\nSize\nPart number\n5 inch (127 mm)\nS450297\n6 inch (152 mm)\nS450298\n8 inch (203 mm)\nS450299",
+          "faq_url": "https://epson.com/faq/SPT_SLD870SE~faq-0000ada-sl_d870?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SLD870SE~faq-0000ada-sl_d870",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureLab-Series/Epson-SureLab-D870/s/SPT_SLD870SE",
+          "fetched_at": "2026-04-02T04:22:02.265352"
+        },
+        {
+          "question": "Which media sizes does the product support?",
+          "answer": "You can use a variety of roll paper in sizes from 3.5 to 8.3 inches wide. Epson recommends that you use genuine Epson paper (available in 5, 6, or 8 inch widths).",
+          "faq_url": "https://epson.com/faq/SPT_SLD870SE~faq-0000ad9-sl_d870?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SLD870SE~faq-0000ad9-sl_d870",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureLab-Series/Epson-SureLab-D870/s/SPT_SLD870SE",
+          "fetched_at": "2026-04-02T04:22:03.138505"
+        },
+        {
+          "question": "How do I remove the paper from the product?",
+          "answer": "Do the following:\nCheck that the product's power light is on and not flashing.\nPress and hold the\nswitch button and wait for the\npaper light to turn on.\nRemove the scrap paper box.\nGrip the handle to release the roll paper feeder and pull it out.\nRemove the roll paper spindle.",
+          "faq_url": "https://epson.com/faq/SPT_SLD870SE~faq-0000ae2-sl_d870?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SLD870SE~faq-0000ae2-sl_d870",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureLab-Series/Epson-SureLab-D870/s/SPT_SLD870SE",
+          "fetched_at": "2026-04-02T04:22:04.011890"
+        },
+        {
+          "question": "The Paper Type selections for SureLab Photo Paper Glossy and SureLab Photo Paper Luster do not appear in the Windows driver. What should I do?",
+          "answer": "You need to install the ICC profiles for the product. To install the profiles, download\nSLD870_Paper_Setting_ENA.exe\nfrom the Downloads tab on the product's support             page. Then follow the steps below to use the Epson SL-D800 Series Maintenance Tool Admin             to install the ICC profiles.\nOn your computer, do one of the following:\nWindows 10\n: Click\n>\nEPSON\n>\nEpson SL-D800 Series Maintenance Tool Admin\n.\nWindows 8\n: Navigate to the\nEPSON\nfolder and select\nEpson SL D800 Series Maintenance Tool Admin\n.\nWindows 7\n: Click\nor\nStart\nand select\nAll Programs\n>\nEpson\n>\nEPSON SL-D800 Series\n>\nEpson SL-D800 Series Maintenance Tool                         Admin\n.\nNote:\nYou may need to enter a password.\nClick\nSystem Environment Settings\n.\nClick\nSelect\nfor the Reading Paper Type File setting and select\nDesktop\n>\nSL-D870 Paper Setup\n>\nSL-D870_AmericasMedia_0.0.1\n. Then click\nOpen\n.\nClick\nOK\nuntil you see\nYou need to restart your computer\n. Close all open software and click\nOK\n. Your computer will restart.\nThe paper types will now appear in the driver.",
+          "faq_url": "https://epson.com/faq/SPT_SLD870SE~faq-0000b13-sl_d870?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SLD870SE~faq-0000b13-sl_d870",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureLab-Series/Epson-SureLab-D870/s/SPT_SLD870SE",
+          "fetched_at": "2026-04-02T04:22:04.917222"
+        },
+        {
+          "question": "The paper will not load. What should I do?",
+          "answer": "Always follow these guidelines when loading paper into the product:\nSlide the inner edge guide to the width of the roll paper you are using.\nAdjust the front edge guide to the width of the roll paper.\nThe paper light will turn on when paper is inserted correctly in the paper feed slot.\nIf the paper light does not turn on, remove the paper from the paper feed slot, turn the paper feed knob counterclockwise by one full turn, and then try inserting the paper again.",
+          "faq_url": "https://epson.com/faq/SPT_SLD870SE~faq-0000ae3-D870?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SLD870SE~faq-0000ae3-D870",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureLab-Series/Epson-SureLab-D870/s/SPT_SLD870SE",
+          "fetched_at": "2026-04-02T04:22:05.817305"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "The back of my print outs are dirty. What should I do?",
+          "answer": "You should clean the platen. See\nCleaning the Platen\nin the product's Operation Guide.",
+          "faq_url": "https://epson.com/faq/SPT_SLD870SE~faq-0000ae4-sl_d870?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SLD870SE~faq-0000ae4-sl_d870",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureLab-Series/Epson-SureLab-D870/s/SPT_SLD870SE",
+          "fetched_at": "2026-04-02T04:22:06.714266"
+        },
+        {
+          "question": "The Photos print with incorrect color from Windows. What should I do?",
+          "answer": "For the best results, make sure you use the ICC profiles for the type of paper you're             printing on.\nTo install the profiles, download\nSLD870_Paper_Setting_ENA.exe\nand install the file             from the Downloads tab on the product's support page. Then follow the steps below to use             the Epson SL-D800 Series Maintenance Tool Admin to install the ICC profiles.\nOn your computer, do one of the following:\nWindows 10\n: Click\n>\nEPSON\n>\nEpson SL-D800 Series Maintenance Tool Admin\n.\nWindows 8\n: Navigate to the\nEPSON\nfolder and select\nEpson SL-D800 Series Maintenance Tool Admin\n.\nWindows 7\n: Click\nor\nStart\nand select\nAll Programs\n>\nEpson\n>\nEPSON SL-D800 Series\n>\nEpson SL-D800 Series Maintenance Tool                         Admin\n.\nNote:\nYou may need to enter a password.\nClick\nSystem Environment Settings\n.\nClick\nSelect\nfor the Reading Paper Type File setting and select\nDesktop\n>\nSL-D870 Paper Setup\n>\nSL-D870_AmericasMedia_0.0.1\n. Then click\nOpen\n.\nClick\nOK\nuntil you see\nYou need to restart your computer\n. Close all                 open software and click\nOK\n. Your computer will restart.\nThe paper types will now appear in the driver.",
+          "faq_url": "https://epson.com/faq/SPT_SLD870SE~faq-0000b14-sl_d870?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SLD870SE~faq-0000b14-sl_d870",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureLab-Series/Epson-SureLab-D870/s/SPT_SLD870SE",
+          "fetched_at": "2026-04-02T04:22:07.680238"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "Which connection types does the product support?",
+          "answer": "The product supports a High-speed USB 2.0 connection. You can connect the product to a network if you configure it as a shared printer in Windows.\nNote:\nUse a USB 2.0 cable to assure optimal connectivity.",
+          "faq_url": "https://epson.com/faq/SPT_SLD870SE~faq-0000adc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SLD870SE~faq-0000adc-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureLab-Series/Epson-SureLab-D870/s/SPT_SLD870SE",
+          "fetched_at": "2026-04-02T04:22:08.646893"
+        },
+        {
+          "question": "Is an Epson printer driver available for the product?",
+          "answer": "Yes, an Epson printer driver is available for the following operating systems:\nWindows\nWindows 10 Pro\nWindows 8.1 Pro\nWindows 8 Pro\nWindows 7 SP1 Professional / Ultimate\nMac\nmacOS 10.14.x\nmacOS 10.13.x\nmacOS 10.12.x\nOS X 10.11.x\nOS X 10.10.x",
+          "faq_url": "https://epson.com/faq/SPT_SLD870SE~faq-0000ad8-sl_d870?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SLD870SE~faq-0000ad8-sl_d870",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureLab-Series/Epson-SureLab-D870/s/SPT_SLD870SE",
+          "fetched_at": "2026-04-02T04:22:09.607948"
+        },
+        {
+          "question": "Does the product come with a built-in cutter?",
+          "answer": "Yes, the product comes with a horizontal cutter that trims the leading and trailing edge of media.",
+          "faq_url": "https://epson.com/faq/SPT_SLD870SE~faq-0000add-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SLD870SE~faq-0000add-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureLab-Series/Epson-SureLab-D870/s/SPT_SLD870SE",
+          "fetched_at": "2026-04-02T04:22:10.700736"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_SLD870SE~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SLD870SE~faq-0000f4b-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureLab-Series/Epson-SureLab-D870/s/SPT_SLD870SE",
+          "fetched_at": "2026-04-02T04:22:11.824886"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SLD870SE~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SLD870SE~faq-0000f4c-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureLab-Series/Epson-SureLab-D870/s/SPT_SLD870SE",
+          "fetched_at": "2026-04-02T04:22:12.860084"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SLD870SE~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SLD870SE~faq-0000f4d-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureLab-Series/Epson-SureLab-D870/s/SPT_SLD870SE",
+          "fetched_at": "2026-04-02T04:22:13.786979"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SLD870SE~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SLD870SE~faq-0000f4a-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureLab-Series/Epson-SureLab-D870/s/SPT_SLD870SE",
+          "fetched_at": "2026-04-02T04:22:14.712524"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "Epson Stylus Series",
+  "model": {
+    "name": "Epson Stylus 1000",
+    "sku": "SPT_C114131",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "I can't scan multiple document pages into a single PDF. What should I do?",
+          "answer": "If you are using the Scanner Driver and Epson Scan Utility v2.92a or earlier, the ability to scan multiple pages to a single PDF is not supported. This feature is supported when using the Scanner Driver (which is sometimes shown as TWAIN Driver) and Epson Scan Utility v3.04a or higher. Check your product's Downloads tab to make sure you're using the latest version.",
+          "faq_url": "https://epson.com/faq/SPT_C114131~faq-0000963-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C114131~faq-0000963-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131",
+          "fetched_at": "2026-04-01T23:59:04.657252"
+        },
+        {
+          "question": "Does OS X support manual duplex printing with my product?",
+          "answer": "This feature is not supported in Mac OS X. However, if your printer has a built-in automatic duplexer, auto-duplexing is supported in Mac OS X 10.6 (Snow Leopard).",
+          "faq_url": "https://epson.com/faq/SPT_C114131~faq-0000c1d-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C114131~faq-0000c1d-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131",
+          "fetched_at": "2026-04-01T23:59:05.772060"
+        },
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C114131~faq-000096d-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C114131~faq-000096d-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131",
+          "fetched_at": "2026-04-01T23:59:06.777929"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C114131~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C114131~faq-00004b0-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131",
+          "fetched_at": "2026-04-01T23:59:07.816406"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C114131~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C114131~faq-00004dc-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131",
+          "fetched_at": "2026-04-01T23:59:08.788551"
+        },
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C114131~faq-0000ad0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C114131~faq-0000ad0-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131",
+          "fetched_at": "2026-04-01T23:59:09.697565"
+        },
+        {
+          "question": "When I try to print to my product in Windows 7, printing is slow or my product stops printing. What should I do?",
+          "answer": "Try the following:\nSelect a lower quality setting in the printer software.\nMake sure your system meets the minimum system requirements for your printer.\nClose the\nDevices and Printers\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.",
+          "faq_url": "https://epson.com/faq/SPT_C114131~faq-0000bf3-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C114131~faq-0000bf3-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131",
+          "fetched_at": "2026-04-01T23:59:10.668984"
+        },
+        {
+          "question": "Can I print on 11x17 inch paper?",
+          "answer": "Yes, this paper size can be selected under the printer setup options within the printer driver. This option is only available in portrait mode.",
+          "faq_url": "https://epson.com/faq/SPT_C114131~faq-40197?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C114131~faq-40197",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131",
+          "fetched_at": "2026-04-01T23:59:09.744237"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C114131~faq-0000f4a-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C114131~faq-0000f4a-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131",
+          "fetched_at": "2026-04-01T23:59:10.706907"
+        },
+        {
+          "question": "While loading continuous paper through my product via the tractor assembly, the paper out light is on. What should I do?",
+          "answer": "Power the printer off. Initiate a ROM reset (press Pause + ALT + Economy/Condensed + Load/Eject while applying power to the printer). Unload and reload the tractor paper, if the problem persists, take the printer to an Epson Authorized Service Center.",
+          "faq_url": "https://epson.com/faq/SPT_C114131~faq-40194?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C114131~faq-40194",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131",
+          "fetched_at": "2026-04-01T23:59:11.654705"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "When I try to print to my product in Windows 7, printing is slow or my product stops printing. What should I do?",
+          "answer": "Try the following:\nSelect a lower quality setting in the printer software.\nMake sure your system meets the minimum system requirements for your printer.\nClose the\nDevices and Printers\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.",
+          "faq_url": "https://epson.com/faq/SPT_C114131~faq-0000bf3-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C114131~faq-0000bf3-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131",
+          "fetched_at": "2026-04-01T23:59:12.632267"
+        },
+        {
+          "question": "Does OS X support manual duplex printing with my product?",
+          "answer": "This feature is not supported in Mac OS X. However, if your printer has a built-in automatic duplexer, auto-duplexing is supported in Mac OS X 10.6 (Snow Leopard).",
+          "faq_url": "https://epson.com/faq/SPT_C114131~faq-0000c1d-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C114131~faq-0000c1d-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131",
+          "fetched_at": "2026-04-01T23:59:13.652372"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "I just replaced my product's ink cartridge, the ink out light is still on, how can I clear this problem?",
+          "answer": "Reinstall the ink cartridge and perform two cleaning cycles. Try printing the demo page (press the ALT button while applying power to the printer). If the condition is still present, power the printer off and then initiate the ROM reset by holding down ALT + Economy/Condensed + Load/Eject while applying power to the printer. If the problem persists, take the printer to an Epson Authorized Service Center.",
+          "faq_url": "https://epson.com/faq/SPT_C114131~faq-40199?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C114131~faq-40199",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131",
+          "fetched_at": "2026-04-01T23:59:14.604926"
+        },
+        {
+          "question": "Which ink cartridges should I use with my product?",
+          "answer": "Use ink cartridge model # S020025 with the Stylus 1000\nYou can order Epson ink cartridges from the Epson Store.",
+          "faq_url": "https://epson.com/faq/SPT_C114131~faq-42472?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C114131~faq-42472",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131",
+          "fetched_at": "2026-04-01T23:59:15.511713"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "While loading continuous paper through my product via the tractor assembly, the paper out light is on. What should I do?",
+          "answer": "Power the printer off. Initiate a ROM reset (press Pause + ALT + Economy/Condensed + Load/Eject while applying power to the printer). Unload and reload the tractor paper, if the problem persists, take the printer to an Epson Authorized Service Center.",
+          "faq_url": "https://epson.com/faq/SPT_C114131~faq-40194?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C114131~faq-40194",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131",
+          "fetched_at": "2026-04-01T23:59:16.442323"
+        },
+        {
+          "question": "Can I print on 11x17 inch paper?",
+          "answer": "Yes, this paper size can be selected under the printer setup options within the printer driver. This option is only available in portrait mode.",
+          "faq_url": "https://epson.com/faq/SPT_C114131~faq-40197?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C114131~faq-40197",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131",
+          "fetched_at": "2026-04-01T23:59:17.401777"
+        },
+        {
+          "question": "How are envelopes loaded into my product?",
+          "answer": "On page 2-4 of the users manual there is a detailed step by step procedure in loading envelopes. Make sure to reset the paper thickness lever to handle the thickness of the envelopes.",
+          "faq_url": "https://epson.com/faq/SPT_C114131~faq-40200?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C114131~faq-40200",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131",
+          "fetched_at": "2026-04-01T23:59:18.349092"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "After replacing the ink cartridge my product runs through the motions of printing, however there is no ink printed on the paper. What should I do?",
+          "answer": "Ensure the proper procedures for installing an ink cartridge was done. Next, perform at least two cleaning cycles (press the pause button, and then hold down the ALT and Pause button on the printer panel to initiate a cleaning cycle). Print out the demonstration page (press the ALT button while applying Power). If the problem persists and there is no improvement, take the printer to an Epson Authorized Service Center.",
+          "faq_url": "https://epson.com/faq/SPT_C114131~faq-40195?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C114131~faq-40195",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131",
+          "fetched_at": "2026-04-01T23:59:19.304358"
+        },
+        {
+          "question": "My output appears faded. How can I improve the quality?",
+          "answer": "Make sure the economy light is not selected. If the economy light is not on, perform two cleaning cycles. Try printing the demo page to see if printing has improved. If printing has not improved, try using a fresh pack of paper. If this does not eliminate the problem, replace the ink cartridge.",
+          "faq_url": "https://epson.com/faq/SPT_C114131~faq-40196?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C114131~faq-40196",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131",
+          "fetched_at": "2026-04-01T23:59:20.341003"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Banding may be caused by a number of different reasons.\n1. Incompatible paper\nUsing an incompatible type paper can cause banding due to the way the ink is absorbed into the paper. Use genuine EPSON brand ink jet paper to make sure the paper is not causing the problem.\n2. Paper thickness lever in wrong position\nMake sure the paper thickness lever is in the normal position for ink jet paper and not in the envelope position. See your user's manual for thickness lever setting instructions).\n3. Video driver conflict\nSome video drivers may cause a conflict in memory between the printer driver and video memory. Try changing to the Windows video driver provided by Microsoft or check to see if the video card manufacturer has an updated video driver available. This is often the cause of strange printing problems such as heavy banding and missing characters.\n4. Wrong driver or driver setup\nMake sure you are using the correct printer driver for your EPSON inkjet model. Also make sure you have selected the correct print settings to print with for the type of paper and resolution in the driver setup. MicroWeave should be turned on in the driver.\n5. Clogged nozzle\nPrint the demo or self test page by pressing and holding the\nAlt\nbutton for 10 seconds while applying power to the printer. Check to see if white lines appear through your text. Also determine if the banding affects the color or black ink cartridge. If no banding is present then the cause is probably caused by the software or video driver.\nIf the white lines are present, perform two or more cleaning cycles on the affected color or black print head.\n(See instructions under the printer's top cover or in the User's Manual for cleaning cycle instructions.)\nAfter performing the cleaning cycles check to see if the banding has improved or cleared. Most clogged nozzle problems are cleared with a few cleaning cycles but in some stubborn cases it may be necessary to perform many cleaning cycles in order to clear a blocked nozzle.",
+          "faq_url": "https://epson.com/faq/SPT_C114131~faq-42467?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C114131~faq-42467",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131",
+          "fetched_at": "2026-04-01T23:59:21.242968"
+        },
+        {
+          "question": "The vertical alignment is off. What should I do?",
+          "answer": "If the printouts contain misaligned vertical lines, the print heads may need to be aligned.Calibration corrects only vertical alignment which is most apparent when vertical lines are misaligned when printed.\nThe Calibration Utility filename is CALIBRAT.EXE and is located on the driver software that was packaged with the printer.\nIf you cannot find the CALIBRAT.EXE file, you can download the latest version driver for your printer. It will be among the files after the driver is uncompressed.\nThe Stylus 800+ driver CALIBRAT.EXE program can be used to align all monochrome Stylus printers.\nCALIBRAT.EXE can be copied to the hard disk and put it in a convenient directory such as C:\\UTILITY for future use or can be run from the driver diskette. This utility runs in DOS, so exit Windows or open a DOS prompt in Windows and run it. To run the utility, log onto the directory where the utility is stored, type CALIBRAT and press Enter.\nIMPORTANT: The calibration program assumes the printer is attached to LPT1. If LPT2 or any other port is the default port , connect the printer to LPT1 to calibrate and after saving the calibration, connect it back to your preferred port for printing.\nFollow the directions on the screen.\n1. Select your printer model from the list of Epson Printers.\n2. Select the option to print a calibration pattern then Tab over to highlight \"Calibrate\" and press Enter.\n3. A calibration pattern will then print. Look carefully at the calibration pattern and select an Offset Value that corresponds to the row of vertical lines that most closely aligns. Type in the Offset Value number and press Enter.\nNote: Offset Value numbers between those which are shown can be selected for greater accuracy.\n4. A confirmation pattern will print using the Offset Value selected. If the lines are straight, press Enter. If not, tab over to Re-Calibrate and select another Offset Value.\n5. Once the calibration procedure is complete, turn the printer OFF with the Printer's power switch to save the alignment settings.\nIMPORTANT: After using the utility, the settings will not be saved to the printer unless the it is turned OFF with the Printer's power switch. Save the settings by turning off the printer then turn the printer back ON.\nIf the printer is powered off by unplugging it or turning it off with a power strip, the settings will not be saved. It is recommended to always power the printer down with it's own power switch to ensure the print head is set to the proper powered down position.\nWindows Calibration\nIf you have installed the Windows version, double-click on the EPSON Printer Calibration Utility icon. Follow the directions on the screen. Same procedure about turning the printer off to save the settings will still apply.",
+          "faq_url": "https://epson.com/faq/SPT_C114131~faq-42469?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C114131~faq-42469",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131",
+          "fetched_at": "2026-04-01T23:59:22.317398"
+        },
+        {
+          "question": "My printout is missing some characters. What should I do?",
+          "answer": "Video driver conflict\nSome video drivers may cause a conflict in memory between the printerdriver and video memory. Try changing to the Windows video driver provided by Microsoft or check to see if the video card manufacturer has an updated video driver available. This is often the cause of strange printing problems such as heavy banding and missing characters.",
+          "faq_url": "https://epson.com/faq/SPT_C114131~faq-42476?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C114131~faq-42476",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131",
+          "fetched_at": "2026-04-01T23:59:23.209898"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "My demo page/Self test prints fine, but nothing prints from within my software applications.",
+          "answer": "Verify the drivers are defined correctly within the printer setup section of your software. If the problem persists, try changing the printer cable.",
+          "faq_url": "https://epson.com/faq/SPT_C114131~faq-40193?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C114131~faq-40193",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131",
+          "fetched_at": "2026-04-01T23:59:24.144517"
+        },
+        {
+          "question": "I can't scan multiple document pages into a single PDF. What should I do?",
+          "answer": "If you are using the Scanner Driver and Epson Scan Utility v2.92a or earlier, the ability to scan multiple pages to a single PDF is not supported. This feature is supported when using the Scanner Driver (which is sometimes shown as TWAIN Driver) and Epson Scan Utility v3.04a or higher. Check your product's Downloads tab to make sure you're using the latest version.",
+          "faq_url": "https://epson.com/faq/SPT_C114131~faq-0000963-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C114131~faq-0000963-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131",
+          "fetched_at": "2026-04-01T23:59:25.062856"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C114131~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C114131~faq-00004dc-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131",
+          "fetched_at": "2026-04-01T23:59:25.956201"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Wireless or Wired Connection",
+      "section_id": "8796127635532",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C114131~faq-0000ad0-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C114131~faq-0000ad0-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131",
+          "fetched_at": "2026-04-01T23:59:26.844210"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "When printing in Windows, how can I prevent an extra page from being ejected after every print job?",
+          "answer": "The Separator Page function may be enabled. Follow these steps to disable it:\nClick\nStart\nor\n.\nDo one of the following:\nWindows XP\n:\nSelect\nPrinters and Faxes\n(or select\nSettings\n, then select\nPrinters and Faxes\n).\nWindows Vista\n:\nSelect\nControl Panel\n, then\nPrinter\nor\nPrinters\nunder Hardware and Sound\n.\nWindows 7\n:\nSelect\nControl Panel\n, then\nView Devices and Printers\nunder Hardware and Sound.\nIn the\nPrinters\nor\nPrinters and Faxes\nwindow, right-click on your printer's name.\nSelect\nProperties\n, click the Advanced tab, then press the\nSeparator Page\nbutton.\nIn the Separator Page window, delete the information in the text box and then click\nOK\n.\nClick\nOK\nagain.",
+          "faq_url": "https://epson.com/faq/SPT_C114131~faq-164706?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C114131~faq-164706",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131",
+          "fetched_at": "2026-04-01T23:59:27.783399"
+        },
+        {
+          "question": "My product will not power on even if my product cable is disconnected.",
+          "answer": "Remove the printer cable and unplug the printer from the power source; surge protector, power strip or outlet. Connect the power cable in a different outlet and power the printer on. If the problem persists, take the printer to an Epson Authorized Service Center.",
+          "faq_url": "https://epson.com/faq/SPT_C114131~faq-40198?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C114131~faq-40198",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131",
+          "fetched_at": "2026-04-01T23:59:28.721269"
+        },
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C114131~faq-000096d-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C114131~faq-000096d-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131",
+          "fetched_at": "2026-04-01T23:59:29.682292"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C114131~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C114131~faq-00004b0-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131",
+          "fetched_at": "2026-04-01T23:59:30.586957"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C114131~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C114131~faq-0000f4a-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-1000/s/SPT_C114131",
+          "fetched_at": "2026-04-01T23:59:31.512119"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

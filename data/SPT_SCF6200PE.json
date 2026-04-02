@@ -1,0 +1,618 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "SureColor Series",
+  "model": {
+    "name": "Epson SureColor F6200",
+    "sku": "SPT_SCF6200PE",
+    "url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-00009e9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCF6200PE~faq-00009e9-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:11.644690"
+        },
+        {
+          "question": "I see horizontal or vertical lines in my printout. What should I do?",
+          "answer": "Perform a nozzle check from the printer's control panel or the Epson printer driver, then do one of the following:\nIf there are gaps in the nozzle check pattern, clean the print head nozzles.\nIf there are no gaps in the nozzle check pattern, try the solutions below.\nHorizontal Banding\nIncrease the print resolution.\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nSelect an alternate paper profile for ink coverage.\nSelect the correct paper type in the printer driver.\nAdjust the paper feed\nVertical Banding\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nAlign the print head.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-00009eb-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCF6200PE~faq-00009eb-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:12.561945"
+        },
+        {
+          "question": "How do I install the ICC profiles in Windows XP or Windows 7?",
+          "answer": "Do the following:\nDownload the ICC profiles for your printer and save them in a folder you can easily find.\nClose all open software.\nOpen\nWindows Explorer\n, then select\nComputer\n>\nC:\ndrive >\nWindows\n>\nSystem32\n>\nspool\n>\ndrivers\n>\ncolor\n.\nMove the ICC profiles into the\ncolor\nfolder, then close all open windows.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-00009E5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCF6200PE~faq-00009E5-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:13.488606"
+        },
+        {
+          "question": "How do I determine my printer driver version on my Mac?",
+          "answer": "Open the\nmenu and select\nSystem Preferences\nor\nSystem Settings\n>\nPrinters & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n. Your printer driver version is displayed.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-00009e4-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCF6200PE~faq-00009e4-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:14.424524"
+        },
+        {
+          "question": "I see the message Communication Error when I use a USB connection. What should I do?",
+          "answer": "Do the following:\nDelete all print jobs in the print queue.\nTurn the printer off.\nNote:\nMake sure the USB cable is connected correctly.\nRestart your computer. When the desktop appears, turn your printer on and follow the on-screen instructions.\nNote:\nIf the problem continues, turn the printer off again and delete the printer in the list of printers. Then disconnect the USB cable from the printer and connect it again.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-00009ea-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCF6200PE~faq-00009ea-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:15.352493"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-00004c5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCF6200PE~faq-00004c5-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:16.305656"
+        },
+        {
+          "question": "Where are the ICC profiles located for my printer on my Mac?",
+          "answer": "Do the following to locate the files:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinter2\n>\nICCProfiles\n.\nPress and hold the\nControl\nkey on your keyboard while you click the profile package in the\nICCProfiles\nfolder. In the pop-up menu that appears, select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-00009ed-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCF6200PE~faq-00009ed-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:17.211500"
+        },
+        {
+          "question": "Which Epson paper type setting should I select for Legacy paper?",
+          "answer": "See the table below.\nLegacy Paper\nEpson Paper Type Setting\nBaryta\nPremium Luster Photo Paper\nPlatine\nPremium Luster Photo Paper\nFibre\nWatercolor Paper – Radiant White\nEtching\nWatercolor Paper – Radiant White",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-00009EC-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCF6200PE~faq-00009EC-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:18.132845"
+        },
+        {
+          "question": "My print job disappears from the Windows print queue but does not print. What should I do?",
+          "answer": "Follow the steps below:\nDo one of the following:\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your printer and select\nManage\n>\nPrinting preferences\n.\nWindows 8\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the\nUtility\ntab, then\nSpeed and Progress\n.\nSelect the\nAlways Spool RAW Datatype\nand\nCoarse Rendering\ncheckboxes, then click\nOK\n.\nNote:\nIf the\nProcessed by Printer\ncheckbox is selected, deselect it.\nTry printing again.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-00009e8-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCF6200PE~faq-00009e8-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:19.056061"
+        },
+        {
+          "question": "How do I save my Epson printer driver presets so I can restore them if I reinstall the Epson printer driver in Windows?",
+          "answer": "Note:\nYou may lose some custom settings when you uninstall the printer driver.\nBefore you reinstall the printer driver, do the following:\nOpen\nFile Explorer\nor\nWindows Explorer\n.\nSelect\nThis PC\nor\nComputer\n>\nC:\ndrive >\nProgram Files\n>\nEpson\n> [your printer name].\nMove the UCI extension files to a different folder on your desktop.\nNote:\nAfter you reinstall the Epson printer driver, move the UCI extension files back to your printer's folder as described in step 2.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-00009e6-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCF6200PE~faq-00009e6-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:19.951698"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "I see the message Communication Error when I use a USB connection. What should I do?",
+          "answer": "Do the following:\nDelete all print jobs in the print queue.\nTurn the printer off.\nNote:\nMake sure the USB cable is connected correctly.\nRestart your computer. When the desktop appears, turn your printer on and follow the on-screen instructions.\nNote:\nIf the problem continues, turn the printer off again and delete the printer in the list of printers. Then disconnect the USB cable from the printer and connect it again.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-00009ea-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SCF6200PE~faq-00009ea-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:20.972303"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SCF6200PE~faq-00004c5-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:21.904733"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "Why does my product have a waste ink bottle?",
+          "answer": "With a waste ink bottle, there is no need to replace the printer's maintenance box. Because there is no need to purchase replacement maintenance boxes, this results in cost savings for you, the consumer.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286427?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCF6200PE~faq-286427",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:22.821235"
+        },
+        {
+          "question": "What is High-Density black ink?",
+          "answer": "High-Density black ink provides a bolder, richer black on your printed media than regular black ink. The High-Density black ink in the ink tank should be stirred once a week to prevent sedimentation and incorrect colors in your printed media. See the link below.\nRelated tasks\nStirring High Density Black Ink",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286428?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCF6200PE~faq-286428",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:23.702876"
+        },
+        {
+          "question": "Can I reuse the chip unit that's on an ink pack?",
+          "answer": "No, ink chip units are not reusable. A new chip unit is included with each new ink pack.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286380?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCF6200PE~faq-286380",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:24.614608"
+        },
+        {
+          "question": "What is the capacity of the waste ink bottle?",
+          "answer": "The bottle's capacity is 2 liters.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286407?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCF6200PE~faq-286407",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:25.582405"
+        },
+        {
+          "question": "Do I need to install a new chip unit each time I refill the ink tank with a new ink pack?",
+          "answer": "Yes, a new ink chip unit needs to be installed with every new ink pack. The chip is there to alert you when ink is low.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286379?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCF6200PE~faq-286379",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:26.531619"
+        },
+        {
+          "question": "How many ink tanks are in my product?",
+          "answer": "The printer has four ink tanks: cyan, magenta, yellow, and High-Density black.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286426?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCF6200PE~faq-286426",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:27.416338"
+        },
+        {
+          "question": "What size ink packs are available?",
+          "answer": "The ink packs are available only in the 1-liter size.\nRelated references\nConsumables and Replacement Parts",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286409?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCF6200PE~faq-286409",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:28.335608"
+        },
+        {
+          "question": "Can I use my product when the waste ink bottle is not installed?",
+          "answer": "No. The waste ink bottle must be installed at all times to catch ink that may leak out of the waste ink tubes. Make sure the waste ink bottle is installed even when the printer is not on.\nRelated tasks\nReplacing the Waste Ink Bottle",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286410?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCF6200PE~faq-286410",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:29.246105"
+        },
+        {
+          "question": "Are other types of black ink available for my product?",
+          "answer": "No. Only High-Density black ink is available.\nCaution:\nEpson cannot guarantee the quality or reliability of non-genuine Epson ink. The use of non-genuine ink may cause damage that is not covered by Epson's warranties, and under certain circumstances, may cause erratic printer behavior.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286401?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCF6200PE~faq-286401",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:30.129007"
+        },
+        {
+          "question": "Can I use my product's ink packs and ink tanks with other Epson products?",
+          "answer": "You can use them with the SureColor F6200, SureColor F7200, and SureColor F9200 but not with other Epson printers.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286378?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCF6200PE~faq-286378",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:31.023125"
+        },
+        {
+          "question": "Can I use my product while the ink tanks are not installed?",
+          "answer": "No. The ink tanks must be installed for the printer to operate properly. Epson recommends the use of genuine Epson ink packs with the ink tanks.\nCaution:\nEpson cannot guarantee the quality or reliability of non-genuine Epson ink. The use of non-genuine ink may cause damage that is not covered by Epson's warranties, and under certain circumstances, may cause erratic printer behavior.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286403?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCF6200PE~faq-286403",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:31.965961"
+        },
+        {
+          "question": "Can I wait to refill the ink tanks until they are completely empty?",
+          "answer": "No. The ink level must remain above 2.8 inches (70 mm) from the base of the ink tank at all times. If the ink level falls below 2.8 inches (70 mm), replace the ink chip unit and refill the ink as soon as possible. Failing to do so may allow air into the ink system and affect your printouts.\nRelated tasks\nReplacing the Chip Unit and Refilling Ink",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286408?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCF6200PE~faq-286408",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:32.857154"
+        },
+        {
+          "question": "How do I refill the ink tanks?",
+          "answer": "You need to replace the ink chip unit whenever you refill the ink tanks. Also check the ink levels and the message displayed on your control panel before refilling the ink tanks. The message and the current ink levels help to determine whether you need to refill the ink tanks or replace them. See the link below.\nRelated tasks\nReplacing the Chip Unit and Refilling Ink",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286425?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCF6200PE~faq-286425",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:32.006412"
+        },
+        {
+          "question": "When should I replace the ink tank?",
+          "answer": "When the message\nRefill Ink Tank\nis displayed on the control panel screen and the remaining ink level is greater than 2.8 inches (70 mm) from the base of the ink tank, it is time to replace the ink tank. The ink tank must be replaced because fine dirt, dust, and other foreign material causes the ink tank’s filter to malfunction. The ink tank replacement interval depends on the usage environment and conditions. Contact Epson support for information on replacing components.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286404?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCF6200PE~faq-286404",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:32.951016"
+        },
+        {
+          "question": "What is the capacity of the ink tanks?",
+          "answer": "The capacity of each tank is 1.5 liters.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286402?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCF6200PE~faq-286402",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:33.864229"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "How often should I perform print head maintenance?",
+          "answer": "Perform print head maintenance as needed or when ink smears or drips onto your printed media even after you've cleaned the print head. Also perform print head maintenance when the colors in your printout are faint or missing even after you've cleaned the print head.\nRelated tasks\nPerforming Head Maintenance",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286431?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SCF6200PE~faq-286431",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:34.765279"
+        },
+        {
+          "question": "How should I dispose the waste ink?",
+          "answer": "Leave the waste ink in the waste ink bottle and do not transfer it to another container. Check your local regulations and contact a local disposal service, if needed.\nRelated tasks\nReplacing the Waste Ink Bottle",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286411?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SCF6200PE~faq-286411",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:35.653868"
+        },
+        {
+          "question": "How often should I stir the High-Density black ink in the ink tank?",
+          "answer": "To prevent sedimentation and incorrect colors in your printed media, stir the High Density Black ink in the ink tank once a week.\nOpen the ink inlet cover for the High Density Black ink shown here.\nGrasp the loop at the top of the ink inlet cap and slowly remove the ink inlet cap.\nMove the stirring stick up and down 15 times. Insert the stick completely into the ink tank and raise the stick up to the top each time.\nCaution:\nMove the stick slowly and steadily, or ink may splatter.\nInsert the stirring stick into the ink tank and replace the ink inlet cap\nCaution:\nPress the ink inlet cap down firmly. If the slider comes into contact with the ink inlet cap when pulling it out, the cap could get damaged.\nClose the ink inlet cover.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286437?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SCF6200PE~faq-286437",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:36.610774"
+        },
+        {
+          "question": "Do I need to replace the maintenance box?",
+          "answer": "No, the maintenance box does not need to be replaced. Instead, you need to replace the waste ink bottle when you see one of these messages on the control panel:\nPrepare empty waste ink bottle\nReplace waste ink bottle and press OK\nNote:\nThe maintenance box needs to be installed for the printer to operate properly.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286429?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SCF6200PE~faq-286429",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:37.509493"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "Which media does Epson recommend?",
+          "answer": "Epson does not have any recommendations for media. You may need to try media from various manufacturers to find the most appropriate media for your use.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286413?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCF6200PE~faq-286413",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:38.408758"
+        },
+        {
+          "question": "Can I buy media for my product from Epson?",
+          "answer": "Yes, Epson offers media for this printer. However, most media is available through third-party vendors.\nRelated references\nPaper Specifications",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286414?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCF6200PE~faq-286414",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:39.271488"
+        },
+        {
+          "question": "Can I sublimate to 100% cotton or a cotton/polyester blend?",
+          "answer": "Yes, but Epson recommends sublimating to 100% polyester to achieve the best results. Epson cannot guarantee quality or color accuracy when sublimating to 100% cotton or cotton/polyester blends.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286412?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCF6200PE~faq-286412",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:40.187629"
+        },
+        {
+          "question": "Which media does my product support?",
+          "answer": "The printer prints on dye sublimation transfer paper. For media specifications, see below.\nPaper Specifications\nPrint quality is greatly affected by the type and quality of paper used. Always test a sample of paper before purchasing large quantities or printing large jobs.\nNote:\nDo not use paper that is wrinkled, scratched, torn, or dirty.\nRoll core size\n2 or 3 inches\nRoll outer diameter\nUp to 5.9 inches (150 mm)\nPaper width\n10 to 44 inches (254 to 1118 mm)\nPaper thickness\n0.003 to 0.02 inch (0.08 to 0.5 mm)",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286439?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCF6200PE~faq-286439",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:41.055803"
+        },
+        {
+          "question": "Which media width does my product support?",
+          "answer": "The printer supports a media width of 10 to 44 inches (254 to 1118 mm).\nRelated references\nPaper Specifications",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286432?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCF6200PE~faq-286432",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:41.941459"
+        },
+        {
+          "question": "Which Epson paper type setting should I select for Legacy paper?",
+          "answer": "See the table below.\nLegacy Paper\nEpson Paper Type Setting\nBaryta\nPremium Luster Photo Paper\nPlatine\nPremium Luster Photo Paper\nFibre\nWatercolor Paper – Radiant White\nEtching\nWatercolor Paper – Radiant White",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-00009EC-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCF6200PE~faq-00009EC-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:42.868427"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-00009e9-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SCF6200PE~faq-00009e9-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:43.781806"
+        },
+        {
+          "question": "I see horizontal or vertical lines in my printout. What should I do?",
+          "answer": "Perform a nozzle check from the printer's control panel or the Epson printer driver, then do one of the following:\nIf there are gaps in the nozzle check pattern, clean the print head nozzles.\nIf there are no gaps in the nozzle check pattern, try the solutions below.\nHorizontal Banding\nIncrease the print resolution.\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nSelect an alternate paper profile for ink coverage.\nSelect the correct paper type in the printer driver.\nAdjust the paper feed\nVertical Banding\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nAlign the print head.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-00009eb-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SCF6200PE~faq-00009eb-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:44.700517"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "Where can I get the Communication Driver, utilities, or the firmware software for my product?",
+          "answer": "You can download them from the Downloads tab for your product.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286415?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF6200PE~faq-286415",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:45.594310"
+        },
+        {
+          "question": "Can I set the date and time on my product?",
+          "answer": "No. Several people are needed to unpack and install the printer. The Epson authorized reseller you purchased the printer from will set up and install the printer.\nImportant:\nContact the reseller for product installation. The product must be installed by an Epson authorized reseller. Damage to the product from unauthorized installation will not be covered by your Epson warranty.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286417?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF6200PE~faq-286417",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:46.545039"
+        },
+        {
+          "question": "Which interfaces does my product support?",
+          "answer": "Hi-Speed USB (compatible with the USB 2.0 specification) and 100BASE-T/1000Base-TX are supported.\nNote:\nUse a category 5 or better shielded twisted pair cable.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286419?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF6200PE~faq-286419",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:47.482960"
+        },
+        {
+          "question": "Does my product come with an Epson printer driver?",
+          "answer": "No, there is no standard Epson printer driver for the printer. Wasatch RIP software is used to print.\nNote:\nThere is a Communication Driver (available for download) which is used to update the firmware.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286416?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF6200PE~faq-286416",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:48.389057"
+        },
+        {
+          "question": "Which software comes with my product?",
+          "answer": "The software below is included with the printer and is available for download from the printer's Downloads tab.\nEpson Communication Driver for Windows\nEpson LFP Remote Panel 2 Utility\nEpsonNet Config Utility\nEpsonNet Setup\nEpsonNet Print\nThe Wasatch RIP software is also included, but it is not available from the Downloads.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286418?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF6200PE~faq-286418",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:49.279400"
+        },
+        {
+          "question": "How do I save my Epson printer driver presets so I can restore them if I reinstall the Epson printer driver in Windows?",
+          "answer": "Note:\nYou may lose some custom settings when you uninstall the printer driver.\nBefore you reinstall the printer driver, do the following:\nOpen\nFile Explorer\nor\nWindows Explorer\n.\nSelect\nThis PC\nor\nComputer\n>\nC:\ndrive >\nProgram Files\n>\nEpson\n> [your printer name].\nMove the UCI extension files to a different folder on your desktop.\nNote:\nAfter you reinstall the Epson printer driver, move the UCI extension files back to your printer's folder as described in step 2.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-00009e6-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF6200PE~faq-00009e6-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:50.196729"
+        },
+        {
+          "question": "How do I install the ICC profiles in Windows XP or Windows 7?",
+          "answer": "Do the following:\nDownload the ICC profiles for your printer and save them in a folder you can easily find.\nClose all open software.\nOpen\nWindows Explorer\n, then select\nComputer\n>\nC:\ndrive >\nWindows\n>\nSystem32\n>\nspool\n>\ndrivers\n>\ncolor\n.\nMove the ICC profiles into the\ncolor\nfolder, then close all open windows.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-00009E5-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF6200PE~faq-00009E5-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:51.145966"
+        },
+        {
+          "question": "How do I determine my printer driver version on my Mac?",
+          "answer": "Open the\nmenu and select\nSystem Preferences\nor\nSystem Settings\n>\nPrinters & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n. Your printer driver version is displayed.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-00009e4-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF6200PE~faq-00009e4-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:52.039162"
+        },
+        {
+          "question": "How do I manually install the Epson ICC profiles on my Mac?",
+          "answer": "Do the following:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinters2\n>\nICCProfiles\n.\nPress and hold the\ncontrol\nkey on your keyboard while you select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n, select and copy all files, then close all open windows.\nOpen your hard drive, select\nLibrary\n>\nColorSync\n>\nProfiles\n, then paste the files into this folder.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-0000b03-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF6200PE~faq-0000b03-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:52.978188"
+        },
+        {
+          "question": "Where are the ICC profiles located for my printer on my Mac?",
+          "answer": "Do the following to locate the files:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinter2\n>\nICCProfiles\n.\nPress and hold the\nControl\nkey on your keyboard while you click the profile package in the\nICCProfiles\nfolder. In the pop-up menu that appears, select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-00009ed-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF6200PE~faq-00009ed-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:53.928844"
+        },
+        {
+          "question": "My print job disappears from the Windows print queue but does not print. What should I do?",
+          "answer": "Follow the steps below:\nDo one of the following:\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your printer and select\nManage\n>\nPrinting preferences\n.\nWindows 8\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the\nUtility\ntab, then\nSpeed and Progress\n.\nSelect the\nAlways Spool RAW Datatype\nand\nCoarse Rendering\ncheckboxes, then click\nOK\n.\nNote:\nIf the\nProcessed by Printer\ncheckbox is selected, deselect it.\nTry printing again.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-00009e8-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF6200PE~faq-00009e8-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:54.856555"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF6200PE~faq-0000f4d-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:55.746976"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "Does my product have a built-in cutter?",
+          "answer": "Yes. You can use the built-in cutter to cut media manually or to cut media automatically after printing each page.\nRelated tasks\nCutting Media\nReplacing the Cutter",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286435?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCF6200PE~faq-286435",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:56.683918"
+        },
+        {
+          "question": "Is a heat press included with my product?",
+          "answer": "No, a heat press is not included. Contact an Epson authorized reseller for more information about recommended heat press equipment.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286433?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCF6200PE~faq-286433",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:57.580447"
+        },
+        {
+          "question": "How many print heads does my product have?",
+          "answer": "The printer has one print head.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286434?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCF6200PE~faq-286434",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:58.470854"
+        },
+        {
+          "question": "Where can I get product training?",
+          "answer": "For in-depth or on-site training, please contact your Epson authorized reseller for availability and pricing.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286421?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCF6200PE~faq-286421",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:45:59.371473"
+        },
+        {
+          "question": "What are the user replaceable parts for my product?",
+          "answer": "See below.\nConsumables and Replacement Parts\nYou can purchase genuine Epson ink packs, paper, and accessories from an Epson authorized reseller. To find the nearest reseller, call 800-GO-EPSON (800-463-7766).\nCaution:\nUsing ink from an non-genuine ink pack may result in a malfunction. Epson shall not be held responsible for any damages or problems with the product that may occur when using non-genuine ink packs.\nConsumable\nPart number\nHigh-Density Black\nT741X00\nCyan\nT741200\nMagenta\nT741300\nYellow\nT741400\nReplacement part\nPart number\nAuto cutter spare blade\nS902006\nRoll adapter\nC12C811391\nWaste ink bottle\nT724000\nHead maintenance kit\nS210042\nRelated tasks\nReplacing the Chip Unit and Refilling Ink\nReplacing the Cutter\nReplacing the Waste Ink Bottle",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286438?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCF6200PE~faq-286438",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:46:00.412064"
+        },
+        {
+          "question": "Will my product print on fabric?",
+          "answer": "No, it does not print directly on fabric. It prints on media that can be transferred to fabric. See the link below.\nRelated references\nPaper Specifications",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286430?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCF6200PE~faq-286430",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:46:01.308038"
+        },
+        {
+          "question": "Who do I contact for support?",
+          "answer": "Contact Epson. If the printer requires service, contact Epson at (888) 377-6611 to schedule a service call.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286422?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCF6200PE~faq-286422",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:46:02.196713"
+        },
+        {
+          "question": "Is an optional take-up reel available?",
+          "answer": "No, an optional take-up reel is not available for the printer.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-286436?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCF6200PE~faq-286436",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:46:03.080977"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SCF6200PE~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCF6200PE~faq-0000f4a-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-F6200/s/SPT_SCF6200PE",
+          "fetched_at": "2026-04-02T02:46:04.014851"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

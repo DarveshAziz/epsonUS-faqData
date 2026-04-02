@@ -1,0 +1,376 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Impact Printers",
+  "series": "DFX Series",
+  "model": {
+    "name": "Epson DFX-8000",
+    "sku": "SPT_C030001",
+    "url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C030001~faq-00004b0-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:19.460331"
+        },
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-000096d-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C030001~faq-000096d-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:20.746193"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C030001~faq-00004dc-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:21.890186"
+        },
+        {
+          "question": "My product is not starting printing at the right position on the paper. How can I change the top-of-form setting?",
+          "answer": "You can change the starting print position by using the MICROFEED feature on the printer's control panel. Load your paper and wait until it stops feeding. Once it has stops press the TOF button to enter top-of-form mode. Then use the MICROFEED UP arrow or MICROFEED DOWN arrow to adjust the top-of-form position. The printer will beep continuously and will not move anymore when it has reached the maximum adjustment point. Once you have the paper where you want it, press the TOF button again.",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-40804?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C030001~faq-40804",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:23.024788"
+        },
+        {
+          "question": "My software program doesn't have a driver for my product. What printer driver should I choose?",
+          "answer": "The DFX-5000 is the best choice if the DFX-8000 is not listed. You can also use the FX-850/1050, FX-86e/286e, EX-800/1000, FX-85/185, FX-80+/100+, FX-80/100, FX series, EX series, LX series, RX series, MX series, 9-pin printer, standard printer, or draft printer drivers.",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-40787?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C030001~faq-40787",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:24.182404"
+        },
+        {
+          "question": "Does my product use dip switches to change default settings?",
+          "answer": "Yes, the DFX-8000 has three sets of dip switch settings so you can easily change the printer's default settings. To find out what your current settings are, print out the self-test.",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-40807?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C030001~faq-40807",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:25.296345"
+        },
+        {
+          "question": "Can I switch between tractors using ESC codes?",
+          "answer": "Yes, you can. If you install the optional paper cutter in the printer you can use escape codes to determine which tractor is used. The escape code and parameters used for switching loading positions is: 27, 25, n - where n is \"66\" for loading paper from the rear tractor or \"70\" to load paper from the front tractor.",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-40806?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C030001~faq-40806",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:26.398689"
+        },
+        {
+          "question": "What settings do the DIP switches control?",
+          "answer": "The DFX-8000 has three 8-position DIP switches. These switches are located at the lower front cover of the printer under a small access door.\nSwitch\nON\nOFF\nSW 1-1\nCondensed\n10 Pitch\nSW 1-2\nSlashed Zero\nNormal Zero\nSW 1-3\nGraphic Characters\nItalic Characters\nSW 1-4\nIBM Emulation\nEpson ESC/P\nSW 1-5\nNLQ\nDraft\nCountry\nSW 1-6\nSW 1-7\nSW 1-8\nUSA\nON\nON\nON\nFrance\nON\nON\nOFF\nGermany\nON\nOFF\nON\nUnited Kingdom\nON\nOFF\nOFF\nDenmark\nOFF\nON\nON\nSweden\nOFF\nON\nOFF\nItaly\nOFF\nOFF\nON\nSpaln\nOFF\nOFF\nOFF\nSwitch\nON\nOFF\nSW 2-1\nUser Defined\nCharacter Set\nROM Character set\nSW 2-2\nNormal Draft\nHigh Speed Draft\nSW 2-3\n7 Bit serial\nword length\n8 Bit serial\nword length\nSW 2-4\nCR Produces CR + LF\nCR Only\nInterface\nSW 2-5\nSW 2-6\nParallel\nOFF\nOFF\nSerial/Odd\nOFF\nON\nSerial/Even\nON\nOFF\nSerial/None\nON\nON\nBaud\nSW2-7\nSW2-8\n19200\nOFF\nOFF\n9600\nOFF\nON\n1200\nON\nOFF\n300\nON\nON\nSwitch\nON\nOFF\nSW 3-1 Input Buffer\nValid\nInvalid\nSW 3-2 Page Length\n12 inches\n11 inches\nSW 3-3 1-inch skip over perf\nValid\nInvalid\nSW 3-4 Paper Memory\nMemory 2\nMemory 1\nSwitch\nON\nOFF\nSW 3-5 Overlapping Multi-part\nforms\nValid\nInvalid\nSW 3-6 Multi-part forms with\nlabels\nValid\nInvalid\nSW3-7 Ski over binding\nON\nOFF\nSW 3-8 Handshaking protocol\nX-on/X-off\nDTR",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-52315?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C030001~faq-52315",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:26.137465"
+        },
+        {
+          "question": "My product beeps (five sets of four beeps) and will not load paper. Why won't it load paper?",
+          "answer": "If the printer does five sets of four beeps (with a pause in between each set), the paper may not be installed correctly or there may be a paper jam. Remove the paper and check to see if there is any paper jammed in the printer. Reinstall the paper onto the tractor unit and try printing again. If the problem persists, have the printer taken in to be serviced.",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-40798?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C030001~faq-40798",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:27.256971"
+        },
+        {
+          "question": "My product does two sets of three beeps. What does that mean?",
+          "answer": "This error occurs when there is a carriage error. Turn the printer off and remove the paper. Check to see if there is any paper jammed in the printer. Reinstall the paper onto the tractor unit and try printing again. If the problem persists, have the printer taken in to be serviced.",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-40805?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C030001~faq-40805",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:28.460518"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Can I print on checks that are 3-inches in length?",
+          "answer": "Yes, you can print on special sized papers. In Windows, you need to setup the printer options for a User Defined Page Size.",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-40782?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C030001~faq-40782",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:29.722913"
+        },
+        {
+          "question": "How can I print barcodes?",
+          "answer": "This model does not have bar codes built-in. To print bar codes you will need to use an application that will send them graphically. You may want to check with a local computer supply store to see if they have such an application.",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-49446?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C030001~faq-49446",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:30.984385"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "My product beeps (five sets of four beeps) and will not load paper. Why won't it load paper?",
+          "answer": "If the printer does five sets of four beeps (with a pause in between each set), the paper may not be installed correctly or there may be a paper jam. Remove the paper and check to see if there is any paper jammed in the printer. Reinstall the paper onto the tractor unit and try printing again. If the problem persists, have the printer taken in to be serviced.",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-40798?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C030001~faq-40798",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:32.092642"
+        },
+        {
+          "question": "I was printing labels and one of the labels peeled off. Now my paper won't feed. Can I remove the platen to get the label out?",
+          "answer": "No, you cannot remove the platen from the printer. If you press the FRONT/REAR button to select the paper path and the label does not appear on the platen for you to remove, you will need to have the printer serviced. When printing labels, it is recommended that you only print with the front push tractor and do not reverse feed the labels. Labels have a tendency to curl and peel off underneath the platen when being fed through the rear push tractor.",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-34062-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C030001~faq-34062-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:33.189347"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "How do I create a custom paper size in the Server Properties?",
+          "answer": "Follow these steps to create a new page size accessible by all printer drivers installed in Windows:\nOpen the\nPrinters\nor\nPrinters and Faxes\nwindow.\nClick\nFile\n, then\nServer Properties\n.\nPut a check in the\nCreate a new form\nbox.\nInput a name for the custom paper size.\nUnder\nPaper Size\n, enter the desired height and width.\nClick\nSave\nor\nSave Form\nto add the new form size to the list, then\nOK\nto close Server Properties.",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-140642?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C030001~faq-140642",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:34.304328"
+        },
+        {
+          "question": "There is paper loaded on the tractor unit. Why won't my product load paper?",
+          "answer": "If you are using letter size (8.5\" x 11\") paper, make sure the paper is loaded over to the left side of the printer. The paper sensor is located on the left side of the printer. If the sensor does not sense that there is paper loaded, the printer will not operate properly.",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-40795?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C030001~faq-40795",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:35.430994"
+        },
+        {
+          "question": "Why doesn't remote paper path switching work?",
+          "answer": "The only time the printer can change paper paths is when the optional paper cutter has been installed on the printer.\nIf the paper cutter is not installed, the printer would have to pull back through all the pages it had just printed and then change tractors. if you had a 20 or more page report, that would be a lot of paper being pulled back through the printer.\nSo, the change tractor code will not work with out the optional paper cutter.\nYou can get more information on the paper cutter by contacting the Epson Store.",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-49447?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C030001~faq-49447",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:36.592549"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "My product is not starting printing at the right position on the paper. How can I change the top-of-form setting?",
+          "answer": "You can change the starting print position by using the MICROFEED feature on the printer's control panel. Load your paper and wait until it stops feeding. Once it has stops press the TOF button to enter top-of-form mode. Then use the MICROFEED UP arrow or MICROFEED DOWN arrow to adjust the top-of-form position. The printer will beep continuously and will not move anymore when it has reached the maximum adjustment point. Once you have the paper where you want it, press the TOF button again.",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-40804?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C030001~faq-40804",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:37.739788"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Some video drivers may cause a conflict in memory between the printerdriver and video memory. Try changing to the Windows video driver provided by Microsoft or check to see if the video card manufacturer has an updated video driver available. This is often the cause of strange printing problems such as missing characters or lines through the printed document.\nBroken printhead pins may also cause this problem. If the problem continues when performing the printer's self test then the printhead is most likely the problem. This would need to be serviced by an Epson authorized repair center.",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-49443?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C030001~faq-49443",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:38.850893"
+        },
+        {
+          "question": "I get incorrect print on labels or other custom paper sizes. What should I do?",
+          "answer": "When printing on Custom paper sizes, you should use the EPSON FX-1050 driver ( in the Print Wizard), here are the steps to take:\n1) From the Desktop click Start\n2) Go to Settings\n3) Go to Printers\n4) Highlight the EPSON FX-1050 printer and click File, then Properties\n5) Go to Details and Setup\n6) For the Paper go to custom and click on it (this will give options to change paper sizes).\n7) Once paper size has been made ensure that you click OK to keep the setting.",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-49448?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C030001~faq-49448",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:39.929652"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "Can I connect the product to an IBM mainframe (IBM 3270) and IBM minicomputer (AS/400 or System 3X) environments?",
+          "answer": "Yes, Sherwood Digital Electronics manufactures and distributes Type-A Twinax and// interface cards which enable users to attach their DFX-8000 printers to IBM 3270, System 3X, or AS/400 systems. The Twinax and Coax interface cards are available through EPSON Accessories.",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-40788?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C030001~faq-40788",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:41.129520"
+        },
+        {
+          "question": "My software program doesn't have a driver for my product. What printer driver should I choose?",
+          "answer": "The DFX-5000 is the best choice if the DFX-8000 is not listed. You can also use the FX-850/1050, FX-86e/286e, EX-800/1000, FX-85/185, FX-80+/100+, FX-80/100, FX series, EX series, LX series, RX series, MX series, 9-pin printer, standard printer, or draft printer drivers.",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-40787?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C030001~faq-40787",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:42.385738"
+        },
+        {
+          "question": "What are the common escape codes for my product?",
+          "answer": "Some commonly used escape codes include (in decimal values) -Reset (27, 64); Set page length in lines (27, 67, n - where n is a number from 1 to 127); Carriage return (13); Line feed (10); Form feed (12); Select 1/8-inch line spacing (27, 48); 10 cpi (27, 80); 12 cpi (27, 77); Select bold font (27, 69); Cancel bold font (27, 70); Select italic font (27, 52); Cancel italic font (27, 53); Turn underline on/off (27, 45, n - where n equals 49=ON or 48=OFF); Select condensed print (15); Cancel condensed print (18). For more escape codes, please refer to the Command Summary of your User's Manual. If you need to use advanced escape codes for programming purposes, you can purchase an ESC/P Reference Manual from EPSON Accessories.",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-40800?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C030001~faq-40800",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:43.601570"
+        },
+        {
+          "question": "Can my product emulate an IBM Proprinter?",
+          "answer": "Yes, the printer has a built-in IBM Proprinter emulation selectable through the dip switch settings.",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-40803?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C030001~faq-40803",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:44.759612"
+        },
+        {
+          "question": "Does my product use dip switches to change default settings?",
+          "answer": "Yes, the DFX-8000 has three sets of dip switch settings so you can easily change the printer's default settings. To find out what your current settings are, print out the self-test.",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-40807?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C030001~faq-40807",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:45.868932"
+        },
+        {
+          "question": "Can I switch between tractors using ESC codes?",
+          "answer": "Yes, you can. If you install the optional paper cutter in the printer you can use escape codes to determine which tractor is used. The escape code and parameters used for switching loading positions is: 27, 25, n - where n is \"66\" for loading paper from the rear tractor or \"70\" to load paper from the front tractor.",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-40806?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C030001~faq-40806",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:46.974777"
+        },
+        {
+          "question": "What settings do the DIP switches control?",
+          "answer": "The DFX-8000 has three 8-position DIP switches. These switches are located at the lower front cover of the printer under a small access door.\nSwitch\nON\nOFF\nSW 1-1\nCondensed\n10 Pitch\nSW 1-2\nSlashed Zero\nNormal Zero\nSW 1-3\nGraphic Characters\nItalic Characters\nSW 1-4\nIBM Emulation\nEpson ESC/P\nSW 1-5\nNLQ\nDraft\nCountry\nSW 1-6\nSW 1-7\nSW 1-8\nUSA\nON\nON\nON\nFrance\nON\nON\nOFF\nGermany\nON\nOFF\nON\nUnited Kingdom\nON\nOFF\nOFF\nDenmark\nOFF\nON\nON\nSweden\nOFF\nON\nOFF\nItaly\nOFF\nOFF\nON\nSpaln\nOFF\nOFF\nOFF\nSwitch\nON\nOFF\nSW 2-1\nUser Defined\nCharacter Set\nROM Character set\nSW 2-2\nNormal Draft\nHigh Speed Draft\nSW 2-3\n7 Bit serial\nword length\n8 Bit serial\nword length\nSW 2-4\nCR Produces CR + LF\nCR Only\nInterface\nSW 2-5\nSW 2-6\nParallel\nOFF\nOFF\nSerial/Odd\nOFF\nON\nSerial/Even\nON\nOFF\nSerial/None\nON\nON\nBaud\nSW2-7\nSW2-8\n19200\nOFF\nOFF\n9600\nOFF\nON\n1200\nON\nOFF\n300\nON\nON\nSwitch\nON\nOFF\nSW 3-1 Input Buffer\nValid\nInvalid\nSW 3-2 Page Length\n12 inches\n11 inches\nSW 3-3 1-inch skip over perf\nValid\nInvalid\nSW 3-4 Paper Memory\nMemory 2\nMemory 1\nSwitch\nON\nOFF\nSW 3-5 Overlapping Multi-part\nforms\nValid\nInvalid\nSW 3-6 Multi-part forms with\nlabels\nValid\nInvalid\nSW3-7 Ski over binding\nON\nOFF\nSW 3-8 Handshaking protocol\nX-on/X-off\nDTR",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-52315?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C030001~faq-52315",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:48.146518"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C030001~faq-00004dc-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:49.343500"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "Why does my product stop or pause in the middle of a print job?",
+          "answer": "The printer has a built-in sensor that monitors the temperature of the print head. When the print head begins to get too hot, the printer may pause or slow down the speed of the print head unit to ensure that the print head does not overheat. If the print head begins to overheat, the thermistor will stop the print head completely until it has cooled down. Once the print head has sufficiently cooled down, the printer will resume the print job. Another reason for the printer to pause or stop can be that the printer is waiting for more data or is in the middle of processing data already received.",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-40796?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C030001~faq-40796",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:50.538071"
+        },
+        {
+          "question": "What is the recommended duty cycle for my product?",
+          "answer": "The specification recommended is 25 percent. Epson America's definition of a 25 percent duty cycle stands for the printer printing (not idle) for two hours per day based on an eight hour day at 22 days per month.",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-40790?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C030001~faq-40790",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:51.752594"
+        },
+        {
+          "question": "Why does my product beep four times?",
+          "answer": "The printer has a sensor that will not allow jobs to be printed if the printer top cover is open. Close the top cover and press the PAUSE button to put the printer online.",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-40797?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C030001~faq-40797",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:52.843914"
+        },
+        {
+          "question": "My product does two sets of three beeps. What does that mean?",
+          "answer": "This error occurs when there is a carriage error. Turn the printer off and remove the paper. Check to see if there is any paper jammed in the printer. Reinstall the paper onto the tractor unit and try printing again. If the problem persists, have the printer taken in to be serviced.",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-40805?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C030001~faq-40805",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:53.949097"
+        },
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-000096d-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C030001~faq-000096d-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:55.325880"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C030001~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C030001~faq-00004b0-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-8000/s/SPT_C030001",
+          "fetched_at": "2026-04-02T04:49:56.451791"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

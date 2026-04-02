@@ -1,0 +1,382 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "Epson Stylus Series",
+  "model": {
+    "name": "Epson Stylus Pro XL",
+    "sku": "SPT_C162081",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-0000ad0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C162081~faq-0000ad0-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:38:31.564178"
+        },
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-000096d-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C162081~faq-000096d-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:38:32.481022"
+        },
+        {
+          "question": "Does OS X support manual duplex printing with my product?",
+          "answer": "This feature is not supported in Mac OS X. However, if your printer has a built-in automatic duplexer, auto-duplexing is supported in Mac OS X 10.6 (Snow Leopard).",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-0000c1d-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C162081~faq-0000c1d-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:38:33.341150"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C162081~faq-00004b0-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:38:34.264405"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C162081~faq-00004dc-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:38:35.423448"
+        },
+        {
+          "question": "Are the ink cartridges refillable?",
+          "answer": "EPSON does not recommend refilling ink cartridges. Refilled cartridges can cause print quality problems. In the printer's User's Guide, we advise \"Use only genuine EPSON ink cartridges and do not refill them. Other products may cause damage not covered by EPSON's warranty\".",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-0000aaf-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C162081~faq-0000aaf-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:38:36.351475"
+        },
+        {
+          "question": "Calibration doesn't seem to have any effect. What should I do?",
+          "answer": "Make sure that whenever you turn off the printer, you are always using the printer's power button. Never use an external switch, such as a power strip, surge protector, or power protector, to turn off the printer. If you turn the printer off using an external switch, calibration settings will not be saved.",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-0000ab0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C162081~faq-0000ab0-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:38:37.311293"
+        },
+        {
+          "question": "How do I use Epson iron-on transfers?",
+          "answer": "Using New and Improved EPSON Iron-On Cool Peel Transfers\nIf you've enjoyed EPSON Iron-On transfers before, you'll like these even more!\nHere's why:\nCool peel process makes it easy for everyone in the family to share in creating iron-on projects!\nImproved image quality and resolution!\nSuperior image feel and fabric texture before and after washing!\nWith EPSON Iron-On Cool Peel Transfers, you can transfer your images and photos to T-shirts, sweatshirts, tablecloths, napkins, aprons, or just about any cotton or cotton-blend fabric. For best results, use light colored material with a smooth texture.\nIt is available from the Epson Store or through your local computer retailer.\nWhat You'll Need\nBefore you start, make sure you have these items:\n* EPSON Iron-On Cool Peel Transfers\n* Any EPSON Color ink jet printer\n* Flat, hard, smooth, non-porous ironing surface thatwill not be damaged by heat.\nDo not use an ironing board, wood, glass or metal.\n* Pillowcase\n* Item to receive transfer image (T-shirt. apron. etc.)\n* Hand iron or heat press\nNote: If using a commercial heat press, set the temperature for 375 degrees F and press for 20 seconds.\nCreating the Image\nYou can use any application to create the image. Just make you that you select the \"Flip Horizontal\" option in the EPSON stylus Printer driver so the image will be transferred correctly onto the fabric. If your image does not include any text, you may not need to reverse the image when printing it.\nPrinting the Image\nWhen you are ready to print your image, follow these steps:\n1. In the EPSON Stylus printer driver select \"360 dpi + Ink Jet Paper\" for the Media Type. (This setting will also automatically select 360 dpi for the Print Quality setting.)\n2. Make sure you select \"Flip Horizontal\" in afely to one side.Wait between one and two minutes for the transfer to cool starting with any corner. Peel the transfer sheet away from the fabric item. Removing the paper may be more difficult if it is allowed to cool for too long.\nIroning a Small Image\nSmall images (4\" x 4\" or less) are easier to transfer than larger ones.\n1. Start with the iron on one side of the transfer. Slowly movethe iron across the transfer for 5 seconds. This will secure the transfer onto the fabric item.\n2. Pressing firmly, wiggle the iron over the image, moving it constantly for 45 seconds to 1 minute. Be sure not to scorch your fabric item.\n3. Set the iron safely to one side. Wait between one and two minutes for the transfer to cool. Starting with any corner, peel the transfer sheet away from the fabric item. Removing the paper may be more difficult if it is allowed to cool for too long.\nTip\nIf you will be applying more than one image on the fabric, make sure they are spaced far enough apart so you can iron one without touching another image that has already been transferred.\nWashing Your New Creation\nYour new EPSON transfer creation is sturdy and machine washable, but you can protect the color and quality by following these simple washing guidelines:\nWash in cold water only. If possible, use a detergent with color protection.\nIf you are washing a T-shirt or other similar garment, turn it inside out before washing. Wash it by itself as the some colors may run slightly the first time it is washed. If the colors run, they will usually wash out the second time the article is washed.\nRemove the article as soon as the washing machine completes its cycle. Colors may run if the article is allowed to sit before drying.\nDry it in the dryer with normal settings.\nEPS0N and EPSON Stylus are registered trademarks of Seiko Epson Corporation Copyright (1997)* by Seiko Epson Corporation",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-45690?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C162081~faq-45690",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:38:38.241184"
+        },
+        {
+          "question": "My product is making a noise when printing. What should I do?",
+          "answer": "First make sure the knob on the right side of the printer is not pushed up againstanything. That knob should be free from obstruction. You should be able to push it in and out and rotate it.\nTry the following:\nWith the printer off, press the knob on the right and turn it clockwise a few times. Then do the following factory reset:\n(1) Make sure it's off.\n(2) Hold down all the buttons except for the economy/condensed button and turn the printer on.\n(3) Keep holding all four buttons till you see all the lights go on the out. It should initialize as always.",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-45688?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C162081~faq-45688",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:38:39.250099"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-0000f4a-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C162081~faq-0000f4a-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:38:40.203865"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Does OS X support manual duplex printing with my product?",
+          "answer": "This feature is not supported in Mac OS X. However, if your printer has a built-in automatic duplexer, auto-duplexing is supported in Mac OS X 10.6 (Snow Leopard).",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-0000c1d-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C162081~faq-0000c1d-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:38:41.123411"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "I see an EPIRPE xxx type error when I send print jobs to my product. What should I do?",
+          "answer": "There are three probable solutions to this issue. Examine the three solutions shown below to see if one resolves your issue...\n1. The Journal file(s) is damaged or corrupted due to a system lock up or crash during printing.a. Go to MS-DOS prompt window,\nb. Type CD\\ , (this will change to the root directory, C:\\)\nc. Type DIR *.JNL /S , (this will search the HDD for all Journal files)\nd. Navigate to the directory where the *.JNL files are located,\ne. Once in the directory, type DEL *.JNL, (this will delete the *.JNL files)\n2. The directory that Windows uses to store temporary files is full. a. Close all programs and open Windows Explorer,\nb. Go to the Temporary directory, (e.g. C:\\TEMP, C:\\WINDOWS\\TEMP...)\nc. Delete all files, not folders, within this Temporary directory,\n3. The Adobe Type Manager is conflicting with the printer driver.a. Open Windows Notepad program,\nb. Click on FILE, OPEN then browse to the C:\\WINDOWS directory,\nc. Select and open the SYSTEM.INI file,\nd. Type \" ; \" (a semicolon) in front of the SYSTEM.DRV=ATMSYS.DRV,\ne. Press the \"End\" key, then \"Enter\" key, (this creates a new line)\nf. Type SYSTEM.DRV=SYSTEM.DRV\ng. Click on FILE, SAVE, then exit the program.",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-45678?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C162081~faq-45678",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:38:42.139104"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "Which ink cartridges should I use with my product?",
+          "answer": "Use the following Epson ink cartridges with the Epson Stylus ProXL.\nInk cartridge\nPart number\nBlack\nS020034\nColor\nS020036",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-45680?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C162081~faq-45680",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:38:43.056998"
+        },
+        {
+          "question": "Are the ink cartridges refillable?",
+          "answer": "EPSON does not recommend refilling ink cartridges. Refilled cartridges can cause print quality problems. In the printer's User's Guide, we advise \"Use only genuine EPSON ink cartridges and do not refill them. Other products may cause damage not covered by EPSON's warranty\".",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-0000aaf-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C162081~faq-0000aaf-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:38:44.096859"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "How do I use Epson iron-on transfers?",
+          "answer": "Using New and Improved EPSON Iron-On Cool Peel Transfers\nIf you've enjoyed EPSON Iron-On transfers before, you'll like these even more!\nHere's why:\nCool peel process makes it easy for everyone in the family to share in creating iron-on projects!\nImproved image quality and resolution!\nSuperior image feel and fabric texture before and after washing!\nWith EPSON Iron-On Cool Peel Transfers, you can transfer your images and photos to T-shirts, sweatshirts, tablecloths, napkins, aprons, or just about any cotton or cotton-blend fabric. For best results, use light colored material with a smooth texture.\nIt is available from the Epson Store or through your local computer retailer.\nWhat You'll Need\nBefore you start, make sure you have these items:\n* EPSON Iron-On Cool Peel Transfers\n* Any EPSON Color ink jet printer\n* Flat, hard, smooth, non-porous ironing surface thatwill not be damaged by heat.\nDo not use an ironing board, wood, glass or metal.\n* Pillowcase\n* Item to receive transfer image (T-shirt. apron. etc.)\n* Hand iron or heat press\nNote: If using a commercial heat press, set the temperature for 375 degrees F and press for 20 seconds.\nCreating the Image\nYou can use any application to create the image. Just make you that you select the \"Flip Horizontal\" option in the EPSON stylus Printer driver so the image will be transferred correctly onto the fabric. If your image does not include any text, you may not need to reverse the image when printing it.\nPrinting the Image\nWhen you are ready to print your image, follow these steps:\n1. In the EPSON Stylus printer driver select \"360 dpi + Ink Jet Paper\" for the Media Type. (This setting will also automatically select 360 dpi for the Print Quality setting.)\n2. Make sure you select \"Flip Horizontal\" in afely to one side.Wait between one and two minutes for the transfer to cool starting with any corner. Peel the transfer sheet away from the fabric item. Removing the paper may be more difficult if it is allowed to cool for too long.\nIroning a Small Image\nSmall images (4\" x 4\" or less) are easier to transfer than larger ones.\n1. Start with the iron on one side of the transfer. Slowly movethe iron across the transfer for 5 seconds. This will secure the transfer onto the fabric item.\n2. Pressing firmly, wiggle the iron over the image, moving it constantly for 45 seconds to 1 minute. Be sure not to scorch your fabric item.\n3. Set the iron safely to one side. Wait between one and two minutes for the transfer to cool. Starting with any corner, peel the transfer sheet away from the fabric item. Removing the paper may be more difficult if it is allowed to cool for too long.\nTip\nIf you will be applying more than one image on the fabric, make sure they are spaced far enough apart so you can iron one without touching another image that has already been transferred.\nWashing Your New Creation\nYour new EPSON transfer creation is sturdy and machine washable, but you can protect the color and quality by following these simple washing guidelines:\nWash in cold water only. If possible, use a detergent with color protection.\nIf you are washing a T-shirt or other similar garment, turn it inside out before washing. Wash it by itself as the some colors may run slightly the first time it is washed. If the colors run, they will usually wash out the second time the article is washed.\nRemove the article as soon as the washing machine completes its cycle. Colors may run if the article is allowed to sit before drying.\nDry it in the dryer with normal settings.\nEPS0N and EPSON Stylus are registered trademarks of Seiko Epson Corporation Copyright (1997)* by Seiko Epson Corporation",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-45690?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C162081~faq-45690",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:38:45.060863"
+        },
+        {
+          "question": "My product doesn't feed paper correctly. What should I do?",
+          "answer": "Here are a few suggestions to try:\nYou can try using the Epson cleaning sheet (has a sticky side) to pick up any excess paper residue. It's available from the Epson Store.\nTry loading heavier stock paper, such as 24 lb. paper, if you haven't done so already.\nMake sure there is 1/16 to 1/32 inch space on each side of the paper in the paper tray.\nMove the paper type selector back and forth 5 times, to make sure it is not stuck.\nFeed the tray with a minimum of 20 sheets of paper and try to see if it loads paper through.\nThe paper thickness lever has two settings, one for plain paper, (thin paper 20# to 24#) and one for envelopes and thick paper.\nIt should be on the 0 setting for thin paper and on the + setting for thick paper and envelopes.\nThe paper adjustment lever may be adjusted in between the two settings to accommodate paper that is not standard or that the operating/environmental conditions have changed.\nMake sure the paper is loaded far enough into the printer to ensure good contact between the paper and the paper feed mechanism.\nReload the paper\nIf the printer continues to feed too many sheets, the paper may be sticking together (due to humidity)For testing purposes, try the following:\n1. Place 20-30 sheets of paper in a microwave oven for 3/4 seconds on the medium setting (to dry the paper)\n2. Fan the paper, separating each sheet to ensure that the paper is not sticking together.\n3. Reload the paper into the printer.\n4. Test print your document.\nIf all else fails change the brand or type of paper used, the paper specifications are located in the printer's user's manual.",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-51849?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C162081~faq-51849",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:38:46.075606"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "My printout has incorrect margins. What should I do?",
+          "answer": "The paper may be loaded incorrectly. Make sure that the left and right edge guides are flush against both sides of the paper. Make sure the margins are set correctly in your software application (margins are not adjustable via the printer driver), and make sure you are not trying to print outside of the printable area of the page for your paper size (printable area of the page specifications are available in the User's Manual). Make sure the correct paper size is selected in the printer driver settings.",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-36894?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C162081~faq-36894",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:38:47.182502"
+        },
+        {
+          "question": "The printed output I am getting is unacceptable. What should I do?",
+          "answer": "Make sure the Economy light on the printer is not on, and if printing on EPSON special coated paper, ensure that you are printing on the coated side of the paper. If the Economy light is on, press the Economy/Condensed button multiple times until the Economy/Condensed lights are both off. Economy mode is only intended for printing rough drafts and should not be enabled for normal printing. Try printing again. If printing has not improved, perform a cleaning cycle. For COLOR Cleaning press the Pause button, then push ALT and Economy/Condensed; or for BLACK Cleaning press the Pause button, then ALT and Load/Eject. Print the self test page to see if printing has improved (Power on the printer while holding down the Load/Eject button for 10 seconds or until the data light comes on or paper loads). If the quality is acceptable, verify that the correct driver is selected as the default driver. Make sure that COLOR is selected in the driver. Ensure that HALFTONING is NOT selected in the driver. You may want to manipulate the settings within the application to achieve the optimum print results. If the quality from the self test page is not acceptable, replace the ink cartridge. Additional Troubleshooting information is located in the Users Manual. If the print quality is still unacceptable, have the printer sent in for repair.",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-36882?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C162081~faq-36882",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:38:48.159217"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "This phenomena is called banding and may be caused by a clogged nozzle. Print the self test page by pressing the Load/Eject button while applying power to the printer. Check to see if white lines appear through your text. If the white lines are present, perform two cleaning cycles as described under the front cover of the printer; (COLOR Cleaning)-Press the PAUSE button, then ALT and Economy Condensed, or (BLACK Cleaning)-Press the PAUSE button, then ALT and Load/Eject. If the ink cartridge is new and the cleaning cycles did not correct the problem, print the default settings (Press Economy/Condensed and power the printer on) to ensure that \"Autoline Feed\" is off. If the \"Autoline Feed\" is off, and the test print still shows missing dots, have the printer sent in for repair. If the ink cartridge is old, and the cleaning cycles did not correct the problem, print the default settings to ensure that \"Autoline Feed\" is off. If the \"Autoline Feed\" is off, replace the ink cartridge. You may have to perform a few cleaning cycles after installing the new ink cartridge. Banding may also occur if the user turns the printer off by a power bar. If this is the case, the user may need to run up to 10 cleaning cycles to correct the problem. If the condition persists and it is visible in the demo page, the printer needs to be serviced. The Troubleshooting Guide located in Chapter Six of the User's Manual provides additional information.",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-36896?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C162081~faq-36896",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:38:49.121094"
+        },
+        {
+          "question": "I am not getting either black or color on the self test page. What should I do?",
+          "answer": "Make sure the economy light on the printer is not on. This will ensure that the economy mode option is not selected. Using the instructions on the inside front cover of the printer as a guide, perform a black and then a color cleaning cycle; (COLOR Cleaning)-Press the PAUSE button, then ALT and Economy Condensed, or (BLACK Cleaning)-Press the PAUSE button, then ALT and Load/Eject. If this does not correct the problem, replace the appropriate ink cartridge.",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-36897?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C162081~faq-36897",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:38:50.043205"
+        },
+        {
+          "question": "One of my colors is missing. What should I do?",
+          "answer": "Calibrate colors in the driver setup to the specific application or image. Set to Default and adjust from there. Perform self test (Press Load/Eject and power printer on) and check that seven colors are produced. If seven colors are not produced, print the default settings (Press Economy/Condensed and power printer on) to inspect dots. If test print shows missing dots, perform two cleaning cycles; (COLOR Cleaning)-Press the PAUSE Button, then, Alt and Economy Condensed 'OR' (BLACK Cleaning) Press the PAUSE, then, Alt and Load/Eject. Run the self test again to see if printing has improved. If the self test is still missing one of the four colors, try replacing the ink cartridge. If the condition persists, have the printer sent in for repair.",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-36899?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C162081~faq-36899",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:38:51.043030"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Scan",
+      "section_id": "8796127569996",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "What scanning resolution should I use to get the best results when I print the scanned image?",
+          "answer": "The Line Screen Frequency for EPSON Stylus printers can be calculated using the following formula:\nPrinting\nResolution\n____________\n3\nX\n1\n___\n2\n=\nLine Screen\nFrequency\nYou should set the minimum scan resolution at 1/3rd of the desired print resolution. For example, for a print resolution of 720dpi, you will need to set the scan resolution to 240dpi or higher. If you are going to increase the size of the printed image then you should scan at a higher dpi resolution.",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-45689?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C162081~faq-45689",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:38:52.006437"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "Calibration doesn't seem to have any effect. What should I do?",
+          "answer": "Make sure that whenever you turn off the printer, you are always using the printer's power button. Never use an external switch, such as a power strip, surge protector, or power protector, to turn off the printer. If you turn the printer off using an external switch, calibration settings will not be saved.",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-0000ab0-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C162081~faq-0000ab0-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:38:53.064854"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C162081~faq-00004dc-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:38:52.385371"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Wireless or Wired Connection",
+      "section_id": "8796127635532",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-0000ad0-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C162081~faq-0000ad0-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:38:53.306730"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 9,
+      "faqs": [
+        {
+          "question": "My product makes a grinding sound when I turn it on. What should I do?",
+          "answer": "Make sure the knob on the right side of the printer is not pushed in. If the knob Power the printer off and gently push the knob in then rotate the knob one turn and release the knob. Now try powering the printer back on. The sound should be gone.",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-36895?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C162081~faq-36895",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:38:54.366020"
+        },
+        {
+          "question": "Why won't my product do a self test?",
+          "answer": "Verify that the correct procedure for printing the self test has been performed. This problem is commonly caused by not holding down the required button long enough. Power on the printer while holding down the Load/Eject button until the data light comes on and the printer starts to load the paper. If the printhead is moving back and forth but there is no ink on the page, press pause, then turn the printer off. Using the instructions on the inside front cover of the printer as a guide, perform a two cleaning cycles; (COLOR Cleaning)-Press the PAUSE button, then ALT and Economy Condensed, or (BLACK Cleaning)-Press the PAUSE button, then ALT and Load/Eject. Try running the self test again. If self test still shows no ink on the page, contact the place of purchase for an exchange or send in the printer for service.",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-36898?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C162081~faq-36898",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:38:55.446393"
+        },
+        {
+          "question": "Why is there a loud noise when I print?",
+          "answer": "Make sure the knob on the right side of the printer is not pushed up against anything. That knob should be free from obstruction. You should be able to push it in and out and rotate it.",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-45681?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C162081~faq-45681",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:38:56.379861"
+        },
+        {
+          "question": "My product is making a noise when printing. What should I do?",
+          "answer": "First make sure the knob on the right side of the printer is not pushed up againstanything. That knob should be free from obstruction. You should be able to push it in and out and rotate it.\nTry the following:\nWith the printer off, press the knob on the right and turn it clockwise a few times. Then do the following factory reset:\n(1) Make sure it's off.\n(2) Hold down all the buttons except for the economy/condensed button and turn the printer on.\n(3) Keep holding all four buttons till you see all the lights go on the out. It should initialize as always.",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-45688?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C162081~faq-45688",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:38:57.343601"
+        },
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-000096d-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C162081~faq-000096d-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:38:58.464329"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C162081~faq-00004b0-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:38:59.451341"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C162081~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C162081~faq-0000f4a-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-XL/s/SPT_C162081",
+          "fetched_at": "2026-04-02T02:39:00.660962"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

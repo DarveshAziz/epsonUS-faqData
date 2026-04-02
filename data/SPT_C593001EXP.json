@@ -1,0 +1,1066 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "Epson Stylus Series",
+  "model": {
+    "name": "Epson Stylus Pro 4800 Portrait Edition",
+    "sku": "SPT_C593001EXP",
+    "url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "How do I set up color management for my product in Adobe PhotoShop on my Mac?",
+          "answer": "Do the following:\nOpen the\nFile\nmenu in Adobe Photoshop and select\nPrint\n.\nUnder Color Handling, select\nPrinter Manages Colors\n.\nClick\nPrint Settings\n.  A new window appears.\nUnder Orientation, select\nColor Matching\nfrom the pop-up                     menu.\nSelect\nEPSON Color Controls\n.\nMake sure the Color Settings are set to\nEPSON Standard                         (sRGB)\nunder Print Settings.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-0000623-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C593001EXP~faq-0000623-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:16.526265"
+        },
+        {
+          "question": "My printouts are dark when I print from Photoshop CS3 or later. What should I do?",
+          "answer": "While we do not assist with color profiling or color correction, you can try the                 following:\nUse latest version of Adobe Photoshop.\nMake sure your print head nozzles are clean and free from clogs.\nMake the following adjustment in Adobe Photoshop:\nSelect\nColor Management\nor\nOutput\n>\nOutput\nfrom Photoshop's print                             screen.\nClick\nTransfer\nand drag the middle of the curve                             to 40.0%.\nClick\nOK\n, then select\nColor                                 Management\n.\nSelect\nLet Photoshop manage color as normal\nand                             the appropriate printer profile.\nPrint your image. Because every photo is different, you may need to                             experiment with the Transfer Curve to find the level that best suits                             your needs.\nNote:\nMaking changes to the Transfer Curve does not alter                                 the original image. This curve affects the Shadows, Midtones, and                                 Highlights as a whole.\nMake the following adjustments in the Windows or Mac driver to lighten the                         image:\nAdjust the Gamma setting to 1.8.\nIncrease the Brightness bar to 5.\nNote:\nIf using a Mac, make sure the                                 Color Mode is EPSON Standard sRGB.\nSee the product's User Guide for more information in these settings.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-000062A-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C593001EXP~faq-000062A-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:17.437883"
+        },
+        {
+          "question": "How do I uninstall and reinstall my printer driver in OS X 10.6?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\n>\nPrint & Fax\n.\nSelect your printer in the list, click\n, then close the open windows.\nOpen your hard drive.\nSelect\nLibrary\n>\nPrinters\n>\nEpson\n>\ninkjet printers\n, then drag the plugin for your product to the trash. If there is no plugin for your product, drag the\nEpson\nfolder to the trash. Close the open windows.\nReinstall the driver for your product.\nOpen the\nmenu, select\nSystem Preferences\n>\nPrint & Fax\n.\nClick\n, then select your printer.\nClose the open windows.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-00009ff-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C593001EXP~faq-00009ff-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:18.348686"
+        },
+        {
+          "question": "How many prints can I print from an ink cartridge in my printer?",
+          "answer": "There are too many variables to provide a count. You can estimate the amount by printing a Job Information sheet from the printer's Test Print menu. This sheet provides the amount of ink used for the last 10 print jobs, which can help you calculate ink usage.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-00009e2-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C593001EXP~faq-00009e2-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:19.347924"
+        },
+        {
+          "question": "How do I determine my printer driver version on my Mac?",
+          "answer": "Open the\nmenu and select\nSystem Preferences\nor\nSystem Settings\n>\nPrinters & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n. Your printer driver version is displayed.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-00009e4-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C593001EXP~faq-00009e4-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:20.419535"
+        },
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-00009e9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C593001EXP~faq-00009e9-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:21.349081"
+        },
+        {
+          "question": "How do I create a custom paper size in Windows?",
+          "answer": "Do the following:\nRight-click your printer icon on the Windows task bar, then select\nPrinter Settings\n.\nIf necessary, select the\nMain\nor\nPaper\ntab.\nSelect your paper\nSource\nin the Paper Settings section.\nClick the\nUser Defined\nbutton or select\nUser                         Defined\nas the Size. A User Defined Paper Size window                     opens.\nEnter a Paper Size Name, then select the Paper Width and Paper Height.\nClick\nSave\n, then\nOK\n.\nClick\nOK\nagain.\nThe new paper size is created, and you can now select the new size from the Size             list.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-0000622-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C593001EXP~faq-0000622-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:22.258365"
+        },
+        {
+          "question": "How do I stop the printer from printing a nozzle check pattern before every print job?",
+          "answer": "Do the following on the product's control panel:\nPress\nMenu\ntwice, then select\nAuto Nozzle Check\n.\nPress\nMenu\n, then select\nOff",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-00009e1-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C593001EXP~faq-00009e1-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:23.272242"
+        },
+        {
+          "question": "There are vertical bands or lines on my printout.  What should I do?",
+          "answer": "Try the following:\nRun three auto print head alignments.\nMake sure High Speed is not selected.\nLower the dpi setting you selected to print.  If you selected 2880 dpi, lower                     the setting to 1440 dpi.\nMake sure the lines are not in the image source.\nMake sure you use the correct profile settings.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-000062B-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C593001EXP~faq-000062B-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:24.241609"
+        },
+        {
+          "question": "I see horizontal or vertical lines in my printout. What should I do?",
+          "answer": "Perform a nozzle check from the printer's control panel or the Epson printer driver, then do one of the following:\nIf there are gaps in the nozzle check pattern, clean the print head nozzles.\nIf there are no gaps in the nozzle check pattern, try the solutions below.\nHorizontal Banding\nIncrease the print resolution.\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nSelect an alternate paper profile for ink coverage.\nSelect the correct paper type in the printer driver.\nAdjust the paper feed\nVertical Banding\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nAlign the print head.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-00009eb-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C593001EXP~faq-00009eb-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:25.148671"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "After my product has finished printing, it ejects a blank sheet. What should I do?",
+          "answer": "You need to run the\nRear AD\nadjustment on the printer. Please contact Epson Technical support for the instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91882?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C593001EXP~faq-91882",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:26.040710"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "I see the message Forbidden Media From Paper Tray. What should I do?",
+          "answer": "The paper path requirements depend on the media you use. This error occurs when paper is loaded using the wrong paper path. Choose the correct paper path for the media you are using:\nPaper Tray\nEpson Premium Photo Paper Glossy\nEpson Premium Photo Paper Semi-gloss\nEpson Ultra Premium Photo Paper Luster\nEpson Presentation Paper Matte\nEpson Proofing Paper Semimatte\nEpson Ultra Premium Presentation Paper Matte\nEpson Watercolor Paper - Radiant White\nPlain paper\nFront Manual Feed Slot\n(Use for large heavy media)\nEpson Smooth Fine Art Paper\nEpson Textured Fine Art Paper\nEpson Enhanced Poster Board\nRear Manual Feed Slot\nEpson Premium Photo Paper Glossy\nEpson Premium Photo Paper Semi-gloss\nEpson Ultra Premium Photo Paper Luster\nEpson Presentation Paper Matte\nEpson Proofing Paper Semimatte\nEpson Ultra Premium Presentation Paper Matte\nEpson Watercolor Paper - Radiant White\nEpson Velvet Fine Art Paper\nPlain paper",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91794?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C593001EXP~faq-91794",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:26.973498"
+        },
+        {
+          "question": "When I try to load paper in the front manual feed slot (straight-through paper path) the control panel displays the message REMOVE PAPER and my product does not feed the paper. What should I do?",
+          "answer": "You may need to turn on the paper size check option. Do the following:\nPress the\nMenu\nbutton. You see\nPRINTER SETUP\non the printer's control panel.\nPress the\nMenu\nbutton again.\nPress the\nbutton until you see\nPPR SIZE CHK\n.\nPress the\nMenu\nbutton again.\nIf the setting reads\nOFF\n, press the\nbutton to select\nON\n. Then, press the\nMenu\nbutton to save the setting (an asterisk will appear to confirm the setting).\nIf the setting already reads\nON\n, skip to step 5.\nPress the\npause button to return the printer to ready mode.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91853?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C593001EXP~faq-91853",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:27.921527"
+        },
+        {
+          "question": "I can't select my product in the LFP Remote Panel software on my Mac. The message Application is not installed appears. What should I do?",
+          "answer": "You may need to reinstall the Epson printer software. If the\nEPIJPrDrvLib2\nfolder on your Mac (which is part of the Epson printer software) is version 2.30 or earlier, you need to reinstall the printer software. (If the EPIJPrDrvLib2 folder version is later than 2.30, contact Epson support). To determine the\nEPIJPrDrvLib2\nfolder version, Do the following:\nOpen the\nHard Drive\n.\nSelect >\nLibrary\n>\nPrinters\n>\nEpson\n>\nLibraries\n>\nEPIJPrDrvLib2\n>\nResources\n.\nDouble-click the file\nInfo.plist\n. If you see the message\nThere is no default application specified to open the document Info.plist\n, click\nChoose Application\n, select\nTextEdit\n, and then click\nOpen\n. The\nEPIJPrDrvLib2\nfolder version will appear in the Info.plist file, as in the following example:\nClose the\nInfo.plist\nfile.\nFollow these steps to reinstall the Epson printer software:\nOpen the\nHard Drive\n.\nSelect >\nLibrary\n>\nPrinters\n>\nEpson\n>\nLibraries\n.\nDrag the\nEPIJPrDrvLib2\nfolder to the trash.\nInstall the Software\nagain.\nNote:\nIf the problem continues, you'll need to uninstall and reinstall all Epson printer drivers on your Mac. If you need to reinstall printer drivers for a Stylus Pro 4800/4800 Professional, Stylus Pro 7800/7800 Professional, and/or Stylus Pro 9800/9800 Professional, install these printer drivers last.\nTo uninstall and reinstall all Epson printer drivers, Do the following:\nOpen the\nHard Drive\n.\nSelect >\nLibrary\n>\nPrinters\n, and then  drag the\nEpson\nfolder to the trash.\nEmpty the trash.\nReinstall each Epson driver you uninstalled.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91855?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C593001EXP~faq-91855",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:28.831270"
+        },
+        {
+          "question": "I see the message The ink cartridge combination currently installed in my product is different from the one installed when my product was selected in Print Center... after I switch black ink modes?",
+          "answer": "This error is usually generated when using a Preset in the printer driver that was created for a different black ink set.\nClick on\nFile\nand select\nPrint\n, then set the\nPreset\nto\nStandard\nand adjust the\nPrinter Settings\nmanually. After changing black ink modes, make sure that you remove the printer queue(s) from the Printer list and re-add the queue(s) with the new black ink mode.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91851?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C593001EXP~faq-91851",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:27.936001"
+        },
+        {
+          "question": "When I turn on my product, it displays a message telling me to perform a power cleaning. What should I do?",
+          "answer": "The power cleaning is a standard built-in maintenance procedure and the printer is programmed to display the message approximately every 20 days. When you see the message, we recommend that you select\nNo\n. Then do the following:\nAfter the printer powers up, print a nozzle check and look for any missing or deflected nozzles. If the pattern prints properly, the printer is ready to print. If there are missing or deflected nozzles, run the standard cleaning (instead of the power cleaning). The power cleaning uses a large amount of ink, so you should run it only when necessary.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91852?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C593001EXP~faq-91852",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:28.852110"
+        },
+        {
+          "question": "I see the message 0002 on the printer's LCD. What should I do?",
+          "answer": "If you notice odd noises or image quality problems, troubleshoot the printer for the noise or image quality problem. Otherwise, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-298383?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C593001EXP~faq-298383",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:29.892194"
+        },
+        {
+          "question": "I installed the latest printer driver on my Mac and now the message ink mismatch appears when I try to print. What should I do?",
+          "answer": "The computer did not properly detect and register the ink type in the printer. Turn the printer off and on to start the detection process and configure the correct ink type.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91881?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C593001EXP~faq-91881",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:30.828913"
+        },
+        {
+          "question": "I see the message Scale to Fit when the target media size is set for No Margin. What should I do?",
+          "answer": "This is a Mac OS X 10.4 restriction. You can use either the\nScale to Fit\nor\nNo Margin\nsetting, but not both together.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91838?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C593001EXP~faq-91838",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:31.734659"
+        },
+        {
+          "question": "Why does the message INVALID INK CRTG appear on my product's LCD?",
+          "answer": "This message appears if you replace a Photo Black ink cartridge with a Matte Black ink cartridge, or vice versa, without using the Black Ink Conversion Kit. To switch between the two types of black ink, you must use the Black Ink Conversion Kit (included with the printer) and run the Black Ink Change from the user control panel. See\nChanging the Black Ink Cartridge\n.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91857?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C593001EXP~faq-91857",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:32.667808"
+        },
+        {
+          "question": "I see the message Service Request 00010004 - 000101D. What should I do?",
+          "answer": "Service Request errors in the range 00010004 - 000101D are related to a carriage movement problem. In some instances like paper jams, the carriage locking tab may be partially pushed in, causing the carriage locking mechanism to put a drag on the carriage or lock the carriage completely. This will cause a carriage error. Make sure the carriage locking tab is pulled to the left. Then turn the printer's power off and release the carriage by pushing down on the cutter blade. Slide the carriage to the left and look for any paper that also may be restricting the carriage from moving freely.\n00010004\nCR Motor encoder check error\n00010005\nCR Motor out of step\n00010006\nCR Motor over current\n00010007\nCR Motor in-position time-out\n0001000A\nCR axis detection error\n0001000F\nCR Motor PWM output faulty\n0001001D\nCR servo parameter error\nThe T-Fence may also be dirty or out of the carriage encoder. Check to make sure it is clean and in the center of the encoder. Contact Epson for additional assistance.\nThe current firmware corrects erroneous Service Request 00010007, which occurs after the power is first turned on. You can download this firmware upgrade from www.prographics.epson.com.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91792?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C593001EXP~faq-91792",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:33.618906"
+        },
+        {
+          "question": "I see the message Communication Error when I use a USB connection. What should I do?",
+          "answer": "Do the following:\nDelete all print jobs in the print queue.\nTurn the printer off.\nNote:\nMake sure the USB cable is connected correctly.\nRestart your computer. When the desktop appears, turn your printer on and follow the on-screen instructions.\nNote:\nIf the problem continues, turn the printer off again and delete the printer in the list of printers. Then disconnect the USB cable from the printer and connect it again.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-00009ea-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C593001EXP~faq-00009ea-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:34.531585"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C593001EXP~faq-00004c5-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:35.529182"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "How to...",
+      "section_id": "8796159027276",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "How do I create a custom paper size in Windows?",
+          "answer": "Do the following:\nRight-click your printer icon on the Windows task bar, then select\nPrinter Settings\n.\nIf necessary, select the\nMain\nor\nPaper\ntab.\nSelect your paper\nSource\nin the Paper Settings section.\nClick the\nUser Defined\nbutton or select\nUser                         Defined\nas the Size. A User Defined Paper Size window                     opens.\nEnter a Paper Size Name, then select the Paper Width and Paper Height.\nClick\nSave\n, then\nOK\n.\nClick\nOK\nagain.\nThe new paper size is created, and you can now select the new size from the Size             list.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-0000622-shared?faq_cat=faq-8796159027276",
+          "faq_slug": "SPT_C593001EXP~faq-0000622-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:36.439872"
+        },
+        {
+          "question": "How do I set up color management for my product in Adobe PhotoShop on my Mac?",
+          "answer": "Do the following:\nOpen the\nFile\nmenu in Adobe Photoshop and select\nPrint\n.\nUnder Color Handling, select\nPrinter Manages Colors\n.\nClick\nPrint Settings\n.  A new window appears.\nUnder Orientation, select\nColor Matching\nfrom the pop-up                     menu.\nSelect\nEPSON Color Controls\n.\nMake sure the Color Settings are set to\nEPSON Standard                         (sRGB)\nunder Print Settings.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-0000623-shared?faq_cat=faq-8796159027276",
+          "faq_slug": "SPT_C593001EXP~faq-0000623-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:37.434364"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "Why are there only three cartridges in the black ink conversion kit?",
+          "answer": "The ink conversion process drains only the black ink channel; the C/M/Y colors are not drained. The three cartridges in the conversion kit are used to close the C/M/Y ink valves during the draining process. However, the process performs an initial fill on the whole ink system after the draining is complete.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91757?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C593001EXP~faq-91757",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:38.385225"
+        },
+        {
+          "question": "Do the Epson UltraChrome K3 inks have less outgassing than the previous Epson UltraChrome Inks?",
+          "answer": "The new Epson UltraChrome K3 inks have about the same outgassing as the previous ink set. So, depending upon the environmental conditions, Epson recommends that you let your prints “outgass” into interleaving papers (Epson Singleweight Matte, Doubleweight Matte, and Presentation Matte all make great interleaving papers) for at least 48 hours before framing.\nPlease note: You must replace the interleaving paper at the 24 hour mark with a fresh sheet. Proper framing procedures must be used, including no contact between the print and the inside of the glass or UV acrylic.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91808?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C593001EXP~faq-91808",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:39.501712"
+        },
+        {
+          "question": "Do I need to drain the ink cartridges before transporting my product?",
+          "answer": "No. The printer has mechanical ink valves that close when the ink levers are lifted up. For transportation, 110 ml ink cartridges (expended or full) should be installed in each ink slot and both ink levers should be raised to their up position.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91786?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C593001EXP~faq-91786",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:40.590768"
+        },
+        {
+          "question": "How long does it take to switch between black modes on my product?",
+          "answer": "Less than ten minutes.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91816?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C593001EXP~faq-91816",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:41.702204"
+        },
+        {
+          "question": "Does my product have a pressurized ink delivery system?",
+          "answer": "No.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91822?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C593001EXP~faq-91822",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:42.662707"
+        },
+        {
+          "question": "How much ink is used during the switching of black ink modes?",
+          "answer": "The amount of ink flushed through the printer in the switching process varies, but we estimate the total ink usage (all cartridges combined) to be between 88 ml and 117 ml per switch.\nSwitching from one black mode to another (for example, from Photo Black to Matte Black) does use a significant quantity of ink. Part of it is used to flush all of the old ink type out of the printer's tubing, damper, and head, and to prime those components with a sufficient amount of the new ink type. As part of the switching process, the printer also flushes a smaller amount of each of the other colors through the print head in order to prepare the head for printing again. All this is performed in order to ensure high-quality prints in the new mode after the switch.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91831?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C593001EXP~faq-91831",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:43.887625"
+        },
+        {
+          "question": "Which ink cartridges are optional?",
+          "answer": "Optional UltraChrome K3 Archival ink:\nCartridge\nPart Number\nPhoto Black 220ml\nT565100\nYellow 220ml\nT565400\nMagenta 220ml\nT565300\nCyan 220ml\nT565200\nLight Magenta 220ml\nT565600\nLight Cyan 220ml\nT565500\nLight Black 220ml\nT565700\nLight Light Black 220ml\nT565900\nMatte Black 220ml\nT544800\nMatte Black 110ml\nT543800",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91762?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C593001EXP~faq-91762",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:44.873726"
+        },
+        {
+          "question": "Do the 220ml ink cartridges stick out of the front of my product?",
+          "answer": "Yes. The 220ml ink cartridges extend in front of the printer.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91823?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C593001EXP~faq-91823",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:45.847989"
+        },
+        {
+          "question": "Does the Matte Black ink cartridge come free inside my product box?",
+          "answer": "No. Only Photo Black comes standard. If you want to use Matte Black, you need to buy a Matte Black ink cartridge when you buy your new printer.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91818?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C593001EXP~faq-91818",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:46.832936"
+        },
+        {
+          "question": "How many prints can I print from an ink cartridge in my printer?",
+          "answer": "There are too many variables to provide a count. You can estimate the amount by printing a Job Information sheet from the printer's Test Print menu. This sheet provides the amount of ink used for the last 10 print jobs, which can help you calculate ink usage.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-00009e2-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C593001EXP~faq-00009e2-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:47.771100"
+        },
+        {
+          "question": "My printer's ink cartridges are half full after I install the first set of ink cartridges. Why does this happen?",
+          "answer": "Ink from the first set of ink cartridges is used to charge the printer's ink delivery system. This will not happen again when you install new ink cartridges.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-00009d6-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C593001EXP~faq-00009d6-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:48.851269"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "In what order should the Print Head Alignments be performed?",
+          "answer": "The recommended order for performing head alignments is:\nUni-directional\nBi-directional 2 color\nBi-directional all",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91785?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C593001EXP~faq-91785",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:49.809821"
+        },
+        {
+          "question": "How do I replace the Maintenance Tank when using 220 ml cartridges?",
+          "answer": "You must turn off the printer and remove the 220 ml cartridges from the right side of the printer before you can remove the Maintenance Tank. See\nReplacing the Maintenance Tank\n.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91784?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C593001EXP~faq-91784",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:50.900535"
+        },
+        {
+          "question": "How do I perform a power cleaning cycle from the printer's control panel?",
+          "answer": "Do the following:\nPrint a nozzle check pattern to make sure the print head needs cleaning.\nMake sure the printer is ready and the red\nink light is not on or flashing.\nPress\nMenu\n.\nPress\nuntil\nMAINTENANCE\nis selected, then press\nMenu\n.\nPress\nuntil\nPWR CLEANING\nis selected, then press\nMenu\n. Press\nMenu\nagain to start the power cleaning cycle.\nFollow the instructions on the LCD to raise or lower the ink levers.\nWhen cleaning is finished and the\npause light stops flashing, print a nozzle check pattern again to confirm that the head is clean.\nFor effective cleaning, always run a nozzle check between cycles.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-00009da-sp4800_4880?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C593001EXP~faq-00009da-sp4800_4880",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:51.920131"
+        },
+        {
+          "question": "How do I align the print head?",
+          "answer": "Do the following:\nMake sure the printer is turned on. Then load one of the following types of paper:\nEpson Premium Glossy Photo Paper\nEpson Premium Photo Paper Glossy\nEpson Premium Luster Photo Paper\nEpson Ultra Premium Photo Paper Luster\nEpson Enhanced Matte Paper\nEpson Ultra Premium Presentation Paper Matte\nEpson Presentation Paper Matte\nPress\nMenu\non the printer.\nPress\nuntil\nHEAD ALIGNMENT\nis selected, then press\nMenu\n. You see\nPAPER THKNS\n.\nPress\nMenu\nto select\nSTD\n. This is the correct thickness setting for most Epson papers, including those listed in step 1.\nPress\nMenu\nto register the value, then press\nto display\nPAPER THKNS\n.\nPress\nto display\nALIGNMENT\n.\nPress\nMenu\nto display\nAUTO\n, then press\nMenu\nagain. You see\nUNI-D\n(uni-directional). This is the type of alignment to start with.\nPress\nMenu\nto start the alignment process.\nIt takes about 7 or 12 minutes depending on your printer model to run the automatic uni-directional head alignment. The printer' white beam sensor reads the alignment pattern and adjusts the printer automatically. Make sure you don't open the top cover or turn off the printer during this process.\nWhen the uni-directional alignment is finished, press\nuntil\nBI-D 2-COLOR\nis selected. Press\nMenu\nto start the bi-directional black alignment process.\nWhen the bi-directional black alignment is finished, press\nuntil\nBI-D ALL\nis selected. Press\nMenu\nto start the alignment process.\nPress\nto exit the head alignment mode.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-00009d9-sp4800_4880?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C593001EXP~faq-00009d9-sp4800_4880",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:52.832742"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "I'm getting a crease in my roll media. What should I do?",
+          "answer": "A crease in roll media is the result of the paper feed roller holding the media for a long time. Remove the roll media from the paper path when you have finished using it to prevent the media from being creased.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91793?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C593001EXP~faq-91793",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:53.783039"
+        },
+        {
+          "question": "My product recently started having trouble loading paper. What should I do?",
+          "answer": "You may need to clean the pickup rollers. Do the following:\nTurn on the printer and remove any loaded paper.\nRemove the paper tray so you can see the pickup rollers and roller covers.\nNote\n: The left side pickup roller may be in a different location than shown above, since it moves with the left side paper guide.\nClean the light grey areas beneath the roller covers.\nWe recommend using cotton swabs dampened with water to clean dust from the rollers. Be sure to allow ample time for the rollers to dry before loading paper.\nTo clean each roller's surface completely, they must be rotated. Press the\ndown arrow button on the printer's control panel to rotate the rollers; watch for a moment to see how the gears inside the printer are engaged when the rollers are moving. Be careful not to get anything stuck in between the rollers.\nRotate the rollers a little at a time, cleaning the exposed roller surface between rotations.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91891?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C593001EXP~faq-91891",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:54.869854"
+        },
+        {
+          "question": "Why does my product automatically switch to sheet mode when I load roll paper?",
+          "answer": "This happens if the roll paper is loaded incorrectly. Load the roll paper with the media coming off the top of the roll and feeding directly into the top slot (the slot just in front of the spindle). Then you can select either\nRoll Auto Cut On\nor\nRoll Auto Cut Off\non the printer control panel.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91862?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C593001EXP~faq-91862",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:55.847005"
+        },
+        {
+          "question": "Can Premium Glossy Photo Paper be fed from the paper tray?",
+          "answer": "Yes. Premium Glossy Photo Paper can be fed from the paper tray, but the latest driver and firmware must be installed.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91748?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C593001EXP~faq-91748",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:56.731718"
+        },
+        {
+          "question": "What is the maximum page length for my product?",
+          "answer": "The maximum printable page length is 90.5 inches when using the Epson printer driver. Using a RIP may allow you to exceed this limit.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91802?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C593001EXP~faq-91802",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:57.665406"
+        },
+        {
+          "question": "What size borderless prints can I create with my product?",
+          "answer": "You can make borderless prints on these roll media widths using the\nAuto Expand\nor\nRetain Size\nfeatures:\n8.3, 10, 12*, 14*, 16, and 17 inches\n* Non-Epson roll media widths\nThe top and bottom edges can be automatically cut to any length.\nStylus Pro 4800 Custom Paper size Guide for Roll Papers in Mac OS X\nPaper Size\nMargins\nPaper Queue\n8.00/10.00/17.00\n.00\nRoll Paper Borderless (Auto Expand)\n16.00\n.00\nRoll Paper Borderless (Retain Size), Roll Paper Borderless (Auto Expand), Roll Paper Banner\n8.2/10.2/16.2/17.2\n.00\nRoll Paper Banner\n8.23/10.23/16.23/17.23\n.00\nRoll Paper Borderless (Retain Size), Roll Paper Borderless Banner\n8.25\n.00\nRoll Paper Borderless (Retain Size), Roll Paper Borderless (Auto Expand), Roll Paper Borderless Banner\n10.25/16.25/17.25\n.00\nRoll Paper Borderless (Retain Size), Roll Paper Borderless Banner\nAny Paper size\n.55 and below\nRoll Paper\nAny Paper size\n.25 all around\nRoll Paper, Maximum",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91803?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C593001EXP~faq-91803",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:58.675947"
+        },
+        {
+          "question": "Which paper path do I use for cut sheet media?",
+          "answer": "Choose the paper path according to which media you use:\nPaper Tray\nEpson Premium Photo Paper Glossy\nEpson Premium Photo Paper Semi-gloss\nEpson Ultra Premium Photo Paper Luster\nEpson Presentation Paper Matte\nEpson Proofing Paper Semimatte\nEpson Ultra Premium Presentation Paper Matte\nEpson Watercolor Paper - Radiant White\nPlain paper\nFront Manual Feed Slot\n(Use for large heavy media)\nEpson Smooth Fine Art Paper\nEpson Textured Fine Art Paper\nEpson Enhanced Poster Board\nRear Manual Feed Slot\nEpson Premium Photo Paper Glossy\nEpson Premium Photo Paper Semi-gloss\nEpson Ultra Premium Photo Paper Luster\nEpson Presentation Paper Matte\nEpson Proofing Paper Semimatte\nEpson Ultra Premium Presentation Paper Matte\nEpson Watercolor Paper - Radiant White\nEpson Velvet Fine Art Paper\nPlain paper",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91783?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C593001EXP~faq-91783",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:59.786862"
+        },
+        {
+          "question": "How can I prevent paper from jamming or misfeeding from the paper tray?",
+          "answer": "Fan the paper and tap it on a flat surface to even the edges.\nIf you need to add paper to the paper tray, first remove all paper from the tray and then add paper to the removed stack.\nIf your paper is curled, flatten it before you load it. If it curls excessively and jams frequently, stop using it.\nLoad the sheets with the printable side face down and the right edge of the paper resting against the right side of the paper tray. Make sure the sheets lie flat on the bottom of the tray.\nDo not over-fill the paper tray.\nWhen you load sheets of paper, place the edge of the paper against the right inner corner of the paper tray. Otherwise, printing may become misaligned.\nAdjust the paper guide and edge guide according to the paper size. They must be snug against the paper.\nPut the paper guide roller down and replace the paper tray cover.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91795?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C593001EXP~faq-91795",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:44:58.888000"
+        },
+        {
+          "question": "What does the 250 stand for in the Epson driver Media Type setting?",
+          "answer": "The 250 designation represents the paper weight (250 gsm). Make sure you select the 250 Media Type setting if the media installed in the printer is 250 gsm (roll paper). If there is a mismatch in paper weight, print quality may be affected by horizontal banding or other problems.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91801?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C593001EXP~faq-91801",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:00.034688"
+        },
+        {
+          "question": "If I don't use roll paper do I need to have the roll paper holder attached?",
+          "answer": "No. The printer will work without the roll paper holder installed. The holder is designed to be removed easily.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91790?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C593001EXP~faq-91790",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:01.033536"
+        },
+        {
+          "question": "Which Epson media types produce the highest Dmax or L* value?",
+          "answer": "Our testing has shown the Epson Premium Luster Photo Paper using Photo Black ink will produce a Dmax up to 2.4 with an L* value as low as 3.1. You will get different results depending upon the media, black ink mode, driver settings, and ICC profile used.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91821?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C593001EXP~faq-91821",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:02.074512"
+        },
+        {
+          "question": "How can I avoid using extra media at the beginning of a print job?",
+          "answer": "Do one of the following:\nSet the margin for roll paper to 3 mm.\nPress the\nbutton on the printer.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-298451?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C593001EXP~faq-298451",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:03.014703"
+        },
+        {
+          "question": "I see a message stating my current paper source does not support the media type I've selected. What should I do?",
+          "answer": "Make sure you select the paper source on the printer's control panel for the paper path you             are using. A paper source icon should appear in the printer's control panel for the             paper source you selected. For instructions on loading paper see your product's\nUser's Guide\n.\nNote:\nWe recommend you first load the paper, select the paper                 source settings in the printer driver, and then run your print job.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-000062E-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C593001EXP~faq-000062E-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:04.073238"
+        },
+        {
+          "question": "Which Epson paper type setting should I select for Legacy paper?",
+          "answer": "See the table below.\nLegacy Paper\nEpson Paper Type Setting\nBaryta\nPremium Luster Photo Paper\nPlatine\nPremium Luster Photo Paper\nFibre\nWatercolor Paper – Radiant White\nEtching\nWatercolor Paper – Radiant White",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-00009EC-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C593001EXP~faq-00009EC-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:05.197032"
+        },
+        {
+          "question": "Which Epson Professional papers do not have optical brighteners?",
+          "answer": "Hot Press Natural, Cold Press Natural, and UltraSmooth Fine Art Paper.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-0000b07-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C593001EXP~faq-0000b07-shared",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:06.109631"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "When I print on roll paper, my image prints too far to the left. What should I do?",
+          "answer": "Make sure the black paper stop (flange) of the roll paper spindle is installed on the left side of the printer, when you face the printer. The flanges are color coded to match the spindle holders on the printer.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91879?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C593001EXP~faq-91879",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:07.107112"
+        },
+        {
+          "question": "How do I create a borderless print with roll media from my Mac?",
+          "answer": "To print borderless on roll media, create a custom paper size in the driver and follow the guidelines below to determine the width parameter.  The method you use depends on the size of your media.\nIf you're using 10-, 12-, 13-, 14-, or 17-inch wide media and you want to use the\nAuto Expand\noption, enter a paper width setting that matches the actual width of your roll. For example, if you're using a 17-inch wide roll, enter 17 inches.\nIf you're using 10-, 12-, 13-, 14-, or 17-inch wide media and you want to use the\nRetain Size\noption, you'll need to increase two width parameters.  First, increase the image width by .34 inches (using your image editing software).  Then, make the paper width setting .23 inches larger than the actual width of your roll. For example, if you're using a 17-inch wide roll, enter 17.23 inches for the paper width.\nIf you're using 16-inch wide media, set the paper width to 16 inches. You can then select either the\nRetain Size\nor\nAuto Expand\noption.\nFor any size roll media, follow these tips to ensure correct borderless printing:\nMake sure you set all page margins to zero.\nWhen you use either the\nAuto Expand\nor\nRetain Size\noption, always add 0.1 inches to the length/height of your page size.\nSelecting the\nAuto Expand\noption minimizes image clipping in your printout.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91854?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C593001EXP~faq-91854",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:08.039958"
+        },
+        {
+          "question": "What kind of spray coating should I use to protect my canvas prints?",
+          "answer": "Epson has conducted limited internal testing of third-party over-coatings.  This testing indicates that the following third-party over-coatings help protect a print against the effects of water.\nMake sure the media has cured for at least 24 hours or longer before using any spray coatings. The following products have been tested with our Canvas Papers:\nPremier Art Print Shield (Tested by Wilhelm Imaging Research).\nSureGuard Clear Gloss-McDonald-Pro-Tecta-Cote # 911\nFor complete specifications and additional information, please contact the manufacturer directly.\nNote: Epson does not endorse any particular over-coating and does not guarantee the results. Epson does not make any claim as to the stability or longevity of these spray products.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91861?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C593001EXP~faq-91861",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:08.946156"
+        },
+        {
+          "question": "My print jobs fade toward the end, then start over before. What should I do?",
+          "answer": "If you're printing via ethernet using an Epson Vista compatible printer driver, follow these steps to fix this problem:\nCancel the print job from the computer and from the printer.\nClick the\nStart button, then select\nControl Panel\n.\nSelect\nPrinter\nor\nPrinters\nin the\nHardware and Sound\ncategory.\nRight-click on your printer and select\nPrinting Preferences\n.\nClick the\nUtility\ntab.\nSelect\nSpeed & Progress\n.\nClick the\nAlways spool RAW datatype\ncheckbox.\nClick\nOK\nto close the Speed & Progress window.\nClick\nOK\nto close the Printing Preferences window.\nRight-click on your printer and select\nProperties\n.\nClick the\nPorts\ntab.\nMake sure the correct printer port is selected, then click\nConfigure Port\n.\nClick the\nLPR Byte Counting Enabled\ncheckbox.\nClick\nOK\nto close the Configure Port window.\nClick\nApply\nand then\nClose\nto close the Properties window.\nRestart the computer.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91892?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C593001EXP~faq-91892",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:09.902662"
+        },
+        {
+          "question": "How can I prevent smeared ink and droplets on my printouts?",
+          "answer": "The print head can gather dust over time, which then gathers ink. This accumulated ink can get deposited on the substrate during printing. Cleaning the wiper blade and pump cap assembly can solve this problem. Do the following:\nTurn off the printer.\nOpen the top cover and press the cutter solenoid down to release the print head.\nNote\n: This photo shows the Pro 4800 cutter solenoid assembly; the assembly in the Pro 4000 is black.\nMove the print head to the left.\nLocate the wiper blade and clean it with a moist cotton swab.\nNote\n: Most of the wiper blade is located behind the clear plastic shield, which may be difficult to clean. If you use a long cotton swab you'll be able to reach further back and clean the blade more thoroughly. The blade is split down the middle so be sure to clean both sides of the blade and inside the split.\nInspect the foam pad area of the pump cap assembly for any large pieces of debris and gently remove them with a moist cotton swab. Then use the swab to gently wipe the topside frame of the plastic housing that holds the multi-colored foam pad.\nCaution\n: Do not try to remove the foam pad.\nThe flushing box next to the multi-colored cap assembly does not typically come in contact with the print head, but you should gently clean any debris that may have accumulated there.\nClose the top cover and turn on the printer.\nPrint a\nnozzle check\nand inspect the printed pattern.\nIf the nozzle check pattern looks good, you are ready to print; you don't need to continue with the following steps.\nIf the nozzle check pattern is not satisfactory, continue with the next step.\nIf the nozzle check pattern is not satisfactory, run a cleaning cycle and print another nozzle check. In the printer utility, be sure to select\nPrint\n(not\nAuto\n) for the nozzle check.\nIf the nozzle check pattern is still not complete, repeat step 9 until you see a good nozzle check pattern or you have run three cleaning cycles.\nIf the nozzle check pattern looks good, you are ready to print.\nIf the nozzle check pattern still is not good after running three cleaning cycles, contact Epson Technical Support for further assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91880?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C593001EXP~faq-91880",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:10.892159"
+        },
+        {
+          "question": "There are vertical bands or lines on my printout.  What should I do?",
+          "answer": "Try the following:\nRun three auto print head alignments.\nMake sure High Speed is not selected.\nLower the dpi setting you selected to print.  If you selected 2880 dpi, lower                     the setting to 1440 dpi.\nMake sure the lines are not in the image source.\nMake sure you use the correct profile settings.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-000062B-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C593001EXP~faq-000062B-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:11.790121"
+        },
+        {
+          "question": "My printouts are dark when I print from Photoshop CS3 or later. What should I do?",
+          "answer": "While we do not assist with color profiling or color correction, you can try the                 following:\nUse latest version of Adobe Photoshop.\nMake sure your print head nozzles are clean and free from clogs.\nMake the following adjustment in Adobe Photoshop:\nSelect\nColor Management\nor\nOutput\n>\nOutput\nfrom Photoshop's print                             screen.\nClick\nTransfer\nand drag the middle of the curve                             to 40.0%.\nClick\nOK\n, then select\nColor                                 Management\n.\nSelect\nLet Photoshop manage color as normal\nand                             the appropriate printer profile.\nPrint your image. Because every photo is different, you may need to                             experiment with the Transfer Curve to find the level that best suits                             your needs.\nNote:\nMaking changes to the Transfer Curve does not alter                                 the original image. This curve affects the Shadows, Midtones, and                                 Highlights as a whole.\nMake the following adjustments in the Windows or Mac driver to lighten the                         image:\nAdjust the Gamma setting to 1.8.\nIncrease the Brightness bar to 5.\nNote:\nIf using a Mac, make sure the                                 Color Mode is EPSON Standard sRGB.\nSee the product's User Guide for more information in these settings.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-000062A-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C593001EXP~faq-000062A-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:12.705623"
+        },
+        {
+          "question": "My printout has horizontal lines running through it. What should I do?",
+          "answer": "Print a nozzle check pattern. If you see gaps in the nozzle check pattern, run three cleaning cycles, then print another nozzle check pattern to see if all nozzles print now. If you still see gaps, run a power cleaning cycle.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-00009FA-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C593001EXP~faq-00009FA-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:13.647935"
+        },
+        {
+          "question": "Drips, smears, or head strikes appear on my printout. What should I do?",
+          "answer": "Make sure the platen gap is adjusted for your media type. To adjust the platen gap, do the following from the printer's control panel:\nMake sure the printer is ready to print. Ready should be displayed on the printer's LCD screen.\nPress the\nbutton three times.\nSelect\nNarrow\n,\nStandard\n,\nWide\n, or\nWider\nas the gap setting.\nPress\nOK\nor\nEnter\n(the middle button).\nPress the pause button.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-0000c1e-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C593001EXP~faq-0000c1e-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:14.623808"
+        },
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-00009e9-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C593001EXP~faq-00009e9-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:15.526988"
+        },
+        {
+          "question": "I see horizontal or vertical lines in my printout. What should I do?",
+          "answer": "Perform a nozzle check from the printer's control panel or the Epson printer driver, then do one of the following:\nIf there are gaps in the nozzle check pattern, clean the print head nozzles.\nIf there are no gaps in the nozzle check pattern, try the solutions below.\nHorizontal Banding\nIncrease the print resolution.\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nSelect an alternate paper profile for ink coverage.\nSelect the correct paper type in the printer driver.\nAdjust the paper feed\nVertical Banding\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nAlign the print head.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-00009eb-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C593001EXP~faq-00009eb-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:16.417907"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "How can I share my product with other users?",
+          "answer": "We recommend sharing your printer via an Ethernet connection with the optional Epson High Speed Ethernet Print Server card (part number C12C824341 or C12C824052). This method provides many benefits, including better performance, over selecting\nPrinter Sharing\nfor a locally attached Stylus Pro 4800 printer.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91835?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-91835",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:18.120427"
+        },
+        {
+          "question": "I don't see a Media Type setting for Epson Premium Luster Photo Paper (260) in the Epson driver. What should I do?",
+          "answer": "Download the latest printer driver, the latest firmware, and the ICC profiles from the Downloads tab for your product.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91883?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-91883",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:19.079393"
+        },
+        {
+          "question": "ICC profiles that are included with the Pro 4800 are labeled by their acronyms. Is there a list that explains these acronyms and their definitions?",
+          "answer": "Profiles ending in\nMK\nare to be used when the Matte black ink is installed as the primary black, and\nPK\nis for Photo black.\nAny profile ending in\n250\nis intended for the roll stock or 17” sheets of that particular media. These profiles are intended for use with any driver resolution available.\nNote: The part numbers are given to help locate each media type using the Epson website search box. These are just examples; other part numbers identify different sizes of the same media.\nProfile name\nFor this media type\nPro4800 ARMP.icc\nArchival Matte Paper (N/A same as Enhanced Matte)\nPro4800 EMP.icc\nEnhanced Matte Paper (S041341)\nPro4800 PGP.icc\nPhoto Glossy Paper (S041778)\nPro4800 PGPP.icc\nPremium Glossy Photo Paper (S041742)\nPro4800 PLPP.icc\nPremium Luster Photo Paper (S041405)\nPro4800 PPG.icc\nPhoto Paper A.K.A. Glossy Photo Paper (S041272)\nPro4800 PPSmC.icc\nProofing Paper Commercial Semi-matte (S041744)\nPro4800 PQIJP.icc\nPhoto Quality Inkjet Paper (S041102)\nPro4800 PSmPP.icc\nPremium Semi-matte Photo Paper (S041738)\nPro4800 PSP.icc\nPhoto Semigloss (S041779)\nPro4800 PSPP.icc\nPremium Semigloss Photo Paper (S041331)\nPro4800 SWMP.icc\nSingle Weight Matte Paper (S041746)\nPro4800 TFAP.icc\nTextured Fine Art Paper (S041745)\nPro4800 USFAP.icc\nUltrasmooth Fine Art Paper (SP91205)\nPro4800 VFAP.icc\nVelvet Fine Art Paper (S041636)\nPro4800 WCRW.icc\nWater Color Paper Radiant White (S041351)\nNote:\nAdditional Profiles (these profiles are designed for use with a specific black ink type and resolution):\nMatte Black Ink\nSP4800 EM MK 2880.icc\nEnhanced Matte\nSP4800 EVFA MK 2880.icc\nEpson Velvet Fine Art\nSP4800 PAWRC MK 1440.icc\nPremier Art Water Resistant Canvas (SP91221)\nPhoto Black Ink\nSP4800 PGPP250 PK 2880.icc\nPremium Glossy Photo Paper\nSP4800 PLPP PK 2880.icc\nPremium Luster Photo Paper\nSP4800 PLPP250 PK 2880.icc\nPremium Luster Photo Paper (roll)\nSP4800 PSMPP250 PK 2880.icc\nPremium Semimatte Photo Paper",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91807?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-91807",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:19.993247"
+        },
+        {
+          "question": "The Advanced B/W setting is grayed out in my product software. What should I do?",
+          "answer": "Make sure you install the correct black ink cartridge for the media type selected. When the photo black cartridge is installed, the\nAdvanced B/W\nsetting is available only for glossy media types. It is not available for any of the matte media types. When the matte black cartridge is installed, the\nAdvanced B/W\nsetting is available only for matte media types.\nIf you're using the correct black ink cartridge for your media type but the\nAdvanced B/W\nsetting is still grayed out, then Do the following:\nOpen the\nHard Drive\n.\nSelect >\nApplications\n>\nUtilities\n>\nPrinter Setup Utility\n.\nSelect your printer and click\nUtility\n.\nMake sure you see the ink levels in the\nStatus Monitor\nwindow, then click\nUpdate\n.\nRestart the computer.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91754?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-91754",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:21.459170"
+        },
+        {
+          "question": "When should I use the product profiles that end in PK and MK?",
+          "answer": "The PK profile should be used when photo black ink is installed in the printer. The MK profile should be used when matte black ink is installed in the printer.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91798?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-91798",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:22.472674"
+        },
+        {
+          "question": "Why should I use the Matte Black mode?",
+          "answer": "The standard Photo Black ink has been optimized for RC and Photographic grade media types. If you're printing on matte-type papers such as Epson Velvet Fine Art, Enhanced Matte, or UltraSmooth Fine Art, your black density is significantly better when using Matte Black ink (and worth the switch).",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91819?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-91819",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:23.528929"
+        },
+        {
+          "question": "Why have my pre-defined paper settings changed?",
+          "answer": "If you name a custom paper setting using the same name as a pre-defined paper (like A4), the pre-defined paper settings are overwritten by the custom settings.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91836?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-91836",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:24.431207"
+        },
+        {
+          "question": "What does the Common Updater 7.0 file do?",
+          "answer": "The Common Updater 7.0 file provides the latest Mac OS X 10.6 support for your printer driver. Before installing the updater, make sure the most current version of the Mac OS X 10.5 or 10.6 printer driver is installed on your computer. Restart your computer after installing the updater.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-162912?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-162912",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:25.356248"
+        },
+        {
+          "question": "Can I set the date and time on my product?",
+          "answer": "Yes. Do the following:\nPress the\nMenu\nbutton.\nPress the down arrow until\nMAINTENANCE\nis displayed.\nPress the\nMenu\nbutton.\nPress the down arrow until\nCLOCK SETTINGS\nis displayed, then press the\nMenu\nbutton.\nUse the arrow buttons to set the date and time: MM/DD/YY HH:MM.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91787?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-91787",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:26.281737"
+        },
+        {
+          "question": "What is the Epson Advanced Black & White Printing Mode?",
+          "answer": "This is a proprietary Epson screening and color management technology designed specifically to produce professional level black and white prints. The math behind this unique screen technology takes advantage of our three level black technology along with Yellow, Light Cyan, and Light Magenta to produce professional black and white prints from either color or grayscale files. Epson's new Advanced Black and White printing technology is simply another tool or alternative for professionals to use towards achieving the ultimate black and white print.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91756?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-91756",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:27.229588"
+        },
+        {
+          "question": "I cannot print from an application when using the ColorBurst RIP on a Windows 64-bit operating system. What should I do?",
+          "answer": "The following two print options are available when using the ColorBurst RIP on a Windows 64-bit operating system:\nDrag and drop method. Dragging and dropping a file into the ColorBurst queue window will send the print job to the printer. Only files with JPEG, TIFF, PDF, and EPS extensions can be printed using this method.\nOpen a file directly from ColorBurst. To print using this method, open the\nFile\nmenu, select\nOpen\n, then browse for the file you need to print. Only files with JPEG, TIFF, PDF, EPS extensions can be printed using this method.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-180017?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-180017",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:28.115057"
+        },
+        {
+          "question": "What is the Super (X) setting in the Epson driver?",
+          "answer": "This is a Super Microweave setting that enables the print head to perform 8 microweave passes instead of the standard 4 passes. The through-put is slowed with this setting. However, it produces the highest quality prints when you use it along with the highest print resolutions of 1440 or 2880 with the high speed setting turned off.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91799?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-91799",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:29.058244"
+        },
+        {
+          "question": "What does the Remote Panel utility do?",
+          "answer": "The Remote Panel utility can be used to:\nUpdate firmware\nPerform nozzle checks\nRun the bi-d and uni-d alignments/auto alignments\nPrint status sheets\nMake custom paper settings\nPerform power cleanings\nSet the printer clock\nSet media counter settings",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91747?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-91747",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:30.056116"
+        },
+        {
+          "question": "Why are only matte media types displayed in the driver's media list?",
+          "answer": "When matte black ink is installed in the printer, only matte media types are displayed in the driver list.  The complete media list appears only when the photo black ink cartridge is installed.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91755?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-91755",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:29.089886"
+        },
+        {
+          "question": "What is the maximum image length I can print from Photoshop CS/CS2 with the standard Epson driver in Mac OS X?",
+          "answer": "The maximum image length is determined by the resolution of the image. An image cannot exceed 30,000 pixels in either direction (width or length). You can check the pixel count of an image by opening the Image menu in Photoshop and selecting\nImage size\n.\nExamples:\nFor a 300 dpi image, the maximum length will be 100 inches (300 x 100 = 30,000).\nFor a 240 dpi image, the maximum length will be 125 inches (240 x 125 = 30,000).",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91863?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-91863",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:29.969136"
+        },
+        {
+          "question": "Why are some of the paper types grayed out?",
+          "answer": "The paper path you have selected determines which media types are available. If some media types are grayed out, that means these media types can only by used with one of the manual feed (front or rear) or roll feed methods.  The driver grays out these media types because using them from the paper tray may cause damage to the paper coating.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91746?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-91746",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:30.963988"
+        },
+        {
+          "question": "When I use the Advanced B&W Photo setting in my product driver, which color management settings should I select in Photoshop?",
+          "answer": "When\nAdvanced B&W Photo\nis selected the printer driver manages the color, so you should disable color management in Photoshop.\nYour file does not need to be converted to grayscale. Ideally, you would use an embedded RGB profile such as\nAdobe RGB\nor\nsRGB\n.\nIf you're using Photoshop CS2, select\nNo Color Management\nas your\nColor Handling\nsetting (in the\nPrint with Preview\nwindow).\nIf you're using Photoshop CS or 7,  select\nSame as Source\nas your\nPrinter Profile\nsetting (in the\nPrint with Preview\nwindow).",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91856?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-91856",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:31.901552"
+        },
+        {
+          "question": "How do I uninstall and reinstall my printer driver in OS X 10.8?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\n, then\nPrint & Scan\n.\nSelect your printer in the list, then click\n. Press and hold the\ncontrol\nkey on your keyboard and click anywhere on the printer list. Click\nReset Printing Systems\n. Close the open windows.\nOpen your hard drive and do the following:\nSelect\nLibrary\n>\nPrinters\n>\nInstalledPrinters.plist\n. Drag the InstalledPrinters.plist file to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nEpson\n. Drag the\nEpson\nfolder to the trash.\nSelect\nApplications\n>\nUtility\n>\nDisk Utility\n> your hard drive, then select\nRepair Disk Permissions\n. Close the open windows.\nReinstall the driver for your product.\nOpen the\nmenu, select\nSystem Preferences\n, then\nPrint & Scan\n.\nClick\n, then select your printer.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-00009dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-00009dc-shared",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:32.846179"
+        },
+        {
+          "question": "How do I disable the Roll Paper Remaining feature on my printer?",
+          "answer": "Do the following on the product's control panel:\nPress the paper release button to feed paper out of the printer, if necessary.\nPress\nMenu\n.\nSelect\nPaper Setup\n, then press\n.\nSelect\nRoll Paper Remaining\n, then press\n.\nSelect\nRemaining Paper Setup\n, then press\n.\nSelect\nOff\n, then press\nOK\n.\nPress\n, then load the paper again.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-00009e0-pgg_4800_multi_9900?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-00009e0-pgg_4800_multi_9900",
+          "display_order": 20,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:33.801188"
+        },
+        {
+          "question": "How do I uninstall and reinstall my printer driver in OS X 10.6?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\n>\nPrint & Fax\n.\nSelect your printer in the list, click\n, then close the open windows.\nOpen your hard drive.\nSelect\nLibrary\n>\nPrinters\n>\nEpson\n>\ninkjet printers\n, then drag the plugin for your product to the trash. If there is no plugin for your product, drag the\nEpson\nfolder to the trash. Close the open windows.\nReinstall the driver for your product.\nOpen the\nmenu, select\nSystem Preferences\n>\nPrint & Fax\n.\nClick\n, then select your printer.\nClose the open windows.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-00009ff-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-00009ff-shared",
+          "display_order": 21,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:34.702831"
+        },
+        {
+          "question": "How do I stop the printer from printing a nozzle check pattern before every print job?",
+          "answer": "Do the following on the product's control panel:\nPress\nMenu\ntwice, then select\nAuto Nozzle Check\n.\nPress\nMenu\n, then select\nOff",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-00009e1-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-00009e1-shared",
+          "display_order": 22,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:35.646879"
+        },
+        {
+          "question": "My ICC profiles do not appear in Mac OS X 10.1 to 10.6. What should I do?",
+          "answer": "The operating system may prevent the ICC profiles from installing correctly. Do the following             to copy the ICC profiles to the correct location:\nNote:\nClose all image editing software                 before you begin.\nOpen the hard drive and select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinters\n>\nICCProfiles\nfolders.\nHold down the control key on your                     keyboard and then click on the file with the .profiles suffix.\nFrom the new window, select\nShow Package Contents\n.\nNext, select the\nContents\nthen the\nResources\nfolder.\nCopy all ICC profiles in the Resources                     folder.\nOpen the hard drive and select\nLibrary\n>\nColorsync\n>\nProfiles\nfolders and then paste the copied ICC profiles.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-0000621-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-0000621-shared",
+          "display_order": 23,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:36.614198"
+        },
+        {
+          "question": "Do I need a raster image processor (RIP) to print from Adobe Illustrator?",
+          "answer": "For the best output, a RIP should be used. Adobe Illustrator is a postscript application that requires a RIP to translate the postscript language. The printer comes with a non-postscript driver that has difficulty translating the postscript language.\nEpson has partnered with the following manufacturers for some printers:\nColorBurst\nefi\nOnyx\nWasatch",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-00009f1-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-00009f1-shared",
+          "display_order": 24,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:37.503192"
+        },
+        {
+          "question": "Do I need a raster image processor (RIP) to print from Adobe Photoshop?",
+          "answer": "No, Adobe Photoshop is not a postscript application and does not require a RIP.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-00009f0-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-00009f0-shared",
+          "display_order": 25,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:38.507766"
+        },
+        {
+          "question": "How do I save my Epson printer driver presets so I can restore them if I reinstall the Epson printer driver in Windows?",
+          "answer": "Note:\nYou may lose some custom settings when you uninstall the printer driver.\nBefore you reinstall the printer driver, do the following:\nOpen\nFile Explorer\nor\nWindows Explorer\n.\nSelect\nThis PC\nor\nComputer\n>\nC:\ndrive >\nProgram Files\n>\nEpson\n> [your printer name].\nMove the UCI extension files to a different folder on your desktop.\nNote:\nAfter you reinstall the Epson printer driver, move the UCI extension files back to your printer's folder as described in step 2.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-00009e6-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-00009e6-shared",
+          "display_order": 26,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:39.430111"
+        },
+        {
+          "question": "How do I install the ICC profiles in Windows XP or Windows 7?",
+          "answer": "Do the following:\nDownload the ICC profiles for your printer and save them in a folder you can easily find.\nClose all open software.\nOpen\nWindows Explorer\n, then select\nComputer\n>\nC:\ndrive >\nWindows\n>\nSystem32\n>\nspool\n>\ndrivers\n>\ncolor\n.\nMove the ICC profiles into the\ncolor\nfolder, then close all open windows.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-00009E5-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-00009E5-shared",
+          "display_order": 27,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:40.351740"
+        },
+        {
+          "question": "How do I determine my printer driver version on my Mac?",
+          "answer": "Open the\nmenu and select\nSystem Preferences\nor\nSystem Settings\n>\nPrinters & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n. Your printer driver version is displayed.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-00009e4-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-00009e4-shared",
+          "display_order": 28,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:41.277739"
+        },
+        {
+          "question": "How do I manually install the Epson ICC profiles on my Mac?",
+          "answer": "Do the following:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinters2\n>\nICCProfiles\n.\nPress and hold the\ncontrol\nkey on your keyboard while you select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n, select and copy all files, then close all open windows.\nOpen your hard drive, select\nLibrary\n>\nColorSync\n>\nProfiles\n, then paste the files into this folder.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-0000b03-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-0000b03-shared",
+          "display_order": 29,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:42.202770"
+        },
+        {
+          "question": "Where are the ICC profiles located for my printer on my Mac?",
+          "answer": "Do the following to locate the files:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinter2\n>\nICCProfiles\n.\nPress and hold the\nControl\nkey on your keyboard while you click the profile package in the\nICCProfiles\nfolder. In the pop-up menu that appears, select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-00009ed-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-00009ed-shared",
+          "display_order": 30,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:43.128632"
+        },
+        {
+          "question": "My print job disappears from the Windows print queue but does not print. What should I do?",
+          "answer": "Follow the steps below:\nDo one of the following:\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your printer and select\nManage\n>\nPrinting preferences\n.\nWindows 8\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the\nUtility\ntab, then\nSpeed and Progress\n.\nSelect the\nAlways Spool RAW Datatype\nand\nCoarse Rendering\ncheckboxes, then click\nOK\n.\nNote:\nIf the\nProcessed by Printer\ncheckbox is selected, deselect it.\nTry printing again.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-00009e8-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-00009e8-shared",
+          "display_order": 31,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:44.026511"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-0000f4b-shared",
+          "display_order": 32,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:44.925378"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C593001EXP~faq-0000f4c-shared",
+          "display_order": 33,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:45.849784"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 9,
+      "faqs": [
+        {
+          "question": "Which Ethernet card can be used with my product?",
+          "answer": "You can use either the C12C824052 or the C12C824341 Ethernet card with the SP-4800.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91753?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C593001EXP~faq-91753",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:46.811135"
+        },
+        {
+          "question": "I hear a grinding noise when I turn on my product. What should I do?",
+          "answer": "Make sure the green carriage locking tab is pulled to the left and there is nothing obstructing the carriage.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91791?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C593001EXP~faq-91791",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:47.793364"
+        },
+        {
+          "question": "Why does the platen gap setting on my product revert back to Standard when my product is powered off/on?",
+          "answer": "The platen gap setting defaults back to\nStandard\nwhen the printer is powered off/on to prevent print quality problems that may occur if the platen gap is accidentally left at a wider setting.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91875?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C593001EXP~faq-91875",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:48.810826"
+        },
+        {
+          "question": "What are the dimensions and weight of the product?",
+          "answer": "Dimensions:\nWith paper tray\nand roll holder\nWidth:\n33.9 inches\nDepth:\n29.5 inches\nHeight:\n14.0 inches\nWithout paper tray\nand roll holder\nWidth:\n33.9 inches\nDepth:\n18.5 inches\nHeight:\n13.0 inches\nWith paper tray\nwithout roll holder\nDepth:\n23.0 inches\nWithout paper tray\nwith roll holder\nDepth:\n24.75 inches\nWith paper tray fully extended\nand roll holder\nDepth:\n39.5 inches\nWith paper tray fully extended\nwithout roll holder\nDepth:\n33.5 inches\nWeight:\n(boxed) - with pallet:\n130 lbs..\nPrinter - with paper tray and roll holder:\n85 lbs.\nPrinter - without paper tray and roll holder:\n74 lbs.\nRoll holder:\n6 lbs.\nPaper tray:\n5 lbs.\nPacking dimensions and weights:\nWeight:\nBox and internal packing material only:\nPallet only:\n21 lbs.\n22 lbs.\nLength:\nBox and pallet:\n39.5 inches\nWidth:\nBox and pallet:\n32 inches\nHeight:\nBox, 5 inches Pallet:\n22.75 inches",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91796?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C593001EXP~faq-91796",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:49.819734"
+        },
+        {
+          "question": "Which connection enables my product to operate at full speed?",
+          "answer": "All connections allow the printer to operate at full print engine speed. (The USB port must be 2.0 compatible.) Your CPU is the biggest factor in print engine speed.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91825?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C593001EXP~faq-91825",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:50.733385"
+        },
+        {
+          "question": "Is there an optional TUMI cover available for my product?",
+          "answer": "Yes. Tumi has made a custom, fitted printer cover for the Epson Stylus Pro 4800 using its patented Fusion Z Nylon Technology. It is available now and can be purchased from the Epson Store.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91828?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C593001EXP~faq-91828",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:51.640665"
+        },
+        {
+          "question": "How do I get service for my product I purchased in another country?",
+          "answer": "Due to differences in products sold in other countries, printers need to be serviced in the country of origin.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91797?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C593001EXP~faq-91797",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:52.550563"
+        },
+        {
+          "question": "What is the Engine Reliability?",
+          "answer": "Cutter life ~2,000 cuts (coated media)\nMaintenance parts include: Pump unit, flushing box, head cleaner, and cap assembly.\nFirst major maintenance interval:\nPrint resolution\nNumber of 8 x 10 prints\n720 x 720 dpi\n45,000\n1440 x 720 dpi\n29,500\n2880 x 1440 dpi\n15,200\nNote:\nWhen printing in uni-directional mode, the above numbers are reduced by half.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-91805?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C593001EXP~faq-91805",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:53.454495"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C593001EXP~faq-00004b0-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:54.420334"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C593001EXP~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C593001EXP~faq-0000f4a-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4800-Portrait-Edition/s/SPT_C593001EXP",
+          "fetched_at": "2026-04-02T01:45:55.487760"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

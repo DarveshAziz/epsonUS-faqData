@@ -1,0 +1,224 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Impact Printers",
+  "series": "DFX Series",
+  "model": {
+    "name": "Epson DFX-5000",
+    "sku": "SPT_C112001",
+    "url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000/s/SPT_C112001"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C112001~faq-000096d-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C112001~faq-000096d-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000/s/SPT_C112001",
+          "fetched_at": "2026-04-02T04:48:22.190458"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C112001~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C112001~faq-00004b0-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000/s/SPT_C112001",
+          "fetched_at": "2026-04-02T04:48:23.271396"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C112001~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C112001~faq-00004dc-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000/s/SPT_C112001",
+          "fetched_at": "2026-04-02T04:48:24.329901"
+        },
+        {
+          "question": "Why doesn't remote paper path switching work?",
+          "answer": "The only time the printer can change paper paths is when the optional paper cutter has been installed on the printer.\nIf the paper cutter is not installed, the printer would have to pull back through all the pages it had just printed and then change tractors. if you had a 20 or more page report, that would be a lot of paper being pulled back through the printer.\nSo, the change tractor code will not work with out the optional paper cutter.\nYou can get more information on the paper cutter by contacting the Epson Store.",
+          "faq_url": "https://epson.com/faq/SPT_C112001~faq-49429?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C112001~faq-49429",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000/s/SPT_C112001",
+          "fetched_at": "2026-04-02T04:48:23.675694"
+        },
+        {
+          "question": "How do I create a custom paper size in the Server Properties?",
+          "answer": "Follow these steps to create a new page size accessible by all printer drivers installed in Windows:\nOpen the\nPrinters\nor\nPrinters and Faxes\nwindow.\nClick\nFile\n, then\nServer Properties\n.\nPut a check in the\nCreate a new form\nbox.\nInput a name for the custom paper size.\nUnder\nPaper Size\n, enter the desired height and width.\nClick\nSave\nor\nSave Form\nto add the new form size to the list, then\nOK\nto close Server Properties.",
+          "faq_url": "https://epson.com/faq/SPT_C112001~faq-140638?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C112001~faq-140638",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000/s/SPT_C112001",
+          "fetched_at": "2026-04-02T04:48:24.746253"
+        },
+        {
+          "question": "I get incorrect print on labels or other custom paper sizes. What should I do?",
+          "answer": "When printing on Custom paper sizes, you should use the EPSON FX-1050 driver ( in the Print Wizard), here are the steps to take:\n1) From the Desktop click Start\n2) Go to Settings\n3) Go to Printers\n4) Highlight the EPSON FX-1050 printer and click File, then Properties\n5) Go to Details and Setup\n6) For the Paper go to custom and click on it (this will give options to change paper sizes).\n7) Once paper size has been made ensure that you click OK to keep the setting.",
+          "faq_url": "https://epson.com/faq/SPT_C112001~faq-49430?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C112001~faq-49430",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000/s/SPT_C112001",
+          "fetched_at": "2026-04-02T04:48:25.858739"
+        },
+        {
+          "question": "What settings do the DIP switches control?",
+          "answer": "The DFX-5000 has two 8-position DIP switches. These switches are\nlocated at the lower front cover of the printer under a small access door.\nSwitch\nON\nOFF\nSW 1-1\nCondensed\n10 Pitch\nSW 1-2\nSlashed Zero\nNormal Zero\nSW 1-3\nGraphic Characters\nItalic Characters\nSW 1-4\n0K Input Buffer\n3K Input Buffer\nSW 1-5\nNLQ\nDraft\nCountry\nSW 1-6\nSW 1-7\nSW 1-8\nUSA\nON\nON\nON\nFrance\nON\nON\nOFF\nGermany\nON\nOFF\nON\nUnited Kingdom\nON\nOFF\nOFF\nDenmark\nOFF\nON\nON\nSweden\nOFF\nON\nOFF\nItaly\nOFF\nOFF\nON\nSpain\nOFF\nOFF\nOFF\nSwitch\nON\nOFF\nSW 2-1\n12\" Page Length\n11\" Page Length\nSW 2-2\nNormal Draft\nHigh Speed Draft\nSW 2-3\n1\" Skip over Perf\nSkip over Perf Inactive\nSW 2-4\nCR Produces CR + LF\nCR Only\nInterface\nSW 2-5\nSW 2-6\nParallel\nOFF\nOFF\nSerial/Odd\nOFF\nON\nSerial/Even\nON\nOFF\nSerial/None\nON\nON\nBaud\nSW 2-7\nSW 2-8\n9600\nOFF\nOFF\n4800\nOFF\nON\n1200\nON\nOFF\n300\nON\nON",
+          "faq_url": "https://epson.com/faq/SPT_C112001~faq-50186?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C112001~faq-50186",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000/s/SPT_C112001",
+          "fetched_at": "2026-04-02T04:48:27.009800"
+        },
+        {
+          "question": "How can I print barcodes?",
+          "answer": "This model does not have bar codes built-in. To print bar codes you will need to use an application that will send them graphically. You may want to check with a local computer supply store to see if they have such an application.",
+          "faq_url": "https://epson.com/faq/SPT_C112001~faq-49428?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C112001~faq-49428",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000/s/SPT_C112001",
+          "fetched_at": "2026-04-02T04:48:28.111061"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Some video drivers may cause a conflict in memory between the printerdriver and video memory. Try changing to the Windows video driver provided by Microsoft or check to see if the video card manufacturer has an updated video driver available. This is often the cause of strange printing problems such as missing characters or lines through the printed document.\nBroken printhead pins may also cause this problem. If the problem continues when performing the printer's self test then the printhead is most likely the problem. This would need to be serviced by an Epson authorized repair center.",
+          "faq_url": "https://epson.com/faq/SPT_C112001~faq-49425?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C112001~faq-49425",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000/s/SPT_C112001",
+          "fetched_at": "2026-04-02T04:48:29.227277"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "How can I print barcodes?",
+          "answer": "This model does not have bar codes built-in. To print bar codes you will need to use an application that will send them graphically. You may want to check with a local computer supply store to see if they have such an application.",
+          "faq_url": "https://epson.com/faq/SPT_C112001~faq-49428?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C112001~faq-49428",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000/s/SPT_C112001",
+          "fetched_at": "2026-04-02T04:48:30.350249"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "How do I create a custom paper size in the Server Properties?",
+          "answer": "Follow these steps to create a new page size accessible by all printer drivers installed in Windows:\nOpen the\nPrinters\nor\nPrinters and Faxes\nwindow.\nClick\nFile\n, then\nServer Properties\n.\nPut a check in the\nCreate a new form\nbox.\nInput a name for the custom paper size.\nUnder\nPaper Size\n, enter the desired height and width.\nClick\nSave\nor\nSave Form\nto add the new form size to the list, then\nOK\nto close Server Properties.",
+          "faq_url": "https://epson.com/faq/SPT_C112001~faq-140638?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C112001~faq-140638",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000/s/SPT_C112001",
+          "fetched_at": "2026-04-02T04:48:31.448558"
+        },
+        {
+          "question": "Why doesn't remote paper path switching work?",
+          "answer": "The only time the printer can change paper paths is when the optional paper cutter has been installed on the printer.\nIf the paper cutter is not installed, the printer would have to pull back through all the pages it had just printed and then change tractors. if you had a 20 or more page report, that would be a lot of paper being pulled back through the printer.\nSo, the change tractor code will not work with out the optional paper cutter.\nYou can get more information on the paper cutter by contacting the Epson Store.",
+          "faq_url": "https://epson.com/faq/SPT_C112001~faq-49429?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C112001~faq-49429",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000/s/SPT_C112001",
+          "fetched_at": "2026-04-02T04:48:32.646487"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Some video drivers may cause a conflict in memory between the printerdriver and video memory. Try changing to the Windows video driver provided by Microsoft or check to see if the video card manufacturer has an updated video driver available. This is often the cause of strange printing problems such as missing characters or lines through the printed document.\nBroken printhead pins may also cause this problem. If the problem continues when performing the printer's self test then the printhead is most likely the problem. This would need to be serviced by an Epson authorized repair center.",
+          "faq_url": "https://epson.com/faq/SPT_C112001~faq-49425?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C112001~faq-49425",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000/s/SPT_C112001",
+          "fetched_at": "2026-04-02T04:48:33.708868"
+        },
+        {
+          "question": "I get incorrect print on labels or other custom paper sizes. What should I do?",
+          "answer": "When printing on Custom paper sizes, you should use the EPSON FX-1050 driver ( in the Print Wizard), here are the steps to take:\n1) From the Desktop click Start\n2) Go to Settings\n3) Go to Printers\n4) Highlight the EPSON FX-1050 printer and click File, then Properties\n5) Go to Details and Setup\n6) For the Paper go to custom and click on it (this will give options to change paper sizes).\n7) Once paper size has been made ensure that you click OK to keep the setting.",
+          "faq_url": "https://epson.com/faq/SPT_C112001~faq-49430?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C112001~faq-49430",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000/s/SPT_C112001",
+          "fetched_at": "2026-04-02T04:48:34.831555"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "What settings do the DIP switches control?",
+          "answer": "The DFX-5000 has two 8-position DIP switches. These switches are\nlocated at the lower front cover of the printer under a small access door.\nSwitch\nON\nOFF\nSW 1-1\nCondensed\n10 Pitch\nSW 1-2\nSlashed Zero\nNormal Zero\nSW 1-3\nGraphic Characters\nItalic Characters\nSW 1-4\n0K Input Buffer\n3K Input Buffer\nSW 1-5\nNLQ\nDraft\nCountry\nSW 1-6\nSW 1-7\nSW 1-8\nUSA\nON\nON\nON\nFrance\nON\nON\nOFF\nGermany\nON\nOFF\nON\nUnited Kingdom\nON\nOFF\nOFF\nDenmark\nOFF\nON\nON\nSweden\nOFF\nON\nOFF\nItaly\nOFF\nOFF\nON\nSpain\nOFF\nOFF\nOFF\nSwitch\nON\nOFF\nSW 2-1\n12\" Page Length\n11\" Page Length\nSW 2-2\nNormal Draft\nHigh Speed Draft\nSW 2-3\n1\" Skip over Perf\nSkip over Perf Inactive\nSW 2-4\nCR Produces CR + LF\nCR Only\nInterface\nSW 2-5\nSW 2-6\nParallel\nOFF\nOFF\nSerial/Odd\nOFF\nON\nSerial/Even\nON\nOFF\nSerial/None\nON\nON\nBaud\nSW 2-7\nSW 2-8\n9600\nOFF\nOFF\n4800\nOFF\nON\n1200\nON\nOFF\n300\nON\nON",
+          "faq_url": "https://epson.com/faq/SPT_C112001~faq-50186?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C112001~faq-50186",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000/s/SPT_C112001",
+          "fetched_at": "2026-04-02T04:48:35.928399"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C112001~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C112001~faq-00004dc-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000/s/SPT_C112001",
+          "fetched_at": "2026-04-02T04:48:37.082835"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C112001~faq-000096d-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C112001~faq-000096d-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000/s/SPT_C112001",
+          "fetched_at": "2026-04-02T04:48:38.160504"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C112001~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C112001~faq-00004b0-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000/s/SPT_C112001",
+          "fetched_at": "2026-04-02T04:48:39.279449"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

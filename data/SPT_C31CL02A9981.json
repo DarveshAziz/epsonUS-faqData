@@ -1,0 +1,313 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Label Printers",
+  "series": "ColorWorks Series",
+  "model": {
+    "name": "Epson ColorWorks CW-C8000",
+    "sku": "SPT_C31CL02A9981",
+    "url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C8000/s/SPT_C31CL02A9981"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "Can I use this product with an applicator?",
+          "answer": "Yes. Contact your dealer for information and applicator specifications.",
+          "faq_url": "https://epson.com/faq/SPT_C31CL02A9981~faq-0000717-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C31CL02A9981~faq-0000717-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C8000/s/SPT_C31CL02A9981",
+          "fetched_at": "2026-04-02T04:41:57.025453"
+        },
+        {
+          "question": "What is the difference between the Epson Device Admin software and the Epson Web Config utility?",
+          "answer": "Both applications manage Epson printers that are connected to a network. However, the Epson Device Admin software will allow you to configure and monitor multiple Epson printers at one time. The Epson Web Config utility will allow you to configure and monitor one Epson printer at a time. See below for a list of supported features.\nEpson Device Admin and Epson Web Config\nNote:\nThe features listed below are supported remotely over a network.\nConfigure a single printer.\nDisplay a printer's ink supply level and usage counter.\nImport and export printer configuration settings to back up or clone configuration settings to another printer.\nCheck and update the firmware version of a single printer.\nEpson Device Admin\nEpson Device Admin supports these features, in addition to those listed above.\nSend an email alert when an error occurs on the printer.*\nSchedule and send an email that reports the printer's usage.*\nSchedule and implement a firmware update.\nConfigure multiple Epson printers via a template.\n* Email services need to be configured in the Epson Device Admin software to use these features.\nNote:\nOther Epson scanners, inkjet printers, and large format printers may include an option to send an email alert from the Epson Web Config utility. For support with these products, consult the product's user manual.",
+          "faq_url": "https://epson.com/faq/SPT_C31CL02A9981~faq-0000716-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C31CL02A9981~faq-0000716-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C8000/s/SPT_C31CL02A9981",
+          "fetched_at": "2026-04-02T04:41:58.061676"
+        },
+        {
+          "question": "How do I disable the beep on the printer?",
+          "answer": "Do the following:\nOpen the\nPrinter Setting Utility\nsoftware.\nSelect\nDetailed Settings\n>\nPrinter Settings.\nIn the Notification settings section, click the drop-down arrow and select\nOff\nfor the Beeper volume.\nClick the\nApply settings\nbutton.",
+          "faq_url": "https://epson.com/faq/SPT_C31CL02A9981~faq-000070C-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C31CL02A9981~faq-000070C-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C8000/s/SPT_C31CL02A9981",
+          "fetched_at": "2026-04-02T04:41:59.002895"
+        },
+        {
+          "question": "How do I replace the maintenance box?",
+          "answer": "Make sure you have a new maintenance box before you begin.\nNote:\nWhen you see a message on the LCD screen indicating the maintenance box is at the end of its service life, it should be replaced promptly.\nCAUTION:\nDo not reuse a maintenance box that has been removed and left uninstalled for more than a week. Keep the maintenance box away from direct sunlight.\nRemove the new maintenance box from its package.\nOpen the paper cover and then open the maintenance box cover.\nGrasp the maintenance box and pull it out of its holder.\nPlace the used maintenance box in the bag that came with the new maintenance box.\nInsert the new maintenance box into the holder and push it in all the way.\nClose the maintenance box cover.\nDispose of the used maintenance box at your local recycling center.",
+          "faq_url": "https://epson.com/faq/SPT_C31CL02A9981~faq-0000711-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C31CL02A9981~faq-0000711-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C8000/s/SPT_C31CL02A9981",
+          "fetched_at": "2026-04-02T04:41:59.984127"
+        },
+        {
+          "question": "The quality of the print on my labels does not appear as I expected. What should I do?",
+          "answer": "Try the following:\nMake sure you print on compatible media. See the product's technical reference guide for information.\nPrint a nozzle check pattern to see if any of the nozzles are clogged. Clean the print head, if necessary.\nMake sure the paper type setting in the software matches the type of media you loaded in the product.\nMake sure you load the printable side of the paper correctly in the product.\nAdjust the print quality settings in the product's software.",
+          "faq_url": "https://epson.com/faq/SPT_C31CL02A9981~faq-0000714-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C31CL02A9981~faq-0000714-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C8000/s/SPT_C31CL02A9981",
+          "fetched_at": "2026-04-02T04:42:00.942749"
+        },
+        {
+          "question": "How do I create a custom print setting in the product's driver in Windows?",
+          "answer": "Do one of the following:\nWindows 11\n: Click\n, then search for\nSettings\nand select it. Select\nBluetooth & devices\n>\nPrinters & scanners\n. Select your printer and select\nPrinting preferences\n.\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your printer and select\nManage\n>\nPrinting preferences\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect\nUser Defined\nfor Media Layout and then populate the following fields in the User Defined Media layout window:\nLabel Width\nLabel Length\nLeft Gap\nSelect any other media settings as necessary.\nNote:\nThere is no setting for Semi Gloss media.\nClick\nAdd\nand then\nClose\n. You can now select the new media size from the Document Size drop-down list.",
+          "faq_url": "https://epson.com/faq/SPT_C31CL02A9981~faq-0000724-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C31CL02A9981~faq-0000724-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C8000/s/SPT_C31CL02A9981",
+          "fetched_at": "2026-04-02T04:42:02.052084"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C31CL02A9981~faq-0000f4c-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C31CL02A9981~faq-0000f4c-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C8000/s/SPT_C31CL02A9981",
+          "fetched_at": "2026-04-02T04:42:03.017892"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C31CL02A9981~faq-0000f4b-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C31CL02A9981~faq-0000f4b-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C8000/s/SPT_C31CL02A9981",
+          "fetched_at": "2026-04-02T04:42:04.082061"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C31CL02A9981~faq-0000f4d-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C31CL02A9981~faq-0000f4d-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C8000/s/SPT_C31CL02A9981",
+          "fetched_at": "2026-04-02T04:42:05.198469"
+        },
+        {
+          "question": "Where can I purchase the product?",
+          "answer": "You can purchase it from an Epson Profocus reseller. The reseller will help you match the product with the right media, third-party accessories, and integration options for your needs.",
+          "faq_url": "https://epson.com/faq/SPT_C31CL02A9981~faq-0000a0a-cwc8000?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C31CL02A9981~faq-0000a0a-cwc8000",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C8000/s/SPT_C31CL02A9981",
+          "fetched_at": "2026-04-02T04:42:06.111930"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "How long can I use the ink packs after they are installed?",
+          "answer": "For best printing results, expend the ink packs within 6 months of installation.",
+          "faq_url": "https://epson.com/faq/SPT_C31CL02A9981~faq-0000b6f-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C31CL02A9981~faq-0000b6f-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C8000/s/SPT_C31CL02A9981",
+          "fetched_at": "2026-04-02T04:42:07.224318"
+        },
+        {
+          "question": "Can I remove the ink packs from the product if I'm not using the product?",
+          "answer": "No. The ink packs should remain installed in the product even when the product is not being used.\nNote:\nThe ink delivery system is not sealed when the ink packs are removed. This may allow debris to enter the ink delivery system, which may cause damage.",
+          "faq_url": "https://epson.com/faq/SPT_C31CL02A9981~faq-0000b6e-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C31CL02A9981~faq-0000b6e-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C8000/s/SPT_C31CL02A9981",
+          "fetched_at": "2026-04-02T04:42:08.158785"
+        },
+        {
+          "question": "What is the composition of the ink in the ink packs?",
+          "answer": "The ink for your product is water-based and nontoxic. For more information, see\nSafety Data Sheets\npage.",
+          "faq_url": "https://epson.com/faq/SPT_C31CL02A9981~faq-0000b6d-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C31CL02A9981~faq-0000b6d-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C8000/s/SPT_C31CL02A9981",
+          "fetched_at": "2026-04-02T04:42:09.072403"
+        },
+        {
+          "question": "What are the ink yields I can expect from the ink packs?",
+          "answer": "Contact your dealer for this information.",
+          "faq_url": "https://epson.com/faq/SPT_C31CL02A9981~faq-0000b6c-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C31CL02A9981~faq-0000b6c-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C8000/s/SPT_C31CL02A9981",
+          "fetched_at": "2026-04-02T04:42:10.004156"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "Should the ink packs remain installed when I transport my product?",
+          "answer": "Yes. Leave the ink packs installed. Removing the packs can dry out the print head and may prevent the product from printing.",
+          "faq_url": "https://epson.com/faq/SPT_C31CL02A9981~faq-0000b70-shared?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C31CL02A9981~faq-0000b70-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C8000/s/SPT_C31CL02A9981",
+          "fetched_at": "2026-04-02T04:42:10.978038"
+        },
+        {
+          "question": "How do I replace the maintenance box?",
+          "answer": "Make sure you have a new maintenance box before you begin.\nNote:\nWhen you see a message on the LCD screen indicating the maintenance box is at the end of its service life, it should be replaced promptly.\nCAUTION:\nDo not reuse a maintenance box that has been removed and left uninstalled for more than a week. Keep the maintenance box away from direct sunlight.\nRemove the new maintenance box from its package.\nOpen the paper cover and then open the maintenance box cover.\nGrasp the maintenance box and pull it out of its holder.\nPlace the used maintenance box in the bag that came with the new maintenance box.\nInsert the new maintenance box into the holder and push it in all the way.\nClose the maintenance box cover.\nDispose of the used maintenance box at your local recycling center.",
+          "faq_url": "https://epson.com/faq/SPT_C31CL02A9981~faq-0000711-shared?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C31CL02A9981~faq-0000711-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C8000/s/SPT_C31CL02A9981",
+          "fetched_at": "2026-04-02T04:42:11.885338"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "Which type of media can I print on?",
+          "answer": "Please see the product's technical reference guide.\nNote:\nDo not use pin-fed media.",
+          "faq_url": "https://epson.com/faq/SPT_C31CL02A9981~faq-0000713-cwc8000?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C31CL02A9981~faq-0000713-cwc8000",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C8000/s/SPT_C31CL02A9981",
+          "fetched_at": "2026-04-02T04:42:12.786117"
+        },
+        {
+          "question": "What is the best way to print glossy labels?",
+          "answer": "Print on compatible high gloss media. See the product's technical reference guide for the information.",
+          "faq_url": "https://epson.com/faq/SPT_C31CL02A9981~faq-0000a12-cwc8000?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C31CL02A9981~faq-0000a12-cwc8000",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C8000/s/SPT_C31CL02A9981",
+          "fetched_at": "2026-04-02T04:42:13.734933"
+        },
+        {
+          "question": "The quality of the print on my labels does not appear as I expected. What should I do?",
+          "answer": "Try the following:\nMake sure you print on compatible media. See the product's technical reference guide for information.\nPrint a nozzle check pattern to see if any of the nozzles are clogged. Clean the print head, if necessary.\nMake sure the paper type setting in the software matches the type of media you loaded in the product.\nMake sure you load the printable side of the paper correctly in the product.\nAdjust the print quality settings in the product's software.",
+          "faq_url": "https://epson.com/faq/SPT_C31CL02A9981~faq-0000714-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C31CL02A9981~faq-0000714-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C8000/s/SPT_C31CL02A9981",
+          "fetched_at": "2026-04-02T04:42:14.678290"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print",
+      "section_id": "8796158634060",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "How do I create a custom print setting in the product's driver in Windows?",
+          "answer": "Do one of the following:\nWindows 11\n: Click\n, then search for\nSettings\nand select it. Select\nBluetooth & devices\n>\nPrinters & scanners\n. Select your printer and select\nPrinting preferences\n.\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your printer and select\nManage\n>\nPrinting preferences\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect\nUser Defined\nfor Media Layout and then populate the following fields in the User Defined Media layout window:\nLabel Width\nLabel Length\nLeft Gap\nSelect any other media settings as necessary.\nNote:\nThere is no setting for Semi Gloss media.\nClick\nAdd\nand then\nClose\n. You can now select the new media size from the Document Size drop-down list.",
+          "faq_url": "https://epson.com/faq/SPT_C31CL02A9981~faq-0000724-shared?faq_cat=faq-8796158634060",
+          "faq_slug": "SPT_C31CL02A9981~faq-0000724-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C8000/s/SPT_C31CL02A9981",
+          "fetched_at": "2026-04-02T04:42:15.693135"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Product Information",
+      "section_id": "8796159060044",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "Where can I purchase the product?",
+          "answer": "You can purchase it from an Epson Profocus reseller. The reseller will help you match the product with the right media, third-party accessories, and integration options for your needs.",
+          "faq_url": "https://epson.com/faq/SPT_C31CL02A9981~faq-0000a0a-cwc8000?faq_cat=faq-8796159060044",
+          "faq_slug": "SPT_C31CL02A9981~faq-0000a0a-cwc8000",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C8000/s/SPT_C31CL02A9981",
+          "fetched_at": "2026-04-02T04:42:14.964375"
+        },
+        {
+          "question": "How do I disable the beep on the printer?",
+          "answer": "Do the following:\nOpen the\nPrinter Setting Utility\nsoftware.\nSelect\nDetailed Settings\n>\nPrinter Settings.\nIn the Notification settings section, click the drop-down arrow and select\nOff\nfor the Beeper volume.\nClick the\nApply settings\nbutton.",
+          "faq_url": "https://epson.com/faq/SPT_C31CL02A9981~faq-000070C-shared?faq_cat=faq-8796159060044",
+          "faq_slug": "SPT_C31CL02A9981~faq-000070C-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C8000/s/SPT_C31CL02A9981",
+          "fetched_at": "2026-04-02T04:42:15.888590"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "What is the difference between the Epson Device Admin software and the Epson Web Config utility?",
+          "answer": "Both applications manage Epson printers that are connected to a network. However, the Epson Device Admin software will allow you to configure and monitor multiple Epson printers at one time. The Epson Web Config utility will allow you to configure and monitor one Epson printer at a time. See below for a list of supported features.\nEpson Device Admin and Epson Web Config\nNote:\nThe features listed below are supported remotely over a network.\nConfigure a single printer.\nDisplay a printer's ink supply level and usage counter.\nImport and export printer configuration settings to back up or clone configuration settings to another printer.\nCheck and update the firmware version of a single printer.\nEpson Device Admin\nEpson Device Admin supports these features, in addition to those listed above.\nSend an email alert when an error occurs on the printer.*\nSchedule and send an email that reports the printer's usage.*\nSchedule and implement a firmware update.\nConfigure multiple Epson printers via a template.\n* Email services need to be configured in the Epson Device Admin software to use these features.\nNote:\nOther Epson scanners, inkjet printers, and large format printers may include an option to send an email alert from the Epson Web Config utility. For support with these products, consult the product's user manual.",
+          "faq_url": "https://epson.com/faq/SPT_C31CL02A9981~faq-0000716-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C31CL02A9981~faq-0000716-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C8000/s/SPT_C31CL02A9981",
+          "fetched_at": "2026-04-02T04:42:16.789250"
+        },
+        {
+          "question": "Can I use this product with an applicator?",
+          "answer": "Yes. Contact your dealer for information and applicator specifications.",
+          "faq_url": "https://epson.com/faq/SPT_C31CL02A9981~faq-0000717-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C31CL02A9981~faq-0000717-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C8000/s/SPT_C31CL02A9981",
+          "fetched_at": "2026-04-02T04:42:17.736556"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C31CL02A9981~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C31CL02A9981~faq-0000f4b-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C8000/s/SPT_C31CL02A9981",
+          "fetched_at": "2026-04-02T04:42:18.863582"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C31CL02A9981~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C31CL02A9981~faq-0000f4c-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C8000/s/SPT_C31CL02A9981",
+          "fetched_at": "2026-04-02T04:42:19.765508"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C31CL02A9981~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C31CL02A9981~faq-0000f4d-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C8000/s/SPT_C31CL02A9981",
+          "fetched_at": "2026-04-02T04:42:20.777754"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

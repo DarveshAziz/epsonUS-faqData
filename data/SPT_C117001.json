@@ -1,0 +1,367 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Impact Printers",
+  "series": "DFX Series",
+  "model": {
+    "name": "Epson DFX-5000+",
+    "sku": "SPT_C117001",
+    "url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C117001~faq-00004dc-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:48:41.560970"
+        },
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-000096d-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C117001~faq-000096d-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:48:42.690066"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C117001~faq-00004b0-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:48:43.791697"
+        },
+        {
+          "question": "I was printing labels and one of the labels peeled off. Now my paper won't feed. Can I remove the platen to get the label out?",
+          "answer": "No, you cannot remove the platen from the printer. If you press the FRONT/REAR button to select the paper path and the label does not appear on the platen for you to remove, you will need to have the printer serviced. When printing labels, it is recommended that you only print with the front push tractor and do not reverse feed the labels. Labels have a tendency to curl and peel off underneath the platen when being fed through the rear push tractor.",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-34062-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C117001~faq-34062-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:48:45.029426"
+        },
+        {
+          "question": "How does the automatic tear-off feature work?",
+          "answer": "To enable the automatic tear-off feature, turn the printer OFF and move dip switch 3-8 to the ON position. Turn the printer back ON and send a document. The printer automatically feeds the paper to the printer's tear-off edge after receiving a form feed command or line feed commands totaling the currently set form length (usually 66 lines per page when selecting an 11\" page length).",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-33967?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C117001~faq-33967",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:48:46.828845"
+        },
+        {
+          "question": "There is paper loaded on the tractor unit. Why won't my product load paper?",
+          "answer": "If you are using letter size (8.5\" x 11\") paper, make sure the paper is loaded over to the left side of the printer. The paper sensor is located on the left side of the printer. If the sensor does not sense that there is paper loaded, the printer will not operate properly.",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-34049?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C117001~faq-34049",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:48:48.031623"
+        },
+        {
+          "question": "Why does my product stop or pause in the middle of a print job?",
+          "answer": "The printer has a built-in sensor that monitors the temperature of the print head. When the print head begins to get too hot, the printer may pause or slow down the speed of the print head unit to ensure that the print head does not overheat. If the print head begins to overheat, the thermistor will stop the print head completely until it has cooled down. Once the print head has sufficiently cooled down, the printer will resume the print job. Another reason for the printer to pause or stop can be that the printer is waiting for more data or is in the middle of processing data already received.",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-34052?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C117001~faq-34052",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:48:49.180418"
+        },
+        {
+          "question": "Why does my product beep four times?",
+          "answer": "The printer has a sensor that will not allow jobs to be printed if the printer top cover is open. Close the top cover and press the PAUSE button to put the printer online.",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-34056?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C117001~faq-34056",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:48:50.367672"
+        },
+        {
+          "question": "What is the recommended duty cycle for my product?",
+          "answer": "The specification recommended is 25 percent. Epson America's definition of a 25 percent duty cycle stands for the printer printing (not idle) for two hours per day based on an eight hour day at 22 days per month.",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-33952?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C117001~faq-33952",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:48:51.455193"
+        },
+        {
+          "question": "My product is not starting printing at the right position on the paper. How can I change the top-of-form setting?",
+          "answer": "You can change the starting print position by using the MICROFEED feature on the printer's control panel. Load your paper and wait until it stops feeding. Once it has stops press the TOF button to enter top-of-form mode. Then use the MICROFEED UP arrow or MICROFEED DOWN arrow to adjust the top-of-form position. The printer will beep continuously and will not move anymore when it has reached the maximum adjustment point. Once you have the paper where you want it, press the TOF button again.",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-34083?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C117001~faq-34083",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:48:52.676357"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Can I print on checks that are 3-inches in length?",
+          "answer": "Yes, you can print on special sized papers. In Windows, you need to setup the printer options for a User Defined Page Size.",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-33900?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C117001~faq-33900",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:48:53.754752"
+        },
+        {
+          "question": "How can I print barcodes?",
+          "answer": "This model does not have bar codes built-in. To print bar codes you will need to use an application that will send them graphically. You may want to check with a local computer supply store to see if they have such an application.",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-49437?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C117001~faq-49437",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:48:54.861615"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "My product beeps (five sets of four beeps) and will not load paper. Why won't it load paper?",
+          "answer": "If the printer does five sets of four beeps (with a pause in between each set), the paper may not be installed correctly or there may be a paper jam. Remove the paper and check to see if there is any paper jammed in the printer. Reinstall the paper onto the tractor unit and try printing again. If the problem persists, have the printer taken in to be serviced.",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-34059?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C117001~faq-34059",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:48:54.319261"
+        },
+        {
+          "question": "I was printing labels and one of the labels peeled off. Now my paper won't feed. Can I remove the platen to get the label out?",
+          "answer": "No, you cannot remove the platen from the printer. If you press the FRONT/REAR button to select the paper path and the label does not appear on the platen for you to remove, you will need to have the printer serviced. When printing labels, it is recommended that you only print with the front push tractor and do not reverse feed the labels. Labels have a tendency to curl and peel off underneath the platen when being fed through the rear push tractor.",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-34062-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C117001~faq-34062-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:48:55.431929"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "How do I create a custom paper size in the Server Properties?",
+          "answer": "Follow these steps to create a new page size accessible by all printer drivers installed in Windows:\nOpen the\nPrinters\nor\nPrinters and Faxes\nwindow.\nClick\nFile\n, then\nServer Properties\n.\nPut a check in the\nCreate a new form\nbox.\nInput a name for the custom paper size.\nUnder\nPaper Size\n, enter the desired height and width.\nClick\nSave\nor\nSave Form\nto add the new form size to the list, then\nOK\nto close Server Properties.",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-140640?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C117001~faq-140640",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:48:56.503244"
+        },
+        {
+          "question": "There is paper loaded on the tractor unit. Why won't my product load paper?",
+          "answer": "If you are using letter size (8.5\" x 11\") paper, make sure the paper is loaded over to the left side of the printer. The paper sensor is located on the left side of the printer. If the sensor does not sense that there is paper loaded, the printer will not operate properly.",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-34049?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C117001~faq-34049",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:48:57.617826"
+        },
+        {
+          "question": "Why doesn't remote paper path switching work?",
+          "answer": "The only time the printer can change paper paths is when the optional paper cutter has been installed on the printer.\nIf the paper cutter is not installed, the printer would have to pull back through all the pages it had just printed and then change tractors. if you had a 20 or more page report, that would be a lot of paper being pulled back through the printer.\nSo, the change tractor code will not work with out the optional paper cutter.\nYou can get more information on the paper cutter by contacting the Epson Store.",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-49438?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C117001~faq-49438",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:48:58.728074"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "My product is not starting printing at the right position on the paper. How can I change the top-of-form setting?",
+          "answer": "You can change the starting print position by using the MICROFEED feature on the printer's control panel. Load your paper and wait until it stops feeding. Once it has stops press the TOF button to enter top-of-form mode. Then use the MICROFEED UP arrow or MICROFEED DOWN arrow to adjust the top-of-form position. The printer will beep continuously and will not move anymore when it has reached the maximum adjustment point. Once you have the paper where you want it, press the TOF button again.",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-34083?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C117001~faq-34083",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:48:59.825355"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Some video drivers may cause a conflict in memory between the printerdriver and video memory. Try changing to the Windows video driver provided by Microsoft or check to see if the video card manufacturer has an updated video driver available. This is often the cause of strange printing problems such as missing characters or lines through the printed document.\nBroken printhead pins may also cause this problem. If the problem continues when performing the printer's self test then the printhead is most likely the problem. This would need to be serviced by an Epson authorized repair center.",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-49434?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C117001~faq-49434",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:49:00.928670"
+        },
+        {
+          "question": "I get incorrect print on labels or other custom paper sizes. What should I do?",
+          "answer": "When printing on Custom paper sizes, you should use the EPSON FX-1050 driver ( in the Print Wizard), here are the steps to take:\n1) From the Desktop click Start\n2) Go to Settings\n3) Go to Printers\n4) Highlight the EPSON FX-1050 printer and click File, then Properties\n5) Go to Details and Setup\n6) For the Paper go to custom and click on it (this will give options to change paper sizes).\n7) Once paper size has been made ensure that you click OK to keep the setting.",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-49439?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C117001~faq-49439",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:49:01.996359"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "What printer driver should I use if my product is not listed?",
+          "answer": "DFX-8000, DFX-5000, FX-870/1170, FX series, LX series, RX series, or MX series.",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-33890?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C117001~faq-33890",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:49:03.132557"
+        },
+        {
+          "question": "Can my product emulate an IBM Proprinter?",
+          "answer": "Yes, the DFX-5000+ has a built-in IBM Proprinter II emulation.",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-34045?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C117001~faq-34045",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:49:04.225690"
+        },
+        {
+          "question": "What are the common escape codes for my product?",
+          "answer": "Some commonly used escape codes include (in decimal values) -Reset (27, 64); Set page length in lines (27, 67, n - where n is a number from 1 to 127); Carriage return (13); Line feed (10); Form feed (12); Select 1/8-inch line spacing (27, 48); 10 cpi (27, 80); 12 cpi (27, 77); Select bold font (27, 69); Cancel bold font (27, 70); Select italic font (27, 52); Cancel italic font (27, 53); Turn underline on/off (27, 45, n - where n equals 49=ON or 48=OFF); Select condensed print (15); Cancel condensed print (18). For more escape codes, please refer to the Command Summary of your User's Manual. If you need to use advanced escape codes for programming purposes, you can purchase an ESC/P Reference Manual from EPSON Accessories.",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-34064?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C117001~faq-34064",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:49:05.369725"
+        },
+        {
+          "question": "Can I switch between tractors using ESC codes?",
+          "answer": "No, you cannot use ESC codes to switch between tractors.",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-34067?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C117001~faq-34067",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:49:06.587297"
+        },
+        {
+          "question": "Does my product use dip switches to change default settings?",
+          "answer": "Yes, the DFX-5000+ has three sets of dip switch settings so you can easily change the printer's default settings. To find out what your current settings are, print out the self-test.",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-34074?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C117001~faq-34074",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:49:07.711793"
+        },
+        {
+          "question": "Can my product be connected to IBM mainframe (IBM 3270) and IBM minicomputer (AS/400 or System 3X) environments?",
+          "answer": "Yes, the printer uses Type-B Twinax and Coax interface cards that enable users to attach their printer to an IBM 3270, System 3X, or AS/400. The Twinax and Coax interface cards are available through EPSON Accessories.",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-34080?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C117001~faq-34080",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:49:08.888401"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C117001~faq-00004dc-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:49:10.029626"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "What is the recommended duty cycle for my product?",
+          "answer": "The specification recommended is 25 percent. Epson America's definition of a 25 percent duty cycle stands for the printer printing (not idle) for two hours per day based on an eight hour day at 22 days per month.",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-33952?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C117001~faq-33952",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:49:11.212371"
+        },
+        {
+          "question": "How does the automatic tear-off feature work?",
+          "answer": "To enable the automatic tear-off feature, turn the printer OFF and move dip switch 3-8 to the ON position. Turn the printer back ON and send a document. The printer automatically feeds the paper to the printer's tear-off edge after receiving a form feed command or line feed commands totaling the currently set form length (usually 66 lines per page when selecting an 11\" page length).",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-33967?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C117001~faq-33967",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:49:12.301716"
+        },
+        {
+          "question": "Why does my product stop or pause in the middle of a print job?",
+          "answer": "The printer has a built-in sensor that monitors the temperature of the print head. When the print head begins to get too hot, the printer may pause or slow down the speed of the print head unit to ensure that the print head does not overheat. If the print head begins to overheat, the thermistor will stop the print head completely until it has cooled down. Once the print head has sufficiently cooled down, the printer will resume the print job. Another reason for the printer to pause or stop can be that the printer is waiting for more data or is in the middle of processing data already received.",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-34052?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C117001~faq-34052",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:49:13.505694"
+        },
+        {
+          "question": "Why does my product beep four times?",
+          "answer": "The printer has a sensor that will not allow jobs to be printed if the printer top cover is open. Close the top cover and press the PAUSE button to put the printer online.",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-34056?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C117001~faq-34056",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:49:14.897047"
+        },
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-000096d-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C117001~faq-000096d-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:49:16.046177"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C117001~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C117001~faq-00004b0-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-5000%2B/s/SPT_C117001",
+          "fetched_at": "2026-04-02T04:49:17.202966"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

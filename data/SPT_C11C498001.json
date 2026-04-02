@@ -1,0 +1,473 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "Epson Stylus Series",
+  "model": {
+    "name": "Epson Stylus Photo 825",
+    "sku": "SPT_C11C498001",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C498001~faq-00004dc-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:22.345314"
+        },
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-0000ad0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C498001~faq-0000ad0-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:23.332037"
+        },
+        {
+          "question": "My product is out of color ink even though I print in black only. Why does this happen?",
+          "answer": "To keep the print head clear, the printer uses a small amount of ink from all the cartridges whenever it prints. Even if you select\nBlack Only\n, some color ink is still being used.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-0000969-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C498001~faq-0000969-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:24.247507"
+        },
+        {
+          "question": "Does OS X support manual duplex printing with my product?",
+          "answer": "This feature is not supported in Mac OS X. However, if your printer has a built-in automatic duplexer, auto-duplexing is supported in Mac OS X 10.6 (Snow Leopard).",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-0000c1d-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C498001~faq-0000c1d-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:25.213307"
+        },
+        {
+          "question": "How do I change the font size of text when I print from software in Windows?",
+          "answer": "You need to select the text or font size in the software you are printing from, not the printer driver. For detailed instructions, contact the company for the application you are printing from.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-00004b7-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C498001~faq-00004b7-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:26.173769"
+        },
+        {
+          "question": "When I try to print to my product in Windows 7, printing is slow or my product stops printing. What should I do?",
+          "answer": "Try the following:\nSelect a lower quality setting in the printer software.\nMake sure your system meets the minimum system requirements for your printer.\nClose the\nDevices and Printers\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-0000bf3-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C498001~faq-0000bf3-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:27.077966"
+        },
+        {
+          "question": "Heavy coated or thick paper does not load correctly or loads skewed. What should I do?",
+          "answer": "The paper you are using may be too heavy or glossy for the paper roller to pick up. Be sure the paper is within printer specifications.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-0000b08-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C498001~faq-0000b08-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:28.002237"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C498001~faq-00004b0-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:28.924988"
+        },
+        {
+          "question": "Can I use hole-punched paper with my product?",
+          "answer": "No. The product does not support this paper type.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-0000ab4-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C498001~faq-0000ab4-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:29.831064"
+        },
+        {
+          "question": "How do you select the correct media type setting in the driver?",
+          "answer": "Your printer automatically adjusts itself for the type of paper you select in your printer software. That's why the Media Type setting is so important. It tells your printer what kind of paper you're using and adjusts the ink coverage accordingly. Before you print, always check your Media Type setting. Here are the settings you should choose for your paper:\nFor this paper\nSelect this Media Type setting\nPlain paper sheets or envelopes\nEPSON Premium Bright White Paper\nPlain paper\nEPSON Iron-On Transfer Paper\n360 dpi Ink Jet Paper\nEPSON Photo Quality Ink Jet Paper\nEPSON Photo Quality Ink Jet Cards\nEPSON Photo Quality Self Adhesive Sheets\nPhoto Quality Ink Jet Paper\nEPSON Photo Paper\nPhoto Paper\nEPSON Photo Quality Glossy Paper\nEPSON Glossy Photo Paper\nEPSON Glossy Photo Greeting Card\nEPSON Panoramic Photo Paper\nEPSON All-Purpose Glossy Paper\nGlossy Photo Paper\nEPSON Premium Glossy Photo Paper\n(including roll paper)\nEPSON Premium Semigloss Photo Paper\n(including roll paper)\nEPSON Premium Luster Photo Paper\n(including roll paper)\nPremium Glossy Photo Paper\nEPSON Matte Paper - Heavyweight\nEPSON Double-Sided Matte Paper\nMatte Paper - Heavyweight\nEPSON Photo Stickers\nEPSON Photo Quality Glossy Film\nPhoto Quality Glossy Film\nEPSON Ink Jet Transparencies\nInk Jet Transparencies\nEPSON ColorLife Photo Paper\nColorLife Photo Paper",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-32326?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C498001~faq-32326",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:30.807140"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "How do I print on envelopes with my product?",
+          "answer": "You can load up to 10 envelopes at a time, top edge first and printable side up. Place the envelopes against the right edge of the sheet feeder and slide the left edge guide against them.\nTip:\nFor best results, press each envelope flat before loading it, or load one envelope at a time.\nMove the thickness lever on the side of the printer to the envelope position.\nBefore you print, make sure you choose the correct envelope size as the paper Size (Windows) or Paper Size (Macintosh) setting. (Remember to move the thickness lever back to the normal position when you're done.)\nReturn to the index",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-32329?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C498001~faq-32329",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:31.688812"
+        },
+        {
+          "question": "When I try to print to my product in Windows 7, printing is slow or my product stops printing. What should I do?",
+          "answer": "Try the following:\nSelect a lower quality setting in the printer software.\nMake sure your system meets the minimum system requirements for your printer.\nClose the\nDevices and Printers\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-0000bf3-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C498001~faq-0000bf3-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:32.626072"
+        },
+        {
+          "question": "Does OS X support manual duplex printing with my product?",
+          "answer": "This feature is not supported in Mac OS X. However, if your printer has a built-in automatic duplexer, auto-duplexing is supported in Mac OS X 10.6 (Snow Leopard).",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-0000c1d-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C498001~faq-0000c1d-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:33.576973"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "How do I replace an ink cartridge?",
+          "answer": "Be sure you have a new ink cartridge before you begin. Once you start the ink cartridge replacement procedure, you must complete all the steps in one session.\n1. Make sure the printer is turned on and not printing (the Processing light should be on, but not flashing), then open the printer cover.\n2. Press the ink cartridge replacement button.\nThe print head moves to the center and the Processing light flashes.\n3. The color cartridge is on the right and the black is on the left.\nPull up the ink cartridge clamp. The cartridge rises up from its holder.\n4. Lift the cartridge out of the printer and dispose of it carefully.\nWarning: Keep ink cartridges out of the reach of children and do not drink the ink.\nIf ink gets on your hands, wash them thoroughly with soap and water.\nIf ink gets in your eyes, flush them thoroughly with water.\n5. Unwrap the new ink cartridge. Then remove only the yellow tape seal on top.\nCaution: You must remove the yellow tape from the top of the cartridge or you will permanently damage it.\nDon't touch the green circuit board on the back of the cartridge; you may inhibit normal operation and printing.\n6. Tilt the new cartridge toward you slightly as you insert it.\nLower the cartridge so that the tabs rest on the hooks.\nCaution: Don't place the cartridge under the hooks, or they may break when you close the cover.\n7. Press down firmly on the ink cartridge clamp until it snaps in place.\n8. If you need to replace the other ink cartridge, repeat steps 3 through 7 before continuing with step 9.\n9. Press the ink cartridge replacement button and close the printer cover. The printer begins charging the ink delivery system. The Processing light flashes, and the printer makes noise. Charging takes about one minute.\n10. When it's finished, the Processing light stops flashing and stays on, and the red error light goes out.\nCaution: Never turn off the printer while the Processing light is flashing, unless the printer hasn't moved or made noise for more than 5 minutes.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-32206?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C498001~faq-32206",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:34.500392"
+        },
+        {
+          "question": "Which ink cartridges should I use with my product?",
+          "answer": "This printer can use only the following Epson ink cartridge part numbers:\nInk Cartridge\nPart Number\nBlack\nT007201\nColor\nT008201",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-32232?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C498001~faq-32232",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:35.439211"
+        },
+        {
+          "question": "How long should an ink cartridge remain in my product if it's not used often?",
+          "answer": "When an installed ink cartridge is more than six (6) months old, you may need to replace it if you notice that your printouts don't look as good as they used to. If print quality doesn't improve after cleaning and aligning the print head, you should replace the ink cartridges.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-32343?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C498001~faq-32343",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:36.369288"
+        },
+        {
+          "question": "How can I tell which ink cartridge needs to be replaced?",
+          "answer": "Check the LCD display codes on the printer to see which cartridge is low or empty.\nILc = Color Low\nILb = Black Low\nIEc = Color Empty\nIEb = Black Empty\nIf you're printing from your computer, you'll see a message telling you which cartridge is low or empty.  Click the 'How to' button to see instructions for replacing the cartridge.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-32346?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C498001~faq-32346",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:37.363937"
+        },
+        {
+          "question": "Can my product still print if an ink cartridge is empty or not installed?",
+          "answer": "No. The printer will not operate if any cartridge is empty or removed.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-32351?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C498001~faq-32351",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:38.248166"
+        },
+        {
+          "question": "How do I know when an ink cartridge needs to be replaced?",
+          "answer": "When the printer's Error light flashes, an ink cartridge is low on ink. This is a good time to make sure you have a new cartridge handy.  When the Error light stays on, a cartridge is empty and you need to replace it.\nThe red error light also comes on if your paper runs out or is jammed, so make sure to check your paper before replacing a cartridge.\nCheck the LCD display codes on the printer to see which cartridge is low or empty.\nILc = Color Low\nILb = Black Low\nIEc = Color Empty\nIEb = Black Empty\nIf you're printing from your computer, you'll see a message telling you which cartridge is low or empty.  Click the 'How to' button to see instructions for replacing the cartridge.\nWhen a cartridge is more than six months old, you may need to replace it if printouts don't look their best.\nIf the quality doesn't improve after cleaning and aligning the print head, you can replace the cartridge even if the red error light is off.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-32349?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C498001~faq-32349",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:39.131550"
+        },
+        {
+          "question": "My product is out of color ink even though I print in black only. Why does this happen?",
+          "answer": "To keep the print head clear, the printer uses a small amount of ink from all the cartridges whenever it prints. Even if you select\nBlack Only\n, some color ink is still being used.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-0000969-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C498001~faq-0000969-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:40.048318"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Memory Cards or External Devices",
+      "section_id": "8796127307852",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "Can I just pull the memory card out of my product when I'm finished printing?",
+          "answer": "When you're finished printing from a memory card, make sure the processing light is not flashing before you remove the card.\nOn a Macintosh, select the memory card icon on your desktop and drag it to the Trash. If you remove the card without doing this, an error message will remain on your screen until you reinsert the card, and you may lose your images.\nCaution: Do not eject a card while the processing light is flashing, or you may lose data on the card.\nIn Windows 2000 or XP, click the Eject Hardware icon on the taskbar and select Stop or Safely remove the Storage Device.\nPress the button to eject the card. Then pull the card out of the slot.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-32317?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11C498001~faq-32317",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:40.986067"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "My product won't feed paper. What should I do?",
+          "answer": "If no paper loads, make sure the paper isn't curled or creased, isn't loaded above the arrow on the left edge guide, and that the paper isn't jammed in the printer.\nReload the paper, making sure the paper edge guide is adjusted to fit the paper's width, and then press the Maintenance button.\nThe printer will enter the Advanced Settings mode with the Ink Cartridge Replacement function selected.\nPress the down arrow button three times or until you see the Paper Feed / Paper Eject function.\nPress the Select button and follow the instructions on the LCD.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-32273?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C498001~faq-32273",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:42.009495"
+        },
+        {
+          "question": "What paper can I use to print Borderless prints?",
+          "answer": "Epson has a wide variety of ink jet paper (4\" x 6\", 5\" x 7\", 8.5\" x 11\", 8\" x 10\" and roll paper) which supports borderless printing with this printer. You can print your photos without margins, extending the image all the way to the edges of the page. Although BorderFree printing is a bit slower, you get beautiful snapshots or enlargements without trimming (not available with Macintosh OS X). Please refer to your Printer Basics manual for more information on creating borderless prints.\nPlease visit the EPSON Store on our web site http://www.epson.com for a complete selection of Epson paper.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-32321?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C498001~faq-32321",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:42.921253"
+        },
+        {
+          "question": "Sometimes the paper doesn't eject all the way or is wrinkled. What should I do?",
+          "answer": "Make sure the correct paper size is selected in your application and/or printer software. If the paper doesn't eject fully, it may be too long for the printer. If the paper is wrinkled, the paper may be damp or too thin.\nIf you're in a humid environment make sure the paper is dry.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-32332?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C498001~faq-32332",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:43.930626"
+        },
+        {
+          "question": "Can I use hole-punched paper with my product?",
+          "answer": "No. The product does not support this paper type.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-0000ab4-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C498001~faq-0000ab4-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:44.910595"
+        },
+        {
+          "question": "Heavy coated or thick paper does not load correctly or loads skewed. What should I do?",
+          "answer": "The paper you are using may be too heavy or glossy for the paper roller to pick up. Be sure the paper is within printer specifications.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-0000b08-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C498001~faq-0000b08-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:45.819763"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "If your printouts contain misaligned vertical lines, you may need to align the print head.\nYour printer must be connected to a local port, not on a network, to use the Print Head Alignment utility.\nDo the following:\n1. Turn on the printer. Then load plain, letter-size paper.\n2. Follow the directions for your operating system.\nWindows:\nRight-click the printer icon on your taskbar (in the lower right corner of your screen) and select Print Head Alignment.\nMacintosh OS 8.6 to 9.x\n:\nOpen your application's File menu and choose Page Setup or Print. Then click the Utility button. On the Utility menu, click the Print Head Alignment button.\nMacintosh OS X\n:\nOpen the Applications folder and double-click EPSON Printer Utility. Select SP 825 in the printer list, click OK, and then select Print Head Alignment.\n3. Follow the instructions on the screen to print a test page. You see the Print Head Alignment window.\n4. On the printed page, select the pattern with the two vertical lines most precisely printed on top of each other. You may need to use a magnifying glass or loupe. Select one pattern each for rows 1, 2, and 3. Then enter the number of the best pattern for each row in the corresponding boxes on the screen. Then click Finish.\nIf you can't find an aligned pattern, choose the best pattern and click Realignment. Then repeat this step.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-32195?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C498001~faq-32195",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:46.888876"
+        },
+        {
+          "question": "I see horizontal banding. What should I do?",
+          "answer": "Make sure you are using a compatible paper type. Verify the printable side of the paper is face up in the sheet feeder. Select your paper type in the printer driver menu and let the driver automatically set the print settings. Make sure the paper thickness lever is in the correct position for your paper type. Make sure your ink cartridges are not outdated. They should be replaced six months after installing them in the printer to ensure the ink is fresh.\nIf necessary, follow these steps to run the head cleaning utility and nozzle check:\nThe Head Cleaning utility is available only when the printer is connected directly to your computer, not over a network.\n1. Make sure the printer is turned on but not printing, and the red Error light is off. (If the Error light is flashing or on, you may need to replace an ink cartridge)\n2.\nWindows\n:\nRight-click the printer icon on your taskbar (in the lower right corner of your screen). Select Head Cleaning.\nMacintosh OS 8.6 to 9.x\n:\nChoose File > Page Setup or Print. Click the Utility button, then click the Head Cleaning button.\nMacintosh OS X\n:\nOpen the Applications folder and double-click EPSON Printer Utility. Select SP 825 in the printer list, click OK, and select Head Cleaning.\n3. Follow the instructions on the screen to clean the print head. Cleaning takes about 30 seconds, during which the printer makes some noise and the green processing light flashes.\nCaution: Never turn off the printer while the light is flashing, unless the printer hasn't moved or made noise for more than 5 minutes.\n4. When the green processing light stops flashing, make sure plain paper is loaded in the printer. Then click Print nozzle check pattern (Windows) or Confirmation (Macintosh) and follow the on-screen directions to print a nozzle check.\n5. If the nozzle check pattern has no gaps in its lines, click Finish.\nIf the pattern has any gaps, click Clean to clean the print head again.\nIf you don't see any improvement after cleaning three or four times, check the solutions beginning on page 91 of your printer basics manual.\nYou can also turn the printer off and wait overnight - this allows any dried ink to soften-and then try cleaning the print head again.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-32198?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C498001~faq-32198",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:47.871815"
+        },
+        {
+          "question": "The quality of my printed output is unacceptable. What should I do?",
+          "answer": "Verify that you are using the correct printer driver for your printer model. Make sure the Media Type setting matches the paper or media loaded. Let the printer driver automatically select the settings for the best quality.\nMake sure that the printable side of the paper is face up, and check the type of paper being used. EPSON brand paper, which is specifically designed for the Stylus ink jet series of printers, delivers the best-printed output.\nIf your output is faint, check the printer driver to make sure you have selected a print resolution other than Economy.\nTry testing the printer on another computer. This will eliminate the possibility of a defective printer cable, parallel port, or software issue. If you're still experiencing a problem, try replacing the ink cartridges with a genuine EPSON ink cartridges.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-32202?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C498001~faq-32202",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:48.794948"
+        },
+        {
+          "question": "The image look inverted, as if viewed in a mirror. What should I do?",
+          "answer": "You may have accidentally used the \"Flip Horizontal or Mirror Image\" option in the printer driver or a similar feature in your application. Turn off the setting in the printer driver and/or software application and try printing again.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-32216?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C498001~faq-32216",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:49.738724"
+        },
+        {
+          "question": "When I try to do a 4 x 6 borderless print, the image is shifted over. What should I do?",
+          "answer": "The Stylus Photo 825 can print borderless images on 4 x 6 inch paper. The issue is that there are two kinds of 4 x 6 inch paper and there are also two different driver settings to choose, one for each of those papers. The older style Photo Paper 4\" x 6\" with Micro Perforated Edges (S041134) has perforations that are meant to be torn off after printing if the printer doesn't support borderless prints. The newer paper is Borderless Photo Paper 4\" x 6\" (S041458), a true 4x6 inch paper. The two driver settings are \"Photo Paper 4 x 6 in\" and \"Photo Paper 4 x 6 in No Perfs\".\nYou can get borderless prints one of two ways:\na) Print via PC based printing only\nb) Use the \"Photo Paper 4 x 6 in\" driver setting\nc) Use the older style paper (S041134) and tear the perforations off afterwards\nor\na) Print via PC based printing or stand-alone\nb) Use the \"Photo Paper 4 x 6 in No Perfs\" driver setting\nor\nborderless Page Layout setting on the control panel\nc) Use the older paper (S041134) and tear the perforations off before the paper is inserted into the printer\nor\nUse the newer, true 4x6 inch paper (S041458) as is\nIf the actual paper size is matched up with the correct driver setting, you should not have any image shift issues.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-32264?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C498001~faq-32264",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:50.680406"
+        },
+        {
+          "question": "The edges of my printout are smeared when I print with a borderless setting. What should I do?",
+          "answer": "It is recommended to use only the thicker specialty media from Epson for borderless printing. This paper is specified in your printer's reference guide. Ink saturation may cause thinner paper to curl as it feeds through the printer causing smearing.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-32294?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C498001~faq-32294",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:51.703501"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "How do you select the correct media type setting in the driver?",
+          "answer": "Your printer automatically adjusts itself for the type of paper you select in your printer software. That's why the Media Type setting is so important. It tells your printer what kind of paper you're using and adjusts the ink coverage accordingly. Before you print, always check your Media Type setting. Here are the settings you should choose for your paper:\nFor this paper\nSelect this Media Type setting\nPlain paper sheets or envelopes\nEPSON Premium Bright White Paper\nPlain paper\nEPSON Iron-On Transfer Paper\n360 dpi Ink Jet Paper\nEPSON Photo Quality Ink Jet Paper\nEPSON Photo Quality Ink Jet Cards\nEPSON Photo Quality Self Adhesive Sheets\nPhoto Quality Ink Jet Paper\nEPSON Photo Paper\nPhoto Paper\nEPSON Photo Quality Glossy Paper\nEPSON Glossy Photo Paper\nEPSON Glossy Photo Greeting Card\nEPSON Panoramic Photo Paper\nEPSON All-Purpose Glossy Paper\nGlossy Photo Paper\nEPSON Premium Glossy Photo Paper\n(including roll paper)\nEPSON Premium Semigloss Photo Paper\n(including roll paper)\nEPSON Premium Luster Photo Paper\n(including roll paper)\nPremium Glossy Photo Paper\nEPSON Matte Paper - Heavyweight\nEPSON Double-Sided Matte Paper\nMatte Paper - Heavyweight\nEPSON Photo Stickers\nEPSON Photo Quality Glossy Film\nPhoto Quality Glossy Film\nEPSON Ink Jet Transparencies\nInk Jet Transparencies\nEPSON ColorLife Photo Paper\nColorLife Photo Paper",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-32326?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C498001~faq-32326",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:50.919962"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C498001~faq-00004dc-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:51.934827"
+        },
+        {
+          "question": "How do I change the font size of text when I print from software in Windows?",
+          "answer": "You need to select the text or font size in the software you are printing from, not the printer driver. For detailed instructions, contact the company for the application you are printing from.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-00004b7-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C498001~faq-00004b7-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:52.890154"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C498001~faq-0000f4b-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:53.881202"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C498001~faq-0000f4c-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:54.815868"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Wireless or Wired Connection",
+      "section_id": "8796127635532",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-0000ad0-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11C498001~faq-0000ad0-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:55.820812"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "When printing in Windows, how can I prevent an extra page from being ejected after every print job?",
+          "answer": "The Separator Page function may be enabled. Follow these steps to disable it:\nClick\nStart\nor\n.\nDo one of the following:\nWindows XP\n:\nSelect\nPrinters and Faxes\n(or select\nSettings\n, then select\nPrinters and Faxes\n).\nWindows Vista\n:\nSelect\nControl Panel\n, then\nPrinter\nor\nPrinters\nunder Hardware and Sound\n.\nWindows 7\n:\nSelect\nControl Panel\n, then\nView Devices and Printers\nunder Hardware and Sound.\nIn the\nPrinters\nor\nPrinters and Faxes\nwindow, right-click on your printer's name.\nSelect\nProperties\n, click the Advanced tab, then press the\nSeparator Page\nbutton.\nIn the Separator Page window, delete the information in the text box and then click\nOK\n.\nClick\nOK\nagain.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-134178?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C498001~faq-134178",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:56.827903"
+        },
+        {
+          "question": "How should I transport my product?",
+          "answer": "Caution: To avoid damage, always leave the ink cartridges installed when transporting the printer.\nDo the following:\n1. Turn on the printer, wait until the print head locks in the far right position, then turn off the printer.\n2. Unplug the power cord from the electrical outlet. Then disconnect the printer cable from the printer.\n3. Remove any paper from the printer and remove the paper support.\n4. Open the printer cover. Secure the ink cartridge holder to the printer with tape, then close the printer cover.\n5. Push in the output tray extensions and close the tray.\n6. Repack the printer and its attachments in the original box using the protective materials that came with them. See your Start Here sheet.\nKeep the printer level as you transport it.\nAfter transporting the printer, remove the tape securing the print head and test your printer. If you notice a decline in print quality, clean the print head; if output is misaligned, align the print head.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-32220?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C498001~faq-32220",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:57.886075"
+        },
+        {
+          "question": "What is the proper way to turn off my product?",
+          "answer": "Always use the printer's power button. Never use an external switch, such as a power strip, surge protector, or power protector, to turn off the printer. It can be harmful to your printer if you turn the printer off using an external switch as the print heads may be improperly positioned.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-32302?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C498001~faq-32302",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:58.842473"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C498001~faq-00004b0-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:53:59.752199"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11C498001~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C498001~faq-0000f4a-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-825/s/SPT_C11C498001",
+          "fetched_at": "2026-04-02T00:54:00.707241"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

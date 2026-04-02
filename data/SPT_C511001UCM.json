@@ -1,0 +1,861 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "Epson Stylus Series",
+  "model": {
+    "name": "Epson Stylus Pro 4000",
+    "sku": "SPT_C511001UCM",
+    "url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-00009e9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C511001UCM~faq-00009e9-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:02.656228"
+        },
+        {
+          "question": "I see the message Communication Error when I use a USB connection. What should I do?",
+          "answer": "Do the following:\nDelete all print jobs in the print queue.\nTurn the printer off.\nNote:\nMake sure the USB cable is connected correctly.\nRestart your computer. When the desktop appears, turn your printer on and follow the on-screen instructions.\nNote:\nIf the problem continues, turn the printer off again and delete the printer in the list of printers. Then disconnect the USB cable from the printer and connect it again.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-00009ea-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C511001UCM~faq-00009ea-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:03.842315"
+        },
+        {
+          "question": "How do I determine my printer driver version on my Mac?",
+          "answer": "Open the\nmenu and select\nSystem Preferences\nor\nSystem Settings\n>\nPrinters & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n. Your printer driver version is displayed.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-00009e4-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C511001UCM~faq-00009e4-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:05.010047"
+        },
+        {
+          "question": "How do I stop the printer from printing a nozzle check pattern before every print job?",
+          "answer": "Do the following on the product's control panel:\nPress\nMenu\ntwice, then select\nAuto Nozzle Check\n.\nPress\nMenu\n, then select\nOff",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-00009e1-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C511001UCM~faq-00009e1-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:06.132182"
+        },
+        {
+          "question": "My printer's ink cartridges are half full after I install the first set of ink cartridges. Why does this happen?",
+          "answer": "Ink from the first set of ink cartridges is used to charge the printer's ink delivery system. This will not happen again when you install new ink cartridges.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-00009d6-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C511001UCM~faq-00009d6-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:07.490908"
+        },
+        {
+          "question": "How many prints can I print from an ink cartridge in my printer?",
+          "answer": "There are too many variables to provide a count. You can estimate the amount by printing a Job Information sheet from the printer's Test Print menu. This sheet provides the amount of ink used for the last 10 print jobs, which can help you calculate ink usage.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-00009e2-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C511001UCM~faq-00009e2-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:08.716271"
+        },
+        {
+          "question": "I see horizontal or vertical lines in my printout. What should I do?",
+          "answer": "Perform a nozzle check from the printer's control panel or the Epson printer driver, then do one of the following:\nIf there are gaps in the nozzle check pattern, clean the print head nozzles.\nIf there are no gaps in the nozzle check pattern, try the solutions below.\nHorizontal Banding\nIncrease the print resolution.\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nSelect an alternate paper profile for ink coverage.\nSelect the correct paper type in the printer driver.\nAdjust the paper feed\nVertical Banding\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nAlign the print head.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-00009eb-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C511001UCM~faq-00009eb-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:09.859620"
+        },
+        {
+          "question": "How do I save my Epson printer driver presets so I can restore them if I reinstall the Epson printer driver in Windows?",
+          "answer": "Note:\nYou may lose some custom settings when you uninstall the printer driver.\nBefore you reinstall the printer driver, do the following:\nOpen\nFile Explorer\nor\nWindows Explorer\n.\nSelect\nThis PC\nor\nComputer\n>\nC:\ndrive >\nProgram Files\n>\nEpson\n> [your printer name].\nMove the UCI extension files to a different folder on your desktop.\nNote:\nAfter you reinstall the Epson printer driver, move the UCI extension files back to your printer's folder as described in step 2.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-00009e6-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C511001UCM~faq-00009e6-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:10.951232"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-00004c5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C511001UCM~faq-00004c5-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:12.061923"
+        },
+        {
+          "question": "How do I install the ICC profiles in Windows XP or Windows 7?",
+          "answer": "Do the following:\nDownload the ICC profiles for your printer and save them in a folder you can easily find.\nClose all open software.\nOpen\nWindows Explorer\n, then select\nComputer\n>\nC:\ndrive >\nWindows\n>\nSystem32\n>\nspool\n>\ndrivers\n>\ncolor\n.\nMove the ICC profiles into the\ncolor\nfolder, then close all open windows.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-00009E5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C511001UCM~faq-00009E5-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:13.151219"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "I see the message Forbidden Media From Paper Tray. What should I do?",
+          "answer": "The paper path requirements depend on the media you use. This error occurs when paper is loaded using the wrong paper path. Choose the correct paper path for the media you are using:\nPaper Tray\nEpson Premium Semigloss Photo Paper\nEpson Premium Luster Photo Paper\nEpson New Photo Quality Ink Jet Paper\nEpson Proofing Paper Semimatte\nEpson Enhanced(Archival) Matte Paper\nEpson Watercolor Paper - Radiant White\nPlain paper\nFront Manual Feed Slot\n(Use for Large Heavy Media)\nEpson Smooth Fine Art Paper\nEpson Textured Fine Art Paper\nEpson Enhanced Poster Board\nRear Manual Feed Slot\nEpson Premium Glossy Photo Paper\nEpson Premium Semigloss Photo Paper\nEpson Premium Luster Photo Paper\nEpson New Photo Quality Ink Jet Paper\nEpson Proofing Paper Semimatte\nEpson Enhanced (Archival) Matte Paper\nEpson Watercolor Paper - Radiant White\nEpson Velvet Fine Art Paper\nPlain paper",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-59153?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C511001UCM~faq-59153",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:14.271263"
+        },
+        {
+          "question": "I see the message 0002 on the printer's LCD. What should I do?",
+          "answer": "If you notice odd noises or image quality problems, troubleshoot the printer for the noise or image quality problem. Otherwise, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-298386?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C511001UCM~faq-298386",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:15.420096"
+        },
+        {
+          "question": "I see the message Service Request 00010004 - 000101D. What should I do?",
+          "answer": "Service Request errors in the range 00010004 - 000101D are related to a carriage movement problem. In some instances like paper jams, the carriage locking tab may be partially pushed in, causing the carriage locking mechanism to put a drag on the carriage or lock the carriage completely. This will cause any of the carriage errors. Make sure the carriage locking tab is pulled all the way out. Then turn the printer's power off and release the carriage by pushing down on the cutter blade. Slide the carriage to the left and look for any paper that also may be restricting the carriage from moving freely.\n00010004\nCR Motor encoder check error\n00010005\nCR Motor out of step\n00010006\nCR Motor over current\n00010007\nCR Motor in-position time-out\n0001000A\nCR axis detection error\n0001000F\nCR Motor PWM output faulty\n0001001D\nCR servo parameter error\nThe T-Fence can also be dirty or out of the carriage encoder. Check to make sure it is clean and in the center of the encoder. Contact Epson for additional assistance.\nThe current firmware corrects erroneous Service Request 00010007, which occurs after the power is first turned on. You can download this firmware upgrade from www.prographics.epson.com.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53563?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C511001UCM~faq-53563",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:16.540001"
+        },
+        {
+          "question": "What does the message Service Req. 00010030 mean?",
+          "answer": "This is a multi-sensor failure error. The multi-sensor is an optical sensor that detects the amount of light to determine if print media is loaded correctly in the printer.  An excessive amount of light may cause this error to appear. Make sure the printer is not in direct sunlight.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-54141?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C511001UCM~faq-54141",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:17.698491"
+        },
+        {
+          "question": "When I launched ColorBurst on my Mac for the first time, I got a message window with garbled characters. What should I do?",
+          "answer": "This may happen the first time the printer is added. Close ColorBurst, then open it again. The correct add printer window will be displayed.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53823?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C511001UCM~faq-53823",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:18.782207"
+        },
+        {
+          "question": "I see the message Scale to Fit when the target media size is set for No Margin. What should I do?",
+          "answer": "This is a Mac OS X 10.4 restriction. You can use either the\nScale to Fit\nor\nNo Margin\nsetting, but not both together.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-62988?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C511001UCM~faq-62988",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:19.877050"
+        },
+        {
+          "question": "What does the message Service Req. OD100102 mean?",
+          "answer": "This message appears when the paper hopper is jarred loose during shipping, and then fails to initialize when you turn on the printer. Turn off the printer and make sure the paper hopper is locked in the down position. The error message should be cleared when you turn the printer on again.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53561?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C511001UCM~faq-53561",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:20.939831"
+        },
+        {
+          "question": "I see the message Communication Error when I use a USB connection. What should I do?",
+          "answer": "Do the following:\nDelete all print jobs in the print queue.\nTurn the printer off.\nNote:\nMake sure the USB cable is connected correctly.\nRestart your computer. When the desktop appears, turn your printer on and follow the on-screen instructions.\nNote:\nIf the problem continues, turn the printer off again and delete the printer in the list of printers. Then disconnect the USB cable from the printer and connect it again.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-00009ea-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C511001UCM~faq-00009ea-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:22.224414"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C511001UCM~faq-00004c5-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:21.508925"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "Why do I see a difference in ink level reporting?",
+          "answer": "Ink levels are a calculated value based on the average amount of ink used for printing at different dot sizes, performing cleaning cycles, printer initialization, borderless printing, nozzle checks and other dot fire sequences. The ink levels are reported as follows:\nThe control panel ink gauge represents ink levels in 20% steps. The first level will be displayed for an ink level of anywhere from 100% to 80%, the next level 80% to 60%, and so on.\nWhen a print job is sent, the Status Monitor reads and displays the current ink levels at that point in time.\nDepending on when and which method you use to view ink levels, they can easily appear to be giving different ink level information at that point in time. The Status Monitor provides the most accurate ink level information.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53572?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C511001UCM~faq-53572",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:22.914697"
+        },
+        {
+          "question": "Which ink cartridges are optional?",
+          "answer": "Optional UltraChrome Archival ink  220ml (Same as Stylus Pro 9600):\nCartridge\nPart Number\nPhoto Black\nT544100\nYellow\nT544400\nMagenta\nT544300\nCyan\nT544200\nLight Magenta\nT544600\nLight Cyan\nT544500\nLight Black\nT544700\nMatte Black\nT544800",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53545?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C511001UCM~faq-53545",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:24.780655"
+        },
+        {
+          "question": "How do I choose the correct black ink I want to print with?",
+          "answer": "The\nMedia Type\nsetting selected in the printer driver determines which black ink is used for printing. For Photo papers, Photo Black is used, and for Fine Art and Matte papers Matte Black is used.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53546?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C511001UCM~faq-53546",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:26.025336"
+        },
+        {
+          "question": "Which ink cartridges are standard?",
+          "answer": "Standard UltraChrome Archival ink  110ml (Same as Stylus Pro 7600/9600):\nCartridge\nPart Number\nPhoto Black\nT543100\nYellow\nT543400\nMagenta\nT543300\nCyan\nT543200\nLight Magenta\nT543600\nLight Cyan\nT543500\nLight Black\nT543700\nMatte Black\nT543800",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53544?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C511001UCM~faq-53544",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:27.156951"
+        },
+        {
+          "question": "Do I need to drain the ink cartridges before transporting my product?",
+          "answer": "No. The printer has mechanical ink valves that close when the ink levers are lifted up. For transportation, 110 ml ink cartridges (empty or full) should be installed in each ink slot and both ink levers should be raised to their up position.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53552?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C511001UCM~faq-53552",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:28.300986"
+        },
+        {
+          "question": "How do I drain the ink from my printer so I can store the printer?",
+          "answer": "Install a new maintenance tank in the printer before you drain the ink, then do the following:\nTurn off the printer, if necessary.\nPress and hold the\nand\nbuttons while you turn on the printer. Release the buttons when you see the message\nSelf Testing\non the printer's LCD screen.\nPress the\nMenu\nbutton until you see the message\nTest\non the screen.\nPress the\nbutton until you see the message\nInk Drain\non the screen.\nPress the\nMenu\nbutton twice. The ink draining process begins.\nAfter the ink is drained, turn off the printer.\nThe printer is now ready to store.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-00009d5-sp4000?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C511001UCM~faq-00009d5-sp4000",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:29.656287"
+        },
+        {
+          "question": "How many prints can I print from an ink cartridge in my printer?",
+          "answer": "There are too many variables to provide a count. You can estimate the amount by printing a Job Information sheet from the printer's Test Print menu. This sheet provides the amount of ink used for the last 10 print jobs, which can help you calculate ink usage.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-00009e2-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C511001UCM~faq-00009e2-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:31.203337"
+        },
+        {
+          "question": "My printer's ink cartridges are half full after I install the first set of ink cartridges. Why does this happen?",
+          "answer": "Ink from the first set of ink cartridges is used to charge the printer's ink delivery system. This will not happen again when you install new ink cartridges.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-00009d6-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C511001UCM~faq-00009d6-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:32.278320"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "How do I replace the Maintenance Tank?",
+          "answer": "You must turn off the printer and remove the 220 ml cartridges from the right side of the printer before you can remove the Maintenance Tank.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53550?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C511001UCM~faq-53550",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:33.326756"
+        },
+        {
+          "question": "In what order should the Print Head Alignments be performed?",
+          "answer": "The recommended order for performing head alignments is:\nUni-directional\nBi-directional black\nBi-directional all",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53551?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C511001UCM~faq-53551",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:34.420081"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "What does the 250 stand for in the Epson driver Media Type setting?",
+          "answer": "The 250 designation represents the paper weight (250 gsm). Make sure you select the 250 Media Type setting if the media installed in the printer is 250 gsm (roll paper). If there is a mismatch in paper weight, print quality may be affected by horizontal banding or other problems.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53581?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C511001UCM~faq-53581",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:35.551908"
+        },
+        {
+          "question": "Why can I create a paper size as small as 3.94 x 5.83 inches, but I can't load a piece of paper that small?",
+          "answer": "A paper size this small can be created in case you have an image that small and want to enlarge it using the\nEnlarge\nfeature in the Epson printer driver.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-55404?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C511001UCM~faq-55404",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:36.663851"
+        },
+        {
+          "question": "Which paper path do I use for cut sheet media?",
+          "answer": "You need to choose the paper path according to which media you use:\nPaper Tray\nEpson Premium Semigloss Photo Paper\nEpson Premium Luster Photo Paper\nEpson New Photo Quality Ink Jet Paper\nEpson Proofing Paper Semimatte\nEpson Enhanced (Archival) Matte Paper\nEpson Watercolor Paper - Radiant White\nPlain paper\nFront Manual Feed Slot\n(Use for large heavy media)\nEpson Smooth Fine Art Paper\nEpson Textured Fine Art Paper\nEpson Enhanced Poster Board\nRear Manual Feed Slot\nEpson Premium Glossy Photo Paper\nEpson Premium Semigloss Photo Paper\nEpson Premium Luster Photo Paper\nEpson New Photo Quality Ink Jet Paper\nEpson Proofing Paper Semimatte\nEpson Enhanced (Archival) Matte Paper\nEpson Watercolor Paper - Radiant White\nEpson Velvet Fine Art Paper\nPlain paper",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-59151?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C511001UCM~faq-59151",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:37.787679"
+        },
+        {
+          "question": "What is the maximum page length for my product?",
+          "answer": "The maximum printable page length is 44 inches when using the Epson printer driver. Using a RIP may allow you to exceed this limit.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-55405?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C511001UCM~faq-55405",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:39.265868"
+        },
+        {
+          "question": "How can I avoid using extra media at the beginning of a print job?",
+          "answer": "Do one of the following:\nSet the margin for roll paper to 3 mm.\nPress the\nbutton on the printer.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-298437?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C511001UCM~faq-298437",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:40.577788"
+        },
+        {
+          "question": "Why does my product automatically switch to sheet mode when I load roll paper?",
+          "answer": "This happens if the roll paper is loaded incorrectly. Load the roll paper with the media coming off the top of the roll and feeding directly into the top slot (the slot just in front of the spindle). Then you can select either\nRoll Auto Cut On\nor\nRoll Auto Cut Off\non the printer control panel.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-71003?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C511001UCM~faq-71003",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:41.764552"
+        },
+        {
+          "question": "If I don't use roll paper do I need to have the roll paper holder attached?",
+          "answer": "No. The printer will work without the roll paper holder installed. The holder is designed to be removed easily.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53558?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C511001UCM~faq-53558",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:43.300526"
+        },
+        {
+          "question": "What is the minimum paper size I can use with my product?",
+          "answer": "8 x 10 inches.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-55406?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C511001UCM~faq-55406",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:44.584383"
+        },
+        {
+          "question": "My product recently started having trouble loading paper. What should I do?",
+          "answer": "You may need to clean the pickup rollers. Do the following:\nTurn on the printer and remove any loaded paper.\nRemove the paper tray so you can see the pickup rollers and roller covers.\nNote\n: The left side pickup roller may be in a different location than shown above, since it moves with the left side paper guide.\nClean the light grey areas beneath the roller covers.\nWe recommend using cotton swabs dampened with water to clean dust from the rollers. Be sure to allow ample time for the rollers to dry before loading paper.\nTo clean each roller's surface completely, they must be rotated. Press the\ndown arrow button on the printer's control panel to rotate the rollers; watch for a moment to see how the gears inside the printer are engaged when the rollers are moving. Be careful not to get anything stuck in between the rollers.\nRotate the rollers a little at a time, cleaning the exposed roller surface between rotations.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-89685?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C511001UCM~faq-89685",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:45.769562"
+        },
+        {
+          "question": "Why is my product having a problem detecting tracing paper?",
+          "answer": "Tracing paper support is improved in the latest firmware. You can download this firmware upgrade from www.prographics.epson.com. The firmware also adds a 10mm top margin and the loading speed is slowed down when tracing paper is used.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53565?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C511001UCM~faq-53565",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:46.912429"
+        },
+        {
+          "question": "I'm getting a crease in my roll media. What should I do?",
+          "answer": "A crease in roll media is the result of the paper feed roller holding the media for a long time. Remove the roll media from the paper path when you have finished using it to prevent the media from being creased.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53566?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C511001UCM~faq-53566",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:48.148780"
+        },
+        {
+          "question": "How can I prevent paper from jamming or misfeeding from the paper tray?",
+          "answer": "Fan the paper and tap it on a flat surface to even the edges.\nIf you need to add paper to the paper tray, first remove all paper from the tray and then add paper to the removed stack.\nIf your paper is curled, flatten it before you load it. If it curls excessively and jams frequently, stop using it.\nLoad the sheets with the printable side face down and the right edge of the paper resting against the right side of the paper tray. Make sure the sheets lie flat on the bottom of the tray.\nDo not over fill the paper tray.\nWhen you load sheets of paper, place the edge of the paper against the right inner corner of the paper tray. Otherwise, printing may become misaligned.\nAdjust the paper guide and edge guide according to the paper size. They must be snug against the paper.\nPut the paper guide roller down and replace the paper tray cover.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53568?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C511001UCM~faq-53568",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:49.268628"
+        },
+        {
+          "question": "Which Epson paper type setting should I select for Legacy paper?",
+          "answer": "See the table below.\nLegacy Paper\nEpson Paper Type Setting\nBaryta\nPremium Luster Photo Paper\nPlatine\nPremium Luster Photo Paper\nFibre\nWatercolor Paper – Radiant White\nEtching\nWatercolor Paper – Radiant White",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-00009EC-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C511001UCM~faq-00009EC-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:50.358462"
+        },
+        {
+          "question": "Which Epson Professional papers do not have optical brighteners?",
+          "answer": "Hot Press Natural, Cold Press Natural, and UltraSmooth Fine Art Paper.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-0000b07-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C511001UCM~faq-0000b07-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:51.428724"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "When I print on roll paper, my image prints too far to the left. What should I do?",
+          "answer": "Make sure the black paper stop (flange) of the roll paper spindle is installed on the left side of the printer, when you face the printer. The flanges are color coded to match the spindle holders on the printer.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-75904?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C511001UCM~faq-75904",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:52.588593"
+        },
+        {
+          "question": "How can I prevent smeared ink and droplets on my printouts?",
+          "answer": "The print head can gather dust over time, which then gathers ink. This accumulated ink can get deposited on the substrate during printing. Cleaning the wiper blade and pump cap assembly can solve this problem. Do the following:\nTurn off the printer.\nOpen the top cover and press the cutter solenoid down to release the print head.\nNote\n: This photo shows the Pro 4800 cutter solenoid assembly; the assembly in the Pro 4000 is black.\nMove the print head to the left.\nLocate the wiper blade and clean it with a moist cotton swab.\nNote\n: Most of the wiper blade is located behind the clear plastic shield, which may be difficult to clean. If you use a long cotton swab you'll be able to reach further back and clean the blade more thoroughly. The blade is split down the middle so be sure to clean both sides of the blade and inside the split.\nInspect the foam pad area of the pump cap assembly for any large pieces of debris and gently remove them with a moist cotton swab. Then use the swab to gently wipe the topside frame of the plastic housing that holds the multi-colored foam pad.\nCaution\n: Do not try to remove the foam pad.\nThe flushing box next to the multi-colored cap assembly does not typically come in contact with the print head, but you should gently clean any debris that may have accumulated there.\nClose the top cover and turn on the printer.\nPrint a\nnozzle check\nand inspect the printed pattern.\nIf the nozzle check pattern looks good, you are ready to print; you don't need to continue with the following steps.\nIf the nozzle check pattern is not satisfactory, continue with the next step.\nIf the nozzle check pattern is not satisfactory, run a cleaning cycle and print another nozzle check. In the printer utility, be sure to select\nPrint\n(not\nAuto\n) for the nozzle check.\nIf the nozzle check pattern is still not complete, repeat step 9 until you see a good nozzle check pattern or you have run three cleaning cycles.\nIf the nozzle check pattern looks good, you are ready to print.\nIf the nozzle check pattern still is not good after running three cleaning cycles, contact Epson Technical Support for further assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-79996?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C511001UCM~faq-79996",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:51.989468"
+        },
+        {
+          "question": "My print jobs fade toward the end, then start over before. What should I do?",
+          "answer": "If you're printing via ethernet using an Epson Vista compatible printer driver, follow these steps to fix this problem:\nCancel the print job from the computer and from the printer.\nClick the\nStart button, then select\nControl Panel\n.\nSelect\nPrinter\nor\nPrinters\nin the\nHardware and Sound\ncategory.\nRight-click on your printer and select\nPrinting Preferences\n.\nClick the\nUtility\ntab.\nSelect\nSpeed & Progress\n.\nClick the\nAlways spool RAW datatype\ncheckbox.\nClick\nOK\nto close the Speed & Progress window.\nClick\nOK\nto close the Printing Preferences window.\nRight-click on your printer and select\nProperties\n.\nClick the\nPorts\ntab.\nMake sure the correct printer port is selected, then click\nConfigure Port\n.\nClick the\nLPR Byte Counting Enabled\ncheckbox.\nClick\nOK\nto close the Configure Port window.\nClick\nApply\nand then\nClose\nto close the Properties window.\nRestart the computer.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-89571?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C511001UCM~faq-89571",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:53.230350"
+        },
+        {
+          "question": "Drips, smears, or head strikes appear on my printout. What should I do?",
+          "answer": "Make sure the platen gap is adjusted for your media type. To adjust the platen gap, do the following from the printer's control panel:\nMake sure the printer is ready to print. Ready should be displayed on the printer's LCD screen.\nPress the\nbutton three times.\nSelect\nNarrow\n,\nStandard\n,\nWide\n, or\nWider\nas the gap setting.\nPress\nOK\nor\nEnter\n(the middle button).\nPress the pause button.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-0000c1e-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C511001UCM~faq-0000c1e-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:54.407113"
+        },
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-00009e9-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C511001UCM~faq-00009e9-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:55.760371"
+        },
+        {
+          "question": "I see horizontal or vertical lines in my printout. What should I do?",
+          "answer": "Perform a nozzle check from the printer's control panel or the Epson printer driver, then do one of the following:\nIf there are gaps in the nozzle check pattern, clean the print head nozzles.\nIf there are no gaps in the nozzle check pattern, try the solutions below.\nHorizontal Banding\nIncrease the print resolution.\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nSelect an alternate paper profile for ink coverage.\nSelect the correct paper type in the printer driver.\nAdjust the paper feed\nVertical Banding\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nAlign the print head.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-00009eb-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C511001UCM~faq-00009eb-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:56.840849"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "When I try to print color separations using ColorBurst for Windows, the RIP produces a composite print where the separations are re-combined. Why does this happen?",
+          "answer": "The Windows version of ColorBurst produces the separations as a composite print that shows traps and overprint. This feature cannot be disabled.\nThe Macintosh version of ColorBurst can be used with the Stylus Pro 4000 to produce color separations with individual layers of color per page.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53837?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C511001UCM~faq-53837",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:57.965576"
+        },
+        {
+          "question": "Can I set the date and time on my product?",
+          "answer": "Yes. Follow these instruction:\nPress the Menu button.\nPress the Down Arrow until MAINTENANCE is displayed\nWith MAINTENANCE displayed press the Menu button.\nPress the Down Arrow until CLOCK SETTINGS is displayed, then press the Menu button.\nUse the Arrow buttons to set the date and time: MM/DD/YY      HH:MM.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53553?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C511001UCM~faq-53553",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:39:59.077589"
+        },
+        {
+          "question": "What are the recommended Color Management Settings for Photoshop CS 2?",
+          "answer": "There are two ways to manage color workflow when printing from Photoshop CS 2: using the application (Photoshop) and using the printer driver. The following instructions explain how to use the program and the driver to product the best color output and how to prevent undesirable results.\nUsing Photoshop and ICC profiles\nSet\nColor Handling\nin Photoshop CS to\nLet Photoshop Determine Colors\n.\nSet the printer profile to a choice that matches your printer and paper (I.E. Pro4800 EMP_Mk).\nSet the rendering intent to\nPerceptual\nor\nRelative Colormetric\n.\nPerceptual\nis recommended.\nSet the\nPrinters Color Management\nto\nOff No Color Adjustment\n.\nUsing the Printer Driver to Manage Color\nSet Photoshop to\nNo Color Management\n.\nSet\nPrinter Color Management\nto any of the Epson color controls settings.\nCombinations to Avoid\nThe following setting combinations produce poor results and they are not recommended.\nPhotoshop setting\nPrinter driver setting\nLet Photoshop Determine Colors\nColor Controls\nPhotoEnhance\nNo Color Management\nOff (No Color Adjustment)\nColorsync\nICM",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-63181?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C511001UCM~faq-63181",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:00.390970"
+        },
+        {
+          "question": "Why have my pre-defined paper settings changed?",
+          "answer": "If you name a custom paper setting using the same name as a pre-defined paper (like A4), the pre-defined paper settings are overwritten by the custom settings.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-62986?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C511001UCM~faq-62986",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:01.650280"
+        },
+        {
+          "question": "Will the ColorBurst RIP support my custom output (media) profiles?",
+          "answer": "The Epson version of ColorBurst will not support custom output profiles. To use custom output profiles for your media, you need the full version of ColorBurst Pro RIP, available only directly from ColorBurst or your local dealer.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53822?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C511001UCM~faq-53822",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:03.085131"
+        },
+        {
+          "question": "Can I use the ICC profiles for the Stylus Photo 2200 with the product?",
+          "answer": "No. The ICC profiles are specific to each printer.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-55407?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C511001UCM~faq-55407",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:04.267385"
+        },
+        {
+          "question": "Are the LFP Gimp drivers developed by Epson?",
+          "answer": "No.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-71164?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C511001UCM~faq-71164",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:05.626167"
+        },
+        {
+          "question": "When I created a ColorBurst hot folder on my Mac desktop, all of my desktop icons were transferred into the print queue. What should I do?",
+          "answer": "To create a hot folder on your desktop, create a new folder, then assign this folder as the hot folder. If you assign the desktop as the hot folder, every desktop icon will be sent to the print queue.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53824?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C511001UCM~faq-53824",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:06.764426"
+        },
+        {
+          "question": "After I print a file by dragging it to the ColorBurst hot folder, my file is no longer in the hot folder. What happened?",
+          "answer": "This is normal. Once the file prints from the hot folder, you cannot go back to the hot folder to reprint the job. To print the file again, drag it into the hot folder again.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53839?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C511001UCM~faq-53839",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:07.890782"
+        },
+        {
+          "question": "I don't see a Media Type setting for Epson Premium Luster Photo Paper (260) in the Epson driver. What should I do?",
+          "answer": "Download the latest printer driver, the latest firmware, and the ICC profiles from the Downloads tab for your product.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-83742?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C511001UCM~faq-83742",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:08.990069"
+        },
+        {
+          "question": "Why doesn't the Supplies button function properly?",
+          "answer": "The\nSupplies\nbutton is an Apple function and is not currently supported by Epson.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-62985?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C511001UCM~faq-62985",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:14.288788"
+        },
+        {
+          "question": "When I send a print job to the ColorBurst RIP, I see the queued job, but nothing prints. What should I do?",
+          "answer": "When printing from Windows, verify that the spooler is started.  The\nStart Spooler\noption is on the menu bar. The spooler has to be started each time ColorBurst is launched.\nWhen printing from a Macintosh, verify that the RIP is set to\nRIP ON\nand make sure\nReceive On Hold\nis not selected.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53834?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C511001UCM~faq-53834",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:15.247295"
+        },
+        {
+          "question": "How can I tell if I have the Epson version or the full version of ColorBurst?",
+          "answer": "There are two ways to tell if you have the Epson version:\nWhen you launch ColorBurst, look at the splash screen. The Epson version has a message\nProvided by Epson America Inc.\nat the top right.\nThe Epson version has an\nEpson Technical Support\noption under the\nHELP\nmenu.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53836?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C511001UCM~faq-53836",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:16.259270"
+        },
+        {
+          "question": "What is the Super (X) setting in the Epson driver?",
+          "answer": "This is a Super Microweave setting that enables the print head to perform 8 microweave passes instead of the standard 4 passes. The through-put is slowed with this setting. However, it produces the highest quality prints when you use it along with the highest print resolutions of 1440 or 2880 with the high speed setting turned off.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53575?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C511001UCM~faq-53575",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:17.226659"
+        },
+        {
+          "question": "The Advanced B/W setting is grayed out in my product software. What should I do?",
+          "answer": "Make sure you install the correct black ink cartridge for the media type selected. When the photo black cartridge is installed, the\nAdvanced B/W\nsetting is available only for glossy media types. It is not available for any of the matte media types. When the matte black cartridge is installed, the\nAdvanced B/W\nsetting is available only for matte media types.\nIf you're using the correct black ink cartridge for your media type but the\nAdvanced B/W\nsetting is still grayed out, then Do the following:\nOpen the\nHard Drive\n.\nSelect >\nApplications\n>\nUtilities\n>\nPrinter Setup Utility\n.\nSelect your printer and click\nUtility\n.\nMake sure you see the ink levels in the\nStatus Monitor\nwindow, then click\nUpdate\n.\nRestart the computer.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-96353?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C511001UCM~faq-96353",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:18.141850"
+        },
+        {
+          "question": "How can I get a replacement ColorBurst CD if mine is lost or damaged?",
+          "answer": "Epson will replace the lost or damaged CD free of charge. Proof of purchase is required to verify product code. You must have purchased the Stylus Pro 4000 Pro Bundle (C511001PRO) to qualify for a free replacement.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53827?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C511001UCM~faq-53827",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:19.039824"
+        },
+        {
+          "question": "What Media Type do I select in the Epson driver for Ultra Smooth Fine Art paper?",
+          "answer": "Choose the\nWater Color - Radiant White\nfor the Media Type.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53547?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C511001UCM~faq-53547",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:20.305128"
+        },
+        {
+          "question": "How can I share my product with other users?",
+          "answer": "We recommend sharing your printer via an Ethernet connection with the optional Epson High Speed Ethernet Print Server card (part number C12C823912 or C12C824052). This method provides many benefits, including better performance, over selecting\nPrinter Sharing\nfor a locally attached Stylus Pro 4000 printer.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-62984?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C511001UCM~faq-62984",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:21.276679"
+        },
+        {
+          "question": "Can I turn off color management for ColorBurst?",
+          "answer": "Color management cannot be turned off or disabled.  It is activated by default.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53833?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C511001UCM~faq-53833",
+          "display_order": 20,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:22.353640"
+        },
+        {
+          "question": "How do I stop the printer from printing a nozzle check pattern before every print job?",
+          "answer": "Do the following on the product's control panel:\nPress\nMenu\ntwice, then select\nAuto Nozzle Check\n.\nPress\nMenu\n, then select\nOff",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-00009e1-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C511001UCM~faq-00009e1-shared",
+          "display_order": 21,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:23.257287"
+        },
+        {
+          "question": "Do I need a raster image processor (RIP) to print from Adobe Illustrator?",
+          "answer": "For the best output, a RIP should be used. Adobe Illustrator is a postscript application that requires a RIP to translate the postscript language. The printer comes with a non-postscript driver that has difficulty translating the postscript language.\nEpson has partnered with the following manufacturers for some printers:\nColorBurst\nefi\nOnyx\nWasatch",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-00009f1-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C511001UCM~faq-00009f1-shared",
+          "display_order": 22,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:22.297442"
+        },
+        {
+          "question": "Do I need a raster image processor (RIP) to print from Adobe Photoshop?",
+          "answer": "No, Adobe Photoshop is not a postscript application and does not require a RIP.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-00009f0-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C511001UCM~faq-00009f0-shared",
+          "display_order": 23,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:23.208837"
+        },
+        {
+          "question": "How do I save my Epson printer driver presets so I can restore them if I reinstall the Epson printer driver in Windows?",
+          "answer": "Note:\nYou may lose some custom settings when you uninstall the printer driver.\nBefore you reinstall the printer driver, do the following:\nOpen\nFile Explorer\nor\nWindows Explorer\n.\nSelect\nThis PC\nor\nComputer\n>\nC:\ndrive >\nProgram Files\n>\nEpson\n> [your printer name].\nMove the UCI extension files to a different folder on your desktop.\nNote:\nAfter you reinstall the Epson printer driver, move the UCI extension files back to your printer's folder as described in step 2.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-00009e6-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C511001UCM~faq-00009e6-shared",
+          "display_order": 24,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:24.155148"
+        },
+        {
+          "question": "How do I install the ICC profiles in Windows XP or Windows 7?",
+          "answer": "Do the following:\nDownload the ICC profiles for your printer and save them in a folder you can easily find.\nClose all open software.\nOpen\nWindows Explorer\n, then select\nComputer\n>\nC:\ndrive >\nWindows\n>\nSystem32\n>\nspool\n>\ndrivers\n>\ncolor\n.\nMove the ICC profiles into the\ncolor\nfolder, then close all open windows.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-00009E5-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C511001UCM~faq-00009E5-shared",
+          "display_order": 25,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:25.052928"
+        },
+        {
+          "question": "How do I determine my printer driver version on my Mac?",
+          "answer": "Open the\nmenu and select\nSystem Preferences\nor\nSystem Settings\n>\nPrinters & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n. Your printer driver version is displayed.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-00009e4-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C511001UCM~faq-00009e4-shared",
+          "display_order": 26,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:26.145446"
+        },
+        {
+          "question": "How do I manually install the Epson ICC profiles on my Mac?",
+          "answer": "Do the following:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinters2\n>\nICCProfiles\n.\nPress and hold the\ncontrol\nkey on your keyboard while you select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n, select and copy all files, then close all open windows.\nOpen your hard drive, select\nLibrary\n>\nColorSync\n>\nProfiles\n, then paste the files into this folder.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-0000b03-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C511001UCM~faq-0000b03-shared",
+          "display_order": 27,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:27.051939"
+        },
+        {
+          "question": "Where are the ICC profiles located for my printer on my Mac?",
+          "answer": "Do the following to locate the files:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinter2\n>\nICCProfiles\n.\nPress and hold the\nControl\nkey on your keyboard while you click the profile package in the\nICCProfiles\nfolder. In the pop-up menu that appears, select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-00009ed-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C511001UCM~faq-00009ed-shared",
+          "display_order": 28,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:27.956273"
+        },
+        {
+          "question": "My print job disappears from the Windows print queue but does not print. What should I do?",
+          "answer": "Follow the steps below:\nDo one of the following:\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your printer and select\nManage\n>\nPrinting preferences\n.\nWindows 8\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the\nUtility\ntab, then\nSpeed and Progress\n.\nSelect the\nAlways Spool RAW Datatype\nand\nCoarse Rendering\ncheckboxes, then click\nOK\n.\nNote:\nIf the\nProcessed by Printer\ncheckbox is selected, deselect it.\nTry printing again.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-00009e8-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C511001UCM~faq-00009e8-shared",
+          "display_order": 29,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:29.111567"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C511001UCM~faq-00004dc-shared",
+          "display_order": 30,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:30.096734"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "When should I use the MK4 printer profile suffix?",
+          "answer": "The MK4 printer profile suffix refers to the dual CMYK configuration for the Stylus Pro 4000. The dual CMYK Stylus Pro 4000 in not sold in the North American market.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53574?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C511001UCM~faq-53574",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:31.099653"
+        },
+        {
+          "question": "I'm trying to perform a ColorBurst client install on my PC. Why can't I see the server computer when I browse the network?",
+          "answer": "To perform a client install successfully, you need to share the printer on the server computer. Otherwise, you will not be able to add the client. To share the printer on the server, Do the following:\nClick\nStart\n>\nSettings\n>\nPrinters and Faxes\n. (Windows XP)\nRight-click the ColorBurst RIP icon.\nClick\nSharing\n, then select\nShare this printer\n.\nClick\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53825?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C511001UCM~faq-53825",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:32.089466"
+        },
+        {
+          "question": "Why is my product making a loud humming sound all the time?",
+          "answer": "The printer has suction fans to hold the paper flat in the paper path and an exhaust fan for cooling at the rear of the unit. The humming sound can be heard when the fans turn on. The current firmware turns the fans off when the printer is in idle mode. With previous versions of the firmware, the fans stayed on all the time. You can download the latest firmware from Downloads tab.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53560?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C511001UCM~faq-53560",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:33.021775"
+        },
+        {
+          "question": "Which interfaces can I use to connect my product when using ColorBurst?",
+          "answer": "You can use a USB, IEEE 1394 (FireWire), or Ethernet connection when operating in a Windows environment. When operating in a Mac environment, you can use either a USB or Ethernet connection.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53826?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C511001UCM~faq-53826",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:34.068445"
+        },
+        {
+          "question": "How do I get service for my product I purchased in another country?",
+          "answer": "Due to differences in products sold in other countries, printers need to be serviced in the country of origin.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53573?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C511001UCM~faq-53573",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:35.167672"
+        },
+        {
+          "question": "I hear a grinding noise when I turn on my product. What should I do?",
+          "answer": "Make sure the green carriage locking tab is pulled out away from the carriage and there is nothing obstructing the carriage.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53559?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C511001UCM~faq-53559",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:36.183965"
+        },
+        {
+          "question": "How do I read the Job History Log?",
+          "answer": "The job history log has ten entries numbered 0 - 9 for the last 10 print jobs.\nThe current job is stored in location 0, the oldest job is in location 9.\nIf the log is full, the current job is recorded in location 0, and the older jobs are pushed down one location. The oldest job history information that was in location 9 is lost.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-53571?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C511001UCM~faq-53571",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:37.144174"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C511001UCM~faq-00004b0-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:38.026615"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C511001UCM~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C511001UCM~faq-0000f4a-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-4000/s/SPT_C511001UCM",
+          "fetched_at": "2026-04-02T01:40:38.903339"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

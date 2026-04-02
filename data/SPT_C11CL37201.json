@@ -1,0 +1,913 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "WorkForce Series",
+  "model": {
+    "name": "Epson WorkForce Pro EP-C7000",
+    "sku": "SPT_C11CL37201",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "Does my all-in-one printer support non-printing functions when an ink cartridge is expended or not installed?",
+          "answer": "See our\nFAQ page\non which non-printing functions are supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-0000d77-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CL37201~faq-0000d77-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:03:37.002591"
+        },
+        {
+          "question": "Where can I find the IP address of my router?",
+          "answer": "Most wireless routers have a default IP address that can usually be found in the router's documentation.\nFor more support on your router, contact the manufacturer of your router.\nYou can also print a network status sheet from your printer's control panel to find your router's IP address.\nNote:\nThe network status sheet will list your router’s IP address only if you have set up your printer with a network connection to the router. If you print a network status sheet before setup, the router's IP address will not be listed on the network status sheet.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00004c0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CL37201~faq-00004c0-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:03:38.062981"
+        },
+        {
+          "question": "What security measures does Epson recommend for its network products?",
+          "answer": "To help deter unauthorized access to your product over a network, you should protect your network environment using appropriate security measures.\nSecurity measures such as these can help deter threats such as loss of user data, use of telephone and fax lines, and other intrusions:\nEnable security on your wireless LAN if your product supports a wireless connection\nEnable the appropriate security on the wireless LAN you plan to use with your product. Network security, such as a network password, can deter interception of traffic over the wireless LAN. Your router may already have a default password enabled by your Internet service provider (ISP). See your ISP and router documentation for instructions on how to change the default password and better secure your network.\nConnect your product only to a network protected by a firewall\nConnecting your product directly to the Internet may leave it vulnerable to security threats. Instead, connect it to a router or other networking device protected by a firewall. Your router may already have a firewall set up by your Internet service provider; check with your ISP for confirmation. For best results, set up and use a private IP address for your network connection.\nChange the default administrator password on your product\nIf your product has an option to set an administrator password, change the default administrator password to deter access by unauthorized users to personal data stored on your product, such as IDs, passwords, and contact lists. See the product's User's Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-0000a05-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CL37201~faq-0000a05-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:03:39.176602"
+        },
+        {
+          "question": "Can the product print on CDs and DVDs?",
+          "answer": "No, this product does not support this feature.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00004b5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CL37201~faq-00004b5-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:03:40.745180"
+        },
+        {
+          "question": "Why doesn't Epson include a USB or Ethernet cable in the box with the product?",
+          "answer": "We are committed to giving our customers the best value possible with every product we sell. To provide high-quality products with the latest technology and sell them at the most competitive prices, it is critical to choose which components are necessary and which may be redundant. Because many of our customers already own USB or Ethernet cables, it makes good sense to eliminate the costs of including a cable in every box and use those savings to improve product features and lower the cost to you, the consumer.\nNote:\nNot all products support an Ethernet interface.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-0000490-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CL37201~faq-0000490-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:03:42.522853"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CL37201~faq-00004b0-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:03:43.553138"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00004c5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CL37201~faq-00004c5-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:03:44.570443"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CL37201~faq-00004dc-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:03:45.637535"
+        },
+        {
+          "question": "How do I add my product as an IP printer on my Mac?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n.\nSelect your printer, if necessary.\nClick\n+\nor\nAdd Printer, Scanner, or Fax\nand select\nIP\non the toolbar.\nSelect a protocol. If you do not know which protocol to choose, leave it as\nLine Printer Daemon-LPD\n.\nClick the\nAddress\nfield and enter your printer's IP address. You see the message\nGathering printer information\nas your Mac connects to the printer.\nClick\nAdd\nafter your printer appears in the Use field to create a printer queue. If your printer does not appear in the Use field, select\nAuto Select\nfrom the drop-down box.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00004ba-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CL37201~faq-00004ba-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:03:46.714118"
+        },
+        {
+          "question": "How do I reduce the appearance of red eyes in my photos?",
+          "answer": "Turn on the\nFix Red-Eye\nsetting in the printer software or from the product's control panel, if available for your product.\nNote:\nDue to the complexity and nature of some photographs, not all images can be corrected. If the Fix Red-Eye setting does not fix the photo, you need to use a software application such as Adobe Photoshop or Adobe Elements to fix it.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00004b9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CL37201~faq-00004b9-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:03:47.790340"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Cloud or Mobile",
+      "section_id": "8796127340620",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Can I use voice-activated printing with my Epson product?",
+          "answer": "Yes. To set up your product with voice-activated printing, see our\nVoice-activated Printing\npage. To learn more about voice-activated printing services, see our FAQ pages for each option:\nEpson Printer Skills for Alexa\nSiri Shortcuts for Epson iPrint\nNote:\nThe voice-activated printing services listed here may not be available in all languages and countries.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-0000c12-shared?faq_cat=faq-8796127340620",
+          "faq_slug": "SPT_C11CL37201~faq-0000c12-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:03:48.882735"
+        },
+        {
+          "question": "What is Epson Connect and how do I use it?",
+          "answer": "Epson Connect provides mobile services that allow you to print and scan from anywhere with an Internet connection. You can use your smartphone, tablet, or computer to print and scan documents, photos, emails, and web pages from your home, office, or even across the globe.\nSee the links below for instructions on how to use Epson Connect mobile services.\nRelated tasks\nSetting Up Epson Connect Services\nUsing Epson Email Print\nUsing Epson Remote Print",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00008e2-epc7000?faq_cat=faq-8796127340620",
+          "faq_slug": "SPT_C11CL37201~faq-00008e2-epc7000",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:03:49.915303"
+        },
+        {
+          "question": "How do I print from a Chromebook with my product?",
+          "answer": "Your Epson printer supports native printing on Chromebook, allowing you to print from a Chromebook without drivers or cables.\nFor directions on setting up your printer, visit\nSetting Up Your Epson Printer on Your Chromebook\n(U.S.) or\nSetting Up Your Epson Printer on Your Chromebook\n(Canada).",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-0000d52-epc7000?faq_cat=faq-8796127340620",
+          "faq_slug": "SPT_C11CL37201~faq-0000d52-epc7000",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:03:50.973271"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "How do I print labels in Microsoft Office?",
+          "answer": "See the\nCreate and print labels\npage on the Microsoft support site for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00004bd-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CL37201~faq-00004bd-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:03:51.998663"
+        },
+        {
+          "question": "I can print with a wireless connection on my home network, but not on a VPN (virtual private network). What should I do?",
+          "answer": "When you connect to a VPN, your computer is no longer communicating with your home (local) network, so it can't print to the product. Some VPNs allow for access to the local network. This depends on if your VPN supports the feature and is enabled. Consult with the supporter of your VPN software (such as your IT department) for help. Otherwise, disconnect from your VPN to connect to your home network again to print.\nNote:\nIf you set up your product with Epson Connect, you can use Epson Remote Print to print over the Internet from a VPN. To download the Epson Remote Print driver, see the Downloads tab on your product's support page.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-0000504-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CL37201~faq-0000504-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:03:53.112212"
+        },
+        {
+          "question": "Printing is slow or the printer stops printing when I try to print from Windows or my Mac. What should I do?",
+          "answer": "If printing becomes slow, try these solutions:\nMake sure your system meets the requirements for your operating system. If you are printing a high-resolution image, you may need more than the minimum requirements. If necessary, increase your system's memory.\nIf you are using Windows 7, close the\nDevices and Printers\nwindow before you print.\nMake sure\nQuiet Mode\nis turned off.\nClear space on your hard drive or run a defragmentation utility to free up existing space.\nClose any programs you are not using when you print.\nIf your product is connected to a USB hub, connect it directly to your computer instead.\nIf printing becomes slower after printing continuously for a long time, the product may have automatically slowed down to protect the print mechanism from overheating or becoming damaged. Let the product rest with the power on for 30 minutes, then try printing again.\nIf you are printing over a wireless network, factors such as interference, network traffic, or weak signal strength may affect your printing speed.\nNote:\nIf you are using a 5 GHz wireless router, set the router to operate in dual band (2.4 GHz and 5 GHz) mode. If your router uses a single network name (SSID) for both the 2.4 GHz and 5 GHz band, give each band its own network name (SSID) instead, such as Home Network 2.4 GHz and Home Network 5 GHz. See your router documentation or contact your internet service provider for instructions.\nIf using the PostScript printer driver, set the\nPrint Quality\nsetting to\nFast\n.\nFor the fastest printing, select the following settings in your product software:\nMake sure the paper type setting matches the type of paper you loaded.\nTurn on any high speed settings in your product software.\nSelect a lower print quality setting.\nMake sure the ink drying time has not been increased for double-sided printing.\nWindows\n: Click the\nMaintenance\nor\nUtility\ntab, select\nExtended Settings\nor\nSpeed and Progress\n, and select the following settings:\nAlways Spool RAW Datatype\nPage Rendering Mode\nPrint as Bitmap\nWindows\n: Select\nPrinting preferences\n, click the\nMore Options\ntab, and make sure the\nBidirectional printing\nsetting is enabled.\nMac\n: Select\nSystem Preferences\nor\nSystem Settings\n, select\nPrinters & Scanners\n, and select your product. Select\nOptions & Supplies\n, select\nOptions\n(or\nDriver\n), and enable the\nBidirectional printing\nsetting.\nIf printing is still slow and you are using Windows 7 or Windows Vista, try the following:\nClick\nand select\nComputer\nor\nMy Computer\n. Double-click the\nC:\ndrive and open these folders:\nProgramData > EPSON > PRINTER\n.\nNote:\nIf you do not see the ProgramData folder, open the\nOrganize\nmenu and select\nFolder and search options\n. In the window that appears, click the\nView\ntab, select\nShow hidden files, folders, and drives\nin the Advanced settings list, and click\nOK\n.\nRight-click the\nEPAUDF01.AUD\nfile and select\nDelete\n.\nRestart your computer and try printing again.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00004c6-epc7000?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CL37201~faq-00004c6-epc7000",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:03:54.275429"
+        },
+        {
+          "question": "How do I set up my product for the fastest printing?",
+          "answer": "If printing becomes slow, try these solutions:\nMake sure your system meets the requirements for your operating system. If you are printing a high-resolution image, you may need more than the minimum requirements. If necessary, increase your system's memory.\nIf you are using Windows 7, close the\nDevices and Printers\nwindow before you print.\nMake sure\nQuiet Mode\nis turned off.\nClear space on your hard drive or run a defragmentation utility to free up existing space.\nClose any programs you are not using when you print.\nIf your product is connected to a USB hub, connect it directly to your computer instead.\nIf printing becomes slower after printing continuously for a long time, the product may have automatically slowed down to protect the print mechanism from overheating or becoming damaged. Let the product rest with the power on for 30 minutes, then try printing again.\nIf you are printing over a wireless network, factors such as interference, network traffic, or weak signal strength may affect your printing speed.\nNote:\nIf you are using a 5 GHz wireless router, set the router to operate in dual band (2.4 GHz and 5 GHz) mode. If your router uses a single network name (SSID) for both the 2.4 GHz and 5 GHz band, give each band its own network name (SSID) instead, such as Home Network 2.4 GHz and Home Network 5 GHz. See your router documentation or contact your internet service provider for instructions.\nIf using the PostScript printer driver, set the\nPrint Quality\nsetting to\nFast\n.\nFor the fastest printing, select the following settings in your product software:\nMake sure the paper type setting matches the type of paper you loaded.\nTurn on any high speed settings in your product software.\nSelect a lower print quality setting.\nMake sure the ink drying time has not been increased for double-sided printing.\nWindows\n: Click the\nMaintenance\nor\nUtility\ntab, select\nExtended Settings\nor\nSpeed and Progress\n, and select the following settings:\nAlways Spool RAW Datatype\nPage Rendering Mode\nPrint as Bitmap\nWindows\n: Select\nPrinting preferences\n, click the\nMore Options\ntab, and make sure the\nBidirectional printing\nsetting is enabled.\nMac\n: Select\nSystem Preferences\nor\nSystem Settings\n, select\nPrinters & Scanners\n, and select your product. Select\nOptions & Supplies\n, select\nOptions\n(or\nDriver\n), and enable the\nBidirectional printing\nsetting.\nIf printing is still slow and you are using Windows 7 or Windows Vista, try the following:\nClick\nand select\nComputer\nor\nMy Computer\n. Double-click the\nC:\ndrive and open these folders:\nProgramData > EPSON > PRINTER\n.\nNote:\nIf you do not see the ProgramData folder, open the\nOrganize\nmenu and select\nFolder and search options\n. In the window that appears, click the\nView\ntab, select\nShow hidden files, folders, and drives\nin the Advanced settings list, and click\nOK\n.\nRight-click the\nEPAUDF01.AUD\nfile and select\nDelete\n.\nRestart your computer and try printing again.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00007fd-epc7000?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CL37201~faq-00007fd-epc7000",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:03:55.355237"
+        },
+        {
+          "question": "How do I set up my product to print only Black or Grayscale from Windows or my Mac?",
+          "answer": "Open a document and follow the steps below for your operating system to select\nBlack/Grayscale\nor\nGrayscale\nin the printer driver.\nNote:\nThe information below applies only to the Standard Epson printer software.\nNote:\nTo keep the printhead clear and ready to print, the printer uses a small amount of ink from all the cartridges whenever it prints. Even if you select\nBlack/Grayscale\nor\nGrayscale\n, some color ink is still used. Black/Grayscale or Grayscale is not recommended for printing black-and-white photos.\nNote:\nIf your product displays a message instructing you to replace an expended ink cartridge, you need to replace the cartridge before you can print.\nWindows\nSelect the print command in your application.\nMake sure the product is selected.\nClick\nPrinter Properties\n,\nProperties\n, or\nPreferences\n.\nNote:\nIf you don't see these buttons, click\nSetup\n,\nPrinter\n, or\nOptions\n, and click\nPrinter Properties\n,\nProperties\n, or\nPreferences\non the next screen.\nClick the\nMain\ntab.\nSelect\nGrayscale\nas the Color setting.\nClick\nOK\n.\nMac\nSelect the print command in your application.\nMake sure the product is selected.\nNote:\nClick the arrow next to the Printer setting or the\nShow Details\nbutton to expand the print window, if necessary.\nNote:\nThe screen(s) shown may vary, depending on your OS version.\nSelect the\nGrayscale\ncheckbox.\nNote:\nThe available print settings and appearance of the print window may be different than those covered here, depending on the Mac OS version and the application you are using.\nClick\nPrint\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00004f9-epc7000?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CL37201~faq-00004f9-epc7000",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:03:56.402624"
+        },
+        {
+          "question": "Printing is slow over my wireless connection. What should I do?",
+          "answer": "Try the following:\nMove the computer and your Epson product closer to your wireless router or access point.\nDon't place the computer, product, or wireless access point near microwaves, cordless phones, large metal objects such as filing cabinets, or other sources of wireless interference.\nNote:\nIf you are using a 5 GHz wireless router, set the router to operate in dual band (2.4 GHz and 5 GHz) mode. If your router uses a single network name (SSID) for both the 2.4 GHz and 5 GHz band, give each band its own network name (SSID) instead, such as Home Network 2.4 GHz and Home Network 5 GHz. See your router documentation or contact your Internet service provider for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-0000503-epc7000?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CL37201~faq-0000503-epc7000",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:03:57.444189"
+        },
+        {
+          "question": "How do I print a multi-page document from my computer so it stacks in the correct page order?",
+          "answer": "Open the document and follow the steps below for your operating system.\nNote:\nThe information below applies only to the Standard Epson printer software.\nWindows\nSelect the print command in your application.\nMake sure your product is selected.\nClick\nPrinter Properties\n,\nProperties\n, or\nPreferences\n.\nNote:\nIf you don't see these buttons, click\nSetup\n,\nPrinter\n, or\nOptions\n, and click\nPrinter Properties\n,\nProperties\n, or\nPreferences\non the next screen.\nClick the\nMain\ntab.\nClick the\nReverse Order\ncheckbox.\nClick\nOK\n.\nMac\nSelect the print command in your application.\nMake sure your product is selected. Click the arrow next to the Printer setting or the\nShow Details\nbutton to expand the print window, if necessary.\nSelect\nPaper Handling\nfrom the printer options pop-up menu.\nSelect\nReverse\nas the Page Order setting.\nClick\nPrint\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-0000501-epc7000?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CL37201~faq-0000501-epc7000",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:03:58.512701"
+        },
+        {
+          "question": "I was able to print from Windows before with a USB connection, but now I can't. What should I do?",
+          "answer": "This problem can be caused by your printer, the connection, or the computer. Do the following:\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these instructions.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for errors and clear them. See these instructions. Try printing a nozzle check pattern again. If you can print, go to the next step. Otherwise, contact Epson Support.\nTurn your product off and on again and try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nDelete any pending print jobs from the Epson print queue\nand try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nIn the Epson print queue, select\nPrinter\nand deselect the\nUse Printer Offline\ncheckbox. If you can print, you're done. Otherwise, go to the next step.\nTurn off your product, make sure the USB cable is securely connected, and then turn on your product and try printing again.\nIf you still can't print, make sure the USB cable is a shielded cable no more than 6.5 feet (2 meters) long. Also, try connecting the cable to another USB port on your computer or use a different cable. Try printing again.\nNote:\nIf you're using a hub or switchbox, connect the product directly to your computer.\nIf you can print now, you're done. If you can't print, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-0000912-epc7000?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CL37201~faq-0000912-epc7000",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:03:59.585742"
+        },
+        {
+          "question": "I was able to print from my Mac before with a USB connection, but now I can't. What should I do?",
+          "answer": "This problem can be caused by your printer, the connection, or the computer. Do the following:\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these instructions.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for errors and clear them. See these instructions. Try printing a nozzle check pattern again. If you can print, go to the next step. Otherwise, contact Epson Support.\nTurn your product off and on again and try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nDelete any pending print jobs from the Epson print queue\nand try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nOn your Mac, open the\nmenu and select\nSystem Preferences\nor\nSystem Settings\n. Select\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n, select your printer, and then click the\nbutton to remove the printer. Click\n, select your printer with Kind set as\nUSB\n, select your printer from the Use drop-down list, and then click\nAdd\n. This adds the printer back to the printer queue. Try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nTurn off your product, make sure the USB cable is securely connected, and then turn on your product and try printing again.\nNote:\nIf you're using a hub or switchbox, connect the product directly to your computer.\nIf you still can't print, make sure the USB cable is a shielded cable no more than 6.5 feet (2 meters) long. Also, try connecting the cable to another USB port on your computer or use a different cable. Try printing again. If you can print, you're done. Otherwise, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-0000911-epc7000?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CL37201~faq-0000911-epc7000",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:00.610698"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CL37201~faq-00004c5-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:01.771145"
+        },
+        {
+          "question": "What does the message on my product's LCD screen mean?",
+          "answer": "See below.\nProduct Status Messages\nYou can often diagnose problems with your product by checking the messages and status icons on its LCD screen.\nNote:\nIf the screen is dark, press the screen to wake the product from sleep mode.\nLCD screen message\nCondition/solution\nPrinter error. For details, see your documentation.\nTurn the product off and then back on again. If the error persists, check for and remove any jammed paper or protective materials from the product. If the error still persists, contact Epson for support.\nIf you see any of the following error codes, make sure you have not exceeded the loading capacity for any paper source:\n000181\n000184\n000201\n000204\n000221\n000224\nPrinter error. Contact Epson Support. Non-printing features are available.\nThe product may be damaged, but non-printing features are still available. Contact Epson for support.\nPaper out in XX. Load paper. Paper Size: XX/Paper Type: XX\nLoad the size and type of paper in the paper source indicated.\nToo many paper cassette units are installed. Turn the power off and uninstall. For details, see your documentation.\nYou can install up to three optional paper cassette units. Remove any extra units.\nUnsupported Paper Cassette Units have been installed. Turn the power off and uninstall. For details, see your documentation.\nUnsupported optional paper cassette units are installed. Remove the unsupported units.\nCannot print because XX is out of order. You can print from another cassette.\nTurn the product off and then back on again. Reinsert the indicated paper cassette. If the error persists, contact Epson for support.\nThe pickup roller in XX is nearing the end of its service life.\nThe maintenance rollers need to be replaced periodically for optimal performance. (Paper may not feed correctly from the paper cassette or rear paper feed when a maintenance roller is near the end of its service life.)\nThe pickup roller in XX has reached the end of its service life. Replace the pickup roller, and then perform a counter reset.\nReplace the maintenance rollers and reset the maintenance roller counter for the paper cassette for which you replaced the maintenance rollers.\nThe pickup roller in XX has reached the end of its service life.\nContact Epson for support.\nYou need to replace Ink Cartridge(s).\nReplace the indicated ink cartridges.\nThe time for maintenance is approaching. Contact Epson Support.\nDo not attempt to perform maintenance on your own. Contact Epson for support.\nThis printer may need a service to maintain good print quality. Contact Epson Support.\nDo not attempt to perform maintenance on your own. Contact Epson for support.\nPaper Setup Auto Display is set to Off. Some features may not be available. For details, see your documentation.\nAirPrint is not available when the\nPaper Setup Auto Display\nsetting is disabled. Set the\nPaper Setup Auto Display\nsetting to\nOn\n.\nThe combination of the IP address and the subnet mask is invalid. See your documentation for more details.\nThere is a problem with the network connection to your product. Set up your product on the network again.\nTo use cloud services, update the root certificate from the Epson Web Config utility.\nAccess the Web Config utility and update the cloud service root certificate.\nCheck that the printer driver is installed on the computer and that the port settings for the printer are correct.\nMake sure the printer port is correctly configured. In Windows, make sure the port is set to a\nUSBXXX\nsetting for a USB connection or\nEpsonNet Print Port\nfor a network connection.\nCheck that the printer driver is installed on the computer and that the USB port settings for the printer are correct.\nRecovery mode\nUpdate Firmware\nAn error has occurred during firmware updating. Connect your product using a USB cable and try downloading the Firmware Update from the Epson support site. If you still need help, contact Epson for support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00007f1-epc7000?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CL37201~faq-00007f1-epc7000",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:02.896903"
+        },
+        {
+          "question": "I see the message Printer is Offline when I try to print with an Ethernet connection on my Mac. What should I do?",
+          "answer": "This problem can be caused by your printer or the computer. Do the following:\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these instructions.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for errors and clear them. See these instructions. Try printing a nozzle check pattern again. If you can print, go to the next step. Otherwise, contact Epson Support.\nTurn your product off and on again and try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nDelete any pending print jobs from the Epson print queue\nand try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nDelete and re-add the printer to the printer queue.\nClick\n, select your printer with Kind set as\nBonjour\n, select your printer from the Use drop-down list, and then click\nAdd\n. This adds the printer to the printer queue. Try printing again. If you can print, you're done. Otherwise, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00009c7-epc7000?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CL37201~faq-00009c7-epc7000",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:03.992363"
+        },
+        {
+          "question": "I see the message Printer is Offline when I try to print with an Ethernet connection in Windows. What should I do?",
+          "answer": "This problem can be caused by your printer or computer. Do the following:\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these instructions.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for errors and clear them. See these instructions. Try printing a nozzle check pattern again. If you can print, go to the next step. Otherwise, contact Epson Support.\nTurn your product off and on again and try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nDelete any pending print jobs from the Epson print queue\nand try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nIn the Epson print queue, select\nPrinter\nand deselect the\nUse Printer Offline\ncheckbox. If you can print, you're done. Otherwise, go to the next step.\nPrint a Network Status Sheet. See these instructions. Find the product's IP address on the Network Status Sheet. The IP address set up on your product should be the same in Windows. To see the IP address set up for your printer in Windows, do one of the following:\nWindows 11\n: Click\n, then search for\nSettings\nand select it. Select\nBluetooth & devices\n>\nPrinters & scanners\n. Select your product and select\nPrinter properties\n>\nPorts\n. The IP address appears in the Port column.\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your product and select\nManage\n>\nPrinter properties\n>\nPorts\n. The IP address appears in the Port column.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer icon and select\nPrinter Properties\n>\nPorts\n. The IP address appears in the Port column.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer icon and select\nPrinter Properties\n>\nPorts\n. The IP address appears in the Port column.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer icon and select\nPrinter Properties\n>\nPorts\n. The IP address appears in the Port column.\nDo one of the following:\nIf the IP address for your printer is different in Windows, add a new port for your printer. Select\nPorts\nand click\nAdd Port\n. A window appears. Select\nEpsonNet Print Port\n>\nNew Port\n>\nManual Setting\n>\nNext\n. Enter your printer’s IP address in the IP address field and click\nNext\n>\nFinish\n. Try printing again. If you can print, you're done. Otherwise, contact Epson Support.\nIf the IP address is the same, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00009c8-epc7000?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CL37201~faq-00009c8-epc7000",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:05.211706"
+        },
+        {
+          "question": "I see the message Printer is Offline when I try to print with a USB connection on my Mac. What should I do?",
+          "answer": "This problem can be caused by your printer, the connection, or the computer. Do the following:\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these instructions.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for errors and clear them. See these instructions. Try printing a nozzle check pattern again. If you can print, go to the next step. Otherwise, contact Epson Support.\nTurn your product off and on again and try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nDelete any pending print jobs from the Epson print queue\nand try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nOn your Mac, open the\nmenu and select\nSystem Preferences\nor\nSystem Settings\n. Select\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n, select your printer, and then click the\nbutton to remove the printer. Click\n, select your printer with Kind set as\nUSB\n, select your printer from the Use drop-down list, and then click\nAdd\n. This adds the printer back to the printer queue. Try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nTurn off your product, make sure the USB cable is securely connected, and then turn on your product and try printing again.\nNote:\nIf you're using a hub or switchbox, connect the product directly to your computer.\nIf you still can't print, make sure the USB cable is a shielded cable no more than 6.5 feet (2 meters) long. Also, try connecting the cable to another USB port on your computer or use a different cable. Try printing again. If you can print, you're done. Otherwise, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00009c9-epc7000?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CL37201~faq-00009c9-epc7000",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:06.366516"
+        },
+        {
+          "question": "I see the message Printer is Offline when I try to print with a USB connection in Windows. What should I do?",
+          "answer": "This problem can be caused by your printer, the connection, or the computer. Do the following:\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these instructions.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for errors and clear them. See these instructions. Try printing a nozzle check pattern again. If you can print, go to the next step. Otherwise, contact Epson Support.\nTurn your product off and on again and try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nDelete any pending print jobs from the Epson print queue\nand try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nIn the Epson print queue, select\nPrinter\nand deselect the\nUse Printer Offline\ncheckbox. If you can print, you're done. Otherwise, go to the next step.\nTurn off your product, make sure the USB cable is securely connected, and then turn on your product and try printing again.\nIf you still can't print, make sure the USB cable is a shielded cable no more than 6.5 feet (2 meters) long. Also, try connecting the cable to another USB port on your computer or use a different cable. Try printing again.\nNote:\nIf you're using a hub or switchbox, connect the product directly to your computer.\nIf you can print now, you're done. If you can't print, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00009ca-epc7000?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CL37201~faq-00009ca-epc7000",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:07.567966"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "Does my all-in-one printer support non-printing functions when an ink cartridge is expended or not installed?",
+          "answer": "See our\nFAQ page\non which non-printing functions are supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-0000d77-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CL37201~faq-0000d77-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:08.773402"
+        },
+        {
+          "question": "How do I print with black ink from Windows or my Mac when a color cartridge is expended?",
+          "answer": "When a color ink cartridge is expended, you can temporarily continue printing from your computer using black ink. Replace the expended color cartridge as soon as possible for future printing.\nTo temporarily print with black ink, see the instructions below.\nPrinting with Expended Color Cartridges - Windows\nIf you see a message during printing telling you that you can temporarily print in black ink with an expended color cartridge, you can cancel your print job and select settings to print on plain paper or on an envelope.\nNote:\nIf you are using your Epson product with the Windows 10 S operating system, you cannot use the software described in this section. You also cannot download and install any Epson product software from the Epson website for use with Windows 10 S; you must obtain software only from the Windows Store.\nNote:\nTo use this feature, Epson Status Monitor must be enabled.\nClick\nCancel\nor\nCancel Print\nto cancel your print job.\nNote:\nIf the message screen appears on another computer on a network, you may need to cancel the print job using the product control panel.\nLoad plain paper or an envelope in your product.\nAccess the print settings in your print application.\nClick the\nMain\ntab.\nSelect\nPlain Paper/Bright White Paper\nor\nEnvelope\nas the paper type setting.\nSelect the\nBlack/Grayscale\ncheckbox.\nClick\nOK\n.\nPrint your document. Epson Status Monitor 3 displays a print message.\nClick\nPrint in Black\nto print your document.\nPrinting with Expended Color Cartridges - Mac\nIf printing stops, you can cancel your print job and select settings to temporarily print with only black ink on plain paper or on an envelope.\nThe following paper types support printing with expended color cartridges:\nPlain paper\nPre-printed paper\nLetterhead\nColor paper\nRecycled paper\nHigh-quality plain paper\nThick paper\nEnvelopes\nClick the printer icon in the Dock.\nIf you see a message telling you that you can temporarily print with only black ink, click the\nDelete\nor\nbutton to cancel your print job. If you see an error message, click\nOK\n.\nNote:\nIf the message screen appears on another computer on a network, you may need to cancel the print job using the product control panel.\nIn the Apple menu or the Dock, select\nSystem Preferences\nor\nSystem Settings\n.\nSelect\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n, select your product, and select\nOptions & Supplies\n.\nSelect\nDriver\nor\nOptions\n.\nSelect\nOn\nas the\nPermit temporary black printing\nsetting.\nClick\nOK\n.\nClose the utility window.\nLoad a paper type compatible with temporary black printing in your product.\nSelect\nPrint Settings\nfrom the pop-up menu.\nSelect a non-borderless paper size as the\nPaper Size\nsetting.\nSelect a paper type that supports\nPermit temporary black printing\nas the media type setting.\nSelect the\nGrayscale\noption as the color setting.\nClick\nPrint\nto print your document.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00007e5-epc7000?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CL37201~faq-00007e5-epc7000",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:09.904174"
+        },
+        {
+          "question": "Which maintenance box should I use with this product?",
+          "answer": "Use these part numbers when you order or purchase new ink cartridges.\nMaintenance box part number: T6714\nInk color\nPart number\nStandard-capacity\nHigh-capacity\nExtra High-capacity\nBlack\nT13S1\nT13U1\nT13V1\nCyan\nT13S2\nT13U2\nT13V2\nMagenta\nT13S3\nT13U3\nT13V3\nYellow\nT13S4\nT13U4\nT13V4",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-000078c-epc7000?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CL37201~faq-000078c-epc7000",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:11.149451"
+        },
+        {
+          "question": "Which ink cartridges should I use with this product?",
+          "answer": "Use these part numbers when you order or purchase new ink cartridges.\nMaintenance box part number: T6714\nInk color\nPart number\nStandard-capacity\nHigh-capacity\nExtra High-capacity\nBlack\nT13S1\nT13U1\nT13V1\nCyan\nT13S2\nT13U2\nT13V2\nMagenta\nT13S3\nT13U3\nT13V3\nYellow\nT13S4\nT13U4\nT13V4",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-000060e-epc7000?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CL37201~faq-000060e-epc7000",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:12.302607"
+        },
+        {
+          "question": "The color ink cartridge is expended even though I print in black only. Why does this happen?",
+          "answer": "To keep the printhead clear and ready to print, the printer uses a small amount of ink from all the cartridges whenever it prints. Even if you select\nBlack/Grayscale\nor\nGrayscale\nin the printer software, some color ink is still being used.\nEpson printers contain a permanent printhead that needs to be charged with all colors to work. Even when you are printing black text only, a small amount of color ink is used to keep the printhead charged. The printhead needs to be kept charged to prevent air bubbles from entering and damaging the printhead.\nTherefore, once one of the cartridges is expended, the printer signals you to replace the cartridge for printing to continue.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00004ec-epc7000?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CL37201~faq-00004ec-epc7000",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:11.116715"
+        },
+        {
+          "question": "Which functions are available on my product when an ink cartridge is expended or not installed?",
+          "answer": "If an ink cartridge is not installed, the product will not print.\nWhen a color ink cartridge is expended, you may be able to temporarily continue printing using black ink. You will see a message during printing if you can print this way. See the link below for more details.\nRelated information\nPrinting with Black Ink and Expended Color Cartridges",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00004ea-epc7000?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CL37201~faq-00004ea-epc7000",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:12.126724"
+        },
+        {
+          "question": "What is my product doing after I install a new ink cartridge?",
+          "answer": "It takes about 10 minutes for the printer to charge the ink delivery system when you install the first set of ink cartridges.\nWhen you replace an ink cartridge, the printer takes a few minutes to charge the ink delivery system.\nNote:\nNever turn off the printer while it is charging the ink delivery system. This initialization is a normal and necessary process; however, if the printer has not moved or made noise after 5 minutes, turn the printer off, then turn it on and check if charging is still in progress. If it is still in progress, contact Epson.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00004ed-epc7000?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CL37201~faq-00004ed-epc7000",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:13.201183"
+        },
+        {
+          "question": "Can my product still print if an ink cartridge is expended or not installed?",
+          "answer": "The printer will not operate if a black ink cartridge is expended or any cartridge is removed.\nIf a color cartridge is expended, you may be able to continue printing temporarily with black ink. It's best to always have extra cartridges on hand.\nRelated information\nPrinting with Black Ink and Expended Color Cartridges",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-000051c-epc7000?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CL37201~faq-000051c-epc7000",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:14.222531"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "Can the product print on CDs and DVDs?",
+          "answer": "No, this product does not support this feature.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00004b5-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CL37201~faq-00004b5-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:15.297013"
+        },
+        {
+          "question": "Does the type of paper I use make a difference?",
+          "answer": "The type of paper you choose affects the way your printout looks, so be sure to select the correct paper for your print job. If you are just making a copy or printing a rough draft of an image, plain paper is fine. However, for the best results, use one of Epson's special ink jet papers.\nCompatible Epson Papers\nYou can purchase genuine Epson ink, maintenance boxes, and paper at\nepson.com\n(U.S. sales),\nepson.ca\n(Canadian sales), or\nlatin.epson.com\n(Latin American sales). You can also purchase supplies from an Epson authorized reseller. To find the nearest one, call 800-GO-EPSON (800-463-7766) in the U.S. or 800-807-7766 in Canada.\nNote:\nPaper/media availability varies by country.\nPaper Type\nSize\nPart number\nSheet count\nEpson Bright White Pro Paper\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041586\n500\nEpson Presentation Paper Matte\nLegal (8.5 × 14 inches [216 × 356 mm])\nS041067\n100\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041062\n100\nA3 (11.7 × 16.5 inches [297 × 420 mm])\nS041069-L\n100\n11 × 17 inches (279 × 432 mm)\nS041070\n100\nEpson Premium Presentation Paper Matte\n8 × 10 inches (203 × 254 mm)\nS041467\n50\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041257\nS042180\n50\n100\n13 × 19 inches (330 × 483 mm)\nS041263\n50\nA3 (11.7 × 16.5 inches [297 × 420 mm])\nS041260\n50\nEpson Photo Paper Glossy\n4 × 6 inches (102 × 152 mm)\nS041809\nS042038\n50\n100\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041141\nS041649\nS041271\n20\n50\n100\nA4 (8.3 × 11.7 inches [210 × 297 mm])\nS041140\n20\n11 × 17 inches (279 × 432 mm)\nS041156\n20\n13 × 19 inches (330 × 483 mm)\nS041143\n20\nEpson Premium Photo Paper Glossy\n4 × 6 inches (102 × 152 mm)\nS041727\n100\n5 × 7 inches (127 × 178 mm)\nS041464\n20\n8 × 10 inches (203 × 254 mm)\nS041465\n20\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042183\nS041667\n25\n50\n11 × 17 inches (279 × 432 mm)\nS041290\n20\nA3 (11.7 × 16.5 inches [297 × 420 mm])\nS041288\n20\n13 × 19 inches (330 × 483 mm)\nS041289\n20\nEpson Ultra Premium Photo Paper Glossy\n4 × 6 inches (102 × 152 mm)\nS042181\nS042174\n60\n100\n5 × 7 inches (127 × 178 mm)\nS041945\n20\n8 × 10 inches (203 × 254 mm)\nS041946\n20\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042182\nS042175\n25\n50\nEpson Premium Photo Paper Semi-gloss\n4 × 6 inches (102 × 152 mm)\nS041982\n40\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041331\n20\n13 × 19 inches (330 × 483 mm)\nS041327\n20",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-000048c-epc7000?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CL37201~faq-000048c-epc7000",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:16.386676"
+        },
+        {
+          "question": "I'm having paper feed problems. What should I do?",
+          "answer": "If you have problems feeding paper, try these solutions:\nIf paper does not feed for printing, remove it from the rear feed slot or cassette. Reload it, then adjust the edge guides. Make sure the paper stack is not above the arrow mark on the edge guides inside the cassette or rear feed slot.\nPlace the product on a flat surface and operate it in the recommended environmental conditions.\nBe sure to insert the paper cassette all the way into your product.\nIf multiple pages feed at once, remove the paper, fan the edges to separate the sheets, and reload it.\nDo not load more than the recommended number of sheets. For plain paper, do not load paper above the arrow mark on the edge guides.\nMake sure your paper meets the specifications for your product.\nIf paper jams when you print on both sides of the paper, try loading fewer sheets.\nRun the paper guide cleaning utility to clean the paper path.\nIf paper does not feed correctly after replacing the maintenance rollers, make sure you installed the maintenance rollers correctly.\nIf you installed an optional paper cassette unit, be sure to enable the cassette unit in the printing software.\nIf your product pauses during printing, make sure the front cover is closed.\nThe maintenance rollers may be at the end of their service life. Check the maintenance roller status and replace them if necessary.\nDo not use short-grain paper with a width less than .413 inches (105 mm).\nFor best results, follow these guidelines:\nUse new, smooth, high-quality paper that is not curled, creased, old, too thin, or too thick.\nLoad paper in the cassette printable side down.\nDo not load binder paper with holes in the cassette.\nFollow any special loading instructions that came with the paper.\nUse long-grain paper. If you are not sure what type of paper you are using, check the paper packaging or contact the manufacturer to confirm the paper specifications.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00005f1-epc7000?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CL37201~faq-00005f1-epc7000",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:17.440777"
+        },
+        {
+          "question": "How do I know which paper or media type to select in my product's driver?",
+          "answer": "See the table below.\nPaper or Media Type Settings - Printing Software\nFor this paper\nSelect this Paper Type or Media Type setting\nPlain paper\nEpson Bright White Premium Paper\nEpson Bright White Pro Paper\nEpson Multipurpose Plus Paper\nPlain Paper / Bright White Paper\nLetterhead paper\nLetterhead\nRecycled paper\nRecycled\nColored paper\nColor\nPre-printed paper\nPreprinted\nHigh-quality plain paper\nHigh Quality Plain Paper\nEnvelopes\nEnvelope\nEpson Ultra Premium Photo Paper Glossy\nUltra Premium Photo Paper Glossy\nEpson Premium Photo Paper Glossy\nPremium Photo Paper Glossy\nEpson Photo Paper Glossy\nPhoto Paper Glossy\nEpson Premium Photo Paper Semi-gloss\nPremium Photo Paper Semi-Gloss\nEpson Presentation Paper Matte\nEpson Premium Presentation Paper Matte\nPremium Presentation Paper Matte\nThick paper (25 to 40 lb [91 to 150 g/m2])\nCard Stock 1\nThick paper (41 to 53 lb [151 to 200 g/m2])\nCard Stock 2\nThick paper (54 to 68 lb [201 to 256 g/m2])\nCard Stock 3",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00007ff-epc7000?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CL37201~faq-00007ff-epc7000",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:18.496676"
+        },
+        {
+          "question": "Which type of paper can I print on?",
+          "answer": "You can use plain paper; however, for the best results, you'll want to use one of Epson's special inkjet papers.\nCompatible Epson Papers\nYou can purchase genuine Epson ink, maintenance boxes, and paper at\nepson.com\n(U.S. sales),\nepson.ca\n(Canadian sales), or\nlatin.epson.com\n(Latin American sales). You can also purchase supplies from an Epson authorized reseller. To find the nearest one, call 800-GO-EPSON (800-463-7766) in the U.S. or 800-807-7766 in Canada.\nNote:\nPaper/media availability varies by country.\nPaper Type\nSize\nPart number\nSheet count\nEpson Bright White Pro Paper\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041586\n500\nEpson Presentation Paper Matte\nLegal (8.5 × 14 inches [216 × 356 mm])\nS041067\n100\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041062\n100\nA3 (11.7 × 16.5 inches [297 × 420 mm])\nS041069-L\n100\n11 × 17 inches (279 × 432 mm)\nS041070\n100\nEpson Premium Presentation Paper Matte\n8 × 10 inches (203 × 254 mm)\nS041467\n50\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041257\nS042180\n50\n100\n13 × 19 inches (330 × 483 mm)\nS041263\n50\nA3 (11.7 × 16.5 inches [297 × 420 mm])\nS041260\n50\nEpson Photo Paper Glossy\n4 × 6 inches (102 × 152 mm)\nS041809\nS042038\n50\n100\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041141\nS041649\nS041271\n20\n50\n100\nA4 (8.3 × 11.7 inches [210 × 297 mm])\nS041140\n20\n11 × 17 inches (279 × 432 mm)\nS041156\n20\n13 × 19 inches (330 × 483 mm)\nS041143\n20\nEpson Premium Photo Paper Glossy\n4 × 6 inches (102 × 152 mm)\nS041727\n100\n5 × 7 inches (127 × 178 mm)\nS041464\n20\n8 × 10 inches (203 × 254 mm)\nS041465\n20\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042183\nS041667\n25\n50\n11 × 17 inches (279 × 432 mm)\nS041290\n20\nA3 (11.7 × 16.5 inches [297 × 420 mm])\nS041288\n20\n13 × 19 inches (330 × 483 mm)\nS041289\n20\nEpson Ultra Premium Photo Paper Glossy\n4 × 6 inches (102 × 152 mm)\nS042181\nS042174\n60\n100\n5 × 7 inches (127 × 178 mm)\nS041945\n20\n8 × 10 inches (203 × 254 mm)\nS041946\n20\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042182\nS042175\n25\n50\nEpson Premium Photo Paper Semi-gloss\n4 × 6 inches (102 × 152 mm)\nS041982\n40\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041331\n20\n13 × 19 inches (330 × 483 mm)\nS041327\n20",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00004f2-epc7000?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CL37201~faq-00004f2-epc7000",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:19.629693"
+        },
+        {
+          "question": "How do I select the paper source in Windows?",
+          "answer": "Do the following:\nNote:\nThe information below applies only to the Standard Epson printer software and the Epson Universal Print Driver.\nRight-click the printer icon in the Windows taskbar and select\nPrinter Settings\n.\nClick the\nMain\ntab, if necessary.\nSelect the\nPaper Source\nyou want to use.\nClick\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00004f3-epc7000?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CL37201~faq-00004f3-epc7000",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:20.702688"
+        },
+        {
+          "question": "How do I create a custom paper size for my product in Windows?",
+          "answer": "Do the following:\nNote:\nThe information below applies only to the Standard Epson printer software.\nOpen a photo or document for printing.\nSelect the print command in your application.\nNote:\nYou may need to select a print icon on your screen, the\nPrint\noption in the\nFile\nmenu, or another command. See your application's help utility for details.\nIf necessary, select your product name as the printer you want to use.\nNote:\nYou may also need to select\nProperties\nor\nPreferences\nto view your print settings.\nYou see the Main tab of your printer settings window:\nSelect\nUser-Defined\nin the Document Size drop-down list.\nNote:\nIf your product has multiple Paper Sources, the User-Defined option may not be available for every Paper Source.\nEnter a Paper Size Name and select the\nPaper Width\nand\nPaper Height\n.\nClick\nSave\nand\nOK\n.\nClick\nOK\nagain. The new size is created, and you can select it from the Document Size drop-down list.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00004f4-epc7000?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CL37201~faq-00004f4-epc7000",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:21.748928"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "Web pages don't print the way they appear on my monitor. What should I do?",
+          "answer": "The pages may not print correctly due to the web page design. Try the following:\nCheck for a\nPrinter-friendly Version\n(or similarly named) option on the web page.\nChange the page setup and paper size settings, and select the preview option in your browser to check the changes before you print.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00004b8-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CL37201~faq-00004b8-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:22.801176"
+        },
+        {
+          "question": "How do I reduce the appearance of red eyes in my photos?",
+          "answer": "Turn on the\nFix Red-Eye\nsetting in the printer software or from the product's control panel, if available for your product.\nNote:\nDue to the complexity and nature of some photographs, not all images can be corrected. If the Fix Red-Eye setting does not fix the photo, you need to use a software application such as Adobe Photoshop or Adobe Elements to fix it.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00004b9-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CL37201~faq-00004b9-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:24.059593"
+        },
+        {
+          "question": "My printout is blurry or smeared. What should I do?",
+          "answer": "If your printouts are blurry or smeared, try these solutions:\nMake sure your paper is not damp, curled, old, or loaded incorrectly in your product.\nSlide the edge guides to the edges of the paper.\nUse a support sheet with special paper, or load special paper one sheet at a time.\nMake sure your paper meets the specifications for your product.\nUse Epson papers to ensure proper saturation and absorption of genuine Epson inks.\nDo not load more than the recommended number of sheets. For plain paper, do not load above the line indicated by the triangle symbol on the edge guide.\nMake sure the paper type setting in your product software matches the type of paper you loaded.\nMake sure you loaded the printable side of the paper correctly for your product.\nIf you are printing on thick paper or envelopes, turn on the\nThick Paper\nsetting from the control panel or select\nThick Paper and Envelopes\nin the Extended Settings of the printer software. (Turning this setting on will decrease print speed.)\nIn Windows, if the paper is still smeared after selecting the\nThick Paper and Envelopes\nsetting, select the\nShort Grain Paper\nsetting in the Extended Settings of the printer software.\nRemove each sheet from the output tray as it is printed.\nAvoid handling printouts on glossy paper right after printing to allow the ink to set.\nTurn off any high speed settings in your product software.\nIf you print on both sides of a sheet of paper, smudges may appear on the reverse side of heavily saturated or dark images. If one side of a sheet will contain a lighter image or text, print that side first. Make sure the ink has dried before reloading the paper to print on the other side. Adjust the density and/or ink drying time settings.\nRun a nozzle check to see if any of the print head nozzles are clogged. Then clean the print head, if necessary.\nAlign the print head. If print quality does not improve, disable the bidirectional setting.\nAdjust the print quality in the product software.\nClean the paper path.\nNote:\nYour product will not operate properly while tilted at an angle. Place it on a flat, stable surface that extends beyond the base of the product in all directions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00007f6-epc7000?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CL37201~faq-00007f6-epc7000",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:25.169538"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "If you notice white or dark lines in your prints (also called banding), try these solutions before you reprint:\nRun a nozzle check to see if any of the print head nozzles are clogged. Then clean the print head, if necessary.\nMake sure the paper type setting matches the type of paper you loaded.\nMake sure you loaded the printable side of the paper correctly for your product.\nTurn off any high speed settings in your product software.\nAlign the print head. If print quality does not improve after aligning the print head, disable the bidirectional (high speed) setting.\nAdjust the print quality in the product software.\nIf you continue to see horizontal bands or streaks in your printouts after cleaning the print head and adjusting the print quality, make print quality adjustments for each paper type.\nYou may need to replace the ink cartridges.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-000048e-epc7000?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CL37201~faq-000048e-epc7000",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:26.220923"
+        },
+        {
+          "question": "My printout has a slight slant. What should I do?",
+          "answer": "If your printouts are slanted, try these solutions:\nSlide the edge guides against the edges of the paper.\nSelect a higher print quality setting in your printer software.\nTurn off any high speed settings in your product software.\nAlign the print head.\nAdjust the print quality.\nMake sure the product is not printing while tilted or at an angle.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00007f5-epc7000?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CL37201~faq-00007f5-epc7000",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:27.274471"
+        },
+        {
+          "question": "My printout contains incorrect characters. What should I do?",
+          "answer": "If incorrect characters appear in your prints, try these solutions before reprinting:\nMake sure any cables are securely connected at both ends.\nIn Windows, delete all jobs from the Windows Spooler. Click\nPrint Queue\non the Maintenance tab in the printer settings window, and cancel any stalled print jobs.\nIf your product is connected to a USB hub, connect it directly to your computer instead.\nIf your computer entered sleep mode the last time you printed, the next print job after your computer exits sleep mode may contain garbled characters. Print your document again.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00007f7-epc7000?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CL37201~faq-00007f7-epc7000",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:28.428119"
+        },
+        {
+          "question": "My printout has incorrect margins. What should I do?",
+          "answer": "If your printed page has incorrect margins, try these solutions:\nMake sure you selected the correct paper size settings in your printing program and printer software.\nMake sure you selected the correct margins for your paper size in your printing program.\nMake sure your paper is positioned correctly for feeding into the product.\nYou can use the preview option in your printer software to check your margins before you print.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00007fa-epc7000?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CL37201~faq-00007fa-epc7000",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:29.600026"
+        },
+        {
+          "question": "My printout looks inverted, as if viewed in a mirror. What should I do?",
+          "answer": "If your printed image is inverted unexpectedly, try these solutions:\nTurn off any mirror or inversion settings in your printing application.\nTurn off the\nMirror Image\n,\nFlip horizontally\n, or\nReverse page orientation\nsettings in your printer software. (This option has different names, depending on your operating system version.)",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00007fb-epc7000?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CL37201~faq-00007fb-epc7000",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:30.658442"
+        },
+        {
+          "question": "My printout has incorrect colors. What should I do?",
+          "answer": "If your printouts have incorrect colors, try these solutions:\nMake sure the paper type setting matches the paper you loaded.\nMake sure the\nBlack/Grayscale\nor\nGrayscale\nsetting is not selected in your printer software.\nRun a nozzle check to see if any of the print head nozzles are clogged. Then clean the print head, if necessary.\nThe ink cartridges may be old or low on ink, and you may need to replace them.\nAfter you print, the colors in your printout need time to set as the ink dries. During this time, the colors may look different than you expect. To speed up drying time, do not stack your printouts on top of each other.\nYour printed colors can never exactly match your on-screen colors. However, you can use a color management system to get as close as possible. Try using the color management options in your printer software.\nSelect\nCustom\nas the\nColor Correction\nsetting on the More Options tab of the printer software, then click\nAdvanced\n. Try changing the\nScene Correction\nsetting to something other than\nAutomatic\n. If changing that setting does not work, change the\nColor Management\nsetting to any color correction method other than\nPhotoEnhance\n.\nIf you are using the Windows PostScript printer software, try adjusting the\nColor Mode\nsetting on the Advanced tab of the printer software.\nFor best results, use genuine Epson paper.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00007f9-epc7000?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CL37201~faq-00007f9-epc7000",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:31.754642"
+        },
+        {
+          "question": "My printout is grainy when I print from any application. What should I do?",
+          "answer": "If your printouts are grainy, try these solutions:\nMake sure you loaded the printable side of the paper correctly for your product.\nSelect a higher print quality setting and turn off any high speed settings in your product software.\nRun a nozzle check to see if any of the print head nozzles are clogged. Then clean the print head, if necessary.\nAlign the print head.\nAdjust the print quality in the product software.\nYou may need to increase the image resolution or print a smaller size; see your software documentation.\nNote:\nImages from the Internet may be low resolution and not result in a high quality printout.\nIf you enlarged the image size in an image-editing program, you need to increase the image resolution setting to retain a high image quality. Increase the image resolution by the same amount you increase the image size. For example, if the image resolution is 300 dpi (dots per inch) and you will double the image size for printing, change the resolution setting to 600 dpi.\nNote:\nHigher resolution settings result in larger file sizes, which take longer to process and print. Consider the limitations of your computer system when selecting a resolution, and select the lowest possible resolution that produces acceptable quality to keep file sizes manageable.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00007f8-epc7000?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CL37201~faq-00007f8-epc7000",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:32.828249"
+        },
+        {
+          "question": "My product is printing blank pages. What should I do?",
+          "answer": "If blank pages print unexpectedly, try these solutions:\nMake sure you selected the correct paper size settings in your printing program and printer software.\nIf a blank page exists in a document you are printing and you want to skip printing it, select the\nSkip Blank Page\nsetting in your printer software, if available.\nRun a print head nozzle check to see if any of the nozzles are clogged. Then clean the print head, if necessary.\nMake sure your product is selected as the printer in your printing program.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-0000a14-epc7000?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CL37201~faq-0000a14-epc7000",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:33.864335"
+        },
+        {
+          "question": "The photos I print on glossy photo paper smear after they are printed. What should I do?",
+          "answer": "To avoid smearing your photos, do not touch the printed side until the ink is completely dry. When printing on glossy photo papers, ink drying times increase considerably (humidity, temperature, and other environmental conditions can affect photo drying times). Moisture and oils from your skin can also affect print quality, so avoid rubbing or scratching the surface of your photos even after they dry.\nNote:\nTry removing each sheet from the output tray as it is printed and do not touch the printed side until the ink is completely dry.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-0000db1-epc7000?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CL37201~faq-0000db1-epc7000",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:34.932008"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL37201~faq-00004dc-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:35.992799"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "The following options are available:\nYou can use Epson Software Updater (which is installed the first time you install the printer driver) to notify you when new updates are available for download. Software Updater analyzes the Epson software (drivers, utilities, firmware, etc.) installed on your computer and product, and notifies you if new updates are available for download.\nIf you already installed a Windows printer driver, you can update the driver by selecting\nSoftware Update\non the Maintenance tab in the printer driver settings window.\nYou can download the software from the Downloads tab on your product's support page.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00004fc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL37201~faq-00004fc-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:37.141405"
+        },
+        {
+          "question": "Who do I contact for software support?",
+          "answer": "Click on the\nContact Us\ntab on your product's support page to contact Epson for support. If your product comes with third-party software, contact the software company.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00004db-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL37201~faq-00004db-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:38.280957"
+        },
+        {
+          "question": "Where can I find the IP address of my router?",
+          "answer": "Most wireless routers have a default IP address that can usually be found in the router's documentation.\nFor more support on your router, contact the manufacturer of your router.\nYou can also print a network status sheet from your printer's control panel to find your router's IP address.\nNote:\nThe network status sheet will list your router’s IP address only if you have set up your printer with a network connection to the router. If you print a network status sheet before setup, the router's IP address will not be listed on the network status sheet.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00004c0-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL37201~faq-00004c0-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:39.341294"
+        },
+        {
+          "question": "How do I add my product as an IP printer on my Mac?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n.\nSelect your printer, if necessary.\nClick\n+\nor\nAdd Printer, Scanner, or Fax\nand select\nIP\non the toolbar.\nSelect a protocol. If you do not know which protocol to choose, leave it as\nLine Printer Daemon-LPD\n.\nClick the\nAddress\nfield and enter your printer's IP address. You see the message\nGathering printer information\nas your Mac connects to the printer.\nClick\nAdd\nafter your printer appears in the Use field to create a printer queue. If your printer does not appear in the Use field, select\nAuto Select\nfrom the drop-down box.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00004ba-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL37201~faq-00004ba-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:40.406204"
+        },
+        {
+          "question": "What are the port numbers for Epson network printers (wired and wireless)?",
+          "answer": "See the table below.\nNote:\nNot all operations are supported by all products.\nService name\nProtocol type\nLocal/Remote port number\nControls these operations\nENPC\nUDP\n3289/Any port\nSearching for a product from applications such as printer or scanner drivers, or EpsonNet Config\nSNMP\nUDP\n161/Any port\nAcquiring and configuring MIB from applications such as printer or scanner drivers, or EpsonNet Config\nLPR\nTCP\n515/Any port\nForwarding LPR data\nRAW (Port9100)\nTCP\n9100/any port\nForwarding RAW data\nIPP/IPPS\nTCP\n631/Any port\nForwarding AirPrint data (IPP/IPPS printing)\nWSD\nTCP\nAny port/5357\nControlling WSD\nWS-Discovery\nUDP\n3702/Any port\nSearching for a product from WSD\nNetwork Scan\nTCP\n1865/Any port\nForwarding scan data from Document Capture Pro and Document Capture\nNetwork Push Scan\nTCP\nAny port/2968\nAcquiring job information on push scanning from Document Capture Pro and Document Capture\nNetwork Push Scan Discovery\nUDP\n2968/Any port\nSearching for a computer during push scanning from Document Capture Pro and Document Capture\nFTP Data (Local)\nTCP\n20/Any port\nForwarding FTP printing data to FTP server\nFTP Control (Local)\nTCP\n21/Any port\nControlling FTP printing to FTP server\nFTP Data (Remote)\nTCP\nAny port/20\nForwarding scan data and received fax data to FTP client; controls only an FTP server that uses remote port 20\nFTP Control (Remote)\nTCP\nAny port/21\nForwarding scan data and received fax data to FTP client\nCIFS (Local)*\nTCP\n445/Any port\nSharing a network folder on CIFS server\nCIFS (Remote)*\nTCP\nAny port/445\nForwarding scan data and received fax data to a folder on CIFS server\nNetBIOS Name Service (Local)\nUDP\n137/Any port\nSharing a network folder on CIFS server\nNetBIOS Datagram Service (local)\nUDP\n138/Any port\nNetBIOS Session Service (Local)\nTCP\n139/Any port\nNetBIOS Name Service (Remote)\nUDP\nAny port/137\nForwarding scan data and received fax to a folder on CIFS server\nNetBIOS Datagram Service (Remote)\nUDP\nAny port/138\nNetBIOS Service (Remote)\nTCP\nAny port/139\nHTTP (Local)\nTCP\n80/Any port\nForwarding Web Config and WSD data to a HTTP or HTTPS server\nHTTPS (Local)\nTCP\n443/Any port\nHTTP (Remote)\nTCP\nAny port/80\nCommunicating with Epson Connect or Chromebook Native Printing, firmware update, and root certificate update on a HTTP or HTTPS client\nHTTPS (Remote)\nTCP\nAny port/443\n* To control forwarding of scan and received fax data, share a network folder, or receive fax data from PC-Fax, select\nPort Number\nas the\nMethod of Choosing Port\noption and specify the port numbers for CIFS and NetBIOS.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-0000525-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL37201~faq-0000525-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:41.457866"
+        },
+        {
+          "question": "How do I uninstall the Epson printer and scanning software in Windows or on my Mac?",
+          "answer": "Follow the instructions below for your operating system.\nUninstalling Product Software - Windows\nYou can uninstall and then re-install your product software to solve certain problems.\nTurn off the product.\nClose any open programs or applications.\nDisconnect any interface cables.\nDo one of the following:\nWindows 11\n: Click\n, then search for\nSettings\nand select it. Select\nApps\nor\nSystem\n>\nApps & features\n. Then select the program you want to uninstall and select\nUninstall\n.\nWindows 10\n: Click\nand select\n(Settings) >\nApps\nor\nSystem\n>\nApps & features\n. Then select the program you want to uninstall and select\nUninstall\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nPrograms\n>\nPrograms and Features\n. Select the uninstall option for your Epson product, then select\nUninstall/Change\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto confirm the uninstallation.\nWindows (other versions)\n: Click\nor\nStart\n, and select\nAll Programs\nor\nPrograms\n. Select\nEPSON\n, select your product, then click\nEPSON Printer Software Uninstall\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nIn the next window, select your product and click\nOK\n. Then follow any on-screen instructions.\nDo one of the following to uninstall Epson Scan, then follow any on-screen instructions:\nWindows 11/Windows 10\n: Select\nEpson Scan\nand click\nUninstall\n.\nNote:\nIf you find that re-installing your product software does not solve a problem, contact Epson.\nUninstalling Product Software - Mac\nIn most cases, you do not need to uninstall your product software before re-installing it. However, you can download the Uninstaller utility from the Epson support website to uninstall your product software as described here.\nNote:\nIf you find that re-installing your product software does not solve a problem, contact Epson.\nTo download the Uninstaller utility, visit\nepson.com/support\n(U.S.) or\nepson.ca/support\n(Canada) and select your product.\nClick\nDownloads\n.\nSelect your operating system, click\nUtilities\n, locate the Uninstaller utility, and click\nDownload\n.\nRun the file you downloaded.\nDouble-click the\nUninstaller\nicon.\nIn the Epson Uninstaller screen, select the checkbox for each software program you want to uninstall.\nClick\nUninstall\n.\nFollow the on-screen instructions to uninstall the software.\nReinstall your product software.\nNote:\nIf you uninstall the printer driver and your product name remains in the\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\nwindow, select your product name and click the\n–\n(remove) icon to remove it.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00005f3-epc7000?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL37201~faq-00005f3-epc7000",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:42.615008"
+        },
+        {
+          "question": "How do I install the Epson Universal Print Driver (PCL) or PostScript printer software?",
+          "answer": "See below.\nInstalling the Epson Universal Print Driver - Windows\nThe Epson Universal Print Driver supports multiple printer languages, such as PCL and ESC/P-R, and can be installed on a Windows computer.\nNote:\nMake sure your product is turned on and connected to the same network as your computer before installing the printer software. Depending on your model, not all printer languages may be supported.\nTo download the\nEPSON Universal Print Driver\nfile, visit\nepson.com/support\n(U.S) or\nepson.ca/support\n(Canada) and select your product.\nAfter downloading the installer file, double-click the downloaded file to install the software.\nFollow the on-screen instructions until you see this screen:\nSelect\nYes: Network connection\nand click\nOK\n.\nNote:\nSelect the\nSet Default of Printer Control Language to PCL6\ncheckbox if you want to set the default printer language to PCL6. Leave this option deselected to set the printer language to ESC/P-R. (You can change this setting later as needed.)\nAfter the software finishes searching for products, you see a screen like this:\nDo one of the following:\nIf you are installing one product, make sure\nAdd EPSON Universal Print Driver\nis selected and continue with the next step.\nIf you are installing more than one product, select\nAdd found printers\nand go to step 9.\nNote:\nYou can customize and filter your product search results by clicking\nDisplay Settings\n.\nOpen the\nSelect a port to connect a printer\nmenu and select an existing printer port, if necessary. Otherwise, skip this option to create a new port automatically.\nSelect the product you want to install from the Found Printers list.\nNote:\nDeselect the\nSet as default printer\ncheckbox if you do not want the product to be set as your default printer.\nClick\nOK\n, then skip the remaining steps.\nIf you are installing more than one product, select the products from the Found Printers list and click\nAdd to Printer Folder\n.\nThe selected products appear in the lower section of the screen.\nSelect the checkbox next to the product you want to make your default printer, if necessary.\nClick\nOK\n.\nInstalling the PostScript (PS3) Printer Software - Windows\nIf you did not install the standard Epson printer software or Epson Universal Print Driver, you need to install the PostScript (PS3) printer software before you can adjust the print settings and print to your network printer.\nNote:\nMake sure your product is turned on and connected to the same network as your computer before installing the printer software.\nTo download the\nDrivers and Utilities Combo Package - PS3 PostScript\nfile, visit\nepson.com/support\n(U.S.),\nepson.ca/support\n(Canada), or\nlatin.epson.com/support\n(Latin America) and select your product.\nAfter downloading the installer file, double-click the downloaded file to install the software.\nClick\nOK\n.\nClick\nAccept\n.\nClick\nInstall\n.\nClick\nNext\nand follow the on-screen instructions.\nInstalling the PostScript (PS3) Printer Software - Mac\nIf you did not install the standard Epson printer software, you need to install the PostScript (PS3) printer software before you can adjust the print settings and print to your network printer.\nNote:\nMake sure your product is turned on and connected to the same network as your computer before installing the printer software.\nTo download the\nDrivers and Utilities Combo Package - PS3 PostScript\nfile, visit\nepson.com/support\n(U.S) or\nepson.ca/support\n(Canada) and select your product.\nAfter downloading the installer file, double-click the downloaded file to install the software.\nDouble-click\nEPSON\n.\nClick\nContinue\non the next two screens.\nClick\nAgree\n.\nClick\nInstall\nor\nContinue\n.\nIf necessary, enter the administrator password.\nClick\nStart\nand follow the on-screen instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-000080d-epc7000?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL37201~faq-000080d-epc7000",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:42.207553"
+        },
+        {
+          "question": "How do I restore my product's default settings?",
+          "answer": "See below.\nResetting Control Panel Defaults\nIf you have a problem with settings on the product control panel, you can reset them to their factory defaults. You can choose which settings to reset or reset them all.\nNote:\nThis setting can be locked by an administrator. If you cannot access or change this setting, contact your administrator for assistance.\nPress the\nhome button, if necessary.\nSelect\nSettings\n>\nGeneral Settings\n>\nSystem Administration\n.\nEnter the administrator password, if necessary.\nScroll down and select\nRestore Default Settings\n.\nSelect one of these options:\nNetwork Settings\n: Resets all network settings\nAll Except Network Settings\n: Resets all settings except for network settings\nAll Settings\n: Resets all control panel settings\nYou see a confirmation screen.\nSelect\nYes\nto reset the selected settings. (Select\nNo\nif you want to cancel the operation.)",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00007fc-epc7000?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL37201~faq-00007fc-epc7000",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:43.291420"
+        },
+        {
+          "question": "I can't select an optional paper cassette as my paper source. What should I do?",
+          "answer": "Turn the product off and on, then follow the instructions below for your operating system.\nEnabling the Optional Paper Cassettes - Windows\nYou need to enable the optional paper cassette units before you can use them with the printer software.\nNote:\nLog on to your computer as an administrator.\nDo one of the following:\nWindows 11:\nClick\n, search for\nSettings\nand select it. Select\nBluetooth & devices\n>\nPrinters & scanners\n. Select your product name, then select\nPrinter properties\n.\nWindows 10:\nClick\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your product name and select\nManage\n>\nPrinter properties\n.\nWindows 8.x:\nNavigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your product name and select\nPrinter properties\n.\nWindows 7:\nClick\nand select\nDevices and Printers\n. Right-click your printer name and select\nPrinter properties\n.\nWindows Vista:\nClick\nand select\nControl Panel\n. Click\nPrinter\nunder\nHardware and Sound\n, then right-click your printer name and select\nProperties\n.\nClick the\nOptional Settings\ntab. You see a window like this:\nMake sure\nAcquire from Printer\nis selected and click\nGet\n. The optional paper sources are listed in the Current Printer Information section.\nClick\nOK\n.\nThe optional paper cassettes are now enabled.\nRelated tasks\nEnabling the Optional Paper Cassettes - PostScript Printer Software - Windows\nEnabling the Optional Paper Cassettes - Mac\nYou need to enable the optional paper cassette units before you can use them with the printer software.\nNote:\nIf you are using the PostScript (PS3) printer software, see the link below to enable the optional cassette units.\nIn the Apple menu or the Dock, select\nSystem Preferences\nor\nSystem Settings\n.\nSelect\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n, select your product, and select\nOptions & Supplies\n.\nSelect\nDriver\nor\nOptions\n. You see a screen like this:\nSelect the number of cassette units installed as the\nLower Cassette\nsetting.\nClick\nOK\n.\nThe optional paper cassettes are now enabled.\nRelated tasks\nEnabling the Optional Paper Cassette - PostScript Printer Software - Mac",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00007fe-epc7000?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL37201~faq-00007fe-epc7000",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:44.334673"
+        },
+        {
+          "question": "How do I enable automatic double-sided printing for my product in Windows or on my Mac?",
+          "answer": "See below.\nSelecting Double-sided Printing Settings - Windows\nYou can print on both sides of the paper by selecting one of the 2-Sided Printing options on the Main tab.\nNote:\nSome options may be pre-selected or unavailable, depending on other settings you have chosen or if you are accessing the product over a network.\nSelect one of the following options for\n2-Sided Printing\n:\nAuto (Long-edge binding)\nto print your double-sided print job by automatically flipping the paper on the long edge.\nAuto (Short-edge binding)\nto print your double-sided print job by automatically flipping the paper on the short edge.\nClick the\nSettings\nbutton.You see a window like this:\nSelect the double-sided printing options you want to use.\nClick\nOK\nto return to the Main tab.\nClick the\nPrint Density\nbutton. You see this window:\nSelect the type of document you are printing as the Document Type setting. The software automatically sets the Adjustments options for that document type.\nClick\nOK\nto return to the Main tab.\nPrint a test copy of your double-sided document to test the selected settings.\nFollow any instructions displayed on the screen during printing.\nSelecting Double-sided Printing Settings - Mac\nYou can print on both sides of the paper by selecting\nTwo-sided Printing Settings\nfrom the pop-up menu on the print window.\nNote:\nFor macOS 13 and later, select\nPrinter Options\nthen select\nTwo-sided Printing Settings\n.\nNote:\nSome options may be pre-selected or unavailable, depending on other settings you have chosen or if you are accessing the product over a network. This screen may be different, depending on the Mac OS version you are using.\nSelect one of the\nTwo-sided Printing\noptions.\nSelect the type of document you are printing as the\nDocument Type\nsetting. The software automatically sets the Adjustments options for that document type.\nIf necessary, customize the Adjustments settings as instructed on the screen.\nPrint a test copy of your double-sided document to test the selected settings.\nFollow any instructions displayed on the screen during printing.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-0000802-epc7000?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL37201~faq-0000802-epc7000",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:45.415797"
+        },
+        {
+          "question": "How do I change the Power Off Timer setting?",
+          "answer": "See below.\nChanging the Power Off Timer Settings\nYou can have the product turn off automatically if it is not used for a specified period of time.\nPress the\nhome button, if necessary.\nPress the right arrow button to select\nSettings\n>\nGeneral Settings\n>\nBasic Settings\n>\nPower Off Timer\n.\nPress the up and down arrow buttons to select a time period between\n30minutes\nand\n12h\n(12 hours), and press the\nOK\nbutton.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-0000816-epc7000?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL37201~faq-0000816-epc7000",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:46.492786"
+        },
+        {
+          "question": "How do I change the Sleep Timer setting?",
+          "answer": "See below.\nChanging the Sleep Timer Settings\nYou can adjust the time period before your product enters sleep mode and turns off the LCD screen.\nPress the\nhome button, if necessary.\nSelect\nSettings\n>\nGeneral Settings\n>\nBasic Settings\n>\nSleep Timer\n.\nSelect the number field and press the\nOK\nbutton.\nUse the arrow and\nOK\nbuttons to select a time period from 1 to 240 minutes.\nSelect\nOK\nthen press the\nOK\nbutton.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-0000817-epc7000?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL37201~faq-0000817-epc7000",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:47.579191"
+        },
+        {
+          "question": "How do I set the Epson Universal Print Driver to the PCL printer language?",
+          "answer": "If necessary install the Universal Print Driver, and then configure it for the PCL language. See below for instructions.\nInstalling the Universal Print Driver\nNote:\nMake sure your product is turned on and connected to the same network as your computer before installing the printer software if you are using a network connection.\nDownload the\nEPSON Universal Print Driver\nfrom the Downloads tab on your product’s support page.\nFollow the on-screen instructions until you see the screen below.\nSelect your connection type and select the\nSet Default of Printer Control Language to PCL6\ncheckbox.\nClick\nOK\n.\nConfigure the Driver for the PCL Language\nIf the Epson Universal Print Driver is already installed, do the following:\nDo one of the following:\nWindows 11\n: Click\n, search for\nSettings\nand select it. Select\nBluetooth & devices\n>\nPrinters & scanners\n. Click\nEpson Universal Print Driver\n>\nManage\n.\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Click\nEpson Universal Print Driver\n>\nManage\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click\nEPSON Universal Print Driver\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click\nEPSON Universal Print Driver\n.\nClick\nPrinting preferences\nand click the\nMaintenance\ntab.\nClick\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00004bb-epc7000?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL37201~faq-00004bb-epc7000",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:48.646306"
+        },
+        {
+          "question": "How do I manually assign a static IP address to my product?",
+          "answer": "Do the following:\nDownload and install the\nEpsonNet Config Utility\nfrom the Downloads tab on your product's support page.\nDo one of the following:\nWindows 11\n: Click\n, then search for\nEpsonNet Config\nand select it.\nWindows 10\n: Click\nand select\nEpsonNet\n>\nEpsonNet Config\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nEpsonNet Config\n.\nWindows (other versions)\n: Select\nor\nStart\n>\nPrograms\n>\nEpsonNet\n>\nEpsonNet Config.\nMac\n: Open the\nApplications\nfolder, open the\nEpson Software\nfolder, and select\nEpsonNet\n>\nEpsonNet Config\n>\nEpsonNet Config\n.\nHighlight your printer's name and click\nConfiguration\n.\nSelect\nBasic\n(under TCP/IP) and make sure\nManual\nis selected. Enter the\nIP Address, Subnet Mask\n, and\nDefault Gateway\nin the IP Address Setting section.\nClick\nSend\nor\nTransmit\n.\nClose EpsonNet Config.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00004bc-epc7000?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL37201~faq-00004bc-epc7000",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:49.714072"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL37201~faq-0000f4b-shared",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:50.787401"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL37201~faq-0000f4c-shared",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:52.006817"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CL37201~faq-0000f4d-shared",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:53.089279"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Wireless or Wired Connection",
+      "section_id": "8796127635532",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "Can I set up my product for both a USB and network connection?",
+          "answer": "Yes. However, the product does not support a wireless and an Ethernet connection at the same time.\nTo set up both a USB and network connection, you must install the product's software twice (i.e., once for each connection type).\nNote:\nWith this setup, your product may appear as two devices in the Printer list. One device is for the USB connection, and the other is for the network connection.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00004fe-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CL37201~faq-00004fe-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:54.193426"
+        },
+        {
+          "question": "How do I find my SSID and network password?",
+          "answer": "In most cases, the software installer will automatically set up your wireless connection, so you don't need to know your SSID and password. However, if it cannot determine your SSID or password, you will be prompted to set up your wireless connection manually.\nCheck your router documentation for this information. Most routers have a default SSID and password that can be modified once the router is set up.\nNote:\nThe SSID is the name of the wireless network that is set up on your router or access point.\nIf you don't know this information, you need to contact the manufacturer of your router or the person who set up your network.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00009c6-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CL37201~faq-00009c6-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:55.300863"
+        },
+        {
+          "question": "How do I connect my product to my wireless network using the product's control panel?",
+          "answer": "You can select or change wireless network settings using your product control panel.\nTo install your product on a wireless network, install the necessary software by downloading it from the Epson website. The installer program guides you through network setup.\nNote:\nBreakdown or repair of this product may cause loss of network data and settings. Epson is not responsible for backing up or recovering data and settings during or after the warranty period. We recommend that you make your own backup or print out your network data and settings.\nPress the\nhome button, if necessary.\nSelect\nWi-Fi\n>\nRouter\n.\nSelect\nStart Setup\n,\nChange Settings\n, or\nChange to Wi-Fi Connection\n, depending on your current connection settings.\nSelect\nWi-Fi Setup Wizard\n.\nSelect the name of your wireless network or select\nEnter Manually\nto enter the name manually. Use the displayed keypad to enter your network name.\nSelect the\nEnter Password\nfield and enter your wireless password using the displayed keypad.\nNote:\nThe network name and password are case sensitive. Be sure to correctly enter uppercase and lowercase letters, and numeric or special characters.\nTo move the cursor, select the left or right arrows.\nTo change the case of letters, select\n.\nTo delete the previous character, select\n.\nTo enter numbers and symbols, select\n.\nTo change the keypad layout, select\n.\nTo enter a space, select\n.\nSelect\nOK\nwhen you finish entering your password.\nConfirm the displayed network settings and select\nStart Setup\nto save them.\nIf you want to print a network settings report, select\nPrint Check Report\n. (Otherwise, select\nDismiss\n.)\nPress the\nhome button to exit.You see the\nicon on the LCD screen and should be able to connect to your product directly from your computer or device, and then print. If you are printing from a computer, make sure you installed the network software from the Epson website.\nNote:\nIf you don't see the\nicon, you may have selected the wrong network name or entered the password incorrectly. Repeat these steps to try again.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00007f3-epc7000?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CL37201~faq-00007f3-epc7000",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:56.518899"
+        },
+        {
+          "question": "How do I change from a Wi-Fi connection to a wired network connection?",
+          "answer": "See below.\nChanging a Wi-Fi Connection to a Wired Network Connection\nIf you have already connected your product to your computer wirelessly, you can change to a wired network connection if necessary.\nDisable your product's Wi-Fi features.\nConnect one end of an Ethernet network cable to the product's\nLAN\nport.\nConnect the other end to any available LAN port on your router or access point.\nUninstall your product software.\nDownload and install your product software from the Epson website.\nFollow the on-screen instructions to install the software.\nWhen you see the Select Your Connection screen, select\nWired network connection\n.\nIf you see a Select Setup Option screen, select\nSet up printer for the first time\n.\nContinue following the rest of the on-screen instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-000048a-epc7000?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CL37201~faq-000048a-epc7000",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:57.598326"
+        },
+        {
+          "question": "How do I change from a USB connection to a Wi-Fi connection?",
+          "answer": "See below.\nChanging a USB Connection to a Wi-Fi Connection\nIf you have already connected your product to your computer using a USB connection, you can change to a Wi-Fi connection.\nDisconnect the USB cable from your product.\nUninstall your product software.\nDownload and install your product software from the Epson website.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00007f2-epc7000?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CL37201~faq-00007f2-epc7000",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:58.705056"
+        },
+        {
+          "question": "How do I connect my product with a Wi-Fi Direct connection?",
+          "answer": "See below.\nEnabling Wi-Fi Direct Mode\nYou can enable Wi-Fi Direct mode to allow direct communication between your product and computer or other devices without a wireless router or access point.\nPress the\nhome button, if necessary.\nSelect\nWi-Fi\n>\nWi-Fi Direct\n>\nStart Setup\n>\nStart Setup\nagain.\nUse your computer or wireless device to select the Wi-Fi network name (SSID) displayed on the LCD screen, then enter the password shown.\nPress the\nhome button to exit. You see the\nicon on the LCD screen and should be able to connect to your product directly from your computer or device, and then print. If you are printing from a computer, make sure you installed the network software from the Epson website.\nNote:\nIf you don't see the\nicon on the LCD screen, you may have selected the wrong network name or entered the password incorrectly. Repeat these steps to try again.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00005ef-epc7000?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CL37201~faq-00005ef-epc7000",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:04:59.764273"
+        },
+        {
+          "question": "How do I connect my WPS-enabled wireless router to my product?",
+          "answer": "See below.\nUsing WPS to Connect to a Network\nIf you have a WPS-enabled wireless router or access point, you can use Wi-Fi Protected Setup (WPS) to connect your product to the network.\nPress the\nhome button, if necessary.\nSelect\nWi-Fi\n>\nRouter\n.\nSelect\nStart Setup\n,\nChange Settings\n, or\nChange to Wi-Fi connection\n, depending on your current connection settings.\nSelect\nPush Button Setup (WPS)\n.\nFollow the instructions on the LCD screen to complete WPS setup.\nPress the\nhome button to exit.You see the\nicon on the LCD screen and should be able to connect to your product directly from your computer or device, and then print. If you are printing from a computer, make sure you installed the network software as described on the Start Here sheet.\nNote:\nIf you don't see the\nicon, repeat these steps to try again.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00005f0-epc7000?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CL37201~faq-00005f0-epc7000",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:05:00.827529"
+        },
+        {
+          "question": "How do I check my product’s network status?",
+          "answer": "You can use a web browser to check the operating status of the product with the product’s built-in Web Config Utility, or you can print a network connection report to diagnose connection problems with the product on your network. See below.\nAccessing the Web Config Utility\nYou can select your product's network settings and confirm its operating status using a web browser. You do this by accessing your product's built-in Web Config utility from a computer or other device that is connected to the same network as your product.\nNote:\nYou can also access the Web Config utility from the product information area in the Epson Smart Panel app.\nLocate the IP address for your product that is listed on the network status sheet.\nOn a computer or other device connected to the same network as your product, open a web browser.\nEnter your product's IP address into the address bar.\nNote:\nThe printer uses a self-signed certificate when accessing HTTPS. This may cause a warning message when you access Web Config. This does not indicate a problem and can be ignored.\nSelect\nLog In\nand enter the administrator password. The administrator password is required to access the full capabilities of the Web Config utility. The default password is the product's serial number. Check the label on your product to locate the serial number.\nYou see the available Web Config utility options.\nPrinting a Network Status Sheet\nYou can print a network status sheet to help you determine the causes of any problems you may have using your product on a network.\nPress the\nhome button, if necessary.\nSelect\nSettings\n>\nGeneral Settings\n>\nNetwork Settings\n>\nNetwork Status\n>\nPrint Status Sheet\n>\nPrint\n.\nPress the\nOK\nbutton.\nExamine the settings shown on the network status sheet to diagnose any problems you have.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-0000a2b-epc7000?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CL37201~faq-0000a2b-epc7000",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:05:01.935425"
+        },
+        {
+          "question": "I tried to install the product's software for an Ethernet connection but cannot complete the installation in Windows or on my Mac. What should I do?",
+          "answer": "Install the software again. To be sure it installs properly, first uninstall the product software you tried to install. This will remove any software components that may have installed when you first tried to set up the product. After you uninstall the software, check the following:\nMake sure your system meets the requirements listed in the product's User's Guide.\nClose other software, including screen savers and virus protection software, before you install your product's software again.\nIf you see an error message or your software does not install correctly in Windows, you may not have software installation privileges. Contact your System Administrator.\nMake sure your product is turned on and the network cable is securely connected at both ends.\nRelated concepts\nUninstall Your Product Software\nRelated reference\nWindows System Requirements\nMac System Requirements",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-0000529-epc7000?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CL37201~faq-0000529-epc7000",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:05:03.072318"
+        },
+        {
+          "question": "I was able to print from my Mac before with an Ethernet connection, but now I can't. What should I do?",
+          "answer": "This problem can be caused by your printer or the computer. Do the following:\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these instructions.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for errors and clear them. See these instructions. Try printing a nozzle check pattern again. If you can print, go to the next step. Otherwise, contact Epson Support.\nTurn your product off and on again and try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nDelete any pending print jobs from the Epson print queue\nand try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nDelete and re-add the printer to the printer queue.\nClick\n, select your printer with Kind set as\nBonjour\n, select your printer from the Use drop-down list, and then click\nAdd\n. This adds the printer to the printer queue. Try printing again. If you can print, you're done. Otherwise, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-000090f-epc7000?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CL37201~faq-000090f-epc7000",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:05:04.246085"
+        },
+        {
+          "question": "I was able to print from Windows before with an Ethernet connection, but now I can't. What should I do?",
+          "answer": "This problem can be caused by your printer or computer. Do the following:\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these instructions.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for errors and clear them. See these instructions. Try printing a nozzle check pattern again. If you can print, go to the next step. Otherwise, contact Epson Support.\nTurn your product off and on again and try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nDelete any pending print jobs from the Epson print queue\nand try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nIn the Epson print queue, select\nPrinter\nand deselect the\nUse Printer Offline\ncheckbox. If you can print, you're done. Otherwise, go to the next step.\nPrint a Network Status Sheet. See these instructions. Find the product's IP address on the Network Status Sheet. The IP address set up on your product should be the same in Windows. To see the IP address set up for your printer in Windows, do one of the following:\nWindows 11\n: Click\n, then search for\nSettings\nand select it. Select\nBluetooth & devices\n>\nPrinters & scanners\n. Select your product and select\nPrinter properties\n>\nPorts\n. The IP address appears in the Port column.\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your product and select\nManage\n>\nPrinter properties\n>\nPorts\n. The IP address appears in the Port column.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer icon and select\nPrinter Properties\n>\nPorts\n. The IP address appears in the Port column.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer icon and select\nPrinter Properties\n>\nPorts\n. The IP address appears in the Port column.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer icon and select\nPrinter Properties\n>\nPorts\n. The IP address appears in the Port column.\nDo one of the following:\nIf the IP address for your printer is different in Windows, add a new port for your printer. Select\nPorts\nand click\nAdd Port\n. A window appears. Select\nEpsonNet Print Port\n>\nNew Port\n>\nManual Setting\n>\nNext\n. Enter your printer’s IP address in the IP address field and click\nNext\n>\nFinish\n. Try printing again. If you can print, you're done. Otherwise, contact Epson Support.\nIf the IP address is the same, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-0000910-epc7000?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CL37201~faq-0000910-epc7000",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:05:05.300797"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 9,
+      "faqs": [
+        {
+          "question": "My product will not wake up when I try to print with a wireless connection. What should I do?",
+          "answer": "Turn the product off and on. If you can print now, the problem is related to your wireless router. Contact the manufacturer of your router for assistance or try using a different router.\nIf you cannot print after turning the product off and on, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00004c8-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CL37201~faq-00004c8-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:05:06.362760"
+        },
+        {
+          "question": "Why doesn't Epson include a USB or Ethernet cable in the box with the product?",
+          "answer": "We are committed to giving our customers the best value possible with every product we sell. To provide high-quality products with the latest technology and sell them at the most competitive prices, it is critical to choose which components are necessary and which may be redundant. Because many of our customers already own USB or Ethernet cables, it makes good sense to eliminate the costs of including a cable in every box and use those savings to improve product features and lower the cost to you, the consumer.\nNote:\nNot all products support an Ethernet interface.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-0000490-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CL37201~faq-0000490-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:05:07.597904"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CL37201~faq-00004b0-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:05:08.769612"
+        },
+        {
+          "question": "What security measures does Epson recommend for its network products?",
+          "answer": "To help deter unauthorized access to your product over a network, you should protect your network environment using appropriate security measures.\nSecurity measures such as these can help deter threats such as loss of user data, use of telephone and fax lines, and other intrusions:\nEnable security on your wireless LAN if your product supports a wireless connection\nEnable the appropriate security on the wireless LAN you plan to use with your product. Network security, such as a network password, can deter interception of traffic over the wireless LAN. Your router may already have a default password enabled by your Internet service provider (ISP). See your ISP and router documentation for instructions on how to change the default password and better secure your network.\nConnect your product only to a network protected by a firewall\nConnecting your product directly to the Internet may leave it vulnerable to security threats. Instead, connect it to a router or other networking device protected by a firewall. Your router may already have a firewall set up by your Internet service provider; check with your ISP for confirmation. For best results, set up and use a private IP address for your network connection.\nChange the default administrator password on your product\nIf your product has an option to set an administrator password, change the default administrator password to deter access by unauthorized users to personal data stored on your product, such as IDs, passwords, and contact lists. See the product's User's Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-0000a05-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CL37201~faq-0000a05-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:05:09.820381"
+        },
+        {
+          "question": "How should I transport my product?",
+          "answer": "If you need to store your product or transport it a long distance, prepare it for transportation as described here.\nCaution\n: During transportation and storage, follow these guidelines:\nBecause the product is heavy, two or more people should lift and carry it using the hand position shown:\nAvoid tilting the product, positioning it vertically, or turning it upside down; otherwise ink may leak.\nLeave the ink cartridges installed. Removing the cartridges can dry out the print head and may prevent the product from printing.\nLeave the maintenance box installed; otherwise ink may leak.\nNote:\nBefore storing your product for a long period, replace low, expended, or expired ink to help prevent the print head from drying out. Store your product in a cool, dry place.\nTurn off the product.\nWait for the\npower light to turn off, then unplug the power cord.\nRemove all the paper from the product.\nDisconnect any connected cables.\nClose the rear paper support and remove the output tray.\nNote:\nDo not place the output tray on top of the product. The output tray can fall while the product is being moved and you can be injured.\nRemove the optional cabinet and paper cassettes (if they are installed) before lifting the product.\nNote:\nIf the optional cabinet is installed, you can use the casters on the cabinet to roll the product instead of lifting it. Remove the cabinet stands and unlock the casters before moving the product. Do not roll the product over uneven or rough surfaces to avoid harsh impacts to the product.\nPlace the product in its original packing materials, if possible, or use equivalent materials with cushioning around the product. Make sure the box adequately protects the product control panel.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-0000b12-epc7000?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CL37201~faq-0000b12-epc7000",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:05:10.917895"
+        },
+        {
+          "question": "How do I determine the number of pages the product has printed?",
+          "answer": "Follow these steps to print a status sheet with this information:\nMake sure the product is on.\nPress the\nhome button, if necessary.\nSelect\nSettings\n>\nPrinter Status/Print\n>\nPrint Status Sheet\n>\nUsage History Sheet\n.\nPress the\nhome button to exit.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-00004f5-epc7000?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CL37201~faq-00004f5-epc7000",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:05:12.156860"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CL37201~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CL37201~faq-0000f4a-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-EP-C7000/s/SPT_C11CL37201",
+          "fetched_at": "2026-04-01T23:05:13.189722"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

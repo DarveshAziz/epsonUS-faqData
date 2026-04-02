@@ -1,0 +1,385 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Impact Printers",
+  "series": "DFX Series",
+  "model": {
+    "name": "Epson DFX-9000",
+    "sku": "SPT_C11C605001",
+    "url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C605001~faq-00004dc-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:26.402958"
+        },
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-000096d-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C605001~faq-000096d-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:27.509037"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C605001~faq-00004b0-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:26.951894"
+        },
+        {
+          "question": "Can I run a test on my product to determine if a problem is caused by my product?",
+          "answer": "Yes. See\nPrinting a Self Test\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-60360?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C605001~faq-60360",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:32.110741"
+        },
+        {
+          "question": "What type of serial cable do I need for a serial connection?",
+          "answer": "A null modem cable.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-60366?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C605001~faq-60366",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:33.216930"
+        },
+        {
+          "question": "Where can I get the ESC codes for my product?",
+          "answer": "See the following:\nCommand Lists\nin the Reference Guide.\nProduct Support Bulletin #0082\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-60364?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C605001~faq-60364",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:34.234853"
+        },
+        {
+          "question": "How do I create a custom paper size in the Server Properties?",
+          "answer": "Follow these steps to create a new page size accessible by all printer drivers installed in Windows:\nOpen the\nPrinters\nor\nPrinters and Faxes\nwindow.\nClick\nFile\n, then\nServer Properties\n.\nPut a check in the\nCreate a new form\nbox.\nInput a name for the custom paper size.\nUnder\nPaper Size\n, enter the desired height and width.\nClick\nSave\nor\nSave Form\nto add the new form size to the list, then\nOK\nto close Server Properties.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-140646?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C605001~faq-140646",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:35.144173"
+        },
+        {
+          "question": "How do I change the lock-out mode settings?",
+          "answer": "See\nLocking the Control Panel Buttons\nin the Reference Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-60350?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C605001~faq-60350",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:36.144396"
+        },
+        {
+          "question": "What is the recommended duty cycle for my product?",
+          "answer": "25 percent. Epson America defines a 25 percent duty cycle as the printer printing (not idle) for two hours per day based on an eight hour day at 22 days per month.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-60358?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C605001~faq-60358",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:37.073541"
+        },
+        {
+          "question": "Which product can my product emulate?",
+          "answer": "An IBM Proprinter.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-60357?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C605001~faq-60357",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:37.979812"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "How should I print labels on my product?",
+          "answer": "See\nUsing labels\nin the Reference Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-60344?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C605001~faq-60344",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:38.897951"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "My product's control panel indicates a problem (because lights are on or flashing and a message appears on the LCD panel, or my product beeps). What should I do?",
+          "answer": "See\nUsing the Error Indicators\nin the Reference Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-60355?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11C605001~faq-60355",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:39.835008"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "How do I create a custom paper size in the Server Properties?",
+          "answer": "Follow these steps to create a new page size accessible by all printer drivers installed in Windows:\nOpen the\nPrinters\nor\nPrinters and Faxes\nwindow.\nClick\nFile\n, then\nServer Properties\n.\nPut a check in the\nCreate a new form\nbox.\nInput a name for the custom paper size.\nUnder\nPaper Size\n, enter the desired height and width.\nClick\nSave\nor\nSave Form\nto add the new form size to the list, then\nOK\nto close Server Properties.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-140646?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C605001~faq-140646",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:40.864646"
+        },
+        {
+          "question": "The paper will not load from the tractor unit. What should I do?",
+          "answer": "Make sure the correct tractor is selected and that the paper is loaded correctly. See\nLoading Paper Onto the Front Tractor\nor\nLoading Paper Onto the Rear Tractor\nin the Reference Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-60343?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C605001~faq-60343",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:41.845065"
+        },
+        {
+          "question": "How can I adjust the paper position?",
+          "answer": "You can use the\nMicro Feed\nand\nTop of Form\nbuttons. See\nAdjusting the top-of-form position\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-60354?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C605001~faq-60354",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:42.780907"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Follow the instructions for\nAligning Vertical Lines in Your Printout\nin the Reference Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-60341?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C605001~faq-60341",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:43.687421"
+        },
+        {
+          "question": "I get incorrect print on labels or other custom paper sizes. What should I do?",
+          "answer": "Your software or the printer may be set up incorrectly. Try the following:\nNote:\nSoftware settings always override settings made through the printer's control panel.\nMake sure a compatible printer driver is selected in your software.\nMake sure the page length in your software or printer driver is set for the label or page size. If your software does not support a page length setting, set the page length on the printer. See\nUsing SelecType\nor\nEPSON Remote Configuration Manager\nto change the page length on the printer.\nAdjust the margin or top-of-form position settings in your software. If this does not help, try adjusting the top-of-form or printing position on the printer. See\nUsing Default-setting Mode\nor\nEPSON Remote Configuration Manager\nto change the print position on the printer.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-60361?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C605001~faq-60361",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:44.615875"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "What printer driver should I use if my product is not listed?",
+          "answer": "Choose from the following: Any Epson DFX printer, FX-2190, FX-2180, FX-2170, FX-1180+, FX-1180, FX-1170, FX-1050, FX-1000, FX-105, FX-100+, or FX-100.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-60346?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C605001~faq-60346",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:45.556008"
+        },
+        {
+          "question": "Can I change my product's default settings from the computer?",
+          "answer": "Yes. You can use the\nEPSON Remote Configuration Manager\nto change the settings.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-60348?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C605001~faq-60348",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:46.480427"
+        },
+        {
+          "question": "How do I change the lock-out mode settings?",
+          "answer": "See\nLocking the Control Panel Buttons\nin the Reference Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-60350?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C605001~faq-60350",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:47.485438"
+        },
+        {
+          "question": "How do I change the default printer settings?",
+          "answer": "You can change print settings from the printer's control panel using SelecType or the Default-setting mode, and you can change them from your computer using\nEPSON Remote Configuration Manager\n. See\nControlling Your Printer's Settings\nin the Reference Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-60353?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C605001~faq-60353",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:48.397286"
+        },
+        {
+          "question": "How do I restore my product's default settings?",
+          "answer": "See\nRestoring the Printer's Default Settings\nor\nRestore Original or Default Settings\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-60363?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C605001~faq-60363",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:49.319601"
+        },
+        {
+          "question": "Where can I get the ESC codes for my product?",
+          "answer": "See the following:\nCommand Lists\nin the Reference Guide.\nProduct Support Bulletin #0082\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-60364?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C605001~faq-60364",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:50.290377"
+        },
+        {
+          "question": "Can I connect more than one PC to my product?",
+          "answer": "Yes. You can connect a USB, parallel, and serial cable to the printer at the same time. When the printer's\nI/F (Interface) mode\nsetting is set to\nAuto\n, the printer will automatically select the interface that is receiving data. See\nChanging the settings in SelecType mode\nto select the setting or\nEPSON Remote Configuration Manual\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-60368?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C605001~faq-60368",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:51.179367"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C605001~faq-00004dc-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:52.101703"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "How do I select bar codes on my product?",
+          "answer": "The built-in bar codes are selectable through software using an ESC code sequence. The built-in bar codes include: EAN-13, EAN-8, Interleaved 2 of 5, UPC-A, UPC-E, Code 39, Code 128, POSTNET, Coda bar (NW-7), Industrial 2 of 5, Matrix 2 of 5",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-60347?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C605001~faq-60347",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:53.070464"
+        },
+        {
+          "question": "How do I select the font and pitch?",
+          "answer": "Normally, you select the font and pitch through your software. If you need to change them from the printer, see\nSelecting a Font and Pitch\nin the Reference Guide. You can also change these settings using the\nEPSON Remote Configuration Manager\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-60351?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C605001~faq-60351",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:54.035505"
+        },
+        {
+          "question": "Can I lock the buttons on control panel?",
+          "answer": "Yes. You can restrict the use of buttons on the control panel using the Lock-out mode. In the default Lock-out mode, you can use only the\nPause\n,\nLoad\n, and\nTear off\nbuttons.\nTo turn Lock-out mode on and off and to change which buttons are locked, see\nLocking the Control Panel Buttons\nin the Reference Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-60349?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C605001~faq-60349",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:54.981571"
+        },
+        {
+          "question": "Can I run a test on my product to determine if a problem is caused by my product?",
+          "answer": "Yes. See\nPrinting a Self Test\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-60360?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C605001~faq-60360",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:55.896992"
+        },
+        {
+          "question": "Which product can my product emulate?",
+          "answer": "An IBM Proprinter.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-60357?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C605001~faq-60357",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:56.812763"
+        },
+        {
+          "question": "What is the recommended duty cycle for my product?",
+          "answer": "25 percent. Epson America defines a 25 percent duty cycle as the printer printing (not idle) for two hours per day based on an eight hour day at 22 days per month.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-60358?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C605001~faq-60358",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:57.761623"
+        },
+        {
+          "question": "Why doesn't the Tear Off button work?",
+          "answer": "The feature is disabled when the optional pull tractor is installed.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-60365?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C605001~faq-60365",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:58.685437"
+        },
+        {
+          "question": "What type of serial cable do I need for a serial connection?",
+          "answer": "A null modem cable.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-60366?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C605001~faq-60366",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:57.854121"
+        },
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-000096d-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C605001~faq-000096d-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:58.769760"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11C605001~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C605001~faq-00004b0-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/DFX-Series/Epson-DFX-9000/s/SPT_C11C605001",
+          "fetched_at": "2026-04-02T04:50:59.705757"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

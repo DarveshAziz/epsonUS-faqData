@@ -1,0 +1,340 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "Epson Stylus Series",
+  "model": {
+    "name": "Epson Stylus Pro 3880 Graphic Arts Edition",
+    "sku": "SPT_CA61201-GA",
+    "url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880-Graphic-Arts-Edition/s/SPT_CA61201-GA"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "My printouts are dark when I print from Photoshop CS3 or later. What should I do?",
+          "answer": "While we do not assist with color profiling or color correction, you can try the                 following:\nUse latest version of Adobe Photoshop.\nMake sure your print head nozzles are clean and free from clogs.\nMake the following adjustment in Adobe Photoshop:\nSelect\nColor Management\nor\nOutput\n>\nOutput\nfrom Photoshop's print                             screen.\nClick\nTransfer\nand drag the middle of the curve                             to 40.0%.\nClick\nOK\n, then select\nColor                                 Management\n.\nSelect\nLet Photoshop manage color as normal\nand                             the appropriate printer profile.\nPrint your image. Because every photo is different, you may need to                             experiment with the Transfer Curve to find the level that best suits                             your needs.\nNote:\nMaking changes to the Transfer Curve does not alter                                 the original image. This curve affects the Shadows, Midtones, and                                 Highlights as a whole.\nMake the following adjustments in the Windows or Mac driver to lighten the                         image:\nAdjust the Gamma setting to 1.8.\nIncrease the Brightness bar to 5.\nNote:\nIf using a Mac, make sure the                                 Color Mode is EPSON Standard sRGB.\nSee the product's User Guide for more information in these settings.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-GA~faq-000062A-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_CA61201-GA~faq-000062A-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880-Graphic-Arts-Edition/s/SPT_CA61201-GA",
+          "fetched_at": "2026-04-02T01:36:25.360793"
+        },
+        {
+          "question": "How do I set up color management for my product in Adobe PhotoShop on my Mac?",
+          "answer": "Do the following:\nOpen the\nFile\nmenu in Adobe Photoshop and select\nPrint\n.\nUnder Color Handling, select\nPrinter Manages Colors\n.\nClick\nPrint Settings\n.  A new window appears.\nUnder Orientation, select\nColor Matching\nfrom the pop-up                     menu.\nSelect\nEPSON Color Controls\n.\nMake sure the Color Settings are set to\nEPSON Standard                         (sRGB)\nunder Print Settings.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-GA~faq-0000623-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_CA61201-GA~faq-0000623-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880-Graphic-Arts-Edition/s/SPT_CA61201-GA",
+          "fetched_at": "2026-04-02T01:36:26.444318"
+        },
+        {
+          "question": "Where can I get the latest version of the Epson Communication Driver for my printer?",
+          "answer": "Download the Communication Driver from the Downloads tab on your product's support page.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-GA~faq-00009fb-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_CA61201-GA~faq-00009fb-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880-Graphic-Arts-Edition/s/SPT_CA61201-GA",
+          "fetched_at": "2026-04-02T01:36:27.558009"
+        },
+        {
+          "question": "How do I add a print queue for my printer in OS X 10.1 to 10.6?",
+          "answer": "Do the following:\nTurn on the printer, if necessary.\nSelect\nSystem Preference\nand click\nPrint                     Center\n,\nPrinter Setup Utility\n, or\nPrint & Fax\n.\nClick\nAdd\n, or select\nAdd Printer\nfrom the printer's drop-down menu.\nSelect the appropriate Epson port                 connection (e.g.\nEpson USB\n) and select the product.\nSelect\nAll\nfor the\nPage Setup\n.\nClick\nAdd\n.  All                 print queues should appear in the printer list.\nSelect your product and click\nMake Default\n.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-GA~faq-000062D-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_CA61201-GA~faq-000062D-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880-Graphic-Arts-Edition/s/SPT_CA61201-GA",
+          "fetched_at": "2026-04-02T01:36:28.608620"
+        },
+        {
+          "question": "How do I uninstall and reinstall my printer driver in OS X 10.1, 10.2, or 10.3?",
+          "answer": "Open your hard drive, then do the following:\nSelect\nApplications\n>\nUtilities\n, then double-click\nPrinter Service Utility\n. Remove all Epson Stylus Pro paper queues from the Printers List, then close the open windows.\nSelect\nLibrary\n>\nReceipts\n, then drag the\nSProXX00.xx.pkg\nfile to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nEpson\n, then drag the plugin for your product to the trash.\nSelect\nPreferences\n>\nEpson\n, then drag files related to your product to the trash.\nClose the open windows.\nReinstall the driver for your product.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-GA~faq-00009fe-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_CA61201-GA~faq-00009fe-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880-Graphic-Arts-Edition/s/SPT_CA61201-GA",
+          "fetched_at": "2026-04-02T01:36:29.789109"
+        },
+        {
+          "question": "How do I create a custom paper size in Windows?",
+          "answer": "Do the following:\nRight-click your printer icon on the Windows task bar, then select\nPrinter Settings\n.\nIf necessary, select the\nMain\nor\nPaper\ntab.\nSelect your paper\nSource\nin the Paper Settings section.\nClick the\nUser Defined\nbutton or select\nUser                         Defined\nas the Size. A User Defined Paper Size window                     opens.\nEnter a Paper Size Name, then select the Paper Width and Paper Height.\nClick\nSave\n, then\nOK\n.\nClick\nOK\nagain.\nThe new paper size is created, and you can now select the new size from the Size             list.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-GA~faq-0000622-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_CA61201-GA~faq-0000622-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880-Graphic-Arts-Edition/s/SPT_CA61201-GA",
+          "fetched_at": "2026-04-02T01:36:30.853358"
+        },
+        {
+          "question": "There are vertical bands or lines on my printout.  What should I do?",
+          "answer": "Try the following:\nRun three auto print head alignments.\nMake sure High Speed is not selected.\nLower the dpi setting you selected to print.  If you selected 2880 dpi, lower                     the setting to 1440 dpi.\nMake sure the lines are not in the image source.\nMake sure you use the correct profile settings.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-GA~faq-000062B-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_CA61201-GA~faq-000062B-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880-Graphic-Arts-Edition/s/SPT_CA61201-GA",
+          "fetched_at": "2026-04-02T01:36:31.917391"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-GA~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_CA61201-GA~faq-00004b0-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880-Graphic-Arts-Edition/s/SPT_CA61201-GA",
+          "fetched_at": "2026-04-02T01:36:33.023228"
+        },
+        {
+          "question": "How do I uninstall and reinstall my printer driver in OS X 10.6?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\n>\nPrint & Fax\n.\nSelect your printer in the list, click\n, then close the open windows.\nOpen your hard drive.\nSelect\nLibrary\n>\nPrinters\n>\nEpson\n>\ninkjet printers\n, then drag the plugin for your product to the trash. If there is no plugin for your product, drag the\nEpson\nfolder to the trash. Close the open windows.\nReinstall the driver for your product.\nOpen the\nmenu, select\nSystem Preferences\n>\nPrint & Fax\n.\nClick\n, then select your printer.\nClose the open windows.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-GA~faq-00009ff-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_CA61201-GA~faq-00009ff-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880-Graphic-Arts-Edition/s/SPT_CA61201-GA",
+          "fetched_at": "2026-04-02T01:36:34.183448"
+        },
+        {
+          "question": "How do I uninstall and reinstall my printer driver in OS X 10.8?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\n, then\nPrint & Scan\n.\nSelect your printer in the list, then click\n. Press and hold the\ncontrol\nkey on your keyboard and click anywhere on the printer list. Click\nReset Printing Systems\n. Close the open windows.\nOpen your hard drive and do the following:\nSelect\nLibrary\n>\nPrinters\n>\nInstalledPrinters.plist\n. Drag the InstalledPrinters.plist file to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nEpson\n. Drag the\nEpson\nfolder to the trash.\nSelect\nApplications\n>\nUtility\n>\nDisk Utility\n> your hard drive, then select\nRepair Disk Permissions\n. Close the open windows.\nReinstall the driver for your product.\nOpen the\nmenu, select\nSystem Preferences\n, then\nPrint & Scan\n.\nClick\n, then select your printer.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-GA~faq-00009dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_CA61201-GA~faq-00009dc-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880-Graphic-Arts-Edition/s/SPT_CA61201-GA",
+          "fetched_at": "2026-04-02T01:36:35.267779"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "How to...",
+      "section_id": "8796159027276",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "How do I add a print queue for my printer in OS X 10.1 to 10.6?",
+          "answer": "Do the following:\nTurn on the printer, if necessary.\nSelect\nSystem Preference\nand click\nPrint                     Center\n,\nPrinter Setup Utility\n, or\nPrint & Fax\n.\nClick\nAdd\n, or select\nAdd Printer\nfrom the printer's drop-down menu.\nSelect the appropriate Epson port                 connection (e.g.\nEpson USB\n) and select the product.\nSelect\nAll\nfor the\nPage Setup\n.\nClick\nAdd\n.  All                 print queues should appear in the printer list.\nSelect your product and click\nMake Default\n.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-GA~faq-000062D-shared?faq_cat=faq-8796159027276",
+          "faq_slug": "SPT_CA61201-GA~faq-000062D-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880-Graphic-Arts-Edition/s/SPT_CA61201-GA",
+          "fetched_at": "2026-04-02T01:36:36.317317"
+        },
+        {
+          "question": "How do I set up color management for my product in Adobe PhotoShop on my Mac?",
+          "answer": "Do the following:\nOpen the\nFile\nmenu in Adobe Photoshop and select\nPrint\n.\nUnder Color Handling, select\nPrinter Manages Colors\n.\nClick\nPrint Settings\n.  A new window appears.\nUnder Orientation, select\nColor Matching\nfrom the pop-up                     menu.\nSelect\nEPSON Color Controls\n.\nMake sure the Color Settings are set to\nEPSON Standard                         (sRGB)\nunder Print Settings.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-GA~faq-0000623-shared?faq_cat=faq-8796159027276",
+          "faq_slug": "SPT_CA61201-GA~faq-0000623-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880-Graphic-Arts-Edition/s/SPT_CA61201-GA",
+          "fetched_at": "2026-04-02T01:36:37.385277"
+        },
+        {
+          "question": "How do I create a custom paper size in Windows?",
+          "answer": "Do the following:\nRight-click your printer icon on the Windows task bar, then select\nPrinter Settings\n.\nIf necessary, select the\nMain\nor\nPaper\ntab.\nSelect your paper\nSource\nin the Paper Settings section.\nClick the\nUser Defined\nbutton or select\nUser                         Defined\nas the Size. A User Defined Paper Size window                     opens.\nEnter a Paper Size Name, then select the Paper Width and Paper Height.\nClick\nSave\n, then\nOK\n.\nClick\nOK\nagain.\nThe new paper size is created, and you can now select the new size from the Size             list.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-GA~faq-0000622-shared?faq_cat=faq-8796159027276",
+          "faq_slug": "SPT_CA61201-GA~faq-0000622-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880-Graphic-Arts-Edition/s/SPT_CA61201-GA",
+          "fetched_at": "2026-04-02T01:36:38.434996"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "How do I perform a power cleaning cycle from the printer's control panel?",
+          "answer": "Do the following:\nPrint a nozzle check pattern to make sure the print head needs cleaning.\nMake sure the printer is ready and the red\nink light is not on or flashing.\nPress\nMenu\n.\nPress\nuntil\nMAINTENANCE\nis selected, then press\n.\nPress\nto select\nPOWER CLEANING\n, then press\n.\nPress\nto start the power cleaning cycle.\nWhen cleaning is finished and the\nPower\nlight stops flashing, print nozzle check pattern again to confirm that the head is clean.\nFor effective cleaning, always run a nozzle check between cycles.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-GA~faq-00009da-sp3800_3880?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_CA61201-GA~faq-00009da-sp3800_3880",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880-Graphic-Arts-Edition/s/SPT_CA61201-GA",
+          "fetched_at": "2026-04-02T01:36:39.555936"
+        },
+        {
+          "question": "How do I align the print head?",
+          "answer": "Do the following:\nMake sure the printer is turned on. Then load one of the following types of paper:\nEpson Premium Glossy Photo Paper\nEpson Premium Photo Paper Glossy\nEpson Premium Luster Photo Paper\nEpson Ultra Premium Photo Paper Luster\nEpson Enhanced Matte Paper\nEpson Ultra Premium Presentation Paper Matte\nEpson Presentation Paper Matte\nPress\nMenu\n.\nPress\nuntil\nHEAD ALIGNMENT\nis selected, then press\n.\nMake sure\nAuto\nis selected, then press\n.\nPress\nor\nto select the type of paper you loaded:\nPREM. GLOSSY/LUSTER\n,\nP Q INK JET PAPER\n(Epson Presentation Paper Matte), or\nENHANCED MATTE PAPER\n(Ultra Premium Presentation Paper Matte). Then press\n.\nPress\nto start printing.\nAfter printing is complete, the printer starts aligning the print head. It takes several minutes to run the head alignment. The printer's white beam sensor reads the alignment pattern and adjusts the printer automatically. Make sure you don't open the top cover or turn off the printer during this process.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-GA~faq-00009d9-sp3800_3880?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_CA61201-GA~faq-00009d9-sp3800_3880",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880-Graphic-Arts-Edition/s/SPT_CA61201-GA",
+          "fetched_at": "2026-04-02T01:36:40.615160"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "I am having trouble manually loading media into the rear manual feed slot. What should I do?",
+          "answer": "Do the following:\nMake sure that the product is turned on and READY appears on the LCD.\nAttach the rear sheet guide to the back of the product.\nSlide the left edge guide to the left so it is slightly wider than the width of                     your paper.\nInsert one sheet face up and short edge first into the rear sheet guide against                     the right edge guide.\nSlide the left edge guide against the left edge of the paper.\nGently guide the paper into the slot until it meets resistance.  Maintain a                     constant pressure; after a few seconds you'll feel the product pull the paper                     into printing position.\nUse both hands to pull out and extend the output tray, lifting it slightly as                     you pull. Make sure the arrow marks on the tray and the printer are aligned.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-GA~faq-000062c-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_CA61201-GA~faq-000062c-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880-Graphic-Arts-Edition/s/SPT_CA61201-GA",
+          "fetched_at": "2026-04-02T01:36:41.686061"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "There are vertical bands or lines on my printout.  What should I do?",
+          "answer": "Try the following:\nRun three auto print head alignments.\nMake sure High Speed is not selected.\nLower the dpi setting you selected to print.  If you selected 2880 dpi, lower                     the setting to 1440 dpi.\nMake sure the lines are not in the image source.\nMake sure you use the correct profile settings.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-GA~faq-000062B-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_CA61201-GA~faq-000062B-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880-Graphic-Arts-Edition/s/SPT_CA61201-GA",
+          "fetched_at": "2026-04-02T01:36:42.815074"
+        },
+        {
+          "question": "My printouts are dark when I print from Photoshop CS3 or later. What should I do?",
+          "answer": "While we do not assist with color profiling or color correction, you can try the                 following:\nUse latest version of Adobe Photoshop.\nMake sure your print head nozzles are clean and free from clogs.\nMake the following adjustment in Adobe Photoshop:\nSelect\nColor Management\nor\nOutput\n>\nOutput\nfrom Photoshop's print                             screen.\nClick\nTransfer\nand drag the middle of the curve                             to 40.0%.\nClick\nOK\n, then select\nColor                                 Management\n.\nSelect\nLet Photoshop manage color as normal\nand                             the appropriate printer profile.\nPrint your image. Because every photo is different, you may need to                             experiment with the Transfer Curve to find the level that best suits                             your needs.\nNote:\nMaking changes to the Transfer Curve does not alter                                 the original image. This curve affects the Shadows, Midtones, and                                 Highlights as a whole.\nMake the following adjustments in the Windows or Mac driver to lighten the                         image:\nAdjust the Gamma setting to 1.8.\nIncrease the Brightness bar to 5.\nNote:\nIf using a Mac, make sure the                                 Color Mode is EPSON Standard sRGB.\nSee the product's User Guide for more information in these settings.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-GA~faq-000062A-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_CA61201-GA~faq-000062A-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880-Graphic-Arts-Edition/s/SPT_CA61201-GA",
+          "fetched_at": "2026-04-02T01:36:44.517871"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "How do I uninstall and reinstall my printer driver in OS X 10.8?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\n, then\nPrint & Scan\n.\nSelect your printer in the list, then click\n. Press and hold the\ncontrol\nkey on your keyboard and click anywhere on the printer list. Click\nReset Printing Systems\n. Close the open windows.\nOpen your hard drive and do the following:\nSelect\nLibrary\n>\nPrinters\n>\nInstalledPrinters.plist\n. Drag the InstalledPrinters.plist file to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nEpson\n. Drag the\nEpson\nfolder to the trash.\nSelect\nApplications\n>\nUtility\n>\nDisk Utility\n> your hard drive, then select\nRepair Disk Permissions\n. Close the open windows.\nReinstall the driver for your product.\nOpen the\nmenu, select\nSystem Preferences\n, then\nPrint & Scan\n.\nClick\n, then select your printer.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-GA~faq-00009dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-GA~faq-00009dc-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880-Graphic-Arts-Edition/s/SPT_CA61201-GA",
+          "fetched_at": "2026-04-02T01:36:45.863375"
+        },
+        {
+          "question": "Where can I get the latest version of the Epson Communication Driver for my printer?",
+          "answer": "Download the Communication Driver from the Downloads tab on your product's support page.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-GA~faq-00009fb-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-GA~faq-00009fb-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880-Graphic-Arts-Edition/s/SPT_CA61201-GA",
+          "fetched_at": "2026-04-02T01:36:47.126099"
+        },
+        {
+          "question": "How do I uninstall and reinstall my printer driver in OS X 10.1, 10.2, or 10.3?",
+          "answer": "Open your hard drive, then do the following:\nSelect\nApplications\n>\nUtilities\n, then double-click\nPrinter Service Utility\n. Remove all Epson Stylus Pro paper queues from the Printers List, then close the open windows.\nSelect\nLibrary\n>\nReceipts\n, then drag the\nSProXX00.xx.pkg\nfile to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nEpson\n, then drag the plugin for your product to the trash.\nSelect\nPreferences\n>\nEpson\n, then drag files related to your product to the trash.\nClose the open windows.\nReinstall the driver for your product.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-GA~faq-00009fe-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-GA~faq-00009fe-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880-Graphic-Arts-Edition/s/SPT_CA61201-GA",
+          "fetched_at": "2026-04-02T01:36:48.241179"
+        },
+        {
+          "question": "How do I print a nozzle check pattern from the printer's control panel?",
+          "answer": "Do the following:\nPress\nMenu\n.\nPress\nto select\nTEST PRINT\n, and then press\n.\nPress\nto select\nNOZZLE CHECK\n, press\nto select\nMANUAL\n, and then press select\nto select\nPRINT\n.\nPress\n. A nozzle check pattern prints.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-GA~faq-00009d7-sp3800_3880?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-GA~faq-00009d7-sp3800_3880",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880-Graphic-Arts-Edition/s/SPT_CA61201-GA",
+          "fetched_at": "2026-04-02T01:36:52.077998"
+        },
+        {
+          "question": "How do I uninstall and reinstall my printer driver in OS X 10.6?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\n>\nPrint & Fax\n.\nSelect your printer in the list, click\n, then close the open windows.\nOpen your hard drive.\nSelect\nLibrary\n>\nPrinters\n>\nEpson\n>\ninkjet printers\n, then drag the plugin for your product to the trash. If there is no plugin for your product, drag the\nEpson\nfolder to the trash. Close the open windows.\nReinstall the driver for your product.\nOpen the\nmenu, select\nSystem Preferences\n>\nPrint & Fax\n.\nClick\n, then select your printer.\nClose the open windows.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-GA~faq-00009ff-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-GA~faq-00009ff-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880-Graphic-Arts-Edition/s/SPT_CA61201-GA",
+          "fetched_at": "2026-04-02T01:36:53.305551"
+        },
+        {
+          "question": "I can't find the Fine Art paper option in Windows. What should I do?",
+          "answer": "Load the media in the printer, then select the paper path (\nManual - Rear\nor\nManual - Front\n) as your paper source in the printer driver. You see the Fine Art media choices. See your product's User's Guide to determine which black ink to use for your media type.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-GA~faq-00009d8-sp3800_3880?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-GA~faq-00009d8-sp3800_3880",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880-Graphic-Arts-Edition/s/SPT_CA61201-GA",
+          "fetched_at": "2026-04-02T01:36:54.453020"
+        },
+        {
+          "question": "My ICC profiles do not appear in Mac OS X 10.1 to 10.6. What should I do?",
+          "answer": "The operating system may prevent the ICC profiles from installing correctly. Do the following             to copy the ICC profiles to the correct location:\nNote:\nClose all image editing software                 before you begin.\nOpen the hard drive and select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinters\n>\nICCProfiles\nfolders.\nHold down the control key on your                     keyboard and then click on the file with the .profiles suffix.\nFrom the new window, select\nShow Package Contents\n.\nNext, select the\nContents\nthen the\nResources\nfolder.\nCopy all ICC profiles in the Resources                     folder.\nOpen the hard drive and select\nLibrary\n>\nColorsync\n>\nProfiles\nfolders and then paste the copied ICC profiles.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-GA~faq-0000621-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-GA~faq-0000621-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880-Graphic-Arts-Edition/s/SPT_CA61201-GA",
+          "fetched_at": "2026-04-02T01:36:55.605365"
+        },
+        {
+          "question": "How do I uninstall and reinstall the printer driver in Windows?",
+          "answer": "Do the following:\nTurn off the product.\nDisconnect any interface cables.\nDo one of the following:\nWindows 10\n: Right click\nand select\nControl Panel\n>\nPrograms\n>\nPrograms and                             Features\n.  Select the uninstall option for your Epson                         product, then select\nUninstall/Change\n.\nNote:\nIf you                             see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto                         confirm the uninstallation.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl                             Panel\n>\nPrograms\n>\nPrograms and Features\n.  Select the uninstall                         option for your Epson product, then select\nUninstall/Change\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto                         confirm the uninstallation.\nWindows (other versions)\n: Click\nor\nStart\n, and select\nAll Programs\nor\nPrograms\n.                         Select\nEPSON\n, select your product, then click\nEPSON Printer Software Uninstall\n.\nNote:\nIf you                             see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nIn the next window, select your product and click\nOK\n. Then follow any on-screen instructions.\nRestart your computer, then see the\nStart Here\nsheet or User Guide to                 re-install your software.\nIf these instructions did not solve the problem, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-GA~faq-0000630-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-GA~faq-0000630-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880-Graphic-Arts-Edition/s/SPT_CA61201-GA",
+          "fetched_at": "2026-04-02T01:36:57.055071"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-GA~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-GA~faq-0000f4b-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880-Graphic-Arts-Edition/s/SPT_CA61201-GA",
+          "fetched_at": "2026-04-02T01:36:58.111575"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-GA~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_CA61201-GA~faq-0000f4c-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880-Graphic-Arts-Edition/s/SPT_CA61201-GA",
+          "fetched_at": "2026-04-02T01:36:59.165184"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-GA~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_CA61201-GA~faq-00004b0-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880-Graphic-Arts-Edition/s/SPT_CA61201-GA",
+          "fetched_at": "2026-04-02T01:37:00.293408"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_CA61201-GA~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_CA61201-GA~faq-0000f4a-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-3880-Graphic-Arts-Edition/s/SPT_CA61201-GA",
+          "fetched_at": "2026-04-02T01:37:01.590338"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

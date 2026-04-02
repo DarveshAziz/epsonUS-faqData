@@ -1,0 +1,681 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "SureColor Series",
+  "model": {
+    "name": "Epson SureColor P7000 Standard Edition",
+    "sku": "SPT_SCP7000SE",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "I see the message No Ink Cartridge Install Ink Cartridge when all ink cartridges are installed. What should I do?",
+          "answer": "The ink cartridge(s) you installed may not be recognized by the printer. Try reseating the ink cartridge(s) and turning the printer off and on. If you still see the error message, try installing a different ink cartridge in the printer.\nIf this did not solve the problem, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-0000571-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCP7000SE~faq-0000571-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:11:53.107426"
+        },
+        {
+          "question": "How do I manually install the Epson ICC profiles on my Mac?",
+          "answer": "Do the following:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinters2\n>\nICCProfiles\n.\nPress and hold the\ncontrol\nkey on your keyboard while you select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n, select and copy all files, then close all open windows.\nOpen your hard drive, select\nLibrary\n>\nColorSync\n>\nProfiles\n, then paste the files into this folder.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-0000b03-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCP7000SE~faq-0000b03-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:11:54.027380"
+        },
+        {
+          "question": "I see horizontal or vertical lines in my printout. What should I do?",
+          "answer": "Perform a nozzle check from the printer's control panel or the Epson printer driver, then do one of the following:\nIf there are gaps in the nozzle check pattern, clean the print head nozzles.\nIf there are no gaps in the nozzle check pattern, try the solutions below.\nHorizontal Banding\nIncrease the print resolution.\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nSelect an alternate paper profile for ink coverage.\nSelect the correct paper type in the printer driver.\nAdjust the paper feed\nVertical Banding\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nAlign the print head.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-00009eb-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCP7000SE~faq-00009eb-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:11:55.213765"
+        },
+        {
+          "question": "Why do I need color ink cartridges when I print in black only?",
+          "answer": "The printer will not print if any ink cartridge is expended or removed. Epson printers contain a permanent print head that needs to be charged with all colors to work. Even when you are printing black text only, a small amount of color ink is used to keep the print head charged. The print head needs to be kept charged to prevent air bubbles from entering. Air bubbles can damage the print head.\nTherefore, once one of the cartridges is expended, the printer signals you to replace the cartridge in order for printing to continue.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-0000570-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCP7000SE~faq-0000570-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:11:56.178465"
+        },
+        {
+          "question": "I see the message Ink Cartridge Error: Replace Ink Cartridge. What should I do?",
+          "answer": "An ink cartridge in your printer needs to be replaced. The cartridge may be expended, or the IC chip on the cartridge may not be communicating properly. Try reseating the cartridge and turning the printer off and on. If you still see the error message, try installing a different ink cartridge in the printer.\nIf this did not solve the problem, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-0000572-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCP7000SE~faq-0000572-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:11:57.142783"
+        },
+        {
+          "question": "Can I use an expired ink cartridge in my printer?",
+          "answer": "Epson does not recommend using expired ink cartridges in the printer. Do not use an unopened ink cartridge if the date on the package has expired. For best results, use ink cartridges before the expiration date printed on the package (and within six months of installation in the printer). Replace expired cartridges with new ones.\nYou may need to replace a cartridge that is more than six months old, if your printouts do not look their best, even after cleaning and aligning the printhead. We recommend you store any unused or unopened ink cartridges in a cool, dark place.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-000056f-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCP7000SE~faq-000056f-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:11:58.060091"
+        },
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-00009e9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCP7000SE~faq-00009e9-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:11:59.183463"
+        },
+        {
+          "question": "I see the message Communication Error when I use a USB connection. What should I do?",
+          "answer": "Do the following:\nDelete all print jobs in the print queue.\nTurn the printer off.\nNote:\nMake sure the USB cable is connected correctly.\nRestart your computer. When the desktop appears, turn your printer on and follow the on-screen instructions.\nNote:\nIf the problem continues, turn the printer off again and delete the printer in the list of printers. Then disconnect the USB cable from the printer and connect it again.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-00009ea-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCP7000SE~faq-00009ea-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:00.110094"
+        },
+        {
+          "question": "How do I determine my printer driver version on my Mac?",
+          "answer": "Open the\nmenu and select\nSystem Preferences\nor\nSystem Settings\n>\nPrinters & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n. Your printer driver version is displayed.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-00009e4-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCP7000SE~faq-00009e4-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:01.633462"
+        },
+        {
+          "question": "Which Epson paper type setting should I select for Legacy paper?",
+          "answer": "See the table below.\nLegacy Paper\nEpson Paper Type Setting\nBaryta\nPremium Luster Photo Paper\nPlatine\nPremium Luster Photo Paper\nFibre\nWatercolor Paper – Radiant White\nEtching\nWatercolor Paper – Radiant White",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-00009EC-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCP7000SE~faq-00009EC-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:04.549054"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "I see the message Communication Error when I use a USB connection. What should I do?",
+          "answer": "Do the following:\nDelete all print jobs in the print queue.\nTurn the printer off.\nNote:\nMake sure the USB cable is connected correctly.\nRestart your computer. When the desktop appears, turn your printer on and follow the on-screen instructions.\nNote:\nIf the problem continues, turn the printer off again and delete the printer in the list of printers. Then disconnect the USB cable from the printer and connect it again.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-00009ea-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SCP7000SE~faq-00009ea-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:05.856988"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SCP7000SE~faq-00004c5-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:06.932639"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "How many ink cartridges does my product use?",
+          "answer": "See below for your printer.\nSureColor P6000, SureColor P8000\nThe printer has nine ink cartridges, but it uses only eight cartridges at a time to print. The printer switches between Matte Black (MK) ink and Photo Black (PK) ink automatically, depending on the type of media you load.\nSureColor P7000, SureColor P9000\nThe printer has eleven ink cartridges, but it uses only ten cartridges at a time to print. The printer switches between Matte Black (MK) ink and Photo Black (PK) ink automatically, depending on the type of media you load.\nAlso, your printer uses either Light Light Black (LLK) ink or Violet (V) ink, depending on the edition you purchased. You cannot switch between these inks once the printer is initialized.\nNote:\nTo disable automatic black ink switching, press the\nMenu\nbutton, then select\nPrinter Setup\n>\nAuto Black Ink Change\n>\nOff\n.\nRelated concepts\nSwitch Black Ink Type",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-289222?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP7000SE~faq-289222",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:08.084947"
+        },
+        {
+          "question": "What is the smallest drop size my product will produce?",
+          "answer": "The smallest drop is 3.5 picoliters.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-289100?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP7000SE~faq-289100",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:09.211403"
+        },
+        {
+          "question": "Can I change my product's ink configuration from the Standard Edition to the Commercial Edition or vice versa?",
+          "answer": "No. The printer is available in either the Standard Edition (Light Light Black) or Commercial Edition (Violet). The ink configuration is permanent once the printer completes its initial ink charge and cannot be changed.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-290132?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP7000SE~faq-290132",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:08.590455"
+        },
+        {
+          "question": "Does my product automatically switch to the correct black ink cartridge (Matte Black or Photo Black) depending on the media type I select in my product software?",
+          "answer": "Yes, the printer will automatically switch to the correct black ink.\nYou can also switch the black ink type manually. See below.\nNote:\nBecause this process consumes some ink, you should avoid switching black ink more often than necessary and select a default black ink type for the type of media you print on most often. You can disable automatic black ink switching by pressing the\nMenu\nbutton and selecting\nPrinter Setup\n>\nAuto Black Ink Change\n>\nOff\n.\nSwitching the Black Ink Type\nSwitching the black ink type takes several minutes and consumes some ink. Check the black ink type media list to select the correct ink type for the media you loaded.\nPress the\nBlack\nink button.\nPress the\nOK\nbutton to switch black inks. The printer charges the black ink for a few minutes:\nPhoto Black to Matte Black: about 2 minutes.\nMatte Black to Photo Black: about 4 minutes.\nRelated references\nBlack Ink Type Media List",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-289227?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP7000SE~faq-289227",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:09.843601"
+        },
+        {
+          "question": "Does my product have a pressurized ink delivery system?",
+          "answer": "Yes. The pressurized system ensures ink flow even when the printer is used at higher elevations or if the floor beneath the printer is not absolutely level.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-290170?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP7000SE~faq-290170",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:10.973098"
+        },
+        {
+          "question": "Are the ink cartridges compatible with other Epson P-Series products?",
+          "answer": "Yes, the ink cartridges can be used with the Epson SureColor P6000, SureColor P7000, SureColor P8000, or SureColor P9000. However, the Orange (OR) and Green (GR) ink cartridges can be used with the SureColor P7000 and SureColor P9000 only.\nAlso, only the Commercial Editions of the Epson SureColor P7000 and SureColor P9000 can use Violet (V) ink cartridges. The Commercial Edition uses a Violet (V) ink cartridge in place of the Light Light Black (LLK) ink cartridge.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-290126?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP7000SE~faq-290126",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:12.348546"
+        },
+        {
+          "question": "Do I need to drain the ink cartridges before transporting my product?",
+          "answer": "No, do not drain the ink cartridges, and do not remove the cartridges from the printer. The printer has ink valves to prevent spilling ink during transportation.\nRelated information\nMoving or Transporting the Product",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-289225?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP7000SE~faq-289225",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:13.487978"
+        },
+        {
+          "question": "Which ink cartridges should I use with my product?",
+          "answer": "Epson ink cartridges are available in three sizes for the printer. Select the ink cartridge size that best suits your printing needs. See below.\nInk Cartridge and Maintenance Box Part Numbers\nUse these part numbers when you order or purchase a new maintenance box or ink cartridges.\nNote:\nFor best printing results, use up a cartridge within 6 months of opening the package.\nMaintenance box part number: C13T699700\nSureColor-P6000/SureColor-P8000\nInk bay\nSlot\nInk color\n150 ml part number\n350 ml part number\n700 ml part number\nLeft\n1\nCyan (C)\nT834200\nT824200\nT804200\n2\nYellow (Y)\nT834400\nT832400\nT804400\n3\nLight Cyan (LC)\nT834500\nT824500\nT804500\n4\nMatte Black (MK)\nT834800\nT824800\nT804800\n5\nPhoto Black (PK)\nT834100\nT824100\nT804100\nRight\n6\nVivid Magenta (VM)\nT834300\nT824300\nT804300\n7\nLight Black (LK)\nT834700\nT824700\nT804700\n8\nLight Light Black (LLK)\nT834900\nT824900\nT804900\n9\nVivid Light Magenta (VLM)\nT834600\nT824600\nT804600\nSureColor-P7000/SureColor-P9000\nInk bay\nSlot\nInk color\n150 ml part number\n350 ml part number\n700 ml part number\nLeft\n1\nCyan (C)\nT834200\nT824200\nT804200\n2\nOrange (OR)\nT834A00\nT824A00\nT804A00\n3\nYellow (Y)\nT834400\nT832400\nT804400\n4\nLight Cyan (LC)\nT834500\nT824500\nT804500\n5\nMatte Black (MK)\nT834800\nT824800\nT804800\n6\nPhoto Black (PK)\nT834100\nT824100\nT804100\nRight\n7\nVivid Magenta (VM)\nT834300\nT824300\nT804300\n8\nLight Black (LK)\nT834700\nT824700\nT804700\n9\nGreen (GR)\nT834B00\nT824B00\nT804B00\n10\nLight Light Black (LLK)\nT834900\nT824900\nT804900\nViolet (V)\nT834D00\nT824D00\nT804D00\n11\nVivid Light Magenta (VLM)\nT834600\nT824600\nT804600",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-290473?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP7000SE~faq-290473",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:14.719512"
+        },
+        {
+          "question": "When should I switch the black ink type to Matte Black?",
+          "answer": "You should switch when printing on non-glossy paper, such as Epson Presentation Paper Matte or Epson Velvet Fine Art Paper. Matte Black (MK) ink produces better black ink density on these paper types than Photo Black (PK) ink. See the link below for a list of Matte Black ink and Photo Black ink media types.\nYou need to switch the black ink type only if you disabled automatic black ink switching. Because this process consumes some ink, you should avoid switching black ink more often than necessary and select a default black ink type for the type of media you print on most often.\nNote:\nTo disable or enable automatic black ink switching, press the\nMenu\nbutton and select\nPrinter Setup\n>\nAuto Black Ink Change\n, then select\nOff\nor\nOn\n.\nRelated references\nBlack Ink Type Media List",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-290164?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP7000SE~faq-290164",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:15.796156"
+        },
+        {
+          "question": "What size ink cartridges are included with my product?",
+          "answer": "The ink cartridges contain 110 ml of ink. The cartridges shipped with your printer are provided mainly to charge the ink system. Make sure you order a new set of cartridges as soon as possible.\nRelated references\nInk Cartridge and Maintenance Box Part Numbers",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-289224?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP7000SE~faq-289224",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:17.467292"
+        },
+        {
+          "question": "Can I use an expired ink cartridge in my printer?",
+          "answer": "Epson does not recommend using expired ink cartridges in the printer. Do not use an unopened ink cartridge if the date on the package has expired. For best results, use ink cartridges before the expiration date printed on the package (and within six months of installation in the printer). Replace expired cartridges with new ones.\nYou may need to replace a cartridge that is more than six months old, if your printouts do not look their best, even after cleaning and aligning the printhead. We recommend you store any unused or unopened ink cartridges in a cool, dark place.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-000056f-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP7000SE~faq-000056f-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:19.733746"
+        },
+        {
+          "question": "I see the message Ink Cartridge Error: Replace Ink Cartridge. What should I do?",
+          "answer": "An ink cartridge in your printer needs to be replaced. The cartridge may be expended, or the IC chip on the cartridge may not be communicating properly. Try reseating the cartridge and turning the printer off and on. If you still see the error message, try installing a different ink cartridge in the printer.\nIf this did not solve the problem, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-0000572-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP7000SE~faq-0000572-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:20.832288"
+        },
+        {
+          "question": "I can tell some ink is still in the ink cartridge. Why does my printer show that the cartridge is expended?",
+          "answer": "The ink cartridge is designed to include a small safety reserve of ink. This safety reserve prevents damage to the printhead. If the printer tries to print when no ink remains in the cartridge, air bubbles would enter the ink delivery system and cause damage to the permanent printhead. The safety reserve of ink prevents this from happening.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-0000573-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP7000SE~faq-0000573-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:21.940287"
+        },
+        {
+          "question": "I see the message No Ink Cartridge Install Ink Cartridge when all ink cartridges are installed. What should I do?",
+          "answer": "The ink cartridge(s) you installed may not be recognized by the printer. Try reseating the ink cartridge(s) and turning the printer off and on. If you still see the error message, try installing a different ink cartridge in the printer.\nIf this did not solve the problem, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-0000571-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP7000SE~faq-0000571-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:23.055258"
+        },
+        {
+          "question": "Why do I need color ink cartridges when I print in black only?",
+          "answer": "The printer will not print if any ink cartridge is expended or removed. Epson printers contain a permanent print head that needs to be charged with all colors to work. Even when you are printing black text only, a small amount of color ink is used to keep the print head charged. The print head needs to be kept charged to prevent air bubbles from entering. Air bubbles can damage the print head.\nTherefore, once one of the cartridges is expended, the printer signals you to replace the cartridge in order for printing to continue.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-0000570-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP7000SE~faq-0000570-shared",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:24.261151"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "How many maintenance boxes does my product have?",
+          "answer": "The SureColor P6000 and SureColor P7000 have one maintenance box each. The SureColor P8000 and SureColor P9000 have two maintenance boxes each. You can purchase replacement maintenance boxes (part number T699700) from an Epson authorized reseller.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-289106?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SCP7000SE~faq-289106",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:25.466484"
+        },
+        {
+          "question": "Which print head alignment options are recommended?",
+          "answer": "Epson recommends selecting these print head alignment options in the following order:\nUni-D\n- aligns each color for uni-directional printing based on Light Cyan.\nBi-D All Color\n- aligns each color for bi-directional printing based on all colors.\nNote:\nAlign the print head only if you're experiencing print quality issues and cleaning the print head did not resolve the issue.\nRelated concepts\nPrint Head Alignment\nPrint Head Cleaning",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-290206?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SCP7000SE~faq-290206",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:26.581102"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "Which paper core sizes can be used with my product?",
+          "answer": "The printer supports 2-inch (51 mm) and 3-inch (76 mm) paper cores.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-289105?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCP7000SE~faq-289105",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:27.773731"
+        },
+        {
+          "question": "What is the smallest paper size supported by my product?",
+          "answer": "The smallest paper size supported is 8 x 10 inches (203 x 254 mm).\nRelated references\nPaper Specifications",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-289223?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCP7000SE~faq-289223",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:28.976459"
+        },
+        {
+          "question": "Which Epson paper type setting should I select for Legacy paper?",
+          "answer": "See the table below.\nLegacy Paper\nEpson Paper Type Setting\nBaryta\nPremium Luster Photo Paper\nPlatine\nPremium Luster Photo Paper\nFibre\nWatercolor Paper – Radiant White\nEtching\nWatercolor Paper – Radiant White",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-00009EC-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCP7000SE~faq-00009EC-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:30.082889"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "I see inconsistent color results when I print step and repeat images across a sheet of media. What should I do?",
+          "answer": "Create a Custom Paper setting for your media by adjusting the following settings:\nPaper Feed Adjustment\nHead Alignment\nPaper Thickness\nTo adjust these settings, do the following:\nClean the print head if necessary. See these\ninstructions\n.\nLoad the media type you want to use in the printer.\nPress the\nMenu\nbutton, select\nPaper\n, and then press the right arrow button.\nSelect\nSelect Paper Type\n>\nCustom Paper Setting\nand press the up or down arrow button to select a paper configuration number from 1 to 10. Then press the\nOK\nbutton.\nSelect\nCustom Paper Setting\nand select the paper configuration number you selected in the previous step. Then press the right arrow button.\nSelect\nSelect Reference Paper\nand select the media type you loaded in the printer.\nNote:\nFor proofing, we recommend you use Epson Proofing Paper White Semimatte. We recommend choosing a paper that closely matches the white point and thickness of the paper you are using.\nSelect\nPlaten Gap\n, select a Platen Gap setting, press\nOK\n, and then press the left arrow button. If you don't know the thickness of the paper you're using, we recommend you use the default setting.\nSelect\nDetect Paper Thickness\n, press the right arrow button, and then press\nOK\n.\nA pattern similar to the one below prints.\nNote:\nA loupe or magnifying glass may be required to accurately see the alignment.\nExamine the pattern and choose the number with the best alignment of the vertical lines.\nSelect the number you noted for the Detect Paper Thickness setting in the previous step, press\nOK\n, and then press the left arrow button to return to the menu.\nSelect\nPaper Feed Adjust\n>\nPattern\nand then press\nOK\n.\nA pattern similar to the one below prints. Select the number with the lightest-color pattern in each row, and then press\nOK\n.\nSelect\nDrying Time Per Pass\n, select a time greater than 3 seconds, and then press\nOK\n.\nAdjust the following settings, if necessary:\nPaper Suction\n: Lets you adjust the paper suction level when you print on thin media (under 12 pounds [5.4 kg]), such as drafting paper or back light film.\nRoll Paper Tension\n: Lets you adjust the tension. Select\nHigh\nor\nExtra High\nfor cloth, thin paper, or paper that wrinkles during printing.\nRemove Skew\n: Lets you enable paper skew reduction.\nSetting Name\n: Lets you enter a name for the custom paper setting.\nPress the\nMenu\nbutton, select\nMaintenance\n>\nHead Alignment\n>\nAuto\n>\nBi-D All Color\n, and then press\nOK\n.\nNote:\nIf you plan to create dot proofs, perform the Auto method and verify it with the Manual method.\nNote:\nDo not open the front cover or turn off the printer during the alignment process.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-0000aab-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SCP7000SE~faq-0000aab-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:31.255066"
+        },
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-00009e9-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SCP7000SE~faq-00009e9-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:32.558907"
+        },
+        {
+          "question": "I see horizontal or vertical lines in my printout. What should I do?",
+          "answer": "Perform a nozzle check from the printer's control panel or the Epson printer driver, then do one of the following:\nIf there are gaps in the nozzle check pattern, clean the print head nozzles.\nIf there are no gaps in the nozzle check pattern, try the solutions below.\nHorizontal Banding\nIncrease the print resolution.\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nSelect an alternate paper profile for ink coverage.\nSelect the correct paper type in the printer driver.\nAdjust the paper feed\nVertical Banding\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nAlign the print head.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-00009eb-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SCP7000SE~faq-00009eb-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:33.762231"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "Does Epson offer RIP software for my product?",
+          "answer": "No, Epson does not supply RIP software for the printer. RIP software is available from third-party vendors.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-289107?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP7000SE~faq-289107",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:34.986962"
+        },
+        {
+          "question": "Which interfaces does my product support?",
+          "answer": "Hi-Speed USB (compatible with the USB 2.0 specification) and 10BASE-T/100BASE-TX/1000Base-T are supported.\nNote:\nUse a category 5 or better shielded twisted pair cable.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-289101?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP7000SE~faq-289101",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:36.070155"
+        },
+        {
+          "question": "What is the Epson Remote Panel 2 Utility?",
+          "answer": "The Epson Remote Panel 2 Utility can be used to do the following:\nAdjust the paper feed\nCreate custom paper settings\nPerform bi-directional and uni-directional alignments\nPerform nozzle checks\nPerform power cleanings\nPrint status sheets\nSet the printer's clock\nSee Downloads to download the utility.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-290218?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP7000SE~faq-290218",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:37.221023"
+        },
+        {
+          "question": "What does the High Speed setting in the Epson print driver do?",
+          "answer": "When the High Speed setting is selected, the print head prints in both directions (bi-directional) to speed up printing. This may reduce print quality.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-289109?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP7000SE~faq-289109",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:38.353537"
+        },
+        {
+          "question": "Does my product come with an Epson printer driver?",
+          "answer": "Yes, a print driver is available. You can download the driver from the Downloads tab for your product.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-289113?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP7000SE~faq-289113",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:39.509659"
+        },
+        {
+          "question": "Do I need the SpectroProofer to use my product?",
+          "answer": "No, the SpectroProofer is optional.\nRelated references\nOptional Equipment and Replacement Parts",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-290138?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP7000SE~faq-290138",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:40.658503"
+        },
+        {
+          "question": "How do I save my Epson printer driver presets so I can restore them if I reinstall the Epson printer driver in Windows?",
+          "answer": "Note:\nYou may lose some custom settings when you uninstall the printer driver.\nBefore you reinstall the printer driver, do the following:\nOpen\nFile Explorer\nor\nWindows Explorer\n.\nSelect\nThis PC\nor\nComputer\n>\nC:\ndrive >\nProgram Files\n>\nEpson\n> [your printer name].\nMove the UCI extension files to a different folder on your desktop.\nNote:\nAfter you reinstall the Epson printer driver, move the UCI extension files back to your printer's folder as described in step 2.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-00009e6-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP7000SE~faq-00009e6-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:40.301212"
+        },
+        {
+          "question": "How do I install the ICC profiles in Windows XP or Windows 7?",
+          "answer": "Do the following:\nDownload the ICC profiles for your printer and save them in a folder you can easily find.\nClose all open software.\nOpen\nWindows Explorer\n, then select\nComputer\n>\nC:\ndrive >\nWindows\n>\nSystem32\n>\nspool\n>\ndrivers\n>\ncolor\n.\nMove the ICC profiles into the\ncolor\nfolder, then close all open windows.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-00009E5-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP7000SE~faq-00009E5-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:45.436602"
+        },
+        {
+          "question": "How do I determine my printer driver version on my Mac?",
+          "answer": "Open the\nmenu and select\nSystem Preferences\nor\nSystem Settings\n>\nPrinters & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n. Your printer driver version is displayed.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-00009e4-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP7000SE~faq-00009e4-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:46.514492"
+        },
+        {
+          "question": "How do I manually install the Epson ICC profiles on my Mac?",
+          "answer": "Do the following:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinters2\n>\nICCProfiles\n.\nPress and hold the\ncontrol\nkey on your keyboard while you select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n, select and copy all files, then close all open windows.\nOpen your hard drive, select\nLibrary\n>\nColorSync\n>\nProfiles\n, then paste the files into this folder.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-0000b03-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP7000SE~faq-0000b03-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:47.555675"
+        },
+        {
+          "question": "Where are the ICC profiles located for my printer on my Mac?",
+          "answer": "Do the following to locate the files:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinter2\n>\nICCProfiles\n.\nPress and hold the\nControl\nkey on your keyboard while you click the profile package in the\nICCProfiles\nfolder. In the pop-up menu that appears, select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-00009ed-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP7000SE~faq-00009ed-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:48.471028"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP7000SE~faq-0000f4b-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:49.411882"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP7000SE~faq-0000f4c-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:50.512776"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP7000SE~faq-0000f4d-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:51.443806"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "How many nozzles per color does the print head have?",
+          "answer": "It has 360 nozzles per color.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-289102?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCP7000SE~faq-289102",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:52.346147"
+        },
+        {
+          "question": "What are the in-box dimensions and weight of my product?",
+          "answer": "See the table below.\nSpecification\nSureColor P6000 and SureColor P7000\nSureColor P8000 and SureColor P9000\nLength\n59.5 inches (1511 mm)\n80 inches (2032 mm)\nWidth\n32 inches (812 mm)\n32 inches (812 mm)\nHeight\n42 inches (1066 mm)\n42.5 inches (1079 mm)\nWeight (single carton, including shipping pallet)\n320 lb (145 kg)\n417 lb (189 kg)",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-290194?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCP7000SE~faq-290194",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:53.302014"
+        },
+        {
+          "question": "Does my product support borderless printing?",
+          "answer": "Yes. See below.\nBorderless Paper Type Compatibility\nYou can print borderless photos on compatible paper types in compatible paper widths:\nExamples of Borderless Paper Types\nEpson Singleweight Matte Paper\nEpson Doubleweight Matte Paper\nEpson Premium Glossy Photo Paper (250)\nEpson Premium Semigloss Photo Paper (170)\nEpson Premium Glossy Photo Paper (170)\nEpson Premium Semimatte Photo Paper (250)\nEpson Premium Luster Photo Paper (260)\nBorderless Paper Widths\n10 inches (254 mm)\n11.8 inches (300 mm)\n13 inches (330 mm)\n16 inches (406 mm)\n17 inches (432 mm)\n20.3 inches (515 mm)\n23 inches (594 mm)\n24 inches (610 mm)\n33 inches (841 mm)*\n36 inches (914 mm)*\n44 inches (1118 mm) *\n* SC-P8000/SC-P9000 only\nRelated references\nPrintable Area Specifications",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-290467?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCP7000SE~faq-290467",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:54.409240"
+        },
+        {
+          "question": "What is the Roll Media Length Tracking system?",
+          "answer": "It is a system that enables the printer to keep track of the remaining length of roll paper. If the system is enabled, the printer automatically prints and reads barcodes on roll paper to accurately estimate the remaining length, and the printer alerts you if the remaining length is not sufficient for the current print job.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-290200?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCP7000SE~faq-290200",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:55.512307"
+        },
+        {
+          "question": "Is the stand included with my product?",
+          "answer": "Yes, the stand is included.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-290182?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCP7000SE~faq-290182",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:56.563483"
+        },
+        {
+          "question": "What is the maximum resolution that can be printed?",
+          "answer": "The printer can print up to 2,880 x 1,440 dpi.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-289103?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCP7000SE~faq-289103",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:57.732307"
+        },
+        {
+          "question": "How do I get service for my product I purchased in another country?",
+          "answer": "Due to differences in products sold in other countries, the printer needs to be serviced in the country of origin.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-290215?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCP7000SE~faq-290215",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:58.713864"
+        },
+        {
+          "question": "Is the optional internal print server an Epson product?",
+          "answer": "Yes, you can purchase the optional internal print server (part number C12C848031) from an Epson authorized reseller.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-290188?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCP7000SE~faq-290188",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:12:59.718008"
+        },
+        {
+          "question": "What are the user replaceable parts for my product?",
+          "answer": "See below.\nOptional Equipment and Replacement Parts\nOption or part\nPart number\nReplacement ink maintenance box\nT699700\nSpectroProofer 24” UVS (SC-P6000/SC-P7000)\nSpectro24UVS\nSpectroProofer 44” UVS (SC-P8000/SC-P9000)\nSpectro44UVS\nAutomatic Take-Up Reel System (SC-P8000/SC-P9000)\nC12C815321\nInternal print server\nC12C848031\nAdditional roll media adapters\nC12C811241\nReplacement printer cutter blade\nC12C815331\n1-year extended Epson Preferred Plus service plan for SpectroProofer\nEPPSPB1\n1-year extended Epson Preferred Plus service plan\nEPP900B1\n2-year extended Epson Preferred Plus service plan\nEPP900B2",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-290505?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCP7000SE~faq-290505",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:13:00.675158"
+        },
+        {
+          "question": "Which connection type enables my product to operate at full speed?",
+          "answer": "Both USB and Ethernet connections enable the printer to operate at full speed. Your CPU affects the printer's speed most. Your CPU should be a Core 2 Duo 3.05 GHz or better.\nRelated references\nWindows System Requirements\nMac System Requirements",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-290176?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCP7000SE~faq-290176",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:13:01.664575"
+        },
+        {
+          "question": "What extended service plans are available?",
+          "answer": "One-year and a two-year extended service plans are available.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-289226?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCP7000SE~faq-289226",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:13:02.664953"
+        },
+        {
+          "question": "What is the difference between the standard printer and the Commercial Edition of my product?",
+          "answer": "The Standard Edition uses the standard 11 color ink cartridges. The Commercial Edition uses a Violet (V) cartridge in place of the Light Light Black (LLK) ink cartridge. For this reason, the Commercial Edition is not meant to be used with photo applications.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-289112?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCP7000SE~faq-289112",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:13:03.582802"
+        },
+        {
+          "question": "What optional equipment is available for my product?",
+          "answer": "See below.\nOptional Equipment and Replacement Parts\nOption or part\nPart number\nReplacement ink maintenance box\nT699700\nSpectroProofer 24” UVS (SC-P6000/SC-P7000)\nSpectro24UVS\nSpectroProofer 44” UVS (SC-P8000/SC-P9000)\nSpectro44UVS\nAutomatic Take-Up Reel System (SC-P8000/SC-P9000)\nC12C815321\nInternal print server\nC12C848031\nAdditional roll media adapters\nC12C811241\nReplacement printer cutter blade\nC12C815331\n1-year extended Epson Preferred Plus service plan for SpectroProofer\nEPPSPB1\n1-year extended Epson Preferred Plus service plan\nEPP900B1\n2-year extended Epson Preferred Plus service plan\nEPP900B2",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-290479?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCP7000SE~faq-290479",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:13:04.460988"
+        },
+        {
+          "question": "What are the dimensions and weight of my product?",
+          "answer": "See the table below. The dimensions include the printer stand.\nSpecification\nSureColor P6000\nSureColor P7000\nSureColor P8000\nSureColor P9000\nWidth\n53.4 inches (1356 mm)\n53.4 inches (1356 mm)\n73.4 inches (1864 mm)\n73.4 inches (1864 mm)\nHeight\n48 inches (1218 mm)\n48 inches (1218 mm)\n48 inches (1218 mm)\n48 inches (1218 mm)\nDepth\nPaper basket closed: 26.3 inches (667 mm)\nPaper basket opened: 35.6 inches (903 mm)\nPaper basket closed: 26.3 inches (667 mm)\nPaper basket opened: 35.6 inches (903 mm)\nPaper basket closed: 26.3 inches (667 mm)\nPaper basket opened: 51.9 inches (1318 mm)\nPaper basket closed: 26.3 inches (667 mm)\nPaper basket opened: 51.9 inches (1318 mm)\nWeight (without ink cartridges or optional equipment)\n222.7 lb (101 kg)\n222.7 lb (101 kg)\n297.6 lb (135 kg)\n297.6 lb (135 kg)",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-289104?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCP7000SE~faq-289104",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:13:05.381373"
+        },
+        {
+          "question": "What are the dimensions and weight of the SpectroProofer?",
+          "answer": "See the table below. The SureColor P6000 and SureColor P7000 use the SpectroProofer 24” UVS. The SureColor P8000 and SureColor P9000 use the SpectroProofer 44” UVS.\nSpecification\nSpectroProofer 24” UVS\nSpectroProofer 44” UVS\nWidth\n34.5 inches (876 mm)\n54.6 inches (1386 mm)\nDepth\n13 inches (330 mm)\n12.6 inches (320 mm)\nHeight\n15.2 inches (386 mm)\n15.3 inches (388 mm)\nWeight\n25.5 lb (11 kg)\n35.5 lb (16 kg)",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-289108?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCP7000SE~faq-289108",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:13:06.396913"
+        },
+        {
+          "question": "Is an optional take-up reel available?",
+          "answer": "No, an optional take-up reel is not available for the printer.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-289111?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCP7000SE~faq-289111",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:13:07.632476"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCP7000SE~faq-00004b0-shared",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:13:08.945527"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SCP7000SE~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCP7000SE~faq-0000f4a-shared",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P7000-Standard-Edition/s/SPT_SCP7000SE",
+          "fetched_at": "2026-04-02T03:13:10.137649"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

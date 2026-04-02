@@ -1,0 +1,170 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Impact Printers",
+  "series": "LQ Series",
+  "model": {
+    "name": "Epson LQ-1500",
+    "sku": "SPT_L502",
+    "url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-1500/s/SPT_L502"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "The paper feed knob broke. What should I do?",
+          "answer": "This is usually caused by incorrectly using the paper feed knob to adjust the paper position when the printer is turned on.\nTo prevent this problem the printer's paper feed, form feed or alignment buttons should be used.\nYou can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_L502~faq-000096c-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_L502~faq-000096c-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-1500/s/SPT_L502",
+          "fetched_at": "2026-04-02T05:12:02.050676"
+        },
+        {
+          "question": "Two pages print for each page I print. What should I do?",
+          "answer": "If you're using single sheets you need to make sure the software is set up for either single sheet paper or 61 lines per page otherwise it will print a few lines on a second page if the document is over 61 lines.\nSome older DOS software may not have those settings if it is designed to be used only with tractor feed paper. For Windows software, make sure to select Sheet Feeder bin 1 for your paper source in Printer setup.",
+          "faq_url": "https://epson.com/faq/SPT_L502~faq-000096e-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_L502~faq-000096e-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-1500/s/SPT_L502",
+          "fetched_at": "2026-04-02T05:12:03.023272"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_L502~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_L502~faq-00004b0-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-1500/s/SPT_L502",
+          "fetched_at": "2026-04-02T05:12:04.011145"
+        },
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_L502~faq-000096d-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_L502~faq-000096d-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-1500/s/SPT_L502",
+          "fetched_at": "2026-04-02T05:12:04.898906"
+        },
+        {
+          "question": "What settings do the DIP switches control?",
+          "answer": "The LQ-1500 does not have DIP switches at the main case of the\nprinter. The switches are located in the interface module.\nThe parallel module has two 8-position DIP switches. These switches\nare located at the rear of the printer.\nSwitch\nON\nOFF\nSW 1-1\n2K Input Buffer\n1 Line Buffer\nSW 1-2\nPaper Out Inactive\nPaper Out Active\nSW 1-3\nCR Produces CR + LF\nCR Only\nSW 1-4\nNot Used-Always OFF\nNot Used-Always OFF\nCountry\nSW 2-1\nSW 2-2\nSW 2-3\nUSA\nON\nON\nON\nFrance\nON\nON\nOFF\nGermany\nON\nOFF\nON\nUnited Kingdom\nON\nOFF\nOFF\nDenmark\nOFF\nON\nON\nSweden\nOFF\nON\nOFF\nItaly\nOFF\nOFF\nON\nSpain\nOFF\nOFF\nOFF\nSwitch\nON\nOFF\nSW 2-4\n12\" Page Length\n11\" Page Length\nSW 2-5\n1\" Skip over Perf\nSkip over Perf Inactive\nSW 2-6\nSound Bell\nBell Silent\nSW 2-7\nLetter Quality\nDraft\nSW 2-8\nSLCT IN Active\nSLCT IN Inactive\nCut Sheet Feeder Mode\nThe Cut Sheet feeder mode is enabled by turning on Switch 8 on\nthe bank of switches inside the printer. This DIP switch is\nunder the front cover (front right corr>2,3. If both DSR and DCD signals are not ON state (Positive), RXD signal can not be received.\n4,5. If the host computer is not equipped with the power supply for the Current Loop interface, these jumpers must be connected to perform communication via the Current Loop interface.\n6. J10 and J11 jumpers can not be connected at the same time.\n7. JX and JF jumpers can not be connected at the same time.\n8. JRS and JCL jumpers can not be connected at the same time.\n9. \"ON\" denotes the connection of the jumper while \"OFF\" denotes the disconnection of the jumper.",
+          "faq_url": "https://epson.com/faq/SPT_L502~faq-50168?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_L502~faq-50168",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-1500/s/SPT_L502",
+          "fetched_at": "2026-04-02T05:12:05.852298"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Some video drivers may cause a conflict in memory between the printerdriver and video memory. Try changing to the Windows video driver provided by Microsoft or check to see if the video card manufacturer has an updated video driver available. This is often the cause of strange printing problems such as missing characters or lines through the printed document.\nBroken printhead pins may also cause this problem. If the problem continues when performing the printer's self test then the printhead is most likely the problem. This would need to be serviced by an Epson authorized repair center.",
+          "faq_url": "https://epson.com/faq/SPT_L502~faq-49660?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_L502~faq-49660",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-1500/s/SPT_L502",
+          "fetched_at": "2026-04-02T05:12:06.766826"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Two pages print for each page I print. What should I do?",
+          "answer": "If you're using single sheets you need to make sure the software is set up for either single sheet paper or 61 lines per page otherwise it will print a few lines on a second page if the document is over 61 lines.\nSome older DOS software may not have those settings if it is designed to be used only with tractor feed paper. For Windows software, make sure to select Sheet Feeder bin 1 for your paper source in Printer setup.",
+          "faq_url": "https://epson.com/faq/SPT_L502~faq-000096e-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_L502~faq-000096e-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-1500/s/SPT_L502",
+          "fetched_at": "2026-04-02T05:12:07.780418"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "The paper feed knob broke. What should I do?",
+          "answer": "This is usually caused by incorrectly using the paper feed knob to adjust the paper position when the printer is turned on.\nTo prevent this problem the printer's paper feed, form feed or alignment buttons should be used.\nYou can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_L502~faq-000096c-shared?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_L502~faq-000096c-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-1500/s/SPT_L502",
+          "fetched_at": "2026-04-02T05:12:08.709365"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Some video drivers may cause a conflict in memory between the printerdriver and video memory. Try changing to the Windows video driver provided by Microsoft or check to see if the video card manufacturer has an updated video driver available. This is often the cause of strange printing problems such as missing characters or lines through the printed document.\nBroken printhead pins may also cause this problem. If the problem continues when performing the printer's self test then the printhead is most likely the problem. This would need to be serviced by an Epson authorized repair center.",
+          "faq_url": "https://epson.com/faq/SPT_L502~faq-49660?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_L502~faq-49660",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-1500/s/SPT_L502",
+          "fetched_at": "2026-04-02T05:12:09.598068"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "What settings do the DIP switches control?",
+          "answer": "The LQ-1500 does not have DIP switches at the main case of the\nprinter. The switches are located in the interface module.\nThe parallel module has two 8-position DIP switches. These switches\nare located at the rear of the printer.\nSwitch\nON\nOFF\nSW 1-1\n2K Input Buffer\n1 Line Buffer\nSW 1-2\nPaper Out Inactive\nPaper Out Active\nSW 1-3\nCR Produces CR + LF\nCR Only\nSW 1-4\nNot Used-Always OFF\nNot Used-Always OFF\nCountry\nSW 2-1\nSW 2-2\nSW 2-3\nUSA\nON\nON\nON\nFrance\nON\nON\nOFF\nGermany\nON\nOFF\nON\nUnited Kingdom\nON\nOFF\nOFF\nDenmark\nOFF\nON\nON\nSweden\nOFF\nON\nOFF\nItaly\nOFF\nOFF\nON\nSpain\nOFF\nOFF\nOFF\nSwitch\nON\nOFF\nSW 2-4\n12\" Page Length\n11\" Page Length\nSW 2-5\n1\" Skip over Perf\nSkip over Perf Inactive\nSW 2-6\nSound Bell\nBell Silent\nSW 2-7\nLetter Quality\nDraft\nSW 2-8\nSLCT IN Active\nSLCT IN Inactive\nCut Sheet Feeder Mode\nThe Cut Sheet feeder mode is enabled by turning on Switch 8 on\nthe bank of switches inside the printer. This DIP switch is\nunder the front cover (front right corr>2,3. If both DSR and DCD signals are not ON state (Positive), RXD signal can not be received.\n4,5. If the host computer is not equipped with the power supply for the Current Loop interface, these jumpers must be connected to perform communication via the Current Loop interface.\n6. J10 and J11 jumpers can not be connected at the same time.\n7. JX and JF jumpers can not be connected at the same time.\n8. JRS and JCL jumpers can not be connected at the same time.\n9. \"ON\" denotes the connection of the jumper while \"OFF\" denotes the disconnection of the jumper.",
+          "faq_url": "https://epson.com/faq/SPT_L502~faq-50168?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_L502~faq-50168",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-1500/s/SPT_L502",
+          "fetched_at": "2026-04-02T05:12:12.275970"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_L502~faq-000096d-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_L502~faq-000096d-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-1500/s/SPT_L502",
+          "fetched_at": "2026-04-02T05:12:13.544922"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_L502~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_L502~faq-00004b0-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-1500/s/SPT_L502",
+          "fetched_at": "2026-04-02T05:12:14.808023"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

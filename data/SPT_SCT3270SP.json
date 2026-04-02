@@ -1,0 +1,553 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "SureColor Series",
+  "model": {
+    "name": "Epson SureColor T3270 Screen Print Edition",
+    "sku": "SPT_SCT3270SP",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "I see horizontal or vertical lines in my printout. What should I do?",
+          "answer": "Perform a nozzle check from the printer's control panel or the Epson printer driver, then do one of the following:\nIf there are gaps in the nozzle check pattern, clean the print head nozzles.\nIf there are no gaps in the nozzle check pattern, try the solutions below.\nHorizontal Banding\nIncrease the print resolution.\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nSelect an alternate paper profile for ink coverage.\nSelect the correct paper type in the printer driver.\nAdjust the paper feed\nVertical Banding\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nAlign the print head.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-00009eb-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCT3270SP~faq-00009eb-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:07.440972"
+        },
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-00009e9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCT3270SP~faq-00009e9-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:08.292282"
+        },
+        {
+          "question": "I see the message Communication Error when I use a USB connection. What should I do?",
+          "answer": "Do the following:\nDelete all print jobs in the print queue.\nTurn the printer off.\nNote:\nMake sure the USB cable is connected correctly.\nRestart your computer. When the desktop appears, turn your printer on and follow the on-screen instructions.\nNote:\nIf the problem continues, turn the printer off again and delete the printer in the list of printers. Then disconnect the USB cable from the printer and connect it again.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-00009ea-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCT3270SP~faq-00009ea-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:09.265313"
+        },
+        {
+          "question": "How do I determine my printer driver version on my Mac?",
+          "answer": "Open the\nmenu and select\nSystem Preferences\nor\nSystem Settings\n>\nPrinters & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n. Your printer driver version is displayed.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-00009e4-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCT3270SP~faq-00009e4-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:10.291445"
+        },
+        {
+          "question": "Which Epson paper type setting should I select for Legacy paper?",
+          "answer": "See the table below.\nLegacy Paper\nEpson Paper Type Setting\nBaryta\nPremium Luster Photo Paper\nPlatine\nPremium Luster Photo Paper\nFibre\nWatercolor Paper – Radiant White\nEtching\nWatercolor Paper – Radiant White",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-00009EC-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCT3270SP~faq-00009EC-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:11.190135"
+        },
+        {
+          "question": "How do I install the ICC profiles in Windows XP or Windows 7?",
+          "answer": "Do the following:\nDownload the ICC profiles for your printer and save them in a folder you can easily find.\nClose all open software.\nOpen\nWindows Explorer\n, then select\nComputer\n>\nC:\ndrive >\nWindows\n>\nSystem32\n>\nspool\n>\ndrivers\n>\ncolor\n.\nMove the ICC profiles into the\ncolor\nfolder, then close all open windows.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-00009E5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCT3270SP~faq-00009E5-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:12.122882"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-00004c5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCT3270SP~faq-00004c5-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:13.079055"
+        },
+        {
+          "question": "My print job disappears from the Windows print queue but does not print. What should I do?",
+          "answer": "Follow the steps below:\nDo one of the following:\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your printer and select\nManage\n>\nPrinting preferences\n.\nWindows 8\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the\nUtility\ntab, then\nSpeed and Progress\n.\nSelect the\nAlways Spool RAW Datatype\nand\nCoarse Rendering\ncheckboxes, then click\nOK\n.\nNote:\nIf the\nProcessed by Printer\ncheckbox is selected, deselect it.\nTry printing again.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-00009e8-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCT3270SP~faq-00009e8-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:14.155398"
+        },
+        {
+          "question": "Where are the ICC profiles located for my printer on my Mac?",
+          "answer": "Do the following to locate the files:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinter2\n>\nICCProfiles\n.\nPress and hold the\nControl\nkey on your keyboard while you click the profile package in the\nICCProfiles\nfolder. In the pop-up menu that appears, select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-00009ed-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCT3270SP~faq-00009ed-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:15.060307"
+        },
+        {
+          "question": "How do I manually install the Epson ICC profiles on my Mac?",
+          "answer": "Do the following:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinters2\n>\nICCProfiles\n.\nPress and hold the\ncontrol\nkey on your keyboard while you select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n, select and copy all files, then close all open windows.\nOpen your hard drive, select\nLibrary\n>\nColorSync\n>\nProfiles\n, then paste the files into this folder.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-0000b03-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCT3270SP~faq-0000b03-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:16.652890"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Connection or Setup",
+      "section_id": "8796158601292",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "A connection error appears after I installed a new or updated printer driver on my Mac. What should I do?",
+          "answer": "Try the following:\nUninstall the Epson printer driver. To uninstall the printer driver, go to the                 Downloads tab for your product, select\nUninstaller v1.3.1\n, and follow the on-screen                 instructions to complete the uninstall.\nInstall Epson printer driver ver. 10.85. This driver version has limited print                 options, but it should resolve this issue.\nNote:\nAn updated printer driver will be available later to resolve the                     problem.\nTip:\nIf your printer stops printing after                 entering sleep mode, you need to wake the printer up to print again.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-0000d01-shared?faq_cat=faq-8796158601292",
+          "faq_slug": "SPT_SCT3270SP~faq-0000d01-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:19.348793"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "I see the message Communication Error when I use a USB connection. What should I do?",
+          "answer": "Do the following:\nDelete all print jobs in the print queue.\nTurn the printer off.\nNote:\nMake sure the USB cable is connected correctly.\nRestart your computer. When the desktop appears, turn your printer on and follow the on-screen instructions.\nNote:\nIf the problem continues, turn the printer off again and delete the printer in the list of printers. Then disconnect the USB cable from the printer and connect it again.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-00009ea-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SCT3270SP~faq-00009ea-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:20.595769"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SCT3270SP~faq-00004c5-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:26.146558"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Image Quality or Appearance",
+      "section_id": "8796127275084",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "Can I print photographic output with my product?",
+          "answer": "Although the printer is capable of delivering quality prints, it is designed for engineering, CAD, and GIS markets. The SureColor T3270 Screen Print Edition also is designed for screen printing.\nFor information about our Epson Professional Imaging printers, please visit the Epson Store.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-292643?faq_cat=faq-8796127275084",
+          "faq_slug": "SPT_SCT3270SP~faq-292643",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:27.103843"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "Does my product automatically switch to the correct black ink cartridge (Matte Black or Photo Black) when I select the media type in my product software?",
+          "answer": "Yes, the printer will automatically switch to the correct black ink.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-292646?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCT3270SP~faq-292646",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:26.325841"
+        },
+        {
+          "question": "What is the smallest ink drop size my product will produce?",
+          "answer": "The smallest drop is 3.5 picoliters.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-292647?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCT3270SP~faq-292647",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:27.320142"
+        },
+        {
+          "question": "Are different-sized ink cartridges available?",
+          "answer": "The printer supports three sizes of Epson Ultrachrome XD ink: 110 ml, 350 ml, or 700 ml. You can mix-and-match different sizes for each color.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-292645?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCT3270SP~faq-292645",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:28.308789"
+        },
+        {
+          "question": "Which ink cartridges should I use for screen printing?",
+          "answer": "See below. The SureColor T3270 Screen Print Edition uses the same ink cartridges as the standard SureColor T3270.\nInk color\n110 ml part number\n350 ml part number\n700 ml part number\nPhoto Black\nT692100\nT693100\nT694100\nCyan\nT692200\nT693200\nT694200\nMagenta\nT692300\nT693300\nT694300\nYellow\nT692400\nT693400\nT694400\nMatte Black\nT692500\nT693500\nT694500",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-292682?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCT3270SP~faq-292682",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:29.251306"
+        },
+        {
+          "question": "How can I prevent the Epson UltraChrome ink on the Epson Screen Positive Film from sticking to the emulsion layer of the screen?",
+          "answer": "This may happen if moisture collects on the film or the emulsion. Try the following:\nAllow more time for the emulsion to dry.\nExpose the screen positive film in an environment where the relative humidity is no higher than 55%. Use a dehumidifier to lower the humidity in the room, or move the film to a less humid area.\nUse an emulsion exposure calculator to determine the appropriate exposure time. The screen may have been exposed for too long.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-0000433-sct3270sp?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCT3270SP~faq-0000433-sct3270sp",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:30.145714"
+        },
+        {
+          "question": "Why does it take a long time for Epson UltraChrome ink to dry on Epson Screen Positive Film?",
+          "answer": "In high humidity environments, Epson UltraChrome ink takes longer to dry on Epson Screen             Positive Film. For optimal results, print in a controlled environment where the relative             humidity is no higher than 55%.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-000065D-sct3270sp?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCT3270SP~faq-000065D-sct3270sp",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:31.134015"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "Is the Dual-Roll feature an option?",
+          "answer": "The Dual-Roll feature is only available on the SureColor T5270D or SureColor T7270D models and is not separately available.\nNote:\nThe SureColor T3270 does not have a version with a Dual-Roll feature.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-292649?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SCT3270SP~faq-292649",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:32.125225"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "Does my product support roll and cut sheet media?",
+          "answer": "Yes, the printer supports both roll media and cut sheet media.\nNote:\nFull borderless print jobs are supported on select roll media widths.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-292658?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCT3270SP~faq-292658",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:33.021818"
+        },
+        {
+          "question": "Does my product support media besides Epson Screen Positive Film?",
+          "answer": "Yes, the printer supports media for non-screen print jobs. See\nSupported Media\n.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-292683?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCT3270SP~faq-292683",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:33.905506"
+        },
+        {
+          "question": "Which media do I use for screen printing?",
+          "answer": "You can use Epson Screen Positive Film, which is included with the printer.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-292681?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCT3270SP~faq-292681",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:34.834670"
+        },
+        {
+          "question": "Which Epson paper type setting should I select for Legacy paper?",
+          "answer": "See the table below.\nLegacy Paper\nEpson Paper Type Setting\nBaryta\nPremium Luster Photo Paper\nPlatine\nPremium Luster Photo Paper\nFibre\nWatercolor Paper – Radiant White\nEtching\nWatercolor Paper – Radiant White",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-00009EC-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCT3270SP~faq-00009EC-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:35.763889"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-00009e9-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SCT3270SP~faq-00009e9-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:36.858468"
+        },
+        {
+          "question": "I see horizontal or vertical lines in my printout. What should I do?",
+          "answer": "Perform a nozzle check from the printer's control panel or the Epson printer driver, then do one of the following:\nIf there are gaps in the nozzle check pattern, clean the print head nozzles.\nIf there are no gaps in the nozzle check pattern, try the solutions below.\nHorizontal Banding\nIncrease the print resolution.\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nSelect an alternate paper profile for ink coverage.\nSelect the correct paper type in the printer driver.\nAdjust the paper feed\nVertical Banding\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nAlign the print head.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-00009eb-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SCT3270SP~faq-00009eb-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:37.871106"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "Does my product come with an AutoCAD driver?",
+          "answer": "No, the printer does not come with an AutoCAD driver.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-292648?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCT3270SP~faq-292648",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:38.952398"
+        },
+        {
+          "question": "Can the Internal Print Server support more than one printer?",
+          "answer": "No. After the initial server's installation, a serial number is assigned to the printer. The server will print only to the printer with the correct serial number.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-292652?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCT3270SP~faq-292652",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:39.915079"
+        },
+        {
+          "question": "Can I set the date and time on my product?",
+          "answer": "No. The SureColor T3270 requires two people to place the printer on the stand, while the SureColor T5270/T5250D/T7270/T7270D require four people to mount the printer on the stand.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-292644?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCT3270SP~faq-292644",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:40.817422"
+        },
+        {
+          "question": "How do I control the Internal Print Server?",
+          "answer": "Use the Hard Disk. Follow the steps below for your operating system.\nWindows\nClick\nStart\n>\nDevices and Printers\n, then right-click on the printer.\nSelect\nPrinting Preferences\n>\nAdvanced\ntab.\nCheck the Hard Disk Unit option, and click the\nSettings\nbutton to select the print server's behavior.\nOS X\nClick\nFile\n>\nPrint\n.\nSelect Advanced from the Printer Settings drop-down menu.\nClick on the HDD Option Settings.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-292650?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCT3270SP~faq-292650",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:41.750889"
+        },
+        {
+          "question": "Which interfaces does my product support?",
+          "answer": "The printer supports USB 2.0 and Gigabit Ethernet interfaces.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-292655?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCT3270SP~faq-292655",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:42.639517"
+        },
+        {
+          "question": "Which operating systems are supported by the AccuRIP Black Pearl SE RIP software?",
+          "answer": "See below. Your computer system should meet or exceed the requirements listed below.\nWindows\nWindows 10\nWindows 8.x\nWindows 7\nOS X\nOS X 10.11.x\nOS X 10.10.x\nOS X 10.9.x\nOS X 10.8.x\nOS X 10.7.x",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-292684?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCT3270SP~faq-292684",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:43.643257"
+        },
+        {
+          "question": "Which screen printing software comes with my product?",
+          "answer": "The AccuRIP Black Pearl SE RIP software from Freehand Graphics is supplied with the printer.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-292659?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCT3270SP~faq-292659",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:44.580108"
+        },
+        {
+          "question": "How do I print a large HPGL file from Adobe Acrobat?",
+          "answer": "Turn off\nFinest Detail\nand uncheck the\nHigh Speed\nsetting in the printer driver.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-00009F9-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCT3270SP~faq-00009F9-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:45.675040"
+        },
+        {
+          "question": "How do I install the ICC profiles in Windows XP or Windows 7?",
+          "answer": "Do the following:\nDownload the ICC profiles for your printer and save them in a folder you can easily find.\nClose all open software.\nOpen\nWindows Explorer\n, then select\nComputer\n>\nC:\ndrive >\nWindows\n>\nSystem32\n>\nspool\n>\ndrivers\n>\ncolor\n.\nMove the ICC profiles into the\ncolor\nfolder, then close all open windows.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-00009E5-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCT3270SP~faq-00009E5-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:46.621016"
+        },
+        {
+          "question": "Does my product support a wireless connection?",
+          "answer": "No, the printer does not support a wireless connection.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-0000acf-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCT3270SP~faq-0000acf-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:47.599014"
+        },
+        {
+          "question": "How do I determine my printer driver version on my Mac?",
+          "answer": "Open the\nmenu and select\nSystem Preferences\nor\nSystem Settings\n>\nPrinters & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n. Your printer driver version is displayed.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-00009e4-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCT3270SP~faq-00009e4-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:48.534203"
+        },
+        {
+          "question": "How do I manually install the Epson ICC profiles on my Mac?",
+          "answer": "Do the following:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinters2\n>\nICCProfiles\n.\nPress and hold the\ncontrol\nkey on your keyboard while you select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n, select and copy all files, then close all open windows.\nOpen your hard drive, select\nLibrary\n>\nColorSync\n>\nProfiles\n, then paste the files into this folder.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-0000b03-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCT3270SP~faq-0000b03-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:49.470796"
+        },
+        {
+          "question": "Where are the ICC profiles located for my printer on my Mac?",
+          "answer": "Do the following to locate the files:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinter2\n>\nICCProfiles\n.\nPress and hold the\nControl\nkey on your keyboard while you click the profile package in the\nICCProfiles\nfolder. In the pop-up menu that appears, select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-00009ed-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCT3270SP~faq-00009ed-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:50.500238"
+        },
+        {
+          "question": "My print job disappears from the Windows print queue but does not print. What should I do?",
+          "answer": "Follow the steps below:\nDo one of the following:\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your printer and select\nManage\n>\nPrinting preferences\n.\nWindows 8\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the\nUtility\ntab, then\nSpeed and Progress\n.\nSelect the\nAlways Spool RAW Datatype\nand\nCoarse Rendering\ncheckboxes, then click\nOK\n.\nNote:\nIf the\nProcessed by Printer\ncheckbox is selected, deselect it.\nTry printing again.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-00009e8-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCT3270SP~faq-00009e8-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:51.633330"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCT3270SP~faq-0000f4b-shared",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:52.662785"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCT3270SP~faq-0000f4c-shared",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:53.670382"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCT3270SP~faq-0000f4d-shared",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:54.577200"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 9,
+      "faqs": [
+        {
+          "question": "Does my product stand come with my product?",
+          "answer": "Yes. The printer comes with a printer stand and a print basket.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-292653?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCT3270SP~faq-292653",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:55.684207"
+        },
+        {
+          "question": "What is the main purpose of the Internal Print Server?",
+          "answer": "The print server allows you to save print jobs and re-print them from the control panel.\nNote:\nYou cannot use a print server from a different printer (such as the SureColor T3000, T5000, or T7000 models) with the SureColor T3270, T5270, T5270D, T7270, or T7270D models.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-292651?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCT3270SP~faq-292651",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:56.663942"
+        },
+        {
+          "question": "Do all T-Series products support screen printing?",
+          "answer": "The Epson SureColor Screen Print Editions were designed to give screen printers a complete solution to producing screen positive film. For the most reliable and consistent results, it's recommended that screen printers purchase and use the Screen Print Edition printers; however, the standard SureColor T5270/T5270D and SureColor T7270/T7270D will produce great results when used with Epson Screen Positive Film in conjunction with a third-party RIP software (AccuRIP Black Pearl).\nWhen using the standard Epson driver to print on Epson Screen Positive Film, we recommend the following settings:\nOption\nRecommended setting\nMedia Type\nPremium Luster Photo Paper (260)\nInk\nPhoto Black (automatically determined)\nPrint Mode\nColor/B&W Photo\nColor Mode\nOff (No Color Management)\nOutput Resolution\n2880 x 1440 (Max Quality / Level 5)\nMicroWeave\nOn\nHigh Speed\nOff (deselected)\nColor Density\n+50\nDrying Time\n0\nPaper Feed Adjust\n0*\nPaper Thickness\n1\nPlaten Gap\nAuto\nRoll Paper Back Tension\nAuto\nSend 16-bit Data (OS X only)\nOff (deselected)\n* To ensure optimal quality and registration between film sets, it is recommended that you perform a manual paper feed adjustment on the printer control panel when using Epson Screen Positive Film for the first time.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-292660?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCT3270SP~faq-292660",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:57.641764"
+        },
+        {
+          "question": "What is the maximum thickness of media my product will feed?",
+          "answer": "The printer can handle rigid media with a thickness of up to 1.5 mm.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-292656?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCT3270SP~faq-292656",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:58.518704"
+        },
+        {
+          "question": "Which optional accessories are available for my product?",
+          "answer": "See the table below.\nOption & Accessories\nPart Number\nAdditional One-Year Epson Preferred Plus Service\nEPPT753B1\nAdditional Two-Year Epson Preferred Plus Service\nEPPT753B2\nInternal Print Server\nC12C848031\nAdditional Roll Media Adapters\nC12C811401\nReplacement Printer Cutter Blade\nS902006\nReplacement Ink Maintenance Tank\nT619300\nEpson Screen Positive Film (5 mil) 17\" × 100' roll\nS450132\nEpson Screen Positive Film (5 mil) 24\" × 100' roll\nS450133\nEpson Screen Positive Film (5 mil) 8.5 × 11-inch sheets (100 pack)\nS450135\nEpson Screen Positive Film (5 mil) 8.5 × 11-inch sheets (100 pack)\nS450136",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-292642?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCT3270SP~faq-292642",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:57:59.455687"
+        },
+        {
+          "question": "What is the difference between the standard printer and the Screen Print Edition?",
+          "answer": "The Screen Print Edition includes the AccuRIP Black Pearl SE RIP software and Epson Screen Positive Film, which can be used for screen printing.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-292685?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCT3270SP~faq-292685",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:58:00.493286"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SCT3270SP~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCT3270SP~faq-0000f4a-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-T3270-Screen-Print-Edition/s/SPT_SCT3270SP",
+          "fetched_at": "2026-04-02T03:58:01.390413"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

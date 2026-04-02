@@ -1,0 +1,868 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "Epson Stylus Series",
+  "model": {
+    "name": "Epson Stylus Pro 9600 - UltraChrome Ink",
+    "sku": "SPT_C473001UCM",
+    "url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "How do I uninstall and reinstall my printer driver in OS X 10.1, 10.2, or 10.3?",
+          "answer": "Open your hard drive, then do the following:\nSelect\nApplications\n>\nUtilities\n, then double-click\nPrinter Service Utility\n. Remove all Epson Stylus Pro paper queues from the Printers List, then close the open windows.\nSelect\nLibrary\n>\nReceipts\n, then drag the\nSProXX00.xx.pkg\nfile to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nEpson\n, then drag the plugin for your product to the trash.\nSelect\nPreferences\n>\nEpson\n, then drag files related to your product to the trash.\nClose the open windows.\nReinstall the driver for your product.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00009fe-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C473001UCM~faq-00009fe-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:16:37.332244"
+        },
+        {
+          "question": "Where can I get the latest version of the Epson Communication Driver for my printer?",
+          "answer": "Download the Communication Driver from the Downloads tab on your product's support page.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00009fb-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C473001UCM~faq-00009fb-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:16:38.225239"
+        },
+        {
+          "question": "I see horizontal or vertical lines in my printout. What should I do?",
+          "answer": "Perform a nozzle check from the printer's control panel or the Epson printer driver, then do one of the following:\nIf there are gaps in the nozzle check pattern, clean the print head nozzles.\nIf there are no gaps in the nozzle check pattern, try the solutions below.\nHorizontal Banding\nIncrease the print resolution.\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nSelect an alternate paper profile for ink coverage.\nSelect the correct paper type in the printer driver.\nAdjust the paper feed\nVertical Banding\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nAlign the print head.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00009eb-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C473001UCM~faq-00009eb-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:16:39.135248"
+        },
+        {
+          "question": "How do I uninstall and reinstall my printer driver in OS X 10.6?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\n>\nPrint & Fax\n.\nSelect your printer in the list, click\n, then close the open windows.\nOpen your hard drive.\nSelect\nLibrary\n>\nPrinters\n>\nEpson\n>\ninkjet printers\n, then drag the plugin for your product to the trash. If there is no plugin for your product, drag the\nEpson\nfolder to the trash. Close the open windows.\nReinstall the driver for your product.\nOpen the\nmenu, select\nSystem Preferences\n>\nPrint & Fax\n.\nClick\n, then select your printer.\nClose the open windows.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00009ff-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C473001UCM~faq-00009ff-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:16:40.045336"
+        },
+        {
+          "question": "I see the message Communication Error when I use a USB connection. What should I do?",
+          "answer": "Do the following:\nDelete all print jobs in the print queue.\nTurn the printer off.\nNote:\nMake sure the USB cable is connected correctly.\nRestart your computer. When the desktop appears, turn your printer on and follow the on-screen instructions.\nNote:\nIf the problem continues, turn the printer off again and delete the printer in the list of printers. Then disconnect the USB cable from the printer and connect it again.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00009ea-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C473001UCM~faq-00009ea-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:16:40.953366"
+        },
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00009e9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C473001UCM~faq-00009e9-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:16:41.877536"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00004c5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C473001UCM~faq-00004c5-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:16:42.775369"
+        },
+        {
+          "question": "Where are the ICC profiles located for my printer on my Mac?",
+          "answer": "Do the following to locate the files:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinter2\n>\nICCProfiles\n.\nPress and hold the\nControl\nkey on your keyboard while you click the profile package in the\nICCProfiles\nfolder. In the pop-up menu that appears, select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00009ed-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C473001UCM~faq-00009ed-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:16:43.686693"
+        },
+        {
+          "question": "How do I manually install the Epson ICC profiles on my Mac?",
+          "answer": "Do the following:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinters2\n>\nICCProfiles\n.\nPress and hold the\ncontrol\nkey on your keyboard while you select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n, select and copy all files, then close all open windows.\nOpen your hard drive, select\nLibrary\n>\nColorSync\n>\nProfiles\n, then paste the files into this folder.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-0000b03-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C473001UCM~faq-0000b03-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:16:44.743044"
+        },
+        {
+          "question": "How do I determine my printer driver version on my Mac?",
+          "answer": "Open the\nmenu and select\nSystem Preferences\nor\nSystem Settings\n>\nPrinters & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n. Your printer driver version is displayed.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00009e4-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C473001UCM~faq-00009e4-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:16:45.653636"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "What size borderless prints can I produce?",
+          "answer": "You can make borderless prints on the following media widths:\nStylus Pro 7600 - 8\", 10\", 12\", 14\", 16\", 20\", 24\"\nStylus Pro 9600 - 8\", 10\", 12\", 14\", 16\", 20\", 24\", 36\", 44\"",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-47521?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C473001UCM~faq-47521",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:16:46.574864"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "I see the message The ink cartridge combination currently installed in my product is different from the one installed when my product was selected in Print Center... after I switch black ink modes?",
+          "answer": "This error is usually generated when using a Preset in the printer driver that was created for a different black ink set.\nClick on\nFile\nand select\nPrint\n, then set the\nPreset\nto\nStandard\nand adjust the\nPrinter Settings\nmanually. After changing black ink modes, make sure that you remove the printer queue(s) from the Printer list and re-add the queue(s) with the new black ink mode.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-63192?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C473001UCM~faq-63192",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:16:47.476736"
+        },
+        {
+          "question": "I'm getting a Reload Paper message. What should I do?",
+          "answer": "The following can cause Reload Paper messages:\nThe paper may be loaded improperly (too far to the left) or roll paper has been loaded too far down into the printer. Roll paper should be lined up with the vertical and horizontal holes on the lower paper guide.\nMeasure the width of the media to make sure it exactly matches one of the supported paper widths (10\", 24\", 36\", or 44\"). A slight size variation (1/8\" or 1/4\") could cause a Reload Paper error.\nVerify that there is no printed image or ink on either side of the media that can confuse the optical paper sensor.  Try loading a clean sheet of paper.\nYou may also get this message if using non-EPSON media, such as transparencies, velum, etc. Try loading EPSON media instead.\nIf none of these solutions work, there may be a physical problem with the printer. Please contact technical support at (888) 377-6611 or  (562) 276-1305 for assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-47507?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C473001UCM~faq-47507",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:16:48.411511"
+        },
+        {
+          "question": "I see the message 0002 on the printer's LCD. What should I do?",
+          "answer": "If you notice odd noises or image quality problems, troubleshoot the printer for the noise or image quality problem. Otherwise, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-298371?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C473001UCM~faq-298371",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:16:49.323277"
+        },
+        {
+          "question": "I see the message Scale to Fit when the target media size is set for No Margin. What should I do?",
+          "answer": "This is a Mac OS X 10.4 restriction. You can use either the\nScale to Fit\nor\nNo Margin\nsetting, but not both together.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-63106?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C473001UCM~faq-63106",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:16:50.236638"
+        },
+        {
+          "question": "I see the message Service error 1002D. What does it indicate?",
+          "answer": "The message indicates the cleaning mechanism has reached its end of life. Contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-298417?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C473001UCM~faq-298417",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:16:51.124003"
+        },
+        {
+          "question": "I see a communication error when I try to print. What should I do?",
+          "answer": "Check the following if you are getting a communication error when printing:\nMake sure the type of driver you  installed matches the ink type in the printer.  Verify the ink type by checking the part number on the ink cartridges.\nMake sure the printer interface setting matches the connection type you're using. By default, the printer interface should be set to Auto, which supports all connection types.\nCheck the physical cable connection and make sure the cable is not be longer than 10 ft. You may want to replace the cable.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-47514?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C473001UCM~faq-47514",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:16:52.040325"
+        },
+        {
+          "question": "I see the message Command Error on the printer when I print from Windows XP, Windows Vista or Windows 7. What should I do?",
+          "answer": "This may happen if you use an UltraChrome printer driver but are printing with dye ink, or the other way around. Do the following:\nDo one of the following:\nWindows 7\nor\nWindows Vista\n: Select\nor\nStart\n>\nControl Panel\n>\nUninstall a program\n, your Epson printer software, then\nUninstall\n.\nWindows XP\n: Select\nStart\n>\nControl Panel\n. Double-click\nAdd or Remove Programs\n, then select the Epson Printer software and remove all files associated with the driver.\nDownload the latest Epson printer driver from the Downloads tab for your product and follow the on-screen instructions to install the driver.\nSelect\nor\nStart\n>\nControl Panel\n>\nDevices and Printers\n.\nRight-click the icon for your printer, select\nPrinting preferences\n>\nUtility\n, then\nPrinter and Option Information\n. Make sure the correct ink configuration is selected.\nOn your product, press\nSelect Type\ntwice.\nPress\nuntil you see\nInterface\non the screen, then press\nSelect Type\ntwice.\nSelect\nAuto\nfor the interface.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00009de-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C473001UCM~faq-00009de-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:16:52.967056"
+        },
+        {
+          "question": "I see the message Communication Error when I use a USB connection. What should I do?",
+          "answer": "Do the following:\nDelete all print jobs in the print queue.\nTurn the printer off.\nNote:\nMake sure the USB cable is connected correctly.\nRestart your computer. When the desktop appears, turn your printer on and follow the on-screen instructions.\nNote:\nIf the problem continues, turn the printer off again and delete the printer in the list of printers. Then disconnect the USB cable from the printer and connect it again.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00009ea-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C473001UCM~faq-00009ea-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:16:53.888837"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C473001UCM~faq-00004c5-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:16:54.820807"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "How to...",
+      "section_id": "8796159027276",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "How do I create a custom paper size in Windows?",
+          "answer": "Do the following:\nRight-click your printer icon on the Windows task bar, then select\nPrinter Settings\n.\nIf necessary, select the\nMain\nor\nPaper\ntab.\nSelect your paper\nSource\nin the Paper Settings section.\nClick the\nUser Defined\nbutton or select\nUser                         Defined\nas the Size. A User Defined Paper Size window                     opens.\nEnter a Paper Size Name, then select the Paper Width and Paper Height.\nClick\nSave\n, then\nOK\n.\nClick\nOK\nagain.\nThe new paper size is created, and you can now select the new size from the Size             list.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-0000622-shared?faq_cat=faq-8796159027276",
+          "faq_slug": "SPT_C473001UCM~faq-0000622-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:16:55.844384"
+        },
+        {
+          "question": "How do I set up color management for my product in Adobe PhotoShop on my Mac?",
+          "answer": "Do the following:\nOpen the\nFile\nmenu in Adobe Photoshop and select\nPrint\n.\nUnder Color Handling, select\nPrinter Manages Colors\n.\nClick\nPrint Settings\n.  A new window appears.\nUnder Orientation, select\nColor Matching\nfrom the pop-up                     menu.\nSelect\nEPSON Color Controls\n.\nMake sure the Color Settings are set to\nEPSON Standard                         (sRGB)\nunder Print Settings.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-0000623-shared?faq_cat=faq-8796159027276",
+          "faq_slug": "SPT_C473001UCM~faq-0000623-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:16:54.919422"
+        },
+        {
+          "question": "How do I add a print queue for my printer in OS X 10.1 to 10.6?",
+          "answer": "Do the following:\nTurn on the printer, if necessary.\nSelect\nSystem Preference\nand click\nPrint                     Center\n,\nPrinter Setup Utility\n, or\nPrint & Fax\n.\nClick\nAdd\n, or select\nAdd Printer\nfrom the printer's drop-down menu.\nSelect the appropriate Epson port                 connection (e.g.\nEpson USB\n) and select the product.\nSelect\nAll\nfor the\nPage Setup\n.\nClick\nAdd\n.  All                 print queues should appear in the printer list.\nSelect your product and click\nMake Default\n.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-000062D-shared?faq_cat=faq-8796159027276",
+          "faq_slug": "SPT_C473001UCM~faq-000062D-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:16:55.882083"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "How much ink does an ink cartridge contain?",
+          "answer": "The Stylus Pro 7600 cartridges contain 110 milliliters each.\nThe Stylus Pro 9600 cartridges contain 220 milliliters each.\nPhotographic Dye Ink- 110ml\nPart Number\nBlack Ink (two required)\nT545100\nCyan Ink\nT545200\nMagenta Ink\nT545300\nYellow Ink\nT545400\nLight Cyan Ink\nT545500\nLight Magenta Ink\nT545600\nUltraChrome Ink- 110ml\nPart Number\nPhoto Black Ink\nT543100\nCyan Ink\nT543200\nMagenta Ink\nT543300\nYellow Ink\nT543400\nLight Cyan Ink\nT543500\nLight Magenta Ink\nT543600\nLight Black Ink\nT543700\nMatte Black Ink\nT543800\nUltraChrome Ink- 220ml\n(Stylus Pro 9600 only)\nPart Number\nPhoto Black Ink\nT544100\nCyan Ink\nT544200\nMagenta Ink\nT544300\nYellow Ink\nT544400\nLight Cyan Ink\nT544500\nLight Magenta Ink\nT544600\nLight Black Ink\nT544700\nMatte Black Ink\nT544800",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-47520?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C473001UCM~faq-47520",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:16:56.754422"
+        },
+        {
+          "question": "What optional inks are available for the SP 9600/7600? How do I determine which ink I should be using? How do I switch between inks?",
+          "answer": "The SP7600/9600 can be set up in three different ink configurations initially.\nPhoto Black/Light Black - Used for all media types (glossy - semigloss - matte based-media).\nMatte Black/Light Black - Used for matte-based media printing (driver changes to support matte-based media).\nDual Matte Black - Used for matte-based media printing where speed, not quality, is the concern, such as GIS or mapping (driver changes to support matte-based media).",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-47519?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C473001UCM~faq-47519",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:16:57.638806"
+        },
+        {
+          "question": "Why are my ink cartridges nearly empty after I turn on my product for the first time?",
+          "answer": "The printer generally uses the first set of ink cartridges to do what is called \"priming\". Priming evacuates all air from the ink lines and pressurizes the ink delivery system for it's first use. It also saturates the new print heads and fills the ink reservoirs to their maximum levels. This helps ensure consistent looking images from your printer. Since priming requires more ink then normal, the ink levels on your cartridge indicators appear prematurely empty, since the ink has been transferred from the cartridges to the ink lines. Your next set of cartridges should yield ink at the normal rate.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-47512?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C473001UCM~faq-47512",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:16:58.529028"
+        },
+        {
+          "question": "Can I initialize my product with Matte Black inks?",
+          "answer": "Yes, you can initialize the Stylus Pro 7600/9600 with any of the following 3 ink configurations:\nPhoto Black / Light Black\nMatte Black / Light Black\nMatte Black / Matte Black",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-47523?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C473001UCM~faq-47523",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:16:59.476786"
+        },
+        {
+          "question": "How many prints can I print from an ink cartridge in my printer?",
+          "answer": "There are too many variables to provide a count. You can estimate the amount by printing a Job Information sheet from the printer's Test Print menu. This sheet provides the amount of ink used for the last 10 print jobs, which can help you calculate ink usage.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00009e2-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C473001UCM~faq-00009e2-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:00.365561"
+        },
+        {
+          "question": "My printer's ink cartridges are half full after I install the first set of ink cartridges. Why does this happen?",
+          "answer": "Ink from the first set of ink cartridges is used to charge the printer's ink delivery system. This will not happen again when you install new ink cartridges.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00009d6-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C473001UCM~faq-00009d6-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:01.283036"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "How frequently should I change the maintenance tank?",
+          "answer": "You need to replace the maintenance tank only when the printer displays the \"Maintenance Tank Almost Full\" or \"Maintenance Tank Full\" message.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-47500?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C473001UCM~faq-47500",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:02.218622"
+        },
+        {
+          "question": "How many cleaning cycles should I run to correct missing or deflected nozzles?",
+          "answer": "You should run up to eight cleaning cycles and print a nozzle check pattern between each one so the printer can perform a more extensive cleaning each time.\nNote: Running cleaning cycles without printing a nozzle check between them causes the printer to use the same cleaning pressure level each time and may not clean all the nozzles thoroughly.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-47496?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C473001UCM~faq-47496",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:03.121539"
+        },
+        {
+          "question": "How do I align the print head?",
+          "answer": "Do the following:\nLoad a sheet of paper in the printer.\nPress\nSelecType\non the printer's control panel. You see\nPRINTER SETUP\n.\nPress\nuntil\nHEAD ALIGNMENT\nis selected, then press\n. You see\nPAPER THKNS\n.\nPress\nto select\nSTD\n. This is the correct thickness setting for most Epson papers.\nPress\nEnter\n.\nPress\nto select the mode you want to adjust:\nBI-D BLACK\n,\nBI-D ALL\n, or\nUNI-D ALL\n.\nIf you're printing non-photographic images with black ink only, select\nBI-D BLACK\n. Otherwise, perform a\nUNI-D ALL\nadjustment, followed by\nBI-D ALL\n.\nPress\nEnter\nto print the alignment patterns.\nOnce the patterns are done printing, examine the first row (K1) in group #1. You see a pattern similar to that shown below (only part of it is shown in the illustration). Use an eye loupe to determine which line looks the best. In the example below, the middle line (number 5) is the best.\nNote:\nYou must use at least a 10x eye loupe to check the pattern.\nPress\nor\nto select the best line.\nPress\nEnter\n.\nExamine the black set of blocks (K2) in group #1. Select the block with the smallest gap, then press\nEnter\n. Repeat this process for each of the other patterns when prompted.\nIf number 5 (the current alignment setting) shows the smallest gap for each pattern, the print head is aligned and you can exit the adjustment early by pressing\nPause\n. You may need to repeat the alignment more than once to ensure that number 5 is the best choice for all patterns.\nPress\nPause\nto exit the head alignment mode.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00009d9-sp7600_9600?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C473001UCM~faq-00009d9-sp7600_9600",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:04.034935"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "For which media types do I need to use the optional high-tension spindle?",
+          "answer": "You need to use the spindle for the following media types:\nEnhanced Adhesive Synthetic Paper *\nEnhanced Synthetic Paper *\nCanvas **\nPremium Luster Photo Paper **\nSomerset Velvet for EPSON **\nTextured Fine Art Paper by Crane **\n* For this media type, adjust the high-tension spindle for 2” core media.\n** For this media type, adjust the high-tension spindle for 3” core media.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-84864?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C473001UCM~faq-84864",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:04.933748"
+        },
+        {
+          "question": "What are the best settings to use with thicker media?",
+          "answer": "If you are using EPSON media, just make sure you select the correct media type so your printer can set the appropriate Platen Gap setting (if Platen Gap is set to Auto in the SelectType menu).",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-47508?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C473001UCM~faq-47508",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:05.868339"
+        },
+        {
+          "question": "How can I avoid using extra media at the beginning of a print job?",
+          "answer": "Do one of the following:\nSet the margin for roll paper to 3 mm.\nPress the\nPaper Source\nbutton on the printer until Roll Auto Cut is selected.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-298433?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C473001UCM~faq-298433",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:06.759531"
+        },
+        {
+          "question": "Why does the Auto Take-up Reel not wind my paper automatically when printing through my RIP software, but works fine when printing with the Epson driver?",
+          "answer": "Your RIP software manufacturer has incorporated the cut settings within the paper profile. Please contact your RIP manufacturer for instructions to disable the cutter option within the paper profile. The RIP software cut setting is overriding the Auto Cut off setting on the printer.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-79605?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C473001UCM~faq-79605",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:07.659496"
+        },
+        {
+          "question": "What does the 250 stand for in the Epson driver Media Type setting?",
+          "answer": "The 250 designation represents the paper weight (250 gsm). Make sure you select the 250 Media Type setting if the media installed in the printer is 250 gsm (roll paper). If there is a mismatch in paper weight, print quality may be affected by horizontal banding or other problems.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-83292?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C473001UCM~faq-83292",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:08.562152"
+        },
+        {
+          "question": "What types of paper can I use with the auto-cutter blade?",
+          "answer": "You can use the auto-cutter blade with all EPSON media up to 11.5 mil thick. If the media you are using is thicker than 11.5 mil, it is strongly recommended that you do not use the \"Roll Paper (Auto-Cut)\" setting to avoid damaging the printer or the cutter blade (which is not covered under your warranty).",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-47505?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C473001UCM~faq-47505",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:09.445243"
+        },
+        {
+          "question": "Why does my product fail to cut paper when the Auto Cut setting is selected on my products control panel?",
+          "answer": "You may not have the auto cut option selected in the EPSON printer driver. Open the driver, click on the Paper tab, and select the auto cut setting if it is available.\nAlso make sure the media type setting is not too thick for the built-in cutter blade. It is recommended that you cut thicker media using scissors or the optional manual cutter.\nThe cutter blade may be dull from extensive use. Follow the instructions in the user manual to replace the cutter blade.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-47506?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C473001UCM~faq-47506",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:10.336446"
+        },
+        {
+          "question": "What kind of spindle does my product come with and what size do I need for my EPSON paper?",
+          "answer": "The printer comes with a 2\" spindle which includes 3\" core adapters.\nThese papers require the 2\" Standard Spindle\nEPSON Proofing Paper Commercial Semi-matte\nGlossy Paper Photo Weight\nPhoto Glossy Paper\nPhoto Semi-Gloss Paper\nDouble Weight Matte Paper\nEnhanced Matte Paper\nGlossy Paper Photo Weight\nAdhesive Vinyl\nThese papers require the 2\" High Tension Spindle\nAdhesive Synthetic Paper\nSynthetic Paper\nGlossy Paper Heavyweight\nPresentation Matte\nSemi-Gloss Paper Heavyweight\nBacklight Film\nTyvek Brillion\nThese papers require the 3\" High Tension Spindle\nCanvas\nPremium Luster Photo Paper\nSmooth Fine Art Paper by Crane\nSomerset\n.\nVelvet for EPSON\nTextured Fine Art Paper by Crane",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-47522?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C473001UCM~faq-47522",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:11.242747"
+        },
+        {
+          "question": "Why does my product advance the paper so much when set to roll cutter off?",
+          "answer": "When the roll cutter off setting is selected, the printer advances the paper approximately eight inches in between each image or print job. This leaves enough room to cut between each image using scissors or the optional manual cutter.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-47504?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C473001UCM~faq-47504",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:12.172527"
+        },
+        {
+          "question": "I'm having paper feed problems. What should I do?",
+          "answer": "Check the following:\nFor heavy or thick media, follow the instructions in the\nUser Guide\nto                     load the media correctly.\nMake sure the paper is not folded, wrinkled, or damp.\nMake sure the printer's environment is within the required temperature and                     humidity range.\nMake sure no foreign objects are inside the paper path.\nMake sure the printer isn't located in a brightly lit area. The paper sensors                     may not operate correctly.\nMake sure the\nMedia Type\nand\nPaper                         Source\nsettings in the printer software are correct.\nMake sure the\nPlaten Gap\nsetting is correct for the paper                     or media you're using.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-000062F-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C473001UCM~faq-000062F-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:13.197694"
+        },
+        {
+          "question": "Which Epson paper type setting should I select for Legacy paper?",
+          "answer": "See the table below.\nLegacy Paper\nEpson Paper Type Setting\nBaryta\nPremium Luster Photo Paper\nPlatine\nPremium Luster Photo Paper\nFibre\nWatercolor Paper – Radiant White\nEtching\nWatercolor Paper – Radiant White",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00009EC-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C473001UCM~faq-00009EC-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:14.112565"
+        },
+        {
+          "question": "Which Epson Professional papers do not have optical brighteners?",
+          "answer": "Hot Press Natural, Cold Press Natural, and UltraSmooth Fine Art Paper.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-0000b07-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C473001UCM~faq-0000b07-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:15.011228"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "Part of the image is clipped when I print a borderless image from Photoshop in Windows. What should I do?",
+          "answer": "If you selected\nRoll Paper\nas your paper source and checked\nNo Margins\n, and you see a setting larger then 0 in the\nMargins (inches)\nsection of the Page Setup dialog window, like this:\nyou need to select\nRoll Paper (Banner)\nas your paper source and check the\nNo Margins\nbox on the Paper tab of the Printing Preferences dialog box:",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-83734?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C473001UCM~faq-83734",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:15.874774"
+        },
+        {
+          "question": "Why do my prints have a slight greenish or cyan tint in different lighting?",
+          "answer": "This effect is called metamerism and is common to all forms of pigmented inks. The Stylus Pro 7600/9600 reduces this effect by adding Light Black ink as a 7th color.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-47515?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C473001UCM~faq-47515",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:16.791460"
+        },
+        {
+          "question": "What kind of spray coating should I use to protect my canvas prints?",
+          "answer": "Epson has conducted limited internal testing of third-party over-coatings.  This testing indicates that the following third-party over-coatings help protect a print against the effects of water.\nMake sure the media has cured for at least 24 hours or longer before using any spray coatings. The following products have been tested with our Canvas Papers:\nPremier Art Print Shield (Tested by Wilhelm Imaging Research)\nSureGuard Clear Gloss-McDonald-Pro-Tecta-Cote # 911\nFor complete specifications and additional information, please contact the manufacturer directly.\nNote: Epson does not endorse any particular over-coating and does not guarantee the results. Epson does not make any claim as to the stability or longevity of these spray products.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-69625?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C473001UCM~faq-69625",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:17.710096"
+        },
+        {
+          "question": "Why do my fonts or images print out with jagged edges?",
+          "answer": "If fonts and images print with jagged edges the resolution of the file may be too low to print smoothly, or the file may contain PostScript data. You may need to purchase RIP (Raster Image Processing) hardware or software.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-47498?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C473001UCM~faq-47498",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:18.621053"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "The most common cause of vertical banding is over-saturation of the media, usually created by paper \"rippling\".  To correct this effect, decrease the saturation and lower the paper suction. If vertical banding is still apparent print the image with high speed off (uni-directional).  If this corrects the issue, align the print head, as described on page 5-6 of the Users Guide.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-47495?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C473001UCM~faq-47495",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:19.538473"
+        },
+        {
+          "question": "My print jobs fade toward the end, then start over before. What should I do?",
+          "answer": "If you're printing via ethernet using an Epson Vista compatible printer driver, follow these steps to fix this problem:\nCancel the print job from the computer and from the printer.\nClick the\nStart button, then select\nControl Panel\n.\nSelect\nPrinter\nor\nPrinters\nin the\nHardware and Sound\ncategory.\nRight-click on your printer and select\nPrinting Preferences\n.\nClick the\nUtility\ntab.\nSelect\nSpeed & Progress\n.\nClick the\nAlways spool RAW datatype\ncheckbox.\nClick\nOK\nto close the Speed & Progress window.\nClick\nOK\nto close the Printing Preferences window.\nRight-click on your printer and select\nProperties\n.\nClick the\nPorts\ntab.\nMake sure the correct printer port is selected, then click\nConfigure Port\n.\nClick the\nLPR Byte Counting Enabled\ncheckbox.\nClick\nOK\nto close the Configure Port window.\nClick\nApply\nand then\nClose\nto close the Properties window.\nRestart the computer.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-89580?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C473001UCM~faq-89580",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:20.411043"
+        },
+        {
+          "question": "There are vertical bands or lines on my printout.  What should I do?",
+          "answer": "Try the following:\nRun three auto print head alignments.\nMake sure High Speed is not selected.\nLower the dpi setting you selected to print.  If you selected 2880 dpi, lower                     the setting to 1440 dpi.\nMake sure the lines are not in the image source.\nMake sure you use the correct profile settings.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-000062B-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C473001UCM~faq-000062B-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:21.323103"
+        },
+        {
+          "question": "My printouts are dark when I print from Photoshop CS3 or later. What should I do?",
+          "answer": "While we do not assist with color profiling or color correction, you can try the                 following:\nUse latest version of Adobe Photoshop.\nMake sure your print head nozzles are clean and free from clogs.\nMake the following adjustment in Adobe Photoshop:\nSelect\nColor Management\nor\nOutput\n>\nOutput\nfrom Photoshop's print                             screen.\nClick\nTransfer\nand drag the middle of the curve                             to 40.0%.\nClick\nOK\n, then select\nColor                                 Management\n.\nSelect\nLet Photoshop manage color as normal\nand                             the appropriate printer profile.\nPrint your image. Because every photo is different, you may need to                             experiment with the Transfer Curve to find the level that best suits                             your needs.\nNote:\nMaking changes to the Transfer Curve does not alter                                 the original image. This curve affects the Shadows, Midtones, and                                 Highlights as a whole.\nMake the following adjustments in the Windows or Mac driver to lighten the                         image:\nAdjust the Gamma setting to 1.8.\nIncrease the Brightness bar to 5.\nNote:\nIf using a Mac, make sure the                                 Color Mode is EPSON Standard sRGB.\nSee the product's User Guide for more information in these settings.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-000062A-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C473001UCM~faq-000062A-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:22.240273"
+        },
+        {
+          "question": "My printout has horizontal lines running through it. What should I do?",
+          "answer": "Print a nozzle check pattern. If you see gaps in the nozzle check pattern, run three cleaning cycles, then print another nozzle check pattern to see if all nozzles print now. If you still see gaps, run a power cleaning cycle.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00009FA-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C473001UCM~faq-00009FA-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:23.194499"
+        },
+        {
+          "question": "Drips, smears, or head strikes appear on my printout. What should I do?",
+          "answer": "Make sure the platen gap is adjusted for your media type. To adjust the platen gap, do the following from the printer's control panel:\nMake sure the printer is ready to print. Ready should be displayed on the printer's LCD screen.\nPress the\nbutton three times.\nSelect\nNarrow\n,\nStandard\n,\nWide\n, or\nWider\nas the gap setting.\nPress\nOK\nor\nEnter\n(the middle button).\nPress the pause button.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-0000c1e-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C473001UCM~faq-0000c1e-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:24.069975"
+        },
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00009e9-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C473001UCM~faq-00009e9-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:24.969694"
+        },
+        {
+          "question": "I see horizontal or vertical lines in my printout. What should I do?",
+          "answer": "Perform a nozzle check from the printer's control panel or the Epson printer driver, then do one of the following:\nIf there are gaps in the nozzle check pattern, clean the print head nozzles.\nIf there are no gaps in the nozzle check pattern, try the solutions below.\nHorizontal Banding\nIncrease the print resolution.\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nSelect an alternate paper profile for ink coverage.\nSelect the correct paper type in the printer driver.\nAdjust the paper feed\nVertical Banding\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nAlign the print head.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00009eb-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C473001UCM~faq-00009eb-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:25.900476"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "What types of RIPs are available for my product?",
+          "answer": "There are many RIPs on the market that support EPSON printers. The RIP solution that EPSON offers and supports for the EPSON Stylus Pro 7600/9600 is the EFI Fiery Spark Professional 2.0 software RIP.\nThis RIP is available for the UltraChrome ink models only and requires a PC running Windows 2000 Professional (Service Pack 2 or later). Both Macintosh and PC clients are supported.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-47510?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C473001UCM~faq-47510",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:25.072661"
+        },
+        {
+          "question": "I don't see a Media Type setting for Epson Premium Luster Photo Paper (260) in the Epson driver. What should I do?",
+          "answer": "Download the latest printer driver, the latest firmware, and the ICC profiles from the Downloads tab for your product.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-83733?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C473001UCM~faq-83733",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:26.037510"
+        },
+        {
+          "question": "How can I share my product with other users?",
+          "answer": "We recommend sharing your printer via an Ethernet connection with the optional Epson High Speed Ethernet Print Server card (part number C12C823912 or C12C824052). This method provides many benefits, including better performance, over selecting\nPrinter Sharing\nfor a locally attached Stylus Pro 9600 printer.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-63101?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C473001UCM~faq-63101",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:26.953249"
+        },
+        {
+          "question": "Do I need the Fiery Spark Pro 2.0 RIP for my photographic workflow?",
+          "answer": "If all your work is produced as RGB, then the Fiery Spark Pro 2.0 is not necessary since the EPSON Standard Photographic printer driver should be sufficient to do the job. However, if you place your images into a page layout application such as Quark Xpress, In Design, Illustrator, or PageMaker and use PostScript fonts, then you may want to consider using the RIP.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-47511?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C473001UCM~faq-47511",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:27.858834"
+        },
+        {
+          "question": "What are the best driver settings to use with my paper type?",
+          "answer": "The SP7600/9600 driver lists most (if not all) EPSON media types. If your media type is not listed, see the documentation that came with the media. If you're using non-Epson media, please contact your vendor and ensure that the media is compatible with your printer and which driver setting will give the best results.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-47497?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C473001UCM~faq-47497",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:28.770062"
+        },
+        {
+          "question": "Why doesn't the Supplies button function properly?",
+          "answer": "The\nSupplies\nbutton is an Apple function and is not currently supported by Epson.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-63102?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C473001UCM~faq-63102",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:29.680801"
+        },
+        {
+          "question": "Why have my pre-defined paper settings changed?",
+          "answer": "If you name a custom paper setting using the same name as a pre-defined paper (like A4), the pre-defined paper settings are overwritten by the custom settings.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-63104?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C473001UCM~faq-63104",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:30.583172"
+        },
+        {
+          "question": "How do I uninstall and reinstall my printer driver in OS X 10.6?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\n>\nPrint & Fax\n.\nSelect your printer in the list, click\n, then close the open windows.\nOpen your hard drive.\nSelect\nLibrary\n>\nPrinters\n>\nEpson\n>\ninkjet printers\n, then drag the plugin for your product to the trash. If there is no plugin for your product, drag the\nEpson\nfolder to the trash. Close the open windows.\nReinstall the driver for your product.\nOpen the\nmenu, select\nSystem Preferences\n>\nPrint & Fax\n.\nClick\n, then select your printer.\nClose the open windows.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00009ff-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C473001UCM~faq-00009ff-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:31.567489"
+        },
+        {
+          "question": "How do I stop the printer from printing a nozzle check pattern before every print job?",
+          "answer": "Do the following on the product's control panel:\nPress\nMenu\ntwice, then select\nAuto Nozzle Check\n.\nPress\nMenu\n, then select\nOff",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00009e1-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C473001UCM~faq-00009e1-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:32.458988"
+        },
+        {
+          "question": "Where can I get the latest version of the Epson Communication Driver for my printer?",
+          "answer": "Download the Communication Driver from the Downloads tab on your product's support page.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00009fb-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C473001UCM~faq-00009fb-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:33.370898"
+        },
+        {
+          "question": "How do I uninstall and reinstall my printer driver in OS X 10.1, 10.2, or 10.3?",
+          "answer": "Open your hard drive, then do the following:\nSelect\nApplications\n>\nUtilities\n, then double-click\nPrinter Service Utility\n. Remove all Epson Stylus Pro paper queues from the Printers List, then close the open windows.\nSelect\nLibrary\n>\nReceipts\n, then drag the\nSProXX00.xx.pkg\nfile to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nEpson\n, then drag the plugin for your product to the trash.\nSelect\nPreferences\n>\nEpson\n, then drag files related to your product to the trash.\nClose the open windows.\nReinstall the driver for your product.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00009fe-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C473001UCM~faq-00009fe-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:34.236838"
+        },
+        {
+          "question": "I don't see a Windows 10, Windows 8.x, or Windows 7 printer driver for my product. What should I do?",
+          "answer": "There is no Windows 10, Windows 8.x, or Windows 7 printer driver available for your product. However, there may be a generic printer driver available in Windows that provides basic print options. To use this driver, your printer must be connected directly to your computer.\nNote:\nNot all features are supported in the generic printer driver.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00009dd-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C473001UCM~faq-00009dd-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:35.142088"
+        },
+        {
+          "question": "My ICC profiles do not appear in Mac OS X 10.1 to 10.6. What should I do?",
+          "answer": "The operating system may prevent the ICC profiles from installing correctly. Do the following             to copy the ICC profiles to the correct location:\nNote:\nClose all image editing software                 before you begin.\nOpen the hard drive and select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinters\n>\nICCProfiles\nfolders.\nHold down the control key on your                     keyboard and then click on the file with the .profiles suffix.\nFrom the new window, select\nShow Package Contents\n.\nNext, select the\nContents\nthen the\nResources\nfolder.\nCopy all ICC profiles in the Resources                     folder.\nOpen the hard drive and select\nLibrary\n>\nColorsync\n>\nProfiles\nfolders and then paste the copied ICC profiles.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-0000621-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C473001UCM~faq-0000621-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:36.023825"
+        },
+        {
+          "question": "How do I uninstall and reinstall the printer driver in Windows?",
+          "answer": "Do the following:\nTurn off the product.\nDisconnect any interface cables.\nDo one of the following:\nWindows 10\n: Right click\nand select\nControl Panel\n>\nPrograms\n>\nPrograms and                             Features\n.  Select the uninstall option for your Epson                         product, then select\nUninstall/Change\n.\nNote:\nIf you                             see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto                         confirm the uninstallation.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl                             Panel\n>\nPrograms\n>\nPrograms and Features\n.  Select the uninstall                         option for your Epson product, then select\nUninstall/Change\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto                         confirm the uninstallation.\nWindows (other versions)\n: Click\nor\nStart\n, and select\nAll Programs\nor\nPrograms\n.                         Select\nEPSON\n, select your product, then click\nEPSON Printer Software Uninstall\n.\nNote:\nIf you                             see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nIn the next window, select your product and click\nOK\n. Then follow any on-screen instructions.\nRestart your computer, then see the\nStart Here\nsheet or User Guide to                 re-install your software.\nIf these instructions did not solve the problem, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-0000630-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C473001UCM~faq-0000630-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:36.954520"
+        },
+        {
+          "question": "Do I need a raster image processor (RIP) to print from Adobe Illustrator?",
+          "answer": "For the best output, a RIP should be used. Adobe Illustrator is a postscript application that requires a RIP to translate the postscript language. The printer comes with a non-postscript driver that has difficulty translating the postscript language.\nEpson has partnered with the following manufacturers for some printers:\nColorBurst\nefi\nOnyx\nWasatch",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00009f1-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C473001UCM~faq-00009f1-shared",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:37.882940"
+        },
+        {
+          "question": "Do I need a raster image processor (RIP) to print from Adobe Photoshop?",
+          "answer": "No, Adobe Photoshop is not a postscript application and does not require a RIP.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00009f0-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C473001UCM~faq-00009f0-shared",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:38.799616"
+        },
+        {
+          "question": "How do I save my Epson printer driver presets so I can restore them if I reinstall the Epson printer driver in Windows?",
+          "answer": "Note:\nYou may lose some custom settings when you uninstall the printer driver.\nBefore you reinstall the printer driver, do the following:\nOpen\nFile Explorer\nor\nWindows Explorer\n.\nSelect\nThis PC\nor\nComputer\n>\nC:\ndrive >\nProgram Files\n>\nEpson\n> [your printer name].\nMove the UCI extension files to a different folder on your desktop.\nNote:\nAfter you reinstall the Epson printer driver, move the UCI extension files back to your printer's folder as described in step 2.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00009e6-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C473001UCM~faq-00009e6-shared",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:39.680026"
+        },
+        {
+          "question": "How do I install the ICC profiles in Windows XP or Windows 7?",
+          "answer": "Do the following:\nDownload the ICC profiles for your printer and save them in a folder you can easily find.\nClose all open software.\nOpen\nWindows Explorer\n, then select\nComputer\n>\nC:\ndrive >\nWindows\n>\nSystem32\n>\nspool\n>\ndrivers\n>\ncolor\n.\nMove the ICC profiles into the\ncolor\nfolder, then close all open windows.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00009E5-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C473001UCM~faq-00009E5-shared",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:40.578368"
+        },
+        {
+          "question": "How do I determine my printer driver version on my Mac?",
+          "answer": "Open the\nmenu and select\nSystem Preferences\nor\nSystem Settings\n>\nPrinters & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n. Your printer driver version is displayed.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00009e4-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C473001UCM~faq-00009e4-shared",
+          "display_order": 20,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:41.473082"
+        },
+        {
+          "question": "How do I manually install the Epson ICC profiles on my Mac?",
+          "answer": "Do the following:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinters2\n>\nICCProfiles\n.\nPress and hold the\ncontrol\nkey on your keyboard while you select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n, select and copy all files, then close all open windows.\nOpen your hard drive, select\nLibrary\n>\nColorSync\n>\nProfiles\n, then paste the files into this folder.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-0000b03-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C473001UCM~faq-0000b03-shared",
+          "display_order": 21,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:43.709734"
+        },
+        {
+          "question": "Where are the ICC profiles located for my printer on my Mac?",
+          "answer": "Do the following to locate the files:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinter2\n>\nICCProfiles\n.\nPress and hold the\nControl\nkey on your keyboard while you click the profile package in the\nICCProfiles\nfolder. In the pop-up menu that appears, select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00009ed-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C473001UCM~faq-00009ed-shared",
+          "display_order": 22,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:44.812355"
+        },
+        {
+          "question": "My print job disappears from the Windows print queue but does not print. What should I do?",
+          "answer": "Follow the steps below:\nDo one of the following:\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your printer and select\nManage\n>\nPrinting preferences\n.\nWindows 8\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the\nUtility\ntab, then\nSpeed and Progress\n.\nSelect the\nAlways Spool RAW Datatype\nand\nCoarse Rendering\ncheckboxes, then click\nOK\n.\nNote:\nIf the\nProcessed by Printer\ncheckbox is selected, deselect it.\nTry printing again.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00009e8-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C473001UCM~faq-00009e8-shared",
+          "display_order": 23,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:45.794291"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C473001UCM~faq-00004dc-shared",
+          "display_order": 24,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:46.792961"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 9,
+      "faqs": [
+        {
+          "question": "What types of printer connections can I use & what operating systems support them?",
+          "answer": "You can use the following with these operating systems:\nUSB (Windows98 SE2, Me, 2000, and XP / Macintosh OS 8.51 - 9.2.2 and OS X 10.2.4)\nParallel (Windows 95, 98, Me, NT 4.0, 2000, and XP)\nOptional Type-B Slot for Ethernet or IEEE 1394 (Firewire) interface board (Windows Me, 2000, and XP. Macintosh OS 8.51 - 9.2.2 and OS X 10.2.4). IEEE 1394 Windows support is only for Windows Me, 2000, and XP.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-47516?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C473001UCM~faq-47516",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:47.719351"
+        },
+        {
+          "question": "Why can't I service my product myself?",
+          "answer": "EPSON has made some items user-replaceable on the Stylus Pro 7600/9600, however some of the components require precision adjustments that can only be performed by a trained service technician.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-47492?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C473001UCM~faq-47492",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:48.678967"
+        },
+        {
+          "question": "What are the user replaceable parts for the 9600 and 7600?",
+          "answer": "The ink cartridges, cutter blade, and maintenance tank.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-47499?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C473001UCM~faq-47499",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:49.665158"
+        },
+        {
+          "question": "How long is my warranty period? How can I purchase an EPSON extended warranty plan?",
+          "answer": "The standard warranty period is 1 year from the date of purchase. Extended warranties are available in either 1- or 2-year increments. Extended warranties must be purchased while your printer is still under warranty. You can purchase an extended warranty by calling the EPSON Store at (800) 873-7766, accessing www.epson.com or contacting your EPSON Pro-Focus Dealer.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-47490?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C473001UCM~faq-47490",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:50.578578"
+        },
+        {
+          "question": "How should my product be prepared for shipment and storage?",
+          "answer": "If you are transporting the printer only a short distance in a horizontal position, or if you are going to store it for less than 6 months, you don't need to perform the ink draining process described on page 5-25 of the User's Guide. Instead, follow the instructions below:\nRemove any paper and the paper spindle from the printer. Power off the printer from the control panel.\nWait until the print head moves to the home position in the far right corner and the LCD display turns off.\nInstall the metal shipping bracket to secure the print head in place. If you do not have the shipping bracket, contact EPSON technical support or your dealer to request one. Make sure the head is locked in place securely so it won't slide out of home position.\nRemove the power cord from the back of the printer. Remove the ink cartridges from the ink housing and close the ink housing cover door. Tape all the covers closed so they don't open during transport.\nIf your printer is installed on the optional stand, remove the printer from the stand.\nIf you have the original shipping crate, place the printer in the crate with proper packing materials. If you do not have the original shipping crate, take extra care when packing the printer to prevent it from sustaining any shipping damage. Shipping damage caused by improper packing is not covered under warranty.\nDo not ship the ink cartridges inside the printer crate. Place the ink cartridges inside a plastic bag and ship them separately to prevent ink spills.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-47502?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C473001UCM~faq-47502",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:51.574477"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C473001UCM~faq-00004b0-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:52.477064"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C473001UCM~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C473001UCM~faq-0000f4a-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-9600---UltraChrome-Ink/s/SPT_C473001UCM",
+          "fetched_at": "2026-04-02T02:17:53.382264"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

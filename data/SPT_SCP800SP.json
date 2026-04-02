@@ -1,0 +1,913 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "SureColor Series",
+  "model": {
+    "name": "Epson SureColor P800 Screen Print Edition",
+    "sku": "SPT_SCP800SP",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "What security measures does Epson recommend for its network products?",
+          "answer": "To help deter unauthorized access to your product over a network, you should protect your network environment using appropriate security measures.\nSecurity measures such as these can help deter threats such as loss of user data, use of telephone and fax lines, and other intrusions:\nEnable security on your wireless LAN if your product supports a wireless connection\nEnable the appropriate security on the wireless LAN you plan to use with your product. Network security, such as a network password, can deter interception of traffic over the wireless LAN. Your router may already have a default password enabled by your Internet service provider (ISP). See your ISP and router documentation for instructions on how to change the default password and better secure your network.\nConnect your product only to a network protected by a firewall\nConnecting your product directly to the Internet may leave it vulnerable to security threats. Instead, connect it to a router or other networking device protected by a firewall. Your router may already have a firewall set up by your Internet service provider; check with your ISP for confirmation. For best results, set up and use a private IP address for your network connection.\nChange the default administrator password on your product\nIf your product has an option to set an administrator password, change the default administrator password to deter access by unauthorized users to personal data stored on your product, such as IDs, passwords, and contact lists. See the product's User's Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-0000a05-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCP800SP~faq-0000a05-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:00.667890"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCP800SP~faq-00004dc-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:02.830898"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "The following options are available:\nYou can use Epson software Updater (which is installed the first time you install the printer driver) to notify you when new updates are available for download. Software Updater analyzes the Epson software (drivers, utilities, firmware, etc.) installed on your computer and product, and notifies you if new updates are available for download.\nIf you've already installed a Windows printer driver, you can update the driver by selecting\nDriver Update\non the Utility tab in the printer driver settings window.*\nIf you're using a Mac, update the driver by doing one of the following:\nOS X 10.10\n,\nOS X 10.11\n,\nmacOS 10.12.x\n, or\nmacOS 10.13.x\n: Open the\nmenu and select\nApp Store\n>\nUpdates\n.\nOS X (other versions)\n: Open the\nmenu and select\nSoftware Update\n.\nYou can download the software from the Downloads tab for your product.\n*This option may not be available in all drivers.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-0000afe-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCP800SP~faq-0000afe-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:03.914960"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-00004c5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCP800SP~faq-00004c5-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:04.787336"
+        },
+        {
+          "question": "Can the printer still print if an ink cartridge is expended or not installed?",
+          "answer": "No. The printer will not operate if any cartridge is expended or removed. It's best to always have extra cartridges on hand.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-000051b-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCP800SP~faq-000051b-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:05.846060"
+        },
+        {
+          "question": "How should I handle specialty paper like fine art media?",
+          "answer": "Do the following:\nAlways use one sheet at a time.\nUse lint-free cotton gloves when handling the media.\nNever stack prints on top of each other. Use a separator sheet between prints.\nStore media flat. Never store media on its side.\nStore media in a cool, dry environment. Refer to the media specification sheet for proper temperature and humidity requirements.\nAlways follow the specific loading instructions for the media being used.\nUse the proper media type setting (EMX).\nNote:\nNon-Epson media can be optimized using custom media settings created in Epson Media Installer.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-00004B3-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCP800SP~faq-00004B3-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:06.804362"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCP800SP~faq-00004b0-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:07.976996"
+        },
+        {
+          "question": "I brought my product with me to a different country and can't find ink for it. What should I do?",
+          "answer": "Some Epson printers and ink cartridges are specific to a regional market and not sold worldwide, although the same printers are sold in the U.S. and Canada. If you have a printer sold in the U.S. or Canada, you may not be able to easily get ink cartridges for it in foreign markets.\nUnfortunately, because of customs and tax regulations, the Epson E-Stores in the U.S. and Canada are unable to ship to addresses outside the U.S. and Canada.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-0000956-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCP800SP~faq-0000956-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:08.888564"
+        },
+        {
+          "question": "How do I find my SSID and network password?",
+          "answer": "In most cases, the software installer will automatically set up your wireless connection, so you don't need to know your SSID and password. However, if it cannot determine your SSID or password, you will be prompted to set up your wireless connection manually.\nCheck your router documentation for this information. Most routers have a default SSID and password that can be modified once the router is set up.\nNote:\nThe SSID is the name of the wireless network that is set up on your router or access point.\nIf you don't know this information, you need to contact the manufacturer of your router or the person who set up your network.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-00009c6-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCP800SP~faq-00009c6-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:10.001645"
+        },
+        {
+          "question": "How do I add my product as an IP printer on my Mac?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n.\nSelect your printer, if necessary.\nClick\n+\nor\nAdd Printer, Scanner, or Fax\nand select\nIP\non the toolbar.\nSelect a protocol. If you do not know which protocol to choose, leave it as\nLine Printer Daemon-LPD\n.\nClick the\nAddress\nfield and enter your printer's IP address. You see the message\nGathering printer information\nas your Mac connects to the printer.\nClick\nAdd\nafter your printer appears in the Use field to create a printer queue. If your printer does not appear in the Use field, select\nAuto Select\nfrom the drop-down box.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-00004ba-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCP800SP~faq-00004ba-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:10.955221"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Cloud or Mobile",
+      "section_id": "8796127340620",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Where can I find information on using my Epson product with Google Cloud Print?",
+          "answer": "See our\nGoogle Cloud Print Support\npage.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-000049e-shared?faq_cat=faq-8796127340620",
+          "faq_slug": "SPT_SCP800SP~faq-000049e-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:11.971697"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "How do I set up my product for the fastest printing?",
+          "answer": "If printing becomes slow, try these solutions:\nMake sure your system meets the requirements for your operating system. If you are printing a high-resolution image, you may need more than the minimum requirements. If necessary, increase your system's memory.\nIf you are using Windows 7, close the\nDevices and Printers\nwindow before you print.\nIf you are using OS X, make sure you download and install the Epson printer driver.\nClear space on your hard drive or run a defragmentation utility to free up existing space.\nClose any programs you are not using when you print.\nIf your product is connected to a USB hub, connect it directly to your computer instead.\nIf printing becomes slower after printing continuously for a long time, the product may have automatically slowed down to protect the print mechanism from overheating or becoming damaged. Let the product rest with the power on for 30 minutes, then try printing again.\nFor the fastest printing, select the following settings in your product software:\nMake sure the paper type setting matches the type of paper you loaded.\nTurn on any high speed settings in your product software.\nSelect a lower print quality setting.\nWindows\n: Click the\nMaintenance\nor\nUtility\ntab, select\nExtended Settings\nor\nSpeed and Progress\n, and select the following settings:\nHigh Speed Copies\nAlways Spool RAW Datatype\nPage Rendering Mode\nPrint as Bitmap\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Additional Settings - Windows\nSelecting Basic Print Settings - OS X\nRelated references\nPaper or Media Type Settings - Product Software\nPaper or Media Type Settings - Control Panel\nWindows System Requirements\nOS X System Requirements",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293439?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_SCP800SP~faq-293439",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:13.012881"
+        },
+        {
+          "question": "I was able to print from my Mac before with a USB connection, but now I can't. What should I do?",
+          "answer": "The problem can be caused by your printer, the connection, or the computer. Do the following:\nTo determine if the printer can print without a computer, print a\nnozzle check pattern\nfrom the product's control panel.\nIf you can print, go to the next step.\nIf you can't print a nozzle check pattern, check the product's LCD for\nerror messages\n. Clear any errors displayed on the LCD, then try printing a nozzle check pattern again. If you still can't print, contact Epson support.\nDelete any pending print job(s) from the Epson print queue\n, then try printing again.\nIf you can print now, you're done, and you can skip the remaining steps.\nIf you can't print, go to the next step.\nDelete and re-add the print queue. Open the\nmenu, and select\nSystem Preferences\n, then\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n. Select your printer, then click the\nbutton. Click the\nbutton, select your printer, then click\nAdd\n. Close the\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\nwindow, then try printing again.\nIf you can print now, you're done, and you can skip the remaining steps.\nIf you can't print, go to the next step.\nTurn off your product and make sure the USB cable is securely connected. Then turn on your product and try printing again.\nIf that doesn't help, make sure the USB cable is a shielded cable no more than 6.5 feet (2 meters) long, connect the cable to another USB port on your computer, and/or use a different cable. Then try printing again.\nNote:\nIf you're using a hub or switchbox, connect the product directly to your computer.\nIf you can print now, you're done.\nIf you still can't print, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293157?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_SCP800SP~faq-293157",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:13.934529"
+        },
+        {
+          "question": "Printing is slow or my product stops printing when I try to print from Windows or OS X. What should I do?",
+          "answer": "Try the following:\nMake sure your system meets the requirements for your operating system. If you are printing a high-resolution image, you may need more than the minimum requirements. If necessary, increase your system's memory.\nIf you're using Windows 7, close the\nDevices and Printers\nwindow before you print.\nClear space on your hard drive or run the defragmentation utility to free up existing space.\nClose any programs that you're not using when you print.\nIf your product is connected to a USB hub, connect it directly to your computer instead.\nIf printing becomes slower after printing continuously for a long time, the product may have automatically slowed down to protect the print mechanism from overheating or becoming damaged. Let the product rest with the power on for 30 minutes, then try printing again.\nIf the steps above did not help, and you're using Windows 7, Windows Vista, or Windows XP, delete the\nEPAUDF01.AUD\nfile as described below.\nDo one of the following:\nWindows 7\nor\nWindows Vista\n: Click\n, then select\nComputer\nor\nMy Computer\n. Double-click the\nC:\ndrive, then open the folders\nProgramData\n>\nEPSON\n>\nPRINTER\n.\nNote:\nIf you don't see the ProgramData folder, select\nFolder and search options\nfrom the Organize menu. A new window appears. Click the\nView\ntab, then select\nShow hidden files, folders, and drives\nin the Advanced settings. Click\nOK\n.\nWindows XP\n: Click\nStart\n, then select\nMy Computer\n. Double-click the\nC:\ndrive, then open the folders\nDocuments and Settings\n>\nAll Users\n>\nApplication Data\n>\nEPSON\n>\nPRINTER\n.\nNote:\nIf you don't see the Application Data folder, select\nFolder Options\nfrom the Tools menu. A new window appears. Click the\nView\ntab, then select\nShow hidden files, folders, and drives\nin the Advanced settings. Click\nOK\n.\nRight-click the\nEPAUDF01.AUD\nfile, then select\nDelete\n.\nRestart your computer.\nTry printing again.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293130?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_SCP800SP~faq-293130",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:14.906659"
+        },
+        {
+          "question": "Printing is slow over my wireless connection. What should I do?",
+          "answer": "Try the following:\nMove the computer and your Epson product closer to your wireless router or access point.\nDon't place the computer, product, or wireless access point near microwaves, cordless telephones, or other sources of wireless interference.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293140?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_SCP800SP~faq-293140",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:15.873694"
+        },
+        {
+          "question": "I was able to print from Windows before with a USB connection, but now I can't. What should I do?",
+          "answer": "The problem can be caused by your printer, the connection, or the computer. Do the following:\nTo determine if the printer can print without a computer, print a\nnozzle check pattern\nfrom the product's control panel.\nIf you can print, go to the next step.\nIf you can't print a nozzle check pattern, check the product's LCD for\nerror messages\n. Clear any errors displayed on the LCD, then try printing a nozzle check pattern again. If you still can't print, contact Epson support.\nDelete any pending print job(s) from the Epson print queue\n, then try printing again.\nIf you can print now, you're done, and you can skip the remaining steps.\nIf you can't print, go to the next step.\nTurn off your product and make sure the USB cable is securely connected, then try printing again.\nIf that doesn't help, make sure the USB cable is a shielded cable no more than 6.5 feet (2 meters) long, connect the cable to another USB port on your computer, and/or use a different cable. Then try printing again.\nNote:\nIf you're using a hub or switchbox, connect the product directly to your computer.\nIf you can print now, you're done, and you can skip the remaining steps.\nIf you can't print, go to the next step.\nSet your product as the default printer.\nWindows 10\n: Right-click\nand select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your product icon and select\nSet as Default Printer\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your product icon and select\nSet as Default Printer\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your product icon and select\nSet as Default Printer\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your product icon and select\nSet as Default Printer\n.\nWindows XP\n: Click\nStart\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n. Right-click your product icon and select\nSet as Default Printer\n.\nNote:\nIf there is more than one icon for your printer, select the icon that is not faded (or is in a Ready or Active state) to be your default printer. You can delete any duplicate icons that are faded or in an Offline state by right-clicking the icon and selecting\nDelete\n.\nIf you still can't print, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293156?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_SCP800SP~faq-293156",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:16.906909"
+        },
+        {
+          "question": "I can print with a wireless connection on my home network, but not on a VPN (virtual private network). What should I do?",
+          "answer": "When you connect to a VPN, your computer is no longer communicating with your home (local) network, so it can't print to the product. Some VPNs allow for access to the local network. This depends on if your VPN supports the feature and is enabled. Consult with the supporter of your VPN software (such as your IT department) for help. Otherwise, disconnect from your VPN to connect to your home network again to print.\nNote:\nIf you set up your product with Epson Connect, you can use Epson Remote Print to print over the Internet from a VPN. To download the Epson Remote Print driver, see the Downloads tab on your product's support page.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-0000504-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_SCP800SP~faq-0000504-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:17.875401"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "I see the message Printer is Offline when I try to print with a USB connection on my Mac. What should I do?",
+          "answer": "The problem can be caused by your printer, the connection, or the computer. Do the following:\nTo determine if the printer can print without a computer, print a\nnozzle check pattern\nfrom the product's control panel.\nIf you can print, go to the next step.\nIf you can't print a nozzle check pattern, check the product's LCD for\nerror messages\n. Clear any errors displayed on the LCD, then try printing a nozzle check pattern again. If you still can't print, contact Epson support.\nDelete any pending print job(s) from the Epson print queue\n, then try printing again.\nIf you can print now, you're done, and you can skip the remaining steps.\nIf you can't print, go to the next step.\nDelete and re-add the print queue. Open the\nmenu, and select\nSystem Preferences\n, then\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n. Select your printer, then click the\nbutton. Click the\nbutton, select your printer, then click\nAdd\n. Close the\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\nwindow, then try printing again.\nIf you can print now, you're done, and you can skip the remaining steps.\nIf you can't print, go to the next step.\nTurn off your product and make sure the USB cable is securely connected. Then turn on your product and try printing again.\nIf that doesn't help, make sure the USB cable is a shielded cable no more than 6.5 feet (2 meters) long, connect the cable to another USB port on your computer, and/or use a different cable. Then try printing again.\nNote:\nIf you're using a hub or switchbox, connect the product directly to your computer.\nIf you can print now, you're done.\nIf you still can't print, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293150?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SCP800SP~faq-293150",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:18.832600"
+        },
+        {
+          "question": "I see the message Printer is Offline when I try to print with an Ethernet connection in Windows. What should I do?",
+          "answer": "The problem can be caused by your printer or computer. Do the following:\nTo determine if the printer can print without a computer, print a\nnozzle check pattern\nfrom the product's control panel.\nIf you can print, go to the next step.\nIf you can't print a nozzle check pattern, check the product's LCD for\nerror messages\n. Clear any errors displayed on the LCD, then try printing a nozzle check pattern again. If you still can't print, contact Epson support.\nDelete any pending print job(s) from the Epson print queue\n, then try printing again.\nIf you can print now, you're done, and you can skip the remaining steps.\nIf you can't print, go to the next step.\nSet your product as the default printer.\nWindows 10\n: Right-click\nand select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your product icon and select\nSet as Default Printer\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer icon and select\nSet as Default Printer\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer icon and select\nSet as Default Printer\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer icon and select\nSet as Default Printer\nWindows XP\n: Click\nStart\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n. Right-click your printer icon and select\nSet as Default Printer\n.\nNote:\nIf there is more than one icon for your printer, select the icon that is not faded (or is in a Ready or Active state) to be your default printer. You can delete any duplicate icons that are faded or in an Offline state by right-clicking the icon and selecting\nDelete\n.\nIf you still can't print, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293149?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SCP800SP~faq-293149",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:19.820024"
+        },
+        {
+          "question": "I see the message Printer is Offline when I try to print with a wireless (Wi-Fi) connection on my Mac. What should I do?",
+          "answer": "The problem can be caused by your printer, computer, or wireless network. Do the following:\nTo determine if the printer can print without a computer, print a\nnozzle check pattern\nfrom the product's control panel.\nIf you can print, go to the next step.\nIf you can't print a nozzle check pattern, check the product's LCD for\nerror messages\n. Clear any errors displayed on the LCD, then try printing a nozzle check pattern again. If you still can't print, contact Epson support.\nDelete any pending print job(s) from the Epson print queue\nand then try printing again.\nIf you can print now, you're done, and you can skip the remaining steps.\nIf you can't print, go to the next step.\nOn your Mac, open the\nmenu and select\nSystem Preferences\n. Select\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\nwindow, select your printer, then click\nto remove the printer. Click\n, select your printer with Kind set as\nBonjour\n, select your printer from the Use drop-down list, then click\nAdd\n. This will add the printer back on the printer queue. Then try printing again.\nIf you can print now, you're done, and you can skip the remaining steps.\nIf you still can't print, check the Wi-Fi icon on the product's control panel, then do one of the following:\nIf the Wi-Fi icon\nis displayed, follow the instructions in the\nInitialize Your Router and Restart Your Computer\nsection below.\nIf the Wi-Fi icon\nis displayed, follow the instructions in the\nReinstall the Product Software\nsection below.\nInitialize Your Router and Restart Your Computer\nUnplug your router's power cord from the power outlet, wait a brief period, then plug it back in. Try to print. You may need to re-establish the connection for the other devices on your network.\nIf you can print, you're done. The problem was resolved by initializing your router.\nIf you still can't print, restart your computer, then try printing again. If these steps do not resolve your problem, contact Epson support.\nReinstall the Product Software\nImportant\n: You'll need to know your network name (SSID) and network password before you can set up your product. If you don't know them, contact the manufacturer of your router or the person who set up your network. If you are using a 5 GHz wireless router, set the router to operate in dual band (2.4 GHz and 5 GHz) mode. See your router documentation for instructions.\nReset the product's Wi-Fi settings on the product's control panel by doing the following:\nPress the\nhome button, if necessary. Select\nsetup >\nSystem Administration\n>\nRestore Default Settings\n>\nNetwork Settings\n>\nYes\n.\nOn your Mac, open the\nmenu and select\nSystem Preferences\n. Select the\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\nwindow, select your printer, then click\nto remove the printer.\nIn\nSystem Preferences\n, click either\nSecurity & Privacy\nor\nSecurity\n. Select the\nFirewall\ntab, then disable the firewall.\nIf you have other firewall software enabled, you'll also need to disable it. If you don't know how to disable it, contact your firewall provider for help.\nNote:\nThis step is needed to install the product's software and complete the Wi-Fi setup. Remember to enable your firewall software after you complete the Wi-Fi setup.\nUnplug your router's power cord from the power outlet, wait a brief period, then plug it back in. You may need to re-establish the connection for the other devices on your network.\nDownload the\nDrivers and Utilities Combo Package\nfrom the Downloads tab for your product.\nNote:\nMake a note of the file name and save the location so you can easily retrieve it.\nOpen the file you downloaded and follow the on-screen instructions. When you see the Select Your Connection screen, select\nWireless connection\n, click\nContinue\n, then follow the on-screen instructions.\nWhen you see the Select Setup Option screen, select\nSet up printer for the first time\n, click\nContinue\n, then follow the on-screen instructions to complete the installation.\nIf you see this screen, click\nOptions\n.\nAfter you complete the Wi-Fi setup, turn your firewall back on. If these troubleshooting instructions did not solve the problem, please contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293160?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SCP800SP~faq-293160",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:20.761774"
+        },
+        {
+          "question": "I see the message Printer is Offline when I try to print with a USB connection in Windows. What should I do?",
+          "answer": "The problem can be caused by your printer, the connection, or the computer. Do the following:\nTo determine if the printer can print without a computer, print a\nnozzle check pattern\nfrom the product's control panel.\nIf you can print, go to the next step.\nIf you can't print a nozzle check pattern, check the product's LCD for\nerror messages\n. Clear any errors displayed on the LCD, then try printing a nozzle check pattern again. If you still can't print, contact Epson support.\nDelete any pending print job(s) from the Epson print queue\n, then try printing again.\nIf you can print now, you're done, and you can skip the remaining steps.\nIf you can't print, go to the next step.\nTurn off your product and make sure the USB cable is securely connected, then try printing again.\nIf that doesn't help, make sure the USB cable is a shielded cable no more than 6.5 feet (2 meters) long, connect the cable to another USB port on your computer, and/or use a different cable. Then try printing again.\nNote:\nIf you're using a hub or switchbox, connect the product directly to your computer.\nIf you can print now, you're done, and you can skip the remaining steps.\nIf you can't print, go to the next step.\nSet your product as the default printer.\nWindows 10\n: Right-click\nand select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your product icon and select\nSet as Default Printer\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your product icon and select\nSet as Default Printer\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your product icon and select\nSet as Default Printer\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your product icon and select\nSet as Default Printer\n.\nWindows XP\n: Click\nStart\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n. Right-click your product icon and select\nSet as Default Printer\n.\nNote:\nIf there is more than one icon for your printer, select the icon that is not faded (or is in a Ready or Active state) to be your default printer. You can delete any duplicate icons that are faded or in an Offline state by right-clicking the icon and selecting\nDelete\n.\nIf you still can't print, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293151?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SCP800SP~faq-293151",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:21.902532"
+        },
+        {
+          "question": "I see the message Printer is Offline when I try to print with a wireless (Wi-Fi) connection in Windows. What should I do?",
+          "answer": "The problem can be caused by your printer, computer, or wireless network. Do the following:\nTo determine if the printer can print without a computer, print a\nnozzle check pattern\nfrom the product's control panel.\nIf you can print, go to the next step.\nIf you can't print a nozzle check pattern, check the product's LCD for\nerror messages\n. Clear any errors displayed on the LCD, then try printing a nozzle check pattern again. If you still can't print, contact Epson support.\nDelete any pending print job(s) from the Epson print queue\nand then try printing again.\nIf you can print, you're done, and you can skip the remaining steps.\nIf you still can't print, check the Wi-Fi icon on the product's control panel, then do one of the following:\nIf the Wi-Fi icon\nis displayed, follow the instructions in the\nInitialize Your Router and Restart Your Computer\nsection below.\nIf the Wi-Fi icon\nis displayed, follow the instructions in the\nReinstall the Product Software\nsection below.\nInitialize Your Router and Restart Your Computer\nUnplug your router's power cord from the power outlet, wait a brief period, then plug it back in. Try to print. You may need to re-establish the connection for the other devices on your network.\nIf you can print, you're done. The problem was resolved by initializing your router.\nIf you still can't print, restart your computer, then try printing again. If these steps do not resolve your problem, contact Epson support.\nReinstall the Product Software\nImportant:\nYou'll need to know your network name (SSID) and network password before you can set up your product. If you don't know them, contact the manufacturer of your router or the person who set up your network. If you are using a 5 GHz wireless router, set the router to operate in dual band (2.4 GHz and 5 GHz) mode. See your router documentation for instructions.\nReset the product's Wi-Fi settings on the product's control panel by doing the following:\nPress the\nhome button, if necessary. Select\nsetup >\nSystem Administration\n>\nRestore Default Settings\n>\nNetwork Settings\n>\nYes\n.\nTurn off the product and disconnect any interface cables.\nDo one of the following:\nWindows 10\n: Right-click\nand select\nControl Panel\n>\nSystem and Security\n>\nWindows Firewall\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nWindows Firewall\n.\nWindows (other versions)\n: Select\nor\nStart\n>\nControl Panel\n>\nSystem and Security\n>\nWindows Firewall\n.\nDisable the firewall.\nIf you have other firewall software enabled, you'll also need to disable it. If you don't know how to disable it, contact your firewall provider for help.\nNote:\nThis step is needed to install the product's software and complete the Wi-Fi setup. Remember to enable your firewall software after you complete the Wi-Fi setup.\nDo one of the following:\nWindows 10\n: Right-click\nand select\nControl Panel\n>\nPrograms\n>\nPrograms and Features\n. Select the uninstall option for your Epson product, then select\nUninstall/Change\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto confirm the uninstallation.\nWindows 8.x\n: Navigate to the\nApps\nscreen, select\nControl Panel\n>\nPrograms\n>\nPrograms and Features\n. Select the uninstall option for your Epson product, then select\nUninstall/Change\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nIn the next window, select your product, if necessary, then click\nOK\n. Then follow any on-screen instructions.\nWindows (other versions)\n: Click\nor\nStart\n, and select\nAll Programs\nor\nPrograms\n. Select\nEpson\n, select your product, then select\nEPSON Printer Software Uninstall\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nIn the next window, select your product and click\nOK\n. Then follow any on-screen instructions.\nUnplug your router's power cord from the power outlet, wait a brief period, then plug it back in. You may need to re-establish the connection for the other devices on your network.\nDownload the\nDrivers and Utilities Combo Package\nfrom the Downloads tab for your product. Make a note of the file name and save the location so you can retrieve it.\nOpen the file you downloaded and follow the on-screen instructions. When you see the Select Your Connection screen, select\nWireless connection\n, then click\nNext\n.\nWhen you see the Select Setup Option screen, select\nSet up printer for the first time\n, then click\nNext\n.\nIf you see this screen, click\nOptions\n.\nWhen you see the Select a Wireless Network Setup Method screen, follow the on-screen instructions to complete the installation.\nAfter you complete the Wi-Fi setup, turn your firewall back on. If these troubleshooting instructions did not solve the problem, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293162?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SCP800SP~faq-293162",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:22.876020"
+        },
+        {
+          "question": "I see the message Printer is Offline when I try to print with an Ethernet connection on my Mac. What should I do?",
+          "answer": "The problem can be caused by your printer or the computer. Do the following:\nTo determine if the printer can print without a computer, print a\nnozzle check pattern\nfrom the product's control panel.\nIf you can print, go to the next step.\nIf you can't print a nozzle check pattern, check the product's LCD for\nerror messages\n. Clear any errors displayed on the LCD, then try printing a nozzle check pattern again. If you still can't print, contact Epson support.\nDelete any pending print job(s) from the Epson print queue\n, then try printing again.\nIf you can print now, you're done, and you can skip the remaining steps.\nIf you can't print, go to the next step.\nDelete and re-add the print queue. Open the\nmenu, and select\nSystem Preferences\n, then\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n. Select your printer, then click the\nbutton. Click the\nbutton, select your printer, then click\nAdd\n. Close the\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\nwindow, then try printing again.\nIf you can print now, you're done.\nIf you still can't print, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293148?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SCP800SP~faq-293148",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:23.868412"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SCP800SP~faq-00004c5-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:23.181576"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "How do I know when an ink cartridge needs to be replaced?",
+          "answer": "The printer's LCD screen will display a message when one or more of the ink cartridges are low or expended.\nYou may also see a message on your computer screen.\nNote:\nIf any cartridge installed in the product is broken, incompatible with the product model, or improperly installed, Epson Status Monitor will not display an accurate cartridge status.\nYou may also need to replace a cartridge that is more than six months old if your printouts do not look their best even after cleaning and aligning the print head.\nRelated concepts\nCheck Cartridge Status",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293093?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP800SP~faq-293093",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:24.132204"
+        },
+        {
+          "question": "How long should an ink cartridge remain in my product if it's not used often?",
+          "answer": "When an installed ink cartridge is more than six months old, you may need to replace it. If you notice that your printouts don't look as good as they used to and quality doesn't improve after cleaning and aligning the print head, replace the ink cartridges.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293089?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP800SP~faq-293089",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:25.235968"
+        },
+        {
+          "question": "The color ink cartridge is expended even though I print in black only. Why does this happen?",
+          "answer": "To keep the print head clear and ready to print, the printer uses a small amount of ink from all the cartridges whenever it prints. Even if you select\nAdvanced B&W Photo\nor\nGrayscale\n, some color ink is still being used.\nEpson printers contain a permanent print head that needs to be charged with all colors to work. Even when you are printing black text only, a small amount of color ink is used to keep the print head charged. The print head needs to be kept charged to prevent air bubbles from entering. Air bubbles can damage the print head.\nTherefore, once one of the cartridges is expended, the printer signals you to replace the cartridge in order for printing to continue.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293087?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP800SP~faq-293087",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:26.144397"
+        },
+        {
+          "question": "Which ink cartridges should I use for screen printing?",
+          "answer": "See below. The SureColor P800 Screen Print Edition uses the same ink cartridges as the standard SureColor P800.\nInk Cartridge and Maintenance Box Part Numbers\nUse these part numbers when you order or purchase a new maintenance box or ink cartridges.\nNote:\nFor best printing results, use up a cartridge within 6 months of opening the package.\nInk color\nPart number\nPhoto Black\nT8501\nCyan\nT8502\nVivid Magenta\nT8503\nYellow\nT8504\nLight Cyan\nT8505\nVivid Light Magenta\nT8506\nLight Black\nT8507\nMatte Black\nT8508\nLight Light Black\nT8509\nMaintenance box part number: T582000",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293169?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP800SP~faq-293169",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:27.024122"
+        },
+        {
+          "question": "What is my product doing after I install a new ink cartridge?",
+          "answer": "It takes about 10 minutes for the printer to charge the ink delivery system when you install the first set of ink cartridges.\nWhen you replace an ink cartridge, the printer takes a few minutes to charge the ink delivery system.\nNote:\nNever turn off the printer while it is charging the ink delivery system. This initialization is a normal and necessary process. However, if the printer has not moved or made noise for longer than the times listed below, turn the printer off and on, then check if charging is still in progress.\nIf you’re installing the first set of ink cartridges: 15 minutes\nIf you're replacing an ink cartridge: 5 minutes\nIf charging is still in progress, contact Epson.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293094?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP800SP~faq-293094",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:28.016676"
+        },
+        {
+          "question": "Why is Epson shipping initial ink cartridges with my product?",
+          "answer": "The cartridges included with the printer are designed for printer setup and not for resale. After some ink is used for charging, the rest is available for printing.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293088?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP800SP~faq-293088",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:28.937355"
+        },
+        {
+          "question": "Does my product automatically switch to the correct black ink cartridge (Matte Black or Photo Black) when I select the media type in my product software?",
+          "answer": "Yes, the printer will automatically switch to the correct black ink.\nYou can also switch the black ink type manually. See below.\nNote:\nBecause this process consumes some ink, you should avoid switching black ink more often than necessary and select a default black ink type for the type of media you print on most often. You can disable automatic black ink switching by pressing the\nsetup button and selecting\nSystem Administration\n>\nPrinter Settings\n>\nBK Ink Auto Change\n>\nOff\n.\nRelated references\nBlack Ink Type Media List\nSwitching the Black Ink Type\nSwitching the black ink type takes several minutes and consumes some ink. Check the black ink type media list to select the correct ink type for the media you loaded.\nPress the\nhome button.\nPress the\nblack ink change button.\nSelect\nProceed\nand select one of these types of black ink to switch to:\nPhoto Black to Matte Black; switching takes about 1.5 minutes\nMatte Black to Photo Black; switching takes about 3.5 minutes",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293091?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP800SP~faq-293091",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:29.877121"
+        },
+        {
+          "question": "Which ink cartridges should I use with my product?",
+          "answer": "See below.\nInk Cartridge and Maintenance Box Part Numbers\nUse these part numbers when you order or purchase a new maintenance box or ink cartridges.\nNote:\nFor best printing results, use up a cartridge within 6 months of opening the package.\nInk color\nPart number\nPhoto Black\nT8501\nCyan\nT8502\nVivid Magenta\nT8503\nYellow\nT8504\nLight Cyan\nT8505\nVivid Light Magenta\nT8506\nLight Black\nT8507\nMatte Black\nT8508\nLight Light Black\nT8509\nMaintenance box part number: T582000",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293455?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP800SP~faq-293455",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:30.919329"
+        },
+        {
+          "question": "When should I switch the black ink type to Matte Black?",
+          "answer": "You should switch when printing on non-glossy paper, such as Epson Presentation Paper Matte or Epson Velvet Fine Art Paper. Matte Black (MK) ink produces better black ink density on these paper types than Photo Black (PK) ink. See the link below for a list of Matte Black ink and Photo Black ink media types.\nYou need to switch the black ink type only if you disabled automatic black ink switching. Because this process consumes some ink, you should avoid switching black ink more often than necessary and select a default black ink type for the type of media you print on most often.\nNote:\nTo disable or enable automatic black ink switching, press the\nsetup button and select\nSystem Administration\n>\nPrinter Settings\n>\nBK Ink Auto Change\n, then select\nOff\nor\nOn\n.\nRelated references\nBlack Ink Type Media List",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293092?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP800SP~faq-293092",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:31.936835"
+        },
+        {
+          "question": "How can I prevent the Epson UltraChrome ink on the Epson Screen Positive Film from sticking to the emulsion layer of the screen?",
+          "answer": "This may happen if moisture collects on the film or the emulsion. Try the following:\nAllow more time for the emulsion to dry.\nExpose the screen positive film in an environment where the relative humidity is no higher than 55%. Use a dehumidifier to lower the humidity in the room, or move the film to a less humid area.\nUse an emulsion exposure calculator to determine the appropriate exposure time. The screen may have been exposed for too long.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-0000433-scp800sp?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP800SP~faq-0000433-scp800sp",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:32.927245"
+        },
+        {
+          "question": "Why does it take a long time for Epson UltraChrome ink to dry on Epson Screen Positive Film?",
+          "answer": "In high humidity environments, Epson UltraChrome ink takes longer to dry on Epson Screen             Positive Film. For optimal results, print in a controlled environment where the relative             humidity is no higher than 55%.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-000065D-scp800sp?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP800SP~faq-000065D-scp800sp",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:33.853985"
+        },
+        {
+          "question": "Can the printer still print if an ink cartridge is expended or not installed?",
+          "answer": "No. The printer will not operate if any cartridge is expended or removed. It's best to always have extra cartridges on hand.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-000051b-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP800SP~faq-000051b-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:34.822354"
+        },
+        {
+          "question": "I brought my product with me to a different country and can't find ink for it. What should I do?",
+          "answer": "Some Epson printers and ink cartridges are specific to a regional market and not sold worldwide, although the same printers are sold in the U.S. and Canada. If you have a printer sold in the U.S. or Canada, you may not be able to easily get ink cartridges for it in foreign markets.\nUnfortunately, because of customs and tax regulations, the Epson E-Stores in the U.S. and Canada are unable to ship to addresses outside the U.S. and Canada.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-0000956-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP800SP~faq-0000956-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:35.752828"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "Does the type of paper I use really make a difference?",
+          "answer": "The type of paper you choose affects the way your printout looks, so be sure to select the correct paper for your print job. If you are just printing a rough draft of an image, plain paper is fine. However, for the best results, you'll want to use one of Epson's special ink jet papers. For example, your photos will look great printed on\nEpson Premium Photo Paper Glossy\n.\nAvailable Epson Papers\nNote:\nPaper/media availability varies by country.\nPaper Type\nSize\nPart number\nSheet count\nEpson Bright White Paper\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041586\n500\nEpson Cold Press Bright\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041111\n100\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042307\n25\n13 × 19 inches (330 × 483 mm)\nS042310\n25\n17 × 22 inches (432 × 559 mm)\nS042311\n25\nEpson Cold Press Natural\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042297\n25\n13 × 19 inches (330 × 483 mm)\nS042300\n25\n17 × 22 inches (432 × 559 mm)\nS042301\n25\nEpson Velvet Fine Art Paper\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041636\n20\n13 × 19 inches (330 × 483 mm)\nS041637\n20\n17 × 22 inches (432 × 559 mm)\nS042097\n25\nEpson Exhibition Fiber Paper\nLetter (8.5 × 11 inches [216 × 279 mm])\nS045033\n25\n13 × 19 inches (330 × 483 mm)\nS045037\n25\n17 × 22 inches (432 × 559 mm)\nS045039\n25\nEpson Hot Press Bright\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042327\n25\n13 × 19 inches (330 × 483 mm)\nS042330\n25\n17 × 22 inches (432 × 559 mm)\nS042331\n25\nEpson Hot Press Natural\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042317\n25\n13 × 19 inches (330 × 483 mm)\nS042320\n25\n17 × 22 inches (432 × 559 mm)\nS042321\n25\nEpson Exhibition Watercolor Paper Textured\nLetter (8.5 × 11 inches [216 × 279 mm])\nS045486\n25\n13 × 19 inches (330 × 483 mm)\nS045487\n20\n17 × 22 inches (432 × 559 mm)\nS045488\n25\nEpson Brochure & Flyer Paper Matte Double-sided\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042384\n150\nEpson (Consumer) Sample Media Pack\nVarious sizes\nSMP603\nVarious quantities\nEpson Photo Quality Self-adhesive Sheets\nA4 (8.3 × 11.7 inches [210 × 297 mm])\nS041106\n10\nPhoto Quality Ink Jet Cards\nA6 (4.1 × 5.8 inches [105 × 148 mm])\nS041054\n50\nEpson Ultra Premium Photo Paper Glossy\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042175\n20\n8 × 10 inches (203 × 254 mm)\nS041946\n20\nEpson Premium Luster Photo Paper (260)\n8.3 inches (211 mm) × 32 feet (9.8 m)\nS041408\n1 roll\n13 inches (330 mm) × 32 feet (9.8 m)\nS041409\n1 roll\n10 inches (254 mm) × 100 feet (30.5 m)\nS042077\n1 roll\nEpson Metallic Photo Paper Glossy\nLetter (8.5 × 11 inches [216 × 279 mm])\nS045589\n25\n13 × 19 inches (330 × 483 mm)\nS045590\n25\n17 × 22 inches (432 × 559 mm)\nS045591\n25\nEpson Metallic Photo Paper Luster\nLetter (8.5 × 11 inches [216 × 279 mm])\nS045516\n25\n13 × 19 inches (330 × 483 mm)\nS045517\n25\n17 × 22 inches (432 × 559 mm)\nS045598\n25\nEpson Photo Paper Glossy\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041649\n50\n11 × 17 inches (279 × 432 mm)\nS041156\n20\n13 × 19 inches (330 × 483 mm)\nS041143\n20\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041271\n100\nEpson Premium Photo Paper Glossy\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041286\n20\nA3 (11.7 × 16.5 inches [297 × 420 mm])\nS041288\n20\n13 × 19 inches (330 × 483 mm)\nS041289\n20\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041667\n50\n11 × 17 inches (279 × 432 mm)\nS041290\n20\n4 × 6 inches (102 × 152 mm)\nS041727\n100\n5 × 7 inches (127 × 178 mm)\nS041464\n20\n8 × 10 inches (203 × 254 mm)\nS041465\n20\n11 × 14 inches (279 × 356 mm)\nS041466\n20\n17 × 22 inches (432 × 559 mm)\nS042092\n25\nEpson Premium Photo Paper Semi-gloss\n4 × 6 inches (102 × 152 mm)\nS041982\n40\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041331\n20\n13 × 19 inches (330 × 483 mm)\nS041327\n20\n8 × 10 inches (203 × 254 mm)\nS041467\n50\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041257\n50\n11 × 14 inches (279 × 356 mm)\nS041468\n50\nA3 (11.7 × 16.5 inches [297 × 420 mm])\nS041260\n50\n13 × 19 inches (330 × 483 mm)\nS041263\n50\n17 × 22 inches (432 × 559 mm)\nS042124\n25\nEpson Premium Presentation Paper Matte Double-sided\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041568\n50\nEpson Premium Presentation Paper Matte\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041062\n100\nLegal (8.5 × 14 inches [216 × 356 mm])\nS041067\n100\n11 × 17 inches (279 × 432 mm)\nS041070\n100\n13 × 19 inches (330 × 483 mm)\nS041069\n100\n16.5 × 23.4 inches (420 × 594 mm)\nS041079\n30\n17 × 22 inches (432 × 559 mm)\nS041171\n100\nEpson Proofing Paper White Semimatte\n13 × 19 inches (330 × 483 mm)\nS045115\n100\n13 inches (300 mm) × 100 feet (30.5 m)\nS042002\n1 roll\nEpson Standard Proofing Paper Publication\n13 inches (300 mm) × 100 feet (30.5 m)\nS041996\n1 roll\nEpson Standard Proofing Paper Commercial\n13 inches (300 mm) × 100 feet (30.5 m)\nS042144\n1 roll\nEpson Signature Worthy Sample Pack\nLetter (8.5 × 11 inches [216 × 279 mm])\nS045234\n14\nEpson Standard Proofing Paper (240)\n13 × 19 inches (330 × 483 mm)\nS045115\n100\nEpson Ultra Premium Photo Paper Luster\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041405\n50\nA3 (11.7 × 16.5 inches [297 × 420 mm])\nS041406\n50\n13 × 19 inches (330 × 483 mm)\nS041407\n50\n13 × 19 inches (330 × 483 mm)\nS041604\n100\n17 × 22 inches (432 × 559 mm)\nS042084\n25\n13 inches (330 mm) × 32.8 feet (10 m)\nS041409\n1 roll\nEpson Ultra Premium Presentation Paper Matte\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041341\n50\nA3 (11.7 × 16.5 inches [297 × 420 mm])\nS041343\n50\n13 × 19 inches (330 × 483 mm)\nS041339\n50\n13 × 19 inches (330 × 483 mm)\nS041605\n100\n17 × 22 inches (432 × 559 mm)\nS041908\n100\nEpson UltraSmooth Fine Art Paper\n13 × 19 inches (330 × 483 mm)\nS041896\n25\n17 × 22 inches (432 × 559 mm)\nS041897\n25\nEpson Watercolor Paper Radiant White\n13 × 19 inches (330 × 483 mm)\nS041351\n20\nEpson Exhibition Canvas Matte\n13 inches (330 mm) × 20 feet (6.1 m)\nS045255\n1 roll\n17 × 22 inches (432 × 559 mm)\nS045255\n25\nEpson Exhibition Canvas Satin\n13 inches (330 mm) × 20 feet (6.1 m)\nS045248\n1 roll\nEpson Exhibition Canvas Gloss\n13 inches (330 mm) × 20 feet (6.1 m)\nS045241\n1 roll\nEpson Exhibition Canvas Natural Matte\n13 inches (330 mm) × 20 feet (6.1 m)\nS045241\n1 roll\nEpson Exhibition Canvas Natural Satin\n13 inches (330 mm) × 20 feet (6.1 m)\nS045396\n1 roll\nEpson Exhibition Canvas Natural Gloss\n13 inches (330 mm) × 20 feet (6.1 m)\nS045410\n1 roll",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293457?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCP800SP~faq-293457",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:36.832352"
+        },
+        {
+          "question": "Which type of paper can I print on?",
+          "answer": "You can use plain paper; however, for the best results, you'll want to use one of Epson's special inkjet papers.\nNote:\nInk jet transparencies, vellum, and paper with holes punched in it are not supported.\nAvailable Epson Papers\nNote:\nPaper/media availability varies by country.\nPaper Type\nSize\nPart number\nSheet count\nEpson Bright White Paper\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041586\n500\nEpson Cold Press Bright\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041111\n100\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042307\n25\n13 × 19 inches (330 × 483 mm)\nS042310\n25\n17 × 22 inches (432 × 559 mm)\nS042311\n25\nEpson Cold Press Natural\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042297\n25\n13 × 19 inches (330 × 483 mm)\nS042300\n25\n17 × 22 inches (432 × 559 mm)\nS042301\n25\nEpson Velvet Fine Art Paper\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041636\n20\n13 × 19 inches (330 × 483 mm)\nS041637\n20\n17 × 22 inches (432 × 559 mm)\nS042097\n25\nEpson Exhibition Fiber Paper\nLetter (8.5 × 11 inches [216 × 279 mm])\nS045033\n25\n13 × 19 inches (330 × 483 mm)\nS045037\n25\n17 × 22 inches (432 × 559 mm)\nS045039\n25\nEpson Hot Press Bright\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042327\n25\n13 × 19 inches (330 × 483 mm)\nS042330\n25\n17 × 22 inches (432 × 559 mm)\nS042331\n25\nEpson Hot Press Natural\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042317\n25\n13 × 19 inches (330 × 483 mm)\nS042320\n25\n17 × 22 inches (432 × 559 mm)\nS042321\n25\nEpson Exhibition Watercolor Paper Textured\nLetter (8.5 × 11 inches [216 × 279 mm])\nS045486\n25\n13 × 19 inches (330 × 483 mm)\nS045487\n20\n17 × 22 inches (432 × 559 mm)\nS045488\n25\nEpson Brochure & Flyer Paper Matte Double-sided\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042384\n150\nEpson (Consumer) Sample Media Pack\nVarious sizes\nSMP603\nVarious quantities\nEpson Photo Quality Self-adhesive Sheets\nA4 (8.3 × 11.7 inches [210 × 297 mm])\nS041106\n10\nPhoto Quality Ink Jet Cards\nA6 (4.1 × 5.8 inches [105 × 148 mm])\nS041054\n50\nEpson Ultra Premium Photo Paper Glossy\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042175\n20\n8 × 10 inches (203 × 254 mm)\nS041946\n20\nEpson Premium Luster Photo Paper (260)\n8.3 inches (211 mm) × 32 feet (9.8 m)\nS041408\n1 roll\n13 inches (330 mm) × 32 feet (9.8 m)\nS041409\n1 roll\n10 inches (254 mm) × 100 feet (30.5 m)\nS042077\n1 roll\nEpson Metallic Photo Paper Glossy\nLetter (8.5 × 11 inches [216 × 279 mm])\nS045589\n25\n13 × 19 inches (330 × 483 mm)\nS045590\n25\n17 × 22 inches (432 × 559 mm)\nS045591\n25\nEpson Metallic Photo Paper Luster\nLetter (8.5 × 11 inches [216 × 279 mm])\nS045516\n25\n13 × 19 inches (330 × 483 mm)\nS045517\n25\n17 × 22 inches (432 × 559 mm)\nS045598\n25\nEpson Photo Paper Glossy\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041649\n50\n11 × 17 inches (279 × 432 mm)\nS041156\n20\n13 × 19 inches (330 × 483 mm)\nS041143\n20\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041271\n100\nEpson Premium Photo Paper Glossy\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041286\n20\nA3 (11.7 × 16.5 inches [297 × 420 mm])\nS041288\n20\n13 × 19 inches (330 × 483 mm)\nS041289\n20\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041667\n50\n11 × 17 inches (279 × 432 mm)\nS041290\n20\n4 × 6 inches (102 × 152 mm)\nS041727\n100\n5 × 7 inches (127 × 178 mm)\nS041464\n20\n8 × 10 inches (203 × 254 mm)\nS041465\n20\n11 × 14 inches (279 × 356 mm)\nS041466\n20\n17 × 22 inches (432 × 559 mm)\nS042092\n25\nEpson Premium Photo Paper Semi-gloss\n4 × 6 inches (102 × 152 mm)\nS041982\n40\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041331\n20\n13 × 19 inches (330 × 483 mm)\nS041327\n20\n8 × 10 inches (203 × 254 mm)\nS041467\n50\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041257\n50\n11 × 14 inches (279 × 356 mm)\nS041468\n50\nA3 (11.7 × 16.5 inches [297 × 420 mm])\nS041260\n50\n13 × 19 inches (330 × 483 mm)\nS041263\n50\n17 × 22 inches (432 × 559 mm)\nS042124\n25\nEpson Premium Presentation Paper Matte Double-sided\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041568\n50\nEpson Premium Presentation Paper Matte\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041062\n100\nLegal (8.5 × 14 inches [216 × 356 mm])\nS041067\n100\n11 × 17 inches (279 × 432 mm)\nS041070\n100\n13 × 19 inches (330 × 483 mm)\nS041069\n100\n16.5 × 23.4 inches (420 × 594 mm)\nS041079\n30\n17 × 22 inches (432 × 559 mm)\nS041171\n100\nEpson Proofing Paper White Semimatte\n13 × 19 inches (330 × 483 mm)\nS045115\n100\n13 inches (300 mm) × 100 feet (30.5 m)\nS042002\n1 roll\nEpson Standard Proofing Paper Publication\n13 inches (300 mm) × 100 feet (30.5 m)\nS041996\n1 roll\nEpson Standard Proofing Paper Commercial\n13 inches (300 mm) × 100 feet (30.5 m)\nS042144\n1 roll\nEpson Signature Worthy Sample Pack\nLetter (8.5 × 11 inches [216 × 279 mm])\nS045234\n14\nEpson Standard Proofing Paper (240)\n13 × 19 inches (330 × 483 mm)\nS045115\n100\nEpson Ultra Premium Photo Paper Luster\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041405\n50\nA3 (11.7 × 16.5 inches [297 × 420 mm])\nS041406\n50\n13 × 19 inches (330 × 483 mm)\nS041407\n50\n13 × 19 inches (330 × 483 mm)\nS041604\n100\n17 × 22 inches (432 × 559 mm)\nS042084\n25\n13 inches (330 mm) × 32.8 feet (10 m)\nS041409\n1 roll\nEpson Ultra Premium Presentation Paper Matte\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041341\n50\nA3 (11.7 × 16.5 inches [297 × 420 mm])\nS041343\n50\n13 × 19 inches (330 × 483 mm)\nS041339\n50\n13 × 19 inches (330 × 483 mm)\nS041605\n100\n17 × 22 inches (432 × 559 mm)\nS041908\n100\nEpson UltraSmooth Fine Art Paper\n13 × 19 inches (330 × 483 mm)\nS041896\n25\n17 × 22 inches (432 × 559 mm)\nS041897\n25\nEpson Watercolor Paper Radiant White\n13 × 19 inches (330 × 483 mm)\nS041351\n20\nEpson Exhibition Canvas Matte\n13 inches (330 mm) × 20 feet (6.1 m)\nS045255\n1 roll\n17 × 22 inches (432 × 559 mm)\nS045255\n25\nEpson Exhibition Canvas Satin\n13 inches (330 mm) × 20 feet (6.1 m)\nS045248\n1 roll\nEpson Exhibition Canvas Gloss\n13 inches (330 mm) × 20 feet (6.1 m)\nS045241\n1 roll\nEpson Exhibition Canvas Natural Matte\n13 inches (330 mm) × 20 feet (6.1 m)\nS045241\n1 roll\nEpson Exhibition Canvas Natural Satin\n13 inches (330 mm) × 20 feet (6.1 m)\nS045396\n1 roll\nEpson Exhibition Canvas Natural Gloss\n13 inches (330 mm) × 20 feet (6.1 m)\nS045410\n1 roll",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293086?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCP800SP~faq-293086",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:41.831523"
+        },
+        {
+          "question": "How do I know which paper or media type to select in my product's driver?",
+          "answer": "See the table below.\nPaper or Media Type Settings - Product Software\nFor this paper\nSelect this Paper Type or Media Type setting\nPlain paper\nEpson Bright White Paper\nPlain Paper/Bright White Paper\nEpson Premium Photo Paper Glossy\nEpson Ultra Premium Photo Paper Glossy\nPremium Photo Paper Glossy\nEpson Photo Paper Glossy\nPhoto Paper Glossy\nEpson Presentation Paper Matte\nPresentation Paper Matte\nEpson Premium Photo Paper Semi-gloss\nPremium Photo Paper Semigloss\nPremium Luster Photo Paper (260)\nEpson Ultra Premium Photo Paper Luster\nUltra Premium Photo Paper Luster\nEpson Ultra Premium Presentation Paper Matte\nEpson Premium Presentation Paper Matte\nEpson Premium Presentation Paper Matte Double-sided\nEpson Brochure & Flyer Paper Matte Double-sided\nEpson Photo Quality Self-adhesive Sheets\nUltra Premium Presentation Paper Matte\nEpson Velvet Fine Art Paper\nVelvet Fine Art Paper\nEpson Metallic Photo Paper Glossy\nMetallic Photo Glossy\nEpson Metallic Photo Paper Luster\nMetallic Photo Luster\nEpson Hot Press Bright\nHot Press Bright\nEpson Hot Press Natural\nHot Press Natural\nEpson Cold Press Bright\nCold Press Bright\nEpson Cold Press Natural\nCold Press Natural\nEpson Exhibition Fiber Paper\nExhibition Fiber Paper\nEpson Exhibition Watercolor Paper Textured\nExhibition Watercolor Textured\nEpson Watercolor Paper Radiant White\nWatercolor Paper - Radiant White\nEpson UltraSmooth Fine Art Paper\nEpson UltraSmooth Fine Art Paper 325 gsm\nUltraSmooth Fine Art Paper\nStandard Proofing Paper (240)\nProofing Paper White Semimatte\nStandard Proofing Paper Publication\nStandard Proofing Paper Commercial\nUltraPremium Photo Paper Luster\nEpson Exhibition Canvas Matte\nExhibition Canvas Matte\nEpson Exhibition Canvas Satin\nExhibition Canvas Satin\nEpson Exhibition Canvas Gloss\nExhibition Canvas Gloss\nEpson Exhibition Canvas Natural Matte\nExhibition Canvas Natural Matte\nEpson Exhibition Canvas Natural Satin\nExhibition Canvas Natural Satin\nEpson Exhibition Canvas Natural Gloss\nExhibition Canvas Natural Gloss\nPosterboard\nUltra Premium Presentation Paper Matte (front manual feed tray only)",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293435?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCP800SP~faq-293435",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:43.257218"
+        },
+        {
+          "question": "How do I create a custom paper size for my product in Windows?",
+          "answer": "Do the following:\nOpen a photo or document for printing.\nSelect the print command in your application.\nNote:\nYou may need to select a print icon on your screen, the\nPrint\noption in the\nFile\nmenu, or another command. See your application's help utility for details.\nIf necessary, select your product name as the printer you want to use.\nNote:\nYou may also need to select\nProperties\nor\nPreferences\nto view your print settings.\nYou see the Main tab of your printer settings window.\nClick\nUser Defined\n. The User-Defined Paper Size window appears.\nNote:\nThis option may not be available for all paper sources.\nEnter a Paper Size Name, then select the Paper Width and Paper Height.\nClick\nSave\n, then\nOK\n.\nClick\nOK\nagain. The new size is created. You can now select the new size from the Document Size list.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293100?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCP800SP~faq-293100",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:44.365236"
+        },
+        {
+          "question": "I'm having paper feed problems. What should I do?",
+          "answer": "If you have problems feeding paper, try these solutions:\nIf paper does not feed into the sheet feeder, remove the paper and fan the edges to separate the sheets. Reload paper against the right side and slide the edge guide against it. Do not load too many sheets in the sheet feeder at once and make sure the product cover is closed.\nWhen using the sheet feeder, do not load paper above the arrow mark on the left edge guide. Load only one sheet of compatible paper when using the front manual feed tray.\nLoad only one sheet of media in the front manual feed tray. For posterboard, make sure there is enough space behind the product for the media to feed through.\nIf multiple pages feed at once, remove the paper, fan the edges to separate the sheets, and reload it.\nIf you can not insert paper easily into the front manual feed tray, make sure the paper is perfectly flat and not curled.\nIf you are printing on roll paper or with the sheet feeder, make sure the manual feed tray is not extended. Extend it only to load fine art paper or posterboard. Once the media is fed into the product and you see a message on the LCD screen, close the manual feed tray.\nIf paper loaded using the front manual feed tray does not feed, make sure you installed the paper correctly and guided it all the way into the product.\nDo not load more than the recommended number of sheets.\nMake sure paper is loaded in the correct orientation. Load cut sheets in the sheet feeder vertically.\nMake sure your paper meets the specifications for your product.\nIf paper dust builds up on the rollers, they may lose traction and become unable to feed paper properly. Clean the paper guide.\nIf roll paper does not feed, cut the end straight across and uncurl it by rolling it backward, if necessary. Then reload the paper.\nIf thick media does not feed, make sure you are loading it straight into the product, not at an angle.\nMake sure the transportation lock is removed from the front manual feed tray.\nIf paper jams when you print on both sides of the paper, try loading fewer sheets.\nFor best results, follow these guidelines:\nUse new, smooth, high-quality paper that is not damp, curled, creased, old, too thin, or too thick.\nLoad paper printable side up.\nFollow any special loading instructions that came with the paper.\nRelated references\nPaper Jam Problems in the Sheet Feeder\nPaper Jam Problems in the Front Manual Feed Tray\nPaper Jam Problems - Thick Media\nPaper Jam Problems - Roll Paper\nPaper Specifications\nRelated information\nLoading Media",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293446?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCP800SP~faq-293446",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:45.426227"
+        },
+        {
+          "question": "Which media do I use for screen printing?",
+          "answer": "You can use Epson Screen Positive Film, which is included with the printer.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293168?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCP800SP~faq-293168",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:46.508636"
+        },
+        {
+          "question": "Does my product support media besides Epson Screen Positive Film?",
+          "answer": "Yes, the printer supports media for non-screen print jobs. See below.\nAvailable Epson Papers\nNote:\nPaper/media availability varies by country.\nPaper Type\nSize\nPart number\nSheet count\nEpson Bright White Paper\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041586\n500\nEpson Cold Press Bright\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041111\n100\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042307\n25\n13 × 19 inches (330 × 483 mm)\nS042310\n25\n17 × 22 inches (432 × 559 mm)\nS042311\n25\nEpson Cold Press Natural\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042297\n25\n13 × 19 inches (330 × 483 mm)\nS042300\n25\n17 × 22 inches (432 × 559 mm)\nS042301\n25\nEpson Velvet Fine Art Paper\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041636\n20\n13 × 19 inches (330 × 483 mm)\nS041637\n20\n17 × 22 inches (432 × 559 mm)\nS042097\n25\nEpson Exhibition Fiber Paper\nLetter (8.5 × 11 inches [216 × 279 mm])\nS045033\n25\n13 × 19 inches (330 × 483 mm)\nS045037\n25\n17 × 22 inches (432 × 559 mm)\nS045039\n25\nEpson Hot Press Bright\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042327\n25\n13 × 19 inches (330 × 483 mm)\nS042330\n25\n17 × 22 inches (432 × 559 mm)\nS042331\n25\nEpson Hot Press Natural\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042317\n25\n13 × 19 inches (330 × 483 mm)\nS042320\n25\n17 × 22 inches (432 × 559 mm)\nS042321\n25\nEpson Exhibition Watercolor Paper Textured\nLetter (8.5 × 11 inches [216 × 279 mm])\nS045486\n25\n13 × 19 inches (330 × 483 mm)\nS045487\n20\n17 × 22 inches (432 × 559 mm)\nS045488\n25\nEpson Brochure & Flyer Paper Matte Double-sided\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042384\n150\nEpson (Consumer) Sample Media Pack\nVarious sizes\nSMP603\nVarious quantities\nEpson Photo Quality Self-adhesive Sheets\nA4 (8.3 × 11.7 inches [210 × 297 mm])\nS041106\n10\nPhoto Quality Ink Jet Cards\nA6 (4.1 × 5.8 inches [105 × 148 mm])\nS041054\n50\nEpson Ultra Premium Photo Paper Glossy\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042175\n20\n8 × 10 inches (203 × 254 mm)\nS041946\n20\nEpson Premium Luster Photo Paper (260)\n8.3 inches (211 mm) × 32 feet (9.8 m)\nS041408\n1 roll\n13 inches (330 mm) × 32 feet (9.8 m)\nS041409\n1 roll\n10 inches (254 mm) × 100 feet (30.5 m)\nS042077\n1 roll\nEpson Metallic Photo Paper Glossy\nLetter (8.5 × 11 inches [216 × 279 mm])\nS045589\n25\n13 × 19 inches (330 × 483 mm)\nS045590\n25\n17 × 22 inches (432 × 559 mm)\nS045591\n25\nEpson Metallic Photo Paper Luster\nLetter (8.5 × 11 inches [216 × 279 mm])\nS045516\n25\n13 × 19 inches (330 × 483 mm)\nS045517\n25\n17 × 22 inches (432 × 559 mm)\nS045598\n25\nEpson Photo Paper Glossy\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041649\n50\n11 × 17 inches (279 × 432 mm)\nS041156\n20\n13 × 19 inches (330 × 483 mm)\nS041143\n20\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041271\n100\nEpson Premium Photo Paper Glossy\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041286\n20\nA3 (11.7 × 16.5 inches [297 × 420 mm])\nS041288\n20\n13 × 19 inches (330 × 483 mm)\nS041289\n20\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041667\n50\n11 × 17 inches (279 × 432 mm)\nS041290\n20\n4 × 6 inches (102 × 152 mm)\nS041727\n100\n5 × 7 inches (127 × 178 mm)\nS041464\n20\n8 × 10 inches (203 × 254 mm)\nS041465\n20\n11 × 14 inches (279 × 356 mm)\nS041466\n20\n17 × 22 inches (432 × 559 mm)\nS042092\n25\nEpson Premium Photo Paper Semi-gloss\n4 × 6 inches (102 × 152 mm)\nS041982\n40\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041331\n20\n13 × 19 inches (330 × 483 mm)\nS041327\n20\n8 × 10 inches (203 × 254 mm)\nS041467\n50\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041257\n50\n11 × 14 inches (279 × 356 mm)\nS041468\n50\nA3 (11.7 × 16.5 inches [297 × 420 mm])\nS041260\n50\n13 × 19 inches (330 × 483 mm)\nS041263\n50\n17 × 22 inches (432 × 559 mm)\nS042124\n25\nEpson Premium Presentation Paper Matte Double-sided\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041568\n50\nEpson Premium Presentation Paper Matte\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041062\n100\nLegal (8.5 × 14 inches [216 × 356 mm])\nS041067\n100\n11 × 17 inches (279 × 432 mm)\nS041070\n100\n13 × 19 inches (330 × 483 mm)\nS041069\n100\n16.5 × 23.4 inches (420 × 594 mm)\nS041079\n30\n17 × 22 inches (432 × 559 mm)\nS041171\n100\nEpson Proofing Paper White Semimatte\n13 × 19 inches (330 × 483 mm)\nS045115\n100\n13 inches (300 mm) × 100 feet (30.5 m)\nS042002\n1 roll\nEpson Standard Proofing Paper Publication\n13 inches (300 mm) × 100 feet (30.5 m)\nS041996\n1 roll\nEpson Standard Proofing Paper Commercial\n13 inches (300 mm) × 100 feet (30.5 m)\nS042144\n1 roll\nEpson Signature Worthy Sample Pack\nLetter (8.5 × 11 inches [216 × 279 mm])\nS045234\n14\nEpson Standard Proofing Paper (240)\n13 × 19 inches (330 × 483 mm)\nS045115\n100\nEpson Ultra Premium Photo Paper Luster\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041405\n50\nA3 (11.7 × 16.5 inches [297 × 420 mm])\nS041406\n50\n13 × 19 inches (330 × 483 mm)\nS041407\n50\n13 × 19 inches (330 × 483 mm)\nS041604\n100\n17 × 22 inches (432 × 559 mm)\nS042084\n25\n13 inches (330 mm) × 32.8 feet (10 m)\nS041409\n1 roll\nEpson Ultra Premium Presentation Paper Matte\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041341\n50\nA3 (11.7 × 16.5 inches [297 × 420 mm])\nS041343\n50\n13 × 19 inches (330 × 483 mm)\nS041339\n50\n13 × 19 inches (330 × 483 mm)\nS041605\n100\n17 × 22 inches (432 × 559 mm)\nS041908\n100\nEpson UltraSmooth Fine Art Paper\n13 × 19 inches (330 × 483 mm)\nS041896\n25\n17 × 22 inches (432 × 559 mm)\nS041897\n25\nEpson Watercolor Paper Radiant White\n13 × 19 inches (330 × 483 mm)\nS041351\n20\nEpson Exhibition Canvas Matte\n13 inches (330 mm) × 20 feet (6.1 m)\nS045255\n1 roll\n17 × 22 inches (432 × 559 mm)\nS045255\n25\nEpson Exhibition Canvas Satin\n13 inches (330 mm) × 20 feet (6.1 m)\nS045248\n1 roll\nEpson Exhibition Canvas Gloss\n13 inches (330 mm) × 20 feet (6.1 m)\nS045241\n1 roll\nEpson Exhibition Canvas Natural Matte\n13 inches (330 mm) × 20 feet (6.1 m)\nS045241\n1 roll\nEpson Exhibition Canvas Natural Satin\n13 inches (330 mm) × 20 feet (6.1 m)\nS045396\n1 roll\nEpson Exhibition Canvas Natural Gloss\n13 inches (330 mm) × 20 feet (6.1 m)\nS045410\n1 roll",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293170?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCP800SP~faq-293170",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:47.770162"
+        },
+        {
+          "question": "How should I handle specialty paper like fine art media?",
+          "answer": "Do the following:\nAlways use one sheet at a time.\nUse lint-free cotton gloves when handling the media.\nNever stack prints on top of each other. Use a separator sheet between prints.\nStore media flat. Never store media on its side.\nStore media in a cool, dry environment. Refer to the media specification sheet for proper temperature and humidity requirements.\nAlways follow the specific loading instructions for the media being used.\nUse the proper media type setting (EMX).\nNote:\nNon-Epson media can be optimized using custom media settings created in Epson Media Installer.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-00004B3-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCP800SP~faq-00004B3-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:48.998341"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "If you notice white or dark lines in your prints (also called banding), try these solutions before you reprint:\nRun a nozzle check to see if any of the print head nozzles are clogged. Then clean the print head, if necessary.\nMake sure the paper type setting matches the type of paper you loaded.\nMake sure you loaded the printable side of the paper correctly for your product.\nTurn off any high speed settings in your product software.\nAlign the print head.\nYou may need to replace the ink cartridges.\nRelated concepts\nPrint Head Nozzle Check\nPrint Head Cleaning\nPrint Head Alignment\nRelated tasks\nSelecting Print Layout Options - Windows\nSelecting Additional Settings - Windows\nSelecting Basic Print Settings - OS X\nRemoving and Installing Ink Cartridges\nRelated references\nPaper or Media Type Settings - Product Software\nPaper or Media Type Settings - Control Panel\nRelated information\nLoading Media",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293451?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SCP800SP~faq-293451",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:50.114152"
+        },
+        {
+          "question": "My printout looks inverted, as if viewed in a mirror. What should I do?",
+          "answer": "If your printed image is inverted unexpectedly, try these solutions:\nTurn off any mirror or inversion settings in your printing application.\nTurn off the\nMirror Image\n,\nFlip horizontally\n, or\nReverse page orientation\nsettings in your printer software. (This option has different names, depending on your operating system version.)\nRelated tasks\nSelecting Print Layout Options - Windows\nSelecting Additional Settings - Windows\nSelecting Basic Print Settings - OS X",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293452?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SCP800SP~faq-293452",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:51.735054"
+        },
+        {
+          "question": "My printout contains garbled characters when I print from Windows or my Mac. What should I do?",
+          "answer": "If incorrect characters appear in your prints, try these solutions before reprinting:\nMake sure any cables are securely connected at both ends.\nIn Windows, delete all jobs from the Windows Spooler. Click\nPrint Queue\non the Utility tab in the printer settings window, and cancel any stalled print jobs.\nIf your product is connected to a USB hub, connect it directly to your computer instead.\nIf incorrect characters still appear in your prints, try connecting your product using a different cable.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293447?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SCP800SP~faq-293447",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:52.835056"
+        },
+        {
+          "question": "My printout is blurry or smeared. What should I do?",
+          "answer": "If your printouts are blurry or smeared, try these solutions:\nMake sure your paper is not damp, curled, old, or loaded incorrectly in your product.\nUse a support sheet with special paper, or load special paper one sheet at a time.\nMake sure your paper meets the specifications for your product.\nUse Epson papers to ensure proper saturation and absorption of genuine Epson inks.\nMake sure the paper type setting in your product software matches the type of paper you loaded.\nMake sure you loaded the printable side of the paper correctly for your product.\nIf you are printing on thick paper or poster board, make sure you select the appropriate settings.\nRemove each sheet from the output tray as it is printed.\nTurn off any high speed settings in your product software.\nIf you print on both sides of a sheet of paper, smudges may appear on the reverse side of heavily saturated or dark images. If one side of a sheet will contain a lighter image or text, print that side first. Adjust the\nPrint Density\nand/or\nIncreased Ink Drying Time\nsettings.\nRun a nozzle check to see if any of the print head nozzles are clogged. Then clean the print head, if necessary.\nAlign the print head.\nClean the paper path.\nNote:\nYour product will not operate properly while tilted at an angle. Place it on a flat, stable surface that extends beyond the base of the product in all directions.\nRelated concepts\nPrint Head Cleaning\nPrint Head Alignment\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Print Layout Options - Windows\nSelecting Additional Settings - Windows\nSelecting Basic Print Settings - OS X\nSelecting Printing Preferences - OS X\nCleaning the Paper Guide\nRelated references\nDouble-sided Printing Options - Windows\nAvailable Epson Papers\nPaper Specifications\nRelated information\nLoading Media",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293453?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SCP800SP~faq-293453",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:54.012473"
+        },
+        {
+          "question": "My printout has incorrect colors. What should I do?",
+          "answer": "If your printouts have incorrect colors, try these solutions:\nMake sure the\nAdvanced B&W Photo\n,\nBlack/Grayscale\nor\nGrayscale\nsetting is not selected in your printer software.\nRun a nozzle check to see if any of the print head nozzles are clogged. Then clean the print head, if necessary.\nThe ink cartridges may be old or low on ink, and you may need to replace them.\nAfter you print, the colors in your printout need time to set as the ink dries. During this time, the colors may look different than you expect. To speed up drying time, do not stack your printouts on top of each other.\nYour printed colors can never exactly match your on-screen colors. However, you can use a color management system to get as close as possible. Try using the color management options in your printer software.\nTry turning off the\nPhotoEnhance\nsetting in Windows.\nTry adjusting the\nGamma\nsetting.\nFor best results, use genuine Epson ink and paper.\nRelated concepts\nPrint Head Nozzle Check\nPrint Head Cleaning\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Basic Print Settings - OS X\nSelecting Print Layout Options - Windows\nSelecting Additional Settings - Windows\nManaging Color - OS X\nRelated references\nAvailable Epson Papers",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293449?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SCP800SP~faq-293449",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:53.476841"
+        },
+        {
+          "question": "My printout is grainy when I print from any application. What should I do?",
+          "answer": "If your printouts are grainy, try these solutions:\nMake sure you loaded the printable side of the paper correctly for your product.\nSelect a higher print quality setting and turn off any high speed settings in your product software.\nRun a nozzle check to see if any of the print head nozzles are clogged. Then clean the print head, if necessary.\nAlign the print head.\nYou may need to increase the image resolution or print a smaller size; see your software documentation.\nNote:\nImages from the Internet may be low resolution and not result in a high quality printout.\nIf you enlarged the image in an image-editing program, you need to increase the resolution setting to retain a high image quality. Increase the resolution by the same amount you increased the image size. For example, if the resolution is 300 dpi (dots per inch) and you will double the image size later, change the resolution setting to 600 dpi.\nNote:\nHigher resolution settings result in larger file sizes, which take longer to process and print. Consider the limitations of your computer system when selecting a resolution, and select the lowest possible resolution that produces acceptable quality to keep file sizes manageable.\nRelated concepts\nPrint Head Nozzle Check\nPrint Head Cleaning\nPrint Head Alignment\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Basic Print Settings - OS X\nSelecting Print Layout Options - Windows\nSelecting Additional Settings - Windows\nCleaning the Paper Guide\nRelated information\nLoading Media",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293454?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SCP800SP~faq-293454",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:54.657448"
+        },
+        {
+          "question": "My printout has incorrect margins. What should I do?",
+          "answer": "If your printed page has incorrect margins, try these solutions:\nMake sure you selected the correct paper size settings in your printing program and printer software.\nMake sure you selected the correct margins for your paper size in your printing program.\nMake sure your paper is positioned correctly for feeding into the printer.\nYou can use the preview option in your printer software to check your margins before you print.\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Basic Print Settings - OS X\nRelated information\nLoading Media",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293450?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SCP800SP~faq-293450",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:55.759250"
+        },
+        {
+          "question": "My printout has a slight slant. What should I do?",
+          "answer": "If your printouts are slanted, try these solutions:\nSlide the edge guide against the edge of the paper.\nMake sure the paper support edge guide is flipped down.\nSelect a higher print quality setting in your printer software.\nTurn off any high speed settings in your product software.\nAlign the print head.\nMake sure the product is not printing while tilted or at an angle.\nRelated concepts\nPrint Head Alignment\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Basic Print Settings - OS X\nRelated information\nLoading Media",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293448?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SCP800SP~faq-293448",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:56.889779"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "How do I set my product's software to print only in Black or Grayscale from Windows or my Mac?",
+          "answer": "Open a document, then follow the steps below for your operating system to select\nBlack/Grayscale\nor\nGrayscale\nin the printer driver.\nNote:\nTo keep the print head clear and ready to print, the printer uses a small amount of ink from all the cartridges whenever it prints. Even if you select\nBlack/Grayscale\nor\nGrayscale\n, some color ink is still being used.\nBlack/Grayscale\nor\nGrayscale\nis not recommended for printing black-and-white photos.\nNote:\nIf your product indicates you need to replace an expended ink cartridge, you need to replace the cartridge before you can print.\nWindows\nSelect the print command in your application.\nMake sure the product is selected.\nClick\nProperties\nor\nPreferences\n.\nNote:\nIf you don't see these buttons, click\nSetup\n,\nPrinter\n, or\nOptions\n, then click\nProperties\nor\nPreferences\non the next screen.\nClick the\nMain\ntab.\nSelect\nGrayscale\nas the Color setting\nClick\nOK\n.\nOS X\nSelect the print command in your application.\nMake sure the product is selected.\nClick the\nor\nShow Details\nbutton to expand the Print window, if necessary.\nSelect\nPrint Settings\nfrom the printer options pop-up menu.\nSelect\nBlack/Grayscale\nas the Print Mode setting.\nClick\nPrint\n.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293122?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP800SP~faq-293122",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:58.162918"
+        },
+        {
+          "question": "How do I restore my product's default settings?",
+          "answer": "See below.\nResetting Control Panel Defaults\nIf you have a problem with settings on the product control panel, you can reset them to their factory defaults. You can choose which settings to reset or reset them all.\nPress the\nhome button, if necessary.\nPress the\nsetup button. You see this screen:\nSelect\nSystem Administration\n.\nPress the down arrow button and select\nRestore Default Settings\n.\nSelect one of these options:\nNetwork Settings\n: Resets all network settings.\nAll except Network Settings\n: Resets all except network settings.\nAll Settings\n: Resets all control panel settings.\nYou see a confirmation screen.\nSelect\nYes\nto reset the selected settings. (Select\nNo\nif you want to cancel the operation.)",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293437?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP800SP~faq-293437",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:00:59.273936"
+        },
+        {
+          "question": "How do I set up my product with a WPS-enabled router or access point?",
+          "answer": "See below.\nUsing WPS to Connect to a Network\nIf you have a WPS-enabled wireless router or access point, you can use Wi-Fi Protected Setup (WPS) to connect your product to the network.\nPress the\nhome button, if necessary.\nPress the\nnetwork status icon.\nSelect\nWi-Fi Setup\n. You see a screen like this:\nSelect\nPush Button Setup (WPS)\nand select\nProceed\n.\nFollow the instructions on the LCD screen to complete WPS setup.\nPress the\nhome button to exit. Your product should now be connected to the network.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293441?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP800SP~faq-293441",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:00.412475"
+        },
+        {
+          "question": "How do I uninstall the Epson printer software?",
+          "answer": "Follow the instructions below for your operating system.\nUninstalling Printing Software - Windows\nYou can uninstall and then re-install your printer software to solve certain problems.\nTurn off the product.\nDisconnect any interface cables.\nDo one of the following:\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nPrograms\n>\nPrograms and Features\n. Select the uninstall option for your Epson product, then select\nUninstall/Change\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nIn the next window, select your product, if necessary, and click\nOK\n. Then follow any on-screen instructions.\nWindows (other versions)\n: Click\nor\nStart\n, and select\nAll Programs\nor\nPrograms\n. Select\nEpson\n, select your product, then click\nEPSON Printer Software Uninstall\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nIn the next window, select your product, if necessary, and click\nOK\n. Then follow any on-screen instructions.\nRestart your computer, then re-install your software.\nNote:\nIf you find that re-installing your product software does not solve a problem, contact Epson.\nUninstalling Product Software - OS X\nIn most cases, you do not need to uninstall your product software before re-installing it. However, you can download the Uninstaller utility from the Epson support website to uninstall your product software as described here.\nNote:\nIf you find that re-installing your product software does not solve a problem, contact Epson.\nTo download the Uninstaller utility, visit the Epson download site.\nFollow the instructions on the screen to install the Uninstaller utility.\nQuit all applications currently running on your Mac.\nDouble-click the\nUninstaller\nicon.\nSelect the checkbox for each software program you want to uninstall.\nClick\nUninstall\n.\nFollow the on-screen instructions to uninstall the software.\nReinstall your product software.\nNote:\nIf you uninstall the printer driver and your product name remains in the\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\nwindow, select your product name and click the\n–\n(remove) icon to remove it.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293445?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP800SP~faq-293445",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:01.619645"
+        },
+        {
+          "question": "Which screen printing software comes with my product?",
+          "answer": "The AccuRIP Black Pearl SE RIP software from Freehand Graphics is supplied with the printer.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293166?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP800SP~faq-293166",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:02.714842"
+        },
+        {
+          "question": "Which operating systems are supported by the AccuRIP Black Pearl SE RIP software?",
+          "answer": "See below. Your computer system should meet or exceed the requirements listed below.\nWindows\nWindows 10\nWindows 8.x\nWindows 7\nOS X\nOS X 10.11.x\nOS X 10.10.x\nOS X 10.9.x\nOS X 10.8.x\nOS X 10.7.x",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293172?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP800SP~faq-293172",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:03.841411"
+        },
+        {
+          "question": "How do I set up my product for wireless printing in Windows or on my Mac?",
+          "answer": "You can download the software from the Downloads tab for your product. The software for your product will explain how to set it up.\nYou must install the software on every computer from which you want to print.\nYou need to know your network name (SSID) and network password before setting up your product on your wireless network (see\nWireless Security Settings\nfor more information). If you don't know your network name (SSID) and network password, contact the person who set up your network.\nYou can also view helpful how-to videos on the Videos tab for your product.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293133?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP800SP~faq-293133",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:05.141043"
+        },
+        {
+          "question": "I tried installing my product's software using a USB connection but cannot complete the installation in Windows or on my Mac. What should I do?",
+          "answer": "Disconnect the USB cable and uninstall the product software, then reinstall the software.\nBefore reinstalling the software, check for the following:\nMake sure the product is not connected to your computer. You must connect the product to your computer at the correct time to make sure the driver is installed correctly on your computer.\nMake sure your system meets the requirements.\nMake sure all applications (including any screen savers, virus protectors, and firewall software) are closed.\nMake sure you have administrative rights or software installation privileges to your computer, if necessary.\nRelated references\nWindows System Requirements\nOS X System Requirements",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293146?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP800SP~faq-293146",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:06.300728"
+        },
+        {
+          "question": "Who do I contact for support on the software that came with my product?",
+          "answer": "Contact Epson for support with the product's driver(s) and any other software or utility listed on the Downloads tab for your product. If your product comes with third-party software, contact the software company for support.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293126?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP800SP~faq-293126",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:07.512592"
+        },
+        {
+          "question": "How do I set default print settings when I print from Windows or my Mac?",
+          "answer": "When you change your print settings from within a program, the changes apply only while you're printing with the program open. If you want to select different settings to use in all your programs, you can change the default print settings in Windows or save a preset of printer options in OS X. Follow the steps below for your operating system.\nWindows\nDo one of the following:\nWindows 10\n: Right-click\nand select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your product name and select\nPrinter Preferences\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows XP\n: Click\nStart\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the settings you want to use as defaults in all your Windows programs.\nClick\nOK\n.\nOS X\nOpen a document and select\nPrint\nfrom the File menu.\nMake sure your product is selected. Click the\nor the\nShow Details\nbutton to expand the Print window, if necessary.\nSelect the print settings you want to save.\nNote:\nSome options may not be able to be saved in a preset.\nClick the\nPresets\npop-up menu and select\nSave As\nor\nSave Current Settings as Preset\n.\nEnter a name for your preset and choose whether this preset can be used with any printer or only with the currently selected printer.\nClick\nOK\n.\nWhen you are ready to print, click the\nPresets\npop-up menu, select your preset from the list, and click\nPrint\n. Once a preset has been selected, it will automatically be selected in the print dialog for future print jobs until another preset is selected. Select\nStandard\nfrom the\nPresets\npop-up menu.\nIf you don't want to create a preset and simply want to print with the last print settings you selected, select\nLast Used Settings\nin the\nPresets\npop-up menu.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293099?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP800SP~faq-293099",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:08.573777"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "The following options are available:\nYou can use Epson software Updater (which is installed the first time you install the printer driver) to notify you when new updates are available for download. Software Updater analyzes the Epson software (drivers, utilities, firmware, etc.) installed on your computer and product, and notifies you if new updates are available for download.\nIf you've already installed a Windows printer driver, you can update the driver by selecting\nDriver Update\non the Utility tab in the printer driver settings window.*\nIf you're using a Mac, update the driver by doing one of the following:\nOS X 10.10\n,\nOS X 10.11\n,\nmacOS 10.12.x\n, or\nmacOS 10.13.x\n: Open the\nmenu and select\nApp Store\n>\nUpdates\n.\nOS X (other versions)\n: Open the\nmenu and select\nSoftware Update\n.\nYou can download the software from the Downloads tab for your product.\n*This option may not be available in all drivers.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-0000afe-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP800SP~faq-0000afe-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:09.699054"
+        },
+        {
+          "question": "Where can I find the IP address of my router?",
+          "answer": "Most wireless routers have a default IP address that can usually be found in the router's documentation.\nFor more support on your router, contact the manufacturer of your router.\nYou can also print a network status sheet from your printer's control panel to find your router's IP address.\nNote:\nThe network status sheet will list your router’s IP address only if you have set up your printer with a network connection to the router. If you print a network status sheet before setup, the router's IP address will not be listed on the network status sheet.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-00004c0-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP800SP~faq-00004c0-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:10.925912"
+        },
+        {
+          "question": "How do I add my product as an IP printer on my Mac?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n.\nSelect your printer, if necessary.\nClick\n+\nor\nAdd Printer, Scanner, or Fax\nand select\nIP\non the toolbar.\nSelect a protocol. If you do not know which protocol to choose, leave it as\nLine Printer Daemon-LPD\n.\nClick the\nAddress\nfield and enter your printer's IP address. You see the message\nGathering printer information\nas your Mac connects to the printer.\nClick\nAdd\nafter your printer appears in the Use field to create a printer queue. If your printer does not appear in the Use field, select\nAuto Select\nfrom the drop-down box.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-00004ba-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP800SP~faq-00004ba-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:12.025462"
+        },
+        {
+          "question": "What are the port numbers for Epson network printers (wired and wireless)?",
+          "answer": "See the table below.\nNote:\nNot all operations are supported by all products.\nService name\nProtocol type\nLocal/Remote port number\nControls these operations\nENPC\nUDP\n3289/Any port\nSearching for a product from applications such as printer or scanner drivers, or EpsonNet Config\nSNMP\nUDP\n161/Any port\nAcquiring and configuring MIB from applications such as printer or scanner drivers, or EpsonNet Config\nLPR\nTCP\n515/Any port\nForwarding LPR data\nRAW (Port9100)\nTCP\n9100/any port\nForwarding RAW data\nIPP/IPPS\nTCP\n631/Any port\nForwarding AirPrint data (IPP/IPPS printing)\nWSD\nTCP\nAny port/5357\nControlling WSD\nWS-Discovery\nUDP\n3702/Any port\nSearching for a product from WSD\nNetwork Scan\nTCP\n1865/Any port\nForwarding scan data from Document Capture Pro and Document Capture\nNetwork Push Scan\nTCP\nAny port/2968\nAcquiring job information on push scanning from Document Capture Pro and Document Capture\nNetwork Push Scan Discovery\nUDP\n2968/Any port\nSearching for a computer during push scanning from Document Capture Pro and Document Capture\nFTP Data (Local)\nTCP\n20/Any port\nForwarding FTP printing data to FTP server\nFTP Control (Local)\nTCP\n21/Any port\nControlling FTP printing to FTP server\nFTP Data (Remote)\nTCP\nAny port/20\nForwarding scan data and received fax data to FTP client; controls only an FTP server that uses remote port 20\nFTP Control (Remote)\nTCP\nAny port/21\nForwarding scan data and received fax data to FTP client\nCIFS (Local)*\nTCP\n445/Any port\nSharing a network folder on CIFS server\nCIFS (Remote)*\nTCP\nAny port/445\nForwarding scan data and received fax data to a folder on CIFS server\nNetBIOS Name Service (Local)\nUDP\n137/Any port\nSharing a network folder on CIFS server\nNetBIOS Datagram Service (local)\nUDP\n138/Any port\nNetBIOS Session Service (Local)\nTCP\n139/Any port\nNetBIOS Name Service (Remote)\nUDP\nAny port/137\nForwarding scan data and received fax to a folder on CIFS server\nNetBIOS Datagram Service (Remote)\nUDP\nAny port/138\nNetBIOS Service (Remote)\nTCP\nAny port/139\nHTTP (Local)\nTCP\n80/Any port\nForwarding Web Config and WSD data to a HTTP or HTTPS server\nHTTPS (Local)\nTCP\n443/Any port\nHTTP (Remote)\nTCP\nAny port/80\nCommunicating with Epson Connect or Chromebook Native Printing, firmware update, and root certificate update on a HTTP or HTTPS client\nHTTPS (Remote)\nTCP\nAny port/443\n* To control forwarding of scan and received fax data, share a network folder, or receive fax data from PC-Fax, select\nPort Number\nas the\nMethod of Choosing Port\noption and specify the port numbers for CIFS and NetBIOS.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-0000525-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP800SP~faq-0000525-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:13.130028"
+        },
+        {
+          "question": "I can't get Epson Status Monitor to work over my wireless network. What should I do?",
+          "answer": "If the product is not shared, make sure it is connected to the network wirelessly. Try moving your product or computer to a different location within range of your wireless network. Avoid placing the computer, product, or wireless access point near microwaves, cordless telephones, or other sources of wireless interference.\nIf the product is set up as a shared printer, Epson Status Monitor will not work and is not supported.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-00004c7-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP800SP~faq-00004c7-shared",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:14.242603"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP800SP~faq-00004dc-shared",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:18.856424"
+        },
+        {
+          "question": "Who do I contact for software support?",
+          "answer": "Click on the\nContact Us\ntab on your product's support page to contact Epson for support. If your product comes with third-party software, contact the software company.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-00004db-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP800SP~faq-00004db-shared",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:19.749535"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP800SP~faq-0000f4b-shared",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:20.643581"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP800SP~faq-0000f4c-shared",
+          "display_order": 20,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:21.594036"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP800SP~faq-0000f4d-shared",
+          "display_order": 21,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:22.522519"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Wireless or Wired Connection",
+      "section_id": "8796127635532",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "I was able to print from my Mac before with a wireless connection, but now I can't. What should I do?",
+          "answer": "The problem can be caused by your printer, computer, or wireless network. Do the following:\nTo determine if the printer can print without a computer, print a\nnozzle check pattern\nfrom the product's control panel.\nIf you can print, go to the next step.\nIf you can't print a nozzle check pattern, check the product's LCD for\nerror messages\n. Clear any errors displayed on the LCD, then try printing a nozzle check pattern again. If you still can't print, contact Epson support.\nDelete any pending print job(s) from the Epson print queue\nand then try printing again.\nIf you can print now, you're done, and you can skip the remaining steps.\nIf you can't print, go to the next step.\nOn your Mac, open the\nmenu and select\nSystem Preferences\n. Select\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\nwindow, select your printer, then click\nto remove the printer. Click\n, select your printer with Kind set as\nBonjour\n, select your printer from the Use drop-down list, then click\nAdd\n. This will add the printer back on the printer queue. Then try printing again.\nIf you can print now, you're done, and you can skip the remaining steps.\nIf you still can't print, check the Wi-Fi icon on the product's control panel, then do one of the following:\nIf the Wi-Fi icon\nis displayed, follow the instructions in the\nInitialize Your Router and Restart Your Computer\nsection below.\nIf the Wi-Fi icon\nis displayed, follow the instructions in the\nReinstall the Product Software\nsection below.\nInitialize Your Router and Restart Your Computer\nUnplug your router's power cord from the power outlet, wait a brief period, then plug it back in. Try to print. You may need to re-establish the connection for the other devices on your network.\nIf you can print, you're done. The problem was resolved by initializing your router.\nIf you still can't print, restart your computer, then try printing again. If these steps do not resolve your problem, contact Epson support.\nReinstall the Product Software\nImportant\n: You'll need to know your network name (SSID) and network password before you can set up your product. If you don't know them, contact the manufacturer of your router or the person who set up your network. If you are using a 5 GHz wireless router, set the router to operate in dual band (2.4 GHz and 5 GHz) mode. See your router documentation for instructions.\nReset the product's Wi-Fi settings on the product's control panel by doing the following:\nPress the\nhome button, if necessary. Select\nsetup >\nSystem Administration\n>\nRestore Default Settings\n>\nNetwork Settings\n>\nYes\n.\nOn your Mac, open the\nmenu and select\nSystem Preferences\n. Select the\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\nwindow, select your printer, then click\nto remove the printer.\nIn\nSystem Preferences\n, click either\nSecurity & Privacy\nor\nSecurity\n. Select the\nFirewall\ntab, then disable the firewall.\nIf you have other firewall software enabled, you'll also need to disable it. If you don't know how to disable it, contact your firewall provider for help.\nNote:\nThis step is needed to install the product's software and complete the Wi-Fi setup. Remember to enable your firewall software after you complete the Wi-Fi setup.\nUnplug your router's power cord from the power outlet, wait a brief period, then plug it back in. You may need to re-establish the connection for the other devices on your network.\nDownload the\nDrivers and Utilities Combo Package\nfrom the Downloads tab for your product.\nNote:\nMake a note of the file name and save the location so you can easily retrieve it.\nOpen the file you downloaded and follow the on-screen instructions. When you see the Select Your Connection screen, select\nWireless connection\n, click\nContinue\n, then follow the on-screen instructions.\nWhen you see the Select Setup Option screen, select\nSet up printer for the first time\n, click\nContinue\n, then follow the on-screen instructions to complete the installation.\nIf you see this screen, click\nOptions\n.\nAfter you complete the Wi-Fi setup, turn your firewall back on. If these troubleshooting instructions did not solve the problem, please contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293161?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_SCP800SP~faq-293161",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:23.629426"
+        },
+        {
+          "question": "How do I change from a Wi-Fi connection to a wired network connection?",
+          "answer": "See below.\nChanging a Wi-Fi Connection to a Wired Network Connection\nIf you have already connected your product to your computer wirelessly, you can change to a wired network connection if necessary.\nDisable your product's Wi-Fi features.\nConnect one end of an Ethernet network cable to the product's\nLAN\nport.\nConnect the other end to any available LAN port on your router or access point.\nUninstall your product software.\nDownload and install your product software from the Epson website.\nFollow the on-screen instructions to install the software.\nWhen you see the Select Your Connection screen, select\nWired network connection\n.\nIf you see a Select Setup Option screen, select\nSet up printer for the first time\n.\nContinue following the rest of the on-screen instructions.\nRelated concepts\nUninstall Your Product Software\nRelated tasks\nDisabling Wi-Fi Features",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293425?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_SCP800SP~faq-293425",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:27.062190"
+        },
+        {
+          "question": "I was able to print from Windows before with a wireless connection, but now I can't. What should I do?",
+          "answer": "The problem can be caused by your printer, computer, or wireless network. Do the following:\nTo determine if the printer can print without a computer, print a\nnozzle check pattern\nfrom the product's control panel.\nIf you can print, go to the next step.\nIf you can't print a nozzle check pattern, check the product's LCD for\nerror messages\n. Clear any errors displayed on the LCD, then try printing a nozzle check pattern again. If you still can't print, contact Epson support.\nDelete any pending print job(s) from the Epson print queue\nand then try printing again.\nIf you can print, you're done, and you can skip the remaining steps.\nIf you still can't print, check the Wi-Fi icon on the product's control panel, then do one of the following:\nIf the Wi-Fi icon\nis displayed, follow the instructions in the\nInitialize Your Router and Restart Your Computer\nsection below.\nIf the Wi-Fi icon\nis displayed, follow the instructions in the\nReinstall the Product Software\nsection below.\nInitialize Your Router and Restart Your Computer\nUnplug your router's power cord from the power outlet, wait a brief period, then plug it back in. Try to print. You may need to re-establish the connection for the other devices on your network.\nIf you can print, you're done. The problem was resolved by initializing your router.\nIf you still can't print, restart your computer, then try printing again. If these steps do not resolve your problem, contact Epson support.\nReinstall the Product Software\nImportant:\nYou'll need to know your network name (SSID) and network password before you can set up your product. If you don't know them, contact the manufacturer of your router or the person who set up your network. If you are using a 5 GHz wireless router, set the router to operate in dual band (2.4 GHz and 5 GHz) mode. See your router documentation for instructions.\nReset the product's Wi-Fi settings on the product's control panel by doing the following:\nPress the\nhome button, if necessary. Select\nsetup >\nSystem Administration\n>\nRestore Default Settings\n>\nNetwork Settings\n>\nYes\n.\nTurn off the product and disconnect any interface cables.\nDo one of the following:\nWindows 10\n: Right-click\nand select\nControl Panel\n>\nSystem and Security\n>\nWindows Firewall\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nWindows Firewall\n.\nWindows (other versions)\n: Select\nor\nStart\n>\nControl Panel\n>\nSystem and Security\n>\nWindows Firewall\n.\nDisable the firewall.\nIf you have other firewall software enabled, you'll also need to disable it. If you don't know how to disable it, contact your firewall provider for help.\nNote:\nThis step is needed to install the product's software and complete the Wi-Fi setup. Remember to enable your firewall software after you complete the Wi-Fi setup.\nDo one of the following:\nWindows 10\n: Right-click\nand select\nControl Panel\n>\nPrograms\n>\nPrograms and Features\n. Select the uninstall option for your Epson product, then select\nUninstall/Change\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto confirm the uninstallation.\nWindows 8.x\n: Navigate to the\nApps\nscreen, select\nControl Panel\n>\nPrograms\n>\nPrograms and Features\n. Select the uninstall option for your Epson product, then select\nUninstall/Change\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nIn the next window, select your product, if necessary, then click\nOK\n. Then follow any on-screen instructions.\nWindows (other versions)\n: Click\nor\nStart\n, and select\nAll Programs\nor\nPrograms\n. Select\nEpson\n, select your product, then select\nEPSON Printer Software Uninstall\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nIn the next window, select your product and click\nOK\n. Then follow any on-screen instructions.\nUnplug your router's power cord from the power outlet, wait a brief period, then plug it back in. You may need to re-establish the connection for the other devices on your network.\nDownload the\nDrivers and Utilities Combo Package\nfrom the Downloads tab for your product. Make a note of the file name and save the location so you can retrieve it.\nOpen the file you downloaded and follow the on-screen instructions. When you see the Select Your Connection screen, select\nWireless connection\n, then click\nNext\n.\nWhen you see the Select Setup Option screen, select\nSet up printer for the first time\n, then click\nNext\n.\nIf you see this screen, click\nOptions\n.\nWhen you see the Select a Wireless Network Setup Method screen, follow the on-screen instructions to complete the installation.\nAfter you complete the Wi-Fi setup, turn your firewall back on. If these troubleshooting instructions did not solve the problem, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293163?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_SCP800SP~faq-293163",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:28.371099"
+        },
+        {
+          "question": "How do I connect my product to my wireless network using my product's control panel?",
+          "answer": "See below.\nSelecting Wireless Network Settings from the Control Panel\nYou can select or change wireless network settings using your product control panel.\nTo install your product on a wireless network, follow the instructions on the Start Here sheet and install the necessary software. The installer program guides you through network setup.\nNote:\nBreakdown or repair of this product may cause loss of network data and settings. Epson is not responsible for backing up or recovering data and settings during or after the warranty period. We recommend that you make your own backup or print out your network data and settings.\nPress the\nhome button, if necessary.\nPress the\nnetwork status icon.\nSelect\nWi-Fi Setup\n. You see a screen like this:\nSelect\nWi-Fi Setup Wizard\n.\nNote:\nIf you need to disable the wireless network to set up your product on an Ethernet network, press the down arrow button, select\nDisable Wi-Fi\n, and press the\nOK\nbutton. Then follow the instructions on changing to a wired network connection.\nSelect the name of your wireless network or enter the name manually.\nNote:\nTo enter the wireless network name manually, select\nOther Networks\nand select the\nNetwork (SSID)\nfield. Use the displayed keypad to enter your network name.\nSelect the\nPassword\nfield and enter your wireless password using the displayed keypad.\nNote:\nThe network name and password are case sensitive. Be sure to correctly enter uppercase and lowercase letters, and numeric or special characters.\nPress\nor\nto move the cursor.\nPress\nto change the case of letters.\nPress\nto delete the previous character.\nPress\nto enter numbers and symbols.\nPress\nto enter a space.\nPress\nwhen you finish entering your password and select\nProceed\n.\nConfirm the displayed network settings and select\nOK\nto save them.\nNote:\nIf you need to change a setting, press the\nback button.\nIf you want to print a network setup report, select\nPrint\n. (Otherwise, select\nDone\n.)\nPress the\nhome button to exit. Your product should now be connected to the network.\nNote:\nIf the WiFi connection symbol does not appear lit on the touch screen, you may have selected the wrong network name or entered the password incorrectly. Repeat these steps to try again.\nRelated tasks\nChanging a Wi-Fi Connection to a Wired Network Connection",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293379?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_SCP800SP~faq-293379",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:29.495488"
+        },
+        {
+          "question": "I was able to print from my Mac before with an Ethernet connection, but now I can't. What should I do?",
+          "answer": "The problem can be caused by your printer or the computer. Do the following:\nTo determine if the printer can print without a computer, print a\nnozzle check pattern\nfrom the product's control panel.\nIf you can print, go to the next step.\nIf you can't print a nozzle check pattern, check the product's LCD for\nerror messages\n. Clear any errors displayed on the LCD, then try printing a nozzle check pattern again. If you still can't print, contact Epson support.\nDelete any pending print job(s) from the Epson print queue\n, then try printing again.\nIf you can print now, you're done, and you can skip the remaining steps.\nIf you can't print, go to the next step.\nDelete and re-add the print queue. Open the\nmenu, and select\nSystem Preferences\n, then\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n. Select your printer, then click the\nbutton. Click the\nbutton, select your printer, then click\nAdd\n. Close the\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\nwindow, then try printing again.\nIf you can print now, you're done.\nIf you still can't print, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293159?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_SCP800SP~faq-293159",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:30.584211"
+        },
+        {
+          "question": "I tried to install my product's software for an Ethernet connection but cannot complete the installation in Windows or OS X. What should I do?",
+          "answer": "Uninstall the printer software, then reinstall the software. Before reinstalling the software, check for the following:\nMake sure your system meets the requirements.\nClose any other programs, including screen savers and virus protection software, and install your product software again.\nIf you see an error message or your software does not install correctly in Windows, you may not have software installation privileges. Contact your System Administrator.\nMake sure your product is turned on and the network cable is securely connected at both ends.\nRelated references\nWindows System Requirements\nOS X System Requirements",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293147?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_SCP800SP~faq-293147",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:31.802378"
+        },
+        {
+          "question": "How do I change from a USB connection to a Wi-Fi connection?",
+          "answer": "See below.\nChanging a USB Connection to a Wi-Fi Connection\nIf you have already connected your product to your computer using a USB connection, you can change to a Wi-Fi connection.\nDisconnect the USB cable from your product.\nUninstall your product software.\nDownload and install your product software from the Epson website using the instructions on the Start Here sheet.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293423?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_SCP800SP~faq-293423",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:32.923662"
+        },
+        {
+          "question": "I was able to print from Windows before with an Ethernet connection, but now I can't. What should I do?",
+          "answer": "The problem can be caused by your printer or computer. Do the following:\nTo determine if the printer can print without a computer, print a\nnozzle check pattern\nfrom the product's control panel.\nIf you can print, go to the next step.\nIf you can't print a nozzle check pattern, check the product's LCD for\nerror messages\n. Clear any errors displayed on the LCD, then try printing a nozzle check pattern again. If you still can't print, contact Epson support.\nDelete any pending print job(s) from the Epson print queue\n, then try printing again.\nIf you can print now, you're done, and you can skip the remaining steps.\nIf you can't print, go to the next step.\nSet your product as the default printer.\nWindows 10\n: Right-click\nand select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your product icon and select\nSet as Default Printer\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer icon and select\nSet as Default Printer\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer icon and select\nSet as Default Printer\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer icon and select\nSet as Default Printer\nWindows XP\n: Click\nStart\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n. Right-click your printer icon and select\nSet as Default Printer\n.\nNote:\nIf there is more than one icon for your printer, select the icon that is not faded (or is in a Ready or Active state) to be your default printer. You can delete any duplicate icons that are faded or in an Offline state by right-clicking the icon and selecting\nDelete\n.\nIf you still can't print, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293158?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_SCP800SP~faq-293158",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:34.114262"
+        },
+        {
+          "question": "How do I find my SSID and network password?",
+          "answer": "In most cases, the software installer will automatically set up your wireless connection, so you don't need to know your SSID and password. However, if it cannot determine your SSID or password, you will be prompted to set up your wireless connection manually.\nCheck your router documentation for this information. Most routers have a default SSID and password that can be modified once the router is set up.\nNote:\nThe SSID is the name of the wireless network that is set up on your router or access point.\nIf you don't know this information, you need to contact the manufacturer of your router or the person who set up your network.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-00009c6-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_SCP800SP~faq-00009c6-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:35.272969"
+        },
+        {
+          "question": "Can I set up my product for both a USB and network connection?",
+          "answer": "Yes. However, the product does not support a wireless and an Ethernet connection at the same time.\nTo set up both a USB and network connection, you must install the product's software twice (i.e., once for each connection type).\nNote:\nWith this setup, your product may appear as two devices in the Printer list. One device is for the USB connection, and the other is for the network connection.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-00004fe-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_SCP800SP~faq-00004fe-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:36.346822"
+        },
+        {
+          "question": "Where can I get my wireless password for Apple AirPort Extreme or Express?",
+          "answer": "Contact Apple for assistance.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-00004c1-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_SCP800SP~faq-00004c1-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:37.665648"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 9,
+      "faqs": [
+        {
+          "question": "Do all P-series products support screen printing?",
+          "answer": "The Epson SureColor Screen Print Editions were designed to give screen printers a complete solution to producing screen positive film. For the most reliable and consistent results, it's recommended that screen printers purchase and use the Screen Print Edition printers.\nWhen using the standard Epson driver to print on Epson Screen Positive Film, we recommend the following settings:\nOption\nRecommended setting\nMedia Type\nPremium Luster\nInk\nPhoto Black Ink\nColor\nB&W\nMode\nOff (No Color Management)\nOutput Resolution\n2880 × 1440 (Max Quality / Level 5)\nMicroWeave\nOn\nHigh Speed\nOff (deselected)\nColor Density\n+15\nDrying Time\n0\nPaper Feed Adjust\n0\nPaper Thickness\n1\nPlaten Gap\nStandard\nRoll Paper Back Tension\nN/A\nSend 16-bit Data (OS X only)\nOff (deselected)",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-293167?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCP800SP~faq-293167",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:38.721194"
+        },
+        {
+          "question": "What is the difference between the standard printer and the Screen Print Edition?",
+          "answer": "The Screen Print Edition includes the AccuRIP Black Pearl SE RIP software and Epson Screen Positive Film, which can be used for screen printing.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-292685?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCP800SP~faq-292685",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:39.795589"
+        },
+        {
+          "question": "My product will not wake up when I try to print with a wireless connection. What should I do?",
+          "answer": "Turn the product off and on. If you can print now, the problem is related to your wireless router. Contact the manufacturer of your router for assistance or try using a different router.\nIf you cannot print after turning the product off and on, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-00004c8-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCP800SP~faq-00004c8-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:40.918065"
+        },
+        {
+          "question": "Why doesn't Epson include a USB or Ethernet cable in the box with the product?",
+          "answer": "We are committed to giving our customers the best value possible with every product we sell. To provide high-quality products with the latest technology and sell them at the most competitive prices, it is critical to choose which components are necessary and which may be redundant. Because many of our customers already own USB or Ethernet cables, it makes good sense to eliminate the costs of including a cable in every box and use those savings to improve product features and lower the cost to you, the consumer.\nNote:\nNot all products support an Ethernet interface.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-0000490-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCP800SP~faq-0000490-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:41.999232"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCP800SP~faq-00004b0-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:43.074481"
+        },
+        {
+          "question": "What security measures does Epson recommend for its network products?",
+          "answer": "To help deter unauthorized access to your product over a network, you should protect your network environment using appropriate security measures.\nSecurity measures such as these can help deter threats such as loss of user data, use of telephone and fax lines, and other intrusions:\nEnable security on your wireless LAN if your product supports a wireless connection\nEnable the appropriate security on the wireless LAN you plan to use with your product. Network security, such as a network password, can deter interception of traffic over the wireless LAN. Your router may already have a default password enabled by your Internet service provider (ISP). See your ISP and router documentation for instructions on how to change the default password and better secure your network.\nConnect your product only to a network protected by a firewall\nConnecting your product directly to the Internet may leave it vulnerable to security threats. Instead, connect it to a router or other networking device protected by a firewall. Your router may already have a firewall set up by your Internet service provider; check with your ISP for confirmation. For best results, set up and use a private IP address for your network connection.\nChange the default administrator password on your product\nIf your product has an option to set an administrator password, change the default administrator password to deter access by unauthorized users to personal data stored on your product, such as IDs, passwords, and contact lists. See the product's User's Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-0000a05-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCP800SP~faq-0000a05-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:44.174389"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SCP800SP~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCP800SP~faq-0000f4a-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-P800-Screen-Print-Edition/s/SPT_SCP800SP",
+          "fetched_at": "2026-04-02T03:01:45.243247"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

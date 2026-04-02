@@ -1,0 +1,357 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Impact Printers",
+  "series": "LX Series",
+  "model": {
+    "name": "Epson LX-300+II",
+    "sku": "SPT_C11C640001",
+    "url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11C640001~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C640001~faq-00004dc-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001",
+          "fetched_at": "2026-04-02T05:18:45.865472"
+        },
+        {
+          "question": "A label peeled off in the product. How should I remove it?",
+          "answer": "Press the product's\nLF/FF\nbutton until the label appears on the platen and remove the label. If you can't remove the label this way, do not remove the platen from the product. Get the printer serviced.\nNote:\nWe recommend you use the pull tractor to print labels. Labels fed through the rear push tractor can curl and peel off under the platen.",
+          "faq_url": "https://epson.com/faq/SPT_C11C640001~faq-0000937-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C640001~faq-0000937-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001",
+          "fetched_at": "2026-04-02T05:18:46.920307"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11C640001~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C640001~faq-00004b0-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001",
+          "fetched_at": "2026-04-02T05:18:48.031790"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11C640001~faq-0000f4a-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C640001~faq-0000f4a-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001",
+          "fetched_at": "2026-04-02T05:18:49.123429"
+        },
+        {
+          "question": "When I print on single sheets, the first page prints correctly, but the print on the following pages starts too low on the page. What should I do?",
+          "answer": "Make sure you have single sheet (or cut-sheet) selected as the paper type in the printer driver. If you're using non-Windows software, check if the software has a lines per page setting and set it to 61 lines per page.",
+          "faq_url": "https://epson.com/faq/SPT_C11C640001~faq-76726?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C640001~faq-76726",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001",
+          "fetched_at": "2026-04-02T05:18:50.254940"
+        },
+        {
+          "question": "How do I create a custom paper size in the Server Properties?",
+          "answer": "Follow these steps to create a new page size accessible by all printer drivers installed in Windows:\nOpen the\nPrinters\nor\nPrinters and Faxes\nwindow.\nClick\nFile\n, then\nServer Properties\n.\nPut a check in the\nCreate a new form\nbox.\nInput a name for the custom paper size.\nUnder\nPaper Size\n, enter the desired height and width.\nClick\nSave\nor\nSave Form\nto add the new form size to the list, then\nOK\nto close Server Properties.",
+          "faq_url": "https://epson.com/faq/SPT_C11C640001~faq-140676?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C640001~faq-140676",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001",
+          "fetched_at": "2026-04-02T05:18:51.364771"
+        },
+        {
+          "question": "Can I use the platen knob to load or adjust paper?",
+          "answer": "No. Use the Load/Eject button to load or remove paper and the micro adjust feature to\nadjust the top-of-form position\n. The knob should only be used to clear paper jams after the printer has been turned off.",
+          "faq_url": "https://epson.com/faq/SPT_C11C640001~faq-76547?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C640001~faq-76547",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001",
+          "fetched_at": "2026-04-02T05:18:52.574114"
+        },
+        {
+          "question": "My product will not print through a PC serial connection. What should I do?",
+          "answer": "Check the following:\nMake sure you're using a null modem cable.\nMake sure the serial connection settings on the printer matches the settings on your computer. See\nChanging the Printer's Default Settings\nto change the printer's settings.\nMake sure the cable connection is not loose.\nTry a different cable.",
+          "faq_url": "https://epson.com/faq/SPT_C11C640001~faq-76546?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C640001~faq-76546",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001",
+          "fetched_at": "2026-04-02T05:18:53.669105"
+        },
+        {
+          "question": "What driver should I use if my product is not listed?",
+          "answer": "Choose the first available printer from the following list:\nLX-300+\nLX-300\nLX-810/850\nLX-800/860\nFX-850\nFX-860/800\nJX-80\nEX-800\nAny FX printer\nEpson printer\nDraft printer",
+          "faq_url": "https://epson.com/faq/SPT_C11C640001~faq-76723?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C640001~faq-76723",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001",
+          "fetched_at": "2026-04-02T05:18:54.795155"
+        },
+        {
+          "question": "What are the common escape codes for my product?",
+          "answer": "See the following:\nCommand\nDecimal value\nCarriage return\n13\nLine feed\n10\nForm feed\n12\nSelect 1/8-inch line spacing\n27, 48\n10 cpi\n27, 80\n12 cpi\n27, 77\nSelect bold font\n27, 69\nCancel bold font\n27, 70\nSelect italic font\n27, 52\nCancel italic font\n27, 53\nSelect condensed font\n15\nCancel condensed font\n18\nReset\n27, 64\nSet page length in lines\n27, 67, n\n(n is a number from 1 to 127)\nTurn underline on/off\n27, 45, n\n(n equals 49=ON or 48=OFF)\nFor more codes, see\nEPSON ESC/P control codes\nin the\nLX-300+II Reference Guide\n. If you need to use advanced escape codes, you can purchase an\nESC/P Reference Manual\nfrom the Epson Store.",
+          "faq_url": "https://epson.com/faq/SPT_C11C640001~faq-76605?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C640001~faq-76605",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001",
+          "fetched_at": "2026-04-02T05:18:54.225464"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Can I print on checks that are 3-inches in length?",
+          "answer": "Yes. You'll need to set up the paper size in your software. In Windows you'll need to define a custom paper size. If you're using software that does not have an option to set a paper size, try setting the page size on the printer. See\nChanging the Default Settings\nin the\nLX-300+II Reference Guide\n.\nNote: Software settings always override the printer's default settings.",
+          "faq_url": "https://epson.com/faq/SPT_C11C640001~faq-76584?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C640001~faq-76584",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001",
+          "fetched_at": "2026-04-02T05:18:55.298922"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "My product is beeping. What should I do?",
+          "answer": "See\nUsing the Error Indicators\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C640001~faq-76683?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11C640001~faq-76683",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001",
+          "fetched_at": "2026-04-02T05:18:56.445437"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "A label peeled off in the product. How should I remove it?",
+          "answer": "Press the product's\nLF/FF\nbutton until the label appears on the platen and remove the label. If you can't remove the label this way, do not remove the platen from the product. Get the printer serviced.\nNote:\nWe recommend you use the pull tractor to print labels. Labels fed through the rear push tractor can curl and peel off under the platen.",
+          "faq_url": "https://epson.com/faq/SPT_C11C640001~faq-0000937-shared?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C11C640001~faq-0000937-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001",
+          "fetched_at": "2026-04-02T05:18:57.554506"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "How do I create a custom paper size in the Server Properties?",
+          "answer": "Follow these steps to create a new page size accessible by all printer drivers installed in Windows:\nOpen the\nPrinters\nor\nPrinters and Faxes\nwindow.\nClick\nFile\n, then\nServer Properties\n.\nPut a check in the\nCreate a new form\nbox.\nInput a name for the custom paper size.\nUnder\nPaper Size\n, enter the desired height and width.\nClick\nSave\nor\nSave Form\nto add the new form size to the list, then\nOK\nto close Server Properties.",
+          "faq_url": "https://epson.com/faq/SPT_C11C640001~faq-140676?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C640001~faq-140676",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001",
+          "fetched_at": "2026-04-02T05:18:58.650891"
+        },
+        {
+          "question": "Can I use the platen knob to load or adjust paper?",
+          "answer": "No. Use the Load/Eject button to load or remove paper and the micro adjust feature to\nadjust the top-of-form position\n. The knob should only be used to clear paper jams after the printer has been turned off.",
+          "faq_url": "https://epson.com/faq/SPT_C11C640001~faq-76547?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C640001~faq-76547",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001",
+          "fetched_at": "2026-04-02T05:18:59.841917"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "When I print from my non-Windows application, lines appear as italic characters. What should I do?",
+          "answer": "Set the printer's character table to PC 437. See\nChanging the Printer's Default Settings\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C640001~faq-76725?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C640001~faq-76725",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001",
+          "fetched_at": "2026-04-02T05:19:00.941061"
+        },
+        {
+          "question": "When I print on single sheets, the first page prints correctly, but the print on the following pages starts too low on the page. What should I do?",
+          "answer": "Make sure you have single sheet (or cut-sheet) selected as the paper type in the printer driver. If you're using non-Windows software, check if the software has a lines per page setting and set it to 61 lines per page.",
+          "faq_url": "https://epson.com/faq/SPT_C11C640001~faq-76726?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C640001~faq-76726",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001",
+          "fetched_at": "2026-04-02T05:19:02.012707"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "Are dip switches used to change settings on my product?",
+          "answer": "No. The printer has built-in default settings. You can change the settings using the printer's front panel buttons. For more information, see\nChanging the Printer's Default Settings\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C640001~faq-76604?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C640001~faq-76604",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001",
+          "fetched_at": "2026-04-02T05:19:03.111568"
+        },
+        {
+          "question": "Can my product emulate an IBM Proprinter?",
+          "answer": "Yes. The printer emulates the IBM 2380 Plus.",
+          "faq_url": "https://epson.com/faq/SPT_C11C640001~faq-76564?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C640001~faq-76564",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001",
+          "fetched_at": "2026-04-02T05:19:04.190041"
+        },
+        {
+          "question": "Does my product support an IBM mainframe (IBM 3270) or IBM minicomputer (AS/400 or System 3X) environment?",
+          "answer": "No. The printer does not have the optional slot necessary to connect to a mainframe or minicomputer system.",
+          "faq_url": "https://epson.com/faq/SPT_C11C640001~faq-76643?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C640001~faq-76643",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001",
+          "fetched_at": "2026-04-02T05:19:05.317535"
+        },
+        {
+          "question": "What driver should I use if my product is not listed?",
+          "answer": "Choose the first available printer from the following list:\nLX-300+\nLX-300\nLX-810/850\nLX-800/860\nFX-850\nFX-860/800\nJX-80\nEX-800\nAny FX printer\nEpson printer\nDraft printer",
+          "faq_url": "https://epson.com/faq/SPT_C11C640001~faq-76723?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C640001~faq-76723",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001",
+          "fetched_at": "2026-04-02T05:19:06.401619"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11C640001~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C640001~faq-00004dc-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001",
+          "fetched_at": "2026-04-02T05:19:07.533910"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "What is the recommended duty cycle for my product?",
+          "answer": "The recommended duty cycle is 25 percent. This describes the printer's condition when it is printing (not idle) for 2 hours a day, 22 days per month.",
+          "faq_url": "https://epson.com/faq/SPT_C11C640001~faq-76545?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C640001~faq-76545",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001",
+          "fetched_at": "2026-04-02T05:19:08.595516"
+        },
+        {
+          "question": "My product will not print through a PC serial connection. What should I do?",
+          "answer": "Check the following:\nMake sure you're using a null modem cable.\nMake sure the serial connection settings on the printer matches the settings on your computer. See\nChanging the Printer's Default Settings\nto change the printer's settings.\nMake sure the cable connection is not loose.\nTry a different cable.",
+          "faq_url": "https://epson.com/faq/SPT_C11C640001~faq-76546?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C640001~faq-76546",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001",
+          "fetched_at": "2026-04-02T05:19:09.728720"
+        },
+        {
+          "question": "What are the common escape codes for my product?",
+          "answer": "See the following:\nCommand\nDecimal value\nCarriage return\n13\nLine feed\n10\nForm feed\n12\nSelect 1/8-inch line spacing\n27, 48\n10 cpi\n27, 80\n12 cpi\n27, 77\nSelect bold font\n27, 69\nCancel bold font\n27, 70\nSelect italic font\n27, 52\nCancel italic font\n27, 53\nSelect condensed font\n15\nCancel condensed font\n18\nReset\n27, 64\nSet page length in lines\n27, 67, n\n(n is a number from 1 to 127)\nTurn underline on/off\n27, 45, n\n(n equals 49=ON or 48=OFF)\nFor more codes, see\nEPSON ESC/P control codes\nin the\nLX-300+II Reference Guide\n. If you need to use advanced escape codes, you can purchase an\nESC/P Reference Manual\nfrom the Epson Store.",
+          "faq_url": "https://epson.com/faq/SPT_C11C640001~faq-76605?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C640001~faq-76605",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001",
+          "fetched_at": "2026-04-02T05:19:10.797161"
+        },
+        {
+          "question": "My product does not load paper to the correct top-of-form position. How can I change the position?",
+          "answer": "Use the printer's micro adjust feature to adjust the position. See\nAdjusting the top-of-form position\nfor more information.\nCaution:\nNever use the knob to adjust the top-of-form position; this may damage the printer or cause it to lose the top-of-form position.",
+          "faq_url": "https://epson.com/faq/SPT_C11C640001~faq-76585?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C640001~faq-76585",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001",
+          "fetched_at": "2026-04-02T05:19:12.028734"
+        },
+        {
+          "question": "My product intermittently looses data with a serial connection set to a 9600 baud rate or higher. What should I do?",
+          "answer": "Use a DTR setting if you can. If you must use XON/XOFF, decrease the baud rate. (At 9600 the XOFF signal may not reach the printer in time to delay data transmission and this will result in a loss of data.)",
+          "faq_url": "https://epson.com/faq/SPT_C11C640001~faq-76606?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C640001~faq-76606",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001",
+          "fetched_at": "2026-04-02T05:19:13.141771"
+        },
+        {
+          "question": "Does my product print landscape fonts?",
+          "answer": "The printer does not include landscape fonts as part of its built-in character set. If you're printing from Windows, however, it can print TrueType fonts in landscape.",
+          "faq_url": "https://epson.com/faq/SPT_C11C640001~faq-76623?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C640001~faq-76623",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001",
+          "fetched_at": "2026-04-02T05:19:14.305039"
+        },
+        {
+          "question": "Why does my product stop or pause in the middle of a large print job?",
+          "answer": "The printer will pause or stop if it's waiting for more data or processing data received from a computer. It may also pause or slow down to ensure the print head does not overheat. It resumes printing once the print head has cooled down.",
+          "faq_url": "https://epson.com/faq/SPT_C11C640001~faq-76703?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C640001~faq-76703",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001",
+          "fetched_at": "2026-04-02T05:19:15.465388"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11C640001~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C640001~faq-00004b0-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001",
+          "fetched_at": "2026-04-02T05:19:16.557005"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11C640001~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C640001~faq-0000f4a-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LX-Series/Epson-LX-300%2BII/s/SPT_C11C640001",
+          "fetched_at": "2026-04-02T05:19:17.664238"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

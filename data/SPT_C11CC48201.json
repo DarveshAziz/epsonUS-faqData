@@ -1,0 +1,1055 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "All-In-Ones",
+  "series": "XP Series",
+  "model": {
+    "name": "Epson XP-200",
+    "sku": "SPT_C11CC48201",
+    "url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "How do I find my SSID and network password?",
+          "answer": "Check your router documentation for this information. Most routers have a default SSID and password that can be modified once the router is set up.\nNote:\nThe SSID is the name of the wireless network that is set up on your router or access point.\nIf you don't know this information, you'll need to contact the manufacturer of your router or the person who set up your network.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-0000ae9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CC48201~faq-0000ae9-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:11.551025"
+        },
+        {
+          "question": "I can't get Epson Status Monitor to work over my wireless network. What should I do?",
+          "answer": "If the product is not shared, make sure it is connected to the network wirelessly. Try moving your product or computer to a different location within range of your wireless network. Avoid placing the computer, product, or wireless access point near microwaves, cordless telephones, or other sources of wireless interference.\nIf the product is set up as a shared printer, Epson Status Monitor will not work and is not supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-00004c7-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CC48201~faq-00004c7-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:12.661020"
+        },
+        {
+          "question": "How do I scan a photo without scanning the entire scanner glass?",
+          "answer": "Use the Thumbnail preview option when you scan.  The option is available only in Home or Professional Mode.\nSee below for instructions.\nHome Mode\nPlace your original(s) on the scanner glass.\nStart Epson Scan and select\nHome Mode\nif necessary.\nSelect\nPhotograph\nas the Document Type.  Click the\nThumbnail\ncheck box.\nClick\nPreview\n.  Your photo is selected automatically as the scan area with a blue marquee.\nSelect\nScan\n, then click\nOK\n.\nProfessional Mode\nPlace your original(s) on the scanner glass.\nStart Epson Scan and select\nProfessional Mode\nif necessary.\nSelect\nDocument Table\nas the Document Source and select\nPhoto\nas Auto Exposure Type.\nClick the\nThumbnail\ncheck box.\nClick\nPreview\n.  Your photo is selected automatically as the scan area with a blue marquee.\nSelect\nScan\n, then click\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-253187-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CC48201~faq-253187-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:13.735079"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-00004c5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CC48201~faq-00004c5-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:14.797624"
+        },
+        {
+          "question": "An area I highlighted with a fluorescent (or neon) marker does not appear in my scan. What should I do?",
+          "answer": "Try using a non-fluorescent marker. This limitation occurs with some scanners that use a contact image sensor (CIS) and cannot detect fluorescent marks accurately, especially yellow marks.\nIf you need to scan a document with fluorescent marks, we recommend you use a scanner with charge-coupled device (CCD) technology or a full-color contact image sensor, both of which can detect fluorescent marks. The following Epson products feature CCD or full-color CIS optics:\nDS-30000\nDS-32000\nWorkForce DS-50000\nWorkForce DS-60000\nWorkForce DS-70000",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-00008c5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CC48201~faq-00008c5-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:16.040046"
+        },
+        {
+          "question": "How do I scan a document so I can edit the text in a word processing program?",
+          "answer": "You can scan a document and convert the text into data that you can edit with a word processing program using a process called OCR (Optical Character Recognition). To scan and use OCR, you need to use an OCR program.\nOCR software cannot recognize handwritten characters, and certain types of documents or text may be difficult for OCR software to recognize, such as:\nItems that have been copied from other copies\nFaxes\nText with tightly spaced characters\nText that is in tables or underlined\nCursive or italic fonts and font sizes less than 8 points",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-0000508-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CC48201~faq-0000508-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:17.074074"
+        },
+        {
+          "question": "What security measures does Epson recommend for its network products?",
+          "answer": "To help deter unauthorized access to your product over a network, you should protect your network environment using appropriate security measures.\nSecurity measures such as these can help deter threats such as loss of user data, use of telephone and fax lines, and other intrusions:\nEnable security on your wireless LAN if your product supports a wireless connection\nEnable the appropriate security on the wireless LAN you plan to use with your product. Network security, such as a network password, can deter interception of traffic over the wireless LAN. Your router may already have a default password enabled by your Internet service provider (ISP). See your ISP and router documentation for instructions on how to change the default password and better secure your network.\nConnect your product only to a network protected by a firewall\nConnecting your product directly to the Internet may leave it vulnerable to security threats. Instead, connect it to a router or other networking device protected by a firewall. Your router may already have a firewall set up by your Internet service provider; check with your ISP for confirmation. For best results, set up and use a private IP address for your network connection.\nChange the default administrator password on your product\nIf your product has an option to set an administrator password, change the default administrator password to deter access by unauthorized users to personal data stored on your product, such as IDs, passwords, and contact lists. See the product's User's Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-0000a05-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CC48201~faq-0000a05-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:18.161170"
+        },
+        {
+          "question": "How do I change the default settings for the Scan to PC feature?",
+          "answer": "You need to change the settings in Epson Event Manager.  Follow the instructions below.\nDo one of the following:\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nEvent Manager\n.\nWindows (other versions)\n: Click\nStart\nor\n, and select\nAll Programs\nor\nPrograms\n>\nEPSON Software\n>\nEvent Manager\n.\nMac OS X\n: Open\nApplications\n>\nEpson software\n>\nEvent Manager\n.\nSelect your product in the Scanner drop-down box, then click\nMake Job Settings\n.\nSelect\nScan to PC\n, then click on\nDetailed Settings for Scanning\n.\nSelect the settings you would like to use.\nThe following dpi (dots per inch) settings are supported:\nSpeed (150 dpi)\nStandard (300 dpi)\nHigh resolution (600 dpi)\nCustom\nNote\n: Higher dpi settings take longer to scan.\nClick\nOK\ntwice, then click\nClose\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-251949-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CC48201~faq-251949-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:20.233034"
+        },
+        {
+          "question": "Can an unauthorized user access my network if I select Unblock or Allow during the EpsonNet Setup software installation?",
+          "answer": "No. This selection will only unblock or allow the EpsonNet Setup software access to your network (which is necessary for your computer to communicate with your all-in-one over your network).",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-0000ab1-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CC48201~faq-0000ab1-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:21.107289"
+        },
+        {
+          "question": "Where can I find information on using my Epson product with Google Cloud Print?",
+          "answer": "See our\nGoogle Cloud Print Support\npage.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-000049e-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CC48201~faq-000049e-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:21.987583"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Cloud or Mobile",
+      "section_id": "8796127340620",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "What is Epson Connect?",
+          "answer": "Epson Connect provides mobile services that allow you to print and scan from anywhere. Epson Connect includes the following solutions:\nNote:\nYour product may not support all of the Epson Connect features or services.\nEpson Email Print\n- Print your photos and documents from anywhere by simply sending an email. See\nEpson Email Print\nfor more information.\nEpson Remote Print\n- Print remotely over the Internet. See\nEpson Remote Print\nfor more information.\nEpson Scan to Cloud\n- Scan your documents and photos to an online storage account. See\nEpson Scan to Cloud\nfor more information.\nEpson iPrint\n- A wireless printing app for iOS or Android smartphones and tablets. See\nEpson iPrint for iOS\nor\nEpson iPrint for Android\nfor more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-276163?faq_cat=faq-8796127340620",
+          "faq_slug": "SPT_C11CC48201~faq-276163",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:22.862770"
+        },
+        {
+          "question": "Where can I find information on using my Epson product with Google Cloud Print?",
+          "answer": "See our\nGoogle Cloud Print Support\npage.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-000049e-shared?faq_cat=faq-8796127340620",
+          "faq_slug": "SPT_C11CC48201~faq-000049e-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:23.774969"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "Printing is slow or my product stops printing when I try to print from Windows or OS X. What should I do?",
+          "answer": "Try the following:\nSelect a lower quality setting in the printer software.\nMake sure your system meets the minimum system requirements for your printer.\nIf you're using Windows 7, close the\nDevices and Printer\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Basic Print Settings - Mac OS X\nRelated references\nWindows System Requirements\nMac System Requirements",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-210517?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CC48201~faq-210517",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:24.645423"
+        },
+        {
+          "question": "My product is printing blank pages from Windows or my Mac. What should I do?",
+          "answer": "Try the following:\nMake sure you selected the correct paper size settings in your printing program and printer software.\nRun a print head nozzle check to see if any of the nozzles are clogged. Then clean the print head, if necessary.\nIf a blank page exists in a document you are printing and you want to skip printing it, select the\nSkip Blank Page\nsetting in your printer software as instructed below.\nWindows\nDo one of the following:\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows XP\n: Click\nStart\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n. Right-click your printer and select\nPrinting Preferences\n.\nClick the\nMaintenance\ntab, then click the\nSpeed & Progress\nbutton.\nIn the Settings area, select the\nSkip Blank Page\nsetting or checkbox.\nClick\nOK\nas necessary to save your settings.\nOS X\nOpen the\nmenu, then select\nSystem Preferences\n.\nSelect\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n, select your product, then select\nOptions & Supplies\n.\nSelect\nDriver\nor\nOptions\n.\nYou see this screen:\nSet\nSkip Blank Page\nto\nOn\n.\nClick\nOK\n.\nRelated concepts\nPrint Head Cleaning\nPrint Head Nozzle Check\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Basic Print Settings - OS X",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-210533?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CC48201~faq-210533",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:25.515895"
+        },
+        {
+          "question": "How do I set up my product for the fastest printing?",
+          "answer": "Try the following:\nMake sure your system meets the requirements for your operating system. If you are printing a high-resolution image, you may need more than the minimum requirements. If necessary, increase your system's memory.\nIf you are using Windows 7, close the\nDevices and Printers\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility to free up existing space.\nClose any programs you are not using when you print.\nMake sure the paper type setting matches the type of paper you loaded.\nTurn on any high speed settings in your product software.\nSelect a lower print quality setting.\nIf your product is connected to a USB hub, connect it directly to your computer instead.\nIf printing becomes slower after printing continuously for a long time, the product may have automatically slowed down to protect the print mechanism from overheating or becoming damaged. Let the product rest with the power on for 30 minutes, then try printing again.\nWindows\n: Click the\nMaintenance\ntab, select\nSpeed & Progress\nor\nExtended Settings\n, and select the following settings:\nHigh Speed Copies\nAlways spool RAW datatype\nPage Rendering Mode\nPrint as Bitmap\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Basic Print Settings - Mac OS X\nRelated references\nWindows System Requirements\nMac System Requirements\nPaper or Media Type Settings",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-216967?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CC48201~faq-216967",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:26.380186"
+        },
+        {
+          "question": "How do I print a multi-page document from Windows or my Mac so it stacks in the correct page order?",
+          "answer": "Open a document, then follow the steps below for your operating system.\nWindows\nOpen the File menu or click\nand select\nPrint\n.\nMake sure your product is selected as the printer.\nClick\nProperties\nor\nPreferences\n.\nNote:\nIf you don't see these buttons, click\nSetup\n,\nPrinter\n, or\nOptions\n, then click\nProperties\nor\nPreferences\non the next screen.\nClick the\nMain\ntab.\nSelect\nReverse Order\n.\nClick\nOK\n.\nMac OS X\nOpen the File menu and select\nPrint\n.\nMake sure your product is selected as the printer. Click the\nbutton to expand the Print window, if necessary.\nSelect\nPaper Handling\nfrom the printer options pop-up menu.\nSelect\nReverse\nfor the Page Order setting.\nClick\nPrint\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-216978?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CC48201~faq-216978",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:27.235904"
+        },
+        {
+          "question": "How do I print a borderless photo from Windows or my Mac?",
+          "answer": "Make sure you loaded a compatible borderless paper size and type, then follow the instructions below for your operating system.\nWindows\nOpen a photo or document for\nprinting.\nSelect the print command in your application.\nNote:\nYou may need to select a print icon on your screen, the\nPrint\noption in the File menu, or another command. See your application's help utility for details.\nIf necessary, select your product name as the printer you want to use.\nNote:\nYou may also need to select\nProperties\nor\nPreferences\nto view your print settings.\nYou see the Main tab of your printer settings window:\nSelect\nBorderless\n.\nNote:\nYou must select a compatible borderless paper type and size to print borderless. Check the borderless paper compatibility list for details. You cannot print borderless with a custom paper size.\nMac OS X\nOpen a photo or document for printing.\nSelect the print command in your application.\nNote:\nYou may need to select a print icon on your screen, the Print option in the File menu, or another command. See your application's help utility for details.\nSelect your product as the Printer setting.\nIf necessary, click the arrow next to the Printer setting or the Show Details button to expand the print window. You see the expanded printer settings window for your product:\nNote:\nThe print window may look different, depending on the version of Mac OS X and the application you are using.\nSelect Print Settings from the pop-up menu.\nYou see these settings:\nSelect the Borderless checkbox or a paper size with a Borderless option. You can also select a custom\nsetting to create a custom paper size.\nNote:\nYou must select a compatible borderless paper type and size to print borderless. Check the borderless paper compatibility list below for details.\nRelated references\nBorderless Paper Type Compatibility",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-217007?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CC48201~faq-217007",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:28.077035"
+        },
+        {
+          "question": "Printing and scanning seems slow on my product when I use a wireless connection (router or access point). What should I do?",
+          "answer": "Try the following solutions:\nTry moving the computer and product closer to your wireless router or access point.\nDon't place the computer, product, or wireless access point near microwaves, cordless telephones, or other sources of wireless interference.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-217085?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CC48201~faq-217085",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:28.990090"
+        },
+        {
+          "question": "How do I restore the colors in faded photos?",
+          "answer": "You can restore the\ncolors in faded photos as you scan them using EPSON Scan's Color Restoration\nsetting. You can select this setting in any of the available scan modes.\nNote:\nColor restoration is not available in Office Mode, if EPSON Scan\n  offers that mode.\nPlace your original on your product for scanning.\nStart EPSON Scan.\nSelect the scan mode you want to use.\nSelect the scan settings for your scan.\nPreview your image.\nLocate or access the image adjustment settings.\nSelect the\nColor Restoration\ncheckbox.\nWhen you finish selecting all your settings, click\nScan\n.\nClick\nClose\nto exit the EPSON Scan window, if\n\t necessary.\nEPSON Scan scans your\noriginal, and saves the color-restored file in the selected folder or opens it\nin your scanning program. If the file was saved directly to your computer, you\nsee the file in the Windows Explorer or Mac OS X Finder, where you can view and\nprint the image, if desired.\nRelated tasks\nSelecting the Scan Mode\nRelated information\nStarting a Scan\nSelecting EPSON Scan Settings",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-217282?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CC48201~faq-217282",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:29.893673"
+        },
+        {
+          "question": "How do I use the control panel buttons to copy a document or photo?",
+          "answer": "You can copy color or black-and-white documents or photos onto plain paper.\nPlace your original document or photo on the product.\nLoad plain paper in the product.\nDo one of the following to start copying:\nTo copy a\n\t\tblack-and-white document or photo, press the\nB&W copy\nbutton.\nTo copy a color\n\t\tdocument or photo, press the\ncolor copy\nbutton.\nTo copy a\n\t\tblack-and-white or color original in draft mode, hold the\nB&W copy\nbutton or the\ncolor copy\nbutton for 3 seconds.\nTo make 20\n\t\tblack-and-white or color copies, hold the\nB&W copy\nbutton or the\ncolor copy\nbutton and press the\nstop\nbutton within 3 seconds.\nThe product scans and prints your copy.\nNote:\nTo cancel copying, press the\nstop\nbutton.\nRelated information\nLoading Paper\nPlacing Originals on the Product",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-217284?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CC48201~faq-217284",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:30.888575"
+        },
+        {
+          "question": "I can print with a wireless connection on my home network, but not on a VPN (virtual private network). What should I do?",
+          "answer": "When you connect to a VPN, your computer is no longer communicating with your home (local) network, so it can't print to the product. Some VPNs allow for access to the local network. This depends on if your VPN supports the feature and is enabled. Consult with the supporter of your VPN software (such as your IT department) for help. Otherwise, disconnect from your VPN to connect to your home network again to print.\nNote:\nIf you set up your product with Epson Connect, you can use Epson Remote Print to print over the Internet from a VPN. To download the Epson Remote Print driver, see the Downloads tab on your product's support page.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-0000504-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CC48201~faq-0000504-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:31.776280"
+        },
+        {
+          "question": "It takes a long time to copy a document. What should I do?",
+          "answer": "Try the following:\nSelect B&W as the copy type.\nCopy your original in draft mode, hold the\nB&W copy button or the\ncolor copy button for 3 seconds.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-217001?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CC48201~faq-217001",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:32.649780"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "I see the message Scanner Not Ready or Epson Scan will not start in Windows or on my Mac. What should I do?",
+          "answer": "Try the following:\nMake sure your product is turned on and securely connected to your computer or USB hub.\nIf your product is connected to a USB hub, make sure it's connected to a first tier hub (the hub closest to the computer) that has its own A/C adapter when more than one hub is connected to the computer.\nTry restarting your computer.\nMake sure Epson Scan is set up correctly for your connection type. See the steps below:\nMake sure the product is turned on.\nDo one of the following:\nWindows 8.x\n: Navigate to the\nApps\nscreen, then select\nEPSON Scan Settings\n.\nWindows (other versions)\n: Click\nStart\nor\nand select\nPrograms\nor\nAll Programs\n. Select\nEPSON Scan\n>\nEPSON Scan Settings\n(or\nEPSON\n, then\nEPSON Scan\n, and then\nEPSON Scan Settings\n).\nOS X\n: Open\nApplications\n>\nEpson software\n, then double-click\nEPSON Scan Settings\n.\nIf you see a\nEPSON Scan cannot be started\nwindow, click\nNo\n. The window may appear twice.\nMake sure the correct scanner is selected.\nDo one of the following:\nIf the product is connected to your computer with a USB cable, make sure the\nConnection\nsetting is set to\nLocal\n, then skip the remaining steps.\nIf the product is set up on a network, make sure the\nConnection\nsetting is set to\nNetwork\nand your scanner appears under Network Scanner Address with the correct IP address. If these settings are correct, skip the remaining steps. If the IP address for your product does not appear, go to the next step.\nNote:\nIf you don't know your product's IP address, you can print a network status sheet to obtain it.\nClick\nAdd\n.\nSelect the IP address that appears in the list. If more than one IP address appears, be sure to select the one that matches your product's IP address.\nNote:\nIf you have a firewall or Internet security software installed, the search feature may not work correctly. In this case, click\nEnter address\nand enter the IP address manually.\nClick\nOK\n.\nClick\nOK\nagain to close the Epson Scan Settings window.\nIf the steps above do not help, try one of the following:\nWindows 8.x, Windows 7, Windows Vista\n:\nTurn off the printer.\nUninstall Epson Scan.\nRestart your computer.\nDo one of the following:\nWindows 8.x\n: Open File Explorer (navigate to the\nApps\nscreen, then select\nFile Explorer\n).\nWindows 7\nor\nWindows Vista\n: Open Windows Explorer (right-click\n, then select\nExplore\nor\nOpen Windows Explorer\n).\nNavigate to\nC:\\Windows\nLocate the\ntwain_32\nfolder and rename it to a different name such as\ntwain_32_old\n.\nRestart your computer.\nReinstall Epson Scan.\nWindows XP\nor\nOS X\n: Uninstall and reinstall the Epson Scan software.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-210539?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CC48201~faq-210539",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:33.543179"
+        },
+        {
+          "question": "My product is offline or displays a communication error when I try to print. What should I do?",
+          "answer": "Make sure the product is powered on and try the following:\nUSB connection\nCheck the product lights and follow the instructions to solve them.\nMake sure you are choosing the correct printer when printing.  If there are multiple copies of the same printer driver, remove the ones not in use.\nMake sure the USB cable is a shielded \"AB\" cable not more than 6.5 feet (2 meters) long.\nNote:\nDo not use devices that extend the length of the cable because they can cause signal degradation.\nIf you're using a USB hub with your printer, connect the printer directly to your computer.\nNote:\nDo not connect through a USB keyboard.  The keyboard acts like a hub and can interfere with signal transmission.\nConnect the USB cable to another USB port on your computer.\nUse a different USB cable.\nWireless connection\nCheck the router for error messages and see your documentation that came with the router to clear the error.\nMake sure you are choosing the correct printer when printing.  If there are multiple copies of the same printer driver, remove the ones not in use.\nCheck the product lights and follow the instructions to solve them.\nMake sure the product is within range of the wireless router or wireless access point.\nAvoid placing the printer near a microwave oven, 2.4 GHz cordless phone, or large metal objects such as a filing cabinet.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-210538?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CC48201~faq-210538",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:34.559663"
+        },
+        {
+          "question": "I see the message Printer is Offline when I try to print in Windows. What should I do?",
+          "answer": "Make sure your product is turned on, then do the following:\nWindows 8\n: Navigate to the\nStart\nscreen, right-click the screen, and select\nAll Apps\n. Select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer icon, click\nSee what's printing\n, and select\nPrinter\nand then select\nUse Printer Offline\n.\nWindows 7:\nClick\n, and select\nDevices and Printers\n. Double-click your printer icon, click\nSee what's printing\n, and select\nPrinter\nand then select\nUse Printer Offline\n.\nWindows Vista:\nClick\n, and select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer icon, and then select\nUse Printer Online\n.\nWindows XP:\nClick\nStart\n, and select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n. Right-click your printer icon, and then select\nUse Printer Online\n.\nMac OS X:\nOpen the\nmenu and select\nSystem Preferences\n>\nPrint and Fax\nor\nPrint and Scan.\nSelect your printer, then click\n-\nto remove the printer. Click\n+\n, select your printer and click\nAdd\nto add the printer back on the printer queue.\nIf the steps above did not help, check the solutions below for your connection type:\nUSB connection\nCheck the product for an error. If there's an error, see the product's User's Guide for instructions on how to correct the error.\nMake sure you are choosing the correct printer when printing. If there are multiple copies of the same printer driver, remove the ones not in use.\nMake sure the USB cable is a shielded \"AB\" cable not more than 6.5 feet (2 meters) long.\nNote:\nDo not use devices that extend the length of the cable because they can cause signal degradation.\nIf you're using a USB hub with your printer, connect the printer directly to your computer.\nNote:\nDo not connect through a USB keyboard. The keyboard acts like a hub and can interfere with signal transmission.\nConnect the USB cable to another USB port on your computer.\nUse a different USB cable.\nIf the solutions above do not help, contact Epson support for more help.\nWireless connection\nMake sure you're choosing the correct printer when printing. If there are multiple copies of the same printer driver, remove the ones not in use.\nCheck the lights on the product for an error. If there's an error, see the product's User's Guide for instructions to correct the error.\nMake sure your product is connected to your network. If the WiFi light on your product is off, you'll need to re-establish the WiFi connection.\nIf your router has a WPS button, press the WPS\nbutton, then press the\nWi-Fi\nbutton on the product for 3 seconds. After 1 minute, the WiFi connection light should be on. If the light is on, the connection has been re-established. If the light is off or flashing, try the solutions below.\nCheck the router for error messages and see your router's documentation to clear the error.\nMake sure the product is within range of the wireless router or wireless access point.\nAvoid placing the printer near a microwave oven, 2.4 GHz cordless phone, or large metal objects such as a filing cabinet.\nIf the solutions above do not help, contact Epson support for more help.\nRelated references\nProduct Light Status",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-217004?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CC48201~faq-217004",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:35.439980"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CC48201~faq-00004c5-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:36.286487"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Image Quality or Appearance",
+      "section_id": "8796127275084",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "An area I highlighted with a fluorescent (or neon) marker does not appear in my scan. What should I do?",
+          "answer": "Try using a non-fluorescent marker. This limitation occurs with some scanners that use a contact image sensor (CIS) and cannot detect fluorescent marks accurately, especially yellow marks.\nIf you need to scan a document with fluorescent marks, we recommend you use a scanner with charge-coupled device (CCD) technology or a full-color contact image sensor, both of which can detect fluorescent marks. The following Epson products feature CCD or full-color CIS optics:\nDS-30000\nDS-32000\nWorkForce DS-50000\nWorkForce DS-60000\nWorkForce DS-70000",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-00008c5-shared?faq_cat=faq-8796127275084",
+          "faq_slug": "SPT_C11CC48201~faq-00008c5-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:37.200115"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "How long should an ink cartridge remain in my product if it's not used often?",
+          "answer": "When an installed ink cartridge is more than six months old, you may need to replace it. If you notice that your printouts don't look as good as they used to and quality doesn't improve after cleaning and aligning the print head, replace the ink cartridges.\nRelated references\nInk Cartridge Part Numbers",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-210520?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CC48201~faq-210520",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:38.062292"
+        },
+        {
+          "question": "Why is Epson shipping initial ink cartridges with my product?",
+          "answer": "The cartridges included with the printer are designed for printer set up and not for resale. After some ink is used for priming, the rest is available for printing only in the same printer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-213157?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CC48201~faq-213157",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:38.961984"
+        },
+        {
+          "question": "I purchased 200-I ink cartridges from a third party and they don't work with my product. What should I do?",
+          "answer": "The 200-I ink cartridges are used only for the initial printer set up and installation. If you have already used 200-I cartridges in your printer, you will not be able to use another set of 200-I cartridges. You can use the following replacement cartridges:\nInk color\nPart number\nStandard-capacity\nHigh-capacity\nBlack\n200\n200XL\nMagenta\n200\n200XL\nYellow\n200\n200XL\nCyan\n200\n200XL",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-213159?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CC48201~faq-213159",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:39.793845"
+        },
+        {
+          "question": "I'm trying to purchase ink cartridges for my product and don't see the 200-I cartridges that came with my product. What should I do?",
+          "answer": "The 200-I ink cartridges are used only for the initial printer set up and installation.  You can use the following replacement cartridges:\nInk color\nPart number\nStandard-capacity\nHigh-capacity\nBlack\n200\n200XL\nMagenta\n200\n200XL\nYellow\n200\n200XL\nCyan\n200\n200XL",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-213158?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CC48201~faq-213158",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:40.656885"
+        },
+        {
+          "question": "Why can't I use the original 200-I cartridges with my exchange unit?",
+          "answer": "The 200-I ink cartridges are used only for the initial printer set up and installation. If you have already used your cartridges to set up your original printer, you will not be able to use them again to set up the exchange unit. Please use the ink cartridges shipped with your exchange unit.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-213160?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CC48201~faq-213160",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:41.539403"
+        },
+        {
+          "question": "How do I know when an ink cartridge needs to be replaced?",
+          "answer": "You need to replace a cartridge when the printer's ink light comes on. This indicates that one or more of the cartridges is expended. You may also see a message on your computer screen.\nNote:\nIf any of the cartridges installed in the product is broken, incompatible with the product model, or improperly installed, EPSON Status\nMonitor will not display an accurate cartridge status.\nYou may also need to replace a cartridge that is more than six months old, if your printouts do not look their best, even after cleaning and aligning the print head.\nRelated tasks\nRemoving and Installing Ink Cartridges\nReplacing Ink Cartridges Using a Computer Utility",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-216964?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CC48201~faq-216964",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:42.590729"
+        },
+        {
+          "question": "Can my product still print if an ink cartridge is expended or not installed?",
+          "answer": "The printer will not operate if a black ink cartridge is expended or any cartridge is removed.\nIf a color cartridge is expended, you may be able to continue printing temporarily with black ink. It's best to always have extra cartridges on hand.\nRelated tasks\nRemoving and Installing Ink Cartridges\nReplacing Ink Cartridges Using a Computer Utility\nRelated references\nInk Cartridge Part Numbers",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-216972?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CC48201~faq-216972",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:43.605445"
+        },
+        {
+          "question": "The color ink cartridge is expended even though I print in black only. Why does this happen?",
+          "answer": "To keep the print head clear and ready to print, the printer uses a small amount of ink from all the cartridges whenever it prints. Even if you select\nBlack/Grayscale\n, some color ink is still being used.\nEPSON printers contain a permanent print head that needs to be charged with all colors to work. Even when users are printing black text only, a small amount of color ink is used to keep the print head charged. The print head needs to be kept charged to prevent air bubbles from entering. Air bubbles can damage the print head.\nTherefore, once one of the cartridges is expended, the printer signals you to replace the cartridge in order for printing to continue.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-217002?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CC48201~faq-217002",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:44.569238"
+        },
+        {
+          "question": "I replaced an ink cartridge and my product shows that the same ink cartridge is expended. What should I do?",
+          "answer": "The inks may not be seated properly, Epson recommends reseating the ink cartridges.\nTurn on your product.\nLift up the scanner unit.\nCaution:\nDo not move the print head by hand; otherwise, you may damage your product. Do not touch the flat white cable inside the printer.\nPress the\nstop\nbutton.\nPress down each ink cartridge until it clicks into place. (If a\ncartridge is properly seated already, you may not hear a click.).\nNote:\nWhen you installed the new cartridge, you should have removed the yellow tape from the cartridge. If you know you removed it, go to the next\nstep. If you're not sure, you can pull out the cartridge to check. (Squeeze the tab on the cartridge and lift it straight up.) Remove the tape if necessary,\nthen reinstall the cartridge, pressing it down firmly.\nLower the scanner unit.\nPress the\nstop button. The printer will start charging the inks.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-217084?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CC48201~faq-217084",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:45.489922"
+        },
+        {
+          "question": "I installed new ink cartridges and my product seems to be doing a long cleaning cycle. Is this normal?",
+          "answer": "Yes. It takes about 4 minutes for the printer to charge the ink delivery system when you install the first set of ink cartridges. When you replace the ink cartridges the printer takes about 1.5 minutes to charge the ink.\nNote:\nNever turn off the printer while it is charging the ink delivery\nsystem (unless the printer hasn't moved or made noise for more than 5 minutes).\nThis initialization is a normal and necessary process. If the printer\ninitialization does not stop after 5 minutes, turn the printer off and contact \nEpson.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-217083?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CC48201~faq-217083",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:46.378593"
+        },
+        {
+          "question": "How do I change the ink cartridges?",
+          "answer": "Make sure you have your replacement cartridges handy before you begin. You must install new cartridges immediately after removing the old ones.\nCaution:\nLeave your old cartridges in the printer until you are ready to replace them to prevent the print head nozzles from drying out. Do not open ink cartridge packages until you are ready to install the ink. Cartridges are vacuum packed to maintain reliability.\nTurn on your product.\nLift up the scanner unit.\nCaution:\nDo not move the print head by hand; otherwise, you may damage your product. Do not touch the flat white cable inside the printer.\nPress the\nstop\nbutton.\nIf a cartridge is low or expended, the print head moves that cartridge to the indicator position. Press the\nstop button\nagain to check for additional low or expended cartridges. When all cartridges have been identified, the print head moves to the replacement position.\nIf no cartridges are low or expended, the print head does not move. If you want to replace a cartridge before it is low or expended, press the\nstop button\nfor 6 seconds. The print head moves to the replacement position.\nSqueeze the tab on the cartridge and lift the cartridge straight up to remove it.\nNote:\nDispose of used cartridges carefully. Do not take the used cartridge apart or try to refill it.\nWarning:\nIf ink gets on your skin, wash it thoroughly with soap and water. If ink gets into your eyes, flush them immediately with water. If ink gets into your mouth, spit it out and see a doctor right away. Keep ink cartridges out of the reach of children.\nBefore opening the new cartridge package, shake it gently four or five times.\nCaution:\nDo not shake the cartridges after opening the packages, or ink may leak.\nRemove the cartridge from the package.\nCaution:\nDo not touch the green chip or the small window on the cartridge. Install the new cartridge immediately after removing the old one; if you do not, the print head may dry out and be unable to print.\nRemove the yellow tape from the side of the cartridge.\nCaution:\nDo not remove any other labels or seals, or ink will leak.\nInsert the new cartridge into the holder and push it down until it clicks into place.\nLower the scanner unit.\nPress the\nstop\nbutton. The print head moves to its home position and the printer starts charging the ink. This takes about 1.5 minutes. When the\npower\nlight stops flashing and remains on, ink charging is finished.\nCaution:\nNever turn off the product while the power light is flashing or you will waste ink.\nNote:\nIf the\nink\nlight is on after the print head moves to its home position or the\npower\nlight is still flashing 3 minutes after replacing a cartridge, an ink cartridge may not be installed properly. Press the\nstop\nbutton, then press the ink cartridge down until it clicks into place.\nIf you remove a low or expended ink cartridge, you cannot re-install and use the cartridge.\nCaution:\nIf you remove an ink cartridge for later use, protect the ink supply area from dirt and dust and store it in the same environment as the printer. The valve in the ink supply port is designed to contain any excess ink, but do not touch the ink supply\nport or surrounding area. Always store ink cartridges with the label facing up; do not store cartridges upside-down.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-217158?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CC48201~faq-217158",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:47.254623"
+        },
+        {
+          "question": "Which ink cartridges should I use with my product?",
+          "answer": "Use these part numbers when you order or purchase new ink cartridges, and use the cartridges within six months of installing them.\nInk color\nPart number\nStandard-capacity\nHigh-capacity\nBlack\n200\n200XL\nMagenta\n200\n200XL\nYellow\n200\n200XL\nCyan\n200\n200XL",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-217285?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CC48201~faq-217285",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:48.120638"
+        },
+        {
+          "question": "How do I print with black ink from Windows or my Mac when a color cartridge is expended?",
+          "answer": "When a color ink cartridge is expended, you can temporarily continue printing from your computer using black ink. Replace the expended color cartridge as soon as possible for future printing.\nNote:\nMake sure you're using the Epson driver for your product.  You can download and install the Epson Drivers and Utilities Combo  Package from the Downloads tab on your product's support page.\nTo temporarily print with black ink, see the instructions below for your operating system.\nPrinting With Expended Color Cartridges - Windows\nPrinting With Expended Color Cartridges - OS X",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-275313?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CC48201~faq-275313",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:49.103990"
+        },
+        {
+          "question": "Does my all-in-one printer support non-printing functions when an ink cartridge is expended or not installed?",
+          "answer": "See our\nFAQ page\non which non-printing functions are supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-0000d77-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CC48201~faq-0000d77-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:50.008748"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "What kind of paper gives the best results for high quality printing?",
+          "answer": "For the best results, you'll want to use one of Epson's special ink jet papers designed for your printer. For example, your photos or presentations\twill look great printed on\nEPSON Premium Photo Paper Glossy\n,\nEPSON Premium Presentation Paper Matte\n, and\nEPSON Bright White Paper\n.\nRelated references\nAvailable EPSON Papers",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-210515?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CC48201~faq-210515",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:50.899846"
+        },
+        {
+          "question": "Does the type of paper I use really make a difference?",
+          "answer": "The type of paper you choose affects the way your printout looks, so be sure to select the correct paper for your print job. If you are just making a copy or printing a rough draft of an image, plain paper is fine. However, for the best results, you'll want to use one of Epson's special ink jet papers. For example, your photos will look great printed on\nEPSON Premium Photo Paper Glossy\n. For a list of EPSON special ink jet papers designed for the printer, see\nAvailable EPSON Papers\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-210512?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CC48201~faq-210512",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:51.755894"
+        },
+        {
+          "question": "How should I load envelopes?",
+          "answer": "You can print on plain paper envelopes in this size:  No. 10 (4.1 × 9.5 inches [105 × 241 mm]).\nFlip the feeder guard forward.\nPull up the paper support and its extension.\nPull out the output tray and open the paper stopper.\nSlide the edge guide left.\nLoad up to 10 envelopes against the right side. Load them printable side up and flap edge left.\nSlide the edge guide against the envelopes, but not too tightly.\nFlip the feeder guard back.\nAlways follow these loading guidelines:\nIf you have trouble loading a stack of envelopes, press each envelope flat before loading it or load one envelope at a time.\nDo not load envelopes above the arrow mark inside the edge guide.\nDo not load envelopes that are curled, folded, or too thin.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-217157?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CC48201~faq-217157",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:52.928172"
+        },
+        {
+          "question": "Which type of paper can I print on?",
+          "answer": "You can use plain paper, however, for the best results, you'll want to\nuse one of Epson's special ink jet papers.\nNote:\nInk jet transparencies, vellum and paper with holes punched in it are not supported.\nPaper Type\nSize\nPart number\nSheet count\nEPSON Bright White Paper\nLetter (8.5 × 11 inches\n\t\t\t\t[216 × 279 mm])\nS041586\n500\nEPSON Photo Paper Glossy\n4 × 6 inches (102 × 152 mm)\nS041809\nS042038\n50\n100\nLetter (8.5 × 11 inches\n\t\t\t\t[216 × 279 mm])\nS041141\nS041649\nS041271\n20\n50\n100\nEPSON Premium Photo Paper\n\t\t\t\tGlossy\n4 × 6 inches (102 × 152 mm)\nS041808\nS041727\n40\n100\n5 × 7 inches (127 × 178 mm)\nS041464\n20\n8 × 10 inches (203 × 254 mm)\nS041465\n20\nLetter (8.5 × 11 inches\n\t\t\t\t[216 × 279 mm])\nS042183\nS041667\n25\n50\nEPSON Ultra Premium Photo Paper\n\t\t\t\tGlossy\n4 × 6 inches (102 × 152 mm)\nS042181\nS042174\n60\n100\n5 × 7 inches (127 × 178 mm)\nS041945\n20\n8 × 10 inches (203 × 254 mm)\nS041946\n20\nLetter (8.5 × 11 inches\n\t\t\t\t[216 × 279 mm])\nS042182\nS042175\n25\n50\nEPSON Premium Photo Paper\n\t\t\t\tSemi-gloss\n4 × 6 inches (102 × 152 mm)\nS041982\n40\nLetter (8.5 × 11 inches\n\t\t\t\t[216 × 279 mm])\nS041331\n20\nEPSON Presentation Paper Matte\nLetter (8.5 × 11 inches\n\t\t\t\t[216 × 279 mm])\nS041062\n100\nLegal (8.5 × 14 inches\n\t\t\t\t[216 × 357 mm])\nS041067\n100\nEPSON Premium Presentation Paper\n\t\t\t\tMatte\n8 × 10 inches (203 × 254 mm)\nS041467\n50\nLetter (8.5 × 11 inches\n\t\t\t\t[216 × 279 mm])\nS041257\nS042180\n50\n100\nEPSON Premium Presentation Paper\n\t\t\t\tMatte Double-sided\nLetter (8.5 × 11 inches\n\t\t\t\t[216 × 279 mm])\nS041568\n50\nEPSON Ultra Premium Presentation\n\t\t\t\tPaper Matte\nLetter (8.5 × 11 inches\n\t\t\t\t[216 × 279 mm])\nS041341\n50\nEPSON\n\t\t\t\tBrochure & Flyer Paper Matte Double-sided\nLetter (8.5 × 11 inches\n\t\t\t\t[216 × 279 mm])\nS042384\n150\nEPSON Photo Quality\n\t\t\t\tSelf-adhesive Sheets\nA4 (8.3 × 11.7 inches [210 × 297 mm])\nS041106\n10\nEPSON Iron-on Cool Peel Transfer\n\t\t\t\tpaper\nLetter (8.5 × 11 inches\n\t\t\t\t[216 × 279 mm])\nS041153\n10",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-217159?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CC48201~faq-217159",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:53.812092"
+        },
+        {
+          "question": "I'm having paper feed problems. What should I do?",
+          "answer": "See the solutions for your problem type below.\nPaper Feeding Problems\nIf you have problems feeding paper, try these solutions:\nIf paper does not feed for \t printing, remove it. Then reload it in the sheet feeder against the right side and beneath the tab. Slide the edge guide against the edge of the paper, making sure that the paper stack is not above the arrow mark on the edge guide.\nIf multiple pages feed at once, remove the paper, fan the edges to separate the sheets, and reload it.\nIf paper jams when you \t load only one or two sheets, try loading more sheets at a time. Do not load more than the recommended number of sheets.\nIf paper jams when you \t print on both sides of the paper, try loading fewer sheets.\nFor best results, follow these guidelines:\nUse new, smooth, high-quality paper that is not curled, creased, old, too thin, or too thick.\nLoad paper in the sheet feeder printable side up.\nDo not load paper with holes punched in it.\nFollow any special loading instructions that came with the paper.\nPaper Jam Problems\nIf you have problems with paper jams, try these solutions:\nCancel the print job from your computer, if necessary.\nGently pull out any jammed paper from the output tray and sheet feeder.\nPress the\nB&W copy button or the\ncolor copy button to resume printing. If the product lights still show an error, continue with the next step.\nPress the\npower button to turn the product off.\nLift the scanner, remove the jammed paper and any torn pieces.\nLower the scanner and press the\npower button to turn the product back on.\nCarefully follow all paper loading instructions when you load new paper.\nPaper Ejection Problems\nIf you have problems with paper ejecting properly, try these solutions:\nIf paper does not eject fully, you may have set the wrong paper size. Cancel printing to eject the paper. Select the correct paper size when you reprint.\nIf paper is wrinkled when it ejects, it may be damp or too thin. Load new paper and be sure to select the correct paper type setting when you reprint.\nRelated information\nLoading Paper\nRelated tasks\nCancelling Printing Using a Product Button\nRelated references\nPaper or Media Type Settings\nPaper Loading Capacity",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-231481?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CC48201~faq-231481",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:54.717653"
+        },
+        {
+          "question": "How do I know which paper or media type to select in my product's driver?",
+          "answer": "See the table below.\nPaper or Media Type Settings\nFor this paper\nSelect this paper Type or Media Type \t\t\t setting\nPlain paper\nEpson Bright White Paper\nEpson Presentation Paper Matte\nEpson Photo Quality \t\t\t\tSelf-adhesive Sheets\nEpson Iron-on Cool Peel Transfer \t\t\t\tpaper\nPlain Paper/Bright White Paper\nEpson Ultra Premium Photo Paper \t\t\t\tGlossy\nUltra Premium Photo Paper Glossy\nEpson Premium Photo Paper \t\t\t\tGlossy\nPremium Photo Paper Glossy\nEpson Photo Paper Glossy\nPhoto Paper Glossy\nEpson Premium Photo Paper \t\t\t\tSemi-gloss\nPremium Photo Paper Semi-Gloss\nEpson Premium Presentation Paper \t\t\t\tMatte\nEpson Premium Presentation Paper \t\t\t\tMatte Double-sided\nEpson Ultra Premium Presentation \t\t\t\tPaper Matte\nEpson \t\t\t\tBrochure & Flyer Paper Matte Double-sided\nPremium Presentation Paper Matte\nEnvelopes\nEnvelope",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-231482?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CC48201~faq-231482",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:55.864528"
+        },
+        {
+          "question": "Can the product print on CDs and DVDs?",
+          "answer": "No, this product does not support this feature.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-00004b5-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CC48201~faq-00004b5-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:56.783853"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "My printout contains garbled characters when I print from Windows or my Mac. What should I do?",
+          "answer": "If incorrect characters appear in your prints, try these solutions before reprinting:\nMake sure any cables are securely connected at both ends.\nIn Windows, delete all print jobs from the Windows Spooler:\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your product name, select\nSee what's printing\n, and select your product name again, if necessary. Right-click the stalled print job, click\nCancel\n, and click\nYes\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your product name, select\nSee what's printing\n, and select your product name again, if necessary. Right-click the stalled print job, click\nCancel\n, and click\nYes\n.\nWindows Vista\n: Click\nand select\nControl Panel\n. Click\nPrinter\nunder\nHardware and Sound\n, right-click your product name, and select\nOpen\n. Right click the stalled print job, click\nCancel\n, and click\nYes\n.\nWindows XP\n: Click\nStart\nand select\nPrinters and Faxes\n. (Or open the\nControl Panel\n, select\nPrinters and Other Hardware\nif necessary, and select\nPrinters and Faxes\n.) Right-click your product name, select\nOpen\n, right-click the stalled print job, click\nCancel\n, and click\nYes\n.\nIf your product is connected to a USB hub, connect it directly to your computer instead.\nIf incorrect characters still appear in your prints, try connecting your product using a different cable.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-210529?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CC48201~faq-210529",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:57.712948"
+        },
+        {
+          "question": "My printout is grainy when I print from any application. What should I do?",
+          "answer": "If your printouts are grainy, try these solutions:\nMake\n\t sure you loaded the printable side of the paper faceup in the sheet feeder.\nSelect a higher print\n\t quality setting and turn off any high speed settings in your product software.\nRun a nozzle check to see\n\t if any of the print head nozzles are clogged. Then clean the print head, if\n\t necessary.\nAlign the print head.\nYou may need to increase\n\t the image resolution or print a smaller size; see your software documentation.\nRelated concepts\nPrint Head Alignment\nRelated tasks\nSelecting Advanced Print Settings - Windows\nSelecting Basic Print Settings - Mac OS X\nSelecting Printing Preferences - Mac OS X\nRelated information\nLoading Paper",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-210527?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CC48201~faq-210527",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:58.582337"
+        },
+        {
+          "question": "My printout is blurry or smeared. What should I do?",
+          "answer": "If your printouts are blurry or smeared, try these solutions:\nMake \t sure your paper is not damp, curled, old, or loaded facedown in the sheet feeder (the printable side should be faceup).\nUse a support sheet with special paper, or load special paper one sheet at a time.\nMake sure your paper meets the specifications for your product.        Use EPSON papers to ensure proper saturation and absorption of genuine EPSON inks.\nMake sure the paper type setting in your product software matches the type of paper you loaded.\nRemove each sheet from the output tray as it is printed.\nAvoid handling printouts on glossy paper right after printing to allow the ink to set.\nTurn off any high speed settings in your product software.\nIf you print on both sides \t of a sheet of paper, smudges may appear on the reverse side of heavily \t saturated or dark images. If one side of a sheet will contain a lighter image or text, print that side first.\nRun a nozzle check to see if any of the print head nozzles are clogged. Then clean the print head, if necessary.\nAlign the print head.\nClean the paper path.\nNote:\nYour product will not operate properly while tilted at an angle.   Place it on a flat, stable surface that extends beyond the base of the product   in all directions.\nRelated concepts\nPrint Head Cleaning\nPrint Head Alignment\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Advanced Print Settings - Windows\nSelecting Basic Print Settings - Mac OS X\nSelecting Printing Preferences - Mac OS X\nCleaning the Paper Path\nRelated references\nAvailable EPSON Papers\nPaper Specifications\nRelated information\nLoading Paper",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-210528?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CC48201~faq-210528",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:48:59.418603"
+        },
+        {
+          "question": "My printout has incorrect colors. What should I do?",
+          "answer": "If your printouts have incorrect colors, try these solutions:\nMake sure the\nBlack/Grayscale\nor\nGrayscale\nsetting is not selected in your\n\t printer software.\nRun a nozzle check to see\n\t if any of the print head nozzles are clogged. Then clean the print head, if\n\t necessary.\nThe\n\t ink cartridges may be old or low on ink, and you may need to replace them.\nYour printed colors can\n\t never exactly match your on-screen colors. However, you can use a color\n\t management system to get as close as possible. Try using the color management\n\t options in your printer software.\nFor best results, use\n\t genuine EPSON ink and paper.\nRelated concepts\nPrint Head Cleaning\nRelated tasks\nSelecting Advanced Print Settings - Windows\nManaging Color - Mac OS X\nRelated references\nAvailable EPSON Papers\nRelated information\nReplacing Ink Cartridges",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-210530?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CC48201~faq-210530",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:00.273300"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "If you notice white or dark lines in your prints (also called banding), try these solutions before you reprint:\nRun a nozzle check to see if any of the print head nozzles are clogged. Then clean the print head, if necessary.\nMake sure the paper type setting matches the type of paper you loaded.\nMake sure you loaded the printable side of the paper faceup.\nTurn off any high speed settings in your product software.\nAlign the print head.\nYou may need to replace the ink cartridges.\nRelated concepts\nPrint Head Cleaning\nPrint Head Alignment\nRelated tasks\nSelecting Advanced Print Settings - Windows\nSelecting Printing Preferences - Mac OS X\nRelated references\nPaper or Media Type Settings\nRelated information\nReplacing Ink Cartridges",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-210532?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CC48201~faq-210532",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:01.148019"
+        },
+        {
+          "question": "My printout has incorrect margins. What should I do?",
+          "answer": "If your printed page has incorrect margins, try these solutions:\nMake sure you selected the\n\t correct paper size settings in your printing program and printer software.\nMake sure you selected the\n\t correct margins for your paper size in your printing program.\nMake sure your paper is\n\t positioned correctly for feeding into the printer.\nYou can use the preview option in your printer software to check your\n  margins before you print.\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Basic Print Settings - Mac OS X\nRelated information\nLoading Paper",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-210531?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CC48201~faq-210531",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:02.026634"
+        },
+        {
+          "question": "My product's Fix Red-Eye setting does not fix the red eye in my photo. What should I do?",
+          "answer": "Due to the complexity and nature of some photographs, not all images can be corrected. If the product's\nFix Red-Eye\nsetting does not fix the photo, you'll need to use a software application such as Adobe Photoshop or Adobe Elements to fix it.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-217086?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CC48201~faq-217086",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:02.931649"
+        },
+        {
+          "question": "My printout looks inverted, as if viewed in a mirror. What should I do?",
+          "answer": "Make sure the\nMirror Image\noption in the printer driver is not selected or a similar feature in your software application.\nNote:\nIf you're printing on EPSON Iron-on Cool Peel Transfer paper, the image should be inverted.\nWindows\nMac OS X",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-217087?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CC48201~faq-217087",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:03.845334"
+        },
+        {
+          "question": "My printout has a slight slant. What should I do?",
+          "answer": "If your printouts are slanted, try these solutions:\nSlide the edge guide against the edge of the paper.\nSelect a higher print\n\t quality setting in your printer software.\nAlign the print head.\nMake sure the product is\n\t not printing while tilted or at an angle.\nRelated concepts\nPrint Head Alignment\nRelated tasks\nSelecting Advanced Print Settings - Windows\nSelecting Basic Print Settings - Mac OS X\nRelated information\nLoading Paper",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-217283?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CC48201~faq-217283",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:04.769378"
+        },
+        {
+          "question": "How do I reduce the appearance of red eyes in my photos?",
+          "answer": "Turn on the\nFix Red-Eye\nsetting in the printer software or from the product's control panel, if available for your product.\nNote:\nDue to the complexity and nature of some photographs, not all images can be corrected. If the Fix Red-Eye setting does not fix the photo, you need to use a software application such as Adobe Photoshop or Adobe Elements to fix it.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-00004b9-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CC48201~faq-00004b9-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:05.738785"
+        },
+        {
+          "question": "Web pages don't print the way they appear on my monitor. What should I do?",
+          "answer": "The pages may not print correctly due to the web page design. Try the following:\nCheck for a\nPrinter-friendly Version\n(or similarly named) option on the web page.\nChange the page setup and paper size settings, and select the preview option in your browser to check the changes before you print.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-00004b8-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CC48201~faq-00004b8-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:06.594170"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Scan",
+      "section_id": "8796127569996",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "I want to enlarge an image that I'm scanning with Epson Scan. How do I obtain the best quality?",
+          "answer": "You should resize your image when you're scanning instead of enlarging it later in an image-editing program. You can do this using the Target Size setting in Home or Professional Mode.\nIf you are going to scan your image to a particular size, such as 8 x 10 inches, you should select the Target Size setting after previewing it but before adjusting your scan area (indicated by the marquee). This sets the scan area to the correct proportions so your image will not be cropped unexpectedly.\nNote:\nIf you plan to enlarge your image later in an image-editing program, you need to increase the\nResolution\nsetting to retain a high image quality after\nenlargement. Increase the resolution by the same amount you will increase the image size. For example, if the resolution is 300 dpi (dots per inch) but you will increase the image size by 200% in an image-editing program, change the\nResolution\nsetting to 600 dpi in EPSON Scan.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-210526?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CC48201~faq-210526",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:07.518161"
+        },
+        {
+          "question": "How do I decide which resolution to select when scanning from Epson Scan?",
+          "answer": "Select the recommended scanning resolution based on how you will use\nyour scanned image:\nE-mail, view on a computer screen, or post on the web:\n96 to 150 dpi\nFax:\n200 dpi\nPrint on an inkjet printer:\n300 dpi\nConvert to editable text (OCR):\n300 to 400 dpi\nIf you plan to enlarge the image so you can print it at a larger size, you may need to increase the resolution. If you are using EPSON Scan, follow these guidelines:\nYou will enlarge the image as you scan it.\nIf you will enlarge the image in EPSON Scan using the\nTarget Size\nsetting (Home and Professional Modes only), you don't need to increase the\nResolution\nsetting.\nYou will scan the image at its original size, but then enlarge it later in an image-editing program.\nIf you will enlarge your image later in an image-editing program, you need to increase the\nResolution\nsetting to retain a high image quality. Increase the resolution by the same amount you will increase the image size. For example, if the resolution is 300 dpi and you plan to increase the image size by 200% later, change the\nResolution\nsetting to 600 dpi.\nNote:\nHigher resolution settings result in larger file sizes. For example, an 8.5 x 11-inch original scanned at 300 dpi can produce a 24MB file. The same\noriginal scanned at 72 dpi creates only a 1.3MB file. Large files take longer to process and print, so consider the practical limitations of your computer\nsystem when selecting a resolution. To keep your file size manageable, select the lowest possible resolution that gives acceptable quality.\nRelated tasks\nScanning in Home Mode\nScanning in Office Mode\nScanning in Professional Mode",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-210537?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CC48201~faq-210537",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:08.400042"
+        },
+        {
+          "question": "I cannot scan from my computer with the Image Capture application. What should I do?",
+          "answer": "Try the following:\nIf the product is connected to a USB hub, make sure it's connected to a first tier hub (the hub closest to the host computer) when more than one hub is connected to the computer.\nMake sure the product is turned on and securely connected to your computer or USB hub or try connecting the product directly to your computer.\nTry updating the application on your Mac by selecting\nSoftware Update\nin the\nmenu.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-216970?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CC48201~faq-216970",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:09.280092"
+        },
+        {
+          "question": "Can I scan if an ink cartridge is expended in the product?",
+          "answer": "You can scan from your computer with EPSON Scan, but you can't copy from the product's control panel.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-216971?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CC48201~faq-216971",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:10.170785"
+        },
+        {
+          "question": "The quality of a scanned image with Epson Scan is poor. What should I do?",
+          "answer": "See the solutions below for your problem type.\nImage Consists of a Few Dots Only\nMake sure you placed your  original for scanning facing the correct way.\nIf you are scanning using  the EPSON Scan\nBlack & White\nsetting, adjust the\nThreshold\nsetting and scan again.\nLine of Dots Appears in All Scanned Images\nIf a line of dots appears in all your scanned images, clean the scanner glass with a soft, dry, lint-free cloth or use a small amount of glass cleaner on the cloth, if necessary. Paper towels are not recommended.\nCaution:\nDo not spray glass cleaner directly on the scanner  glass.\nStraight Lines in an Image Appear Crooked\nIf straight lines in an original appear crooked in a scanned image, make sure to place your original straight when you scan it.\nImage is Distorted or Blurry\nMake sure your original is  not wrinkled or warped. This may prevent the original from laying flat on the  scanner glass.\nDo not move your original or your product during scanning.\nYour product will not  operate properly while tilted at an angle. Place it on a flat, stable surface  that extends beyond the base of the product in all directions.\nAdjust these EPSON Scan  settings (if available) and try scanning again:\nSelect the\nUnsharp Mask\nsetting.\nAdjust the\nAuto Exposure\nsetting.\nIncrease the\nResolution\nsetting.\nImage Colors are Patchy at the Edges\nIf you are scanning a thick or warped original, cover its edges with paper to block external light as you scan it.\nImage is Too Dark\nAdjust these EPSON Scan  settings (if available) and try scanning again:\nAuto Exposure\nBrightness\nHistogram Adjustment\nCheck the brightness and  contrast settings of your computer monitor.\nBack of Original Image Appears in Scanned Image\nIf an image from the back of a thin original appears in your scanned image, place a piece of black paper on the back of the original and scan it again.\nRipple Patterns Appear in an Image\nSelect the\nDescreening\nsetting.\nSelect a lower\nResolution\nsetting.\nYou may see a ripple pattern (called a moiré) in scanned images of printed documents. This is caused by interference from differing pitches in the scanner's screen and your original's halftone screen. To reduce this effect, adjust these EPSON Scan settings (if available) and try scanning again:\nImage is Scanned Upside-Down\nYour product scans using the\nAuto Photo Orientation\nsetting. This setting checks the preview image for faces, the sky, and other features, and then correctly rotates the photo when it is scanned, if necessary. If your photo is not oriented correctly using this option, deselect the\nAuto Photo Orientation\nsetting and scan again.\nScanned Image Colors Do Not Match Original Colors\nChange the\nImage Type\nsetting and experiment with  different combinations of the next settings.\nAdjust the\nTone Correction\nsetting.\nAdjust the\nAuto Exposure\nsetting.\nPrinted colors can never exactly match the colors on your computer monitor because printers and monitors use different color systems: monitors use RGB (red, green, and blue) and printers typically use CMYK (cyan, magenta, yellow, and black).\nCheck the color matching and color management capabilities of your computer, display adapter, and the software you are using to see if they are affecting the palette of colors you see on your screen.\nTo adjust the colors in your scanned image, adjust these EPSON Scan settings (if available) and try scanning again:\nScan Area is Not Adjustable in Thumbnail Preview\nCreate a scan area by  drawing a marquee on your preview image and adjusting it as necessary.\nSwitch to Normal preview  mode, if available, and preview your image again.\nScanned Image Edges are Cropped\nIf the edges of a scanned image are cropped, make sure your original is placed correctly for scanning. If necessary, move your original away from the edges of the scanner glass slightly.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-217286?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CC48201~faq-217286",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:11.116915"
+        },
+        {
+          "question": "How do I use the control panel buttons to automatically scan a photo or document to a PDF?",
+          "answer": "You can scan an image and save it as a PDF using your product's control panel buttons.\nMake sure you installed the product software and connected the product to your computer.\nIf you're using Image Capture, download and install the\nEvent Manager Utility\nsoftware from the Downloads tab.\nPress the\nB&W copy button and the\ncolor copy button at the same time.\nYour original is scanned and saved as a PDF on your computer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-219887?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CC48201~faq-219887",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:12.005979"
+        },
+        {
+          "question": "Can I scan from my product's control panel to my computer?",
+          "answer": "You can scan an image and save it as a PDF using your product's control panel buttons.\nMake sure you installed the product software and connected the product to your computer.\nNote:\nYou must connect your product with a USB cable to scan using the buttons.\nPress the\nB&W copy button and the\ncolor copy button at the same time. Your original is scanned and saved as a PDF on your computer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-219943?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CC48201~faq-219943",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:12.905255"
+        },
+        {
+          "question": "Can I use Epson Scan with my Mac?",
+          "answer": "Yes. To use it, you'll need to download and install the software from the Downloads tab for your product.\nDo the following:\nGo to the Downloads tab for your product. Make sure your Operating System is selected.\nSelect\nDrivers\n, then\nScanner Driver and EPSON Scan Utility\n.\nClick\nDownload\nand follow the on-screen instructions to install the software.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-221746?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CC48201~faq-221746",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:13.808027"
+        },
+        {
+          "question": "What is the maximum number of pages that I can scan into one PDF file?",
+          "answer": "See the specifications below for the version of Epson Scan that you are using:\nEpson Scan version\nNumber of pages\nv1.0 through v3.04\n100\nv3.05 through 3.2x\n200\nv3.30 or later\n999\nNote\n: You can check your version by launching Epson Scan and viewing the initial startup screen. To get the latest supported version of Epson Scan for your product, see the Downloads tab on the product support page for your product.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-229507?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CC48201~faq-229507",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:14.749727"
+        },
+        {
+          "question": "How do I scan a photo without scanning the entire scanner glass?",
+          "answer": "Use the Thumbnail preview option when you scan.  The option is available only in Home or Professional Mode.\nSee below for instructions.\nHome Mode\nPlace your original(s) on the scanner glass.\nStart Epson Scan and select\nHome Mode\nif necessary.\nSelect\nPhotograph\nas the Document Type.  Click the\nThumbnail\ncheck box.\nClick\nPreview\n.  Your photo is selected automatically as the scan area with a blue marquee.\nSelect\nScan\n, then click\nOK\n.\nProfessional Mode\nPlace your original(s) on the scanner glass.\nStart Epson Scan and select\nProfessional Mode\nif necessary.\nSelect\nDocument Table\nas the Document Source and select\nPhoto\nas Auto Exposure Type.\nClick the\nThumbnail\ncheck box.\nClick\nPreview\n.  Your photo is selected automatically as the scan area with a blue marquee.\nSelect\nScan\n, then click\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-253187-shared?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CC48201~faq-253187-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:15.675910"
+        },
+        {
+          "question": "How do I scan a document so I can edit the text in a word processing program?",
+          "answer": "You can scan a document and convert the text into data that you can edit with a word processing program using a process called OCR (Optical Character Recognition). To scan and use OCR, you need to use an OCR program.\nOCR software cannot recognize handwritten characters, and certain types of documents or text may be difficult for OCR software to recognize, such as:\nItems that have been copied from other copies\nFaxes\nText with tightly spaced characters\nText that is in tables or underlined\nCursive or italic fonts and font sizes less than 8 points",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-0000508-shared?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CC48201~faq-0000508-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:16.583207"
+        },
+        {
+          "question": "How do I save my scans to a specific folder when using the Scan to PC button?",
+          "answer": "You can save scans to a select destination folder (\nDocuments\n,\nPictures\n, or\nSelect target folder\n) by changing the settings in Epson Event Manager.\nDo one of the following:\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nEvent Manager\n.\nWindows (other versions)\n: Click\nStart\nor\n, and select\nAll Programs\nor\nPrograms\n>\nEPSON Software\n>\nEvent Manager\n.\nMac OS X\n: Open\nApplications\n>\nEpson software\n>\nEvent Manager\n.\nSelect your product in the Scanner drop-down box, then click\nMake Job Settings\n.\nSelect\nScan to PC\n, select your desired destination folder (\nDocuments\n,\nPictures\n, or\nSelect target folder\n) from the\nTarget Folder\ndrop-down box.\nNote\n: To save the scan to a specific folder on your computer, use the\nSelect target folder\noption.\nClick\nOK\n, then click\nClose\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-252007-shared?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CC48201~faq-252007-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:17.566538"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 9,
+      "faqs": [
+        {
+          "question": "How do I set default print settings when I print from Windows or my Mac?",
+          "answer": "When you change your print settings from within a program, the changes apply only while you're printing with the program open. If you want to select different settings to use in all your programs, you can change the default print settings in Windows or save a preset of printer options on Mac. Follow the steps below for your operating system.\nWindows\nDo one of the following:\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows XP\n: Click\nStart\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the settings you want to use as defaults in all your Windows programs.\nClick\nOK\n.\nOS X\nOpen a document and select\nPrint\nfrom the File menu.\nDefine the print settings you want to save.\nNote:\nSome options may not be able to be saved in a preset.\nClick the\nPresets\npop-up menu and select\nSave As.\nEnter a name for your preset and choose whether this preset can be used with any printer or only with the currently selected printer.\nClick\nOK\n.\nWhen you are ready to print with the preset you saved, click the\nPresets\npop-up menu, select your preset from the list, and click\nPrint\n. Once a preset has been selected, it will continue to be automatically selected in the print dialogue until another preset is selected. To go back to the original default print settings, select\nStandard\nfrom the\nPresets\npop-up menu.\nIf you don't want to create a preset and simply want to print with the last print settings you selected, select\nLast Used Settings\nin the\nPresets\npop-up menu.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-216965?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CC48201~faq-216965",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:18.442418"
+        },
+        {
+          "question": "Who do I contact for support on the software that came with my product?",
+          "answer": "Contact Epson for support with the printer driver(s) and any other software/utility listed on the Downloads tab for your product.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-216980?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CC48201~faq-216980",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:19.336624"
+        },
+        {
+          "question": "I've tried to install my product's software, but cannot complete the installation. What should I do?",
+          "answer": "See the steps below for your connection type.\nUSB\nMake sure you followed the software installation instructions on the\nStart Here\nsheet. If you're still having problems, disconnect the USB cable and uninstall the printer software, then reinstall the software.\nBefore reinstalling the software, check for the following:\nMake sure the printer is not connected to your computer. (You will be prompted to connect it during the installation process.) You must connect the printer to your computer at the correct time to make sure the driver is installed correctly on your computer.\nMake sure your system meets the requirements.\nMake sure all applications (including any screen savers, virus protectors, and firewall software) are closed.\nMake sure you have administrative rights or software installation privileges to your computer.\nWireless network\nImportant:\nMake sure you know your network's security settings before you set up your product on your wireless network. Epson will not be able to provide this information for you. If you don't know this information, you'll need to contact the manufacturer of your router or the person who set up your network.\nIf you know your security settings, continue with these steps:\nReset the product's network settings.\nTurn your router off and back on.\nWarning:\nIf your router is connected to other devices, you may need to re-establish the connection for the other devices on the network.\nSet up the product for a wireless connection. Close all applications (including any screen savers, virus protectors, and firewall software) before you install the software.\nUninstall the printer software, then reinstall the printer software.\nIf the steps above do not help, check the additional troubleshooting tips below, then try steps 1 through 4 again.\nIf you're setting up the printer for the first time, make sure you have the correct SSID (wireless network name) and if security is enabled, the wireless network password (WEP key or WPA passphrase).\nThis information is stored in your network's router and you may be able to access it by logging onto the router from your computer and checking its setup screens. If you are unable to access the information, contact the person who set up your network or the  manufacturer of your router or access point for details. (Epson will not be able to provide this information to you.) You'll need to know the SSID and wireless network password before you set up the printer.\nNote:\nThe SSID and security key or passphrase are case sensitive. Be sure to correctly note uppercase, lowercase, and numeric/special letters.\nIf your wireless router or access point is set to not broadcast its Network name (SSID), you'll need to enter the SSID manually in the printer's setup software. If your wireless router or access point has wireless security enabled, you'll also need to know what kind of security it is using. Epson will not be able to provide this information to you. If you don't know this information, you'll need to contact the  manufacturer of your router or the person who set up your network.\nMake sure the product is within range of the wireless router or wireless access point.\nAvoid placing the printer near a microwave oven, 2.4 GHz cordless phone, or large metal objects such as a filing cabinet.\nCheck to see if access restrictions, such as MAC address filtering, are set on the router or access point. If access restrictions are set, add your product's MAC address to your router's address list. If your unsure on how to do this, contact the manufacturer of your router for instructions. To obtain your product's MAC address, print a network status sheet.\nDisable any settings (such as\nAP Isolation\n,\nClient Isolation\n, or\nPrivacy Separator\n) on your wireless router or access point that would prevent wireless devices from communicating with each other.\nMake sure your system meets the requirements.\nMake sure all applications (including any screen savers, virus protectors, and firewall software) are closed.\nMake sure you have administrative rights or software installation privileges to your computer.\nBefore reinstalling the software, check for the following:\nRelated references\nWindows System Requirements\nMac System Requirements",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-217006?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CC48201~faq-217006",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:20.359803"
+        },
+        {
+          "question": "How do I enable double-sided printing for my product in Windows or on my Mac?",
+          "answer": "See the video below for instructions on enabling double-sided printing.\nNote:\nThe product supports manual double-sided printing from a Windows computer. Double-sided printing is not supported on Mac OS X. You will be prompted by the printer driver to reload your pages once one side has finished printing.\nEnable Double-Sided Printing",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-217082?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CC48201~faq-217082",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:21.241726"
+        },
+        {
+          "question": "How do I set my product's software to print only in Black or Grayscale from Windows or my Mac?",
+          "answer": "Open a document, then follow the steps below for your operating system to select\nBlack/Grayscale\nor\nGrayscale\nin the printer driver.\nNote:\nTo keep the print head clear and ready to print, the printer uses a small amount of ink from all the cartridges whenever it prints. Even if you select\nBlack/Grayscale\nor\nGrayscale\n, some color ink is still being used.\nBlack/Grayscale\nor\nGrayscale\nis not recommended for printing black-and-white photos.\nWindows\nSelect the print command in your application.\nMake sure the product is selected.\nClick\nProperties\nor\nPreferences\n.\nNote:\nIf you don't see these buttons, click\nSetup\n,\nPrinter\n, or\nOptions\n, then click\nProperties\nor\nPreferences\non the next screen.\nClick the\nMain\ntab.\nSelect\nBlack/Grayscale\nas the Color setting.\nClick\nOK\n.\nOS X\nSelect the print command in your application.\nMake sure the product is selected.\nClick the\nor\nShow Details\nbutton to expand the Print window, if necessary.\nSelect\nPrint Settings\nfrom the printer options pop-up menu.\nSelect\nGrayscale\nas the Color setting.\nClick\nPrint\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-217005?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CC48201~faq-217005",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:22.311384"
+        },
+        {
+          "question": "How do I install the software for my product if I don't have the CD?",
+          "answer": "You can download the latest driver version for your product from the Downloads tab.\nNote:\nOnly EPSON drivers and utilities are available for download. Any third-party software that came with the product is available only on the CD that came with it.\nTo download and install the drivers and utilities, follow the steps below:\nMake sure the product is not connected to your computer. (You will be prompted to connect it during the installation process.)\nGo to the Downloads tab for your product and download the Drivers and Utilities Combo Package for your operating system. Make a note of the file name and save location so you can easily retrieve it.\nOpen the file you downloaded, and follow the on-screen instructions to install the software.\nIf you wish to obtain a replacement copy of the Software CD (stock permitting), please contact our Driver Fulfillment department at 562-276-4367 (US) or 905-709-3839 (Canada). A charge for shipping and handling plus any applicable taxes may apply.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-217088?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CC48201~faq-217088",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:23.275836"
+        },
+        {
+          "question": "How do I turn off Epson Status Monitor in Windows?",
+          "answer": "Do the following:\nDo one of the following:\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows XP\n: Click\nStart\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n. Right-click your printer and select\nPrinting Preferences\n.\nClick the\nMaintenance\ntab.\nClick\nExtended Settings\n.\nDeselect\nEnable EPSON Status Monitor 3\n.\nClick\nOK\nas necessary to save your settings.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-217096?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CC48201~faq-217096",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:24.261905"
+        },
+        {
+          "question": "Can I connect my product to my wireless network using the buttons on the control panel?",
+          "answer": "You can if your wireless router or access point supports WiFi Protected Setup (WPS). Your router will display the WPS logo\nif it has this feature.\nNote:\nWPS may not work with Mac routers such as Airport Extreme.\nTo connect your printer to your router, do the following:\nPress the WPS button on your router, then press the Wi-Fi button on your printer for 3 seconds.\nAfter 1 minute the printer's WiFi connection light should go on.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-219946?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CC48201~faq-219946",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:25.126196"
+        },
+        {
+          "question": "How do I uninstall the Epson printer and Epson Scan software in Windows or OS X?",
+          "answer": "Follow the instructions below for your operating system.\nUninstalling Product Software - Windows\nYou can uninstall\nand then re-install your product software to solve certain problems.\nTurn off the product.\nDisconnect any interface cables.\nDo one of the following:\nWindows 8\n:\n\t\tNavigate to the\nStart\nscreen, right-click the screen, and\n\t\tselect\nAll apps\n. Select\nControl Panel\n>\nPrograms\n>\nPrograms and Features\n. Select then uninstall\n\t\toption for your Epson product, then select\nUninstall/Change\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto confirm the uninstallation.\nWindows (otherversions)\n: Click\nor\nStart\n, and select\nAll Programs\nor\nPrograms\n. Select\nEPSON\n, select your product, then click\nEPSON Printer Software Uninstall\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nIn the next window, select your product and click\nOK\n. Then follow any on-screen instructions.\nDo one of the following to uninstall Epson Event Manager, then\n\t follow any on-screen instructions:\nWindows 8\n:\n\t\tSelect\nEpson Event Manager\nand click\nUninstall\n.\nWindows 7 or Windows Vista\n: Open the Windows\nControl Panel\nutility. Select\nPrograms and Features\n. (In Classic view,\n\t\tselect\nPrograms\nand click\nUninstall a program\n.) Select\nEpson Event Manager\nand click\nUninstall/Change\n.\nWindows XP\n: Open the Windows\nControl Panel\nutility. Double-click\nAdd or Remove Programs\n. Select\nEpson Event Manager\nand click\nChange/Remove\n.\nDo one of the following to uninstall Epson Scan, then follow any\n\t on-screen instructions:\nWindows 8\n:\n\t\tSelect\nEPSON Scan\nand click\nUninstall/Change\n.\nWindows 7 or WindowsVista\n: Select\nEPSON Scan\nand click\nUninstall/Change\n.\nWindows XP\n: Select\nEPSON Scan\nand click\nChange/Remove\n.\nRestart your computer, then see the \n\t Start Here sheet to re-install your software.\nNote:\nIf you find that re-installing your product software does not solve\n  a problem, contact Epson.\nUninstalling Product Software - Mac OS X\nIn most cases, you\ndo not need to uninstall your product software before re-installing it.\nHowever, you can download the Uninstaller utility from the Epson support\nwebsite to uninstall your product software as described here.\nNote:\nIf you find that re-installing your product software does not solve\n  a problem, contact Epson.\nTo download the Uninstaller utility, visit the Downloads tab for your product.\nFollow the instructions on the screen to install the Uninstaller\n\t utility.\nQuit all applications currently running on your Mac.\nDouble-click the\nUninstaller\nicon.\nSelect the checkbox for each software program you want to\n\t uninstall.\nClick\nUninstall\n.\nFollow the on-screen instructions to uninstall the software.\nTo reinstall your product software, see the \n\t Start Here sheet for instructions.\nNote:\nIf you uninstall the printer driver and your product name remains\n  in the Print & Fax or Print & Scan window, select your product name and\n  click the\n(remove) icon to remove it.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-231483?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CC48201~faq-231483",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:26.026247"
+        },
+        {
+          "question": "I've tried to install my product's software for a USB connection, but cannot complete the installation. What should I do?",
+          "answer": "Disconnect the USB cable and uninstall the printer software, then reinstall the software.\nBefore reinstalling the software, check for the following:\nMake sure the printer is not connected\n\t\t\tto your computer. (You will be prompted to connect it during the installation\n\t\t\tprocess.) You must connect the printer to your computer at the correct time to\n\t\t\tmake sure the driver is installed correctly on your computer.\nMake sure your system meets the\n\t\t\trequirements.\nMake sure all applications (including\n\t\t\tany screen savers, virus protectors, and firewall software) are closed.\nMake sure you have administrative\n\t\t\trights or software installation privileges to your computer.\nRelated references\nWindows System Requirements\nMac System Requirements",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-231484?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CC48201~faq-231484",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:26.897112"
+        },
+        {
+          "question": "My Epson product software is missing after I updated to Windows 8.x. What should I do?",
+          "answer": "The Windows 8 update process uninstalls the previously installed Epson product software. You will need to download the printer software from the Downloads tab for your product.\nGo to the\nDownloads\ntab for your product.\nSelect the\nDrivers and Utilities Combo Package\n, then select\nDownload Now\n.\nFollow the on-screen instructions to install the software.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-232264?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CC48201~faq-232264",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:27.749094"
+        },
+        {
+          "question": "How do I install the latest scanner driver on my Mac?",
+          "answer": "Do the following:\nMake sure your product is on and connected to your Mac.\nSelect the\nmenu, then\nSoftware Update\n. Follow the on-screen instructions to install any updates available for your product.\nNote:\nSoftware Update may find multiple updates for your system; you may choose to install all or some of the updates by clicking\nShow Details\n.\nSelect the\nmenu >\nSystem Preferences\n>\nPrint & Scan\n.\nYour product should appear in the Printers list. If your product is not listed, click\nand select your product.\nClose the\nPrint & Scan\nwindow.\nNote:\nThe steps above will install Apple's Image Capture software for\nscanning. However, you can also install EPSON Scan. EPSON Scan provides\nadditional image adjustment and photo correction features for enhancing scanned\nimages, and provides an interface for TWAIN-compliant OCR scanning software.\nTo install EPSON Scan, do the following:\nGo to the Downloads tab for your product.\nSelect\nEPSON Scan\n.\nClick\nDownload Now\nand follow the on-screen instructions to install EPSON Scan.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-217092?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CC48201~faq-217092",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:28.672143"
+        },
+        {
+          "question": "Can an unauthorized user access my network if I select Unblock or Allow during the EpsonNet Setup software installation?",
+          "answer": "No. This selection will only unblock or allow the EpsonNet Setup software access to your network (which is necessary for your computer to communicate with your all-in-one over your network).",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-0000ab1-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CC48201~faq-0000ab1-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:29.618892"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "The following options are available:\nYou can use Epson Download Navigator (which is installed the first time you install the printer driver) to notify you when new updates are available for download. Download Navigator analyzes the Epson software (drivers, utilities, firmware, etc.) already installed on your computer and notifies you if new updates are available for download.\nIf you've already installed a Windows printer driver, you can update the driver by selecting\nDriver Update\non the Maintenance tab in the printer driver settings window.\nIf you're using a Mac, you can update the driver selecting\nSoftware Update\nin the\nmenu.\nYou can download the software from the Downloads tab for your product.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-0000afc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CC48201~faq-0000afc-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:30.665243"
+        },
+        {
+          "question": "How can I get a replacement CD for my product?",
+          "answer": "You can download the driver from the Downloads tab for your product.\nNote\n:\nOnly the drivers are available for download. Any extra software that came with the product is available only on the CD.\nIf you wish to obtain a replacement copy of the Software CD (stock permitting), please contact our Driver Fulfillment department at 562-276-4367 (US) or 905-709-3839 (Canada). A charge for shipping and handling plus any applicable taxes may apply.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-198080-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CC48201~faq-198080-shared",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:31.554049"
+        },
+        {
+          "question": "How do I change the default settings for the Scan to PC feature?",
+          "answer": "You need to change the settings in Epson Event Manager.  Follow the instructions below.\nDo one of the following:\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nEvent Manager\n.\nWindows (other versions)\n: Click\nStart\nor\n, and select\nAll Programs\nor\nPrograms\n>\nEPSON Software\n>\nEvent Manager\n.\nMac OS X\n: Open\nApplications\n>\nEpson software\n>\nEvent Manager\n.\nSelect your product in the Scanner drop-down box, then click\nMake Job Settings\n.\nSelect\nScan to PC\n, then click on\nDetailed Settings for Scanning\n.\nSelect the settings you would like to use.\nThe following dpi (dots per inch) settings are supported:\nSpeed (150 dpi)\nStandard (300 dpi)\nHigh resolution (600 dpi)\nCustom\nNote\n: Higher dpi settings take longer to scan.\nClick\nOK\ntwice, then click\nClose\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-251949-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CC48201~faq-251949-shared",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:32.511109"
+        },
+        {
+          "question": "Which Epson product software settings are not supported by Apple's AirPrint driver?",
+          "answer": "The following settings are not supported:\nBacklight Correction\nColor Restoration\nDescreening\nDust Removal\nQuiet Mode\nUnsharp Mask\nNote:\nTo use the settings listed above, install the Epson Drivers and Utilities Combo Package for your product. You can download and install the software from the Downloads tab on your product's support page.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-0000b30-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CC48201~faq-0000b30-shared",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:33.383180"
+        },
+        {
+          "question": "How do I change the font size of text when I print from software in Windows?",
+          "answer": "You need to select the text or font size in the software you are printing from, not the printer driver. For detailed instructions, contact the company for the application you are printing from.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-00004b7-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CC48201~faq-00004b7-shared",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:34.232298"
+        },
+        {
+          "question": "I can't get Epson Status Monitor to work over my wireless network. What should I do?",
+          "answer": "If the product is not shared, make sure it is connected to the network wirelessly. Try moving your product or computer to a different location within range of your wireless network. Avoid placing the computer, product, or wireless access point near microwaves, cordless telephones, or other sources of wireless interference.\nIf the product is set up as a shared printer, Epson Status Monitor will not work and is not supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-00004c7-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CC48201~faq-00004c7-shared",
+          "display_order": 20,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:35.245670"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CC48201~faq-00004dc-shared",
+          "display_order": 21,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:36.206816"
+        },
+        {
+          "question": "Who do I contact for software support?",
+          "answer": "Click on the\nContact Us\ntab on your product's support page to contact Epson for support. If your product comes with third-party software, contact the software company.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-00004db-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CC48201~faq-00004db-shared",
+          "display_order": 22,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:37.107706"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CC48201~faq-0000f4b-shared",
+          "display_order": 23,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:37.995571"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CC48201~faq-0000f4c-shared",
+          "display_order": 24,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:38.860439"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CC48201~faq-0000f4d-shared",
+          "display_order": 25,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:47.999166"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Wireless or Wired Connection",
+      "section_id": "8796127635532",
+      "section_order": 10,
+      "faqs": [
+        {
+          "question": "Can I set up my product for both a USB and network connection?",
+          "answer": "Yes, you can set up the product for both a USB and a wireless network connection at the same time. To set up both connections, you must install the product's software twice (i.e., once for each connection type).\nNote:\nWith this setup, your product may appear as two devices in the Printer list. One device is for the USB connection, and the other is for the network connection.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-0000b11-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CC48201~faq-0000b11-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:49.208995"
+        },
+        {
+          "question": "How do I find my SSID and network password?",
+          "answer": "Check your router documentation for this information. Most routers have a default SSID and password that can be modified once the router is set up.\nNote:\nThe SSID is the name of the wireless network that is set up on your router or access point.\nIf you don't know this information, you'll need to contact the manufacturer of your router or the person who set up your network.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-0000ae9-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CC48201~faq-0000ae9-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:50.247886"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 11,
+      "faqs": [
+        {
+          "question": "When printing in Windows, how can I prevent an extra page from being ejected after every print job?",
+          "answer": "The Separator Page function may be enabled. Follow these steps to disable it:\nDo one of the following:\nWindows 8\n: Navigate to the\nStart\nscreen, right-click the screen, and select\nAll apps\n. Select\nControl Panel\n>\nDevices and Printers\n.\nWindows 7\n: Click\n, and select\nDevices and Printers\n.\nWindows Vista\n: Click\n, and select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n.\nWindows XP\n: Click\nStart\n, and select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n.\nRight-click your printer icon, and then select\nPrinter Properties\n(Windows 8 or Windows 7) or\nProperties\n(Windows Vista or Windows XP).\nClick the\nAdvanced\ntab, then click the\nSeparator Page\nbutton. A Separator Page window appears. Delete the information in the text box.\nClick\nOK\nas necessary to save your settings.\nIf the steps above do not help, use the preview option in your software to check if there is a blank page within your document. If there is, delete the blank page.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-210511?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CC48201~faq-210511",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:51.340203"
+        },
+        {
+          "question": "How should I transport my product?",
+          "answer": "If you need to store your product or transport it a long distance, prepare it for transportation as described here.\nCaution:\nDuring transportation and storage, follow these guidelines: Avoid tilting the product, placing it vertically, or turning it upside down; otherwise ink may leak. Leave the ink cartridges installed. Removing the cartridges can dry out the print head and may prevent the product from printing. Do not carry the product by its control panel; this may damage the product.\nTurn off the product.\nLift up the scanner unit and check to see if the print head is in the far right position (the home position). If not, turn on the product, wait for the print head to move, then turn the product off again.\nSecure the ink cartridge holder to the case with tape.\nCaution:\nDo not place tape on the white flat cable inside the product; otherwise, you may damage your product.\nLower the scanner unit.\nRemove all the paper from the product.\nUnplug the power cable.\nDisconnect any connected cables.\nClose the output tray and paper support.\nLower the control panel by squeezing the release bar and gently pushing the panel down.\nCaution:\nDo not lower the control panel without first squeezing the release bar or you may damage your product.\nPlace the product in its original packing materials, if possible, or use equivalent materials with cushioning around the product.\nKeep the product level during transportation. Be sure to remove the tape from the ink cartridge holder before turning on your product. If print quality has declined when you print again, clean and align the print head.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-217156?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CC48201~faq-217156",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:52.360422"
+        },
+        {
+          "question": "My product makes noise after I turn it on or after it has been sitting for a while. What should I do?",
+          "answer": "This is normal. It is performing routine maintenance.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-000096b-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CC48201~faq-000096b-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:53.548472"
+        },
+        {
+          "question": "My product will not wake up when I try to print with a wireless connection. What should I do?",
+          "answer": "Turn the product off and on. If you can print now, the problem is related to your wireless router. Contact the manufacturer of your router for assistance or try using a different router.\nIf you cannot print after turning the product off and on, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-00004c8-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CC48201~faq-00004c8-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:54.574189"
+        },
+        {
+          "question": "Why doesn't Epson include a USB or Ethernet cable in the box with the product?",
+          "answer": "We are committed to giving our customers the best value possible with every product we sell. To provide high-quality products with the latest technology and sell them at the most competitive prices, it is critical to choose which components are necessary and which may be redundant. Because many of our customers already own USB or Ethernet cables, it makes good sense to eliminate the costs of including a cable in every box and use those savings to improve product features and lower the cost to you, the consumer.\nNote:\nNot all products support an Ethernet interface.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-0000490-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CC48201~faq-0000490-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:55.677538"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CC48201~faq-00004b0-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:56.895996"
+        },
+        {
+          "question": "What security measures does Epson recommend for its network products?",
+          "answer": "To help deter unauthorized access to your product over a network, you should protect your network environment using appropriate security measures.\nSecurity measures such as these can help deter threats such as loss of user data, use of telephone and fax lines, and other intrusions:\nEnable security on your wireless LAN if your product supports a wireless connection\nEnable the appropriate security on the wireless LAN you plan to use with your product. Network security, such as a network password, can deter interception of traffic over the wireless LAN. Your router may already have a default password enabled by your Internet service provider (ISP). See your ISP and router documentation for instructions on how to change the default password and better secure your network.\nConnect your product only to a network protected by a firewall\nConnecting your product directly to the Internet may leave it vulnerable to security threats. Instead, connect it to a router or other networking device protected by a firewall. Your router may already have a firewall set up by your Internet service provider; check with your ISP for confirmation. For best results, set up and use a private IP address for your network connection.\nChange the default administrator password on your product\nIf your product has an option to set an administrator password, change the default administrator password to deter access by unauthorized users to personal data stored on your product, such as IDs, passwords, and contact lists. See the product's User's Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-0000a05-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CC48201~faq-0000a05-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:58.021492"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CC48201~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CC48201~faq-0000f4a-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/XP-Series/Epson-XP-200/s/SPT_C11CC48201",
+          "fetched_at": "2026-04-01T06:49:59.033206"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

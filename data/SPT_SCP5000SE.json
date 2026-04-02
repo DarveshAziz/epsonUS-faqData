@@ -1,0 +1,392 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "SureColor Series",
+  "model": {
+    "name": "Epson SureColor P5000 Standard Edition",
+    "sku": "SPT_SCP5000SE",
+    "url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "When should I switch the black ink type to Matte Black?",
+          "answer": "You should switch when printing on non-glossy paper, such as Epson Presentation Paper Matte or Epson Velvet Fine Art Paper. Matte Black (MK) ink produces better black ink density on these paper types than Photo Black (PK) ink. See the link below for a list of media that works best with Matte Black ink and a list that works best with Photo Black ink.\nYou need to switch the black ink type only if you disabled automatic black ink switching. Because this process consumes some ink, you should avoid switching black ink more often than necessary and select a default black ink type for the type of media you print on most often.\nNote:\nTo enable automatic black ink switching when the black ink type setting in the printer and the printer software are different, press the\nMenu\nbutton and select\nPrinter Setup\n>\nAuto Black Ink Change\n>\nAuto\n.\nRelated references\nSwitching the Black Ink Type",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-0000615-scp5000?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCP5000SE~faq-0000615-scp5000",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:03:55.218425"
+        },
+        {
+          "question": "How do I determine my printer driver version on my Mac?",
+          "answer": "Open the\nmenu and select\nSystem Preferences\nor\nSystem Settings\n>\nPrinters & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n. Your printer driver version is displayed.",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-00009e4-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCP5000SE~faq-00009e4-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:03:56.351215"
+        },
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-00009e9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCP5000SE~faq-00009e9-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:03:57.464466"
+        },
+        {
+          "question": "How should I handle specialty paper like fine art media?",
+          "answer": "Do the following:\nAlways use one sheet at a time.\nUse lint-free cotton gloves when handling the media.\nNever stack prints on top of each other. Use a separator sheet between prints.\nStore media flat. Never store media on its side.\nStore media in a cool, dry environment. Refer to the media specification sheet for proper temperature and humidity requirements.\nAlways follow the specific loading instructions for the media being used.\nUse the proper media type setting (EMX).\nNote:\nNon-Epson media can be optimized using custom media settings created in Epson Media Installer.",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-00004B3-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCP5000SE~faq-00004B3-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:03:58.612011"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-00004c5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCP5000SE~faq-00004c5-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:03:57.930587"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCP5000SE~faq-00004b0-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:03:59.039481"
+        },
+        {
+          "question": "How do I change the ink cartridges?",
+          "answer": "See below.\nRemoving and Installing Ink Cartridges\nMake sure you have your replacement cartridges handy before you begin. You must install new cartridges immediately after removing the old ones.\nNote:\nReplace all expended ink cartridges. You cannot print if any of the ink cartridges are expended or any ink slots are empty.\nTurn on your product.\nPress the ink cartridge cover to open it.\nPress in on the ink cartridge you want to replace. The ink cartridge pops out slightly.\nPull out the ink cartridge.\nNote:\nDispose of used cartridges carefully. Do not take the used cartridge apart or try to refill it.\nWarning:\nIf ink gets on your skin, wash it thoroughly with soap and water. If ink gets into your eyes, flush them immediately with water. If ink gets into your mouth, spit it out and see a doctor right away. Keep ink cartridges out of the reach of children.\nRemove the new cartridge from the package. Then gently shake the cartridge for about 15 seconds.\nCaution:\nDo not touch the green chip on the cartridge.\nInsert the new cartridge with the arrow facing up and push it in until it clicks into place.\nCaution:\nDo not remove and re-insert cartridges more often than necessary. Doing so can break the needle valve seal and allow air to enter the ink tubes, damaging the nozzles.\nClose the ink cartridge cover and push it in until it clicks into place.\nYour product begins charging the ink delivery system.\nNote:\nDo not turn off the product during ink charging.\nCaution:\nIf you remove an ink cartridge for later use, protect the ink supply area from dirt and dust and store it in the same environment as the printer. The valve in the ink supply port is designed to contain any excess ink, but do not touch the ink supply port or surrounding area. Always store ink cartridges with the label facing up; do not store cartridges upside-down.\nNote:\nIf a cleaning cycle starts when ink is low and the level of ink remaining in the cartridge is estimated to be less than required for a cleaning, the printer will tell you that there is not enough ink to complete the process. You must insert a fuller cartridge to complete the cleaning. At the end of the cleaning, the original cartridge can be re-inserted and used until it is expended.\nRelated concepts\nPurchase Epson Ink Cartridges and Maintenance Tanks",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-000060d-scp5000?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCP5000SE~faq-000060d-scp5000",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:04:00.215365"
+        },
+        {
+          "question": "What optional equipment is available for my product?",
+          "answer": "See below.\nOptional Equipment and Replacement Parts\nYou can purchase genuine Epson ink, paper, and accessories from an Epson authorized reseller. To find the nearest reseller, visit\nproimaging.epson.com\n(U.S.) or\nproimaging.epson.ca\n(Canada), select your product series and product, and click the\nWhere to Buy\nbutton. Or call 800-GO-EPSON (800-463-7766) in the U.S. or 800-807-7766 in Canada.\nOption or part\nPart number\nReplacement ink maintenance tank (maintenance box 1)\nT6190\nReplacement borderless maintenance tank (maintenance box 2)\nT6191\nAdditional 2\"/3\" roll media spindle\nC12C811251\nReplacement printer cutter blade\nC12C815351\nCleaning sheets\nC13S400045\nSpectroProofer 17\" UVS\nSpectro17UVS\n1-year extended Epson Preferred Plus service plan for SpectroProofer\nEPPSPB1\n1-year extended Epson Preferred Plus service plan\nEPP49B1\n2-year extended Epson Preferred Plus service plan\nEPP49B2",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-0000611-scp5000?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCP5000SE~faq-0000611-scp5000",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:04:01.350191"
+        },
+        {
+          "question": "How do I replace the maintenance tank?",
+          "answer": "See below.\nReplacing the Ink Maintenance Tank\nReplace the ink maintenance tank (maintenance box 1) on the right side of the printer.\nPress the right ink cartridge cover to open it.\nUse the handle on the bottom of the maintenance tank to carefully pull it out of the product without tilting the tank.\nWarning:\nIf ink gets on your skin, wash it thoroughly with soap and water. If ink gets into your eyes, flush them immediately with water. If ink gets into your mouth, spit it out and see a doctor right away.\nRemove the new maintenance tank from the package.\nCaution:\nDo not touch the chip on the side of the maintenance tank or you may damage the product. Do not remove the film from the top of the maintenance tank.\nInsert the new maintenance tank in the slot.\nPlace the used maintenance tank in the bag supplied with the new tank and seal the bag.\nClose the ink cartridge cover.\nNote:\nDispose of used maintenance tanks carefully.\nRelated concepts\nPurchase Epson Ink Cartridges and Maintenance Tanks\nRelated references\nOptional Equipment and Replacement Parts\nReplacing the Borderless Maintenance Tank\nReplace the borderless maintenance tank (maintenance box 2) inside the printer.\nLift the edge of the output tray to remove it.\nMove the lock lever to the unlock position.\nUse the handle on the bottom of the maintenance tank to carefully pull it out of the product without tilting the tank.\nRemove the new maintenance tank from the package.\nCaution:\nDo not touch the chip on the side of the maintenance tank or you may damage the product.\nInsert the new maintenance tank and push it firmly in the slot.\nPlace the used maintenance tank in the bag supplied with the new tank and seal the bag.\nWarning:\nIf ink gets on your skin, wash it thoroughly with soap and water. If ink gets into your eyes, flush them immediately with water. If ink gets into your mouth, spit it out and see a doctor right away.\nReturn the lock lever to the locked position.\nReplace the output tray.\nNote:\nDispose of used maintenance tanks carefully.\nRelated concepts\nPurchase Epson Ink Cartridges and Maintenance Tanks\nRelated references\nOptional Equipment and Replacement Parts",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-000060C-scp5000?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCP5000SE~faq-000060C-scp5000",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:04:02.648781"
+        },
+        {
+          "question": "Do I need to drain the ink cartridges before transporting the printer?",
+          "answer": "No. Do not drain the ink cartridges, and do not remove the cartridges from the printer. Removing the cartridges can dry out the print head and may prevent the product from printing, or ink may leak. The printer has ink valves to prevent spilling ink during transportation.",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-0000616-scp5000?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCP5000SE~faq-0000616-scp5000",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:04:03.970557"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SCP5000SE~faq-00004c5-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:04:05.111472"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "When should I switch the black ink type to Matte Black?",
+          "answer": "You should switch when printing on non-glossy paper, such as Epson Presentation Paper Matte or Epson Velvet Fine Art Paper. Matte Black (MK) ink produces better black ink density on these paper types than Photo Black (PK) ink. See the link below for a list of media that works best with Matte Black ink and a list that works best with Photo Black ink.\nYou need to switch the black ink type only if you disabled automatic black ink switching. Because this process consumes some ink, you should avoid switching black ink more often than necessary and select a default black ink type for the type of media you print on most often.\nNote:\nTo enable automatic black ink switching when the black ink type setting in the printer and the printer software are different, press the\nMenu\nbutton and select\nPrinter Setup\n>\nAuto Black Ink Change\n>\nAuto\n.\nRelated references\nSwitching the Black Ink Type",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-0000615-scp5000?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP5000SE~faq-0000615-scp5000",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:04:06.267254"
+        },
+        {
+          "question": "Which ink cartridges should I use with this product?",
+          "answer": "See below.\nInk Cartridge and Maintenance Tank Part Numbers\nUse these part numbers when you order or purchase a new maintenance tank or ink cartridges.\nNote:\nFor best printing results, use up a cartridge within 6 months of opening the package.\nInk maintenance tank (maintenance box 1) part number: T6190\nBorderless maintenance tank (maintenance box 2) part number: T6191\nInk bay\nSlot\nInk color\nPart number\nLeft\n1\nGreen (G)\nT913B\n2\nLight Light Black (LLK) (Standard and Designer Edition only)\nT9139\nViolet (V) (Commercial Edition only)\nT913D\n3\nYellow (Y)\nT9134\n4\nLight Cyan (LC)\nT9135\n5\nVivid Light Magenta (VLM)\nT9136\n6\nOrange (O)\nT913A\nRight\n7\nMatte Black (MK)\nT9138\n8\nVivid Magenta (M)\nT9133\n9\nLight Black (LK)\nT9137\n10\nCyan (C)\nT9132\n11\nPhoto Black (K)\nT9131",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-000060E-scp5000?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP5000SE~faq-000060E-scp5000",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:04:07.353332"
+        },
+        {
+          "question": "Do I need to drain the ink cartridges before transporting the printer?",
+          "answer": "No. Do not drain the ink cartridges, and do not remove the cartridges from the printer. Removing the cartridges can dry out the print head and may prevent the product from printing, or ink may leak. The printer has ink valves to prevent spilling ink during transportation.",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-0000616-scp5000?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP5000SE~faq-0000616-scp5000",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:04:08.493379"
+        },
+        {
+          "question": "How do I change the ink cartridges?",
+          "answer": "See below.\nRemoving and Installing Ink Cartridges\nMake sure you have your replacement cartridges handy before you begin. You must install new cartridges immediately after removing the old ones.\nNote:\nReplace all expended ink cartridges. You cannot print if any of the ink cartridges are expended or any ink slots are empty.\nTurn on your product.\nPress the ink cartridge cover to open it.\nPress in on the ink cartridge you want to replace. The ink cartridge pops out slightly.\nPull out the ink cartridge.\nNote:\nDispose of used cartridges carefully. Do not take the used cartridge apart or try to refill it.\nWarning:\nIf ink gets on your skin, wash it thoroughly with soap and water. If ink gets into your eyes, flush them immediately with water. If ink gets into your mouth, spit it out and see a doctor right away. Keep ink cartridges out of the reach of children.\nRemove the new cartridge from the package. Then gently shake the cartridge for about 15 seconds.\nCaution:\nDo not touch the green chip on the cartridge.\nInsert the new cartridge with the arrow facing up and push it in until it clicks into place.\nCaution:\nDo not remove and re-insert cartridges more often than necessary. Doing so can break the needle valve seal and allow air to enter the ink tubes, damaging the nozzles.\nClose the ink cartridge cover and push it in until it clicks into place.\nYour product begins charging the ink delivery system.\nNote:\nDo not turn off the product during ink charging.\nCaution:\nIf you remove an ink cartridge for later use, protect the ink supply area from dirt and dust and store it in the same environment as the printer. The valve in the ink supply port is designed to contain any excess ink, but do not touch the ink supply port or surrounding area. Always store ink cartridges with the label facing up; do not store cartridges upside-down.\nNote:\nIf a cleaning cycle starts when ink is low and the level of ink remaining in the cartridge is estimated to be less than required for a cleaning, the printer will tell you that there is not enough ink to complete the process. You must insert a fuller cartridge to complete the cleaning. At the end of the cleaning, the original cartridge can be re-inserted and used until it is expended.\nRelated concepts\nPurchase Epson Ink Cartridges and Maintenance Tanks",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-000060d-scp5000?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP5000SE~faq-000060d-scp5000",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:04:09.573182"
+        },
+        {
+          "question": "Can I change the printer's ink configuration from the Standard Edition to the Commercial Edition or vice versa?",
+          "answer": "No. The printer is available in either the Standard Edition (Light Light Black) or Commercial Edition (Violet). The ink configuration is permanent once the printer completes its initial ink charge and cannot be changed.",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-0000617-scp5000?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCP5000SE~faq-0000617-scp5000",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:04:10.694333"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "How do I replace the maintenance tank?",
+          "answer": "See below.\nReplacing the Ink Maintenance Tank\nReplace the ink maintenance tank (maintenance box 1) on the right side of the printer.\nPress the right ink cartridge cover to open it.\nUse the handle on the bottom of the maintenance tank to carefully pull it out of the product without tilting the tank.\nWarning:\nIf ink gets on your skin, wash it thoroughly with soap and water. If ink gets into your eyes, flush them immediately with water. If ink gets into your mouth, spit it out and see a doctor right away.\nRemove the new maintenance tank from the package.\nCaution:\nDo not touch the chip on the side of the maintenance tank or you may damage the product. Do not remove the film from the top of the maintenance tank.\nInsert the new maintenance tank in the slot.\nPlace the used maintenance tank in the bag supplied with the new tank and seal the bag.\nClose the ink cartridge cover.\nNote:\nDispose of used maintenance tanks carefully.\nRelated concepts\nPurchase Epson Ink Cartridges and Maintenance Tanks\nRelated references\nOptional Equipment and Replacement Parts\nReplacing the Borderless Maintenance Tank\nReplace the borderless maintenance tank (maintenance box 2) inside the printer.\nLift the edge of the output tray to remove it.\nMove the lock lever to the unlock position.\nUse the handle on the bottom of the maintenance tank to carefully pull it out of the product without tilting the tank.\nRemove the new maintenance tank from the package.\nCaution:\nDo not touch the chip on the side of the maintenance tank or you may damage the product.\nInsert the new maintenance tank and push it firmly in the slot.\nPlace the used maintenance tank in the bag supplied with the new tank and seal the bag.\nWarning:\nIf ink gets on your skin, wash it thoroughly with soap and water. If ink gets into your eyes, flush them immediately with water. If ink gets into your mouth, spit it out and see a doctor right away.\nReturn the lock lever to the locked position.\nReplace the output tray.\nNote:\nDispose of used maintenance tanks carefully.\nRelated concepts\nPurchase Epson Ink Cartridges and Maintenance Tanks\nRelated references\nOptional Equipment and Replacement Parts",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-000060C-scp5000?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SCP5000SE~faq-000060C-scp5000",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:04:11.801844"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "Which roll media widths are supported for borderless printing?",
+          "answer": "The following roll media sizes are supported: 8-inch, 10-inch, 11-inch, 13-inch, 14-inch, 16-inch, 16.5-inch, and 17-inch.\nNote:\nTop and bottom edges can be cut automatically to any length when you print on roll media.",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-000061A-scp5000?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCP5000SE~faq-000061A-scp5000",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:04:13.067485"
+        },
+        {
+          "question": "What media thickness will the printer accept?",
+          "answer": "The printer accepts the following thickness:\nCut sheet paper\n: 0.003 to 0.06 inches (0.08 to 1.5 mm)\nPoster board\n: up to 0.06 inches (1.5 mm)\nRoll paper\n: 0.003 to 0.02 inches (0.08 to 0.5 mm)\nNote:\nMaximum thickness is reduced to 0.02 inch (0.45mm) when using the optional SpectroProofer.",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-0000612-scp5000?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCP5000SE~faq-0000612-scp5000",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:04:14.353970"
+        },
+        {
+          "question": "I'm having paper feed problems. What should I do?",
+          "answer": "If you have problems feeding paper, try these solutions:\nMake sure paper is loaded in the correct orientation. Load cut sheets vertically (short edge first).\nFor best results, follow these guidelines:\nUse new, smooth, high-quality paper that is not damp, curled, creased, old, too thin, or too thick.\nFollow any special loading instructions that came with the paper.\nIf roll paper does not feed, cut the end straight across and uncurl it by rolling it backward, if necessary. Then reload the paper.\nIf you cannot insert paper easily into the paper feed slot, make sure the paper is perfectly flat and not curled.\nDo not load more than one piece of cut sheet paper.\nMake sure your paper meets the specifications for your product.\nIf thick media does not feed, make sure you are loading it straight into the product, not at an angle.\nIf paper does not eject correctly, decrease the\nPaper Suction\nsetting for the loaded paper type.\nMake sure that paper is not jammed inside the product.\nRelated references\nPaper Menu Settings\nPaper Specifications\nRelated information\nRoll Paper Handling\nCut Sheet Handling",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-00005F1-scp5000?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCP5000SE~faq-00005F1-scp5000",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:04:15.475504"
+        },
+        {
+          "question": "How should I handle specialty paper like fine art media?",
+          "answer": "Do the following:\nAlways use one sheet at a time.\nUse lint-free cotton gloves when handling the media.\nNever stack prints on top of each other. Use a separator sheet between prints.\nStore media flat. Never store media on its side.\nStore media in a cool, dry environment. Refer to the media specification sheet for proper temperature and humidity requirements.\nAlways follow the specific loading instructions for the media being used.\nUse the proper media type setting (EMX).\nNote:\nNon-Epson media can be optimized using custom media settings created in Epson Media Installer.",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-00004B3-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCP5000SE~faq-00004B3-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:04:16.573450"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-00009e9-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SCP5000SE~faq-00009e9-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:04:17.753563"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "How do I determine my printer driver version on my Mac?",
+          "answer": "Open the\nmenu and select\nSystem Preferences\nor\nSystem Settings\n>\nPrinters & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n. Your printer driver version is displayed.",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-00009e4-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP5000SE~faq-00009e4-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:04:18.962791"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP5000SE~faq-0000f4b-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:04:20.168583"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP5000SE~faq-0000f4c-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:04:21.243103"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCP5000SE~faq-0000f4d-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:04:22.416820"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Specifications",
+      "section_id": "8796158830668",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "What optional equipment is available for my product?",
+          "answer": "See below.\nOptional Equipment and Replacement Parts\nYou can purchase genuine Epson ink, paper, and accessories from an Epson authorized reseller. To find the nearest reseller, visit\nproimaging.epson.com\n(U.S.) or\nproimaging.epson.ca\n(Canada), select your product series and product, and click the\nWhere to Buy\nbutton. Or call 800-GO-EPSON (800-463-7766) in the U.S. or 800-807-7766 in Canada.\nOption or part\nPart number\nReplacement ink maintenance tank (maintenance box 1)\nT6190\nReplacement borderless maintenance tank (maintenance box 2)\nT6191\nAdditional 2\"/3\" roll media spindle\nC12C811251\nReplacement printer cutter blade\nC12C815351\nCleaning sheets\nC13S400045\nSpectroProofer 17\" UVS\nSpectro17UVS\n1-year extended Epson Preferred Plus service plan for SpectroProofer\nEPPSPB1\n1-year extended Epson Preferred Plus service plan\nEPP49B1\n2-year extended Epson Preferred Plus service plan\nEPP49B2",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-0000611-scp5000?faq_cat=faq-8796158830668",
+          "faq_slug": "SPT_SCP5000SE~faq-0000611-scp5000",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:04:23.506958"
+        },
+        {
+          "question": "On which media can I print borderlessly?",
+          "answer": "You can print borderless photos on compatible paper types in compatible paper widths:\nExamples of Borderless Paper Types\nEpson Singleweight Matte Paper\nEpson Doubleweight Matte Paper\nEpson Premium Glossy Photo Paper (250)\nEpson Premium Glossy Photo Paper (170)\nEpson Premium Semimatte Photo Paper (250)\nEpson Premium Luster Photo Paper (260)\nBorderless Roll Paper Widths\n10 inches (254 mm)\n11.8 inches (300 mm)\n13 inches (330 mm)\n14 inches (356 mm)\n16 inches (406 mm)\n17 inches (432 mm)\nBorderless Roll Paper Widths for 2-inch Core Media\n(requires use of the borderless spacer)\n8 inches (203 mm)\n11 inches (280 mm)\n16.5 inches (420 mm)\nNote:\nThe printer software allows you to create and select custom page sizes. To print borderless on roll media, make sure the standard or custom size uses a supported width or an error will occur on the printer.\nRelated tasks\nSelecting Print Layout Options - Mac\nRelated references\nPrintable Area Specifications\nRoll Paper Options - Windows",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-0000610-scp5000?faq_cat=faq-8796158830668",
+          "faq_slug": "SPT_SCP5000SE~faq-0000610-scp5000",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:04:24.597453"
+        },
+        {
+          "question": "What is the smallest ink drop size that can be produced?",
+          "answer": "The smallest drop size is 3.5 picoliters.",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-000061B-scp5000?faq_cat=faq-8796158830668",
+          "faq_slug": "SPT_SCP5000SE~faq-000061B-scp5000",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:04:25.688877"
+        },
+        {
+          "question": "How much does the product weigh?",
+          "answer": "The product weighs approximately 115 lbs.",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-000061C-scp5000?faq_cat=faq-8796158830668",
+          "faq_slug": "SPT_SCP5000SE~faq-000061C-scp5000",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:04:26.872481"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "How should I transport or store my product?",
+          "answer": "If you need to move or transport your product, prepare it as described here.\nCaution\n: During transportation and storage, follow these guidelines:\nAvoid tilting the product, placing it vertically, or turning it upside down; otherwise ink may leak.\nLeave the ink cartridges installed. Removing the cartridges can dry out the print head and may prevent the product from printing, or ink may leak.\nNote:\nBefore storing your product for a long period, replace low, expended, or expired ink to help prevent the print head from drying out. Store your product in a cool, dry place.\nTurn off the product.\nUnplug the power cable.\nDisconnect any connected cables.\nRemove all the paper from the product.\nHave two people lift the printer by placing their hands in the indentations on the left and right sides as shown.\nWarning:\nThis product is heavy and requires two people to move it.\nPlace the product in its original packing materials, if possible, or use equivalent materials with cushioning around the product. Make sure the box adequately protects the product control panel.\nKeep the product level during transportation. If print quality has declined when you print again, clean and align the print head.\nRelated concepts\nPrint Head Alignment\nPrint Head Cleaning",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-00005F2-scp5000?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCP5000SE~faq-00005F2-scp5000",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:04:27.978333"
+        },
+        {
+          "question": "Do I need to purchase the optional SpectroProofer?",
+          "answer": "No. The SpectroProofer is an option and the printer can function without it. The SpectroProofer should be used for proofing purposes and with the postscript RIP software. If you are using the printer for photographic reproduction purposes, a SpectroProofer is not required.",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-0000618-scp5000?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCP5000SE~faq-0000618-scp5000",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:04:29.072527"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCP5000SE~faq-00004b0-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:04:28.413019"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SCP5000SE~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCP5000SE~faq-0000f4a-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/SureColor-Series/Epson-SureColor-P5000-Standard-Edition/s/SPT_SCP5000SE",
+          "fetched_at": "2026-04-02T03:04:29.565073"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

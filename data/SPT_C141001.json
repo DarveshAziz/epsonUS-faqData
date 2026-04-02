@@ -1,0 +1,347 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "Epson Stylus Series",
+  "model": {
+    "name": "Epson Stylus 400",
+    "sku": "SPT_C141001",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-400/s/SPT_C141001"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C141001~faq-000096d-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C141001~faq-000096d-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-400/s/SPT_C141001",
+          "fetched_at": "2026-04-01T23:57:21.521883"
+        },
+        {
+          "question": "When I try to print to my product in Windows 7, printing is slow or my product stops printing. What should I do?",
+          "answer": "Try the following:\nSelect a lower quality setting in the printer software.\nMake sure your system meets the minimum system requirements for your printer.\nClose the\nDevices and Printers\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.",
+          "faq_url": "https://epson.com/faq/SPT_C141001~faq-0000bf3-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C141001~faq-0000bf3-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-400/s/SPT_C141001",
+          "fetched_at": "2026-04-01T23:57:22.600455"
+        },
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C141001~faq-0000ad0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C141001~faq-0000ad0-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-400/s/SPT_C141001",
+          "fetched_at": "2026-04-01T23:57:23.628533"
+        },
+        {
+          "question": "Does OS X support manual duplex printing with my product?",
+          "answer": "This feature is not supported in Mac OS X. However, if your printer has a built-in automatic duplexer, auto-duplexing is supported in Mac OS X 10.6 (Snow Leopard).",
+          "faq_url": "https://epson.com/faq/SPT_C141001~faq-0000c1d-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C141001~faq-0000c1d-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-400/s/SPT_C141001",
+          "fetched_at": "2026-04-01T23:57:24.664493"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C141001~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C141001~faq-00004b0-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-400/s/SPT_C141001",
+          "fetched_at": "2026-04-01T23:57:26.301144"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C141001~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C141001~faq-00004dc-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-400/s/SPT_C141001",
+          "fetched_at": "2026-04-01T23:57:27.900947"
+        },
+        {
+          "question": "The vertical alignment is off. What should I do?",
+          "answer": "If the printouts contain misaligned vertical lines, the print heads may need to be aligned.Calibration corrects only vertical alignment which is most apparent when vertical lines are misaligned when printed.\nThe Calibration Utility filename is CALIBRAT.EXE and is located on the driver software that was packaged with the printer.\nIf you cannot find the CALIBRAT.EXE file, you can download the latest version driver for your printer. It will be among the files after the driver is uncompressed.\nThe Stylus 800+ driver CALIBRAT.EXE program can be used to align all monochrome Stylus printers.\nCALIBRAT.EXE can be copied to the hard disk and put it in a convenient directory such as C:\\UTILITY for future use or can be run from the driver diskette. This utility runs in DOS, so exit Windows or open a DOS prompt in Windows and run it. To run the utility, log onto the directory where the utility is stored, type CALIBRAT and press Enter.\nIMPORTANT: The calibration program assumes the printer is attached to LPT1. If LPT2 or any other port is the default port , connect the printer to LPT1 to calibrate and after saving the calibration, connect it back to your preferred port for printing.\nFollow the directions on the screen.\n1. Select your printer model from the list of Epson Printers.\n2. Select the option to print a calibration pattern then Tab over to highlight \"Calibrate\" and press Enter.\n3. A calibration pattern will then print. Look carefully at the calibration pattern and select an Offset Value that corresponds to the row of vertical lines that most closely aligns. Type in the Offset Value number and press Enter.\nNote: Offset Value numbers between those which are shown can be selected for greater accuracy.\n4. A confirmation pattern will print using the Offset Value selected. If the lines are straight, press Enter. If not, tab over to Re-Calibrate and select another Offset Value.\n5. Once the calibration procedure is complete, turn the printer OFF with the Printer's power switch to save the alignment settings.\nIMPORTANT: After using the utility, the settings will not be saved to the printer unless the it is turned OFF with the Printer's power switch. Save the settings by turning off the printer then turn the printer back ON.\nIf the printer is powered off by unplugging it or turning it off with a power strip, the settings will not be saved. It is recommended to always power the printer down with it's own power switch to ensure the print head is set to the proper powered down position.\nWindows Calibration\nIf you have installed the Windows version, double-click on the EPSON Printer Calibration Utility icon. Follow the directions on the screen. Same procedure about turning the printer off to save the settings will still apply.",
+          "faq_url": "https://epson.com/faq/SPT_C141001~faq-42451?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C141001~faq-42451",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-400/s/SPT_C141001",
+          "fetched_at": "2026-04-01T23:57:29.138647"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C141001~faq-0000f4a-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C141001~faq-0000f4a-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-400/s/SPT_C141001",
+          "fetched_at": "2026-04-01T23:57:30.196920"
+        },
+        {
+          "question": "After replacing the ink cartridge my product runs through the motions of printing, however there is no ink printed on the paper. What should I do?",
+          "answer": "Ensure the proper procedures for installing an ink cartridge was done. Next, perform at least two cleaning cycles (hold down the ALT and the Pause button on the printer panel to initiate a cleaning cycle). Print out the demonstration page (press the ALT button while applying Power). If the problem persists and there is no improvement, take the printer to an Epson Authorized Service Center.",
+          "faq_url": "https://epson.com/faq/SPT_C141001~faq-32836?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C141001~faq-32836",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-400/s/SPT_C141001",
+          "fetched_at": "2026-04-01T23:57:31.282614"
+        },
+        {
+          "question": "Which ink cartridges should I use with my product?",
+          "answer": "Use ink cartridge model # S020025 with the Stylus 400.\nYou can order Epson ink cartridges from the Epson Store.",
+          "faq_url": "https://epson.com/faq/SPT_C141001~faq-42454?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C141001~faq-42454",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-400/s/SPT_C141001",
+          "fetched_at": "2026-04-01T23:57:32.339645"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "When I try to print to my product in Windows 7, printing is slow or my product stops printing. What should I do?",
+          "answer": "Try the following:\nSelect a lower quality setting in the printer software.\nMake sure your system meets the minimum system requirements for your printer.\nClose the\nDevices and Printers\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.",
+          "faq_url": "https://epson.com/faq/SPT_C141001~faq-0000bf3-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C141001~faq-0000bf3-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-400/s/SPT_C141001",
+          "fetched_at": "2026-04-01T23:57:33.374076"
+        },
+        {
+          "question": "Does OS X support manual duplex printing with my product?",
+          "answer": "This feature is not supported in Mac OS X. However, if your printer has a built-in automatic duplexer, auto-duplexing is supported in Mac OS X 10.6 (Snow Leopard).",
+          "faq_url": "https://epson.com/faq/SPT_C141001~faq-0000c1d-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C141001~faq-0000c1d-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-400/s/SPT_C141001",
+          "fetched_at": "2026-04-01T23:57:34.416986"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "The Data and Paper Out lights are flashing. How can I clear my product?",
+          "answer": "Initiate a ROM reset (press Pause + ALT + Load/Eject while applying power to the printer). If the problem persists, take the printer to an Epson Authorized Service Center.",
+          "faq_url": "https://epson.com/faq/SPT_C141001~faq-32837?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C141001~faq-32837",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-400/s/SPT_C141001",
+          "fetched_at": "2026-04-01T23:57:35.470813"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "Which ink cartridges should I use with my product?",
+          "answer": "Use ink cartridge model # S020025 with the Stylus 400.\nYou can order Epson ink cartridges from the Epson Store.",
+          "faq_url": "https://epson.com/faq/SPT_C141001~faq-42454?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C141001~faq-42454",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-400/s/SPT_C141001",
+          "fetched_at": "2026-04-01T23:57:36.780486"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "My product is performing continuous cleaning cycles when the unit is powered on. How can I clear this problem.",
+          "answer": "Try a performing a ROM reset (press Pause + ALT + Load/Eject while applying power to the printer). If the condition is still present, reinstall the ink cartridge with the power off. If the problem persists, take the printer to an Epson Authorized Service Center.",
+          "faq_url": "https://epson.com/faq/SPT_C141001~faq-32845?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C141001~faq-32845",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-400/s/SPT_C141001",
+          "fetched_at": "2026-04-01T23:57:37.845465"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "After replacing the ink cartridge my product runs through the motions of printing, however there is no ink printed on the paper. What should I do?",
+          "answer": "Ensure the proper procedures for installing an ink cartridge was done. Next, perform at least two cleaning cycles (hold down the ALT and the Pause button on the printer panel to initiate a cleaning cycle). Print out the demonstration page (press the ALT button while applying Power). If the problem persists and there is no improvement, take the printer to an Epson Authorized Service Center.",
+          "faq_url": "https://epson.com/faq/SPT_C141001~faq-32836?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C141001~faq-32836",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-400/s/SPT_C141001",
+          "fetched_at": "2026-04-01T23:57:38.952049"
+        },
+        {
+          "question": "My output appears faded. How can I improve the quality",
+          "answer": "Make sure the economy light is not selected. If the economy light is not on, perform two cleaning cycles. Try printing the demo page to see if printing has improved. If printing has not improved, try using a fresh pack of paper. If this does not eliminate the problem, replace the ink cartridge.",
+          "faq_url": "https://epson.com/faq/SPT_C141001~faq-32842?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C141001~faq-32842",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-400/s/SPT_C141001",
+          "fetched_at": "2026-04-01T23:57:38.120100"
+        },
+        {
+          "question": "There's no ink on the page when it comes out of my product. What should I do?",
+          "answer": "Make sure the ink cartridge is not empty. Also if the ink cartridge is older than 6 months, the ink may have thickened. If so, install a new genuine Epson ink cartridge and run up to 10 consecutive cleaning cycles to see if this will clear it up. After every 3rd cleaning cycle print a demo sheet by holding down the ALT button for a few moments while turning on the printer's power. If nothing helps then the printer should be serviced by an authorized Epson service center.",
+          "faq_url": "https://epson.com/faq/SPT_C141001~faq-42449?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C141001~faq-42449",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-400/s/SPT_C141001",
+          "fetched_at": "2026-04-01T23:57:39.152451"
+        },
+        {
+          "question": "My printout is missing some characters. What should I do?",
+          "answer": "Video driver conflict\nSome video drivers may cause a conflict in memory between the printerdriver and video memory. Try changing to the Windows video driver provided by Microsoft or check to see if the video card manufacturer has an updated video driver available. This is often the cause of strange printing problems such as heavy banding and missing characters.",
+          "faq_url": "https://epson.com/faq/SPT_C141001~faq-42455?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C141001~faq-42455",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-400/s/SPT_C141001",
+          "fetched_at": "2026-04-01T23:57:40.175900"
+        },
+        {
+          "question": "The vertical alignment is off. What should I do?",
+          "answer": "If the printouts contain misaligned vertical lines, the print heads may need to be aligned.Calibration corrects only vertical alignment which is most apparent when vertical lines are misaligned when printed.\nThe Calibration Utility filename is CALIBRAT.EXE and is located on the driver software that was packaged with the printer.\nIf you cannot find the CALIBRAT.EXE file, you can download the latest version driver for your printer. It will be among the files after the driver is uncompressed.\nThe Stylus 800+ driver CALIBRAT.EXE program can be used to align all monochrome Stylus printers.\nCALIBRAT.EXE can be copied to the hard disk and put it in a convenient directory such as C:\\UTILITY for future use or can be run from the driver diskette. This utility runs in DOS, so exit Windows or open a DOS prompt in Windows and run it. To run the utility, log onto the directory where the utility is stored, type CALIBRAT and press Enter.\nIMPORTANT: The calibration program assumes the printer is attached to LPT1. If LPT2 or any other port is the default port , connect the printer to LPT1 to calibrate and after saving the calibration, connect it back to your preferred port for printing.\nFollow the directions on the screen.\n1. Select your printer model from the list of Epson Printers.\n2. Select the option to print a calibration pattern then Tab over to highlight \"Calibrate\" and press Enter.\n3. A calibration pattern will then print. Look carefully at the calibration pattern and select an Offset Value that corresponds to the row of vertical lines that most closely aligns. Type in the Offset Value number and press Enter.\nNote: Offset Value numbers between those which are shown can be selected for greater accuracy.\n4. A confirmation pattern will print using the Offset Value selected. If the lines are straight, press Enter. If not, tab over to Re-Calibrate and select another Offset Value.\n5. Once the calibration procedure is complete, turn the printer OFF with the Printer's power switch to save the alignment settings.\nIMPORTANT: After using the utility, the settings will not be saved to the printer unless the it is turned OFF with the Printer's power switch. Save the settings by turning off the printer then turn the printer back ON.\nIf the printer is powered off by unplugging it or turning it off with a power strip, the settings will not be saved. It is recommended to always power the printer down with it's own power switch to ensure the print head is set to the proper powered down position.\nWindows Calibration\nIf you have installed the Windows version, double-click on the EPSON Printer Calibration Utility icon. Follow the directions on the screen. Same procedure about turning the printer off to save the settings will still apply.",
+          "faq_url": "https://epson.com/faq/SPT_C141001~faq-42451?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C141001~faq-42451",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-400/s/SPT_C141001",
+          "fetched_at": "2026-04-01T23:57:41.206859"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "Why can't I print from one particular windows application, but I can print fine from other Windows applications?",
+          "answer": "Make sure that the correct printer driver and port are selected within the application that is not printing. Try printing again. If the problem persists, select the LQ570 printer as an alternative printer driver and try printing again. If the results are still unsuccessful, open the Windows Write program and try printing again. If you successfully printed from Windows Write, contact the software manufacturer.",
+          "faq_url": "https://epson.com/faq/SPT_C141001~faq-32801?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C141001~faq-32801",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-400/s/SPT_C141001",
+          "fetched_at": "2026-04-01T23:57:42.235898"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C141001~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C141001~faq-00004dc-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-400/s/SPT_C141001",
+          "fetched_at": "2026-04-01T23:57:43.265074"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Wireless or Wired Connection",
+      "section_id": "8796127635532",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C141001~faq-0000ad0-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C141001~faq-0000ad0-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-400/s/SPT_C141001",
+          "fetched_at": "2026-04-01T23:57:44.297013"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "When printing in Windows, how can I prevent an extra page from being ejected after every print job?",
+          "answer": "The Separator Page function may be enabled. Follow these steps to disable it:\nClick\nStart\nor\n.\nDo one of the following:\nWindows XP\n:\nSelect\nPrinters and Faxes\n(or select\nSettings\n, then select\nPrinters and Faxes\n).\nWindows Vista\n:\nSelect\nControl Panel\n, then\nPrinter\nor\nPrinters\nunder Hardware and Sound\n.\nWindows 7\n:\nSelect\nControl Panel\n, then\nView Devices and Printers\nunder Hardware and Sound.\nIn the\nPrinters\nor\nPrinters and Faxes\nwindow, right-click on your printer's name.\nSelect\nProperties\n, click the Advanced tab, then press the\nSeparator Page\nbutton.\nIn the Separator Page window, delete the information in the text box and then click\nOK\n.\nClick\nOK\nagain.",
+          "faq_url": "https://epson.com/faq/SPT_C141001~faq-164708?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C141001~faq-164708",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-400/s/SPT_C141001",
+          "fetched_at": "2026-04-01T23:57:45.567010"
+        },
+        {
+          "question": "My product will not power up when the cable is connected to by PC?",
+          "answer": "Power the Computer off and disconnect printer cable from the back of the printer. Power the printer off and back on again to verify that the printer will power on without the printer cable connected. Reconnect the printer cable and turn on the computer first and then turn on the printer. If the printer does not power up, try exchanging the printer cable by purchasing a fully shielded parallel printer cable. You can also try moving the printer and the cable to another computer. If the printer successfully powers on, you may have a problem with the parallel port on your computer. However, if this condition persists, there could be a problem with the parallel port on your printer. Take the printer to an Epson Authorized Service Center.",
+          "faq_url": "https://epson.com/faq/SPT_C141001~faq-32798?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C141001~faq-32798",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-400/s/SPT_C141001",
+          "fetched_at": "2026-04-01T23:57:46.597380"
+        },
+        {
+          "question": "My product will not power on even if my product cable is disconnected.",
+          "answer": "Remove the printer cable and unplug the printer from the power source; surge protector, power strip or outlet. Connect the power cable in a different outlet and power the printer on. If the problem persists, take the printer to an Epson Authorized Service Center.",
+          "faq_url": "https://epson.com/faq/SPT_C141001~faq-32840?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C141001~faq-32840",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-400/s/SPT_C141001",
+          "fetched_at": "2026-04-01T23:57:47.646023"
+        },
+        {
+          "question": "Where can I get replacement parts or a service manual?",
+          "answer": "You can purchase replacement parts and service manuals from an Epson Authorized Customer Care Center or Epson parts distributor.",
+          "faq_url": "https://epson.com/faq/SPT_C141001~faq-000096d-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C141001~faq-000096d-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-400/s/SPT_C141001",
+          "fetched_at": "2026-04-01T23:57:48.673358"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C141001~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C141001~faq-00004b0-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-400/s/SPT_C141001",
+          "fetched_at": "2026-04-01T23:57:49.709790"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C141001~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C141001~faq-0000f4a-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-400/s/SPT_C141001",
+          "fetched_at": "2026-04-01T23:57:50.724994"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

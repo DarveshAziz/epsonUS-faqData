@@ -1,0 +1,313 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Impact Printers",
+  "series": "LQ Series",
+  "model": {
+    "name": "Epson LQ-2090",
+    "sku": "SPT_C11C559001",
+    "url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2090/s/SPT_C11C559001"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11C559001~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C559001~faq-00004b0-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2090/s/SPT_C11C559001",
+          "fetched_at": "2026-04-02T05:13:39.805276"
+        },
+        {
+          "question": "A label peeled off in the product. How should I remove it?",
+          "answer": "Press the product's\nLF/FF\nbutton until the label appears on the platen and remove the label. If you can't remove the label this way, do not remove the platen from the product. Get the printer serviced.\nNote:\nWe recommend you use the pull tractor to print labels. Labels fed through the rear push tractor can curl and peel off under the platen.",
+          "faq_url": "https://epson.com/faq/SPT_C11C559001~faq-0000937-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C559001~faq-0000937-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2090/s/SPT_C11C559001",
+          "fetched_at": "2026-04-02T05:13:41.101954"
+        },
+        {
+          "question": "Why does my product stop or pause in the middle of a print job?",
+          "answer": "The printer has a built-in sensor that monitors the temperature of the print head. When the print head begins to get too hot, it may pause or slow down to prevent overheating. If the print head begins to overheat, thermistor will stop the print head completely until it has cooled down. Once the print head has sufficiently cooled down, the printer will resume the print job.\nThe printer may also stop or pause because it is waiting for more data or because it is processing data already received.",
+          "faq_url": "https://epson.com/faq/SPT_C11C559001~faq-44578?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C559001~faq-44578",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2090/s/SPT_C11C559001",
+          "fetched_at": "2026-04-02T05:13:42.200145"
+        },
+        {
+          "question": "When I print a multiple page document on single sheets, the first page prints correctly but the pages after that start printing too low. What should I do?",
+          "answer": "The difference in print position is usually caused by the page length setting in your software. Most programs have a default page length of 66 lines per page when using 11” continuous paper.\nWhen you use single sheets, however, the printer automatically provides a small top and bottom margin. Since the top and bottom margins are non-printable areas, the maximum number of lines per page is reduced from 66 to 61 lines per page.\nMany programs have an option to change the number of lines per page. You should change the number of lines per page to 61. If your software offers a selection for “cut-sheet feeder” or “single sheet” (or a similar wording), select that paper type in the software settings.",
+          "faq_url": "https://epson.com/faq/SPT_C11C559001~faq-44570?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C559001~faq-44570",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2090/s/SPT_C11C559001",
+          "fetched_at": "2026-04-02T05:13:43.384218"
+        },
+        {
+          "question": "I'm printing serial, my baud rate is at 9600, and intermittently my product will lose data. What should I do?",
+          "answer": "If you are using the non-buffered serial interface card (model C823051) and X-on/X-off is enabled, the X-off signal may not reach the printer in time to delay data transmission. This will result in an overflow and loss of data.\nIf you can use a DTR setting, change X-on/X-off to DTR. If you must use X-on/X-off, try decreasing the baud rate. See\nSetting the conditions\nfor the model C823051 Serial Interface Card.\nAnother option would be to purchase a 32KB buffered serial interface card (model C823071). The buffered card has a flag reset timing feature which allows the card to set aside additional buffer space to \"catch\" any data overflow. The flag reset timing feature settings are selectable through dip switches on the card.\nAlso, make sure your printer cable is less than 50 feet long when you're printing at 9600 baud.",
+          "faq_url": "https://epson.com/faq/SPT_C11C559001~faq-44571?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C559001~faq-44571",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2090/s/SPT_C11C559001",
+          "fetched_at": "2026-04-02T05:13:44.502933"
+        },
+        {
+          "question": "What is the recommended duty cycle for my product?",
+          "answer": "The recommended duty cycle is 25%. Epson America's definition of a 25% duty cycle is the printer printing (not idle) for two hours per day (25% of an eight hour day) for 22 days per month.",
+          "faq_url": "https://epson.com/faq/SPT_C11C559001~faq-44587?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C559001~faq-44587",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2090/s/SPT_C11C559001",
+          "fetched_at": "2026-04-02T05:13:45.691410"
+        },
+        {
+          "question": "Can I connect my product to IBM mainframe (IBM 3270) and IBM minicomputer (AS/400 or System 3X) environments?",
+          "answer": "Yes.\nFor IBM mainframe environments, you can purchase an optional Type-B Coax interface card (model C823141) which allows direct connectivity and emulates the following IBM printer models: 3287, 3268, 4214-1, and 4224 (non IPDS).\nFor IBM minicomputer environments, you can purchase an optional Type-B Twinax interface card (model C823151) which allows direct connectivity and emulates the following IBM printer models: 4210, 4214, 5225, 5224, 5256, 5219, and 3812.",
+          "faq_url": "https://epson.com/faq/SPT_C11C559001~faq-44589?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C559001~faq-44589",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2090/s/SPT_C11C559001",
+          "fetched_at": "2026-04-02T05:13:46.891858"
+        },
+        {
+          "question": "How do I create a custom paper size in the Server Properties?",
+          "answer": "Follow these steps to create a new page size accessible by all printer drivers installed in Windows:\nOpen the\nPrinters\nor\nPrinters and Faxes\nwindow.\nClick\nFile\n, then\nServer Properties\n.\nPut a check in the\nCreate a new form\nbox.\nInput a name for the custom paper size.\nUnder\nPaper Size\n, enter the desired height and width.\nClick\nSave\nor\nSave Form\nto add the new form size to the list, then\nOK\nto close Server Properties.",
+          "faq_url": "https://epson.com/faq/SPT_C11C559001~faq-140662?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C559001~faq-140662",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2090/s/SPT_C11C559001",
+          "fetched_at": "2026-04-02T05:13:46.278791"
+        },
+        {
+          "question": "My product starts printing too far down the page. Is there any way I can adjust the starting point of the print job?",
+          "answer": "You can use the Micro Adjust function to\nadjust the top-of-form position\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C559001~faq-44573?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C559001~faq-44573",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2090/s/SPT_C11C559001",
+          "fetched_at": "2026-04-02T05:13:47.415657"
+        },
+        {
+          "question": "Does my product support IBM emulation?",
+          "answer": "The printer supports IBM 2390 Plus mode emulation.",
+          "faq_url": "https://epson.com/faq/SPT_C11C559001~faq-44586?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C559001~faq-44586",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2090/s/SPT_C11C559001",
+          "fetched_at": "2026-04-02T05:13:48.481600"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Why won't my product print serially from my computer?",
+          "answer": "There are a few possibilities:\nMake sure your optional Epson serial interface card is set up properly.\nSee\nSetting the conditions\nfor the model C823051 Serial Interface Card\nSee\nSetting the conditions\nfor the model C823071 Serial Interface Card\nIf you are using a straight through modem cable, change the cable to a null modem cable.\nIf you are already using a null modem cable, ensure that the settings for the printer's serial port match the settings on your computer.\nThere is always the possibility of a loose connection or a bad cable. Disconnect and reconnect the cable on the PC and the printer and try printing again. If you are still experiencing problems, try a different cable.\nThe problem may be related to your computer's serial port. Try using the printer on another computer to determine whether that is the case.",
+          "faq_url": "https://epson.com/faq/SPT_C11C559001~faq-44577?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C559001~faq-44577",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2090/s/SPT_C11C559001",
+          "fetched_at": "2026-04-02T05:13:49.550748"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "A label peeled off in the product. How should I remove it?",
+          "answer": "Press the product's\nLF/FF\nbutton until the label appears on the platen and remove the label. If you can't remove the label this way, do not remove the platen from the product. Get the printer serviced.\nNote:\nWe recommend you use the pull tractor to print labels. Labels fed through the rear push tractor can curl and peel off under the platen.",
+          "faq_url": "https://epson.com/faq/SPT_C11C559001~faq-0000937-shared?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C11C559001~faq-0000937-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2090/s/SPT_C11C559001",
+          "fetched_at": "2026-04-02T05:13:50.603918"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "How do I create a custom paper size in the Server Properties?",
+          "answer": "Follow these steps to create a new page size accessible by all printer drivers installed in Windows:\nOpen the\nPrinters\nor\nPrinters and Faxes\nwindow.\nClick\nFile\n, then\nServer Properties\n.\nPut a check in the\nCreate a new form\nbox.\nInput a name for the custom paper size.\nUnder\nPaper Size\n, enter the desired height and width.\nClick\nSave\nor\nSave Form\nto add the new form size to the list, then\nOK\nto close Server Properties.",
+          "faq_url": "https://epson.com/faq/SPT_C11C559001~faq-140662?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C559001~faq-140662",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2090/s/SPT_C11C559001",
+          "fetched_at": "2026-04-02T05:13:51.721196"
+        },
+        {
+          "question": "Can I use the knob on the side of my product to load and/or adjust paper?",
+          "answer": "No, never use the knob to load or adjust the paper. The knob should only be used to clear paper jams after the printer has been turned off.\nUse the Micro Adjust function\nto adjust the paper.",
+          "faq_url": "https://epson.com/faq/SPT_C11C559001~faq-44585?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C559001~faq-44585",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2090/s/SPT_C11C559001",
+          "fetched_at": "2026-04-02T05:13:53.030916"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "When I print a multiple page document on single sheets, the first page prints correctly but the pages after that start printing too low. What should I do?",
+          "answer": "The difference in print position is usually caused by the page length setting in your software. Most programs have a default page length of 66 lines per page when using 11” continuous paper.\nWhen you use single sheets, however, the printer automatically provides a small top and bottom margin. Since the top and bottom margins are non-printable areas, the maximum number of lines per page is reduced from 66 to 61 lines per page.\nMany programs have an option to change the number of lines per page. You should change the number of lines per page to 61. If your software offers a selection for “cut-sheet feeder” or “single sheet” (or a similar wording), select that paper type in the software settings.",
+          "faq_url": "https://epson.com/faq/SPT_C11C559001~faq-44570?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C559001~faq-44570",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2090/s/SPT_C11C559001",
+          "fetched_at": "2026-04-02T05:13:54.318512"
+        },
+        {
+          "question": "I'm printing serial, my baud rate is at 9600, and intermittently my product will lose data. What should I do?",
+          "answer": "If you are using the non-buffered serial interface card (model C823051) and X-on/X-off is enabled, the X-off signal may not reach the printer in time to delay data transmission. This will result in an overflow and loss of data.\nIf you can use a DTR setting, change X-on/X-off to DTR. If you must use X-on/X-off, try decreasing the baud rate. See\nSetting the conditions\nfor the model C823051 Serial Interface Card.\nAnother option would be to purchase a 32KB buffered serial interface card (model C823071). The buffered card has a flag reset timing feature which allows the card to set aside additional buffer space to \"catch\" any data overflow. The flag reset timing feature settings are selectable through dip switches on the card.\nAlso, make sure your printer cable is less than 50 feet long when you're printing at 9600 baud.",
+          "faq_url": "https://epson.com/faq/SPT_C11C559001~faq-44571?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C559001~faq-44571",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2090/s/SPT_C11C559001",
+          "fetched_at": "2026-04-02T05:13:55.918809"
+        },
+        {
+          "question": "My product starts printing too far down the page. Is there any way I can adjust the starting point of the print job?",
+          "answer": "You can use the Micro Adjust function to\nadjust the top-of-form position\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C559001~faq-44573?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C559001~faq-44573",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2090/s/SPT_C11C559001",
+          "fetched_at": "2026-04-02T05:13:57.215109"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "Does my product support IBM emulation?",
+          "answer": "The printer supports IBM 2390 Plus mode emulation.",
+          "faq_url": "https://epson.com/faq/SPT_C11C559001~faq-44586?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C559001~faq-44586",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2090/s/SPT_C11C559001",
+          "fetched_at": "2026-04-02T05:13:58.318249"
+        },
+        {
+          "question": "Does the product have dip switches to set up my product configuration?",
+          "answer": "The LQ-2090 has no DIP switches. You can\nchange the printer's default settings\nusing the printer's control panel default-setting mode or the Epson Remote Configuration Manager.",
+          "faq_url": "https://epson.com/faq/SPT_C11C559001~faq-44583?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C559001~faq-44583",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2090/s/SPT_C11C559001",
+          "fetched_at": "2026-04-02T05:13:59.413130"
+        },
+        {
+          "question": "Can I connect my product to IBM mainframe (IBM 3270) and IBM minicomputer (AS/400 or System 3X) environments?",
+          "answer": "Yes.\nFor IBM mainframe environments, you can purchase an optional Type-B Coax interface card (model C823141) which allows direct connectivity and emulates the following IBM printer models: 3287, 3268, 4214-1, and 4224 (non IPDS).\nFor IBM minicomputer environments, you can purchase an optional Type-B Twinax interface card (model C823151) which allows direct connectivity and emulates the following IBM printer models: 4210, 4214, 5225, 5224, 5256, 5219, and 3812.",
+          "faq_url": "https://epson.com/faq/SPT_C11C559001~faq-44589?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C559001~faq-44589",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2090/s/SPT_C11C559001",
+          "fetched_at": "2026-04-02T05:14:00.492678"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "How do I perform a self test on the product?",
+          "answer": "See\nPrinting a Self Test\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C559001~faq-44575?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C559001~faq-44575",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2090/s/SPT_C11C559001",
+          "fetched_at": "2026-04-02T05:14:01.579003"
+        },
+        {
+          "question": "Why does my product stop or pause in the middle of a print job?",
+          "answer": "The printer has a built-in sensor that monitors the temperature of the print head. When the print head begins to get too hot, it may pause or slow down to prevent overheating. If the print head begins to overheat, thermistor will stop the print head completely until it has cooled down. Once the print head has sufficiently cooled down, the printer will resume the print job.\nThe printer may also stop or pause because it is waiting for more data or because it is processing data already received.",
+          "faq_url": "https://epson.com/faq/SPT_C11C559001~faq-44578?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C559001~faq-44578",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2090/s/SPT_C11C559001",
+          "fetched_at": "2026-04-02T05:14:02.823836"
+        },
+        {
+          "question": "My product is on, but when I push the buttons on the control panel nothing happens. What should I do?",
+          "answer": "Your printer may be programmed to lock out control panel functions. See\nLock-Out Mode\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C559001~faq-44579?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C559001~faq-44579",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2090/s/SPT_C11C559001",
+          "fetched_at": "2026-04-02T05:14:04.038641"
+        },
+        {
+          "question": "How do I select fonts on my product?",
+          "answer": "See\nSelecting a Font and Pitch\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C559001~faq-44580?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C559001~faq-44580",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2090/s/SPT_C11C559001",
+          "fetched_at": "2026-04-02T05:14:05.149369"
+        },
+        {
+          "question": "How can I tell if my product is on since there is no power light?",
+          "answer": "To determine if the printer is on, you can check the\nFont\nlights. As long as one of the\nFont\nlights is on, you know that the printer is turned on.",
+          "faq_url": "https://epson.com/faq/SPT_C11C559001~faq-44584?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C559001~faq-44584",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2090/s/SPT_C11C559001",
+          "fetched_at": "2026-04-02T05:14:06.181420"
+        },
+        {
+          "question": "What is the recommended duty cycle for my product?",
+          "answer": "The recommended duty cycle is 25%. Epson America's definition of a 25% duty cycle is the printer printing (not idle) for two hours per day (25% of an eight hour day) for 22 days per month.",
+          "faq_url": "https://epson.com/faq/SPT_C11C559001~faq-44587?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C559001~faq-44587",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2090/s/SPT_C11C559001",
+          "fetched_at": "2026-04-02T05:14:07.336757"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11C559001~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C559001~faq-00004b0-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Impact-Printers/LQ-Series/Epson-LQ-2090/s/SPT_C11C559001",
+          "fetched_at": "2026-04-02T05:14:08.441515"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

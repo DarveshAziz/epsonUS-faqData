@@ -1,0 +1,948 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "Epson Stylus Series",
+  "model": {
+    "name": "Epson Stylus Photo R3000",
+    "sku": "SPT_C11CA86201",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "Does my all-in-one printer support non-printing functions when an ink cartridge is expended or not installed?",
+          "answer": "See our\nFAQ page\non which non-printing functions are supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-0000d77-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA86201~faq-0000d77-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:23:47.018574"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA86201~faq-00004dc-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:23:48.141442"
+        },
+        {
+          "question": "How should I store my product if it's not going to be used for a long time?",
+          "answer": "Epson recommends storing the product in a cool, dry environment. See your product's documentation for recommended storage temperatures.\nCheck the ink cartridge before placing the product in storage. If the ink cartridge is very low or expended, Epson recommends replacing it with a new ink cartridge to help prevent the print head from drying out. When taking the product out of storage, check the ink cartridge again to see if it has expired. If the cartridge is expired and you experience print quality issues, you may need to replace the expired ink cartridge to improve print quality.\nMake sure to turn off the product using the power button and unplug the power cord before placing it in storage. Cover the product to protect it from dust.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-0000ac7-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA86201~faq-0000ac7-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:23:49.488482"
+        },
+        {
+          "question": "Can I set up my product for both a USB and network connection?",
+          "answer": "No. The product supports only one connection type at a time: USB, Ethernet, or wireless.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-0000b00-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA86201~faq-0000b00-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:23:50.624716"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-00004c5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA86201~faq-00004c5-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:23:51.808113"
+        },
+        {
+          "question": "I can't get Epson Status Monitor to work over my wireless network. What should I do?",
+          "answer": "If the product is not shared, make sure it is connected to the network wirelessly. Try moving your product or computer to a different location within range of your wireless network. Avoid placing the computer, product, or wireless access point near microwaves, cordless telephones, or other sources of wireless interference.\nIf the product is set up as a shared printer, Epson Status Monitor will not work and is not supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-00004c7-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA86201~faq-00004c7-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:23:53.119781"
+        },
+        {
+          "question": "Can the Epson ink cartridges be refilled or can I use third-party ink cartridges without voiding the warranty?",
+          "answer": "Epson does not recommend refilling or using other brands of ink cartridges.  Epson uses a permanent Micro Piezo print head that has allowed Epson to lead the industry in delivering consistent photo image quality by using variable-sized droplets.  Micro Piezo print head can also use a wider variety of inks, which has allowed Epson to introduce such ink breakthroughs as DURABrite® and Epson UltraChrome® inks that offer greatly improved humidity resistance, smudge resistance, and fade resistance.\nUsing refilled ink cartridges will not void the product's original warranty; however, if these products cause a failure, the repair of that failure will not be covered under warranty.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-0000bf9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA86201~faq-0000bf9-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:23:55.241695"
+        },
+        {
+          "question": "I can print wirelessly to my product on my home network, but I can't print when I connect the same computer to a VPN (virtual private network). What should I do?",
+          "answer": "Your product is set up to communicate wirelessly with your home network. When you connect to a VPN, your computer is no longer communicating with your home network, so it cannot print to the product. You'll need to connect to your home network to print again.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-0000ad6-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA86201~faq-0000ad6-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:23:57.183760"
+        },
+        {
+          "question": "How do I add my product as an IP printer on my Mac?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n.\nSelect your printer, if necessary.\nClick\n+\nor\nAdd Printer, Scanner, or Fax\nand select\nIP\non the toolbar.\nSelect a protocol. If you do not know which protocol to choose, leave it as\nLine Printer Daemon-LPD\n.\nClick the\nAddress\nfield and enter your printer's IP address. You see the message\nGathering printer information\nas your Mac connects to the printer.\nClick\nAdd\nafter your printer appears in the Use field to create a printer queue. If your printer does not appear in the Use field, select\nAuto Select\nfrom the drop-down box.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-00004ba-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA86201~faq-00004ba-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:23:59.011871"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "You can download the latest product driver from the Downloads section of this website.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-0000afb-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA86201~faq-0000afb-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:00.295940"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Cloud or Mobile",
+      "section_id": "8796127340620",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Where can I find information about Epson iPrint app?",
+          "answer": "See our FAQ page for the app (\niOS\nor\nAndroid\n).",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-0000950-shared?faq_cat=faq-8796127340620",
+          "faq_slug": "SPT_C11CA86201~faq-0000950-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:01.367635"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "My product is printing blank pages. What should I do?",
+          "answer": "Check the following:\nMake sure your product is selected as the printer.\nMake sure the\nprint head nozzles\nare not clogged.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181594?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA86201~faq-181594",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:02.452682"
+        },
+        {
+          "question": "The CD/DVD won't feed correctly or is ejected. What should I do?",
+          "answer": "Gently pull it out and then press the\nOK\nbutton. If an error message continues to appear, turn the printer off and then back on. Reload the tray, making sure the\nCD/DVD tray is inserted\ncorrectly.\nNote\n:\nMake sure the surface of the CD/DVD you are printing on is blank and clean. A CD/DVD with images or text already on the surface area may not load correctly.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181602?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA86201~faq-181602",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:03.655734"
+        },
+        {
+          "question": "How do I print a multi-page document from Windows or my Mac so it stacks in the correct page order?",
+          "answer": "Open a document, then follow the steps below for your operating system.\nWindows\nOpen the File menu or click\nand select\nPrint\n.\nMake sure the product is selected as the printer.\nClick\nProperties\nor\nPreferences\n.\nNote\n:\nIf you don't see these buttons, click\nSetup\n,\nPrinter\n, or\nOptions\n, then click\nProperties\nor\nPreferences\non the next screen.\nClick the\nPage Layout\ntab, and select\nReverse Order\n.\nClick\nOK\n.\nMac OS X\nOpen the File menu and select\nPrint\n.\nMake sure the product is selected as the printer.\nWith Mac OS X 10.5 or 10.6, click\nto expand the Print window, if necessary.\nSelect\nPaper Handling\nfrom the printer options pop-up menu.\nSelect\nReverse\nfor the\nPage Order\nsetting.\nClick\nPrint\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181614?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA86201~faq-181614",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:04.816454"
+        },
+        {
+          "question": "Can I print on envelopes?",
+          "answer": "No. The product does not support printing on this type of media.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181612?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA86201~faq-181612",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:05.942347"
+        },
+        {
+          "question": "How do I print double-sided?",
+          "answer": "The product supports manual double-sided printing from a computer (Windows only). When printing double-sided manually, you will be prompted by the printer driver to reload your pages once one side has finished printing.\nNote\n:\nAutomatic double-sided printing is not supported.\nImages may not line up properly when printing double-sided.\nFollow these steps to turn on double-sided printing in the Windows printer driver:\nOpen the File menu or click\nand select\nPrint\n.\nMake sure the product is selected as the printer.\nClick\nProperties\nor\nPreferences\n.\nNote\n:\nIf you don't see these buttons, click\nSetup\n,\nPrinter\n, or\nOptions\n, then click\nProperties\nor\nPreferences\non the next screen.\nClick the\nPage Layout\ntab, and select\nDouble-Sided Printing(2)\n.\nIf necessary, adjust or select the\nMargins\nand\nFolded Booklet\nsettings.\nClick\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181616?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA86201~faq-181616",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:07.109462"
+        },
+        {
+          "question": "Printing is slow. What should I do?",
+          "answer": "Try the following:\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.\nIn Windows 7, close the\nDevices and Printers\nwindow before you print.\nIf the product is connected directly to your computer with a USB cable, try to connect it to a High-Speed USB 2.0 port on your computer.\nIf the product is connected to your network with an Ethernet cable, try to use a computer and router (or hub or switch) with 100Base-T ports.\nIf you installed the product as a wireless printer, your wireless router and/or laptop must conform to the 802.11n standard. Earlier standards (802.11a/b/g) are not supported.\nIf the product is connected wirelessly to a network and the signal strength is low, try moving the product and your wireless router or access point closer together. Also avoid placing the product next to a microwave oven, 2.4 GHz cordless phone, or large metal object (such as a filing cabinet).\nIf the product is connected to a USB hub, disconnect unused USB devices.\nTry adjusting the following settings in the\nWindows\nor\nMac OS X\nprinter driver:\nPrint Quality\n(Windows) or\nOutput Resolution\n(Mac OS X): Selecting a lower quality setting will increase print speeds. Select the lowest quality setting that still produces acceptable print quality.\nHigh Speed\n: Try turning this setting on.\nTo access this setting in Windows, select\nQuality Options\nfor the\nPrint Quality\nsetting.\nNote\n:\nThis setting controls whether the print head prints in both directions (bi-directional) or in one direction (uni-directional, from right to left). Turning this setting on to print in both directions increases print speed but may decrease print quality.\nIn Windows, click the\nUtility\ntab, then click\nSpeed and Progress\nto access additional print speed settings.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181664?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA86201~faq-181664",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:08.221423"
+        },
+        {
+          "question": "Can I print on CDs and DVDs?",
+          "answer": "Yes. See\nPrint on a CD or DVD\nfor details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181674?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA86201~faq-181674",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:09.452974"
+        },
+        {
+          "question": "How do I print a borderless photo from Windows or my Mac?",
+          "answer": "Make sure you loaded a\ncompatible borderless paper size and type\n, then do one of the following:\nFor Windows, select\nBorderless\non the Main tab of the printer driver, if available. See\nSelect Basic Options\nfor more details.\nFor Mac OS X, select a paper size with a\nBorderless\noption. See\nSelect Page Options\nfor more details.\nNote\n: The product only supports 13-inch wide rolls.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181670?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA86201~faq-181670",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:10.775179"
+        },
+        {
+          "question": "Can I print on transparencies?",
+          "answer": "No. The product does not support printing on this type of media.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181673?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA86201~faq-181673",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:11.997172"
+        },
+        {
+          "question": "Printing is slow or the printer stops printing when I try to print. What should I do?",
+          "answer": "If printing becomes slow, try the following:\nMake sure your system meets the requirements for your operating system. If you are printing a high-resolution\n                    image, you may need more than the minimum requirements. If necessary, increase\n                    your system's memory.\nIf you're using Windows 7, close the\nDevices and Printer\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility to free up existing space.\nClose any programs that you're not using when you print.\nIf your product is connected to a USB hub, connect it directly to your computer instead.\nIf printing becomes slower after printing continuously for a long time, the product may have automatically slowed down to protect the print mechanism from\n                    overheating or becoming damaged. Let the product rest with the power on for 30\n                    minutes, then try printing again.\nIf the above steps did not improve your print speed, the\nEPAUDF01.AUD\nfile can be deleted.\nNote:\nRemoval of this temporary file is not an option in Windows 8 or Mac OS.\nFollow the instructions below to delete this temporary file:\nWindows 7 and Windows Vista\nClick on the\nbutton and click on\nMy Computer\n.\nDouble-click the\nLocal Disk C:\nand locate the\nProgramData\nfolder.\nOpen the\nProgramData\nfolder and double-click the\nEPSON\nfolder.\nNext, open the\nPRINTER\nfolder by double-clicking it.\nRight-click into the\nEPAUDF01.AUD\nfile and click\nDelete\n.\nOnce deleted, restart your computer.\nTry to print again.\nIf you do not see the ProgramData Folder try the following to unhide it:\nClick into the\nOrganize\nbutton from the Menu Bar.\nScroll down and click on\nFolder and search options\nand a Folder Options window will open.\nClick on the\nView\ntab. Under the Advance settings section locate the\nShow hidden files, folders, and drives\noption and mark the radio\n                    button. Once marked click\nOK\n.\nWindows XP\n:\nClick the\nand select\nMy Computer\n.\nDouble-click the\nLocal Disk C:\nand open the\nDocuments and Settings\nfolder.\nLocate the\nAll User\nfolder and double-click to open it.\nNext double-click to open\nApplication Data\nfolder and then the\nEPSON\nfolder.\nDouble-click to open the\nPRINTER\nfolder.  Right-click into the\nEPAUDF01.AUD\nfile and click\nDelete\n.\nOnce deleted, restart your computer.\nTry to print again.\nIf you do not see the Application Data Folder try the following to unhide it:\nClick into the\nTools\noption from the Menu Bar and select\nFolder Options\n, a new window will appear.\nSelect the\nView\ntab. Under the Advance settings section locate the\nShow hidden files, folders, and drives\noption and mark the radio button.\nOnce marked click\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-233870?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA86201~faq-233870",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:13.157120"
+        },
+        {
+          "question": "I can print wirelessly to my product on my home network, but I can't print when I connect the same computer to a VPN (virtual private network). What should I do?",
+          "answer": "Your product is set up to communicate wirelessly with your home network. When you connect to a VPN, your computer is no longer communicating with your home network, so it cannot print to the product. You'll need to connect to your home network to print again.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-0000ad6-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA86201~faq-0000ad6-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:14.356278"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "I see a communication error when I try to print with a USB connection. What should I do?",
+          "answer": "Try the following:\nMake sure the USB cable is a shielded \"AB\" cable not more than 10 feet long.\nNote:\nDo not use devices that extend the length of the cable because they can cause signal degradation.\nIf you're using a switch box or USB hub, connect the product directly to your computer.\nNote:\nDo not connect through a USB keyboard. The keyboard acts like a hub and can interfere with signal transmission.\nUse a different port on your computer.\nMake sure there is no error on the product.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181703?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA86201~faq-181703",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:15.961595"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA86201~faq-00004c5-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:17.158957"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "How do I know when an ink cartridge needs to be replaced?",
+          "answer": "You need to replace a cartridge when the replace cartridge indicator message appears. This means that one or more of the cartridges is expended. You may also see a message on your computer screen. See\nReplace Ink Cartridges\n.\nNote\n:\nWhen an installed ink cartridge is more than six months old, you may need to replace it if your printouts do not look their best even after you clean and align the print head.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181583?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA86201~faq-181583",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:18.257688"
+        },
+        {
+          "question": "I installed the initial ink cartridges and my product seems to be doing a long cleaning cycle. Is this normal?",
+          "answer": "Yes. It takes about 10 minutes for the product to prime its print head the first time you install ink cartridges. Do not turn off the printer, load paper, or open any covers until the process is complete.\nCaution\n:\nWait until priming finishes before you turn off your product, or it may prime improperly and use excess ink the next time you turn it on.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181586?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA86201~faq-181586",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:17.884924"
+        },
+        {
+          "question": "Which ink cartridges should I use with my product?",
+          "answer": "You can use the following cartridges:\nInk color\nPart number\nPart number on\nsoftware screens\nLight Light Black\n157\nT1579\nLight Black\n157\nT1577\nPhoto Black\n157\nT1571\nMatte Black\n157\nT1578\nVivid Light Magenta\n157\nT1576\nMagenta\n157\nT1573\nLight Cyan\n157\nT1575\nCyan\n157\nT1572\nYellow\n157\nT1574\nNote\n:\nWe recommend that you use genuine Epson cartridges and do not refill them. The use of other products may affect your print quality and could result in product damage.\nCaution\n:\nLeave your old cartridges installed until you are ready to replace them to prevent the print head nozzles from drying out.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181584?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA86201~faq-181584",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:19.135326"
+        },
+        {
+          "question": "I replaced an ink cartridge and my product shows that the same ink cartridge is expended. What should I do?",
+          "answer": "If the\nink light is flashing after installing new ink cartridge(s), follow the steps below to make sure the cartridge(s) are correctly installed.\nNote\n:\nWe recommend that you use genuine Epson cartridges and do not refill them. The use of other products may affect your print quality and could result in product damage.\nMake sure the product is turned on.\nOpen the printer cover, then open the ink cartridge cover.\nPress down each ink cartridge until it clicks into place. (If a cartridge is properly seated already, you may not hear a click.)\nNote\n:\nBefore you installed the new cartridge, you should have removed the yellow tape from the bottom. If you know you removed it, skip to the next step. If you're not sure, you can pull out the cartridge to check. (Squeeze the tab on the cartridge and lift it straight up.) Remove the tape if necessary, then reinstall the cartridge, pressing it down firmly.\nCaution\n:\nIt's best not to remove a cartridge unless necessary. Note that if you remove a\nlow or expended\nink cartridge, you cannot reinstall and use that cartridge again.\nWarning\n:\nIf ink gets on your hands, wash them thoroughly with soap and water. If ink gets into your eyes, flush them immediately with water. Keep ink cartridges out of the reach of children.\nClose the cartridge cover, then close the printer cover to begin priming the ink.\nNote\n:\nWait until priming finishes, or it may prime improperly and use excess ink the next time you turn it on.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181587?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA86201~faq-181587",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:20.422138"
+        },
+        {
+          "question": "How do I change the ink cartridges?",
+          "answer": "See\nReplace Ink Cartridges\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181609?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA86201~faq-181609",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:21.494296"
+        },
+        {
+          "question": "How long should an ink cartridge remain in my product if it's not used often?",
+          "answer": "When an installed ink cartridge is more than six months old, you may need to replace it if you notice that your printouts don't look as good as they used to and quality doesn't improve after cleaning and aligning the print head.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181677?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA86201~faq-181677",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:22.642533"
+        },
+        {
+          "question": "How do I switch the black ink type?",
+          "answer": "See\nSwitch the Black Ink Type\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181706?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA86201~faq-181706",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:27.522115"
+        },
+        {
+          "question": "My product doesn't automatically switch between the black (photo and matte) ink cartridges. Instead, a message appears that says I need to switch the cartridges manually. What should I do?",
+          "answer": "This message appears to ensure the correct print settings are selected in the printer software (which can help you avoid wasting ink). However, the ink cartridges can be switched automatically by doing the following:\nSelect the\nmenu >\nSystem Preferences\n>\nPrint & Fax\n(Mac OS X 10.5/10.6) or\nPrint & Scan\n(Mac OS X 10.7).\nDouble-click your printer in the printer's list.\nClick on\nPrinter Setup\n>\nUtility\ntab >\nOpen Printer Utility\n>\nMonitoring Preferences\n.\nUncheck\nDifferent Black Ink Change\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-191224?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA86201~faq-191224",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:28.665487"
+        },
+        {
+          "question": "Can the Epson ink cartridges be refilled or can I use third-party ink cartridges without voiding the warranty?",
+          "answer": "Epson does not recommend refilling or using other brands of ink cartridges.  Epson uses a permanent Micro Piezo print head that has allowed Epson to lead the industry in delivering consistent photo image quality by using variable-sized droplets.  Micro Piezo print head can also use a wider variety of inks, which has allowed Epson to introduce such ink breakthroughs as DURABrite® and Epson UltraChrome® inks that offer greatly improved humidity resistance, smudge resistance, and fade resistance.\nUsing refilled ink cartridges will not void the product's original warranty; however, if these products cause a failure, the repair of that failure will not be covered under warranty.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-0000bf9-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA86201~faq-0000bf9-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:29.563203"
+        },
+        {
+          "question": "I brought my product with me to a different country and can't find ink for it. What should I do?",
+          "answer": "Some Epson printers and ink cartridges are specific to a regional market and not sold worldwide, although the same printers are sold in the U.S. and Canada. If you have a printer sold in the U.S. or Canada, you may not be able to easily get ink cartridges for it in foreign markets.\nUnfortunately, because of customs and tax regulations, the Epson E-Stores in the U.S. and Canada are unable to ship to addresses outside the U.S. and Canada.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-0000956-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA86201~faq-0000956-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:30.462365"
+        },
+        {
+          "question": "Does my all-in-one printer support non-printing functions when an ink cartridge is expended or not installed?",
+          "answer": "See our\nFAQ page\non which non-printing functions are supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-0000d77-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA86201~faq-0000d77-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:31.554262"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "How should I store my product if it's not going to be used for a long time?",
+          "answer": "Epson recommends storing the product in a cool, dry environment. See your product's documentation for recommended storage temperatures.\nCheck the ink cartridge before placing the product in storage. If the ink cartridge is very low or expended, Epson recommends replacing it with a new ink cartridge to help prevent the print head from drying out. When taking the product out of storage, check the ink cartridge again to see if it has expired. If the cartridge is expired and you experience print quality issues, you may need to replace the expired ink cartridge to improve print quality.\nMake sure to turn off the product using the power button and unplug the power cord before placing it in storage. Cover the product to protect it from dust.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-0000ac7-shared?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C11CA86201~faq-0000ac7-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:32.458566"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "I'm having paper feed problems. What should I do?",
+          "answer": "See the solutions below for the type of paper you are loading.\nSheet paper\nUse new, smooth, high-quality paper, that meets the product's\nspecifications\n. (Make sure the paper is not curled, creased, old, or too thin.)\nIf paper is jammed, see\nPaper Jams\nto check for jammed paper and any other obstructions.\nIf paper doesn't feed correctly or load in the sheet feeder, try the following:\nRemove the paper from the product and reload it against the right side with the printable side face up.\nYou can load\nthese types of paper\nin the sheet feeder. Load only up to the recommended number of sheets. If you're printing on both sides of the paper, try loading fewer sheets.\nMake sure the manual feed tray is not extended.\nIf multiple pages feed at once, remove the paper, fan the edges to separate the sheets, then reload it.\nIf dust has built up on the paper rollers,\nclean the paper rollers\n.\nMake sure your paper is loaded correctly. See\nLoad Paper in the Sheet Feeder\n.\nIf paper doesn't feed correctly or load in the manual feed tray, try the following:\nRemove the paper from the product and reload it against the right side with the printable side face up.\nYou can load\nthese types of fine art paper\nin the manual feed tray. Use the manual feed tray to also load thick media (0.7 to 1.3 mm thick) such as poster board. Load only one sheet at a time.\nIf you're printing on fine art paper, make sure the rear support is open and extended fully. If you're printing on thick media such as poster board, make sure the rear support is closed and there is enough space behind the printer for the media to feed through.\nMake sure the manual feed tray is extended. Once the media is fed into the printer and you see a message on the screen, close the manual feed tray.\nMake sure your paper is loaded correctly. See\nLoad Fine Art Paper\nor\nLoad Thick Media\n.\nIf the paper loaded from the sheet feeder doesn't eject fully, you may have set the wrong paper size. Press the\nbutton to eject the paper. Select the correct paper size when you reprint.\nIf your paper is wrinkled when it ejects, the paper may be damp or too thin. Load new paper.\nRoll paper\nIf paper is jammed, see\nPaper Jams\nto check for jammed paper and any other obstructions.\nIf roll paper doesn't feed, cut the end of it straight across and uncurl the end by rolling it backwards, if necessary.\nMake sure your paper is loaded correctly. See\nLoad Roll Paper\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181588?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA86201~faq-181588",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:33.720306"
+        },
+        {
+          "question": "What kind of paper gives the best results for high quality printing?",
+          "answer": "For the best results, you'll want to use one of Epson's special ink jet papers designed for your product. For example, your photos or presentations will look great printed on\nEpson Premium Photo Paper Glossy\n,\nEpson Premium Presentation Paper Matte\n, and\nEpson Bright White Paper\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181613?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA86201~faq-181613",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:34.675428"
+        },
+        {
+          "question": "Does the type of paper I use really make a difference?",
+          "answer": "The type of paper you choose affects the way your printout looks, so be sure to select the correct paper for your print job. If you are just printing a rough draft of an image, plain paper is fine. However, for the best results, you'll want to use one of Epson's special ink jet papers. For example, your photos will look great printed on\nEpson Premium Photo Paper Glossy\n. For a list of Epson special ink jet papers designed for the product, see\nAvailable Epson Papers\n.\nNote\n: The product only supports 13-inch wide rolls.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181610?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA86201~faq-181610",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:35.596685"
+        },
+        {
+          "question": "How do I know which paper or media type to select in my product's driver?",
+          "answer": "See\nPaper or Media Type Settings for Loaded Paper/Media\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181620?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA86201~faq-181620",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:36.492333"
+        },
+        {
+          "question": "Can I print on sheet labels?",
+          "answer": "Yes. You can use\nEpson Photo Quality Self-adhesive Sheets\n. A cutting grid is printed on the reverse side of each sheet for easy trimming. To avoid paper jams, load only one sheet at a time. Also, set the\nMedia Type\nsetting in the driver to\nPremium Presentation Paper Matte\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181671?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA86201~faq-181671",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:37.442232"
+        },
+        {
+          "question": "Can I print on vellum paper?",
+          "answer": "No. The product does not support printing on this type of media.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181675?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA86201~faq-181675",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:38.499223"
+        },
+        {
+          "question": "What size roll paper does my product support?",
+          "answer": "The product supports 13-inch wide rolls.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-183413?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA86201~faq-183413",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:39.441876"
+        },
+        {
+          "question": "My product's manual states that 8.3-inch wide roll paper is supported, but I can't get my roll paper to fit in the holders. What should I do?",
+          "answer": "The initial manual was printed with the incorrect roll paper specification. The product only supports 13-inch wide rolls. The roll paper holders can only be mounted to support 13-inch wide rolls.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-183414?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA86201~faq-183414",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:40.372249"
+        },
+        {
+          "question": "How should I handle specialty paper like fine art media?",
+          "answer": "Do the following:\nAlways use one sheet at a time.\nUse lint-free cotton gloves when handling the media.\nNever stack prints on top of each other. Use a separator sheet between prints.\nStore media flat. Never store media on its side.\nStore media in a cool, dry environment. Refer to the media specification sheet for proper temperature and humidity requirements.\nAlways follow the specific loading instructions for the media being used.\nUse the proper media type setting (EMX).\nNote:\nNon-Epson media can be optimized using custom media settings created in Epson Media Installer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-00004B3-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA86201~faq-00004B3-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:41.491060"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "My printout has incorrect margins. What should I do?",
+          "answer": "Try the following:\nMake sure the paper settings are correct for your paper size in the\nWindows\nor\nMac OS X\nprinter driver.\nChoose the correct margins for your paper size in your printing program.\nIf you're loading paper in the manual feed tray, make sure the product's\nPaper Skew Check\nsetting is turned on. Press the\nOK\nbutton to open the menu screen, then select\nSetup\n,\nPrinter Setup\n, and\nPaper Skew Check\n. Select\nOn\nto turn on the setting.\nUse the\nPrint Preview\noption (Windows) or\nPreview\nbutton (Mac OS X) in your\nWindows\nor\nMac OS X\nprinter driver to check your margins before you print.\nMake sure your paper is loaded correctly. See\nLoad Paper\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181592?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA86201~faq-181592",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:42.549748"
+        },
+        {
+          "question": "The quality of my printed output is unacceptable. What should I do?",
+          "answer": "If the image looks fine on your computer screen but not when printed, make sure you're using the latest driver version for your product. Also make sure you select the correct quality option and paper type setting in the\nWindows\nor\nMac OS X\nprinter driver for your print job.  If that doesn't help, see\nPrint Quality Problems (quality is correct on-screen)\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181590?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA86201~faq-181590",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:43.449154"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Try the following:\nPrint a\nnozzle check pattern\n. If there are gaps or the pattern is faint,\nclean the print head\n.\nTry\naligning the print head\n.\nIf the paper you're using has a printable side (check your paper packaging for details), make sure the printable side is loaded face up. The printable side is usually brighter or whiter.\nEpson inks, specialty papers, and printers are designed to work together. For the best results, use genuine Epson ink and paper.\nMake sure the product is on a flat, stable surface that extends beyond the base in all directions.\nMake sure the following settings are set correctly in the\nWindows\nor\nMac OS X\nprinter driver:\nMedia Type\n: Select a\nMedia Type\nsetting that matches the paper you loaded.\nIn Windows, if the Media Type setting you want to use is unavailable, you may need to select a different\nInk\noption first.\nPrint Quality\n(Windows) or\nOutput Resolution\n(Mac OS X): Try selecting a higher print quality setting.\nHigh Speed\n: Try turning this setting off if you see vertical misalignment or banding (lines) in your printouts.\nTo access this setting in Windows, select\nQuality Options\nfor the\nPrint Quality\nsetting.\nNote\n:\nThis setting controls whether the print head prints in both directions (bi-directional) or in one direction (uni-directional, from right to left). Turning this setting off to print in one direction decreases print speed but may improve print quality.\nIf you are using non-Epson paper or media, you may need to adjust the paper configuration options (\nWindows\nor\nMac OS X\n).",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181591?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA86201~faq-181591",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:44.544407"
+        },
+        {
+          "question": "My printout is blurry or smeared. What should I do?",
+          "answer": "Try the following:\nEpson inks, specialty papers, and printers are designed to work together. For the best results, use genuine Epson ink and paper.\nMake sure your paper meets the\nspecifications\nand isn't damp, curled, or wrinkled. In addition, if you are using special, coated, or glossy photo paper, try the following:\nIf the paper you're using has a printable side (check your paper packaging for details), make sure the printable side is loaded face up. The printable side is usually brighter or whiter.\nRemove each sheet from the output tray as it is printed.\nAvoid handling printouts on glossy paper for a few hours to allow the ink to set. Let your prints dry separately for at least 12 hours before framing or placing in a protective sheet. If you need to stack them, place a sheet of plain paper between each print.\nIf you are using double-sided paper and printing heavily saturated or dark images on the front side of the paper, you may notice that smudges or marks appear on the front when you print the second side. If one side of the paper will contain a lighter image or text, print that side first to help prevent marks or smudging.\nIf you're printing from a computer, make sure the following settings are set correctly in the\nWindows\nor\nMac OS X\nprinter driver:\nMedia Type\n: Select a\nMedia Type\nsetting that matches the paper you loaded.\nHigh-Speed\n: Try turning this setting off.\nTo access this setting in Windows, select\nQuality Options\nfor the\nPrint Quality\nsetting.\nNote\n:\nThis setting controls whether the print head prints in both directions (bi-directional) or in one direction (uni-directional, from right to left). Turning this setting off to print in one direction decreases print speed but may improve print quality.\nPlaten Gap\n: If you're printing on thicker paper, try selecting\nWide\nfor this setting by following the steps below for your operating system.\nWindows\n: Click the\nPaper Config\nbutton on the\nMain\ntab, then select\nWide\nfor the\nPlaten Gap\nsetting.\nMac OS X\n: Select\nAdvanced Media Control\nfrom the print options pop-up menu, then select\nWide\nfor the\nPlaten Gap\nsetting.\nIf you're printing directly from a digital camera and printing on thicker paper, try increasing the\nPlaten Gap\nsetting. Press the\nOK\nbutton to open the menu screen, select\nSetup\n, select\nPrinter Setup\n, and then select\nPlaten Gap\n. Select\nWide\nas the setting.\nNote\n:\nThis setting controls the distance from the paper to the print head and is used only when printing from a PictBridge-compatible camera. This setting will be reset to\nStandard\nwhen the printer is turned off.\nTry\naligning the print head\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181595?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA86201~faq-181595",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:46.372101"
+        },
+        {
+          "question": "My printout contains garbled characters when I print from Windows or my Mac. What should I do?",
+          "answer": "If the product is connected to a computer or network with a USB or Ethernet cable, check the following:\nIf using a USB cable, make sure it is a shielded \"AB\" cable not more than 10 feet (3.05 meters) long.\nIf you're using a switch box or USB hub, connect the product directly to your computer.\nTurn off the product, check that the USB or Ethernet cable is securely connected, turn the product back on, then try printing again.\nTry using a different cable.\nIf you're printing from a Windows computer, try the following:\nMake sure you selected the correct product in the application you're printing from.\nClear any stalled print jobs from the Windows Spooler by following these steps:\nDo one of the following:\nWindows 7\n:\nClick\n, and select\nDevices and Printers\n.\nWindows Vista\n:\nClick\n, and select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n—located under the\nHardware and Sound\nheading—or\nPrinters\n.\nWindows XP\n:\nClick\nStart\n, and select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Faxes\n(or select\nPrinters and Other Hardware\nand then\nPrinters and Faxes\n).\nRight-click your product and select\nSee what's printing\n(Windows 7) or\nOpen\n(Windows Vista or Windows XP).\nRight-click any stalled print jobs you see and select\nCancel\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181597?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA86201~faq-181597",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:47.335408"
+        },
+        {
+          "question": "My printout is grainy when I print from any application. What should I do?",
+          "answer": "Check the following:\nIf the paper you're using has a printable side (check your paper packaging for details), make sure the printable side is loaded face up. The printable side is usually brighter or whiter.\nMake sure the following settings are set correctly in the\nWindows\nor\nMac OS X\nprinter driver:\nPrint Quality\n(Windows) or\nOutput Resolution\n(Mac OS X): Try selecting a higher print quality setting.\nHigh Speed\n: Try turning this setting off.\nTo access this setting in Windows, select\nQuality Options\nfor the\nPrint Quality\nsetting.\nNote\n:\nThis setting controls whether the print head prints in both directions (bi-directional) or in one direction (uni-directional, from right to left). Turning this setting off to print in one direction decreases print speed but may improve print quality.\nPlaten Gap\n: If you're printing on thicker paper, try selecting\nWide\nfor this setting by following the steps below for your operating system.\nWindows\n: Click the\nPaper Config\nbutton on the\nMain\ntab, then select\nWide\nfor the\nPlaten Gap\nsetting.\nMac OS X\n: Select\nAdvanced Media Control\nfrom the print options pop-up menu, then select\nWide\nfor the\nPlaten Gap\nsetting.\nTry\naligning the print head\n.\nIf you're printing a photo or a document that contains images, you may need to increase the image resolution or print the images in a smaller size (see your software documentation).",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181598?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA86201~faq-181598",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:48.338866"
+        },
+        {
+          "question": "My printout looks inverted, as if viewed in a mirror. What should I do?",
+          "answer": "You may have accidentally selected the\nMirror Image\noption in the\nWindows\nor\nMac OS X\nprinter driver or a similar feature in your software application. Make sure this setting is not turned on in the printer driver or in your application program.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181599?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA86201~faq-181599",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:47.524415"
+        },
+        {
+          "question": "My printout has a slight slant. What should I do?",
+          "answer": "Try the following:\nMake sure you have\nloaded the paper\ncorrectly.\nTry\naligning the print head\n.\nIf you're loading paper in the manual feed tray, make sure the product's\nPaper Skew Check\nsetting is turned on. Press the\nOK\nbutton to open the menu screen, then select\nSetup\n,\nPrinter Setup\n, and\nPaper Skew Check\n. Select\nOn\nto turn on the setting.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181600?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA86201~faq-181600",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:48.437052"
+        },
+        {
+          "question": "My printout has incorrect or missing colors. What should I do?",
+          "answer": "The problem could be due to a software setting, the product's condition, or the paper you're using. Check the following:\nPrint a\nnozzle check pattern\n. If there are gaps or the pattern is faint,\nclean the print head\n.\nEpson inks, specialty papers, and printers are designed to work together. For the best results, use genuine Epson ink and paper.\nIf you're printing from a computer, make sure you selected the correct\nMedia Settings\n(Windows) or\nPrinter Settings\n(Mac OS X) in the printer driver. Or if you're printing from an ICC-compliant application such as Adobe Photoshop, try printing using a\ncolor managed workflow\n.\nWindows\nMac OS X\nCheck the\nink cartridge status\n. If any ink cartridge is low, you may need to replace it to improve print quality.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181596?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA86201~faq-181596",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:49.324589"
+        },
+        {
+          "question": "Web pages don't print the way they appear on my monitor. What should I do?",
+          "answer": "The pages may not print correctly due to the web page design. Try the following:\nCheck for a\nPrinter-friendly Version\n(or similarly named) option on the web page.\nChange the page setup and paper size settings, and select the preview option in your browser to check the changes before you print.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-00004b8-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA86201~faq-00004b8-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:50.225812"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "I cancelled the software installation before it was complete, or connected the USB cable before starting the software installation. What should I do?",
+          "answer": "If you are installing the software on a Windows computer,\nuninstall\nany components of the product software that may have been installed on your system, then follow the software installation instructions on the\nStart Here\nsheet to reinstall the software.\nIf you are installing the software on a Mac, follow the software installation instructions on the\nStart Here\nto reinstall the software. (You don't need to uninstall the software first.)\nNote\n:\nBefore installing the software, make sure the product is not connected to your computer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181603?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA86201~faq-181603",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:51.218663"
+        },
+        {
+          "question": "I'm having problems installing the software. What should I do?",
+          "answer": "If you are installing the software on a Windows computer,\nuninstall\nany components of the product software that may have been installed on your system, then follow the software installation instructions on the\nStart Here\nsheet to reinstall the software.\nIf you are installing the software on a Mac, follow the software installation instructions on the\nStart Here\nto reinstall the software. (You don't need to uninstall the software first.)\nBefore reinstalling the software, check for the following:\nMake sure the product is not connected to your computer.\nIf you are prompted to connect a cable while installing the software, make sure your product is turned on and the cable is securely connected at both ends.\nMake sure your system meets the\nrequirements\n.\nMake sure all applications (including any screen savers, virus protectors, and firewall software) are closed.\nMake sure you have administrative rights or software installation privileges to your computer.\nIf you are using a USB hub, try connecting directly to your computer.\nIf you're connecting the product to your network wirelessly, make sure you have the correct SSID (wireless network name) and if security is enabled, the wireless network password (WEP key or WPA passphrase).\nThis information is stored in your network's router or access point and you may be able to access it by logging onto the router or access point from your computer and checking its setup screens. See the instruction manual for your router or access point for details. If you are unable to access the information, contact the person who set up your network or the manufacturer of your router or access point for support. You'll need to know the SSID and if security is enabled, the wireless network password before you set up the product. (Epson will not be able to provide this information to you.)\nNote\n:\nThe SSID and security key or passphrase are case-sensitive. Be sure to correctly note uppercase, lowercase, and numeric/special letters.\nThe product supports the following wireless security modes: WEP (64/128bit), WPA-PSK (TKIP/AES), and WPA2.\nIf you're connecting the product to your network wirelessly, see\nNetwork Problems\nfor additional troubleshooting steps.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181604?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA86201~faq-181604",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:52.567741"
+        },
+        {
+          "question": "How do I install the software for my product?",
+          "answer": "You can install the product's software using the CD that came with it or download the drivers and utilities from the Downloads tab for your product.\nIf you download the software, you will ensure you have the latest driver version for your product. Only Epson drivers and utilities are available for download. Any third party software that came with the product is available only on the CD that came with it.\nTo download and install the drivers and utilities, follow these steps:\nMake sure the product is not connected to your computer.\nDownload the Drivers and Utilities Combo Package for your operating system. Make a note of the file name and save location so you can easily retrieve it.\nOpen the file you downloaded, and follow the on-screen instructions to install the software.\nTo install the software using the CD that came with your product, follow the software installation instructions on the\nStart Here\nsheet.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181617?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA86201~faq-181617",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:53.480684"
+        },
+        {
+          "question": "How do I uninstall the Epson printer software in Windows?",
+          "answer": "Do the following:\nTurn off the product.\nIf the product is connected with a USB cable, disconnect it from the product.\nClick\nor\nStart\n, and select\nPrograms\nor\nAll Programs\n.\nSelect\nEPSON\n, select your product, then select\nEPSON Printer Software Uninstall\n.\nNote\n:\nIf you see a User Account Control window, click\nYes\nor\nContinue\n.\nSelect your product and click\nOK\n. Then follow the on-screen instructions.\nRestart your computer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181618?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA86201~faq-181618",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:54.875610"
+        },
+        {
+          "question": "Can I select a print resolution by indicating a specific dpi (dots per inch) setting?",
+          "answer": "The print resolution is determined by the\nMedia Type\nsetting and the print quality setting (\nPrint Quality\nor\nOutput Resolution\n) in the printer driver.\nWindows\nMac OS X",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181619?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA86201~faq-181619",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:55.885905"
+        },
+        {
+          "question": "How do I set default print settings when I print from Windows or my Mac?",
+          "answer": "When you change your print settings from within a program, the changes apply only while you're printing at that time in the open program. If you want to select different settings to use in all your programs, you can change the default print settings in Windows or save a preset of printer options on the Mac. Follow the steps below for your operating system.\nWindows\nRight-click the\nprinter icon in the taskbar (bottom-right corner of your screen), and select\nPrinter Settings\n.\nIf you don't see the icon, see\nNo Printer Icon Appears in Windows Taskbar\nfor instructions on making it appear or do one of the following:\nWindows 7\n:\nClick\nand select\nDevices and Printers\n. Right-click your product and select\nPrinting Preferences\n.\nWindows Vista\n:\nClick\n, and select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n—located under the\nHardware and Sound\nheading—or\nPrinters\n. Right-click your product and select\nPrinting Preferences\n.\nWindows XP\n:\nClick\nStart\n, and select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Faxes\n(or select\nPrinters and Other Hardware\nand then\nPrinters and Faxes\n). Right-click your product and select\nPrinting Preferences\n.\nSelect the settings you want to use as defaults in all your Windows programs.\nClick\nOK\nto accept the changes.\nMac OS X\nOpen a document and select\nPrint\nfrom the File menu.\nDefine the print settings you want to save.\nNote\n:\nSome options may not be able to be saved in a preset.\nClick the\nPresets\npop-up menu and select\nSave As.\nEnter a name for your preset, and choose whether this preset can be used with any printer or only with the currently selected printer.\nClick\nOK\n.\nWhen you are ready to print with the preset you saved, click the\nPresets\npop-up menu, select your preset from the list, and click\nPrint\n. Once a preset has been selected, it will continue to be automatically selected in the print dialogue until another preset is selected. To go back to the original default print settings, select\nStandard\nfrom the\nPresets\npop-up menu.\nIf you don't want to create a preset and simply want to print with the last print settings you selected, select\nLast Used Settings\nin the\nPresets\npop-up menu.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181622?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA86201~faq-181622",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:56.786851"
+        },
+        {
+          "question": "How do I turn off Epson Status Monitor in Windows?",
+          "answer": "Do the following:\nRight-click the\nprinter icon in the taskbar (bottom-right corner of your screen), and select\nPrinter Settings\n.\nIf you don't see the icon, see\nNo Printer Icon Appears in Windows Taskbar\nfor instructions on making it appear or do one of the following:\nWindows 7\n:\nClick\nand select\nDevices and Printers\n. Right-click your product and select\nPrinting Preferences\n.\nWindows Vista\n:\nClick\n, and select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n—located under the\nHardware and Sound\nheading—or\nPrinters\n. Right-click your product and select\nPrinting Preferences\n.\nWindows XP\n:\nClick\nStart\n, and select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Faxes\n(or select\nPrinters and Other Hardware\nand then\nPrinters and Faxes\n). Right-click your product and select\nPrinting Preferences\n.\nClick the\nUtility\ntab.\nClick\nSpeed and Progress\n.\nSelect\nDisable EPSON Status Monitor 3\n.\nClick\nOK\nas necessary to save your settings.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181668?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA86201~faq-181668",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:57.836422"
+        },
+        {
+          "question": "Can I use my product on a network?",
+          "answer": "Yes. See the\nStart Here\nsheet for set up instructions. For additional help, see the\nBasics\nbook.\nNote\n:\nIf you're connecting the product wirelessly, the wireless device (router, access point, or laptop) you are connecting the printer to must conform to the 802.11n standard. Earlier standards (802.11a/b/g) are not supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181678?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA86201~faq-181678",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:24:58.737618"
+        },
+        {
+          "question": "Is manual duplex (double-sided) printing supported in OS X with my product?",
+          "answer": "No. Manual double-sided printing is supported in Windows only. When printing double-sided manually, you will be prompted by the printer driver to reload your pages once one side has finished printing.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181683?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA86201~faq-181683",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:25:04.411771"
+        },
+        {
+          "question": "What information do I need to know before I install my product on my wireless network?",
+          "answer": "You'll need to know the following:\nNetwork name (SSID)\n(This is the name of the wireless network that is set up on your router or access point.)\nWEP Key or WPA Passphrase\n(This is the wireless network password.)\nThis information is stored in your network's router or access point and you may be able to access it by logging onto the router or access point from your computer and checking its setup screens. See the instruction manual for your router or access point for details. If you are unable to access the information, contact the person who set up your network or the manufacturer of your router or access point for support. You'll need to know the SSID and if security is enabled, the wireless network password before you set up the product. (Epson will not be able to provide this information to you.)\nNote\n:\nThe network name and security key or passphrase are case-sensitive. Be sure to correctly note uppercase, lowercase, and numeric/special letters.\nThe product supports the following wireless security modes: WPA-PSK (TKIP/AES), WPA2 compliant, WEP (64/128 bit).",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181685?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA86201~faq-181685",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:25:05.786421"
+        },
+        {
+          "question": "Which wireless security modes does my product support?",
+          "answer": "The following wireless security modes are supported: WEP (64/128bit), WPA-PSK (TKIP/AES), and WPA2.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181689?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA86201~faq-181689",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:25:06.864617"
+        },
+        {
+          "question": "During a wireless network installation, my product could not find or connect to the wireless network. What should I do?",
+          "answer": "Try the following:\nTry connecting to the wireless router or access point with your computer or another device to confirm that it is working correctly.\nMake sure that the product is within range of your router or access point.\nAvoid placing the product near a microwave oven, 2.4 GHz cordless phone, or large metal object such as a filing cabinet.\nMake sure there aren't any access restrictions (such as MAC address filtering) set on the wireless router or access point. If access restrictions are set, register the product's MAC address on the router or access point.\nPrint a network status sheet\nto obtain the MAC address. Then see your router or access point's documentation for instructions.\nIf your wireless router or access point doesn't broadcast its network name (SSID), see the\nBasics\nbook for instructions on manually entering your wireless network name. If your wireless router or access point has wireless security enabled, you will also need to know what kind of security it is using.\nIf the product doesn't connect to your wireless network, the WEP key or WPA passphrase may have been entered incorrectly.\nNote\n:\nWEP keys and WPA passphrases are case-sensitive. Be sure to correctly note uppercase, lowercase, and numeric/special characters.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181692?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA86201~faq-181692",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:25:07.981972"
+        },
+        {
+          "question": "How do I set up my product to automatically switch between black (photo and matte) ink cartridges?",
+          "answer": "Do the following:\nSelect the\nmenu >\nSystem Preferences\n>\nPrint & Fax\n(Mac OS X 10.5/10.6) or\nPrint & Scan\n(Mac OS X 10.7).\nDouble-click your printer in the printer's list.\nClick on\nPrinter Setup\n>\nUtility\ntab >\nOpen Printer Utility\n>\nMonitoring Preferences\n.\nUncheck\nDifferent Black Ink Change\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-191223?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA86201~faq-191223",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:25:09.663748"
+        },
+        {
+          "question": "My Epson product software is missing after I updated to Windows 8.x. What should I do?",
+          "answer": "The Windows 8 update process uninstalls the previously installed Epson product software. You will need to download the printer software from the Downloads tab for your product.\nGo to the\nDownloads\ntab for your product.\nSelect the\nDrivers and Utilities Combo Package\n, then select\nDownload Now\n.\nFollow the on-screen instructions to install the software.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-232275?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA86201~faq-232275",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:25:10.811205"
+        },
+        {
+          "question": "Are additional ICC profiles available for my product?",
+          "answer": "Yes. See\nPremium ICC Printer Profiles for the Epson Stylus Photo R3000\nfor more information on obtaining ICC profiles and how to use them in a color-managed workflow.\nNote\n:\nICC profiles are unavailable for Advanced Black & White Printing Mode.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181705?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA86201~faq-181705",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:25:12.495991"
+        },
+        {
+          "question": "Can an unauthorized user access my network if I select Unblock or Allow during the EpsonNet Setup software installation?",
+          "answer": "No. This selection will only unblock or allow the EpsonNet Setup software access to your network (which is necessary for your computer to communicate with your all-in-one over your network).",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-0000ab1-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA86201~faq-0000ab1-shared",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:25:13.765324"
+        },
+        {
+          "question": "Does my product support Epson Connect?",
+          "answer": "No, your product is not compatible.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-0000af9-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA86201~faq-0000af9-shared",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:25:15.077203"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "You can download the latest product driver from the Downloads section of this website.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-0000afb-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA86201~faq-0000afb-shared",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:25:16.302622"
+        },
+        {
+          "question": "Can I use the Epson iPrint app with my iOS device?",
+          "answer": "Yes. See our\nFAQ\npage for the app for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-0000b04-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA86201~faq-0000b04-shared",
+          "display_order": 20,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:25:17.606020"
+        },
+        {
+          "question": "Can I use the Epson iPrint app with my Android device?",
+          "answer": "Yes. See our\nFAQ\npage for the app for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-0000b05-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA86201~faq-0000b05-shared",
+          "display_order": 21,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:25:18.670527"
+        },
+        {
+          "question": "How can I get a replacement CD for my product?",
+          "answer": "You can download the driver from the Downloads tab for your product.\nNote\n:\nOnly the drivers are available for download. Any extra software that came with the product is available only on the CD.\nIf you wish to obtain a replacement copy of the Software CD (stock permitting), please contact our Driver Fulfillment department at 562-276-4367 (US) or 905-709-3839 (Canada). A charge for shipping and handling plus any applicable taxes may apply.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-198080-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA86201~faq-198080-shared",
+          "display_order": 22,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:25:17.847998"
+        },
+        {
+          "question": "Who do I contact for support on the software that came with my product?",
+          "answer": "Contact Epson for support on Epson software. For questions about any other software that came with your printer, contact the manufacturer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-110871-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA86201~faq-110871-shared",
+          "display_order": 23,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:25:18.923128"
+        },
+        {
+          "question": "Where can I find the IP address of my router?",
+          "answer": "Most wireless routers have a default IP address that can usually be found in the router's documentation.\nFor more support on your router, contact the manufacturer of your router.\nYou can also print a network status sheet from your printer's control panel to find your router's IP address.\nNote:\nThe network status sheet will list your router’s IP address only if you have set up your printer with a network connection to the router. If you print a network status sheet before setup, the router's IP address will not be listed on the network status sheet.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-00004c0-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA86201~faq-00004c0-shared",
+          "display_order": 24,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:25:20.408425"
+        },
+        {
+          "question": "How do I change the font size of text when I print from software in Windows?",
+          "answer": "You need to select the text or font size in the software you are printing from, not the printer driver. For detailed instructions, contact the company for the application you are printing from.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-00004b7-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA86201~faq-00004b7-shared",
+          "display_order": 25,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:25:21.567736"
+        },
+        {
+          "question": "How do I add my product as an IP printer on my Mac?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n.\nSelect your printer, if necessary.\nClick\n+\nor\nAdd Printer, Scanner, or Fax\nand select\nIP\non the toolbar.\nSelect a protocol. If you do not know which protocol to choose, leave it as\nLine Printer Daemon-LPD\n.\nClick the\nAddress\nfield and enter your printer's IP address. You see the message\nGathering printer information\nas your Mac connects to the printer.\nClick\nAdd\nafter your printer appears in the Use field to create a printer queue. If your printer does not appear in the Use field, select\nAuto Select\nfrom the drop-down box.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-00004ba-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA86201~faq-00004ba-shared",
+          "display_order": 26,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:25:22.652878"
+        },
+        {
+          "question": "I can't get Epson Status Monitor to work over my wireless network. What should I do?",
+          "answer": "If the product is not shared, make sure it is connected to the network wirelessly. Try moving your product or computer to a different location within range of your wireless network. Avoid placing the computer, product, or wireless access point near microwaves, cordless telephones, or other sources of wireless interference.\nIf the product is set up as a shared printer, Epson Status Monitor will not work and is not supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-00004c7-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA86201~faq-00004c7-shared",
+          "display_order": 27,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:25:23.694205"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA86201~faq-00004dc-shared",
+          "display_order": 28,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:25:24.824136"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA86201~faq-0000f4b-shared",
+          "display_order": 29,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:25:26.011462"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA86201~faq-0000f4c-shared",
+          "display_order": 30,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:25:27.097629"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA86201~faq-0000f4d-shared",
+          "display_order": 31,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:25:28.238427"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Wireless or Wired Connection",
+      "section_id": "8796127635532",
+      "section_order": 9,
+      "faqs": [
+        {
+          "question": "Can I set up my product for both a USB and network connection?",
+          "answer": "No. The product supports only one connection type at a time: USB, Ethernet, or wireless.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-0000b00-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CA86201~faq-0000b00-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:25:29.332490"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 10,
+      "faqs": [
+        {
+          "question": "How should I store and display my photos?",
+          "answer": "As with traditional photos, Epson recommends proper care that will minimize color changes and lengthen display life:\nLet your prints dry separately for at least 12 hours before framing or placing in a protective plastic sheet. If you need to stack them, place a sheet of plain paper between each print.\nFrame prints under glass or a protective plastic sleeve to protect them from atmospheric contaminants like humidity, smoke, and high levels of ozone.\nFor proper storage, keep your prints in a photo album or plastic photo storage box in acid-free, archival sleeves commonly available from most camera stores.\nAs with all photographs, keep your prints away from direct sunlight.\nKeep your prints away from high temperature.\nAlways keep unused paper in the original package.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-178402?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA86201~faq-178402",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:25:30.409832"
+        },
+        {
+          "question": "When printing in Windows, how can I prevent an extra page from being ejected after every print job?",
+          "answer": "The Separator Page function may be enabled. Follow these steps to disable it:\nDo one of the following:\nWindows 7\n:\nClick\n, and select\nDevices and Printers\n.\nWindows Vista\n:\nClick\n, and select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n—located under the\nHardware and Sound\nheading—or\nPrinters\n.\nWindows XP\n:\nClick\nStart\n, and select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Faxes\n(or select\nPrinters and Other Hardware\nand then\nPrinters and Faxes\n).\nRight-click your printer icon, and then select\nPrinter Properties\n(Windows 7) or\nProperties\n(Windows Vista or Windows XP).\nClick the\nAdvanced\ntab, then click\nSeparator Page\n. A Separator Page window appears.\nDelete the information in the text box.\nClick\nOK\nas necessary to save your settings.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181608?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA86201~faq-181608",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:25:31.544641"
+        },
+        {
+          "question": "How should I transport my product?",
+          "answer": "See\nTransportation\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-181665?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA86201~faq-181665",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:25:32.613610"
+        },
+        {
+          "question": "My printer's LCD screen does not display in English. What should I do?",
+          "answer": "Do the following on the printer's control panel:\nPress the\nOK\nbutton.\nPress\nfour times, then press\nOK\n.\nPress\n, then press\nOK\n.\nPress\nfour times, then press\nOK\n.\nIf necessary, press\nto select\nEnglish\n, then press\nOK\n.\nPress the\nback button until you return to the Ready (home) screen.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-298368?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA86201~faq-298368",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:25:33.762274"
+        },
+        {
+          "question": "My product makes noise after I turn it on or after it has been sitting for a while. What should I do?",
+          "answer": "This is normal. It is performing routine maintenance.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-000096b-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA86201~faq-000096b-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:25:34.866677"
+        },
+        {
+          "question": "My product will not wake up when I try to print with a wireless connection. What should I do?",
+          "answer": "Turn the product off and on. If you can print now, the problem is related to your wireless router. Contact the manufacturer of your router for assistance or try using a different router.\nIf you cannot print after turning the product off and on, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-00004c8-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA86201~faq-00004c8-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:25:36.005823"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA86201~faq-00004b0-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:25:37.132945"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA86201~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA86201~faq-0000f4a-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Photo-R3000/s/SPT_C11CA86201",
+          "fetched_at": "2026-04-02T01:25:38.365723"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

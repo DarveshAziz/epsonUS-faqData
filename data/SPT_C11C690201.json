@@ -1,0 +1,820 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "All-In-Ones",
+  "series": "Epson Stylus Series",
+  "model": {
+    "name": "Epson Stylus CX8400",
+    "sku": "SPT_C11C690201",
+    "url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-0000ad0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C690201~faq-0000ad0-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:18:55.062730"
+        },
+        {
+          "question": "Can the printer still print if an ink cartridge is expended or not installed?",
+          "answer": "No. The printer will not operate if any cartridge is expended or removed. It's best to always have extra cartridges on hand.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-000051b-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C690201~faq-000051b-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:18:56.096476"
+        },
+        {
+          "question": "I can't scan multiple document pages into a single PDF. What should I do?",
+          "answer": "If you are using the Scanner Driver and Epson Scan Utility v2.92a or earlier, the ability to scan multiple pages to a single PDF is not supported. This feature is supported when using the Scanner Driver (which is sometimes shown as TWAIN Driver) and Epson Scan Utility v3.04a or higher. Check your product's Downloads tab to make sure you're using the latest version.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-0000963-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C690201~faq-0000963-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:18:57.134082"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "You can download the latest product driver from the Downloads section of this website.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-0000afb-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C690201~faq-0000afb-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:18:58.320229"
+        },
+        {
+          "question": "Can the Epson ink cartridges be refilled or can I use third-party ink cartridges without voiding the warranty?",
+          "answer": "Epson does not recommend refilling or using other brands of ink cartridges.  Epson uses a permanent Micro Piezo print head that has allowed Epson to lead the industry in delivering consistent photo image quality by using variable-sized droplets.  Micro Piezo print head can also use a wider variety of inks, which has allowed Epson to introduce such ink breakthroughs as DURABrite® and Epson UltraChrome® inks that offer greatly improved humidity resistance, smudge resistance, and fade resistance.\nUsing refilled ink cartridges will not void the product's original warranty; however, if these products cause a failure, the repair of that failure will not be covered under warranty.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-0000bf9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C690201~faq-0000bf9-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:18:59.375653"
+        },
+        {
+          "question": "Can I scan if an ink cartridge is expended in the product?",
+          "answer": "You can scan from your computer with Epson Scan, but you can't copy or scan from the product's control panel.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-0000bf4-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C690201~faq-0000bf4-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:00.407542"
+        },
+        {
+          "question": "I see the message Cannot connect to Internet in Windows 8.1 after I select Driver Update in my product software. What should I do?",
+          "answer": "The\nDriver Update\noption does not work in Windows 8.1. All other driver options will work correctly.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-0000958-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C690201~faq-0000958-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:01.609130"
+        },
+        {
+          "question": "Can I use hole-punched paper with my product?",
+          "answer": "No. The product does not support this paper type.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-0000ab4-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C690201~faq-0000ab4-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:02.809955"
+        },
+        {
+          "question": "I brought my product with me to a different country and can't find ink for it. What should I do?",
+          "answer": "Some Epson printers and ink cartridges are specific to a regional market and not sold worldwide, although the same printers are sold in the U.S. and Canada. If you have a printer sold in the U.S. or Canada, you may not be able to easily get ink cartridges for it in foreign markets.\nUnfortunately, because of customs and tax regulations, the Epson E-Stores in the U.S. and Canada are unable to ship to addresses outside the U.S. and Canada.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-0000956-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C690201~faq-0000956-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:03.863992"
+        },
+        {
+          "question": "When I try to print to my product in Windows 7, printing is slow or my product stops printing. What should I do?",
+          "answer": "Try the following:\nSelect a lower quality setting in the printer software.\nMake sure your system meets the minimum system requirements for your printer.\nClose the\nDevices and Printers\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-0000bf3-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11C690201~faq-0000bf3-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:05.019516"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "How do I print a multi-page document from Windows or my Mac so it stacks in the correct page order?",
+          "answer": "Follow the steps below for your operating system to print a multi-page document in reverse order.\nWindows 2000, XP, Vista\nOpen the File menu and select\nPrint\n.\nClick\nProperties\nor\nPreferences\n.\nClick the Main tab.\nSelect\nReverse Order\n.\nClick\nOK\n.\nMacintosh 10.3.x, 10.4.x, 10.5.x\nOpen the File menu and select\nPrint\n.\nWith Macintosh OS X 10.5.x, click the\nbutton to expand the Print window, if necessary.\nSelect\nPaper Handling\nfrom the printer options pop-up menu.\nSelect\nReverse\nfor the Page Order setting.\nClick\nPrint\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-133404?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C690201~faq-133404",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:06.239186"
+        },
+        {
+          "question": "How do I set up my product for the fastest printing?",
+          "answer": "If you're printing from your computer, make sure your system meets the\nrequirements\n. If you're printing a high-resolution image, you need more than the minimum requirements listed. You may also need to:\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.\nFor the fastest printing, try these tips:\nChoose\nBlack Ink Only\nin your printer settings if your document doesn't  include color.\nFor Windows, choose\nDraft\nfor the Quality Option.\nFor Macintosh, set the Quality/Speed slider to\nSpeed\n.\nIf the Epson Stylus CX7400 Series is connected to a USB hub, disconnect unused USB devices.\nMake sure\nQuite Mode\nis not selected.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95166?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C690201~faq-95166",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:07.270096"
+        },
+        {
+          "question": "Can I print my photos directly from a camera",
+          "answer": "Yes. See\nPrintPhotos From the Camera\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95204?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C690201~faq-95204",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:09.071377"
+        },
+        {
+          "question": "When I try to print to my product in Windows 7, printing is slow or my product stops printing. What should I do?",
+          "answer": "Try the following:\nSelect a lower quality setting in the printer software.\nMake sure your system meets the minimum system requirements for your printer.\nClose the\nDevices and Printers\nwindow before you print.\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-0000bf3-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C690201~faq-0000bf3-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:10.100243"
+        },
+        {
+          "question": "Does OS X support manual duplex printing with my product?",
+          "answer": "This feature is not supported in Mac OS X. However, if your printer has a built-in automatic duplexer, auto-duplexing is supported in Mac OS X 10.6 (Snow Leopard).",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-0000c1d-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C690201~faq-0000c1d-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:11.145326"
+        },
+        {
+          "question": "It takes a long time to copy a document. What should I do?",
+          "answer": "Try the following:\nSelect\nB&W\nas the copy type.\nSelect\nWith Border\nas the layout type.*\nMake sure\n2-Sided Printing\nis turned off.*\nSelect\nPlain Paper\nas the paper type.\nSelect\nDraft\nor\nStandard\nas the quality type.\nMake sure\nDry Time\nis set to\nStandard\n.*\n* This step may not apply to your all-in-one.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-151084?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11C690201~faq-151084",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:12.185340"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "I see the message Scanner Not Ready or Epson Scan will not start in Windows or on my Mac. What should I do?",
+          "answer": "Try the following:\nMake sure your product is turned on and securely connected to your computer or USB hub.\nIf your product is connected to a USB hub, make sure it's connected to a first tier hub (the hub closest to the computer) that has its own A/C adapter when more than one hub is connected to the computer.\nTry restarting your computer.\nMake sure Epson Scan is set up correctly for a USB connection. See the steps below:\nMake sure the product is turned on.\nDo one of the following:\nWindows 8\n: Navigate to the\nStart\nscreen, right-click the screen, select\nAll apps\n, then select\nEPSON Scan Settings\n.\nWindows (other versions)\n: Click\nStart\nor\n, and select\nPrograms\nor\nAll Programs\n. Select\nEPSON Scan\n>\nEPSON Scan Settings\n(or\nEPSON\n, then\nEPSON Scan\n, and then\nEPSON Scan Settings\n.)\nMac\n: Search for\nEPSON Scan Settings\n, then click\nEPSON Scan Settings\nto open it.\nIf you see the screen below, click\nNo\n. The screen may appear twice.\nMake sure the correct scanner is selected.\nMake sure the\nConnection\nsetting is set to\nLocal\n.\nIf the steps above do not help, try the following.\nWindows 7 and Windows Vista\n:\nTurn off the printer.\nUninstall Epson Scan.\nRestart your computer.\nOpen Windows Explorer (right-click\n, then select\nExplore\nor\nOpen Windows Explorer\n).\nNavigate to\nC:\\Windows\nLocate the\ntwain_32\nfolder and rename it to a different name such as\ntwain_32_old\n.\nRestart your computer.\nReinstall Epson Scan.\nWindows (other versions)\nor\nMac\n: Uninstall and reinstall the Epson Scan software.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-238738?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11C690201~faq-238738",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:13.228857"
+        },
+        {
+          "question": "I see the message Printer is Offline. What should I do?",
+          "answer": "Try the following:\nMake sure the product is powered on.\nCheck the product control panel for any error messages and follow the instructions to solve them.  See\nCheck the Messages on the LCD Display Screen\n.\nMake sure you are choosing the correct printer when printing.  If there are multiple copies of the same printer driver, remove the ones not in use.\nMake sure the USB cable is a shielded \"AB\" cable not more than 10 feet long.\nNote:\nDo not use devices that extend the length of the cable because they can interfere with signal transmission.\nIf you're using a USB hub with your printer, connect the printer directly to your computer.\nNote:\nDo not connect through a USB keyboard.  The keyboard acts like a hub and can interfere with signal transmission.\nUse a different port on your computer.\nIf your product is networked wirelessly, make sure it is connected to the network by checking the WiFi light.  If the WiFi light is off, reconfigure the product using the control panel.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-187442?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11C690201~faq-187442",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:14.338352"
+        },
+        {
+          "question": "I see the message Cannot connect to Internet in Windows 8.1 after I select Driver Update in my product software. What should I do?",
+          "answer": "The\nDriver Update\noption does not work in Windows 8.1. All other driver options will work correctly.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-0000958-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11C690201~faq-0000958-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:15.384477"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Image Quality or Appearance",
+      "section_id": "8796127275084",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "How do I improve the quality of a scanned image?",
+          "answer": "See\nImage Quality Problems (quality problem appears on screen)\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95145?faq_cat=faq-8796127275084",
+          "faq_slug": "SPT_C11C690201~faq-95145",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:16.394128"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "I replaced an ink cartridge and my product shows that the same ink cartridge is expended. What should I do?",
+          "answer": "If you have just installed a new cartridge and you still see an ink related error, the cartridge may be incorrectly installed. Follow these steps to make sure the cartridges are correctly installed:\nMake sure the Epson Stylus is turned on.\nDo one of the following:\nIf your printer indicates that an ink cartridge is expended, press\nOK\n.\nIf your printer does not indicate that any ink cartridge is expended, press\nSetup\n, select\nMaintenance\n, and press\nOK\n. Then select\nChange Ink Cartridge\nand press\nOK\n.\nOpen the scanner.\nOpen the cartridge cover.\nCaution:\nNever attempt to open the cartridge cover while the print head is moving; wait until the cartridges have moved to the replacement position.\nTo avoid damaging the Epson Stylus, never move the print head by hand.\nPress down all the ink cartridges until they click into place to make sure they are properly seated.\nNote\n: If a cartridge is properly seated already, you may not hear a click.\nClose the cartridge cover and press it until it clicks into place.\nClose the scanner.\nPress\nOK\nto begin charging the ink. This takes about 2 minutes.\nYou see a message on the display screen when ink charging is finished.\nCaution\n: Never turn off the Epson Stylus while the ink is charging or you'll waste ink.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-130629?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C690201~faq-130629",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:17.476794"
+        },
+        {
+          "question": "The color ink cartridge is expended even though I print in black only. Why does this happen?",
+          "answer": "To keep the print head clear, the printer uses a small amount of ink fromall the cartridges whenever it prints and primed. Evenif you select\nBlack Ink Only\n, some color ink is still being used.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95117?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C690201~faq-95117",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:18.563511"
+        },
+        {
+          "question": "How do I change the ink cartridges?",
+          "answer": "See\nReplace Ink Cartridges\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95157?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C690201~faq-95157",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:19.708527"
+        },
+        {
+          "question": "How do I know when an ink cartridge needs to be replaced?",
+          "answer": "When you see an ink message on the Epson Stylus CX8400 Series's LCD screen, the printer will require you to change the cartridge. You need to replace a cartridge when it's expended or it gets too old. See\nReplace Ink Cartridges\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95158?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C690201~faq-95158",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:20.813029"
+        },
+        {
+          "question": "Which ink cartridges should I use with my product?",
+          "answer": "Use the following cartridges:\nInk color\nPart number\nBlack\n69 or 68 (High Capacity)\nCyan\n69\nMagenta\n69\nYellow\n69\nNote:\nWe recommend that you use genuine Epson cartridges and do not refill them. The use of other products may affect your print quality and could result in printer damage.\nCaution:\nLeave your old cartridges in the printer until you are ready to replace them to prevent the print head nozzles from drying out.\nDo not open ink cartridge packages until you are ready to install the ink. Cartridges are vacuum packed to maintain reliability.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95175?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C690201~faq-95175",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:21.987693"
+        },
+        {
+          "question": "How long should an ink cartridge remain in my product if it's not used often?",
+          "answer": "When an installed ink cartridge is more than six months old, you may need to replace it if your printouts do not look their best, even after cleaning andaligning the print head.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95177?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C690201~faq-95177",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:23.020425"
+        },
+        {
+          "question": "I installed new ink cartridges and my product seems to be doing a long cleaning cycle. Is this normal?",
+          "answer": "Yes. It takes about 2 minutes for the Epson Stylus CX8400 Series to chargethe ink delivery system when you install or replace the ink cartridges.\nNote:\nNever turn off the Epson Stylus CX8400 Series while it is charging the ink delivery system (unless the printer hasn't moved or made noise for more than 5 minutes). This initialization is a normal and necessary process. If the initialization does not stop after 5 minutes, turn off the Epson Stylus CX8400 Series and contact Epson technical support for assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95211?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C690201~faq-95211",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:24.108393"
+        },
+        {
+          "question": "Can the Epson ink cartridges be refilled or can I use third-party ink cartridges without voiding the warranty?",
+          "answer": "Epson does not recommend refilling or using other brands of ink cartridges.  Epson uses a permanent Micro Piezo print head that has allowed Epson to lead the industry in delivering consistent photo image quality by using variable-sized droplets.  Micro Piezo print head can also use a wider variety of inks, which has allowed Epson to introduce such ink breakthroughs as DURABrite® and Epson UltraChrome® inks that offer greatly improved humidity resistance, smudge resistance, and fade resistance.\nUsing refilled ink cartridges will not void the product's original warranty; however, if these products cause a failure, the repair of that failure will not be covered under warranty.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-0000bf9-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C690201~faq-0000bf9-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:25.158602"
+        },
+        {
+          "question": "Can the printer still print if an ink cartridge is expended or not installed?",
+          "answer": "No. The printer will not operate if any cartridge is expended or removed. It's best to always have extra cartridges on hand.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-000051b-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C690201~faq-000051b-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:26.194137"
+        },
+        {
+          "question": "I brought my product with me to a different country and can't find ink for it. What should I do?",
+          "answer": "Some Epson printers and ink cartridges are specific to a regional market and not sold worldwide, although the same printers are sold in the U.S. and Canada. If you have a printer sold in the U.S. or Canada, you may not be able to easily get ink cartridges for it in foreign markets.\nUnfortunately, because of customs and tax regulations, the Epson E-Stores in the U.S. and Canada are unable to ship to addresses outside the U.S. and Canada.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-0000956-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11C690201~faq-0000956-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:27.207123"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Memory Cards or External Devices",
+      "section_id": "8796127307852",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "Can I just pull the memory card out of my product when I'm finished printing?",
+          "answer": "No. Before removing a memory card from the Epson Stylus CX8400 Series, makesure the memory card access light is not flashing. Do not remove a card whilethe card light is flashing, or you may lose data on the card.\nIf your Epson Stylus CX8400 Series is connected to your computer, you may need to do one of the following, depending on your operating system:\nOperating system\nSteps to take\nWindows 2000\nClick the\nUnplug or Eject Hardware\nicon on the taskbar. Then click\nStop USB Mass Storage Device\n.\nWindows XP, Windows XP Professional x64 Edition\nClick the\nSafely Remove Hardware\nicon on the taskbar. Then click\nSafely Remove USB Mass Storage Device\n.\nWindows Vista\nClick the\nSafely Remove Hardware\nicon on the taskbar. Then click\nSafely Remove USB Mass Storage Device\n.\nMac OS X\nDrag the memory card icon from your desktop to the trash.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95182?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11C690201~faq-95182",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:28.262247"
+        },
+        {
+          "question": "Which memory cards are compatible with my product?",
+          "answer": "You can use the following memory cards:\nCompactFlash\nMicrodrive\nSD\nSDHC\nminiSD*\nminiSDHC*\nmicroSD*\nmicroSDHC*\nMultiMediaCard\nMemory Stick\nMemory Stick Duo*\nMemory Stick PRO\nMemory Stick PRO Duo*\nMemory Stick Micro*\nMagicGate Memory Stick\nMagicGate Memory Stick Duo*\nxD-Picture Card\nxD-Picture Card Type H\nxD-Picture Card Type M\n* Requires adapter",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95212?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11C690201~faq-95212",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:29.276999"
+        },
+        {
+          "question": "What is the largest supported memory card for my product?",
+          "answer": "See our\nMaximum Memory Card Specifications\npage for the specifications.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-187584?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11C690201~faq-187584",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:30.287868"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "Can I print on transparencies?",
+          "answer": "No.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-110074?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C690201~faq-110074",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:31.356500"
+        },
+        {
+          "question": "I'm having paper feed problems. What should I do?",
+          "answer": "Check the following:\nIf paper doesn't feed, remove it from the sheet feeder. Reload it against the right side, behind the tab, then press in the tab on the left edge guide and slide it against the paper. Make sure the paper is not above the arrow mark inside the edge guide.\nIf multiple pages feed at once, remove the paper from the sheet feeder, fan the edges to separate the sheets, then reload it.\nIf the paper doesn't eject fully, you may have set the wrong paper size. Press the\nStop/Clear Settings\nbutton, then raise the scanner and remove the paper. Select the correct paper size before you reprint.\nIf it's wrinkled when it ejects, the paper may be damp or too thin. Load new paper.\nMake sure you use new, smooth, high-quality paper that is not curled, creased, old, or too thin. Load it printable side up.\nMake sure you don't load hole-punched paper.\nDon't load more than the recommended number of sheets. If you're printing on both sides of the paper, try loading fewer sheets.\nPaper type\nLoad up to\nthis many sheets\nPlain paper\nApproximately 120\nEpson Bright White Paper\nEpson Presentation Paper Matte\nApproximately 80\nEpson Photo Paper Glossy\nEpson Premium Photo Paper Glossy\nEpson Ultra Premium Photo Paper Glossy\nEpson Premium Photo Paper Semi-gloss\n20\nEpson Premium Presentation Paper Matte\nEpson Premium Presentation Paper Matte Double-sided\nEpson Photo Quality Self-adhesive Sheets\nEpson Iron-on Cool Peel Transfer Paper\n1\nIf the paper jams, do the following:\nGently pull any jammed paper out from the output tray or sheet feeder.\nTry turning the Epson Stylus CX8400 Series off and then back on, to eject the jammed paper.\nIf that doesn't work and paper is stuck inside, turn off the Epson Stylus CX8400 Series. Open the scanner, remove the jammed paper and torn pieces, close the scanner, and turn the Epson Stylus CX8400 Series back on.\nNote:\nBe sure to check the far left of the carriage area when checking for jammed paper. Paper that is jammed there may be hidden from view.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95118?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C690201~faq-95118",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:32.377949"
+        },
+        {
+          "question": "Does the type of paper I use really make a difference?",
+          "answer": "The type of paper you choose affects the way your printout looks, so be sure to select the correct paper for your print job. If you are just making a copy or printing a rough draft of an image, plain paper is fine. However, for the best results, you'll want to use one of Epson's special ink jet papers designed for your printer. See\nAvailable Epson Papers\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95159?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C690201~faq-95159",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:33.924833"
+        },
+        {
+          "question": "Can I use sheet labels with my product?",
+          "answer": "You can use Epson's\nPhoto Quality Self-adhesive Sheets\n. A cutting grid is printed on the reverse side of each sheet for easy custom trimming (such as labels). To avoid paper jams, load only one sheet at a time. Also, set the\nType\nor\nMedia Type\nsetting in the driver to\nPremium Presentation Paper Matte\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95173?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C690201~faq-95173",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:34.993762"
+        },
+        {
+          "question": "How do I know which paper or media type to select in my product's driver?",
+          "answer": "See\nPaper or Media Type Settings for Loaded Paper\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95208?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C690201~faq-95208",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:36.034312"
+        },
+        {
+          "question": "Can I use hole-punched paper with my product?",
+          "answer": "No. The product does not support this paper type.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-0000ab4-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11C690201~faq-0000ab4-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:37.066120"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print",
+      "section_id": "8796158634060",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "How do I set the default print settings when I print from Windows or my Mac?",
+          "answer": "When you change your print settings from within a program, the changes apply only while you're printing at that time in the open program. If you want to select different settings to use in all your programs, you can change the default print settings. Follow the steps below for your operating system to change the default print settings.\nWindows 2000, XP, Vista\nRight-click the\nprinter icon in the task bar (bottom-right corner of your screen), and select\nPrinter Settings\n.\nSelect the settings you want to use as defaults in all your Windows programs.\nClick\nOK\nto accept the changes.\nMacintosh 10.5.x\nOpen a document and select\nPrint\nfrom the File menu.\nSelect the print settings you want to to save.\nClick the\nPresets\npop-up menu and do one of the following:\nSelect\nLast Used Settings\n.\nSelect\nSave As\n, enter a name for your preset, and click\nOK\n.\nClick\nPrint\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-133403?faq_cat=faq-8796158634060",
+          "faq_slug": "SPT_C11C690201~faq-133403",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:38.183545"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "When I print, my product cuts off some of the characters on the right side of the page. What should I do?",
+          "answer": "In some older applications you can resolve character clipping by enabling fractional character widths.  Do the following:\nAppleWorks:\nOpen your document.\nClick\nEdit\n, then\nPreferences\n.\nTopic should be set to\nText\n.\nBelow Options, check\nFractional Character Widths\n.\nClick\nOK\nto print the document.\nWhen the file is saved, the setting will be saved with it.\nMicrosoft Word 98\nOpen your document.\nClick\nTools\n, then\nPreferences\n.\nClick the Print tab.\nBelow options for current document only, select\nFractional Widths\n.\nClick\nOK\nto print the document.\nWhen the file is saved, the setting will be saved with it.\nWordPerfect\nClick\nFile\nthen\nPage Setup\n.\nBelow Options, make sure Fractional Character Widths is\nON\n.\nWhen other Macintosh programs are affected, you can also try to disable\nSmooth all fonts on screen\n.\nClick\nApple\n,\nControl Panel\n, then\nAppearance\n.\nClick\nFont\n, then disable\nSmooth all fonts on screen\n.\nClose Appearance then restart and try printing again.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-162973?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C690201~faq-162973",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:39.219391"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Try the following:\nClean\nthe print head nozzles.\nSelect a higher\nQuality Option\nor\nPrint Quality\nand turn off\nHigh Speed\nmode in the printer software.\nMake sure the paper Type or Media Type setting matches the paper you loaded.\nMake sure the printable side of the paper is face-up. It's usually brighter or whiter.\nOn a Macintosh, try using\nAutomatic\nmode.\nAlign\nthe print head.\nReplace\nthe ink cartridges.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95121?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C690201~faq-95121",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:40.308037"
+        },
+        {
+          "question": "The quality of my printed output is unacceptable. What should I do?",
+          "answer": "If your output does not look good but the image looks fine on your computer screen, make sure you select the correct quality option, paper type, paper size and orientation setting in the printer driver for your print job. See\nSelect Basic Options\nfor Windows or\nSelect Basic Print Options\nfor Macintosh.If that doesn't help, see\nPrint Quality Problems (quality is correct on screen)\n.\nIf the image also looks incorrect on screen, see\nImage Quality Problems (quality problem appears on screen)\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95120?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C690201~faq-95120",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:41.397461"
+        },
+        {
+          "question": "My printout has incorrect margins. What should I do?",
+          "answer": "The best solution for this problem depends on whether you're printing, scanning or copying. See the solutions below for your task.\nPrinting\nMake sure the paper settings are correct for your paper size in the printer software.\nChoose the correct margins for your paper size in your printing program.\nUse the\nPrint Preview\noption in your printer software to check your margins before you print.\nMake sure your paper is positioned against the right side of the feeder  and the edge guide is against the left side of the paper. See\nLoad  paper\n.\nIf you're using a Macintosh, make sure you choose the same printer in the Page Setup window and the Print window.\nIf you're printing from a web browser, the pages may not print correctly due to the web page design. Try one of the following:\nExperiment with page setup and paper size, then select\nPrint Preview\nfrom the File menu in your application to view the changes.\nScanning\nMake sure you place the document or photo on the scanner glass correctly. See\nPlacing Originals for Copying or Scanning\n.\nCopying\nMake sure you place the document or photo on the scanner glass correctly. See\nPlacing Originals for Copying or Scanning\n.\nMake sure your paper is positioned against the right side of the feeder  and the edge guide is against the left side of the paper. See\nLoad  paper\n.\nMake sure you select the correct paper size on the LCD display screen  using the control panel. See\nCopy    a Document or Photo\nfor details.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95122?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C690201~faq-95122",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:42.515219"
+        },
+        {
+          "question": "My printout has incorrect or missing colors. What should I do?",
+          "answer": "The problem could be due to a software setting, the condition of the Epson Stylus CX8400 Series, or the paper you're using. Check the following:\nMake sure the ink setting in your printer software is not set to\nBlack    Ink Only\n.\nThe print head nozzles may need\ncleaning\n.\nThe ink cartridges may be old or low on ink, and you may need to\nreplace them\n.\nTry turning off\nPhotoEnhance\nin the Windows printer software.\nOn a Macintosh, try using\nAutomatic\nmode.\nTry changing the\nGamma\nsetting in your printer software.\nYour printed colors can never exactly match your on-screen colors. However, you can use a color management system to get as close as possible. Try using the ICM (Windows) or ColorSync (Macintosh) setting.\nIf you're using color management profiles, select\nNo Color Adjustment\nin the printer software.\nFor best results, use genuine Epson ink and paper.\nAfter you print, the colors on your printout will take some time to set as the ink dries. During this time, the colors may look different than you expect. To reduce the drying time, avoid stacking your prints on top of each other.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95149?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C690201~faq-95149",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:43.582935"
+        },
+        {
+          "question": "My product is printing blank pages. What should I do?",
+          "answer": "Check the following:\nMake sure the\nprint head nozzles\nare not clogged.\nThe ink cartridges may be old or low on ink, and you may need to\nreplace them\n.\nTry printing a different document to determine if the problem is limited to one document. If it is, you may need to recreate your original document (by copying and pasting the text into a new file for example).",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95144?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C690201~faq-95144",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:44.896320"
+        },
+        {
+          "question": "The printout is grainy. What should I do?",
+          "answer": "Check the following:\nMake sure the printable side of the paper is face-up. It's usually brighter or whiter.\nSelect a higher\nQuality Option\nor\nPrint Quality\n, and turn off\nHigh Speed\nand\nFast Economy\nor\nEconomy\nmode in the printer software.\nSelect\nPhoto RPM\nfor Quality Type (Windows) or Print Quality (Macintosh). Remember that this setting increases print time.\nAlign\nthe print head.\nYou may need to increase the image resolution or print in a smaller size; see your software documentation.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95151?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C690201~faq-95151",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:46.369515"
+        },
+        {
+          "question": "My printout contains garbled characters when I print from Windows or my Mac. What should I do?",
+          "answer": "Try the following:\nMake sure the USB cable is a shielded “AB” cable not more then 6.5 feet (2 meters) long.\nIf you're using a switch box or USB hub with your Epson Stylus CX8400 Series, connect the printer directly to your computer.\nTurn the Epson Stylus CX8400 Series off, check that the cables are securely  connected, and turn it back on. Then try printing again.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95150?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C690201~faq-95150",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:47.489807"
+        },
+        {
+          "question": "My printout is blurry or smeared. What should I do?",
+          "answer": "Check the following:\nMake sure your paper isn't damp or curled, or loaded face-down (the printable side should be face-up).\nUse a support sheet with special paper, or try loading your paper one sheet at a time.\nMake sure your paper meets the\nspecifications\n.\nUse Epson papers to ensure proper saturation and absorption of genuine Epson inks.\nAlign\nthe print head.\nRemove each sheet from the output tray as it is printed.\nAvoid handling printouts on glossy paper for a few hours to allow the ink to set.\nTurn off\nHigh Speed\nmode in the printer software.\nIf you are using double-sided paper and printing heavily saturated or dark images on the front side of the paper, you may notice that smudges or marks appear on the front when you print the second side. If one side of the paper will contain a lighter image or text, print that side first to eliminate marks or smudging.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95148?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C690201~faq-95148",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:48.725518"
+        },
+        {
+          "question": "How do I make a borderless print?",
+          "answer": "Do the following:\nFor Windows, click the\nBorderless\ncheckbox on the Main tab of the printer driver. To use the borderless option, you'll need to select a compatible borderless paper size and type. See\nSelect Basic Options\nfor more details.\nFor a Macintosh, select a paper size with the\nSheet Feeder - Borderless\noption on the Page Setup window. See\nSelect Page Options\nfor more details.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95169?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C690201~faq-95169",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:49.746424"
+        },
+        {
+          "question": "The image look inverted, as if viewed in a mirror. What should I do?",
+          "answer": "You may have accidentally selected the\nMirror Image\nor\nRotate 180°\noption in the printer driver or a similar feature in your software application. Make sure the settings are not turned on in the printer driver or in your application program. (If you're printing on Epson Iron-on Cool Peel Transfer Paper, the image should be inverted.)\nWindows\nMacintosh",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95203?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C690201~faq-95203",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:50.854211"
+        },
+        {
+          "question": "Web pages don't print the way they appear on my monitor. What should I do?",
+          "answer": "The pages may not print correctly due to the web page design. Try the following:\nCheck for a\nPrinter-friendly Version\n(or similarly named) option on the web page.\nChange the page setup and paper size settings, and select the preview option in your browser to check the changes before you print.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-00004b8-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11C690201~faq-00004b8-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:51.979948"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Scan",
+      "section_id": "8796127569996",
+      "section_order": 9,
+      "faqs": [
+        {
+          "question": "My product detects only one of two photos placed on the scan bed when I use the copy function on the control panel. What should I do?",
+          "answer": "Check the following:\nMake sure the scan bed glass is clean and free of finger prints, smudges, etc. (When cleaning the glass, spray the glass cleaner onto a cloth and then wipe the glass. Never spray glass cleaner directly onto the scan bed.)\nWhen copying two photos (up to 4 x 6 inches), place them 1/4 inch (5 mm) apart.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-106570?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11C690201~faq-106570",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:53.077414"
+        },
+        {
+          "question": "My product detects only one of two photos placed on the scan bed when I use the reprint/restore function on the control panel. What should I do if m",
+          "answer": "Check the following:\nMake sure the scan bed glass is clean and free of finger prints, smudges, etc. (When cleaning the glass, spray the glass cleaner onto a cloth and then wipe the glass. Never spray glass cleaner directly onto the scan bed.)\nMake sure the photos are placed on the scan bed correctly.  See\nPlace Originals for Copying or Scanning\n.\nMake sure the photos are no larger than 5 x 7 inches for one photo or 4 x 6 inches for two photos.\nWhen copying two photos (up to 4 x 6 inches), place them 1/4 inch (5 mm) apart.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-106571?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11C690201~faq-106571",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:54.281719"
+        },
+        {
+          "question": "How do I decide which resolution to select when scanning from Epson Scan?",
+          "answer": "The best scanning resolution depends on the purpose of the scan:\nIf you are going to print the scan, you should generally scan at 300 dpi for best results (although 180 or 240 dpi may be high enough depending on the quality and detail of the original image).\nIf your final file is for on-screen viewing (for example, on a web page or in an e-mail message), select 96 dpi for your resolution.\nIf you are enlarging your image, you must increase the resolution (dpi) proportionally to maintain the resolution of your original.\nHigher resolution settings result in larger file sizes. For example, an 8.5 x 11-inch original scanned at 300 dpi can produce a 24MB file. The same original scanned at 72 dpi creates only a 1.3MB file. Large files take longer to process and print, so consider the practical limitations of your computer system when selecting a resolution. To keep your file size manageable, select the lowest possible resolution that gives acceptable quality.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95162?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11C690201~faq-95162",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:55.292897"
+        },
+        {
+          "question": "I want to enlarge an image that I'm scanning with Epson Scan. How do I obtain the best quality?",
+          "answer": "To obtain the best quality, you should resize your image when you're scanning instead of enlarging it later in an image-editing program. You can do this using the Target Size setting in Home or Professional Mode.\nIf you are going to scan your image to a particular size, such as 8 x 10 inches, you should select the Target Size setting after previewing it, but before adjusting your scan area (indicated by the marquee). This sets the scan area to the correct proportions so your image will not be cropped unexpectedly.\nFollow these steps to select the Target Size setting:\nYou can choose a predefined scan size from the Target Size list. Click the arrow in the list and select the\nTarget Size\nyou want.\nA dotted line (marquee) appears on your preview image proportioned for that size.\nIf you need to create a scan size that is not in the Target Size list, you can create a custom size. Click the arrow in the list and select\nCustomize\n. You see the Target Size window:\nName the custom size, enter its width and height, click\nSave\n, and click\nOK\n. Then create a marquee on the preview image to\ndefine the scanned image area\n. The size is automatically proportioned.\nIn Professional Mode, you can fine-tune the size using additional tools. Click the + (Windows) or\n(Macintosh) next to\nTarget Size\nto display these tools:\nScale:\nreduces or enlarges your image by the percentage you enter.\nTrimming:\nturns automatic image cropping on or off (see Epson Scan Help for details).\nunlock icon: unlocks the width/height proportions of the scanned image size so you can adjust it without constraint.\nOnce you have selected your scan size, you can click and drag the marquee to the area in the image you want to scan.\nNote:\nFor more information about using the Target Size tools, click\nHelp\nin the Epson Scan window.\nNow you are ready to scan your image.\nNote:\nIf you plan to enlarge your image later in an image-editing program, you need to increase the\nResolution\nsetting to retain a high image quality after enlargement. Increase the resolution by the same amount you will increase the image size. For example, if the resolution is 300 dpi (dots per inch), but you will increase the image size by 200% in an image-editing program, change the\nResolution\nsetting to 600 dpi in Epson Scan.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95161?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11C690201~faq-95161",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:56.369866"
+        },
+        {
+          "question": "I am unable to scan from my computer. What should I do?",
+          "answer": "Try the following:\nMake sure the Epson Stylus CX8400 Series is turned on and securely connected to your computer or USB hub.\nIf the Epson Stylus CX8400 Series is connected to a USB hub, make sure it's connected to a first tier hub (the hub closest to the host computer) when more than one hub is connected to the computer.\nTry restarting your computer.\nUninstall the Epson Stylus CX8400 Series software (\nWindows\nor\nMacintosh\n), then reinstall the software (\nWindows\nor\nMacintosh\n).\nNote:\nYou must connect the Epson Stylus CX8400 Series to your computer at the correct time to make sure the driver is installed correctly on your computer. Carefully follow the software installation instructions on the Start Here sheet.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95154?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11C690201~faq-95154",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:57.483825"
+        },
+        {
+          "question": "Can I scan if an ink cartridge is expended in the product?",
+          "answer": "You can scan from your computer with Epson Scan, but you can't copy or scan from the product's control panel.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-0000bf4-shared?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11C690201~faq-0000bf4-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:58.586200"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 10,
+      "faqs": [
+        {
+          "question": "The settings are grayed out in Epson Scan on my Mac. What should I do?",
+          "answer": "Create a new user account using the instructions below.  If you are able to change the settings in Epson Scan using the new account but not with the old account, please contact Apple for possible solutions.\nClick the Apple icon, then select\nSystem Preferences\n.\nUnder\nSystem\n, select\nAccounts\n.\nIf the padlock in the lower left corner is locked, click it to unlock it and enter the password when prompted.\nClick the\n+\nto create a new account.\nAt the top, change the New Account field to\nAdministrator\n.\nComplete the required fields, then click\nCreate Account\n.  (Do not set to automatically log in).\nClose the Accounts screen, click on the Apple icon to log out, then log in as the new user.\nOpen Epson Scan.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-156827?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C690201~faq-156827",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:19:59.684701"
+        },
+        {
+          "question": "I cancelled the software installation before it was complete, or connected the USB cable before starting the software installation. What should I do?",
+          "answer": "First uninstall the software (\nWindows\nor\nMacintosh\n), then reinstall the software (\nWindows\nor\nMacintosh\n).\nNote:\nYou must connect the Epson Stylus CX8400 Series to your computer at the correct time to make sure the driver is installed correctly on your computer. Carefully follow the software installation instructions on the Start Here sheet.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95152?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C690201~faq-95152",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:20:00.757978"
+        },
+        {
+          "question": "I'm having problems installing the software. What should I do?",
+          "answer": "Check the following:\nMake sure your Epson Stylus CX8400 Series is turned on then carefully follow the software installation instructions on the Start Here sheet (\nWindows\nor\nMacintosh\n).\nMake sure your compuetr system meets all the\nrequirements\n.\nMake sure all applications (including any screen savers and virus protectors) are closed before you install the software. If any applications were open, uninstall the software (\nWindows\nor\nMacintosh\n), then reinstall the software (\nWindows\nor\nMacintosh\n).\nIf you see an error message or your software doesn't install correctly in Windows, you may not have software installation privileges. Contact your System Administrator.\nMake sure the USB Controller is working properly in Device Manager. See your Windows help system for details. If it's not working, contact your computer manufacturer.\nIf you're printing over a network,\nset up the software for network printing\n.\nUninstall the printer software (\nWindows\nor\nMacintosh\n), then reinstall the printer software (\nWindows\nor\nMacintosh\n).\nNote:\nYou must connect the Epson Stylus CX8400 Series to your computer at the correct time to make sure the driver is installed correctly on your computer.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95153?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C690201~faq-95153",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:20:01.770600"
+        },
+        {
+          "question": "Can I select a print resolution by indicating a specific dpi (dots per inch) setting?",
+          "answer": "No. The print resolution is determined by other driver software settings.\nIn Windows, the\nQuality Option\nand paper\nType\nsettings determine the print resolution.\nIn Mac OS X, the resolution settings depend on the\nMode\nsetting:\nNote:\nTo access the resolution settings in Mac OS X, select\nPrint\nfrom the\nFile\nmenu. Then select\nPrint Settings\nfrom the pull-down menu.\nIf you've selected\nAutomatic\nas the\nMode\nsetting, the resolution is determined by the\nMedia Type\nsetting and the position of the Quality/Speed slider.\nIf you've selected\nAdvanced\nas the\nMode\nsetting, the resolution is determined by the\nMedia Type\nsetting and the\nPrint Quality\nsetting.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95165?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C690201~faq-95165",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:20:02.811164"
+        },
+        {
+          "question": "Can I use my product on a network?",
+          "answer": "Yes. See\nUseYour Product on a Network\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95207?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C690201~faq-95207",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:20:03.872220"
+        },
+        {
+          "question": "How do I install the latest scanner driver on my Mac?",
+          "answer": "To upgrade the Image Capture driver in 10.6.x, follow these directions:\nConnect and power on your product.\nClick the Apple icon on the top left corner of the desktop.\nSelect\nSoftware Updates\n.\nFollow the on-screen instructions to install the available updates.\nNote\n: Software Updates may find multiple updates for your system; you may choose to install all or some of the updates by clicking Show Details.\nFor a list of Snow Leopard supported products, see the following Apple article:\nMac OS X v10.6: Printer and scanner software",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-166033?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C690201~faq-166033",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:20:04.945503"
+        },
+        {
+          "question": "Does my product support Epson Connect?",
+          "answer": "No, your product is not compatible.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-0000af9-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C690201~faq-0000af9-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:20:06.130063"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "You can download the latest product driver from the Downloads section of this website.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-0000afb-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C690201~faq-0000afb-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:20:07.206180"
+        },
+        {
+          "question": "I can't scan multiple document pages into a single PDF. What should I do?",
+          "answer": "If you are using the Scanner Driver and Epson Scan Utility v2.92a or earlier, the ability to scan multiple pages to a single PDF is not supported. This feature is supported when using the Scanner Driver (which is sometimes shown as TWAIN Driver) and Epson Scan Utility v3.04a or higher. Check your product's Downloads tab to make sure you're using the latest version.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-0000963-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C690201~faq-0000963-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:20:08.354022"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C690201~faq-00004dc-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:20:09.422160"
+        },
+        {
+          "question": "How do I change the font size of text when I print from software in Windows?",
+          "answer": "You need to select the text or font size in the software you are printing from, not the printer driver. For detailed instructions, contact the company for the application you are printing from.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-00004b7-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C690201~faq-00004b7-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:20:10.524811"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C690201~faq-0000f4b-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:20:11.622590"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C690201~faq-0000f4c-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:20:12.645446"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11C690201~faq-0000f4d-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:20:13.689471"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Wireless or Wired Connection",
+      "section_id": "8796127635532",
+      "section_order": 11,
+      "faqs": [
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-0000ad0-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11C690201~faq-0000ad0-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:20:14.795526"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 12,
+      "faqs": [
+        {
+          "question": "I am missing the control panel label shown on the Start Here sheet. What should I do?",
+          "answer": "The label (shown below) is an adhesive sticker included only with Epson Stylus CX8400 Series printers sold in Canada. This allows French speakers to place the sticker on the printer if they want to see French translations for the buttons and lights on the control panel. Printers sold outside Canada do not come with the sticker.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-103607?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C690201~faq-103607",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:20:15.873034"
+        },
+        {
+          "question": "When printing in Windows, how can I prevent an extra page from being ejected after every print job?",
+          "answer": "The Separator Page function may be enabled. Follow these steps to disable it:\nClick\nStart\nor\n.\nDo one of the following:\nWindows XP\n:\nSelect\nPrinters and Faxes\n(or select\nSettings\n, then select\nPrinters and Faxes\n).\nWindows Vista\n:\nSelect\nControl Panel\n, then\nPrinter\nor\nPrinters\nunder Hardware and Sound\n.\nWindows 7\n:\nSelect\nControl Panel\n, then\nView Devices and Printers\nunder Hardware and Sound.\nIn the\nPrinters\nor\nPrinters and Faxes\nwindow, right-click on your printer's name.\nSelect\nProperties\n, click the Advanced tab, then press the\nSeparator Page\nbutton.\nIn the Separator Page window, delete the information in the text box and then click\nOK\n.\nClick\nOK\nagain.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-134341?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C690201~faq-134341",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:20:16.907120"
+        },
+        {
+          "question": "How should I transport my product?",
+          "answer": "See\nTransportation\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-95167?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C690201~faq-95167",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:20:18.088008"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C690201~faq-00004b0-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:20:19.134879"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11C690201~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11C690201~faq-0000f4a-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/Epson-Stylus-Series/Epson-Stylus-CX8400/s/SPT_C11C690201",
+          "fetched_at": "2026-04-01T09:20:20.161479"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

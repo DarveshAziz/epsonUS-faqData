@@ -1,0 +1,617 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "Epson Stylus Series",
+  "model": {
+    "name": "Epson Stylus Pro 7700",
+    "sku": "SPT_SP7700VM",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SP7700VM~faq-00004dc-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T01:59:57.268998"
+        },
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-00009e9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SP7700VM~faq-00009e9-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T01:59:58.277890"
+        },
+        {
+          "question": "How many prints can I print from an ink cartridge in my printer?",
+          "answer": "There are too many variables to provide a count. You can estimate the amount by printing a Job Information sheet from the printer's Test Print menu. This sheet provides the amount of ink used for the last 10 print jobs, which can help you calculate ink usage.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-00009e2-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SP7700VM~faq-00009e2-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T01:59:59.345042"
+        },
+        {
+          "question": "How do I uninstall and reinstall the printer driver in Windows?",
+          "answer": "Do the following:\nTurn off the product.\nDisconnect any interface cables.\nDo one of the following:\nWindows 10\n: Right click\nand select\nControl Panel\n>\nPrograms\n>\nPrograms and                             Features\n.  Select the uninstall option for your Epson                         product, then select\nUninstall/Change\n.\nNote:\nIf you                             see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto                         confirm the uninstallation.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl                             Panel\n>\nPrograms\n>\nPrograms and Features\n.  Select the uninstall                         option for your Epson product, then select\nUninstall/Change\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto                         confirm the uninstallation.\nWindows (other versions)\n: Click\nor\nStart\n, and select\nAll Programs\nor\nPrograms\n.                         Select\nEPSON\n, select your product, then click\nEPSON Printer Software Uninstall\n.\nNote:\nIf you                             see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nIn the next window, select your product and click\nOK\n. Then follow any on-screen instructions.\nRestart your computer, then see the\nStart Here\nsheet or User Guide to                 re-install your software.\nIf these instructions did not solve the problem, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-0000630-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SP7700VM~faq-0000630-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:00.271402"
+        },
+        {
+          "question": "My printer's ink cartridges are half full after I install the first set of ink cartridges. Why does this happen?",
+          "answer": "Ink from the first set of ink cartridges is used to charge the printer's ink delivery system. This will not happen again when you install new ink cartridges.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-00009d6-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SP7700VM~faq-00009d6-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:01.303068"
+        },
+        {
+          "question": "Where can I get the latest version of the Epson Communication Driver for my printer?",
+          "answer": "Download the Communication Driver from the Downloads tab on your product's support page.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-00009fb-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SP7700VM~faq-00009fb-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:02.246248"
+        },
+        {
+          "question": "How do I stop the printer from printing a nozzle check pattern before every print job?",
+          "answer": "Do the following on the product's control panel:\nPress\nMenu\ntwice, then select\nAuto Nozzle Check\n.\nPress\nMenu\n, then select\nOff",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-00009e1-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SP7700VM~faq-00009e1-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:03.275689"
+        },
+        {
+          "question": "How do I uninstall and reinstall my printer driver in OS X 10.1, 10.2, or 10.3?",
+          "answer": "Open your hard drive, then do the following:\nSelect\nApplications\n>\nUtilities\n, then double-click\nPrinter Service Utility\n. Remove all Epson Stylus Pro paper queues from the Printers List, then close the open windows.\nSelect\nLibrary\n>\nReceipts\n, then drag the\nSProXX00.xx.pkg\nfile to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nEpson\n, then drag the plugin for your product to the trash.\nSelect\nPreferences\n>\nEpson\n, then drag files related to your product to the trash.\nClose the open windows.\nReinstall the driver for your product.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-00009fe-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SP7700VM~faq-00009fe-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:04.194359"
+        },
+        {
+          "question": "How do I determine my printer driver version on my Mac?",
+          "answer": "Open the\nmenu and select\nSystem Preferences\nor\nSystem Settings\n>\nPrinters & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n. Your printer driver version is displayed.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-00009e4-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SP7700VM~faq-00009e4-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:05.274887"
+        },
+        {
+          "question": "How do I add a print queue for my printer in OS X 10.1 to 10.6?",
+          "answer": "Do the following:\nTurn on the printer, if necessary.\nSelect\nSystem Preference\nand click\nPrint                     Center\n,\nPrinter Setup Utility\n, or\nPrint & Fax\n.\nClick\nAdd\n, or select\nAdd Printer\nfrom the printer's drop-down menu.\nSelect the appropriate Epson port                 connection (e.g.\nEpson USB\n) and select the product.\nSelect\nAll\nfor the\nPage Setup\n.\nClick\nAdd\n.  All                 print queues should appear in the printer list.\nSelect your product and click\nMake Default\n.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-000062D-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SP7700VM~faq-000062D-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:06.270198"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "I see the message Maintenance error 0040. What does it indicate?",
+          "answer": "The error code indicates the cleaning mechanism has reached its end of life. Contact Epson for further assistance.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-298561?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SP7700VM~faq-298561",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:07.320362"
+        },
+        {
+          "question": "I see the message Communication Error when I use a USB connection. What should I do?",
+          "answer": "Do the following:\nDelete all print jobs in the print queue.\nTurn the printer off.\nNote:\nMake sure the USB cable is connected correctly.\nRestart your computer. When the desktop appears, turn your printer on and follow the on-screen instructions.\nNote:\nIf the problem continues, turn the printer off again and delete the printer in the list of printers. Then disconnect the USB cable from the printer and connect it again.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-00009ea-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SP7700VM~faq-00009ea-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:08.378448"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SP7700VM~faq-00004c5-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:09.376050"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "How to...",
+      "section_id": "8796159027276",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "How do I add a print queue for my printer in OS X 10.1 to 10.6?",
+          "answer": "Do the following:\nTurn on the printer, if necessary.\nSelect\nSystem Preference\nand click\nPrint                     Center\n,\nPrinter Setup Utility\n, or\nPrint & Fax\n.\nClick\nAdd\n, or select\nAdd Printer\nfrom the printer's drop-down menu.\nSelect the appropriate Epson port                 connection (e.g.\nEpson USB\n) and select the product.\nSelect\nAll\nfor the\nPage Setup\n.\nClick\nAdd\n.  All                 print queues should appear in the printer list.\nSelect your product and click\nMake Default\n.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-000062D-shared?faq_cat=faq-8796159027276",
+          "faq_slug": "SPT_SP7700VM~faq-000062D-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:10.260980"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "What size ink cartridges are available for my product?",
+          "answer": "There are 3 sizes of cartridges available for the printer; 150 ml, 350 ml, and 700 ml. You can install any combination of these different cartridge sizes.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-153812?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SP7700VM~faq-153812",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:11.253149"
+        },
+        {
+          "question": "Do I need to do anything to switch between photo black and matte black ink when printing?",
+          "answer": "No. The printer automatically switches to the correct black ink according to the media type you have selected in the printer software.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-153805?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SP7700VM~faq-153805",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:12.371857"
+        },
+        {
+          "question": "What are the part numbers for the ink cartridges?",
+          "answer": "See the following table.\nSlot no.\nCartridge\n150 ml\n350 ml\n700 ml\n1\nVivid Magenta (VM)\nT642300\nT596300\nT636300\n2\nCyan (C)\nT642200\nT596200\nT636200\n3\nPhoto Black (PK)\nT642100\nT596100\nT636100\n4\nYellow (Y)\nT642400\nT596400\nT636400\n5\nMatte Black (MK)\nT642800\nT596800\nT636800",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-153815?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SP7700VM~faq-153815",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:13.373929"
+        },
+        {
+          "question": "What is the smallest droplet size that can be printed?",
+          "answer": "The smallest droplet size produced by the printer is 3.5 picoliters.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-153809?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SP7700VM~faq-153809",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:14.429756"
+        },
+        {
+          "question": "Does my product come with ink cartridges?",
+          "answer": "The printer comes with a set of starter ink cartridges (110 ml x 5 total colors). These cartridges are designed to prime the ink system when the printer is initially set up.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-153811?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SP7700VM~faq-153811",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:15.507115"
+        },
+        {
+          "question": "How many prints can I print from an ink cartridge in my printer?",
+          "answer": "There are too many variables to provide a count. You can estimate the amount by printing a Job Information sheet from the printer's Test Print menu. This sheet provides the amount of ink used for the last 10 print jobs, which can help you calculate ink usage.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-00009e2-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SP7700VM~faq-00009e2-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:16.451400"
+        },
+        {
+          "question": "My printer's ink cartridges are half full after I install the first set of ink cartridges. Why does this happen?",
+          "answer": "Ink from the first set of ink cartridges is used to charge the printer's ink delivery system. This will not happen again when you install new ink cartridges.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-00009d6-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SP7700VM~faq-00009d6-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:17.453731"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "How do I replace the Maintenance Tank?",
+          "answer": "See\nReplacing the Maintenance Tank\n.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-153830?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_SP7700VM~faq-153830",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:18.530386"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "What size media cores does my product support?",
+          "answer": "The printer supports either 2 or 3 in media cores.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-153823?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SP7700VM~faq-153823",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:19.447806"
+        },
+        {
+          "question": "Does my product support both glossy and matte media?",
+          "answer": "Yes. The printer automatically switches to the correct black ink, according to the media type selected in the printer software.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-153819?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SP7700VM~faq-153819",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:18.546754"
+        },
+        {
+          "question": "What is the maximum page length for my product?",
+          "answer": "The maximum printable page length is 90.5 inches when you use the Epson printer driver. This limit may vary depending on the application you are using and the image resolution. Using a RIP may allow you to exceed this limit as well.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-153828?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SP7700VM~faq-153828",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:19.545584"
+        },
+        {
+          "question": "What borderless media widths does my product support?",
+          "answer": "See the following table.\nPrinter\nRoll paper width\nStylus Pro 7700\n10\", 13\", 16\", 17\", 24\"\nStylus Pro 9700\n10\", 13\", 16\", 17\", 24\", 36\", 44\"",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-153814?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SP7700VM~faq-153814",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:20.548612"
+        },
+        {
+          "question": "Which Epson paper type setting should I select for Legacy paper?",
+          "answer": "See the table below.\nLegacy Paper\nEpson Paper Type Setting\nBaryta\nPremium Luster Photo Paper\nPlatine\nPremium Luster Photo Paper\nFibre\nWatercolor Paper – Radiant White\nEtching\nWatercolor Paper – Radiant White",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-00009EC-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SP7700VM~faq-00009EC-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:22.266234"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "When printing a fine line using the Single Weight Matte (line drawing) or Plain Paper (line drawing), the line becomes dashed or jagged. What should I do?",
+          "answer": "Turn off the High Speed setting in the printer software:\nOn the Main tab, select the media type you are using.\nFor Print Quality, select\nQuality Options\n.\nRemove the check from the\nHigh Speed\nsetting.\nClick\nOK\n.\nIf necessary, adjust other settings and resend the print job.\nNote\n: Unchecking\nHigh Speed\nimproves the print quality but increases print time.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-160230?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SP7700VM~faq-160230",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:24.551087"
+        },
+        {
+          "question": "Drips, smears, or head strikes appear on my printout. What should I do?",
+          "answer": "Make sure the platen gap is adjusted for your media type. To adjust the platen gap, do the following from the printer's control panel:\nMake sure the printer is ready to print. Ready should be displayed on the printer's LCD screen.\nPress the\nbutton three times.\nSelect\nNarrow\n,\nStandard\n,\nWide\n, or\nWider\nas the gap setting.\nPress\nOK\nor\nEnter\n(the middle button).\nPress the pause button.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-0000c1e-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SP7700VM~faq-0000c1e-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:25.566819"
+        },
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-00009e9-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SP7700VM~faq-00009e9-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:26.558625"
+        },
+        {
+          "question": "I see horizontal or vertical lines in my printout. What should I do?",
+          "answer": "Perform a nozzle check from the printer's control panel or the Epson printer driver, then do one of the following:\nIf there are gaps in the nozzle check pattern, clean the print head nozzles.\nIf there are no gaps in the nozzle check pattern, try the solutions below.\nHorizontal Banding\nIncrease the print resolution.\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nSelect an alternate paper profile for ink coverage.\nSelect the correct paper type in the printer driver.\nAdjust the paper feed\nVertical Banding\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nAlign the print head.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-00009eb-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SP7700VM~faq-00009eb-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:27.582420"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "What does the Remote Panel utility do?",
+          "answer": "The Remote Panel utility can be used to:\nUpdate firmware\nPerform nozzle checks\nRun the bi-d and uni-d alignments/auto alignments\nPrint status sheets\nMake custom paper settings\nPerform power cleanings\nSet the printer clock\nSet media counter settings\nMake paper feed and print adjustments\nMonitor the printer using print watcher",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-153827?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7700VM~faq-153827",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:28.499449"
+        },
+        {
+          "question": "What does the Optimize Enlargement option in my product driver do?",
+          "answer": "Select\nOptimize Enlargement\nif you are enlarging an image beyond the limits of your application program. The driver will increase the image size up to 650% and decrease the output resolution to stay within the pixel limitations. Depending on the resolution of the original image and the print size, you may notice reduced quality in the print.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-153829?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7700VM~faq-153829",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:29.462223"
+        },
+        {
+          "question": "Is an HDI driver available for my product?",
+          "answer": "An HDI driver is included on the software CD that comes with the printer. You can also download the driver from the Downloads tab.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-153818?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7700VM~faq-153818",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:30.408305"
+        },
+        {
+          "question": "How do I disable the Roll Paper Remaining feature on my printer?",
+          "answer": "Do the following on the product's control panel:\nPress the paper release button to feed paper out of the printer, if necessary.\nPress\nMenu\n.\nSelect\nPaper Setup\n, then press\n.\nSelect\nRoll Paper Remaining\n, then press\n.\nSelect\nRemaining Paper Setup\n, then press\n.\nSelect\nOff\n, then press\nOK\n.\nPress\n, then load the paper again.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-00009e0-pgg_4800_multi_9900?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7700VM~faq-00009e0-pgg_4800_multi_9900",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:31.489498"
+        },
+        {
+          "question": "How do I uninstall and reinstall my printer driver in OS X 10.1, 10.2, or 10.3?",
+          "answer": "Open your hard drive, then do the following:\nSelect\nApplications\n>\nUtilities\n, then double-click\nPrinter Service Utility\n. Remove all Epson Stylus Pro paper queues from the Printers List, then close the open windows.\nSelect\nLibrary\n>\nReceipts\n, then drag the\nSProXX00.xx.pkg\nfile to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nEpson\n, then drag the plugin for your product to the trash.\nSelect\nPreferences\n>\nEpson\n, then drag files related to your product to the trash.\nClose the open windows.\nReinstall the driver for your product.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-00009fe-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7700VM~faq-00009fe-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:32.502142"
+        },
+        {
+          "question": "How do I stop the printer from printing a nozzle check pattern before every print job?",
+          "answer": "Do the following on the product's control panel:\nPress\nMenu\ntwice, then select\nAuto Nozzle Check\n.\nPress\nMenu\n, then select\nOff",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-00009e1-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7700VM~faq-00009e1-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:33.515279"
+        },
+        {
+          "question": "Where can I get the latest version of the Epson Communication Driver for my printer?",
+          "answer": "Download the Communication Driver from the Downloads tab on your product's support page.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-00009fb-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7700VM~faq-00009fb-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:34.637756"
+        },
+        {
+          "question": "How do I uninstall and reinstall the printer driver in Windows?",
+          "answer": "Do the following:\nTurn off the product.\nDisconnect any interface cables.\nDo one of the following:\nWindows 10\n: Right click\nand select\nControl Panel\n>\nPrograms\n>\nPrograms and                             Features\n.  Select the uninstall option for your Epson                         product, then select\nUninstall/Change\n.\nNote:\nIf you                             see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto                         confirm the uninstallation.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl                             Panel\n>\nPrograms\n>\nPrograms and Features\n.  Select the uninstall                         option for your Epson product, then select\nUninstall/Change\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto                         confirm the uninstallation.\nWindows (other versions)\n: Click\nor\nStart\n, and select\nAll Programs\nor\nPrograms\n.                         Select\nEPSON\n, select your product, then click\nEPSON Printer Software Uninstall\n.\nNote:\nIf you                             see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nIn the next window, select your product and click\nOK\n. Then follow any on-screen instructions.\nRestart your computer, then see the\nStart Here\nsheet or User Guide to                 re-install your software.\nIf these instructions did not solve the problem, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-0000630-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7700VM~faq-0000630-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:35.615742"
+        },
+        {
+          "question": "Do I need a raster image processor (RIP) to print from Adobe Illustrator?",
+          "answer": "For the best output, a RIP should be used. Adobe Illustrator is a postscript application that requires a RIP to translate the postscript language. The printer comes with a non-postscript driver that has difficulty translating the postscript language.\nEpson has partnered with the following manufacturers for some printers:\nColorBurst\nefi\nOnyx\nWasatch",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-00009f1-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7700VM~faq-00009f1-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:36.544611"
+        },
+        {
+          "question": "Do I need a raster image processor (RIP) to print from Adobe Photoshop?",
+          "answer": "No, Adobe Photoshop is not a postscript application and does not require a RIP.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-00009f0-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7700VM~faq-00009f0-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:37.602141"
+        },
+        {
+          "question": "How do I save my Epson printer driver presets so I can restore them if I reinstall the Epson printer driver in Windows?",
+          "answer": "Note:\nYou may lose some custom settings when you uninstall the printer driver.\nBefore you reinstall the printer driver, do the following:\nOpen\nFile Explorer\nor\nWindows Explorer\n.\nSelect\nThis PC\nor\nComputer\n>\nC:\ndrive >\nProgram Files\n>\nEpson\n> [your printer name].\nMove the UCI extension files to a different folder on your desktop.\nNote:\nAfter you reinstall the Epson printer driver, move the UCI extension files back to your printer's folder as described in step 2.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-00009e6-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7700VM~faq-00009e6-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:38.552616"
+        },
+        {
+          "question": "How do I install the ICC profiles in Windows XP or Windows 7?",
+          "answer": "Do the following:\nDownload the ICC profiles for your printer and save them in a folder you can easily find.\nClose all open software.\nOpen\nWindows Explorer\n, then select\nComputer\n>\nC:\ndrive >\nWindows\n>\nSystem32\n>\nspool\n>\ndrivers\n>\ncolor\n.\nMove the ICC profiles into the\ncolor\nfolder, then close all open windows.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-00009E5-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7700VM~faq-00009E5-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:39.691334"
+        },
+        {
+          "question": "How do I determine my printer driver version on my Mac?",
+          "answer": "Open the\nmenu and select\nSystem Preferences\nor\nSystem Settings\n>\nPrinters & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n. Your printer driver version is displayed.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-00009e4-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7700VM~faq-00009e4-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:40.572922"
+        },
+        {
+          "question": "How do I manually install the Epson ICC profiles on my Mac?",
+          "answer": "Do the following:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinters2\n>\nICCProfiles\n.\nPress and hold the\ncontrol\nkey on your keyboard while you select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n, select and copy all files, then close all open windows.\nOpen your hard drive, select\nLibrary\n>\nColorSync\n>\nProfiles\n, then paste the files into this folder.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-0000b03-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7700VM~faq-0000b03-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:41.471149"
+        },
+        {
+          "question": "Where are the ICC profiles located for my printer on my Mac?",
+          "answer": "Do the following to locate the files:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinter2\n>\nICCProfiles\n.\nPress and hold the\nControl\nkey on your keyboard while you click the profile package in the\nICCProfiles\nfolder. In the pop-up menu that appears, select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-00009ed-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7700VM~faq-00009ed-shared",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:42.495241"
+        },
+        {
+          "question": "My print job disappears from the Windows print queue but does not print. What should I do?",
+          "answer": "Follow the steps below:\nDo one of the following:\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your printer and select\nManage\n>\nPrinting preferences\n.\nWindows 8\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the\nUtility\ntab, then\nSpeed and Progress\n.\nSelect the\nAlways Spool RAW Datatype\nand\nCoarse Rendering\ncheckboxes, then click\nOK\n.\nNote:\nIf the\nProcessed by Printer\ncheckbox is selected, deselect it.\nTry printing again.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-00009e8-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7700VM~faq-00009e8-shared",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:43.625022"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7700VM~faq-00004dc-shared",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:44.993438"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7700VM~faq-0000f4b-shared",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:46.295201"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7700VM~faq-0000f4c-shared",
+          "display_order": 20,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:47.797694"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "Does my product support borderless printing?",
+          "answer": "The printer can print borderless along the left and right margins. When printing on roll media, the top and bottom margin will be trimmed off to achieve a full borderless print.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-153810?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7700VM~faq-153810",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:49.137623"
+        },
+        {
+          "question": "What is the part number for the replacement maintenance tank?",
+          "answer": "The part number is C12C890501.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-153813?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7700VM~faq-153813",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:50.501261"
+        },
+        {
+          "question": "What are the dimensions and weight of my product?",
+          "answer": "See the table below. (Dimensions include printer stand. Weight includes printer stand and paper basket.)\nPrinter\nHeight\nWidth\nDepth\nWeight\nStylus Pro 7700\n48 in\n(1218 mm)\n54 in\n(1356 mm)\n27 in\n(667 mm)\n222 lb\n(100.9 kg)\nStylus Pro 9700\n48 in\n(1218 mm)\n74 in\n(1864 mm)\n27 in\n(667 mm)\n298 lb\n(135.1 kg)",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-153806?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7700VM~faq-153806",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:50.157553"
+        },
+        {
+          "question": "Is a SpectroProofer available for my product?",
+          "answer": "No.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-153817?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7700VM~faq-153817",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:51.046374"
+        },
+        {
+          "question": "Is an automatic take-up reel available for my product?",
+          "answer": "An Automatic Take-Up Reel System (part number C12C815321) is available for the Stylus Pro 9700 but not for the Stylus Pro 7700.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-153816?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7700VM~faq-153816",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:51.974694"
+        },
+        {
+          "question": "Does my product stand come with my product?",
+          "answer": "Yes, the printer stand is included with the printer.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-153826?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7700VM~faq-153826",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:52.876505"
+        },
+        {
+          "question": "What is the part number for the replacement printer cutter blade?",
+          "answer": "The part number is C12C815331. You can order printer cutter blades from the Epson Store.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-153824?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7700VM~faq-153824",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:53.986263"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7700VM~faq-00004b0-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:54.899007"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SP7700VM~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7700VM~faq-0000f4a-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/Epson-Stylus-Series/Epson-Stylus-Pro-7700/s/SPT_SP7700VM",
+          "fetched_at": "2026-04-02T02:00:55.787645"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

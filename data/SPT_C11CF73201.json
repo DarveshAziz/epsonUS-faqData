@@ -1,0 +1,1171 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "All-In-Ones",
+  "series": "ET Series",
+  "model": {
+    "name": "Epson ET-3600",
+    "sku": "SPT_C11CF73201",
+    "url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "What are the port numbers for Epson network printers (wired and wireless)?",
+          "answer": "See the table below.\nNote:\nNot all operations are supported by all products.\nService name\nProtocol type\nLocal/Remote port number\nControls these operations\nENPC\nUDP\n3289/Any port\nSearching for a product from applications such as printer or scanner drivers, or EpsonNet Config\nSNMP\nUDP\n161/Any port\nAcquiring and configuring MIB from applications such as printer or scanner drivers, or EpsonNet Config\nLPR\nTCP\n515/Any port\nForwarding LPR data\nRAW (Port9100)\nTCP\n9100/any port\nForwarding RAW data\nIPP/IPPS\nTCP\n631/Any port\nForwarding AirPrint data (IPP/IPPS printing)\nWSD\nTCP\nAny port/5357\nControlling WSD\nWS-Discovery\nUDP\n3702/Any port\nSearching for a product from WSD\nNetwork Scan\nTCP\n1865/Any port\nForwarding scan data from Document Capture Pro and Document Capture\nNetwork Push Scan\nTCP\nAny port/2968\nAcquiring job information on push scanning from Document Capture Pro and Document Capture\nNetwork Push Scan Discovery\nUDP\n2968/Any port\nSearching for a computer during push scanning from Document Capture Pro and Document Capture\nFTP Data (Local)\nTCP\n20/Any port\nForwarding FTP printing data to FTP server\nFTP Control (Local)\nTCP\n21/Any port\nControlling FTP printing to FTP server\nFTP Data (Remote)\nTCP\nAny port/20\nForwarding scan data and received fax data to FTP client; controls only an FTP server that uses remote port 20\nFTP Control (Remote)\nTCP\nAny port/21\nForwarding scan data and received fax data to FTP client\nCIFS (Local)*\nTCP\n445/Any port\nSharing a network folder on CIFS server\nCIFS (Remote)*\nTCP\nAny port/445\nForwarding scan data and received fax data to a folder on CIFS server\nNetBIOS Name Service (Local)\nUDP\n137/Any port\nSharing a network folder on CIFS server\nNetBIOS Datagram Service (local)\nUDP\n138/Any port\nNetBIOS Session Service (Local)\nTCP\n139/Any port\nNetBIOS Name Service (Remote)\nUDP\nAny port/137\nForwarding scan data and received fax to a folder on CIFS server\nNetBIOS Datagram Service (Remote)\nUDP\nAny port/138\nNetBIOS Service (Remote)\nTCP\nAny port/139\nHTTP (Local)\nTCP\n80/Any port\nForwarding Web Config and WSD data to a HTTP or HTTPS server\nHTTPS (Local)\nTCP\n443/Any port\nHTTP (Remote)\nTCP\nAny port/80\nCommunicating with Epson Connect or Chromebook Native Printing, firmware update, and root certificate update on a HTTP or HTTPS client\nHTTPS (Remote)\nTCP\nAny port/443\n* To control forwarding of scan and received fax data, share a network folder, or receive fax data from PC-Fax, select\nPort Number\nas the\nMethod of Choosing Port\noption and specify the port numbers for CIFS and NetBIOS.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-0000525-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CF73201~faq-0000525-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:49:50.490174"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00004c5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CF73201~faq-00004c5-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:49:51.537034"
+        },
+        {
+          "question": "An area I highlighted with a fluorescent (or neon) marker does not appear in my scan. What should I do?",
+          "answer": "Try using a non-fluorescent marker. This limitation occurs with some scanners that use a contact image sensor (CIS) and cannot detect fluorescent marks accurately, especially yellow marks.\nIf you need to scan a document with fluorescent marks, we recommend you use a scanner with charge-coupled device (CCD) technology or a full-color contact image sensor, both of which can detect fluorescent marks. The following Epson products feature CCD or full-color CIS optics:\nDS-30000\nDS-32000\nWorkForce DS-50000\nWorkForce DS-60000\nWorkForce DS-70000",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00008c5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CF73201~faq-00008c5-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:49:52.585492"
+        },
+        {
+          "question": "What security measures does Epson recommend for its network products?",
+          "answer": "To help deter unauthorized access to your product over a network, you should protect your network environment using appropriate security measures.\nSecurity measures such as these can help deter threats such as loss of user data, use of telephone and fax lines, and other intrusions:\nEnable security on your wireless LAN if your product supports a wireless connection\nEnable the appropriate security on the wireless LAN you plan to use with your product. Network security, such as a network password, can deter interception of traffic over the wireless LAN. Your router may already have a default password enabled by your Internet service provider (ISP). See your ISP and router documentation for instructions on how to change the default password and better secure your network.\nConnect your product only to a network protected by a firewall\nConnecting your product directly to the Internet may leave it vulnerable to security threats. Instead, connect it to a router or other networking device protected by a firewall. Your router may already have a firewall set up by your Internet service provider; check with your ISP for confirmation. For best results, set up and use a private IP address for your network connection.\nChange the default administrator password on your product\nIf your product has an option to set an administrator password, change the default administrator password to deter access by unauthorized users to personal data stored on your product, such as IDs, passwords, and contact lists. See the product's User's Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-0000a05-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CF73201~faq-0000a05-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:49:53.755306"
+        },
+        {
+          "question": "Where can I find the IP address of my router?",
+          "answer": "Most wireless routers have a default IP address that can usually be found in the router's documentation.\nFor more support on your router, contact the manufacturer of your router.\nYou can also print a network status sheet from your printer's control panel to find your router's IP address.\nNote:\nThe network status sheet will list your router’s IP address only if you have set up your printer with a network connection to the router. If you print a network status sheet before setup, the router's IP address will not be listed on the network status sheet.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00004c0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CF73201~faq-00004c0-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:49:54.775171"
+        },
+        {
+          "question": "I filled an ink tank with the wrong ink color. What should I do?",
+          "answer": "Contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00004aa-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CF73201~faq-00004aa-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:49:55.872998"
+        },
+        {
+          "question": "Where can I find information on using my Epson product with Google Cloud Print?",
+          "answer": "See our\nGoogle Cloud Print Support\npage.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-000049e-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CF73201~faq-000049e-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:49:56.938646"
+        },
+        {
+          "question": "How do I decide which resolution to select when I scan from Epson Scan 2?",
+          "answer": "Use the guidelines below to select the resolution setting based on how you will use the scanned image.\nE-mail/view on a computer screen/post on the web\n: 96 to 200 dpi\nPrint/Fax/Convert to editable text (OCR)/create searchable PDF\n: 200 to 300 dpi\nNote:\nHigher resolution settings result in larger file sizes. For example, an 8.5 × 11-inch original scanned at 300 dpi can produce a 24MB file. The same original scanned at 72 dpi produces a 1.3MB file. Large files take longer to process and print, so consider the practical limitations of your computer system when selecting a resolution. To keep your file size manageable, select the lowest possible resolution that gives acceptable quality.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00009d0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CF73201~faq-00009d0-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:49:57.970056"
+        },
+        {
+          "question": "I see the message Unable to connect to the server. Please try again later. when I try to install the Drivers and Utilities Combo Package Installer. What should I do?",
+          "answer": "Make sure your computer has an Internet connection and try installing the software again. If the same message appears, then do the following:\nGo to the Downloads tab on your product's support page.\nDownload and save the Drivers and Utilities Combo Package Installer to your computer.\nMake a note of the file name and save the location so you can easily retrieve it.\nRight-click the file and select\nRun as Administrator\n.\nThe software should install.\nNote:\nYou can also try to install the drivers and utilities individually.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-000094f-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CF73201~faq-000094f-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:49:59.605172"
+        },
+        {
+          "question": "How do I find my SSID and network password?",
+          "answer": "In most cases, the software installer will automatically set up your wireless connection, so you don't need to know your SSID and password. However, if it cannot determine your SSID or password, you will be prompted to set up your wireless connection manually.\nCheck your router documentation for this information. Most routers have a default SSID and password that can be modified once the router is set up.\nNote:\nThe SSID is the name of the wireless network that is set up on your router or access point.\nIf you don't know this information, you need to contact the manufacturer of your router or the person who set up your network.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00009c6-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CF73201~faq-00009c6-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:00.540346"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Cloud or Mobile",
+      "section_id": "8796127340620",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Can I print from a Fire OS device to my Epson product?",
+          "answer": "Yes. See our\nFire OS Printing\npage for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-000049B-et3600?faq_cat=faq-8796127340620",
+          "faq_slug": "SPT_C11CF73201~faq-000049B-et3600",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:01.596986"
+        },
+        {
+          "question": "What is Epson Connect?",
+          "answer": "Epson Connect provides mobile services that allow you to print and scan from anywhere with an Internet connection. Epson Connect includes the following solutions:\nEpson Email Print\n- Print your photos and documents from anywhere by simply sending an email. See\nEpson Email Print\nfor more information.\nEpson Remote Print\n- Print remotely over the Internet. See\nEpson Remote Print\nfor more information.\nEpson Scan to Cloud\n- Scan your documents and photos to an online storage account. See\nEpson Scan to Cloud\nfor more information.\nEpson iPrint\n- A wireless printing app for iOS or Android smartphones and tablets. See\nEpson iPrint for iOS\nor\nEpson iPrint for Android\nfor more information.\nNote:\nYour product may not support all of the Epson Connect features or services. Check your product's online User's Guide to see which features your product supports.\nRelated information\nEpson Connect Solutions for Smartphones, Tablets, and More",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-000049D-et3600?faq_cat=faq-8796127340620",
+          "faq_slug": "SPT_C11CF73201~faq-000049D-et3600",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:02.612624"
+        },
+        {
+          "question": "Where can I find information on using my Epson product with Google Cloud Print?",
+          "answer": "See our\nGoogle Cloud Print Support\npage.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-000049e-shared?faq_cat=faq-8796127340620",
+          "faq_slug": "SPT_C11CF73201~faq-000049e-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:03.977668"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "How do I set up my product for the fastest printing?",
+          "answer": "If printing becomes slow, try these solutions:\nMake sure your system meets the requirements for your operating system. If you are printing a high-resolution image, you may need more than the minimum requirements. If necessary, increase your system's memory.\nIf you are using Windows 7, close the\nDevices and Printers\nwindow before you print.\nIf you are using OS X, make sure you download and install the Epson printer driver.\nMake sure\nQuiet Mode\nis turned off.\nClear space on your hard drive or run a defragmentation utility to free up existing space.\nClose any programs you are not using when you print.\nIf your product is connected to a USB hub, connect it directly to your computer instead.\nIf printing becomes slower after printing continuously for a long time, the product may have automatically slowed down to protect the print mechanism from overheating or becoming damaged. Let the product rest with the power on for 30 minutes, then try printing again.\nFor the fastest printing, select the following settings in your product software:\nMake sure the paper type setting matches the type of paper you loaded.\nTurn on any high speed settings in your product software.\nSelect a lower print quality setting.\nMake sure the ink drying time has not been increased for double-sided printing.\nWindows\n: Click the\nMaintenance\nor\nUtility\ntab, select\nExtended Settings\nor\nSpeed and Progress\n, and select the following settings:\nAlways Spool RAW Datatype\nPage Rendering Mode\nPrint as Bitmap\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Extended Settings - Windows\nSelecting Basic Print Settings - OS X\nSelecting Printing Preferences - OS X\nRelated references\nWindows System Requirements\nOS X System Requirements\nPaper or Media Type Settings - Product Software",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297843?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CF73201~faq-297843",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:04.971162"
+        },
+        {
+          "question": "How do I copy a document or photo using the product's control panel?",
+          "answer": "See below.\nCopying Documents or Photos\nYou can copy documents or photos onto various sizes and types of paper, including Epson special papers.\nPlace your original document or photo on the scanner glass.\nLoad the paper you want to print on.\nPress the down arrow button, select\nCopy\n, and press the\nOK\nbutton. You see a screen like this:\nTo print more than one copy, enter the number of copies using the number keys or press the up or down arrow button.\nPress the\nOK\nbutton to view and change additional copy settings, if necessary. Then press the\nback button.\nWhen you are ready to copy, press one of the\nStart\nbuttons.\nNote:\nTo cancel printing, press the\nStop/Reset\nbutton or select\nCancel\n.\nRelated tasks\nLoading Paper in the Cassette\nRelated references\nPaper Loading Capacity\nAvailable Epson Papers\nRelated information\nPlacing Originals on the Product",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297845?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CF73201~faq-297845",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:06.090269"
+        },
+        {
+          "question": "How do I set my product's software to print only in Black or Grayscale from Windows or my Mac?",
+          "answer": "Open a document and follow the steps below for your operating system to select\nBlack/Grayscale\nor\nGrayscale\nin the printer driver.\nNote:\nTo keep the print head clear and ready to print, the printer uses a small amount of ink from all the ink tanks whenever it prints. Even if you select\nBlack/Grayscale\nor\nGrayscale\n, some color ink is still being used. Black/Grayscale or Grayscale is not recommended for printing black-and-white photos.\nNote:\nIf you see a message instructing you to refill the ink tanks, you need to refill the tanks before you can print. Visually check the ink levels in the product’s ink tanks to confirm the actual ink levels. Continued use of the product when the ink is expended could damage the product.\nWindows\nSelect the print command in your application.\nMake sure the product is selected.\nClick\nPrinter Properties\n,\nProperties\n, or\nPreferences\n.\nNote:\nIf you don't see these buttons, click\nSetup\n,\nPrinter\n, or\nOptions\n, and click\nPrinter Properties\n,\nProperties\n, or\nPreferences\non the next screen.\nClick the\nMain\ntab.\nSelect\nBlack/Grayscale\nas the\nColor\nsetting.\nClick\nOK\n.\nMac\nSelect the print command in your application.\nMake sure the product is selected.\nNote:\nClick the arrow next to the Printer setting or the\nShow Details\nbutton to expand the print window, if necessary.\nSelect\nPrint Settings\nfrom the printer options pop-up menu.\nSelect the\nGrayscale\ncheckbox.\nClick\nPrint\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00004F9-et3600?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CF73201~faq-00004F9-et3600",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:07.164655"
+        },
+        {
+          "question": "How do I print a multi-page document from Windows or my Mac so it stacks in the correct page order?",
+          "answer": "Open the document and follow the steps below for your operating system.\nWindows\nSelect the print command in your application.\nMake sure your product is selected.\nClick\nPrinter Properties\n,\nProperties\n, or\nPreferences\n.\nNote:\nIf you don't see these buttons, click\nSetup\n,\nPrinter\n, or\nOptions\n, and click\nPrinter Properties\n,\nProperties\n, or\nPreferences\non the next screen.\nClick the\nMain\ntab.\nSelect\nReverse Order\n.\nClick\nOK\n.\nMac\nSelect the print command in your application.\nMake sure your product is selected. Click the arrow next to the Printer setting or the\nShow Details\nbutton to expand the print window, if necessary.\nSelect\nPaper Handling\nfrom the printer options pop-up menu.\nSelect\nReverse\nfor the Page Order setting.\nClick\nPrint\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-0000501-et3600?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CF73201~faq-0000501-et3600",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:08.205484"
+        },
+        {
+          "question": "Printing or scanning is slow over my wireless connection. What should I do?",
+          "answer": "Try the following:\nMove the computer and your Epson product closer to your wireless router or access point.\nDon't place the computer, product, or wireless access point near microwaves, cordless telephones, or other sources of wireless interference.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-0000503-et3600?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CF73201~faq-0000503-et3600",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:09.492922"
+        },
+        {
+          "question": "Printing is slow or the printer stops printing when I try to print from Windows or my Mac. What should I do?",
+          "answer": "Try the following:\nMake sure your system meets the requirements for your operating system. If you are printing a high-resolution image, you may need more than the minimum requirements. If necessary, increase your system's memory.\nIf you're using Windows 7, close the\nDevices and Printers\nwindow before you print.\nIf you are using a Mac, make sure you're using the Epson printer driver for your product, not an AirPrint driver.\nMake sure Quiet Mode is turned off.\nClear space on your hard drive or run the defragmentation utility to free up existing space.\nClose any programs that you're not using when you print.\nIf your product is connected to a USB hub, connect it directly to your computer instead.\nIf printing becomes slow after printing continuously for a long time, the product may automatically slow down to protect the print mechanism from overheating or becoming damaged. Let the product rest with the power on for 30 minutes, then try printing again.\nIf the steps above do not help, and you're using Windows 7, Windows Vista, or Windows XP, delete the\nEPAUDF01.AUD\nfile as described below.\nDo one of the following:\nWindows 7\nor\nWindows Vista\n: Click\nand select\nComputer\nor\nMy Computer\n. Double-click the\nC:\ndrive and open the folders\nProgramData\n>\nEPSON\n>\nPRINTER\n.\nNote:\nIf you don't see the ProgramData folder, select\nFolder and search options\nfrom the Organize menu. A new window appears. Click the\nView\ntab and select\nShow hidden files, folders, and drives\nin the Advanced settings. Click\nOK\n.\nWindows XP\n: Click\nStart\nand select\nMy Computer\n. Double-click the\nC:\ndrive and open the folders\nDocuments and Settings\n>\nAll Users\n>\nApplication Data\n>\nEPSON\n>\nPRINTER\n.\nNote:\nIf you don't see the Application Data folder, select\nFolder Options\nfrom the Tools menu. A new window appears. Click the\nView\ntab and select\nShow hidden files, folders, and drives\nin the Advanced settings. Click\nOK\n.\nRight-click the\nEPAUDF01.AUD\nfile and select\nDelete\n.\nRestart your computer.\nTry printing again.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00004C6-et3600?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CF73201~faq-00004C6-et3600",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:10.573229"
+        },
+        {
+          "question": "How do I set the  default print settings when I print from Windows or my Mac?",
+          "answer": "When you change your print settings from within a program, the changes apply only while you're printing from the open program. To set default settings for all your programs, follow the steps below for your operating system.\nWindows\nDo one of the following:\nWindows 10\n: Right-click\nand select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your product name and select\nPrinting Preferences\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows XP\n: Click\nStart\nand select\nControl Panel\n(or point to\nSettings\nand select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the default settings you want to use.\nClick\nOK\n.\nMac\nOpen a document and select\nPrint\nfrom the File menu.\nMake sure your product is selected. Click the arrow next to the Printer setting or the\nShow Details\nbutton to expand the print window, if necessary.\nSelect the print settings you want to save.\nNote:\nSome options may not be saved as a preset.\nClick the\nPresets\npop-up menu and select\nSave As\nor\nSave Current Settings as Preset\n.\nEnter a name for your preset and choose whether this preset can be used with any printer or only with the currently selected printer.\nClick\nOK\n.\nWhen you are ready to print, click the\nPresets\npop-up menu, select your preset from the list, and click\nPrint\n. Once a preset has been selected, it will automatically be selected in the print dialog for future print jobs until another preset is selected. To revert to the default print settings, select\nStandard\nfrom the\nPresets\npop-up menu.\nIf you don't want to create a preset and simply want to print with the last print settings you selected, select\nLast Used Settings\nin the\nPresets\npop-up menu.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-0000500-et3600?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CF73201~faq-0000500-et3600",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:11.985324"
+        },
+        {
+          "question": "I see the message The paper source setting is invalid when making a copy from my product. What should I do?",
+          "answer": "This message is displayed when an unsupported paper size or paper type is selected for the paper source. The product supports copying on plain paper in these sizes:\nLetter (8.5 x 11 inches)\nA4 (8.3 x 11.7 inches)\nNote:\nWhen this message appears, press the right arrow button to see the supported paper sizes and paper types for the copy settings you've selected.\nTo change your paper source and copy settings, do the following:\nPress the\nhome button, if necessary.\nPress the up or down arrow button to select\nSetup\n, then press the\nOK\nbutton.\nPress the up or down arrow button to select\nPaper Setup\n, then press the\nOK\nbutton.\nPress the right arrow button to select your paper size. Select\nA4\nor\nLetter\n, then press the\nOK\nbutton.\nSelect\nPlain Paper\nas your paper type, then press the\nOK\nbutton.\nPress the\nhome button again, then press the up or down arrow button to select\nCopy\nand press the\nOK\nbutton.\nPress the\nOK\nbutton again to adjust the copy settings.\nNote:\nThe LCD displays the current copy settings.\nPress the\nback button.\nPress one of the\nStart\nbuttons to start copying.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00009C5-et3600?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CF73201~faq-00009C5-et3600",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:12.999015"
+        },
+        {
+          "question": "I was able to print from Windows before with a USB connection, but now I can't. What should I do?",
+          "answer": "The problem can be caused by your printer, the connection, or the computer. Do the following:\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these\ninstructions\n.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for\nerror messages\n. Clear any errors displayed on the product, then try printing a nozzle check pattern again. If you can print, go to the next step. Otherwise, contact Epson Support.\nDelete any pending print job(s) from the Epson print queue\n, then try printing again. If you can print, you're done, and you can skip the remaining steps. Otherwise, go to the next step.\nTurn off your product and make sure the USB cable is securely connected. Then turn on your product and try printing again.\nIf you still can't print, make sure the USB cable is a shielded cable no more than 6.5 feet (2 meters) long, connect the cable to another USB port on your computer, and/or use a different cable. Then try printing again.\nNote:\nIf you're using a hub or switchbox, connect the product directly to your computer.\nIf you can print now, you're done, and you can skip the remaining steps.\nIf you can't print, go to the next step.\nSet your product as the default printer. Do one of the following:\nWindows 10\n: Right-click\nand select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your product icon and select\nSet as Default Printer\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your product icon and select\nSet as Default Printer\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your product icon and select\nSet as Default Printer\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your product icon and select\nSet as Default Printer\n.\nWindows XP\n: Click\nStart\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n. Right-click your product icon and select\nSet as Default Printer\n.\nNote:\nIf there is more than one icon for your printer, select the icon that is not faded (or is in a Ready or Active state) to be your default printer. You can delete any duplicate icons that are faded or in an Offline state by right-clicking the icon and selecting\nDelete\n.\nIf you still can't print, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-0000912-et3600?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CF73201~faq-0000912-et3600",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:14.047616"
+        },
+        {
+          "question": "I was able to print from my Mac before with a USB connection, but now I can't. What should I do?",
+          "answer": "The problem can be caused by your printer, the connection, or the computer. Do the following:\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these\ninstructions\n.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for\nerror messages\n. Clear any errors displayed on the product, then try printing a nozzle check pattern again. If you can print, go to the next step. Otherwise, contact Epson Support.\nDelete any pending print job(s) from the Epson print queue\n, then try printing again. If you can print, you're done, and you can skip the remaining steps. Otherwise, go to the next step.\nOn your Mac, open the\nmenu and select\nSystem Preferences\n. Select\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n, select your printer, then click\nto remove the printer. Click\n, select your printer with Kind set as\nBonjour\n, select your printer from the Use drop-down list, then click\nAdd\n. This will add the printer back on the printer queue. Then try printing again. If you can print, you're done, and you can skip the remaining steps. Otherwise, go to the next step.\nTurn off your product and make sure the USB cable is securely connected. Then turn on your product and try printing again.\nNote:\nIf you're using a hub or switchbox, connect the product directly to your computer.\nIf you still can't print, make sure the USB cable is a shielded cable no more than 6.5 feet (2 meters) long, connect the cable to another USB port on your computer, and/or use a different cable. Then try printing again. If you can print, you're done. Otherwise, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-0000911-et3600?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CF73201~faq-0000911-et3600",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:15.007205"
+        },
+        {
+          "question": "How do I print labels in Microsoft Office?",
+          "answer": "See the\nCreate and print labels\npage on the Microsoft support site for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00004bd-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CF73201~faq-00004bd-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:15.991339"
+        },
+        {
+          "question": "I can print with a wireless connection on my home network, but not on a VPN (virtual private network). What should I do?",
+          "answer": "When you connect to a VPN, your computer is no longer communicating with your home (local) network, so it can't print to the product. Some VPNs allow for access to the local network. This depends on if your VPN supports the feature and is enabled. Consult with the supporter of your VPN software (such as your IT department) for help. Otherwise, disconnect from your VPN to connect to your home network again to print.\nNote:\nIf you set up your product with Epson Connect, you can use Epson Remote Print to print over the Internet from a VPN. To download the Epson Remote Print driver, see the Downloads tab on your product's support page.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-0000504-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CF73201~faq-0000504-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:14.485681"
+        },
+        {
+          "question": "It takes a long time to copy a document. What should I do?",
+          "answer": "Try copying your original with a lower quality setting. Do the following:\nPlace your original on the scanner glass.\nLoad the paper you want to print on in the product.\nNote:\nLoad only the recommended number of sheets.\nPress the\nhome button, if necessary.\nSelect\nCopy\n, then press\nOK\n. You see this screen:\nPress the\nOK\nbutton to change the settings.\nSelect\nQuality\n, then press\nOK\n.\nSelect\nText\nor\nText & Image\n, then press\nOK\n.\nWhen you are ready to copy, press one of the\nStart\nbuttons.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-0000511-et3600?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CF73201~faq-0000511-et3600",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:15.492592"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "I see the message Unable to connect to network scanner. Check the scanner, network, and connection settings. on my computer. What should I do?",
+          "answer": "Do the following:\nMake sure your product is connected to the same network as your computer.\nClick\nYes\nbeneath the error message. The Scanner Settings window appears.\nClick\nEnable Editing\nor\nif you see it, and then click\nYes\non the screen that appears.\nSelect your product from the list in the Scanner Settings window and click\nDelete\n.\nClick\nAdd\n. Make sure your product is selected as the Model in the screen that appears.\nSelect the IP address for your product.\nNote:\nIf nothing appears in the Search for Network box, make sure your product is connected to the same network as your computer. If your product is connected to the same network but the box is still blank, contact Epson Support.\nNote:\nIf you don't know your product's IP address, you can print a network status sheet from your product to obtain it.\nClick\nAdd\n.\nClick\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00004D9-et3600?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CF73201~faq-00004D9-et3600",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:16.448165"
+        },
+        {
+          "question": "I see the message Printer is Offline when I try to print with a wireless connection in Windows. What should I do?",
+          "answer": "The problem can be caused by your printer, computer, or wireless network. Do the following:\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these\ninstructions\n.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for\nerror messages\n. Clear any errors displayed on the product, then try printing a nozzle check pattern again. If you can print, go to the next step. Otherwise, contact Epson Support.\nDelete any pending print job(s) from the Epson print queue\n, then try printing again. If you can print, you're done, and you can skip the remaining steps. Otherwise, go to the next step.\nCheck your product's Wi-Fi indicator, and do one of the following:\nIf a wireless connection is established, unplug your router's power cord from the power outlet, wait a brief period, plug it back in, then try to print. If you can print, you're done. The problem was resolved by initializing your router. If you can't print, restart your computer, then try printing again. If these steps do not resolve your problem, contact Epson support.\nNote:\nYou may need to re-establish the connection for the other devices on your network after you initialize your router.\nIf a wireless connection is not established, follow the instructions in the\nReinstall the Product Software\nsection below.\nReinstall the Product Software\nReset your product's network settings. See these\ninstructions\n.\nTurn off the product and disconnect any interface cables.\nDo one of the following:\nWindows 10\n: Right-click\nand select\nControl Panel\n>\nSystem and Security\n>\nWindows Firewall\n. Disable the firewall.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nWindows Firewall\n. Disable the firewall.\nWindows (other versions)\n: Select\nor\nStart\n>\nControl Panel\n>\nSystem and Security\n>\nWindows Firewall\n. Disable the firewall.\nIf you have other firewall software enabled, you need to disable it also. If you don't know how to disable it, contact your firewall provider for help.\nNote:\nThis step is needed to install the product's software and complete the wireless setup. Remember to enable your firewall software after you complete the wireless setup.\nUninstall your product's software. See these\ninstructions\n.\nUnplug your router's power cord from the power outlet, wait a brief period, and then plug it back in.\nNote:\nYou may need to re-establish the connection for the other devices on your network.\nDownload and install the\nDrivers and Utilities Combo Package\nfrom the Downloads tab for your product. Open the file you downloaded and follow the on-screen instructions to install the software.\nNote:\nAfter you complete wireless setup, turn your firewall back on.\nIf this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-0000493-et3600?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CF73201~faq-0000493-et3600",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:17.462070"
+        },
+        {
+          "question": "I see the message Printer is Offline when I try to print with a wireless connection on my Mac. What should I do?",
+          "answer": "The problem can be caused by your printer, computer, or wireless network. Do the following:\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these\ninstructions\n.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for\nerror messages\n. Clear any errors displayed on the product, then try printing a nozzle check pattern again. If you can print, go to the next step, otherwise, contact Epson Support.\nDelete any pending print job(s) from the Epson print queue\n, then try printing again. If you can print, you're done, and you can skip the remaining steps. Otherwise, go to the next step.\nOn your Mac, open the\nmenu and select\nSystem Preferences\n. Select\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n, select your printer, then click\nto remove the printer. Click\n, select your printer with Kind set as\nBonjour\n, select your printer from the Use drop-down list, then click\nAdd\n. This will add the printer back on the printer queue. Then try printing again. If you can print, you're done, and you can skip the remaining steps. Otherwise, go to the next step.\nCheck your product's Wi-Fi indicator, and do one of the following:\nIf a wireless connection is established, unplug your router's power cord from the power outlet, wait a brief period, plug it back in, then try to print. If you can print, you're done. The problem was resolved by initializing your router. If you can't print, restart your computer, then try printing again. If these steps do not resolve your problem, contact Epson support.\nNote:\nYou may need to re-establish the connection for the other devices on your network after you initialize your router.\nIf a wireless connection is not established, follow the instructions in the\nReinstall the Product Software\nsection below.\nReinstall the Product Software\nReset your product's network settings. See these\ninstructions\n.\nOn your Mac, open the\nmenu and select\nSystem Preferences\n. Select\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n, select your printer, and then click\nto remove the printer.\nOpen the\nmenu and select\nSystem Preferences\n, then click either\nSecurity & Privacy\nor\nSecurity\n. Select the\nFirewall\ntab and disable the firewall.\nIf you have other firewall software enabled, you need to disable it also. If you don't know how to disable it, contact your firewall provider for help.\nNote:\nThis step is needed to install the product's software and complete the wireles setup. Remember to enable your firewall software after you complete the wireless setup.\nUnplug your router's power cord from the power outlet, wait a brief period, and then plug it back in.\nNote:\nYou may need to re-establish the connection for the other devices on your network.\nDownload and install the\nDrivers and Utilities Combo Package\nfrom the Downloads tab for your product. Open the file you downloaded and follow the on-screen instructions to install the software.\nNote:\nAfter you complete wireless setup, turn your firewall back on.\nIf this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-0000492-et3600?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CF73201~faq-0000492-et3600",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:18.513659"
+        },
+        {
+          "question": "I see the message Printer is Offline when I try to print with a USB connection in Windows. What should I do?",
+          "answer": "The problem can be caused by your printer, the connection, or the computer. Do the following:\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these\ninstructions\n.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for\nerror messages\n. Clear any errors displayed on the product, then try printing a nozzle check pattern again. If you can print, go to the next step. Otherwise, contact Epson Support.\nDelete any pending print job(s) from the Epson print queue\n, then try printing again. If you can print, you're done, and you can skip the remaining steps. Otherwise, go to the next step.\nTurn off your product and make sure the USB cable is securely connected. Then turn on your product and try printing again.\nIf you still can't print, make sure the USB cable is a shielded cable no more than 6.5 feet (2 meters) long, connect the cable to another USB port on your computer, and/or use a different cable. Then try printing again.\nNote:\nIf you're using a hub or switchbox, connect the product directly to your computer.\nIf you can print now, you're done, and you can skip the remaining steps.\nIf you can't print, go to the next step.\nSet your product as the default printer. Do one of the following:\nWindows 10\n: Right-click\nand select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your product icon and select\nSet as Default Printer\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your product icon and select\nSet as Default Printer\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your product icon and select\nSet as Default Printer\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your product icon and select\nSet as Default Printer\n.\nWindows XP\n: Click\nStart\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n. Right-click your product icon and select\nSet as Default Printer\n.\nNote:\nIf there is more than one icon for your printer, select the icon that is not faded (or is in a Ready or Active state) to be your default printer. You can delete any duplicate icons that are faded or in an Offline state by right-clicking the icon and selecting\nDelete\n.\nIf you still can't print, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00009CA-et3600?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CF73201~faq-00009CA-et3600",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:19.506159"
+        },
+        {
+          "question": "I see the message Printer is Offline when I try to print with a USB connection on my Mac. What should I do?",
+          "answer": "The problem can be caused by your printer, the connection, or the computer. Do the following:\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these\ninstructions\n.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for\nerror messages\n. Clear any errors displayed on the product, then try printing a nozzle check pattern again. If you can print, go to the next step. Otherwise, contact Epson Support.\nDelete any pending print job(s) from the Epson print queue\n, then try printing again. If you can print, you're done, and you can skip the remaining steps. Otherwise, go to the next step.\nOn your Mac, open the\nmenu and select\nSystem Preferences\n. Select\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n, select your printer, then click\nto remove the printer. Click\n, select your printer with Kind set as\nBonjour\n, select your printer from the Use drop-down list, then click\nAdd\n. This will add the printer back on the printer queue. Then try printing again. If you can print, you're done, and you can skip the remaining steps. Otherwise, go to the next step.\nTurn off your product and make sure the USB cable is securely connected. Then turn on your product and try printing again.\nNote:\nIf you're using a hub or switchbox, connect the product directly to your computer.\nIf you still can't print, make sure the USB cable is a shielded cable no more than 6.5 feet (2 meters) long, connect the cable to another USB port on your computer, and/or use a different cable. Then try printing again. If you can print, you're done. Otherwise, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00009C9-et3600?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CF73201~faq-00009C9-et3600",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:21.902095"
+        },
+        {
+          "question": "I see the message Printer is Offline when I try to print with an Ethernet connection in Windows. What should I do?",
+          "answer": "The problem can be caused by your printer or computer. Do the following:\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these\ninstructions\n.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for\nerror messages\n. Clear any errors displayed on the product, then try printing a nozzle check pattern again. If you can print, go to the next step. Otherwise, contact Epson Support.\nDelete any pending print job(s) from the Epson print queue\n, then try printing again. If you can print, you're done, and you can skip the remaining steps. Otherwise, go to the next step.\nSet your product as the default printer. Do one of the following:\nWindows 10\n: Right-click\nand select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your product icon and select\nSet as Default Printer\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer icon and select\nSet as Default Printer\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer icon and select\nSet as Default Printer\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer icon and select\nSet as Default Printer\nWindows XP\n: Click\nStart\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n. Right-click your printer icon and select\nSet as Default Printer\n.\nNote:\nIf there is more than one icon for your printer, select the icon that is not faded (or is in a Ready or Active state) to be your default printer. You can delete any duplicate icons that are faded or in an Offline state by right-clicking the icon and selecting\nDelete\n.\nIf you still can't print, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00009C8-et3600?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CF73201~faq-00009C8-et3600",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:23.033670"
+        },
+        {
+          "question": "I see the message Printer is Offline when I try to print with an Ethernet connection on my Mac. What should I do?",
+          "answer": "The problem can be caused by your printer or the computer. Do the following:\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these\ninstructions\n.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for\nerror messages\n. Clear any errors displayed on the product, then try printing a nozzle check pattern again. If you can print, go to the next step. Otherwise, contact Epson Support.\nDelete any pending print job(s) from the Epson print queue\n, then try printing again. If you can print, you're done, and you can skip the remaining steps. Otherwise, go to the next step.\nDelete and re-add the print queue.\nClick\n, select your printer with Kind set as\nBonjour\n, select your printer from the Use drop-down list, then click\nAdd\n. This will add the printer back on the printer queue. Then try printing again. If you can print, you're done. Otherwise, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00009C7-et3600?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CF73201~faq-00009C7-et3600",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:24.335595"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CF73201~faq-00004c5-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:25.274346"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Image Quality or Appearance",
+      "section_id": "8796127275084",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "An area I highlighted with a fluorescent (or neon) marker does not appear in my scan. What should I do?",
+          "answer": "Try using a non-fluorescent marker. This limitation occurs with some scanners that use a contact image sensor (CIS) and cannot detect fluorescent marks accurately, especially yellow marks.\nIf you need to scan a document with fluorescent marks, we recommend you use a scanner with charge-coupled device (CCD) technology or a full-color contact image sensor, both of which can detect fluorescent marks. The following Epson products feature CCD or full-color CIS optics:\nDS-30000\nDS-32000\nWorkForce DS-50000\nWorkForce DS-60000\nWorkForce DS-70000",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00008c5-shared?faq_cat=faq-8796127275084",
+          "faq_slug": "SPT_C11CF73201~faq-00008c5-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:26.377551"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "Are there any safety precautions I should take when handling the ink?",
+          "answer": "Yes, see below.\nInk Safety Precautions\nNote:\nThe product has a low ink alert system. The accuracy of this system depends on the user refilling the ink tanks correctly. The product cannot directly measure the ink levels in the tanks; instead it estimates the amount of ink remaining by internally monitoring ink usage. The low ink alert system may generate inaccurate messages if the ink tanks are not refilled according to these instructions.\nVisually check the ink levels in the product’s ink tanks to confirm the actual ink levels. Continued use of the product when the ink is expended could damage the product.\nInk Handling Precautions\nKeep ink bottles and the ink tank unit out of the reach of children. Do not allow children to drink from or handle the ink bottles and bottle caps.\nDo not tilt or shake an ink bottle after removing its seal; otherwise, ink may leak.\nIf ink gets on your skin, wash it thoroughly with soap and water. If ink gets into your eyes, flush them immediately with water. If ink gets into your mouth, spit it out immediately. Seek medical advice if problems persist.\nInk Refilling Precautions\nUse ink bottles with the correct part number for this product.\nDo not mix with other Epson ink types.\nThe use of non-Epson ink may cause damage that is not covered by Epson’s warranty, and under certain circumstances, may cause erratic product behavior.\nThis product requires careful handling of ink. Ink may splatter when the ink tanks are filled or refilled with ink. If ink gets on your clothes or belongings, it may not come off.\nDo not open the ink bottle package until you are ready to fill an ink tank. Ink bottles are vacuum packed to maintain reliability. If you leave an ink bottle unpacked for a long time before using it, print quality may be affected.\nVisually check the ink levels in the product’s ink tanks to confirm the actual ink levels. Continued use of the product when the ink is expended could damage the product.\nEpson recommends filling an ink tank to the upper line before resetting the ink level.\nFor optimum printing results, refill the ink tanks to the upper line at least once a year.\nAfter bringing an ink bottle inside from a cold storage site, allow it to warm up at room temperature for at least three hours before using it.\nStore ink bottles in a cool, dark place.\nStore the ink bottles in the same environment as the product. When storing or transporting an ink bottle after removing its seal, do not tilt the bottle and do not subject it to impacts or temperature changes. Otherwise, ink may leak even if the cap on the ink bottle is tightened securely. Be sure to keep the ink bottle upright when tightening the cap, and take measures to prevent ink from leaking when you transport the bottle.\nInk Bottle and Ink Tank Information\nTo maintain optimum print head performance, some ink is consumed from all ink tanks during printing and when performing maintenance operations, such as cleaning the print head.\nThe ink bottles may contain recycled materials, but this does not affect product function or performance.\nWhen printing in monochrome or grayscale, color ink may be used instead of black ink, depending on the paper type or print quality settings. This is because a mixture of color inks is used to create black.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297830?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CF73201~faq-297830",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:27.291794"
+        },
+        {
+          "question": "I see a message on the LCD screen prompting me to reset the ink levels, but the ink levels are not below the lower line on the ink tank. What should I do?",
+          "answer": "If you see a message on the LCD screen prompting you to reset the ink levels, do the following:\nRefill all of the ink tanks or the ink tanks indicated on the LCD screen all the way to the top.\nNote:\nDepending on the operating conditions, you may see the ink reset message even when there is still ink in the tanks.\nSelect the colors that you refilled on the LCD screen.\nFollow the instructions on the LCD screen to reset the ink levels.\nNote:\nThe product has a low ink alert system. The accuracy of this system depends on the user refilling the ink tanks correctly. The product cannot directly measure the ink levels in the tanks; instead it estimates the amount of ink remaining by internally monitoring ink usage. The low ink alert system may generate inaccurate messages if the ink tanks are not refilled according to these instructions.\nVisually check the ink levels in the product’s ink tanks to confirm the actual ink levels. Continued use of the product when the ink is expended could damage the product.\nRelated tasks\nRefilling the Ink Tanks",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297856?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CF73201~faq-297856",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:28.244692"
+        },
+        {
+          "question": "I cleaned the print head three times, but my printout still has white or dark lines running through it. What should I do?",
+          "answer": "If you still see white or dark lines or missing colors in your printouts, even after cleaning the print head several times, you can perform a Power Ink Flushing.\nNote:\nAfter a Power Ink Flushing, you must turn off the product and wait at least 12 hours before printing again.\nCaution:\nPower Ink Flushing consumes a lot of ink and should be performed only if necessary. Refill the ink tanks before performing a Power Ink Flushing. Power Ink Flushing affects the service life of the ink pads by causing them to reach their capacity sooner. When an ink pad reaches the end of its service life, the product stops printing and you must contact Epson for support.\nCaution:\nPower Ink Flushing affects the service life of the ink pads by causing them to reach their capacity sooner. When an ink pad reaches the end of its service life, the product stops printing and you must contact Epson for support.\nRelated information\nRefilling Ink\nFlushing the Ink Using a Computer Utility\nYou can use the Power Ink Flushing utility to flush the ink.\nNote:\nAfter a Power Ink Flushing, you must turn off the product and wait at least 12 hours before printing again.\nBefore you begin, make sure no product lights are indicating errors.\nDo one of the following:\nWindows\n: Access the Windows Desktop and right-click the product icon in the Windows taskbar and select\nPrinter Settings\n. Then click the\nMaintenance\ntab.\nMac\n: In the Apple menu or the Dock, select\nSystem Preferences\n. Select\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n, select your product, and select\nOptions & Supplies\n. Select\nUtility\nand select\nOpen Printer Utility\n.\nClick the\nPower Ink Flushing\nbutton. You see a window like this:\nFollow the on-screen instructions.\nWhen you finish the Power Ink Flushing, turn off the product and wait at least 12 hours before printing.\nPrint a document and check the print quality. If the print quality did not improve, contact Epson for support.\nRelated information\nRefilling Ink",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297851?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CF73201~faq-297851",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:29.305628"
+        },
+        {
+          "question": "How do I know when an ink tank needs to be refilled?",
+          "answer": "Follow the instructions below.\nChecking Ink Levels on Your Product\nTo confirm the actual ink levels, visually check the ink levels in the product’s ink tanks.\nNote:\nThe product has a low ink alert system. The accuracy of this system depends on the user refilling the ink tanks correctly. The product cannot directly measure the ink levels in the tanks; instead it estimates the amount of ink remaining by internally monitoring ink usage. The low ink alert system may generate inaccurate messages if the ink tanks are not refilled according to these instructions.\nVisually check the ink levels in the product’s ink tanks to confirm the actual ink levels. Continued use of the product when the ink is expended could damage the product.\nRelated tasks\nRefilling the Ink Tanks",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297855?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CF73201~faq-297855",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:30.310833"
+        },
+        {
+          "question": "Which Epson ink bottles should I use with this product?",
+          "answer": "See below.\nInk Bottle Part Numbers\nUse these part numbers when you order or purchase new ink bottles, and use the ink by the date printed on the package:\nInk color\nPart number\nBlack\n774\nCyan\n664\nMagenta\n664\nYellow\n664",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297860?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CF73201~faq-297860",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:31.283260"
+        },
+        {
+          "question": "How do I reset the ink levels for my product?",
+          "answer": "If you refilled the ink tanks but the ink levels shown in the printer software are still low, you can reset the ink levels from the product's control panel by following the steps below.\nNote:\nThe product has a low ink alert system. The accuracy of this system depends on the user refilling the ink tanks correctly. The product cannot directly measure the ink levels in the tanks; instead it estimates the amount of ink remaining by internally monitoring ink usage. The low ink alert system may generate inaccurate messages if the ink tanks are not refilled according to the instructions in the product's User's Guide.\nVisually check the ink levels in the product’s ink tanks to confirm the actual ink levels. Continued use of the product when the ink is expended could damage the product.\nPress the\nbutton, if necessary.\nPress the up or down arrow button to select\nSetup\n>\nMaintenance\n>\nReset Ink Levels\n.\nPress one of the\nStart\nbuttons, then press the\nOK\nbutton.\nPress the\nOK\nbutton again.\nPress the right or left arrow button to highlight the ink tank you refilled, then press the\nOK\nbutton to select it. Repeat for each ink tank color you refilled.\nPress one of the\nStart\nbuttons to reset the ink levels, then press the\nOK\nbutton when the reset is complete.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00004F0-et3600?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CF73201~faq-00004F0-et3600",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:32.304588"
+        },
+        {
+          "question": "I spilled ink. What should I do?",
+          "answer": "If ink spills, wipe it up immediately. To prevent the ink from spreading, blot the spill with a dry cloth, then quickly wipe it with a damp cloth. The ink will be hard to remove once it has dried. If the ink does not come off, try scrubbing it with the appropriate cleaning product where the ink spilled.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00004ab-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CF73201~faq-00004ab-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:33.554762"
+        },
+        {
+          "question": "I filled an ink tank with the wrong ink color. What should I do?",
+          "answer": "Contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00004aa-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CF73201~faq-00004aa-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:34.631083"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "My nozzle check pattern prints with gaps because the ink tanks are expended. What should I do?",
+          "answer": "You need to refill the ink tanks and flush the ink tubes. Refill the necessary ink tanks to the upper line on the tank, then follow the instructions on the LCD screen to select and reset the ink levels of the ink tanks you refilled. Then use your printer software to flush the ink tubes as instructed below.\nFlushing the Ink Using a Computer Utility\nYou can use the Power Ink Flushing utility to flush the ink.\nNote:\nAfter a Power Ink Flushing, you must turn off the product and wait at least 12 hours before printing again.\nBefore you begin, make sure no product lights are indicating errors.\nDo one of the following:\nWindows\n: Access the Windows Desktop and right-click the product icon in the Windows taskbar and select\nPrinter Settings\n. Then click the\nMaintenance\ntab.\nMac\n: In the Apple menu or the Dock, select\nSystem Preferences\n. Select\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n, select your product, and select\nOptions & Supplies\n. Select\nUtility\nand select\nOpen Printer Utility\n.\nClick the\nPower Ink Flushing\nbutton. You see a window like this:\nFollow the on-screen instructions.\nWhen you finish the Power Ink Flushing, turn off the product and wait at least 12 hours before printing.\nPrint a document and check the print quality. If the print quality did not improve, contact Epson for support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297852?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C11CF73201~faq-297852",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:35.621282"
+        },
+        {
+          "question": "How do I restore my product's default settings?",
+          "answer": "See below.\nResetting Control Panel Defaults\nIf you have a problem with settings on the product control panel, you can reset them to their factory defaults. You can choose which settings to reset or reset them all.\nPress the up or down arrow button, select\nSetup\n, and press the\nOK\nbutton.\nPress the down arrow button, select\nRestore Default Settings\n, and press the\nOK\nbutton. You see this screen:\nPress the up or down arrow button to select one of these options and press the\nOK\nbutton.\nNetwork Settings\n: Restores all of the default network settings.\nClear All Data and Settings\n: Restores all of the default settings and resets contact and network data on the control panel.\nYou see a confirmation screen.\nPress the up arrow button to reset the selected settings. Press the down arrow button if you want to cancel the operation.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297842?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C11CF73201~faq-297842",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:36.695708"
+        },
+        {
+          "question": "How do I refill the ink tanks?",
+          "answer": "Make sure you have new ink bottles handy and have read the ink safety precautions before you begin.\nYou can continue to use the product even if one or more ink tanks are not filled all the way. However, for the most accurate ink level monitoring, fill all the ink tanks up to the top line. For optimum printing results, refill the ink tanks to the upper line at least once a year.\nCaution:\nWear disposable gloves while refilling the ink tanks to avoid staining your hands. If ink spills, wipe it off immediately with a damp towel to avoid permanent stains. If ink gets on your clothes or belongings, it may not come off.\nPlace a sheet of paper or plastic under the ink tank unit, as ink may splatter.\nTurn on your product.\nIf you see a message on the LCD screen telling you to reset the ink levels, note the ink tanks that need refilling and press the\nOK\nbutton. Otherwise, select\nSetup\n>\nMaintenance\n>\nReset Ink Levels\nand press the\nStart\nColor\nbutton.\nOpen the ink tank unit cover, then remove the ink tank cap and place it in the holder shown here.\nNote:\nMake sure the color of the ink tank label matches the ink color you want to refill, and only remove the cap from that ink tank. Be careful not to spill any ink.\nSnap off the tip of the bottle cap, but do not dispose of it so you can use it to seal the bottle cap later, if necessary. Then remove the bottle cap and carefully remove the protective seal (avoid touching the ink underneath the seal). Close the bottle cap tightly.\nCaution:\nClose the bottle cap tightly; otherwise, ink may leak.\nWarning:\nIf ink gets on your skin, wash it thoroughly with soap and water. If ink gets into your eyes, flush them immediately with water. If ink gets into your mouth, spit it out immediately. Seek medical advice if problems persist. Keep the ink bottles out of the reach of children and do not drink the ink.\nRefill the ink tank with the correct color ink up to the upper line on the ink tank.\nIf any ink remains in the ink bottle after filling the ink tank, place the bottle cap tip securely on the bottle cap and store the ink bottle upright for later use.\nReplace the ink tank cap securely.\nRepeat the previous steps as necessary for each ink tank you need to refill.\nClose the ink tank unit cover.\nPress the\nOK\nbutton twice. You see this screen:\nPress the left or right arrow buttons to highlight the ink tank you refilled and press the\nOK\nbutton to select it. Repeat for each ink tank color you refilled.\nPress the\nStart\nColor\nbutton when you are done to reset the ink levels.\nNote:\nThe product has a low ink alert system. The accuracy of this system depends on the user refilling the ink tanks correctly. The product cannot directly measure the ink levels in the tanks; instead it estimates the amount of ink remaining by internally monitoring ink usage. The low ink alert system may generate inaccurate messages if the ink tanks are not refilled according to these instructions.\nVisually check the ink levels in the product’s ink tanks to confirm the actual ink levels. Continued use of the product when the ink is expended could damage the product.\nRelated concepts\nPurchase Epson Ink",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297854?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C11CF73201~faq-297854",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:37.714345"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "I'm having paper feed problems. What should I do?",
+          "answer": "If you have problems feeding paper, try these solutions:\nMake sure the paper cassette is inserted all the way in the printer.\nIf paper does not feed correctly, remove and reload it in the cassette and adjust the edge guides. Make sure the paper stack is not above the tab on the edge guides inside the cassette.\nIf multiple pages feed at once, remove the paper, fan the edges to separate the sheets, and reload it.\nDo not load more than the recommended number of sheets.\nMake sure your paper meets the specifications for your product.\nIf paper jams when you print on both sides of the paper, try loading fewer sheets.\nFor best results, follow these guidelines:\nUse new, smooth, high-quality paper that is not curled, creased, old, too thin, or too thick.\nLoad paper in the cassette printable side down.\nFollow any special loading instructions that came with the paper.\nRelated tasks\nLoading Paper in the Cassette\nRelated references\nPaper Jam Problems Inside the Product\nPaper Jam Problems in the Paper Cassette\nPaper Jam Problems in the Duplexer (Rear Cover)\nPaper Loading Capacity",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297829?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CF73201~faq-297829",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:38.700894"
+        },
+        {
+          "question": "How do I know which paper or media type to select in my product's driver?",
+          "answer": "See the table below.\nPaper or Media Type Settings - Product Software\nFor this paper\nSelect this Paper Type or Media Type setting\nPlain paper\nEpson Bright White Paper\nPlain Paper/Bright White Paper\nEpson Premium Photo Paper Glossy\nPremium Photo Paper Glossy\nEpson Presentation Paper Matte\nEpson Premium Presentation Paper Matte\nPremium Presentation Paper Matte\nEnvelope\nEnvelope",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297844?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CF73201~faq-297844",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:39.669720"
+        },
+        {
+          "question": "Does the type of paper I use really make a difference?",
+          "answer": "The type of paper you choose affects the way your printout looks, so be sure to select the correct paper for your print job. If you are just making a copy or printing a rough draft of an image, plain paper is fine. However, for the best results, you'll want to use one of Epson's special ink jet papers. For example, your photos will look great printed on\nEpson Premium Photo Paper Glossy\n.\nAvailable Epson Papers\nNote:\nPaper/media availability varies by country.\nPaper Type\nSize\nPart number\nSheet count\nEpson Bright White Paper\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041586\n500\nEpson Premium Presentation Paper Matte\n8 × 10 inches (203 × 254 mm)\nS041467\n50\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041257\nS042180\n50\n100\nEpson Presentation Paper Matte\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041062\n100\nEpson Premium Photo Paper Glossy\n4 × 6 inches (102 × 152 mm)\nS041727\n100\n5 × 7 inches (127 × 178 mm)\nS041464\n20\n8 × 10 inches (203 × 254 mm)\nS041465\n20\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042183\nS041667\n25\n50",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297850?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CF73201~faq-297850",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:40.743316"
+        },
+        {
+          "question": "How should I load envelopes?",
+          "answer": "See below.\nLoading Paper in the Cassette\nYou can print documents on a variety of paper types and sizes.\nClose the paper stopper and output tray, if necessary.\nPull out the paper cassette.\nSlide the edge guides outward.\nNote:\nIf you are using legal-size paper or larger, press the button and extend the paper cassette.\nSlide the edge guide to your paper size.\nDo one of the following:\nInsert paper in the cassette with the glossy or printable side facedown.\nInsert up to 10 envelopes, printable side facedown and flap edge right, as shown.\nLoad a sheet of loose-leaf or other paper with holes as shown.\nNote:\nDo not select automatic 2-sided printing for this type of paper.\nNote:\nMake sure the paper is loaded against the front edge guide and not sticking out from the rear of the cassette.\nSlide the edge guides against the paper, but not too tightly.\nNote:\nMake sure the paper fits under the tabs on the edge guides.\nKeep the cassette flat as you insert it.\nNote:\nThe paper may slide forward slightly as you insert the cassette. This is normal.\nIf prompted by the product's LCD screen, select the size and type of the paper you loaded and press the\nOK\nbutton.\nExtend the output tray and open the paper stopper.\nNote:\nIf you are using legal-size or longer paper, do not open the paper stopper. Do not remove or insert the paper cassette during printing.\nAlways follow these paper loading guidelines:\nLoad only the recommended number of sheets.\nLoad paper short edge first and printable side facedown.\nMake sure the paper is under the tabs on the edge guides and not sticking out from the rear end of the cassette.\nIf you have trouble loading a stack of envelopes, press each envelope flat before loading it or load one envelope at a time.\nIf print quality declines when printing multiple envelopes, try loading one envelope at a time.\nLoad letterhead or pre-printed paper top edge first.\nCheck the paper package for any additional loading instructions.\nRelated references\nPaper Loading Capacity\nPaper Specifications\nAvailable Epson Papers\nRelated information\nSolving Paper Problems",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297833?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CF73201~faq-297833",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:41.735743"
+        },
+        {
+          "question": "Which type of paper can I print on?",
+          "answer": "You can use plain paper; however, for the best results, you'll want to use one of Epson's special inkjet papers.\nNote:\nInkjet transparencies and vellum paper are not supported. You can load one sheet of binder paper with holes on one of the long edges as shown. Do not select automatic 2-sided printing for this type of paper.\nAvailable Epson Papers\nNote:\nPaper/media availability varies by country.\nPaper Type\nSize\nPart number\nSheet count\nEpson Bright White Paper\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041586\n500\nEpson Premium Presentation Paper Matte\n8 × 10 inches (203 × 254 mm)\nS041467\n50\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041257\nS042180\n50\n100\nEpson Presentation Paper Matte\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041062\n100\nEpson Premium Photo Paper Glossy\n4 × 6 inches (102 × 152 mm)\nS041727\n100\n5 × 7 inches (127 × 178 mm)\nS041464\n20\n8 × 10 inches (203 × 254 mm)\nS041465\n20\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042183\nS041667\n25\n50",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00004F2-et3600?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CF73201~faq-00004F2-et3600",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:42.880838"
+        },
+        {
+          "question": "How do I create a custom paper size for my product in Windows?",
+          "answer": "Do the following:\nOpen a photo or document for printing.\nSelect the print command in your application.\nNote:\nYou may need to select a print icon on your screen, the\nPrint\noption in the\nFile\nmenu, or another command. See your application's help utility for details.\nIf necessary, select your product name as the printer you want to use.\nNote:\nYou may also need to select\nProperties\nor\nPreferences\nto view your print settings.\nYou see the Main tab of your printer settings window.\nSelect\nUser-Defined\nin the Document Size drop-down list. The User-Defined Paper Size window appears.\nNote:\nThis option may not be available for all paper sources.\nEnter a Paper Size Name, then select the Paper Width and Paper Height.\nClick\nSave\nand\nOK\n.\nClick\nOK\nagain. The new size is created, and you can select it from the Document Size drop-down list.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00004F4-et3600?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CF73201~faq-00004F4-et3600",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:44.069885"
+        },
+        {
+          "question": "Can the product print on CDs and DVDs?",
+          "answer": "No, this product does not support this feature.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00004b5-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CF73201~faq-00004b5-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:45.030731"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "My printout is grainy when I print from any application. What should I do?",
+          "answer": "If your printouts are grainy, try these solutions:\nMake sure you loaded the printable side of the paper correctly for your product.\nSelect a higher print quality setting and turn off any high speed settings in your product software.\nRun a nozzle check to see if any of the print head nozzles are clogged. Then clean the print head, if necessary.\nAlign the print head.\nYou may need to increase the image resolution or print a smaller size; see your software documentation.\nNote:\nImages from the Internet may be low resolution and not result in a high quality printout.\nIf you enlarged the image in an image-editing program, you need to increase the resolution setting to retain a high image quality. Increase the resolution by the same amount you increased the image size. For example, if the resolution is 300 dpi (dots per inch) and you will double the image size later, change the resolution setting to 600 dpi.\nNote:\nHigher resolution settings result in larger file sizes, which take longer to process and print. Consider the limitations of your computer system when selecting a resolution, and select the lowest possible resolution that produces acceptable quality to keep file sizes manageable.\nRelated concepts\nPrint Head Nozzle Check\nPrint Head Cleaning\nPrint Head Alignment\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Additional Layout and Print Options - Windows\nSelecting Basic Print Settings - OS X\nSelecting Printing Preferences - OS X",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297838?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CF73201~faq-297838",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:45.966371"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "If you notice white or dark lines in your prints (also called banding), try these solutions before you reprint:\nRun a nozzle check to see if any of the print head nozzles are clogged. Then clean the print head, if necessary.\nMake sure the paper type setting matches the type of paper you loaded.\nMake sure you loaded the printable side of the paper correctly for your product.\nTurn off any high speed settings in your product software.\nAlign the print head.\nYou may need to refill the ink. Visually check the ink levels.\nIf you have not used the product for a long time, run the Power Ink Flushing utility.\nNote:\nFlushing the ink tubes replaces all the ink inside the tubes, so flush the ink only if you cannot improve print quality by other means. See the ink flushing section for details.\nRelated concepts\nPrint Head Nozzle Check\nPrint Head Cleaning\nPrint Head Alignment\nPower Ink Flushing\nRelated tasks\nSelecting Additional Layout and Print Options - Windows\nSelecting Printing Preferences - OS X\nRelated references\nPaper or Media Type Settings - Product Software\nRelated information\nLoading Paper\nRefilling Ink",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297835?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CF73201~faq-297835",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:44.578657"
+        },
+        {
+          "question": "My printout has a slight slant. What should I do?",
+          "answer": "If your printouts are slanted, try these solutions:\nSlide the edge guides against the edges of the paper.\nSelect a higher print quality setting in your printer software.\nTurn off any high speed settings in your product software.\nAlign the print head.\nMake sure the product is not printing while tilted or at an angle.\nRelated concepts\nPrint Head Alignment\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Basic Print Settings - OS X\nRelated information\nLoading Paper",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297834?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CF73201~faq-297834",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:45.699089"
+        },
+        {
+          "question": "My printout has incorrect margins. What should I do?",
+          "answer": "If your printed page has incorrect margins, try these solutions:\nMake sure you selected the correct paper size settings in your printing program and printer software.\nMake sure you selected the correct margins for your paper size in your printing program.\nMake sure your paper is positioned correctly for feeding into the printer.\nYou can use the preview option in your printer software to check your margins before you print.\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Basic Print Settings - OS X\nSelecting Page Setup Settings - OS X\nRelated information\nLoading Paper",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297840?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CF73201~faq-297840",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:46.701776"
+        },
+        {
+          "question": "My printout looks inverted, as if viewed in a mirror. What should I do?",
+          "answer": "If your printed image is inverted unexpectedly, try these solutions:\nTurn off any mirror or inversion settings in your printing application.\nTurn off the\nMirror Image\n,\nFlip horizontally\n, or\nReverse page orientation\nsettings in your printer software. (This option has different names, depending on your operating system version.)\nRelated tasks\nSelecting Additional Layout and Print Options - Windows\nSelecting Basic Print Settings - OS X",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297841?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CF73201~faq-297841",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:47.752687"
+        },
+        {
+          "question": "My printout has incorrect colors. What should I do?",
+          "answer": "If your printouts have incorrect colors, try these solutions:\nMake sure the paper type setting matches the paper you loaded.\nMake sure the\nBlack/Grayscale\nor\nGrayscale\nsetting is not selected in your printer software.\nIf you selected\nStandard-Vivid\n(Windows) or\nNormal-Vivid\n(OS X) as the quality setting in the printer software, try selecting\nStandard\n(Windows) or\nNormal\n(OS X) instead.\nRun a nozzle check to see if any of the print head nozzles are clogged. Then clean the print head, if necessary.\nThe ink levels may be low and you may need to refill the ink. Visually check the ink levels. Also make sure you filled the tanks with the correct colors of ink.\nAfter you print, the colors in your printout need time to set as the ink dries. During this time, the colors may look different than you expect. To speed up drying time, do not stack your printouts on top of each other.\nYour printed colors can never exactly match your on-screen colors. However, you can use a color management system to get as close as possible. Try using the color management options in your printer software.\nFor best results, use genuine Epson ink and paper.\nIf you have not used the product for a long time, run the Power Ink Flushing utility.\nNote:\nFlushing the ink tubes replaces all the ink inside the tubes, so flush the ink only if you cannot improve print quality by other means. See the ink flushing section for details.\nRelated concepts\nPrint Head Nozzle Check\nPrint Head Cleaning\nPower Ink Flushing\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Additional Layout and Print Options - Windows\nSelecting Basic Print Settings - OS X\nManaging Color - OS X\nRelated references\nAvailable Epson Papers\nRelated information\nRefilling Ink",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297839?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CF73201~faq-297839",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:49.073844"
+        },
+        {
+          "question": "My image is blurry. What should I do?",
+          "answer": "If your printouts are blurry or smeared, try these solutions:\nMake sure your paper is not damp, curled, old, or loaded incorrectly in your product.\nUse a support sheet with special paper, or load special paper one sheet at a time.\nMake sure your paper meets the specifications for your product.\nUse Epson papers to ensure proper saturation and absorption of genuine Epson inks.\nMake sure the paper type setting in your product software matches the type of paper you loaded.\nMake sure you loaded the printable side of the paper correctly for your product.\nRemove each sheet from the output tray as it is printed.\nAvoid handling printouts on glossy paper right after printing to allow the ink to set.\nTurn off any high speed settings in your product software.\nIf you print on both sides of a sheet of paper, smudges may appear on the reverse side of heavily saturated or dark images. If one side of a sheet will contain a lighter image or text, print that side first. Adjust the\nPrint Density\nand/or\nIncrease Ink Drying Time\nsettings.\nIf printed copies are smeared, lower the copy density setting on the product control panel.\nRun a nozzle check to see if any of the print head nozzles are clogged. Then clean the print head, if necessary.\nAlign the print head.\nClean the paper path.\nIf you have not used the product for a long time, run the Power Ink Flushing utility.\nNote:\nFlushing the ink tubes replaces all the ink inside the tubes, so flush the ink only if you cannot improve print quality by other means. See the ink flushing section for details.\nNote:\nYour product will not operate properly while tilted at an angle. Place it on a flat, stable surface that extends beyond the base of the product in all directions.\nRelated concepts\nPrint Head Nozzle Check\nPrint Head Cleaning\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Additional Layout and Print Options - Windows\nSelecting Extended Settings - Windows\nSelecting Basic Print Settings - OS X\nSelecting Printing Preferences - OS X\nCleaning the Paper Path\nRelated references\nAvailable Epson Papers\nPaper Specifications",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297836?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CF73201~faq-297836",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:50.180950"
+        },
+        {
+          "question": "My printout contains garbled characters when I print from Windows or my Mac. What should I do?",
+          "answer": "If incorrect characters appear in your prints, try these solutions before reprinting:\nMake sure any cables are securely connected at both ends.\nIn Windows, delete all jobs from the Windows Spooler. Click\nPrint Queue\non the Maintenance tab in the printer settings window, and cancel any stalled print jobs.\nIf your product is connected to a USB hub, connect it directly to your computer instead.\nIf your computer entered sleep mode the last time you printed, the next print job after your computer exits sleep mode may contain garbled characters. Print your document again.\nIf incorrect characters still appear in your prints, try connecting your product using a different cable.\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Basic Print Settings - OS X\nSelecting Page Setup Settings - OS X",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297837?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CF73201~faq-297837",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:51.173895"
+        },
+        {
+          "question": "My product is printing blank pages. What should I do?",
+          "answer": "Several factors may cause the product to print blank pages, such as print settings, low ink, or the product itself.\nBefore printing, do the following:\nPlace the product on a flat, stable surface that extends beyond the base in all directions. The product won't operate properly if it's tilted or at an angle.\nMake sure you're using paper that meets the product's specifications.\nNote:\nTransparencies and vellum paper are not supported.\nTry printing again. If your print job prints correctly, you're done.\nIf you still see blank pages, make a copy of a document or photo and do one of the following:\nIf the copy is blank, print a nozzle check pattern to see if any of the nozzles are clogged. Clean the print head, if necessary.\nIf the copy is fine, check the following:\nMake sure the paper size, orientation, and layout settings in your printer software are correct.\nMake sure your document does not contain blank pages. If your printer software has a Preview option, check for blank pages in your document before you print and remove them, if necessary.\nIf you're printing from Windows or a Mac you can skip blank pages by selecting\nSkip Blank Page\nin your printer software. Follow the steps below for your operating system to select the setting.\nWindows\nDo one of the following:\nWindows 10\n: Right-click\nand select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your product name and select\nPrinting Preferences\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows XP\n: Click\nStart\nand select\nControl Panel\n(or point to\nSettings\nand select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n. Right-click your printer and select\nPrinting Preferences\n.\nClick the\nMaintenance\ntab and click the\nExtended Settings\nbutton.\nSelect\nSkip Blank Page\n.\nClick\nOK\nas necessary to save your settings.\nMac\nOpen the\nmenu and select\nSystem Preferences\n.\nSelect\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n, select your product, and then select\nOptions & Supplies\n.\nSelect\nDriver\nor\nOptions\n.\nYou see this screen:\nSet\nSkip Blank Page\nto\nOn\n.\nClick\nOK\n.\nRelated concepts\nPrint Head Maintenance\nPrint Head Cleaning",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-0000491-et3600?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CF73201~faq-0000491-et3600",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:52.222279"
+        },
+        {
+          "question": "How do I reduce the appearance of red eyes in my photos?",
+          "answer": "Turn on the\nFix Red-Eye\nsetting in the printer software or from the product's control panel, if available for your product.\nNote:\nDue to the complexity and nature of some photographs, not all images can be corrected. If the Fix Red-Eye setting does not fix the photo, you need to use a software application such as Adobe Photoshop or Adobe Elements to fix it.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00004b9-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CF73201~faq-00004b9-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:53.245912"
+        },
+        {
+          "question": "Web pages don't print the way they appear on my monitor. What should I do?",
+          "answer": "The pages may not print correctly due to the web page design. Try the following:\nCheck for a\nPrinter-friendly Version\n(or similarly named) option on the web page.\nChange the page setup and paper size settings, and select the preview option in your browser to check the changes before you print.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00004b8-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CF73201~faq-00004b8-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:54.217774"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Scan",
+      "section_id": "8796127569996",
+      "section_order": 9,
+      "faqs": [
+        {
+          "question": "How do I scan using my product's control panel?",
+          "answer": "See below.\nStarting a Scan Using the Product Control Panel\nYou can scan an image using your product's control panel buttons.\nYour product automatically selects suitable default scan settings, but you can view or change them as necessary.\nMake sure you installed the product software and connected the product to your computer or network.\nNote:\nRestart your computer after installing the product software to enable scanning from the control panel. Also make sure the Event Manager program is not being blocked by your firewall or security software.\nPress the up or down arrow button, select\nScan\n, and press the\nOK\nbutton. The scan options are displayed:\nPress the up or down arrow button to select a scan option and press the\nOK\nbutton.\nCloud\nsends your scanned files to a destination that you have registered with Epson Connect.\nComputer\nsaves your scan as a JPEG file to your computer or as an image capture in OS X.\nComputer (WSD)\nlets you manage network scanning in Windows 10, Windows 8.x, Windows 7, or Windows Vista (English only).\nNote:\nTo use this feature, you must first set up WSD (Web Services for Devices) on the Windows 7 or Windows Vista computer you want to scan to.\nTo scan to your computer, you first need to select how you connected your product to your computer:\nIf your product is connected directly to your computer with a USB cable, press the up or down arrow button to select\nUSB Connection\n.\nIf your product is connected to your computer over a network, press the up or down arrow button to select the computer name from the list and press the\nOK\nbutton to begin scanning.\nPress one of the\nStart\nbuttons to start scanning.\nRelated tasks\nUsing Epson Scan to Cloud",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297858?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CF73201~faq-297858",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:55.192423"
+        },
+        {
+          "question": "My scanning software doesn't work properly in Windows or on my Mac. What should I do?",
+          "answer": "If your scanning software does not operate correctly, try these solutions:\nMake sure your computer has adequate memory and meets the system requirements for your operating system.\nMake sure your computer is not running in a power-saving mode, such as sleep or standby. If so, wake your system and restart your scanning software.\nIf you upgraded your operating system but did not reinstall your scanning software, try reinstalling it.\nNote:\nWith OS X, in addition to scanning with Image Capture, you can download and install Epson Scan 2 scanning software. Epson Scan 2 provides additional image adjustment and photo correction features for enhancing scanned images, and provides an interface for TWAIN-compliant OCR scanning software. To download Epson Scan 2, visit Epson's driver download site (\nU.S. downloads\nor\nCanadian downloads\n).\nRelated concepts\nUninstall Your Product Software\nRelated references\nWindows System Requirements\nOS X System Requirements",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297848?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CF73201~faq-297848",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:56.293667"
+        },
+        {
+          "question": "I see a blank Scanner Settings window when I start Epson Scan 2. What should I do?",
+          "answer": "Make sure you installed Epson Scan 2 for your product. Then follow the steps below for your connection type.\nUSB connection\nClose the Scanner Settings window, then try the following:\nNote:\nStart Epson Scan 2 after you try each of the following solutions.\nMake sure your product is turned on and connected to your computer or USB hub.\nIf your product is connected to a USB hub, make sure the hub has its own AC adapter.\nConnect the USB cable directly to your computer.\nUse a different USB cable.\nEthernet or wireless connection\nClose the Scanner Settings window, then do the following:\nMake sure your product is connected to the same network as your computer.\nClick\nEnable Editing\nor\nif you see it, then click\nYes\non the screen that appears.\nClick\nAdd\n. Make sure your product is selected as the Model in the screen that appears.\nSelect the IP address for your product.\nNote:\nIf nothing appears in the Search for Network box, make sure your product is connected to the same network as your computer. If your product is connected to the same network but the box is still blank, contact Epson Support.\nNote:\nIf you don't know your product's IP address, you can print a network status sheet to obtain it.\nClick\nAdd\n.\nClick\nOK\n.\nYour product appears in the Scanner Settings window.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00004d7-et3600?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CF73201~faq-00004d7-et3600",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:57.323951"
+        },
+        {
+          "question": "I am unable to scan multiple images at once. What should I do?",
+          "answer": "Try the following:\nMake sure you position photos at least 0.8 inch (20 mm) apart from each other on the scanner glass.\nMake sure the scanner glass is clean. Clean the scanner glass with a soft, lint-free cloth (microfiber is recommended), moistened with a little glass cleaner. Paper towels are not recommended.\nCaution:\nDo not spray glass cleaner directly on the glass and do not press the glass surface with any force.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-0000506-et3600?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CF73201~faq-0000506-et3600",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:58.275687"
+        },
+        {
+          "question": "The quality of an image I scanned with Epson Scan 2 is poor. What should I do?",
+          "answer": "See the links below for solutions to your problem type.\nRelated references\nBack of Original Image Appears in Scanned Image\nImage Colors are Patchy at the Edges\nImage Consists of a Few Dots Only\nImage is Distorted or Blurry\nImage is Too Dark\nLine of Dots Appears in All Scanned Images\nStraight Lines in an Image Appear Crooked\nRipple Patterns Appear in an Image\nScanned Image Edges are Cropped\nScanned Image Colors Do Not Match Original Colors",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00004D8-et3600?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CF73201~faq-00004D8-et3600",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:50:59.640484"
+        },
+        {
+          "question": "The orientation of some pages change from portrait to landscape when I scan multiple pages with Epson Scan 2 and save them as a PDF. What should I do?",
+          "answer": "You can rotate the pages in your scan before saving it. Do the following:\nClick the\nMain Settings\ntab, if necessary, and do one of the following:\nIf you see a\nAdd or edit pages after scanning\ncheckbox, select it.\nIf you don't see a checkbox, select\nAdd or Edit Page\nin the\nAfter Scanning Option\ndrop-down list.\nClick\nScan\n.\nClick\nEdit\nin the screen that appears.\nSelect the page you want to rotate.\nClick\nor\nto rotate the page.\nClick\nAdd\nto add more pages to your scan or click\nFinish\nor\nSave\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00004da-et3600?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CF73201~faq-00004da-et3600",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:00.600464"
+        },
+        {
+          "question": "How do I decide which resolution to select when I scan from Epson Scan 2?",
+          "answer": "Use the guidelines below to select the resolution setting based on how you will use the scanned image.\nE-mail/view on a computer screen/post on the web\n: 96 to 200 dpi\nPrint/Fax/Convert to editable text (OCR)/create searchable PDF\n: 200 to 300 dpi\nNote:\nHigher resolution settings result in larger file sizes. For example, an 8.5 × 11-inch original scanned at 300 dpi can produce a 24MB file. The same original scanned at 72 dpi produces a 1.3MB file. Large files take longer to process and print, so consider the practical limitations of your computer system when selecting a resolution. To keep your file size manageable, select the lowest possible resolution that gives acceptable quality.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00009d0-shared?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CF73201~faq-00009d0-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:01.824166"
+        },
+        {
+          "question": "How do I enlarge an image I scanned with Epson Scan 2?",
+          "answer": "You can enlarge your image in third-party image-editing software. To create a high-quality image, increase the\nResolution\nsetting of your scan by the amount that you want to increase the image size. For example, if you plan to double the size of a 300 dpi image, select 600 dpi as the Resolution setting in Epson Scan 2. Open the image in image-editing software, double the size of the image, and set the print resolution to 300 dpi.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00009cf-shared?faq_cat=faq-8796127569996",
+          "faq_slug": "SPT_C11CF73201~faq-00009cf-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:02.782086"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 10,
+      "faqs": [
+        {
+          "question": "How do I set up my product with a WPS-enabled router or access point?",
+          "answer": "See below.\nUsing WPS to Connect to a Network\nIf you have a WPS-enabled wireless router or access point, you can use Wi-Fi Protected Setup (WPS) to connect your product to the network.\nPress the up or down arrow button, select\nWi-Fi Setup\n, and press the\nOK\nbutton. You see this screen:\nPress the down arrow button, select\nPush Button Setup (WPS)\n, and press the\nOK\nbutton.\nFollow the instructions on the LCD screen to complete WPS setup.\nPress the\nOK\nbutton to return to the Home screen. If the network connection is successful, the\nWi-Fi icon appears in the upper-right corner of the LCD screen.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297828?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF73201~faq-297828",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:03.813645"
+        },
+        {
+          "question": "How do I uninstall the Epson printer and Epson Scan 2 software in Windows or OS X?",
+          "answer": "Follow the instructions below for your operating system.\nUninstalling Product Software - Windows\nYou can uninstall and then re-install your product software to solve certain problems.\nTurn off the product.\nDisconnect any interface cables.\nDo one of the following:\nWindows 10\n: Right click\nand select\nControl Panel\n>\nPrograms\n>\nPrograms and Features\n. Select the uninstall option for your Epson product, then select\nUninstall/Change\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto confirm the uninstallation.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nPrograms\n>\nPrograms and Features\n. Select the uninstall option for your Epson product, then select\nUninstall/Change\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto confirm the uninstallation.\nWindows (other versions)\n: Click\nor\nStart\n, and select\nAll Programs\nor\nPrograms\n. Select\nEPSON\n, select your product, then click\nEPSON Printer Software Uninstall\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nIn the next window, select your product and click\nOK\n. Then follow any on-screen instructions.\nDo one of the following to uninstall Epson Event Manager, then follow any on-screen instructions:\nWindows 10\n: Select\nEpson Event Manager\nand click\nUninstall\n.\nWindows 8.x\n: Select\nEpson Event Manager\nand click\nUninstall\n.\nWindows 7/Windows Vista\n: Open the Windows\nControl Panel\nutility. Select\nPrograms and Features\n. (In Classic view, select\nPrograms\nand click\nUninstall a program\n.) Select\nEpson Event Manager\nand click\nUninstall/Change\n.\nWindows XP\n: Open the Windows\nControl Panel\nutility. Double-click\nAdd or Remove Programs\n. Select\nEpson Event Manager\nand click\nChange/Remove\n.\nDo one of the following to uninstall Epson Scan 2, then follow any on-screen instructions:\nWindows 10\n: Select\nEpson Scan\n2\nand click\nUninstall\n.\nWindows 8.x\n/\nWindows 7\n/\nWindows Vista:\nSelect\nEpson Scan\n2\nand click\nUninstall/Change\n.\nWindows XP\n: Select\nEpson Scan\n2\nand click\nChange/Remove\n.\nRestart your computer, then see the Start Here sheet to re-install your software.\nNote:\nIf you find that re-installing your product software does not solve a problem, contact Epson.\nUninstalling Product Software - OS X\nIn most cases, you do not need to uninstall your product software before re-installing it. However, you can download the Uninstaller utility from the Epson support website to uninstall your product software.\nNote:\nIf you find that re-installing your product software does not solve a problem, contact Epson.\nTo download the Uninstaller utility, see the Downloads tab.\nFollow the instructions on the screen to install the Uninstaller utility.\nQuit all applications currently running on your Mac.\nDouble-click the\nUninstaller\nicon.\nIn the Epson Uninstaller screen, select the checkbox for each software program you want to uninstall.\nClick\nUninstall\n.\nFollow the on-screen instructions to uninstall the software.\nReinstall your product software.\nNote:\nIf you uninstall the printer driver and your product name remains in the\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\nwindow, select your product name and click the\n–\n(remove) icon to remove it.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297859?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF73201~faq-297859",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:04.779667"
+        },
+        {
+          "question": "How do I enable double-sided printing for my product in Windows or on my Mac?",
+          "answer": "See below.\nSelecting Double-sided Printing Settings - Windows\nYou can print on both sides of the paper by selecting one of the\n2-Sided Printing\noptions on the Main tab.\nNote:\nSome options may be pre-selected or unavailable, depending on other settings you have chosen or if you are accessing the product over a network.\nSelect one of the following options for\n2-Sided Printing\n:\nAuto (Long-edge binding)\nto print your double-sided print job by automatically flipping the paper on the long edge.\nAuto (Short-edge binding)\nto print your double-sided print job by automatically flipping the paper on the short edge.\nManual (Long-edge binding)\nto print your double-sided print job by printing one side and prompting you to flip the paper over on the long edge to print the other side (recommended for paper types that do not support automatic duplexing).\nManual (Short-edge binding)\nto print your double-sided print job by printing one side and prompting you to flip the paper over on the short edge to print the other side (recommended for paper types that do not support automatic duplexing).\nClick the\nSettings\nbutton. You see this window:\nSelect the double-sided printing options you want to use.\nClick\nOK\nto return to the Main tab.\nClick the\nPrint Density\nbutton. You see this window:\nSelect the type of document you are printing as the Document Type setting. The software automatically sets the\nAdjustments\noptions for that document type.\nIf necessary, select the\nAdjustments\noptions you want to use.\nClick\nOK\nto return to the Main tab.\nPrint a test copy of your double-sided document to test the selected settings.\nFollow any instructions displayed on the screen during printing.\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Double-sided Printing Settings - OS X\nYou can print on both sides of the paper by selecting\nTwo-sided Printing Settings\nfrom the pop-up menu on the print window.\nNote:\nSome options may be pre-selected or unavailable, depending on other settings you have chosen or if you are accessing the product over a network. This screen may be different, depending on the version of OS X you are using.\nSelect one of the\nTwo-sided Printing\noptions.\nSelect the type of document you are printing as the\nDocument Type\nsetting. The software automatically sets the Adjustments options for that document type.\nIf necessary, customize the Adjustments settings as instructed on the screen.\nPrint a test copy of your double-sided document to test the selected settings.\nFollow any instructions displayed on the screen during printing.\nRelated tasks\nSelecting Basic Print Settings - OS X",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297857?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF73201~faq-297857",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:09.777128"
+        },
+        {
+          "question": "I can't start Epson Scan 2 in Windows or on my Mac. What should I do?",
+          "answer": "If you cannot start Epson Scan 2, try these solutions:\nMake sure your product is turned on and any interface cables are securely connected at both ends.\nMake sure Epson Scan 2 is selected as your scanning program.\nMake sure your computer is not running in a power-saving mode, such as sleep or standby. If so, wake your system and restart Epson Scan 2.\nCheck the connection setting and test the connection using Epson Scan 2 Utility:\nWindows 10:\nClick\nand select\nAll apps\n. Select\nEPSON\n, then select\nEpson Scan 2 Utility\n. Make sure the correct your product is selected. If necessary, select the\nOther\ntab and click\nReset\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nEpson Scan 2 Utility\n. Make sure the correct your product is selected. If necessary, select the\nOther\ntab and click\nReset\n.\nWindows (other versions)\n: Click\nor\nStart\n>\nAll Programs\nor\nPrograms\n>\nEPSON\n>\nEpson Scan 2\n>\nEpson Scan 2 Utility\n. Make sure the correct your product is selected. If necessary, select the\nOther\ntab and click\nReset\n.\nOS X\n: Open the\nApplications\nfolder, click\nEpson Software\n, and click\nEpson Scan 2 Utility\n. Make sure the correct your product is selected. If necessary, select the\nOther\ntab and click\nReset\n.\nMake sure you do not have multiple versions of Epson Scan installed. If you do, uninstall both versions and install one version.\nIf you upgraded your operating system but did not reinstall Epson Scan 2, try reinstalling it.\nNote:\nWith OS X, in addition to scanning with Image Capture, you can download and install Epson Scan 2 scanning software. Epson Scan 2 provides additional image adjustment and photo correction features for enhancing scanned images, and provides an interface for TWAIN-compliant OCR scanning software. To download Epson Scan 2, visit Epson's driver download site (\nU.S. downloads\nor\nCanadian downloads\n).\nRelated information\nStarting a Scan",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297849?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF73201~faq-297849",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:10.912516"
+        },
+        {
+          "question": "How do I change the Power Off Timer setting?",
+          "answer": "See below.\nChanging the Power Off Timer Settings\nYou can have the product turn off automatically if it is not used for a specified period of time.\nPress the down arrow button, select\nSetup\n, and press the\nOK\nbutton. You see a screen like this:\nPress the down arrow button, select\nCommon Settings\n, and press the\nOK\nbutton.\nPress the down arrow button, select\nPower Off Timer\n, and press the\nOK\nbutton.\nPress the down arrow button to select a time period between\n30minutes\nand\n12h\n(12 hours) or\nOff\n, and press the\nOK\nbutton.\nPress the\nhome button to exit.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297847?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF73201~faq-297847",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:11.900597"
+        },
+        {
+          "question": "How do I change the Sleep Timer setting?",
+          "answer": "See below.\nChanging the Sleep Timer Settings\nYou can adjust the time period before your product enters sleep mode and turns off the LCD screen.\nNote:\nThe Sleep Timer setting in Eco Mode overrides the Sleep Timer setting in Common Settings.\nPress the up or down arrow button, select\nSetup\n, and press the\nOK\nbutton.\nPress the down arrow button, select\nCommon Settings\n, and press the\nOK\nbutton.\nPress the down arrow button, select\nSleep Timer\n, and press the\nOK\nbutton. You see a screen like this:\nUse the numeric keypad to enter the number of minutes.\nPress the left or right arrow button to move the cursor as necessary.\nPress the\nOK\nbutton.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297846?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF73201~faq-297846",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:12.912066"
+        },
+        {
+          "question": "How do I set up my product for wireless printing in Windows or on my Mac?",
+          "answer": "See our helpful how-to\nvideo\non YouTube.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-0000502-et3600?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF73201~faq-0000502-et3600",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:13.894422"
+        },
+        {
+          "question": "Can I select a print resolution by indicating a specific DPI (dots per inch) setting?",
+          "answer": "No, the print resolution is determined by other driver settings.\nWindows\nThe\nPaper Type\nand\nQuality\nsettings determine the print resolution.\nMac\nThe\nMedia Type\nand\nPrint Quality\nsettings determine the print resolution.\nNote:\nTo access the resolution settings on your Mac, select\nPrint\nfrom the File menu. Then select\nPrint Settings\nfrom the pop-up menu.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00004FD-et3600?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF73201~faq-00004FD-et3600",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:14.867864"
+        },
+        {
+          "question": "Who do I contact for support on the software that came with my product?",
+          "answer": "Contact Epson for support for the product's driver(s) and any other software or utility listed on the Downloads tab for your product. If your product comes with third-party software, contact the software company for support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00004DB-et3600?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF73201~faq-00004DB-et3600",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:15.842047"
+        },
+        {
+          "question": "How do I install the software for my product if I don't have the CD?",
+          "answer": "Note:\nMac drivers are available via download only.\nYou can download the latest driver for your product from the Downloads tab on your product support page.\nIf you're using Windows RT, drivers will automatically install when you plug your product into the tablet's USB port or when you connect the tablet to the network where your product is connected.\nNote:\nOnly Epson drivers and utilities are available for download. If your product came with third-party software, the software is available only on the CD that came with the product.\nTo download and install the drivers and utilities, do the following:\nMake sure the product is not connected to your computer. (You will be prompted to connect it during the installation process, if necessary.)\nGo to the Downloads tab for your product and download the\nDrivers and Utilities Combo Package\nfor your operating system.\nNote:\nMake a note of the file name and its location so you can easily retrieve it.\nOpen the file you downloaded and follow the on-screen instructions to install the software.\nTo obtain a replacement copy of the software CD (stock permitting), please contact our Driver Fulfillment department at 562-276-4367 (U.S.) or 905-709-3839 (Canada). A charge for shipping and handling plus any applicable taxes may apply.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-000050C-et3600?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF73201~faq-000050C-et3600",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:14.275715"
+        },
+        {
+          "question": "The option for 2-Sided Printing (Windows) or Two-Sided Printing Settings (Mac) is gray or not available. What should I do?",
+          "answer": "Make sure you use a paper type and size that supports this feature. Automatic double-sided printing is only available if you select plain paper and these paper sizes in the printer software:\nLetter (8.5 x 11 inches [216 x 279 mm])\nLegal (8.5 x 14 inches [216 x 357 mm])\nA4 (8.3 x 11.7 inches [210 x 297 mm])\nNote:\nAutomatic double-sided printing is not supported on glossy, thick, and certain matte papers.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00004FB-et3600?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF73201~faq-00004FB-et3600",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:15.292550"
+        },
+        {
+          "question": "How can I get a replacement CD for my product?",
+          "answer": "To obtain a replacement copy of the software CD (stock permitting), please contact our Driver Fulfillment department at 562-276-4367 (U.S.) or 905-709-3839 (Canada). A charge for shipping and handling plus any applicable taxes may apply.\nNote:\nYou can download the latest driver for your product from the Downloads tab. Only the Epson drivers and utilities are available for download. If your product came with third-party software, the software is available only on the CD that came with the product.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-000050d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF73201~faq-000050d-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:16.389306"
+        },
+        {
+          "question": "Where can I find the IP address of my router?",
+          "answer": "Most wireless routers have a default IP address that can usually be found in the router's documentation.\nFor more support on your router, contact the manufacturer of your router.\nYou can also print a network status sheet from your printer's control panel to find your router's IP address.\nNote:\nThe network status sheet will list your router’s IP address only if you have set up your printer with a network connection to the router. If you print a network status sheet before setup, the router's IP address will not be listed on the network status sheet.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00004c0-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF73201~faq-00004c0-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:17.565205"
+        },
+        {
+          "question": "How do I add my product as an IP printer on my Mac?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n.\nSelect your printer, if necessary.\nClick\n+\nor\nAdd Printer, Scanner, or Fax\nand select\nIP\non the toolbar.\nSelect a protocol. If you do not know which protocol to choose, leave it as\nLine Printer Daemon-LPD\n.\nClick the\nAddress\nfield and enter your printer's IP address. You see the message\nGathering printer information\nas your Mac connects to the printer.\nClick\nAdd\nafter your printer appears in the Use field to create a printer queue. If your printer does not appear in the Use field, select\nAuto Select\nfrom the drop-down box.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00004ba-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF73201~faq-00004ba-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:18.519616"
+        },
+        {
+          "question": "How do I change the font size of text when I print from software in Windows?",
+          "answer": "You need to select the text or font size in the software you are printing from, not the printer driver. For detailed instructions, contact the company for the application you are printing from.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00004b7-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF73201~faq-00004b7-shared",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:19.511701"
+        },
+        {
+          "question": "Which Epson product software settings are not supported by Apple's AirPrint driver?",
+          "answer": "The following settings are not supported:\nBacklight Correction\nColor Restoration\nDescreening\nDust Removal\nQuiet Mode\nUnsharp Mask\nNote:\nTo use the settings listed above, install the Epson Drivers and Utilities Combo Package for your product. You can download and install the software from the Downloads tab on your product's support page.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-0000b30-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF73201~faq-0000b30-shared",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:20.476928"
+        },
+        {
+          "question": "What are the port numbers for Epson network printers (wired and wireless)?",
+          "answer": "See the table below.\nNote:\nNot all operations are supported by all products.\nService name\nProtocol type\nLocal/Remote port number\nControls these operations\nENPC\nUDP\n3289/Any port\nSearching for a product from applications such as printer or scanner drivers, or EpsonNet Config\nSNMP\nUDP\n161/Any port\nAcquiring and configuring MIB from applications such as printer or scanner drivers, or EpsonNet Config\nLPR\nTCP\n515/Any port\nForwarding LPR data\nRAW (Port9100)\nTCP\n9100/any port\nForwarding RAW data\nIPP/IPPS\nTCP\n631/Any port\nForwarding AirPrint data (IPP/IPPS printing)\nWSD\nTCP\nAny port/5357\nControlling WSD\nWS-Discovery\nUDP\n3702/Any port\nSearching for a product from WSD\nNetwork Scan\nTCP\n1865/Any port\nForwarding scan data from Document Capture Pro and Document Capture\nNetwork Push Scan\nTCP\nAny port/2968\nAcquiring job information on push scanning from Document Capture Pro and Document Capture\nNetwork Push Scan Discovery\nUDP\n2968/Any port\nSearching for a computer during push scanning from Document Capture Pro and Document Capture\nFTP Data (Local)\nTCP\n20/Any port\nForwarding FTP printing data to FTP server\nFTP Control (Local)\nTCP\n21/Any port\nControlling FTP printing to FTP server\nFTP Data (Remote)\nTCP\nAny port/20\nForwarding scan data and received fax data to FTP client; controls only an FTP server that uses remote port 20\nFTP Control (Remote)\nTCP\nAny port/21\nForwarding scan data and received fax data to FTP client\nCIFS (Local)*\nTCP\n445/Any port\nSharing a network folder on CIFS server\nCIFS (Remote)*\nTCP\nAny port/445\nForwarding scan data and received fax data to a folder on CIFS server\nNetBIOS Name Service (Local)\nUDP\n137/Any port\nSharing a network folder on CIFS server\nNetBIOS Datagram Service (local)\nUDP\n138/Any port\nNetBIOS Session Service (Local)\nTCP\n139/Any port\nNetBIOS Name Service (Remote)\nUDP\nAny port/137\nForwarding scan data and received fax to a folder on CIFS server\nNetBIOS Datagram Service (Remote)\nUDP\nAny port/138\nNetBIOS Service (Remote)\nTCP\nAny port/139\nHTTP (Local)\nTCP\n80/Any port\nForwarding Web Config and WSD data to a HTTP or HTTPS server\nHTTPS (Local)\nTCP\n443/Any port\nHTTP (Remote)\nTCP\nAny port/80\nCommunicating with Epson Connect or Chromebook Native Printing, firmware update, and root certificate update on a HTTP or HTTPS client\nHTTPS (Remote)\nTCP\nAny port/443\n* To control forwarding of scan and received fax data, share a network folder, or receive fax data from PC-Fax, select\nPort Number\nas the\nMethod of Choosing Port\noption and specify the port numbers for CIFS and NetBIOS.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-0000525-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF73201~faq-0000525-shared",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:21.440332"
+        },
+        {
+          "question": "I can't get Epson Status Monitor to work over my wireless network. What should I do?",
+          "answer": "If the product is not shared, make sure it is connected to the network wirelessly. Try moving your product or computer to a different location within range of your wireless network. Avoid placing the computer, product, or wireless access point near microwaves, cordless telephones, or other sources of wireless interference.\nIf the product is set up as a shared printer, Epson Status Monitor will not work and is not supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00004c7-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF73201~faq-00004c7-shared",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:22.446794"
+        },
+        {
+          "question": "I see the message Unable to connect to the server. Please try again later. when I try to install the Drivers and Utilities Combo Package Installer. What should I do?",
+          "answer": "Make sure your computer has an Internet connection and try installing the software again. If the same message appears, then do the following:\nGo to the Downloads tab on your product's support page.\nDownload and save the Drivers and Utilities Combo Package Installer to your computer.\nMake a note of the file name and save the location so you can easily retrieve it.\nRight-click the file and select\nRun as Administrator\n.\nThe software should install.\nNote:\nYou can also try to install the drivers and utilities individually.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-000094f-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF73201~faq-000094f-shared",
+          "display_order": 20,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:23.616678"
+        },
+        {
+          "question": "Who do I contact for software support?",
+          "answer": "Click on the\nContact Us\ntab on your product's support page to contact Epson for support. If your product comes with third-party software, contact the software company.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00004db-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF73201~faq-00004db-shared",
+          "display_order": 21,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:24.629402"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF73201~faq-0000f4b-shared",
+          "display_order": 22,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:25.636707"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF73201~faq-0000f4c-shared",
+          "display_order": 23,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:26.710500"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CF73201~faq-0000f4d-shared",
+          "display_order": 24,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:27.716641"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Wireless or Wired Connection",
+      "section_id": "8796127635532",
+      "section_order": 11,
+      "faqs": [
+        {
+          "question": "How do I change from a Wi-Fi connection to a wired network connection?",
+          "answer": "See below.\nChanging a Wi-Fi Connection to a Wired Network Connection\nIf you have already connected your product to your computer wirelessly, you can change to a wired network connection if necessary.\nDisable your product's Wi-Fi features.\nConnect one end of an Ethernet network cable to the product's\nLAN\nport.\nConnect the other end to any available LAN port on your router or access point.\nUninstall your product software.\nDownload and install your product software from the Epson website.\nFollow the on-screen instructions to install the software.\nWhen you see the Select Your Connection screen, select\nWired network connection\n.\nIf you see a Select Setup Option screen, select\nSet up printer for the first time\n.\nContinue following the rest of the on-screen instructions.\nRelated tasks\nDisabling Wi-Fi Features",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297832?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CF73201~faq-297832",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:28.698545"
+        },
+        {
+          "question": "How do I connect my product with a Wi-Fi Direct connection?",
+          "answer": "See below.\nEnabling Wi-Fi Direct Mode\nYou can enable Wi-Fi Direct mode to allow direct communication between your product and a computer or other devices without a wireless router or access point.\nPress the up or down arrow button, select\nWi-Fi Setup\n, and press the\nOK\nbutton. You see this screen:\nPress the down arrow button, select\nWi-Fi Direct Setup\n, and press the\nOK\nbutton.\nSelect\nConnection Setup\nand press the\nOK\nbutton. You see this screen:\nPress the\nOK\nbutton. You see this screen:\nPress the\nOK\nbutton. You see this screen:\nPress the\nOK\nbutton to complete setup and return to the Home screen. You see the\nicon on the LCD screen and should be able to print directly to your product from your computer or device.\nNote:\nIf the\nicon is displayed on the LCD screen, Wi-Fi Direct mode is not enabled. Repeat these steps to try again.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297827?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CF73201~faq-297827",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:29.766895"
+        },
+        {
+          "question": "How do I change from a USB connection to a Wi-Fi connection?",
+          "answer": "See below.\nChanging a USB Connection to a Wi-Fi Connection\nIf you have already connected your product to your computer using a USB connection, you can change to a Wi-Fi connection.\nDisconnect the USB cable from your product.\nUninstall your product software.\nDownload and install your product software from the Epson website using the instructions on the Start Here sheet.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297831?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CF73201~faq-297831",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:30.840213"
+        },
+        {
+          "question": "I can't print from Windows with a wireless connection since I received an exchange product from Epson. What should I do?",
+          "answer": "You need to set up your product again. Do the following:\nDo one of the following:\nWindows 10\n: Right-click\nand select\nControl Panel\n>\nSystem and Security\n>\nWindows Firewall\n. Disable the firewall.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nWindows Firewall\n. Disable the firewall.\nWindows (other versions)\n: Select\nor\nStart\n>\nControl Panel\n>\nSystem and Security\n>\nWindows Firewall\n. Disable the firewall.\nIf you have other firewall software enabled, you need to disable it also. If you don't know how to disable it, contact your firewall provider for help.\nNote:\nThis step is needed to install the product's software and complete the wireless setup. Remember to enable your firewall software after you complete the wireless setup.\nDownload and install the\nDrivers and Utilities Combo Package\nfrom the Downloads tab on the product's support page. Open the file you downloaded and follow the on-screen instructions to install the software.\nIf you received a different product for exchange, go to the main Epson Support page, select your product, and then download the software from the Downloads tab.\nNote:\nAfter you complete wireless setup, turn your firewall back on.\nIf this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00009CC-et3600?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CF73201~faq-00009CC-et3600",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:31.845567"
+        },
+        {
+          "question": "I can't print from Windows with a wireless connection after I replaced my router. What should I do?",
+          "answer": "You will need to set up your product again for the new router. Do the following:\nUninstall your product's software. See these\ninstructions\n.\nDo one of the following:\nWindows 10\n: Right-click\nand select\nControl Panel\n>\nSystem and Security\n>\nWindows Firewall\n. Disable the firewall.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nWindows Firewall\n. Disable the firewall.\nWindows (other versions)\n: Select\nor\nStart\n>\nControl Panel\n>\nSystem and Security\n>\nWindows Firewall\n. Disable the firewall.\nIf you have other firewall software enabled, you need to disable it also. If you don't know how to disable it, contact your firewall provider for help.\nNote:\nThis step is needed to install the product's software and complete the wireless setup. Remember to enable your firewall software after you complete the wireless setup.\nDownload and install the\nDrivers and Utilities Combo Package\nfrom the Downloads tab on the product's support page. Open the file you downloaded and follow the on-screen instructions to install the software.\nNote:\nAfter you complete wireless setup, turn your firewall back on.\nIf this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-0000495-et3600?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CF73201~faq-0000495-et3600",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:32.928323"
+        },
+        {
+          "question": "I tried to install the product's software for an Ethernet connection but cannot complete the installation in Windows or on my Mac. What should I do?",
+          "answer": "You should install the software again. To be sure the software installs properly, you should first uninstall the product software. This will remove any software components that may have installed when you first tried to set up the product. After you've uninstalled the software, check the following:\nMake sure your system meets the requirements.\nClose any other programs, including screen savers and virus protection software, before you install your product's software again.\nIf you see an error message or your software does not install correctly in Windows, you may not have software installation privileges. Contact your System Administrator.\nMake sure your product is turned on and the network cable is securely connected at both ends.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-0000529-et3600?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CF73201~faq-0000529-et3600",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:33.910571"
+        },
+        {
+          "question": "I tried to install the product on my Mac with a wireless connection, but the installation failed. What should I do?",
+          "answer": "You need to set up your software and product again. Do the following:\nReset your product's network settings. See these\ninstructions\n.\nOpen the\nmenu, select\nSystem Preferences\n, and then click either\nSecurity & Privacy\nor\nSecurity\n. Select the\nFirewall\ntab and disable the firewall.\nIf you have other firewall software enabled, you need to disable it also. If you don't know how to disable it, contact your firewall provider for help.\nNote:\nThis step is needed to install the product's software and complete the wireless setup. Remember to enable your firewall software after you complete the wireless setup.\nUnplug your router's power cord from the power outlet, wait a brief period, and then plug it back in.\nNote:\nYou may need to re-establish the connection for the other devices on your network.\nDownload and install the\nDrivers and Utilities Combo Package\nfrom the Downloads tab for your product. Open the file you downloaded and follow the on-screen instructions to install the software.\nNote:\nAfter you complete wireless setup, turn your firewall back on.\nIf this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00009CD-et3600?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CF73201~faq-00009CD-et3600",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:34.944443"
+        },
+        {
+          "question": "I can't print from my Mac with a wireless connection after I replaced my router. What should I do?",
+          "answer": "You will need to set up your product again for the new router. Do the following:\nOpen the\nmenu, select\nSystem Preferences\n>\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n> your printer, and then click\n.\nOpen the\nmenu, select\nSystem Preferences\n, and then click either\nSecurity & Privacy\nor\nSecurity\n. Select the\nFirewall\ntab and disable the firewall.\nIf you have other firewall software enabled, you need to disable it also. If you don't know how to disable it, contact your firewall provider for help.\nNote:\nThis step is needed to install the product's software and complete the wireless setup. Remember to enable your firewall software after you complete the wireless setup.\nDownload and install the\nDrivers and Utilities Combo Package\nfrom the Downloads tab on the product's support page. Open the file you downloaded and follow the on-screen instructions to install the software.\nNote:\nAfter you complete wireless setup, turn your firewall back on.\nIf this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-0000494-et3600?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CF73201~faq-0000494-et3600",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:35.961048"
+        },
+        {
+          "question": "I tried to install the product in Windows with a wireless connection, but the installation failed. What should I do?",
+          "answer": "You need to set up your software and product again. Do the following:\nReset your product's network settings. See these\ninstructions\n.\nDo one of the following:\nWindows 10\n: Right-click\nand select\nControl Panel\n>\nSystem and Security\n>\nWindows Firewall\n. Disable the firewall.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nWindows Firewall\n. Disable the firewall.\nWindows (other versions)\n: Select\nor\nStart\n>\nControl Panel\n>\nSystem and Security\n>\nWindows Firewall\n. Disable the firewall.\nIf you have other firewall software enabled, you need to disable it also. If you don't know how to disable it, contact your firewall provider for help.\nNote:\nThis step is needed to install the product's software and complete the wireless setup. Remember to enable your firewall software after you complete the wireless setup.\nUninstall your product's software. See these\ninstructions\n.\nUnplug your router's power cord from the power outlet, wait a brief period, and then plug it back in.\nNote:\nYou may need to re-establish the connection for the other devices on your network.\nDownload and install the\nDrivers and Utilities Combo Package\nfrom the Downloads tab for your product. Open the file you downloaded and follow the on-screen instructions to install the software.\nNote:\nAfter you complete wireless setup, turn your firewall back on.\nIf this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00009CE-et3600?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CF73201~faq-00009CE-et3600",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:36.964328"
+        },
+        {
+          "question": "I can't print from my Mac with a wireless connection since I received an exchange product from Epson. What should I do?",
+          "answer": "You need to set up your product again. Do the following:\nOpen the\nmenu, select\nSystem Preferences\n, and then click either\nSecurity & Privacy\nor\nSecurity\n. Select the\nFirewall\ntab and disable the firewall.\nIf you have other firewall software enabled, you need to disable it also. If you don't know how to disable it, contact your firewall provider for help.\nNote:\nThis step is needed to install the product's software and complete the wireless setup. Remember to enable your firewall software after you complete the wireless setup.\nDownload and install the\nDrivers and Utilities Combo Package\nfrom the Downloads tab on the product's support page. Open the file you downloaded and follow the on-screen instructions to install the software.\nIf you received a different product for exchange, go to the main Epson Support page, select your product, and then download the software from the Downloads tab.\nNote:\nAfter you complete wireless setup, turn your firewall back on.\nIf this does not solve the problem, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00009CB-et3600?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CF73201~faq-00009CB-et3600",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:37.962298"
+        },
+        {
+          "question": "I was able to print from Windows before with a wireless connection, but now I can't. What should I do?",
+          "answer": "The problem can be caused by your printer, computer, or wireless network. Do the following:\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these\ninstructions\n.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for\nerror messages\n. Clear any errors displayed on the product, then try printing a nozzle check pattern again. If you can print, go to the next step. Otherwise, contact Epson Support.\nDelete any pending print job(s) from the Epson print queue\n, then try printing again. If you can print, you're done, and you can skip the remaining steps. Otherwise, go to the next step.\nCheck your product's Wi-Fi indicator, and do one of the following:\nIf a wireless connection is established, unplug your router's power cord from the power outlet, wait a brief period, plug it back in, then try to print. If you can print, you're done. The problem was resolved by initializing your router. If you can't print, restart your computer, then try printing again. If these steps do not resolve your problem, contact Epson support.\nNote:\nYou may need to re-establish the connection for the other devices on your network after you initialize your router.\nIf a wireless connection is not established, follow the instructions in the\nReinstall the Product Software\nsection below.\nReinstall the Product Software\nReset your product's network settings. See these\ninstructions\n.\nTurn off the product and disconnect any interface cables.\nDo one of the following:\nWindows 10\n: Right-click\nand select\nControl Panel\n>\nSystem and Security\n>\nWindows Firewall\n. Disable the firewall.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nWindows Firewall\n. Disable the firewall.\nWindows (other versions)\n: Select\nor\nStart\n>\nControl Panel\n>\nSystem and Security\n>\nWindows Firewall\n. Disable the firewall.\nIf you have other firewall software enabled, you need to disable it also. If you don't know how to disable it, contact your firewall provider for help.\nNote:\nThis step is needed to install the product's software and complete the wireless setup. Remember to enable your firewall software after you complete the wireless setup.\nUninstall your product's software. See these\ninstructions\n.\nUnplug your router's power cord from the power outlet, wait a brief period, and then plug it back in.\nNote:\nYou may need to re-establish the connection for the other devices on your network.\nDownload and install the\nDrivers and Utilities Combo Package\nfrom the Downloads tab for your product. Open the file you downloaded and follow the on-screen instructions to install the software.\nNote:\nAfter you complete wireless setup, turn your firewall back on.\nIf this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-0000914-et3600?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CF73201~faq-0000914-et3600",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:38.930877"
+        },
+        {
+          "question": "I was able to print from my Mac before with a wireless connection, but now I can't. What should I do?",
+          "answer": "The problem can be caused by your printer, computer, or wireless network. Do the following:\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these\ninstructions\n.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for\nerror messages\n. Clear any errors displayed on the product, then try printing a nozzle check pattern again. If you can print, go to the next step, otherwise, contact Epson Support.\nDelete any pending print job(s) from the Epson print queue\n, then try printing again. If you can print, you're done, and you can skip the remaining steps. Otherwise, go to the next step.\nOn your Mac, open the\nmenu and select\nSystem Preferences\n. Select\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n, select your printer, then click\nto remove the printer. Click\n, select your printer with Kind set as\nBonjour\n, select your printer from the Use drop-down list, then click\nAdd\n. This will add the printer back on the printer queue. Then try printing again. If you can print, you're done, and you can skip the remaining steps. Otherwise, go to the next step.\nCheck your product's Wi-Fi indicator, and do one of the following:\nIf a wireless connection is established, unplug your router's power cord from the power outlet, wait a brief period, plug it back in, then try to print. If you can print, you're done. The problem was resolved by initializing your router. If you can't print, restart your computer, then try printing again. If these steps do not resolve your problem, contact Epson support.\nNote:\nYou may need to re-establish the connection for the other devices on your network after you initialize your router.\nIf a wireless connection is not established, follow the instructions in the\nReinstall the Product Software\nsection below.\nReinstall the Product Software\nReset your product's network settings. See these\ninstructions\n.\nOn your Mac, open the\nmenu and select\nSystem Preferences\n. Select\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n, select your printer, and then click\nto remove the printer.\nOpen the\nmenu and select\nSystem Preferences\n, then click either\nSecurity & Privacy\nor\nSecurity\n. Select the\nFirewall\ntab and disable the firewall.\nIf you have other firewall software enabled, you need to disable it also. If you don't know how to disable it, contact your firewall provider for help.\nNote:\nThis step is needed to install the product's software and complete the wireles setup. Remember to enable your firewall software after you complete the wireless setup.\nUnplug your router's power cord from the power outlet, wait a brief period, and then plug it back in.\nNote:\nYou may need to re-establish the connection for the other devices on your network.\nDownload and install the\nDrivers and Utilities Combo Package\nfrom the Downloads tab for your product. Open the file you downloaded and follow the on-screen instructions to install the software.\nNote:\nAfter you complete wireless setup, turn your firewall back on.\nIf this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-0000913-et3600?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CF73201~faq-0000913-et3600",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:40.070612"
+        },
+        {
+          "question": "I was able to print from Windows before with an Ethernet connection, but now I can't. What should I do?",
+          "answer": "The problem can be caused by your printer or computer. Do the following:\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these\ninstructions\n.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for\nerror messages\n. Clear any errors displayed on the product, then try printing a nozzle check pattern again. If you can print, go to the next step. Otherwise, contact Epson Support.\nDelete any pending print job(s) from the Epson print queue\n, then try printing again. If you can print, you're done, and you can skip the remaining steps. Otherwise, go to the next step.\nSet your product as the default printer. Do one of the following:\nWindows 10\n: Right-click\nand select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your product icon and select\nSet as Default Printer\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer icon and select\nSet as Default Printer\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer icon and select\nSet as Default Printer\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer icon and select\nSet as Default Printer\nWindows XP\n: Click\nStart\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n. Right-click your printer icon and select\nSet as Default Printer\n.\nNote:\nIf there is more than one icon for your printer, select the icon that is not faded (or is in a Ready or Active state) to be your default printer. You can delete any duplicate icons that are faded or in an Offline state by right-clicking the icon and selecting\nDelete\n.\nIf you still can't print, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-0000910-et3600?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CF73201~faq-0000910-et3600",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:41.069416"
+        },
+        {
+          "question": "I was able to print from my Mac before with an Ethernet connection, but now I can't. What should I do?",
+          "answer": "The problem can be caused by your printer or the computer. Do the following:\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these\ninstructions\n.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for\nerror messages\n. Clear any errors displayed on the product, then try printing a nozzle check pattern again. If you can print, go to the next step. Otherwise, contact Epson Support.\nDelete any pending print job(s) from the Epson print queue\n, then try printing again. If you can print, you're done, and you can skip the remaining steps. Otherwise, go to the next step.\nDelete and re-add the print queue.\nClick\n, select your printer with Kind set as\nBonjour\n, select your printer from the Use drop-down list, then click\nAdd\n. This will add the printer back on the printer queue. Then try printing again. If you can print, you're done. Otherwise, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-000090F-et3600?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CF73201~faq-000090F-et3600",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:42.109009"
+        },
+        {
+          "question": "How do I find my SSID and network password?",
+          "answer": "In most cases, the software installer will automatically set up your wireless connection, so you don't need to know your SSID and password. However, if it cannot determine your SSID or password, you will be prompted to set up your wireless connection manually.\nCheck your router documentation for this information. Most routers have a default SSID and password that can be modified once the router is set up.\nNote:\nThe SSID is the name of the wireless network that is set up on your router or access point.\nIf you don't know this information, you need to contact the manufacturer of your router or the person who set up your network.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00009c6-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CF73201~faq-00009c6-shared",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:43.083426"
+        },
+        {
+          "question": "Can I set up my product for both a USB and network connection?",
+          "answer": "Yes. However, the product does not support a wireless and an Ethernet connection at the same time.\nTo set up both a USB and network connection, you must install the product's software twice (i.e., once for each connection type).\nNote:\nWith this setup, your product may appear as two devices in the Printer list. One device is for the USB connection, and the other is for the network connection.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00004fe-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CF73201~faq-00004fe-shared",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:44.044495"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 12,
+      "faqs": [
+        {
+          "question": "How should I transport or store my product?",
+          "answer": "If you need to store your product or transport it some distance, prepare it for transportation as described here.\nCaution:\nDuring transportation and storage, follow these guidelines: Avoid tilting the product, placing it vertically, or turning it upside down; otherwise ink may leak. When storing or transporting an ink bottle after removing its seal, do not tilt the bottle and do not subject it to impacts or temperature changes. Otherwise, ink may leak even if the cap on the ink bottle is tightened securely. Be sure to keep the ink bottle upright when tightening the cap, and take measures to prevent ink from leaking when transporting the ink bottles. Do not put opened ink bottles in the box with product.\nNote:\nBefore storing your product for a long period, replace low, expended, or expired ink to help prevent the print head from drying out. Store your product in a cool, dry place.\nTurn off the product.\nLift up the scanner unit and check to see if the print head is in the far right position (the home position). If not, turn on the product, wait for the print head to move to the far right, then turn the product off again.\nSecure the print head to the case with tape.\nCaution:\nDo not place tape on the white flat cable inside the product; otherwise, you may damage your product.\nLower the scanner unit.\nRemove all the paper from the product.\nClose the output tray, if necessary.\nUnplug the power cable.\nDisconnect any connected cables.\nOpen the ink tank unit cover and check to make sure that the ink tank caps are installed securely.\nPlace the product in its original packaging materials, if possible, or use equivalent cushioning around the product.\nBe sure to remove the tape from the print head before turning on your product. If print quality has declined when you print again, clean and align the print head.\nRelated concepts\nPrint Head Cleaning\nPrint Head Alignment",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-297853?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CF73201~faq-297853",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:45.003370"
+        },
+        {
+          "question": "How do I determine the number of pages the product has printed?",
+          "answer": "Follow these steps to print a status sheet with this information:\nMake sure the product is on.\nSelect\nSetup\n>\nPrint Status Sheet\n>\nUsage History Sheet\n.\nPress one of the\nStart\nbuttons.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00004f5-et3600?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CF73201~faq-00004f5-et3600",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:46.053632"
+        },
+        {
+          "question": "My product will not wake up when I try to print with a wireless connection. What should I do?",
+          "answer": "Turn the product off and on. If you can print now, the problem is related to your wireless router. Contact the manufacturer of your router for assistance or try using a different router.\nIf you cannot print after turning the product off and on, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00004c8-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CF73201~faq-00004c8-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:44.577812"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CF73201~faq-00004b0-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:45.754558"
+        },
+        {
+          "question": "What security measures does Epson recommend for its network products?",
+          "answer": "To help deter unauthorized access to your product over a network, you should protect your network environment using appropriate security measures.\nSecurity measures such as these can help deter threats such as loss of user data, use of telephone and fax lines, and other intrusions:\nEnable security on your wireless LAN if your product supports a wireless connection\nEnable the appropriate security on the wireless LAN you plan to use with your product. Network security, such as a network password, can deter interception of traffic over the wireless LAN. Your router may already have a default password enabled by your Internet service provider (ISP). See your ISP and router documentation for instructions on how to change the default password and better secure your network.\nConnect your product only to a network protected by a firewall\nConnecting your product directly to the Internet may leave it vulnerable to security threats. Instead, connect it to a router or other networking device protected by a firewall. Your router may already have a firewall set up by your Internet service provider; check with your ISP for confirmation. For best results, set up and use a private IP address for your network connection.\nChange the default administrator password on your product\nIf your product has an option to set an administrator password, change the default administrator password to deter access by unauthorized users to personal data stored on your product, such as IDs, passwords, and contact lists. See the product's User's Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-0000a05-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CF73201~faq-0000a05-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:46.748182"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CF73201~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CF73201~faq-0000f4a-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3600/s/SPT_C11CF73201",
+          "fetched_at": "2026-03-31T23:51:47.812371"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

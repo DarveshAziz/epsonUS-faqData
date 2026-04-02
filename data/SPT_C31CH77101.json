@@ -1,0 +1,465 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Label Printers",
+  "series": "ColorWorks Series",
+  "model": {
+    "name": "Epson ColorWorks CW-C6500A",
+    "sku": "SPT_C31CH77101",
+    "url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "Which operating systems are supported by my product?",
+          "answer": "See below:\nWindows\nMac\nLinux\nCW-C3500\n√\n–\n–\nCW-C6000 series printers\n√\n√\n√\nCW-C6500 series printers\n√\n√\n√\nCW-C7500 series printers\n√\n–\n–\nNote:\nThese products support a USB or a wired network connection.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-0000715-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C31CH77101~faq-0000715-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:23.016118"
+        },
+        {
+          "question": "How do I replace the maintenance box?",
+          "answer": "Make sure you have a new maintenance box before you begin.\nNote:\nWhen you see a message on the LCD screen indicating the maintenance box is at the end of its service life, it should be replaced promptly.\nCAUTION:\nDo not reuse a maintenance box that has been removed and left uninstalled for more than a week. Keep the maintenance box away from direct sunlight.\nRemove the new maintenance box from its package.\nOpen the paper cover and then open the maintenance box cover.\nGrasp the maintenance box and pull it out of its holder.\nPlace the used maintenance box in the bag that came with the new maintenance box.\nInsert the new maintenance box into the holder and push it in all the way.\nClose the maintenance box cover.\nDispose of the used maintenance box at your local recycling center.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-0000711-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C31CH77101~faq-0000711-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:24.120558"
+        },
+        {
+          "question": "What is the difference between the Epson Device Admin software and the Epson Web Config utility?",
+          "answer": "Both applications manage Epson printers that are connected to a network. However, the Epson Device Admin software will allow you to configure and monitor multiple Epson printers at one time. The Epson Web Config utility will allow you to configure and monitor one Epson printer at a time. See below for a list of supported features.\nEpson Device Admin and Epson Web Config\nNote:\nThe features listed below are supported remotely over a network.\nConfigure a single printer.\nDisplay a printer's ink supply level and usage counter.\nImport and export printer configuration settings to back up or clone configuration settings to another printer.\nCheck and update the firmware version of a single printer.\nEpson Device Admin\nEpson Device Admin supports these features, in addition to those listed above.\nSend an email alert when an error occurs on the printer.*\nSchedule and send an email that reports the printer's usage.*\nSchedule and implement a firmware update.\nConfigure multiple Epson printers via a template.\n* Email services need to be configured in the Epson Device Admin software to use these features.\nNote:\nOther Epson scanners, inkjet printers, and large format printers may include an option to send an email alert from the Epson Web Config utility. For support with these products, consult the product's user manual.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-0000716-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C31CH77101~faq-0000716-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:25.251160"
+        },
+        {
+          "question": "What is the composition of the ink in the ink cartridges?",
+          "answer": "The ink for your product is water-based and nontoxic. For more information, see\nSafety Data Sheets\npage.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-000071D-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C31CH77101~faq-000071D-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:26.420327"
+        },
+        {
+          "question": "What are the ink yields I can expect from the ink cartridges?",
+          "answer": "Contact your dealer for this information.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-000070E-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C31CH77101~faq-000070E-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:27.490655"
+        },
+        {
+          "question": "Can I remove the ink cartridges from the product if I'm not using the product?",
+          "answer": "No. The ink cartridges should remain installed in the product even when the product is not being used.\nNote:\nThe ink delivery system is not sealed when the ink cartridges are removed. This may allow debris to enter the ink delivery system, which may cause damage.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-000070F-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C31CH77101~faq-000070F-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:28.588796"
+        },
+        {
+          "question": "How long can I use the ink cartridges after they are installed?",
+          "answer": "For best printing results, expend the ink cartridges within 6 months of installation.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-0000710-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C31CH77101~faq-0000710-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:29.730580"
+        },
+        {
+          "question": "What is the difference between the gloss and matte black inks?",
+          "answer": "The gloss and matte black ink are highly durable pigment-based inks and are BS5609 certified\n1\n. The matte black ink creates a darker black when printed on matte media and a richer image on plain media. The gloss black ink is similar to the ink used by the Epson ColorWorks C7500G. The gloss black ink can be used to print on a wider range of substrates.\nNote:\n1\nRequires BS5609-certified label material for use with the printer and the ink system.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-0000d11-cwc6000a_6500p?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C31CH77101~faq-0000d11-cwc6000a_6500p",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:30.866569"
+        },
+        {
+          "question": "What is the maximum roll media diameter I can print on?",
+          "answer": "See below.\nCW-C6000\nCW-C6500\nRoll media\n8\" (150m, 3kg)\n6\" (~70m, 3kg)",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-0000700-cwc6000a_6500p?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C31CH77101~faq-0000700-cwc6000a_6500p",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:31.961726"
+        },
+        {
+          "question": "Where can I get ICC/ICM and spot color profiles for my printer?",
+          "answer": "You can download the Printer Setting Utility for your operating system from the following locations:\nMac\n: The Downloads tab on your product's support page.\nLinux\n: The Downloads driver and Software page at this\nlink\n.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-00006FE-cwc6000a_6500p?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C31CH77101~faq-00006FE-cwc6000a_6500p",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:33.035394"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "How to...",
+      "section_id": "8796159027276",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Where can I get ICC/ICM and spot color profiles for my printer?",
+          "answer": "You can download the Printer Setting Utility for your operating system from the following locations:\nMac\n: The Downloads tab on your product's support page.\nLinux\n: The Downloads driver and Software page at this\nlink\n.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-00006FE-cwc6000a_6500p?faq_cat=faq-8796159027276",
+          "faq_slug": "SPT_C31CH77101~faq-00006FE-cwc6000a_6500p",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:34.116070"
+        },
+        {
+          "question": "What is the maximum roll media diameter I can print on?",
+          "answer": "See below.\nCW-C6000\nCW-C6500\nRoll media\n8\" (150m, 3kg)\n6\" (~70m, 3kg)",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-0000700-cwc6000a_6500p?faq_cat=faq-8796159027276",
+          "faq_slug": "SPT_C31CH77101~faq-0000700-cwc6000a_6500p",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:35.333313"
+        },
+        {
+          "question": "How can I get notifications, usage reports, and other messages from my product?",
+          "answer": "Install the Epson Device Admin software. You can download the software from the product's support page after you complete a survey. The Epson Device Admin software also allows you to install, configure, and manage devices on your network.\nNote:\nThe Epson Device Admin software is not available for macOS.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-0000701-cwc6000a_6500p?faq_cat=faq-8796159027276",
+          "faq_slug": "SPT_C31CH77101~faq-0000701-cwc6000a_6500p",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:36.505357"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "What is the composition of the ink in the ink cartridges?",
+          "answer": "The ink for your product is water-based and nontoxic. For more information, see\nSafety Data Sheets\npage.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-000071D-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C31CH77101~faq-000071D-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:37.605152"
+        },
+        {
+          "question": "How long can I use the ink cartridges after they are installed?",
+          "answer": "For best printing results, expend the ink cartridges within 6 months of installation.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-0000710-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C31CH77101~faq-0000710-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:38.711245"
+        },
+        {
+          "question": "Can I remove the ink cartridges from the product if I'm not using the product?",
+          "answer": "No. The ink cartridges should remain installed in the product even when the product is not being used.\nNote:\nThe ink delivery system is not sealed when the ink cartridges are removed. This may allow debris to enter the ink delivery system, which may cause damage.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-000070F-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C31CH77101~faq-000070F-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:39.834026"
+        },
+        {
+          "question": "What are the ink yields I can expect from the ink cartridges?",
+          "answer": "Contact your dealer for this information.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-000070E-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C31CH77101~faq-000070E-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:40.931152"
+        },
+        {
+          "question": "How do I replace the ink cartridges?",
+          "answer": "Make sure you have your replacement ink cartridges handy before you begin. You must install new ink cartridges immediately after removing the old ones. Do the following:\nOpen the left ink cartridge cover.\nNote:\nThe illustrations show the CW-C6500A model, but the instructions apply to all models unless otherwise specified.\nPress the lever down to remove the expended ink cartridge.\nRemove the new ink cartridge from the packaging and shake it side to side.\nSlide the ink cartridge into the slot for the cartridge until it clicks.\nRepeat steps 2 to 4 for each ink cartridge you want to install.\nClose the cover.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-000071B-cwc6000a_6500p?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C31CH77101~faq-000071B-cwc6000a_6500p",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:42.079331"
+        },
+        {
+          "question": "Which black ink type (gloss or matte) is recommended for my label application?",
+          "answer": "Matte ink is the best choice if all printing will be done on matte media. If you will be printing on any gloss media, we recommend gloss black ink. If you are uncertain of which type of media you want to use, we recommend you select gloss black ink. Both ink types have BS5609 certification.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-0000d14-cwc6000a_6500p?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C31CH77101~faq-0000d14-cwc6000a_6500p",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:43.240684"
+        },
+        {
+          "question": "How do I set up a new printer to use gloss or matte black ink?",
+          "answer": "Select the type of ink you want to use during the printer's initial setup. The printer will prompt you to select the type of ink you are installing on the printer's front panel. See the image below for the steps.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-0000d12-cwc6000a_6500p?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C31CH77101~faq-0000d12-cwc6000a_6500p",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:42.647749"
+        },
+        {
+          "question": "What is the difference between the gloss and matte black inks?",
+          "answer": "The gloss and matte black ink are highly durable pigment-based inks and are BS5609 certified\n1\n. The matte black ink creates a darker black when printed on matte media and a richer image on plain media. The gloss black ink is similar to the ink used by the Epson ColorWorks C7500G. The gloss black ink can be used to print on a wider range of substrates.\nNote:\n1\nRequires BS5609-certified label material for use with the printer and the ink system.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-0000d11-cwc6000a_6500p?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C31CH77101~faq-0000d11-cwc6000a_6500p",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:43.787966"
+        },
+        {
+          "question": "How can I determine which black ink type (gloss or matte) was installed in the printer?",
+          "answer": "The printer's front panel will display the ink type installed; a\nBK\n(gloss) or\nMK\n(matte) will appear under the black ink indicator. See below for an example.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-0000d15-cwc6000a_6500p?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C31CH77101~faq-0000d15-cwc6000a_6500p",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:44.994846"
+        },
+        {
+          "question": "Can I change the black ink type (gloss or matte) after the printer has been initialized for another black ink type?",
+          "answer": "No, it cannot be changed. It is very important to decide which ink type you will use in the printer before initializing the printer for an ink type.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-0000d13-cwc6000a_6500p?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C31CH77101~faq-0000d13-cwc6000a_6500p",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:46.077707"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "Should the ink cartridges remain installed when I transport my product?",
+          "answer": "Yes. Leave the ink cartridges installed. Removing the cartridges can dry out the print head and may prevent the product from printing.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-0000718-shared?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C31CH77101~faq-0000718-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:47.161315"
+        },
+        {
+          "question": "How do I replace the maintenance box?",
+          "answer": "Make sure you have a new maintenance box before you begin.\nNote:\nWhen you see a message on the LCD screen indicating the maintenance box is at the end of its service life, it should be replaced promptly.\nCAUTION:\nDo not reuse a maintenance box that has been removed and left uninstalled for more than a week. Keep the maintenance box away from direct sunlight.\nRemove the new maintenance box from its package.\nOpen the paper cover and then open the maintenance box cover.\nGrasp the maintenance box and pull it out of its holder.\nPlace the used maintenance box in the bag that came with the new maintenance box.\nInsert the new maintenance box into the holder and push it in all the way.\nClose the maintenance box cover.\nDispose of the used maintenance box at your local recycling center.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-0000711-shared?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C31CH77101~faq-0000711-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:48.305704"
+        },
+        {
+          "question": "How should I clean the auto cutter for my product?",
+          "answer": "Do the following:\nRemove all paper loaded in the product.\nTurn off the product and unplug the power cable.\nDisconnect any other cables connected to the product.\nNote:\nDo not use compressed air to clean the product.\nUse a flat-head screwdriver to scrape off any material stuck to the blade. Scrape the blade from each end toward the center.\nFor more information, see the Cleaning the Auto Cutter video on\nYouTube\n.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-0000712-cwc6000a_6500p?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C31CH77101~faq-0000712-cwc6000a_6500p",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:49.449985"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "The quality of the print on my labels does not appear as I expected. What should I do?",
+          "answer": "Try the following:\nMake sure you print on compatible media. See the product's technical reference guide for information.\nPrint a nozzle check pattern to see if any of the nozzles are clogged. Clean the print head, if necessary.\nMake sure the paper type setting in the software matches the type of media you loaded in the product.\nMake sure you load the printable side of the paper correctly in the product.\nAdjust the print quality settings in the product's software.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-0000714-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C31CH77101~faq-0000714-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:50.573412"
+        },
+        {
+          "question": "Paper jammed in my product. What should I do?",
+          "answer": "Do the following:\nOpen the front cover and remove any paper.\nOpen the paper cover and remove the spindle, if necessary.\nRaise the release lever.\nRemove any jammed paper and then lower the release lever.\nClose the paper cover and front cover.\nSelect\nPause\nfrom the product's control panel. The paper jam should be cleared.\nFor more information, see the Paper is jammed section in the printer's\nUser's Guide\n.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-0000708-cwc6000a_6500p?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C31CH77101~faq-0000708-cwc6000a_6500p",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:51.756117"
+        },
+        {
+          "question": "I can't get odd shaped media to feed into the printer. What should I do?",
+          "answer": "The gap sensors may need to be adjusted to detect the media. Do the following:\nTurn off the printer, if necessary.\nMake sure there is no media in the printer. If necessary, press the\nBack Feed\nbutton on the printer's control panel.\nOpen the paper cover.\nLocate the gap sensors (the two gray bars near the media feed slot).\nImportant:\nThe sensors must be positioned at the highest point of the odd shaped media.\nMake sure the receiver sensor (top) and the emitter sensor (bottom) line up with each.\nNote:\nUse a small screwdriver to line up the sensors.\nTry feeding the media again.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-000070A-cwc6000a_6500p?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C31CH77101~faq-000070A-cwc6000a_6500p",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:52.911776"
+        },
+        {
+          "question": "Which type of media can I print on?",
+          "answer": "Coated media for inkjet printers works best, but you can also use uncoated media. If you use uncoated media, you should test the media for image quality and to confirm if it meets your performance requirements.\nFor a list of compatible media for Epson ColorWorks printers, see the Compatible Media List on our\nColor Label Printers\npage. Epson works with all major media manufacturers to identify compatible inkjet media for Epson ColorWorks printers. There is a wide variety of media, which includes clear, semi-gloss and BS5609-certified media.\nNote:\nDo not use pinfed media.\nNote:\nEpson manufactures media for the ColorWorks C3500, C6000 Series (excluding C6500 models), and C7500 Series printers.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-0000713-c6500series?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C31CH77101~faq-0000713-c6500series",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:54.009108"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print",
+      "section_id": "8796158634060",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "How do I add an image to the label's background?",
+          "answer": "Do the following:\nOpen the\nPrinter Setting Utility\nsoftware.\nSelect\nStore data in the printer\nand then select the\nStore...\nbutton in the Image (Only .png) section.\nNote:\nThe image must be in the .png format and less than 600 dpi.\nSelect the\nBrowse...\nbutton to select an image. The selected image will appear in the Preview section.\nClick\nSet\n.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-0000706-cwc6000a_6500p?faq_cat=faq-8796158634060",
+          "faq_slug": "SPT_C31CH77101~faq-0000706-cwc6000a_6500p",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:55.116251"
+        },
+        {
+          "question": "How do I match a RGB color?",
+          "answer": "Do the following:\nOpen the\nPrinter Setting Utility\nsoftware.\nSelect\nStore data in the printer\n>\nSpot Color Setting\nand then select the\nCreate...\nbutton.\nEnter the RGB value for color you would like to match.\nClick\nAdd\nand then select\nConfirmation.\nEnter a file name and select\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-0000705-cwc6000a_6500p?faq_cat=faq-8796158634060",
+          "faq_slug": "SPT_C31CH77101~faq-0000705-cwc6000a_6500p",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:56.236476"
+        },
+        {
+          "question": "How can I make the printed colors more vibrant?",
+          "answer": "Do the following:\nOpen the\nPrinter Setting Utility\nsoftware.\nSelect\nPrinter results adjustment\n.\nIn the Color preset section, select the\nMode:\ndrop-down arrow and click\nVivid colors\n.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-0000704-cwc6000a_6500p?faq_cat=faq-8796158634060",
+          "faq_slug": "SPT_C31CH77101~faq-0000704-cwc6000a_6500p",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:57.424734"
+        },
+        {
+          "question": "How do I create a custom print setting in the product's driver in Windows?",
+          "answer": "Do one of the following:\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your printer and select\nManage\n>\nPrinting preferences\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect\nMedia Definition\non the General tab.\nClick\nNew\nand create your Media Definition and populate the following fields:\nMedia Name (enter a unique name)\nLabel width\nLabel length\nGap between labels\nSelect other media settings as necessary.\nNote:\nThe Max Quality print selection for the Media Coating Type is only available when printing with Glossy Paper, Glossy Film, or High Glossy Paper.\nClick\nOK\nand then\nClose\n. You can now select the new media size when you select the Media Definition button.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-0000722-shared?faq_cat=faq-8796158634060",
+          "faq_slug": "SPT_C31CH77101~faq-0000722-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:58.706901"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Product Information",
+      "section_id": "8796159060044",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "I can't save my printer driver settings on my Mac. Is there anything I can do?",
+          "answer": "No, the Mac operating system resets all settings when a print window is opened. This is a restriction of the operating system.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-00006FF-cwc6000a_6500p?faq_cat=faq-8796159060044",
+          "faq_slug": "SPT_C31CH77101~faq-00006FF-cwc6000a_6500p",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:40:59.775664"
+        },
+        {
+          "question": "Can I add a cutter or a peeler to the product?",
+          "answer": "The printers have built-in auto cutters and peelers. Additional auto cutters or peelers cannot be added to the printers and they are not interchangeable.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-0000702-cwc6000a_6500p?faq_cat=faq-8796159060044",
+          "faq_slug": "SPT_C31CH77101~faq-0000702-cwc6000a_6500p",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:41:00.940635"
+        },
+        {
+          "question": "Which ink cartridges should I use with this product?",
+          "answer": "See below.\nInk color\nPart number\nBlack\nSJIC35P-K\nCyan\nSJIC35P-C\nMagenta\nSJIC35P-M\nYellow\nSJIC35P-Y\nMaintenance box part number: SJMB6000/6500",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-00006FD-cwc6000a_6500p?faq_cat=faq-8796159060044",
+          "faq_slug": "SPT_C31CH77101~faq-00006FD-cwc6000a_6500p",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:41:02.043104"
+        },
+        {
+          "question": "Can I use the paper holder and the flange from the CW-C6000 Series printers with the CW-C6500?",
+          "answer": "No. The paper holder and flange are not interchangeable between the C6000 and C6500 Series printers.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-00006FC-cwc6000a_6500p?faq_cat=faq-8796159060044",
+          "faq_slug": "SPT_C31CH77101~faq-00006FC-cwc6000a_6500p",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:41:03.146176"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "What is the difference between the Epson Device Admin software and the Epson Web Config utility?",
+          "answer": "Both applications manage Epson printers that are connected to a network. However, the Epson Device Admin software will allow you to configure and monitor multiple Epson printers at one time. The Epson Web Config utility will allow you to configure and monitor one Epson printer at a time. See below for a list of supported features.\nEpson Device Admin and Epson Web Config\nNote:\nThe features listed below are supported remotely over a network.\nConfigure a single printer.\nDisplay a printer's ink supply level and usage counter.\nImport and export printer configuration settings to back up or clone configuration settings to another printer.\nCheck and update the firmware version of a single printer.\nEpson Device Admin\nEpson Device Admin supports these features, in addition to those listed above.\nSend an email alert when an error occurs on the printer.*\nSchedule and send an email that reports the printer's usage.*\nSchedule and implement a firmware update.\nConfigure multiple Epson printers via a template.\n* Email services need to be configured in the Epson Device Admin software to use these features.\nNote:\nOther Epson scanners, inkjet printers, and large format printers may include an option to send an email alert from the Epson Web Config utility. For support with these products, consult the product's user manual.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-0000716-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C31CH77101~faq-0000716-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:41:04.281826"
+        },
+        {
+          "question": "Which operating systems are supported by my product?",
+          "answer": "See below:\nWindows\nMac\nLinux\nCW-C3500\n√\n–\n–\nCW-C6000 series printers\n√\n√\n√\nCW-C6500 series printers\n√\n√\n√\nCW-C7500 series printers\n√\n–\n–\nNote:\nThese products support a USB or a wired network connection.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-0000715-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C31CH77101~faq-0000715-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:41:05.456273"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C31CH77101~faq-0000f4b-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:41:06.571617"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C31CH77101~faq-0000f4c-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:41:07.626617"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C31CH77101~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C31CH77101~faq-0000f4d-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Label-Printers/ColorWorks-Series/Epson-ColorWorks-CW-C6500A/s/SPT_C31CH77101",
+          "fetched_at": "2026-04-02T04:41:08.765501"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

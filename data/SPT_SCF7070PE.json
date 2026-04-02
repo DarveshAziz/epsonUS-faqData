@@ -1,0 +1,475 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "SureColor Series",
+  "model": {
+    "name": "Epson SureColor F7070",
+    "sku": "SPT_SCF7070PE",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "How do I install the ICC profiles in Windows XP or Windows 7?",
+          "answer": "Do the following:\nDownload the ICC profiles for your printer and save them in a folder you can easily find.\nClose all open software.\nOpen\nWindows Explorer\n, then select\nComputer\n>\nC:\ndrive >\nWindows\n>\nSystem32\n>\nspool\n>\ndrivers\n>\ncolor\n.\nMove the ICC profiles into the\ncolor\nfolder, then close all open windows.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-00009E5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCF7070PE~faq-00009E5-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:24.941583"
+        },
+        {
+          "question": "How do I determine my printer driver version on my Mac?",
+          "answer": "Open the\nmenu and select\nSystem Preferences\nor\nSystem Settings\n>\nPrinters & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n. Your printer driver version is displayed.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-00009e4-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCF7070PE~faq-00009e4-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:25.931126"
+        },
+        {
+          "question": "I see horizontal or vertical lines in my printout. What should I do?",
+          "answer": "Perform a nozzle check from the printer's control panel or the Epson printer driver, then do one of the following:\nIf there are gaps in the nozzle check pattern, clean the print head nozzles.\nIf there are no gaps in the nozzle check pattern, try the solutions below.\nHorizontal Banding\nIncrease the print resolution.\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nSelect an alternate paper profile for ink coverage.\nSelect the correct paper type in the printer driver.\nAdjust the paper feed\nVertical Banding\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nAlign the print head.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-00009eb-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCF7070PE~faq-00009eb-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:26.894694"
+        },
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-00009e9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCF7070PE~faq-00009e9-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:27.839159"
+        },
+        {
+          "question": "I see the message Communication Error when I use a USB connection. What should I do?",
+          "answer": "Do the following:\nDelete all print jobs in the print queue.\nTurn the printer off.\nNote:\nMake sure the USB cable is connected correctly.\nRestart your computer. When the desktop appears, turn your printer on and follow the on-screen instructions.\nNote:\nIf the problem continues, turn the printer off again and delete the printer in the list of printers. Then disconnect the USB cable from the printer and connect it again.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-00009ea-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCF7070PE~faq-00009ea-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:28.774609"
+        },
+        {
+          "question": "Which Epson paper type setting should I select for Legacy paper?",
+          "answer": "See the table below.\nLegacy Paper\nEpson Paper Type Setting\nBaryta\nPremium Luster Photo Paper\nPlatine\nPremium Luster Photo Paper\nFibre\nWatercolor Paper – Radiant White\nEtching\nWatercolor Paper – Radiant White",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-00009EC-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCF7070PE~faq-00009EC-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:29.719152"
+        },
+        {
+          "question": "How do I save my Epson printer driver presets so I can restore them if I reinstall the Epson printer driver in Windows?",
+          "answer": "Note:\nYou may lose some custom settings when you uninstall the printer driver.\nBefore you reinstall the printer driver, do the following:\nOpen\nFile Explorer\nor\nWindows Explorer\n.\nSelect\nThis PC\nor\nComputer\n>\nC:\ndrive >\nProgram Files\n>\nEpson\n> [your printer name].\nMove the UCI extension files to a different folder on your desktop.\nNote:\nAfter you reinstall the Epson printer driver, move the UCI extension files back to your printer's folder as described in step 2.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-00009e6-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCF7070PE~faq-00009e6-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:30.801136"
+        },
+        {
+          "question": "My print job disappears from the Windows print queue but does not print. What should I do?",
+          "answer": "Follow the steps below:\nDo one of the following:\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your printer and select\nManage\n>\nPrinting preferences\n.\nWindows 8\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the\nUtility\ntab, then\nSpeed and Progress\n.\nSelect the\nAlways Spool RAW Datatype\nand\nCoarse Rendering\ncheckboxes, then click\nOK\n.\nNote:\nIf the\nProcessed by Printer\ncheckbox is selected, deselect it.\nTry printing again.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-00009e8-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCF7070PE~faq-00009e8-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:31.964388"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-00004c5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCF7070PE~faq-00004c5-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:32.878854"
+        },
+        {
+          "question": "Where are the ICC profiles located for my printer on my Mac?",
+          "answer": "Do the following to locate the files:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinter2\n>\nICCProfiles\n.\nPress and hold the\nControl\nkey on your keyboard while you click the profile package in the\nICCProfiles\nfolder. In the pop-up menu that appears, select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-00009ed-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SCF7070PE~faq-00009ed-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:33.889556"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "I see the message Communication Error when I use a USB connection. What should I do?",
+          "answer": "Do the following:\nDelete all print jobs in the print queue.\nTurn the printer off.\nNote:\nMake sure the USB cable is connected correctly.\nRestart your computer. When the desktop appears, turn your printer on and follow the on-screen instructions.\nNote:\nIf the problem continues, turn the printer off again and delete the printer in the list of printers. Then disconnect the USB cable from the printer and connect it again.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-00009ea-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SCF7070PE~faq-00009ea-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:34.791583"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SCF7070PE~faq-00004c5-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:35.700538"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "What is the capacity of the ink tanks on my product?",
+          "answer": "The refillable high capacity ink tanks hold up to 1.5 liters per color.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-232416?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCF7070PE~faq-232416",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:34.859327"
+        },
+        {
+          "question": "Can I reuse the ink chips that come with the ink packs?",
+          "answer": "The ink chips are not reusable.  An ink chip is provided with each ink pack. The chip unit helps to alert you to when you may be low on ink.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-232431?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCF7070PE~faq-232431",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:35.791791"
+        },
+        {
+          "question": "Can I use my product's ink packs and ink tanks with other Epson products?",
+          "answer": "The ink packs and tanks are designed specifically for the F-Series line of printers and will not work with other Epson products. The SureColor F6070 and F7070 use the same ink packs and tanks.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-232426?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCF7070PE~faq-232426",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:36.727939"
+        },
+        {
+          "question": "How do I refill the ink tanks?",
+          "answer": "See\nReplacing the Ink and Chip Unit\nfor instructions.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-232436?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCF7070PE~faq-232436",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:37.715328"
+        },
+        {
+          "question": "What size ink pack does my product use?",
+          "answer": "The printer uses 1 liter packs for each ink color.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-232415?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCF7070PE~faq-232415",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:38.856195"
+        },
+        {
+          "question": "How many ink tanks are installed in my product?",
+          "answer": "The printer uses four ink tanks, cyan, magenta, yellow, and black. See\nOptions and Consumable Products\nfor more information.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-232414?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCF7070PE~faq-232414",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:39.909271"
+        },
+        {
+          "question": "Do I need to install a new chip unit each time I refill the ink tank with a new ink pack?",
+          "answer": "Yes, a new ink chip needs to be installed with every new pack of ink.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-232432?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCF7070PE~faq-232432",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:40.839976"
+        },
+        {
+          "question": "What is the smallest drop size that is produced by my product?",
+          "answer": "The smallest droplet size is 5.3 picoliters.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-232418?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SCF7070PE~faq-232418",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:41.735957"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "What is the media width that is supported with my product?",
+          "answer": "The printer supports a media width of 11.8 inches to 64 inches wide. See\nSupported Media\nfor more information.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-232412?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCF7070PE~faq-232412",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:42.726102"
+        },
+        {
+          "question": "Does Epson sell media for the SureColor F7070?",
+          "answer": "Epson does have some media available, however, most media is available through third party vendors. See\nSupported Media\nfor more information.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-232417?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCF7070PE~faq-232417",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:43.653049"
+        },
+        {
+          "question": "Which Epson paper type setting should I select for Legacy paper?",
+          "answer": "See the table below.\nLegacy Paper\nEpson Paper Type Setting\nBaryta\nPremium Luster Photo Paper\nPlatine\nPremium Luster Photo Paper\nFibre\nWatercolor Paper – Radiant White\nEtching\nWatercolor Paper – Radiant White",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-00009EC-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_SCF7070PE~faq-00009EC-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:44.618787"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-00009e9-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SCF7070PE~faq-00009e9-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:45.587480"
+        },
+        {
+          "question": "I see horizontal or vertical lines in my printout. What should I do?",
+          "answer": "Perform a nozzle check from the printer's control panel or the Epson printer driver, then do one of the following:\nIf there are gaps in the nozzle check pattern, clean the print head nozzles.\nIf there are no gaps in the nozzle check pattern, try the solutions below.\nHorizontal Banding\nIncrease the print resolution.\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nSelect an alternate paper profile for ink coverage.\nSelect the correct paper type in the printer driver.\nAdjust the paper feed\nVertical Banding\nTurn off\nSimple Settings\nand uncheck the\nHigh Speed\nsetting in the printer driver.\nAlign the print head.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-00009eb-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SCF7070PE~faq-00009eb-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:46.556289"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "Is there an Epson driver supplied with my product?",
+          "answer": "There is no standard Epson driver supplied with the printer.  A communication driver is supplied with the printer but can only be used for updating the firmware.  The RIP software is used to print.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-232419?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF7070PE~faq-232419",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:47.538532"
+        },
+        {
+          "question": "What RIP is provided with my product?",
+          "answer": "The printer is bundled with the Wasatch SoftRip.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-232413?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF7070PE~faq-232413",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:48.488926"
+        },
+        {
+          "question": "What is on the CD that came with my product?",
+          "answer": "The CD contains the following items:\nEpson Professional Communication Driver for Windows\nEpson LFP Remote Panel 2\nEpsonNet Setup\nEpsonNet Config\nWasatch SoftRip ® TX Epson F7070 Edition",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-232430?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF7070PE~faq-232430",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:49.403990"
+        },
+        {
+          "question": "Can I setup and install my product on my own?",
+          "answer": "No, the printer cannot be installed by the end user.  The dealer will perform the installation of the printer.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-232425?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF7070PE~faq-232425",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:50.335859"
+        },
+        {
+          "question": "Who do I contact for support?",
+          "answer": "Epson supports all service issues with the printer and RIP software.  Should the product require service, contact support to schedule a service call.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-232423?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF7070PE~faq-232423",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:51.273315"
+        },
+        {
+          "question": "Where can I find drivers, utilities, and firmware for my product?",
+          "answer": "You can check the Downloads tab for your product.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-232434?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF7070PE~faq-232434",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:52.314360"
+        },
+        {
+          "question": "Does Epson provide training on how to use my product?",
+          "answer": "Epson does not provide training on product use.  Training is provided by the dealer.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-232429?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF7070PE~faq-232429",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:53.328357"
+        },
+        {
+          "question": "How do I install the ICC profiles in Windows XP or Windows 7?",
+          "answer": "Do the following:\nDownload the ICC profiles for your printer and save them in a folder you can easily find.\nClose all open software.\nOpen\nWindows Explorer\n, then select\nComputer\n>\nC:\ndrive >\nWindows\n>\nSystem32\n>\nspool\n>\ndrivers\n>\ncolor\n.\nMove the ICC profiles into the\ncolor\nfolder, then close all open windows.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-00009E5-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF7070PE~faq-00009E5-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:54.286716"
+        },
+        {
+          "question": "How do I save my Epson printer driver presets so I can restore them if I reinstall the Epson printer driver in Windows?",
+          "answer": "Note:\nYou may lose some custom settings when you uninstall the printer driver.\nBefore you reinstall the printer driver, do the following:\nOpen\nFile Explorer\nor\nWindows Explorer\n.\nSelect\nThis PC\nor\nComputer\n>\nC:\ndrive >\nProgram Files\n>\nEpson\n> [your printer name].\nMove the UCI extension files to a different folder on your desktop.\nNote:\nAfter you reinstall the Epson printer driver, move the UCI extension files back to your printer's folder as described in step 2.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-00009e6-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF7070PE~faq-00009e6-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:55.259469"
+        },
+        {
+          "question": "How do I determine my printer driver version on my Mac?",
+          "answer": "Open the\nmenu and select\nSystem Preferences\nor\nSystem Settings\n>\nPrinters & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n. Your printer driver version is displayed.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-00009e4-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF7070PE~faq-00009e4-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:56.260027"
+        },
+        {
+          "question": "How do I manually install the Epson ICC profiles on my Mac?",
+          "answer": "Do the following:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinters2\n>\nICCProfiles\n.\nPress and hold the\ncontrol\nkey on your keyboard while you select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n, select and copy all files, then close all open windows.\nOpen your hard drive, select\nLibrary\n>\nColorSync\n>\nProfiles\n, then paste the files into this folder.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-0000b03-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF7070PE~faq-0000b03-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:57.191108"
+        },
+        {
+          "question": "Where are the ICC profiles located for my printer on my Mac?",
+          "answer": "Do the following to locate the files:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinter2\n>\nICCProfiles\n.\nPress and hold the\nControl\nkey on your keyboard while you click the profile package in the\nICCProfiles\nfolder. In the pop-up menu that appears, select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-00009ed-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF7070PE~faq-00009ed-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:58.124336"
+        },
+        {
+          "question": "My print job disappears from the Windows print queue but does not print. What should I do?",
+          "answer": "Follow the steps below:\nDo one of the following:\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your printer and select\nManage\n>\nPrinting preferences\n.\nWindows 8\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the\nUtility\ntab, then\nSpeed and Progress\n.\nSelect the\nAlways Spool RAW Datatype\nand\nCoarse Rendering\ncheckboxes, then click\nOK\n.\nNote:\nIf the\nProcessed by Printer\ncheckbox is selected, deselect it.\nTry printing again.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-00009e8-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF7070PE~faq-00009e8-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:47:59.025357"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SCF7070PE~faq-0000f4d-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:48:00.016754"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "Who can I contact for support on the heat press?",
+          "answer": "You will need to contact the manufacturer of the heat press.  Epson does not offer support or warranty on the heat press.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-232424?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCF7070PE~faq-232424",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:48:01.218843"
+        },
+        {
+          "question": "What are the user replaceable parts for my product?",
+          "answer": "See\nOptions and Consumable Products\n.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-232427?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCF7070PE~faq-232427",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:48:02.279811"
+        },
+        {
+          "question": "Will my product print on fabric?",
+          "answer": "No, the printer does not print directly onto fabric. It is designed to print on media, which can then be transferred to fabric.  See\nSupported Media\nfor more information.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-232433?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCF7070PE~faq-232433",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:48:03.236632"
+        },
+        {
+          "question": "Does my product include a heat press?",
+          "answer": "No, the heat press is not manufactured by Epson and can be purchased separately from a dealer.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-232421?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCF7070PE~faq-232421",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:48:04.101177"
+        },
+        {
+          "question": "What interface connections are available?",
+          "answer": "The printer supports hi-speed USB-compatible with the USB 2.0 specification and 100BASE-TX/1000Base-T* connections.\n* Use a shielded twisted pair cable (category 5 or better).",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-232420?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCF7070PE~faq-232420",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:48:05.041084"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SCF7070PE~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SCF7070PE~faq-0000f4a-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/SureColor-Series/Epson-SureColor-F7070/s/SPT_SCF7070PE",
+          "fetched_at": "2026-04-02T02:48:05.967059"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

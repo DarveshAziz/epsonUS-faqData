@@ -1,0 +1,804 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "PictureMate Series",
+  "model": {
+    "name": "Epson PictureMate Show PM 300",
+    "sku": "SPT_C11CA54203",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-00004c5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA54203~faq-00004c5-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:32:42.488970"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "You can download the latest product driver from the Downloads section of this website.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-0000afb-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA54203~faq-0000afb-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:32:43.420741"
+        },
+        {
+          "question": "Can the Epson ink cartridges be refilled or can I use third-party ink cartridges without voiding the warranty?",
+          "answer": "Epson does not recommend refilling or using other brands of ink cartridges.  Epson uses a permanent Micro Piezo print head that has allowed Epson to lead the industry in delivering consistent photo image quality by using variable-sized droplets.  Micro Piezo print head can also use a wider variety of inks, which has allowed Epson to introduce such ink breakthroughs as DURABrite® and Epson UltraChrome® inks that offer greatly improved humidity resistance, smudge resistance, and fade resistance.\nUsing refilled ink cartridges will not void the product's original warranty; however, if these products cause a failure, the repair of that failure will not be covered under warranty.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-0000bf9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA54203~faq-0000bf9-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:32:44.320849"
+        },
+        {
+          "question": "I see the message Cannot connect to Internet in Windows 8.1 after I select Driver Update in my product software. What should I do?",
+          "answer": "The\nDriver Update\noption does not work in Windows 8.1. All other driver options will work correctly.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-0000958-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA54203~faq-0000958-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:32:45.230166"
+        },
+        {
+          "question": "I brought my product with me to a different country and can't find ink for it. What should I do?",
+          "answer": "Some Epson printers and ink cartridges are specific to a regional market and not sold worldwide, although the same printers are sold in the U.S. and Canada. If you have a printer sold in the U.S. or Canada, you may not be able to easily get ink cartridges for it in foreign markets.\nUnfortunately, because of customs and tax regulations, the Epson E-Stores in the U.S. and Canada are unable to ship to addresses outside the U.S. and Canada.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-0000956-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA54203~faq-0000956-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:32:46.139555"
+        },
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-0000ad0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA54203~faq-0000ad0-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:32:47.040169"
+        },
+        {
+          "question": "My product makes noise after I turn it on or after it has been sitting for a while. What should I do?",
+          "answer": "This is normal. It is performing routine maintenance.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-000096b-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA54203~faq-000096b-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:32:46.303956"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA54203~faq-00004b0-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:32:47.224294"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-00004dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA54203~faq-00004dc-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:32:48.154991"
+        },
+        {
+          "question": "How can I get a replacement CD for my product?",
+          "answer": "You can download the driver from the Downloads tab for your product.\nNote\n:\nOnly the drivers are available for download. Any extra software that came with the product is available only on the CD.\nIf you wish to obtain a replacement copy of the Software CD (stock permitting), please contact our Driver Fulfillment department at 562-276-4367 (US) or 905-709-3839 (Canada). A charge for shipping and handling plus any applicable taxes may apply.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-198080-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CA54203~faq-198080-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:32:49.076471"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Printing is slow. What should I do?",
+          "answer": "Check the following:\nIt takes a few moments for PictureMate to process your images before printing them. Note, larger image sizes will take longer to process.\nIf PictureMate is in a hot or sunny location, move it to a cooler place and try printing again.\nIf you are printing from a computer, make sure it meets the\nSystem Requirements\n.\nIf you print continuously for 30 minutes, PictureMate may slow down to prevent overheating. Leave the printer power on, but allow it to cool off by not printing for at least 30 minutes.\nIf you're printing a high-resolution image, you may need more than the minimum requirements listed. You may also need to:\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory (RAM).\nFor faster printing, try these tips:\nDon't print more than 40 pictures at a time.\nPhotos with borders print faster than borderless photos.\nTurn off special features such as color effects and red-eye reduction.\nIf PictureMate is connected to a USB hub, disconnect any USB devices that you're not using.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-150068?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA54203~faq-150068",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:32:50.054600"
+        },
+        {
+          "question": "Why does the wrong photo print?",
+          "answer": "Check the following:\nIf your camera supports DPOF, you can pre-select photos so PictureMate knows exactly what to print. See\nPrinting Camera-Selected DPOF Photos\nfor more information.\nIf your camera supports PictBridge, you can connect it to PictureMate and control printing from the camera. See\nPrinting From a Digital Camera\nfor details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151471?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA54203~faq-151471",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:32:50.988901"
+        },
+        {
+          "question": "Why does it take so long to scroll through my pictures on my product's display?",
+          "answer": "The file size of the pictures determines the viewing speed. Scrolling takes longer when you are viewing pictures with larger file sizes.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151489?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CA54203~faq-151489",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:32:51.923501"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "I installed a photo cartridge, but an error message says that it is not the initial cartridge. What should I do?",
+          "answer": "For the first cartridge, you must install the photo cartridge that comes in the box with your PictureMate. If you purchased additional PictureMate 200/300 Series Print Packs, use these photo cartridges only as replacements.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151522?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA54203~faq-151522",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:32:52.887940"
+        },
+        {
+          "question": "I see the message Cannot connect to Internet in Windows 8.1 after I select Driver Update in my product software. What should I do?",
+          "answer": "The\nDriver Update\noption does not work in Windows 8.1. All other driver options will work correctly.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-0000958-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA54203~faq-0000958-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:32:53.897337"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CA54203~faq-00004c5-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:32:54.879961"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "How do I replace the photo cartridge?",
+          "answer": "See\nReplacing the Photo Cartridge\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-150072?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA54203~faq-150072",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:32:55.810800"
+        },
+        {
+          "question": "How do I know when the photo cartridge needs to be replaced?",
+          "answer": "Your PictureMate will let you know when the photo cartridge is low or expended. See\nChecking Photo Cartridge Status\nin the\nUser's Guide\nfor more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151474?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA54203~faq-151474",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:32:56.731082"
+        },
+        {
+          "question": "How many photos will I get from my product Print Pack?",
+          "answer": "Epson has packaged the PictureMate Photo Cartridge with a quantity of 4×6 PictureMate Photo Paper, so that purchasing supplies for PictureMate is convenient and affordable. The number of sheets of photo paper in your PictureMate Print Pack is stated on the Print Pack's box. The photo ink cartridge in the Print Pack contains enough ink to allow borderless, color printing of about the stated number of sheets.\nOur estimate of the number of photos you can print with a PictureMate Print Pack is based on test printing with a range of 20 different color photos. Actual yields will vary based on images printed, print settings, paper type, frequency of use and temperature. For example, printing many copies of the same photo, or printing many black and white or sepia photos, may result in fewer photos per PictureMate Photo Cartridge. Also, the PictureMate Photo Cartridge once installed should be replaced with a new one within 6 months. For print quality, a variable amount of ink remains in the cartridge after the “Replace Print Pack” indicator comes on.\nFor more information see the\nPictureMate Show User's Guide\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151475?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA54203~faq-151475",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:32:57.680488"
+        },
+        {
+          "question": "How long should an ink cartridge remain in my product if it's not used often?",
+          "answer": "When an installed ink cartridge is more than six months old, you may need to replace it if you notice that your printouts don't look as good as they used to and quality doesn't improve after cleaning and aligning the print head.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151506?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA54203~faq-151506",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:32:59.302125"
+        },
+        {
+          "question": "Which photo cartridge should I use with my product?",
+          "answer": "Use the initial photo cartridge included with your PictureMate first. Then use the photo cartridges included with the T5846 or T5845-M Print Packs.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151520?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA54203~faq-151520",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:00.258088"
+        },
+        {
+          "question": "Can the Epson ink cartridges be refilled or can I use third-party ink cartridges without voiding the warranty?",
+          "answer": "Epson does not recommend refilling or using other brands of ink cartridges.  Epson uses a permanent Micro Piezo print head that has allowed Epson to lead the industry in delivering consistent photo image quality by using variable-sized droplets.  Micro Piezo print head can also use a wider variety of inks, which has allowed Epson to introduce such ink breakthroughs as DURABrite® and Epson UltraChrome® inks that offer greatly improved humidity resistance, smudge resistance, and fade resistance.\nUsing refilled ink cartridges will not void the product's original warranty; however, if these products cause a failure, the repair of that failure will not be covered under warranty.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-0000bf9-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA54203~faq-0000bf9-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:01.492060"
+        },
+        {
+          "question": "I brought my product with me to a different country and can't find ink for it. What should I do?",
+          "answer": "Some Epson printers and ink cartridges are specific to a regional market and not sold worldwide, although the same printers are sold in the U.S. and Canada. If you have a printer sold in the U.S. or Canada, you may not be able to easily get ink cartridges for it in foreign markets.\nUnfortunately, because of customs and tax regulations, the Epson E-Stores in the U.S. and Canada are unable to ship to addresses outside the U.S. and Canada.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-0000956-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CA54203~faq-0000956-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:02.576996"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Maintenance",
+      "section_id": "8796127242316",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "How do I clean my product?",
+          "answer": "To keep PictureMate working at its best, you should clean it several times a year.\nTurn off PictureMate, unplug the power cable, and disconnect the power adapter and any USB cable or device.\nRemove all paper, then use a soft brush to clean any dust or dirt from the paper feeder and output tray.\nClean the exterior with a soft, damp cloth.\nUse a soft, dry cloth to clean the screen. Do not use liquid or chemical cleaners.\nCaution:\nNever use a hard or abrasive brush, or alcohol or thinner for cleaning; they can damage the components and case.\nDon't get water on the components and don't spray lubricants or oils inside PictureMate.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151490?faq_cat=faq-8796127242316",
+          "faq_slug": "SPT_C11CA54203~faq-151490",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:03.649429"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Memory Cards or External Devices",
+      "section_id": "8796127307852",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "How do I transfer photos from a memory card to my computer?",
+          "answer": "See\nCopy Photos to and From Your Computer\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-150078?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CA54203~faq-150078",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:04.555631"
+        },
+        {
+          "question": "Can my product read multiple memory cards at the same time?",
+          "answer": "No. Insert just one card at a time.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-150077?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CA54203~faq-150077",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:05.490031"
+        },
+        {
+          "question": "My memory card is not recognized by my product. What should I do?",
+          "answer": "Check the following:\nInsert only one card at a time. PictureMate does not read from multiple cards at once.\nMake sure you're using a\ncompatible memory card\n.\nPictureMate recognizes and can print the first 9,999 photos on a memory card.\nPhotos must be in JPEG format and taken with a DCF-compliant camera.\nPictureMate cannot read progressive-scan JPEG files or RAW files.\nMake sure to format your memory card in your camera.\nIf you access the card from your computer and delete pictures, the card may not work correctly with your camera. Always delete pictures using your camera.\nIf you copy files from Adobe Photoshop to a memory card, save them as RGB images using the standard save option (non-progressive). Files saved in the CMYK format may not print with the colors you expect.\nIf you're using Windows XP or XP Professional x64 Edition, you may need to install your Windows storage device driver. See your Windows help for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151479?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CA54203~faq-151479",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:06.397623"
+        },
+        {
+          "question": "I deleted some photos from my memory card and now it isn't working in my camera. What should I do?",
+          "answer": "If you use your computer to delete pictures from a memory card, the card may not work correctly with your camera. If this happens, back up the memory card pictures to your computer, then use the camera to format the card. Remember to always delete your camera's pictures using your camera, not your computer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151480?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CA54203~faq-151480",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:07.315580"
+        },
+        {
+          "question": "Can my product read the images on my memory card that were saved in Adobe Photoshop?",
+          "answer": "Yes, but save them as RGB images using the standard save option (non-progressive). Files saved in the CMYK format may not print with the colors you expect.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151484?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CA54203~faq-151484",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:08.287213"
+        },
+        {
+          "question": "Which memory cards are compatible with my product?",
+          "answer": "You can use the following memory cards:\nSD (Secure Digital) and SDHC (High Capacity)\nminiSD* and miniSDHC*\nmicroSD* and microSDHC*\nSony Memory Stick**\nMemory Stick Duo*\nMemory Stick Micro*\nMemory Stick PRO\nMemory Stick PRO Duo*\nMemory Stick PRO-HG Duo*\nMagicGate Memory Stick**\nMagicGate Memory Stick Duo*\nMicrodrive\nCompactFlash (Type I and II)\n* Requires adapter. Consult your adapter documentation for any special instructions on using it.\n** Maximum capacity 128MB",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151503?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CA54203~faq-151503",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:09.226285"
+        },
+        {
+          "question": "Can I just pull the memory card out of my product when I'm finished printing?",
+          "answer": "No. Before removing a memory card from the PictureMate, make sure the memory card access light is not flashing. Do not remove a card while the card light is flashing, or you may lose data on the card.\nIf the PictureMate is connected to your computer, do one of the following before removing the memory card or turning it off:\nWindows:\nIf PictureMate is connected to your computer with a USB cable, right-click the name of your card (removable disk) in My Computer or Windows Explorer, and select\nEject\n.\nIf PictureMate is connected to your computer over a network connection, make sure that the memory card light is not flashing, then remove the card from the slot.\nMacintosh:\nIf PictureMate is connected to your computer with a USB cable, drag the\nremovable disk icon from your desktop into the trash.\nIf PictureMate is connected to your computer over a network connection, open the hard drive, click the\neject icon for the memory card, then remove the card from the slot.\nCaution\n: If your Macintosh is connected to the PictureMate over a network, do not drag the Memory Card application icon (see example icon below) to the Trash. If you accidentally delete the icon, you'll need to reinstall it to be able to access memory cards over your network.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151514?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CA54203~faq-151514",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:10.316470"
+        },
+        {
+          "question": "What is the largest supported memory card for my product?",
+          "answer": "See our\nMaximum Memory Card Specifications\npage for the specifications.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-156904?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CA54203~faq-156904",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:11.343887"
+        },
+        {
+          "question": "Can I read or write to my memory card when my product display indicates that one or more ink cartridges are expended?",
+          "answer": "Yes, you can read or write to a memory card when the installed ink cartridge is expended. However, you cannot read or write to a memory card if the ink cartridge is not installed.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-0000ab2-shared?faq_cat=faq-8796127307852",
+          "faq_slug": "SPT_C11CA54203~faq-0000ab2-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:12.285488"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "The paper will not feed correctly. What should I do?",
+          "answer": "Check the following:\nIf paper doesn't feed, remove it, separate the sheets slightly, reload it between the edge guides, and make sure the guides aren't too tight. See\nLoading Paper\nfor more information.\nIf multiple pages feed at once, remove the paper, separate the sheets, and carefully reload it.\nIf paper is jams, detach the output tray if necessary and remove the paper. Then press\nOK\nto clear the jam. Don't pull out jammed paper from the top of PictureMate.\nIf your paper loads incorrectly or jams frequently:\nUse new paper loaded with the glossy or whiter side up, and separate the sheets slightly.\nLoad a maximum of 20 sheets.\nMake sure your paper is beneath the arrow on the edge guides.\nDon't load plain paper; this may damage PictureMate.\nUse only PictureMate photo paper, or Epson Premium Photo Paper Glossy or Semigloss.\nStore paper flat to prevent curling.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-150070?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA54203~faq-150070",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:16.909612"
+        },
+        {
+          "question": "Can I print on plain paper with my product?",
+          "answer": "No. If you load plain paper, you may damage the PictureMate.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-150076?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA54203~faq-150076",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:17.829128"
+        },
+        {
+          "question": "What types of paper can I use with my product?",
+          "answer": "You can use the following types of paper:\nSize\n4 × 6 inches\nPaper types\nPictureMate photo paper (included with PictureMate Print Pack)\nEpson Premium Photo Paper Glossy\nEpson Premium Photo Paper Semi-gloss\nSince the quality of any particular brand or type of paper may be changed by the manufacturer at any time, Epson cannot guarantee the quality of any non-Epson brand or type of paper.\nCaution:\nDon't load plain paper; this may cause damage to PictureMate.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151481?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA54203~faq-151481",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:18.729897"
+        },
+        {
+          "question": "How should I store unused photo paper?",
+          "answer": "Store the paper flat to prevent curling, and keep it away from extreme temperatures, high humidity, and bright light.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151510?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CA54203~faq-151510",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:18.087185"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "My product sounds as though it is printing, but nothing prints. What should I do?",
+          "answer": "Check the following:\nPictureMate may be preparing to print.\nThe print head may need cleaning. See\nChecking and Cleaning the Print Head\n.\nPictureMate won't operate properly if it's tilted or at an angle. Place it on a flat, stable surface.\nMake sure paper is not jammed and is loaded correctly. See\nLoading Paper\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-150067?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA54203~faq-150067",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:19.014955"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Try the following:\nThe print head may need\ncleaning\n.\nBe sure to print with the glossy or whiter side of the paper face up.\nThe photo cartridge may need replacing. See\nReplacing the Photo Cartridge\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-150069?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA54203~faq-150069",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:19.952801"
+        },
+        {
+          "question": "My printout is blurry or smeared. What should I do?",
+          "answer": "Check the following:\nUse PictureMate photo paper to ensure proper saturation, absorption of ink, and quality.\nBe sure to print with the glossy or whiter side of the paper face up.\nThe print head may need\ncleaning\nor\naligning\n.\nMake sure your paper isn't damp or curled. If it is, load new paper.\nRemove each photo from the output tray after printing. Let each photo sit for a minute before handling it.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151464?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA54203~faq-151464",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:20.888415"
+        },
+        {
+          "question": "My printout is grainy when I print from any application. What should I do?",
+          "answer": "Check the following:\nThe print head may need aligning. See\nAligning the Print Head.\nMake sure the glossy and whiter side of the paper is face-up.\nYou may need to increase the image resolution; see your software documentation.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151465?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA54203~faq-151465",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:21.824948"
+        },
+        {
+          "question": "The printout is faint or has gaps. What should I do?",
+          "answer": "Check the following:\nThe print head may need cleaning, see\nChecking and Cleaning the Print Head\nfor instructions.\nThe photo cartridge may be old or low on ink. See\nReplace Print Pack\n.\nMake sure your paper isn't damaged, old, dirty, or loaded face-down. If it is, load new paper with the glossy or whiter side up.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151466?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA54203~faq-151466",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:22.766373"
+        },
+        {
+          "question": "The colors in my printed photo are wrong or missing. What should I do?",
+          "answer": "The problem could be due to a software setting or the condition of PictureMate. Check the following:\nThe print head may need cleaning; see\nChecking and Cleaning the Print Head\nfor instructions.\nThe photo cartridge may be old or ink may be low; see\nReplace Print Pack\n.\nIf you're printing from your computer, check your settings; See\nPrinting From a Windows Computer\nor\nPrinting From a Macintosh\n.\nMake sure the Color Effect setting is not set to\nBlack & White\nor\nSepia\n.\nTurn on the\nFix Photo\nor\nP.I.M.\nsetting; see\nAdjusting Photo Settings\nfor instructions.\nIf you copy files from Adobe Photoshop to a memory card, save them as RGB images using the standard save option (non-progressive). Files saved in the CMYK format may not print with the colors you expect.\nColors may change slightly after your print dries. Wait for 24 hours and check your photo again.\nMake sure your software is set for color printing.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151467?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA54203~faq-151467",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:23.699255"
+        },
+        {
+          "question": "My product is printing blank pages. What should I do?",
+          "answer": "Check the following:\nThe print head may need cleaning. See\nChecking and Cleaning the Print Head\n.\nThe photo cartridge may be old or low. See\nReplace Print Pack\nto replace it.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151468?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA54203~faq-151468",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:24.695115"
+        },
+        {
+          "question": "Why are the borders or layout incorrect?",
+          "answer": "Try the following:\nSelect a different Layout setting. If you're printing directly from PictureMate, see\nChoosing a Layout\n. If you're printing from a computer, see\nPrinting From a Computer\n.\nCrop your photo to enlarge and print only a part if it. See\nZooming and Cropping\nfor instructions.\nWhen you print borderless photos, PictureMate automatically expands your images. If your photos are cut off too much around the edges, you can adjust the amount of expansion. If you're printing directly from PictureMate see\nAdjusting Borderless Expansion\n. If you're printing from a computer see\nPrinting From a Computer\n.\nYour photo size may not match the width/height proportions (aspect ratio) of PictureMate photo paper or the layout you're using. Photos may be cropped to fit the paper and layout. You can use the Crop/Trim Photo(s) feature to size your photo the way you want.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151469?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA54203~faq-151469",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:25.615466"
+        },
+        {
+          "question": "Is there a print test I can run to determine what is causing my print quality problem?",
+          "answer": "Yes. See\nChecking and Cleaning the Print Head\nto determine if a problem is being caused by your PictureMate or some other source. Try printing another photo to determine if the print quality problem is caused by the image source.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151472?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA54203~faq-151472",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:26.502260"
+        },
+        {
+          "question": "My images saved as CMYK do not look correct. What should I do?",
+          "answer": "PictureMate automatically converts RGB images to CMYK. If the image is already CMYK, the color output will not be as expected. Try saving your images as RGB before printing.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151485?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA54203~faq-151485",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:27.410049"
+        },
+        {
+          "question": "My prints have too much magenta in them. What should I do?",
+          "answer": "Change the\nColor Effect\nsetting to\nNone\n. The settings you select are applied to all photos you print. They do not change your original image files.\nDo the following:\nPress the\nMenu\nbutton on the remote control.\nSelect\nAdjust Photo Settings\nand press\nOK\n.\nSelect\nColor Effect\nand press\nOK\n.\nSelect\nNone\nand press\nOK\nto apply the selected setting.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151492?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA54203~faq-151492",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:28.317305"
+        },
+        {
+          "question": "Why do my prints look blotchy?",
+          "answer": "The prints may look blotchy before they dry completely. Lay them flat and allow them to dry. Do not stack your photos with the printed sides touching.\nNote:\nSince the quality of any particular brand or type of paper can affect the quality of a print, Epson cannot guarantee the quality of any non-Epson brand or type of paper.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151493?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CA54203~faq-151493",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:29.322570"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "How can I get the latest my product software?",
+          "answer": "You can download the latest software from the Downloads for the PictureMate Show.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-150071?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA54203~faq-150071",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:30.304819"
+        },
+        {
+          "question": "How can I print wirelessly from a Bluetooth device with my product?",
+          "answer": "See\nPrinting Wirelessly From a Bluetooth Device\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-150074?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA54203~faq-150074",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:31.206297"
+        },
+        {
+          "question": "Can I connect my digital camera to my product and print directly from the camera?",
+          "answer": "Yes, if your digital camera supports PictBridge printing. For more information, see\nPrinting From a Digital Camera\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-150075?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA54203~faq-150075",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:32.121320"
+        },
+        {
+          "question": "How do I uninstall my product software?",
+          "answer": "Follow the instructions below for your computer system.\nNote:\nDo not turn off or disconnect PictureMate while you are uninstalling the software.\nWindows\nClick\nStart\nor\n, and select\nPrograms\nor\nAll Programs\n.\nSelect\nEpson\nor\nEpson Printers\n, then select\nEpson Printer Software Uninstall\n.\nNote:\nWith Windows Vista or Windows 7, click\nContinue\n, then go to the next step.\nIn the next window, select your Epson PictureMate printer and click\nOK\n. Then follow the on-screen instructions.\nRestart your computer.\nMacintosh\nQuit all running applications.\nInsert the PictureMate CD-ROM into your Macintosh.\nDouble-click the\nEpson\nicon.\nUnselect all of the items listed, except\nPrinter Driver\n. (Make sure\nPrinter Driver\nstays selected.)\nClick\nInstall\n. (If you see a dialog box prompting you to enter your administrator password, enter your password or phrase and click\nOK\n.) A EPSON_IJ_Printer window appears.\nNote:\nThe administrator password authenticates or verifies that you are a user with administrator privileges. If you do not know this password, contact the person who administers your computer or Apple for assistance. Epson cannot provide this information to you.\nOpen the drop-down box in the upper area of the window and select\nUninstall\n.\nClick\nUninstall\nnear the bottom-right side of the window.\nFollow the on-screen instructions to uninstall the PictureMate software.\nAfter the uninstall, do one of the following:\nMac OS X 10.5 and 10.6\nOpen\nSystem Preferences\n, and select\nPrint & Fax\n. Select your PictureMate model, and click the\n-\nbutton.\nMac OS X 10.3 and 10.4\nOpen the\nApplications\nfolder, open\nUtilities\n, and select\nPrinter Setup Utility\n. Select your PictureMate model, and click\nDelete\n.\nRestart your Macintosh.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151473?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA54203~faq-151473",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:33.028624"
+        },
+        {
+          "question": "Can my product be networked?",
+          "answer": "Yes. You can set up PictureMate as a shared printer. See\nSet Up Network Printing\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151478?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA54203~faq-151478",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:33.923920"
+        },
+        {
+          "question": "Can I restore my product print settings to their original values?",
+          "answer": "Yes. See\nReturning to Default Settings\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151482?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA54203~faq-151482",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:34.876925"
+        },
+        {
+          "question": "I am having problems installing my product software. What should I do?",
+          "answer": "Check the following:\nMake sure you follow the instructions for\nInstalling Software and Connecting PictureMate\nin the User's Guide. Don't connect PictureMate to your computer until you are instructed to.\nClose other programs, including screen savers and virus protection software, and try installing again.\nMake sure your computer meets the\nSystem Requirements\nto use PictureMate.\nIf you're printing over a network, make sure you're computer is configured for shared printing with PictureMate. See\nSet Up Network Printing\nfrom instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151488?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA54203~faq-151488",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:35.916546"
+        },
+        {
+          "question": "When I print from Windows 7, the printing time is slow or my product stops printing. What should I do?",
+          "answer": "Try the following:\nSelect a lower quality setting in the printer software.\nMake sure your system meets the minimum system requirements for your printer.\nClose the\nDevices and Printer\nin Windows 7 before you print.\nClear space on your hard drive or run a defragmentation utility.\nClose programs that you're not using.\nIncrease your system's memory.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151515?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA54203~faq-151515",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:36.881030"
+        },
+        {
+          "question": "How do I set default print settings when I print from Windows or my Mac?",
+          "answer": "When you change your print settings from within a program, the changes apply only while you're printing at that time in the open program. If you want to select different settings to use in all your programs, you can change the default print settings. Follow the steps below for your operating system to change the default print settings.\nWindows 2000, XP, Vista, 7\nRight-click the\nprinter icon in the task bar (bottom-right corner of your screen), and select\nPrinter Settings\n.\nIf you don't see a\nprinter icon in the taskbar, do one of the following:\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click the EPSON PictureMate PM 300 and select\nPrinting Preferences\n.\nWindows Vista\n: Click\n, select\nControl Panel\n, and click\nPrinter\nunder\nHardware and Sound\n. Right-click the EPSON PictureMate PM 300 and select\nPrinting Preferences\n.\nWindows XP\n: Click\nStart\n, select\nControl Panel\n, then select\nPrinters and Faxes\n(or\nPrinters and Other Hardware\nand then\nPrinters and Faxes\n). Right-click the EPSON PictureMate PM 300 and select\nPrinting Preferences\n.\nWindows 2000\n: Click\nStart\n, point to\nSettings\n, then select\nPrinters\n. Right-click the EPSON PictureMate PM 300 and select\nPrinting Preferences\n.\nSelect the settings you want to use as defaults in all your Windows programs.\nClick\nOK\nto accept the changes.\nMacintosh 10.5.x and 10.6.x\nOpen a document and select\nPrint\nfrom the File menu.\nSelect the print settings you want to to save.\nClick the\nPresets\npop-up menu and do one of the following:\nSelect\nLast Used Settings\n.\nSelect\nSave As\n, enter a name for your preset, and click\nOK\n.\nClick\nPrint\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151513?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA54203~faq-151513",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:37.857005"
+        },
+        {
+          "question": "How do I set the Date and Time on my product?",
+          "answer": "Do the following:\nPress the\nMenu\nbutton on the remote control.\nSelect\nSetup\nand press\nOK\n.\nSelect\nDate/Time\nand press\nOK\n.\nPress\nor\nto change the year, then press\nto move to the month.\nRepeat step 4 for the month and day, then press\nOK\n.\nRepeat the process to set the time format and time, then press\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151517?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA54203~faq-151517",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:38.747645"
+        },
+        {
+          "question": "Can I restore my product's original default settings?",
+          "answer": "Yes. Do the following:\nPress the\nMenu\nbutton on the remote control.\nSelect\nSetup\nand press\nOK\n.\nSelect\nRestore Default Settings\nand press\nOK\n.\nWhen you see the confirmation, select\nYes\nand press\nOK\nto restore the original settings.\nPress\nOK\nto finish.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151516?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA54203~faq-151516",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:39.634316"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "You can download the latest product driver from the Downloads section of this website.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-0000afb-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA54203~faq-0000afb-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:40.549989"
+        },
+        {
+          "question": "How can I get a replacement CD for my product?",
+          "answer": "You can download the driver from the Downloads tab for your product.\nNote\n:\nOnly the drivers are available for download. Any extra software that came with the product is available only on the CD.\nIf you wish to obtain a replacement copy of the Software CD (stock permitting), please contact our Driver Fulfillment department at 562-276-4367 (US) or 905-709-3839 (Canada). A charge for shipping and handling plus any applicable taxes may apply.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-198080-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA54203~faq-198080-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:41.693038"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA54203~faq-00004dc-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:42.605581"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA54203~faq-0000f4b-shared",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:43.514192"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CA54203~faq-0000f4c-shared",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:44.395620"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Wireless or Wired Connection",
+      "section_id": "8796127635532",
+      "section_order": 9,
+      "faqs": [
+        {
+          "question": "I am unable to connect my product to a wireless network. What should I do?",
+          "answer": "The printer does not come with built-in wireless features and does not support a wireless (or Ethernet) connection to a network router. Only a direct wired connection to the computer is supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-0000ad0-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CA54203~faq-0000ad0-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:45.357366"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 10,
+      "faqs": [
+        {
+          "question": "How should I transport my product?",
+          "answer": "See\nTake PictureMate With You\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-150073?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA54203~faq-150073",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:46.244014"
+        },
+        {
+          "question": "Nothing happens when I try to print. What should I do?",
+          "answer": "If you're printing from your computer, make sure the USB cable is connected securely at both ends and that the cable meets the\nSystem Requirements\n.\nIf you're printing on a network, see\nSet Up Network Printing\nfor instructions on configuring your PictureMate software for use on a network. If more than one printer driver is installed, make sure the correct driver is selected.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151463?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA54203~faq-151463",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:47.222747"
+        },
+        {
+          "question": "Too many copies are print. What should I do?",
+          "answer": "Make sure that the\nCopies\noption in your software or on PictureMate is set for the number of copies you want to print.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151470?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA54203~faq-151470",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:48.170128"
+        },
+        {
+          "question": "I received fewer prints than the number of sheets of paper in my product Print Pack and would like a refund. How do I request the refund?",
+          "answer": "See\nPictureMate Print Pack Satisfaction Guarantee\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151483?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA54203~faq-151483",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:49.035488"
+        },
+        {
+          "question": "Which battery should I use to replace the battery in the remote control?",
+          "answer": "A CR2025 lithium battery.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151491?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA54203~faq-151491",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:48.394967"
+        },
+        {
+          "question": "The product's power will not turn on. What should I do?",
+          "answer": "Check the following:\nPress the\nOn\nbutton on PictureMate's side to turn it on. (You can only use the\nOn\nbutton on the remote control when the power light is orange.)\nMake sure the power cable and AC adapter are securely connected at both ends.\nMake sure your power outlet works and is not controlled by a wall switch or timer.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151494?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA54203~faq-151494",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:49.333233"
+        },
+        {
+          "question": "How should I store and display my photos?",
+          "answer": "Follow the guidelines below:\nCaring for you Photos\nTo avoid scratches or smudging, do not rub the printed side of the photo.\nTo prevent smudging, avoid stacking your photos until they are completely dry.\nLet photos sit for 24 hours before framing.\nAfter you print, the colors on your photos will take some time to set as the ink dries. During this time, the colors may look different than you expect.\nDisplaying Your Photos\nTo ensure photos will last as long as possible, display them under glass or in photo albums.\nKeep photos out of the sun to help prevent fading.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151509?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA54203~faq-151509",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:50.202426"
+        },
+        {
+          "question": "How do I back up photos?",
+          "answer": "Before you start, make sure PictureMate is not connected to your computer, then Do the following:\nInsert your memory card into PictureMate.\nInsert a USB storage device or thumb drive into the\nport on the side of PictureMate.\nFrom the Home menu, select\nPhoto Storage\n.\nPress\nOK\n.\nSelect\nSave All Photos\n.\nPress\nOK\n, then read the message and press\nOK\nagain.\nFollow the instructions on the screen to complete the backup.\nIf you need to cancel the backup, press\nStop/Clear\n.\nCaution:\nAvoid handling the printer during backup. Also, do not remove the memory card while photos are being saved, or you may lose photos on your card.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151511?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA54203~faq-151511",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:51.247466"
+        },
+        {
+          "question": "The remote control will not turn on my product. What should I do?",
+          "answer": "Press the\nOn\nbutton on the side of the printer to turn on PictureMate (the power light should turn green). The\nOn\nbutton on the remote control is used to place PictureMate in standby mode to save energy.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-151518?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA54203~faq-151518",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:52.213706"
+        },
+        {
+          "question": "My product makes noise after I turn it on or after it has been sitting for a while. What should I do?",
+          "answer": "This is normal. It is performing routine maintenance.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-000096b-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA54203~faq-000096b-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:53.157812"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA54203~faq-00004b0-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:54.106470"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CA54203~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CA54203~faq-0000f4a-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/PictureMate-Series/Epson-PictureMate-Show-PM-300/s/SPT_C11CA54203",
+          "fetched_at": "2026-04-02T04:33:55.028144"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

@@ -1,0 +1,1065 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "WorkForce Series",
+  "model": {
+    "name": "Epson WorkForce Pro WF-C529R",
+    "sku": "SPT_C11CG79201",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "Where can I find information on using my Epson product with Google Cloud Print?",
+          "answer": "See our\nGoogle Cloud Print Support\npage.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-000049e-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CG79201~faq-000049e-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:11.308649"
+        },
+        {
+          "question": "What are the port numbers for Epson network printers (wired and wireless)?",
+          "answer": "See the table below.\nNote:\nNot all operations are supported by all products.\nService name\nProtocol type\nLocal/Remote port number\nControls these operations\nENPC\nUDP\n3289/Any port\nSearching for a product from applications such as printer or scanner drivers, or EpsonNet Config\nSNMP\nUDP\n161/Any port\nAcquiring and configuring MIB from applications such as printer or scanner drivers, or EpsonNet Config\nLPR\nTCP\n515/Any port\nForwarding LPR data\nRAW (Port9100)\nTCP\n9100/any port\nForwarding RAW data\nIPP/IPPS\nTCP\n631/Any port\nForwarding AirPrint data (IPP/IPPS printing)\nWSD\nTCP\nAny port/5357\nControlling WSD\nWS-Discovery\nUDP\n3702/Any port\nSearching for a product from WSD\nNetwork Scan\nTCP\n1865/Any port\nForwarding scan data from Document Capture Pro and Document Capture\nNetwork Push Scan\nTCP\nAny port/2968\nAcquiring job information on push scanning from Document Capture Pro and Document Capture\nNetwork Push Scan Discovery\nUDP\n2968/Any port\nSearching for a computer during push scanning from Document Capture Pro and Document Capture\nFTP Data (Local)\nTCP\n20/Any port\nForwarding FTP printing data to FTP server\nFTP Control (Local)\nTCP\n21/Any port\nControlling FTP printing to FTP server\nFTP Data (Remote)\nTCP\nAny port/20\nForwarding scan data and received fax data to FTP client; controls only an FTP server that uses remote port 20\nFTP Control (Remote)\nTCP\nAny port/21\nForwarding scan data and received fax data to FTP client\nCIFS (Local)*\nTCP\n445/Any port\nSharing a network folder on CIFS server\nCIFS (Remote)*\nTCP\nAny port/445\nForwarding scan data and received fax data to a folder on CIFS server\nNetBIOS Name Service (Local)\nUDP\n137/Any port\nSharing a network folder on CIFS server\nNetBIOS Datagram Service (local)\nUDP\n138/Any port\nNetBIOS Session Service (Local)\nTCP\n139/Any port\nNetBIOS Name Service (Remote)\nUDP\nAny port/137\nForwarding scan data and received fax to a folder on CIFS server\nNetBIOS Datagram Service (Remote)\nUDP\nAny port/138\nNetBIOS Service (Remote)\nTCP\nAny port/139\nHTTP (Local)\nTCP\n80/Any port\nForwarding Web Config and WSD data to a HTTP or HTTPS server\nHTTPS (Local)\nTCP\n443/Any port\nHTTP (Remote)\nTCP\nAny port/80\nCommunicating with Epson Connect or Chromebook Native Printing, firmware update, and root certificate update on a HTTP or HTTPS client\nHTTPS (Remote)\nTCP\nAny port/443\n* To control forwarding of scan and received fax data, share a network folder, or receive fax data from PC-Fax, select\nPort Number\nas the\nMethod of Choosing Port\noption and specify the port numbers for CIFS and NetBIOS.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000525-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CG79201~faq-0000525-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:12.887868"
+        },
+        {
+          "question": "What security measures does Epson recommend for its network products?",
+          "answer": "To help deter unauthorized access to your product over a network, you should protect your network environment using appropriate security measures.\nSecurity measures such as these can help deter threats such as loss of user data, use of telephone and fax lines, and other intrusions:\nEnable security on your wireless LAN if your product supports a wireless connection\nEnable the appropriate security on the wireless LAN you plan to use with your product. Network security, such as a network password, can deter interception of traffic over the wireless LAN. Your router may already have a default password enabled by your Internet service provider (ISP). See your ISP and router documentation for instructions on how to change the default password and better secure your network.\nConnect your product only to a network protected by a firewall\nConnecting your product directly to the Internet may leave it vulnerable to security threats. Instead, connect it to a router or other networking device protected by a firewall. Your router may already have a firewall set up by your Internet service provider; check with your ISP for confirmation. For best results, set up and use a private IP address for your network connection.\nChange the default administrator password on your product\nIf your product has an option to set an administrator password, change the default administrator password to deter access by unauthorized users to personal data stored on your product, such as IDs, passwords, and contact lists. See the product's User's Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000a05-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CG79201~faq-0000a05-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:13.990552"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CG79201~faq-00004b0-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:15.122206"
+        },
+        {
+          "question": "I can print with a wireless connection on my home network, but not on a VPN (virtual private network). What should I do?",
+          "answer": "When you connect to a VPN, your computer is no longer communicating with your home (local) network, so it can't print to the product. Some VPNs allow for access to the local network. This depends on if your VPN supports the feature and is enabled. Consult with the supporter of your VPN software (such as your IT department) for help. Otherwise, disconnect from your VPN to connect to your home network again to print.\nNote:\nIf you set up your product with Epson Connect, you can use Epson Remote Print to print over the Internet from a VPN. To download the Epson Remote Print driver, see the Downloads tab on your product's support page.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000504-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CG79201~faq-0000504-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:16.310799"
+        },
+        {
+          "question": "How do I print labels in Microsoft Office?",
+          "answer": "See the\nCreate and print labels\npage on the Microsoft support site for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00004bd-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CG79201~faq-00004bd-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:17.416307"
+        },
+        {
+          "question": "How do I reduce the appearance of red eyes in my photos?",
+          "answer": "Turn on the\nFix Red-Eye\nsetting in the printer software or from the product's control panel, if available for your product.\nNote:\nDue to the complexity and nature of some photographs, not all images can be corrected. If the Fix Red-Eye setting does not fix the photo, you need to use a software application such as Adobe Photoshop or Adobe Elements to fix it.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00004b9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CG79201~faq-00004b9-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:18.629288"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00004c5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CG79201~faq-00004c5-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:19.691829"
+        },
+        {
+          "question": "How do I change the font size of text when I print from software in Windows?",
+          "answer": "You need to select the text or font size in the software you are printing from, not the printer driver. For detailed instructions, contact the company for the application you are printing from.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00004b7-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CG79201~faq-00004b7-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:20.760740"
+        },
+        {
+          "question": "My product will not wake up when I try to print with a wireless connection. What should I do?",
+          "answer": "Turn the product off and on. If you can print now, the problem is related to your wireless router. Contact the manufacturer of your router for assistance or try using a different router.\nIf you cannot print after turning the product off and on, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00004c8-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CG79201~faq-00004c8-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:22.019351"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Cloud or Mobile",
+      "section_id": "8796127340620",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Where can I find information on using my Epson product with Google Cloud Print?",
+          "answer": "See our\nGoogle Cloud Print Support\npage.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-000049e-shared?faq_cat=faq-8796127340620",
+          "faq_slug": "SPT_C11CG79201~faq-000049e-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:23.274739"
+        },
+        {
+          "question": "How do I print from a Chromebook with my product?",
+          "answer": "Your Epson printer supports native printing on Chromebook, allowing you to print from a Chromebook without drivers or cables.\nFor directions on setting up your printer, visit\nSetting Up Your Epson Printer on Your Chromebook\n(U.S.) or\nSetting Up Your Epson Printer on Your Chromebook\n(Canada).\nRelated information\nWi-Fi or Wired Networking",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000d52-wfc529r?faq_cat=faq-8796127340620",
+          "faq_slug": "SPT_C11CG79201~faq-0000d52-wfc529r",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:24.454621"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "How do I set up my product to print only Black or Grayscale from Windows or my Mac?",
+          "answer": "Open a document and follow the steps below for your operating system to select\nBlack/Grayscale\nor\nGrayscale\nin the printer driver.\nNote:\nThe information below applies only to the Standard Epson printer software.\nNote:\nIf your product displays a message instructing you to replace an expended ink pack, you need to replace the ink pack before you can print.\nWindows\nSelect the print command in your application.\nMake sure the product is selected.\nClick\nPrinter Properties\n,\nProperties\n, or\nPreferences\n.\nNote:\nIf you don't see these buttons, click\nSetup\n,\nPrinter\n, or\nOptions\n, and click\nPrinter Properties\n,\nProperties\n, or\nPreferences\non the next screen.\nClick the\nMain\ntab.\nSelect\nGrayscale\nas the\nColor\nsetting.\nClick\nOK\n.\nMac\nSelect the print command in your application.\nMake sure the product is selected.\nNote:\nClick the arrow next to the Printer setting or the\nShow Details\nbutton to expand the print window, if necessary.\nSelect\nPrint Settings\nfrom the printer options pop-up menu.\nSelect the\nGrayscale\ncheckbox.\nClick\nPrint\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00004f9-wfc529r?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CG79201~faq-00004f9-wfc529r",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:25.541295"
+        },
+        {
+          "question": "Printing is slow over my wireless connection. What should I do?",
+          "answer": "Try the following:\nMove the computer and your Epson product closer to your wireless router or access point.\nDon't place the computer, product, or wireless access point near microwaves, cordless telephones, or other sources of wireless interference.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000503-wfc529r?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CG79201~faq-0000503-wfc529r",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:26.714445"
+        },
+        {
+          "question": "Printing is slow or the printer stops printing when I try to print from Windows or my Mac. What should I do?",
+          "answer": "If printing becomes slow, try these solutions:\nMake sure your system meets the requirements for your operating system. If you are printing a high-resolution image, you may need more than the minimum requirements. If necessary, increase your system's memory.\nIf you are using Windows 7, close the\nDevices and Printers\nwindow before you print.\nMake sure\nQuiet Mode\nis turned off.\nClear space on your hard drive or run a defragmentation utility to free up existing space.\nClose any programs you are not using when you print.\nIf your product is connected to a USB hub, connect it directly to your computer instead.\nIf printing becomes slower after printing continuously for a long time, the product may have automatically slowed down to protect the print mechanism from overheating or becoming damaged. Let the product rest with the power on for 30 minutes, then try printing again.\nIf you are using the Windows PostScript printer software, try selecting\nFast\nas the\nPrint Quality\nsetting on the Advanced tab of the printer software.\nFor the fastest printing, select the following settings in your product software:\nMake sure the paper type setting matches the type of paper you loaded.\nTurn on any high speed settings in your product software.\nSelect a lower print quality setting.\nMake sure the ink drying time has not been increased for double-sided printing.\nWindows\n: Click the\nMaintenance\nor\nUtility\ntab, select\nExtended Settings\nor\nSpeed and Progress\n, and select the following settings:\nAlways Spool RAW Datatype\nPage Rendering Mode\nPrint as Bitmap\nWindows\n: Select\nPrinting preferences\n, click the\nMore Options\ntab, and make sure the\nHigh Speed\nsetting is enabled.\nMac\n: Select\nSystem Preferences\n, select\nPrinters & Scanners\n, and select your product. Select\nOptions & Supplies\n, select\nOptions\n(or\nDriver\n), and enable the\nHigh Speed Printing\nsetting.\nIf printing is still slow and you are using Windows 7 or Windows Vista, try the following:\nClick\nand select\nComputer\nor\nMy Computer\n. Double-click the\nC:\ndrive and open these folders:\nProgramData > EPSON > PRINTER\n.\nNote:\nIf you do not see the ProgramData folder, open the\nOrganize\nmenu and select\nFolder and search options\n. In the window that appears, click the\nView\ntab, select\nShow hidden files, folders, and drives\nin the Advanced settings list, and click\nOK\n.\nRight-click the\nEPAUDF01.AUD\nfile and select\nDelete\n.\nRestart your computer and try printing again.\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Extended Settings - Windows\nSelecting Basic Print Settings - Mac\nRelated references\nPaper or Media Type Settings - Printing Software\nWindows System Requirements\nMac System Requirements",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00004c6-wfc529r?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CG79201~faq-00004c6-wfc529r",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:27.831952"
+        },
+        {
+          "question": "I can print with a wireless connection on my home network, but not on a VPN (virtual private network). What should I do?",
+          "answer": "When you connect to a VPN, your computer is no longer communicating with your home (local) network, so it can't print to the product. Some VPNs allow for access to the local network. This depends on if your VPN supports the feature and is enabled. Consult with the supporter of your VPN software (such as your IT department) for help. Otherwise, disconnect from your VPN to connect to your home network again to print.\nNote:\nIf you set up your product with Epson Connect, you can use Epson Remote Print to print over the Internet from a VPN. To download the Epson Remote Print driver, see the Downloads tab on your product's support page.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000504-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CG79201~faq-0000504-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:27.189079"
+        },
+        {
+          "question": "How do I print labels in Microsoft Office?",
+          "answer": "See the\nCreate and print labels\npage on the Microsoft support site for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00004bd-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CG79201~faq-00004bd-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:28.348377"
+        },
+        {
+          "question": "How do I enable double-sided printing for my product in Windows or on my Mac?",
+          "answer": "See below.\nSelecting Double-sided Printing Settings - Windows\nYou can print on both sides of the paper by selecting one of the 2-Sided Printing options on the Main tab.\nNote:\nSome options may be pre-selected or unavailable, depending on other settings you have chosen or if you are accessing the product over a network.\nSelect one of the following options for\n2-Sided Printing\n:\nAuto (Long-edge binding)\nto print your double-sided print job by automatically flipping the paper on the long edge.\nAuto (Short-edge binding)\nto print your double-sided print job by automatically flipping the paper on the short edge.\nManual (Long-edge binding)\nto print your double-sided print job by printing one side and prompting you to flip the paper over on the long edge to print the other side (recommended for paper types that do not support automatic duplexing).\nClick the\nSettings\nbutton. You see this window:\nSelect the double-sided printing options you want to use.\nClick\nOK\nto return to the Main tab.\nClick the\nPrint Density\nbutton. You see this window:\nSelect the type of document you are printing as the Document Type setting. The software automatically sets the Adjustments options for that document type.\nIf necessary, select the Adjustments options you want to use.\nClick\nOK\nto return to the Main tab.\nPrint a test copy of your double-sided document to test the selected settings.\nFollow any instructions displayed on the screen during printing.\nRelated tasks\nSelecting Basic Print Settings - Windows\nRelated references\nDouble-sided Printing Capacity\nSelecting Double-sided Printing Settings - Mac\nYou can print on both sides of the paper by selecting\nTwo-sided Printing Settings\nfrom the pop-up menu on the print window.\nNote:\nSome options may be pre-selected or unavailable, depending on other settings you have chosen or if you are accessing the product over a network. This screen may be different, depending on the Mac OS version you are using.\nSelect one of the\nTwo-sided Printing\noptions.\nSelect the type of document you are printing as the\nDocument Type\nsetting. The software automatically sets the Adjustments options for that document type.\nIf necessary, customize the Adjustments settings as instructed on the screen.\nPrint a test copy of your double-sided document to test the selected settings.\nFollow any instructions displayed on the screen during printing.\nRelated references\nDouble-sided Printing Capacity",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-000048d-wfc529r?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CG79201~faq-000048d-wfc529r",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:29.461105"
+        },
+        {
+          "question": "How do I set up my product for the fastest printing?",
+          "answer": "If printing becomes slow, try these solutions:\nMake sure your system meets the requirements for your operating system. If you are printing a high-resolution image, you may need more than the minimum requirements. If necessary, increase your system's memory.\nIf you are using Windows 7, close the\nDevices and Printers\nwindow before you print.\nMake sure\nQuiet Mode\nis turned off.\nClear space on your hard drive or run a defragmentation utility to free up existing space.\nClose any programs you are not using when you print.\nIf your product is connected to a USB hub, connect it directly to your computer instead.\nIf printing becomes slower after printing continuously for a long time, the product may have automatically slowed down to protect the print mechanism from overheating or becoming damaged. Let the product rest with the power on for 30 minutes, then try printing again.\nIf you are using the Windows PostScript printer software, try selecting\nFast\nas the\nPrint Quality\nsetting on the Advanced tab of the printer software.\nFor the fastest printing, select the following settings in your product software:\nMake sure the paper type setting matches the type of paper you loaded.\nTurn on any high speed settings in your product software.\nSelect a lower print quality setting.\nMake sure the ink drying time has not been increased for double-sided printing.\nWindows\n: Click the\nMaintenance\nor\nUtility\ntab, select\nExtended Settings\nor\nSpeed and Progress\n, and select the following settings:\nAlways Spool RAW Datatype\nPage Rendering Mode\nPrint as Bitmap\nWindows\n: Select\nPrinting preferences\n, click the\nMore Options\ntab, and make sure the\nHigh Speed\nsetting is enabled.\nMac\n: Select\nSystem Preferences\n, select\nPrinters & Scanners\n, and select your product. Select\nOptions & Supplies\n, select\nOptions\n(or\nDriver\n), and enable the\nHigh Speed Printing\nsetting.\nIf printing is still slow and you are using Windows 7 or Windows Vista, try the following:\nClick\nand select\nComputer\nor\nMy Computer\n. Double-click the\nC:\ndrive and open these folders:\nProgramData > EPSON > PRINTER\n.\nNote:\nIf you do not see the ProgramData folder, open the\nOrganize\nmenu and select\nFolder and search options\n. In the window that appears, click the\nView\ntab, select\nShow hidden files, folders, and drives\nin the Advanced settings list, and click\nOK\n.\nRight-click the\nEPAUDF01.AUD\nfile and select\nDelete\n.\nRestart your computer and try printing again.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00007fd-wfc529r?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CG79201~faq-00007fd-wfc529r",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:30.645138"
+        },
+        {
+          "question": "How do I print a multi-page document from Windows or my Mac so it stacks in the correct page order?",
+          "answer": "Open the document and follow the steps below for your operating system.\nNote:\nThe information below applies only to the Standard Epson printer software.\nWindows\nSelect the print command in your application.\nMake sure your product is selected.\nClick\nPrinter Properties\n,\nProperties\n, or\nPreferences\n.\nNote:\nIf you don't see these buttons, click\nSetup\n,\nPrinter\n, or\nOptions\n, and click\nPrinter Properties\n,\nProperties\n, or\nPreferences\non the next screen.\nClick the\nMain\ntab.\nSelect\nReverse Order\n.\nClick\nOK\n.\nMac\nSelect the print command in your application.\nMake sure your product is selected. Click the arrow next to the Printer setting or the\nShow Details\nbutton to expand the print window, if necessary.\nSelect\nPaper Handling\nfrom the printer options pop-up menu.\nSelect\nReverse\nas the Page Order setting.\nClick\nPrint\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000501-wfc529r?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CG79201~faq-0000501-wfc529r",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:31.753599"
+        },
+        {
+          "question": "I was able to print from my Mac before with a USB connection, but now I can't. What should I do?",
+          "answer": "This problem can be caused by your printer, the connection, or the computer. Do the following:\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these\ninstructions\n.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for errors and clear them. See these\ninstructions\n. Try printing a nozzle check pattern again. If you can print, go to the next step. Otherwise, contact Epson Support.\nTurn your product off and on again and try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nDelete any pending print jobs from the Epson print queue\nand try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nOn your Mac, open the\nmenu and select\nSystem Preferences\n. Select\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n, select your printer, and then click\nto remove the printer. Click\n, select your printer with Kind set as\nUSB\n, select your printer from the Use drop-down list, and then click\nAdd\n. This adds the printer back to the printer queue. Try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nTurn off your product, make sure the USB cable is securely connected, and then turn on your product and try printing again.\nNote:\nIf you're using a hub or switchbox, connect the product directly to your computer.\nIf you still can't print, make sure the USB cable is a shielded cable no more than 6.5 feet (2 meters) long. Also, try connecting the cable to another USB port on your computer or use a different cable. Try printing again. If you can print, you're done. Otherwise, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000911-wfc529r?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CG79201~faq-0000911-wfc529r",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:32.958814"
+        },
+        {
+          "question": "I was able to print from Windows before with a USB connection, but now I can't. What should I do?",
+          "answer": "This problem can be caused by your printer, the connection, or the computer. Do the following:\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these\ninstructions\n.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for errors and clear them. See these\ninstructions\n. Try printing a nozzle check pattern again. If you can print, go to the next step. Otherwise, contact Epson Support.\nTurn your product off and on again and try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nDelete any pending print jobs from the Epson print queue\nand try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nIn the Epson print queue, select\nPrinter\nand deselect the\nUse Printer Offline\ncheckbox. If you can print, you're done. Otherwise, go to the next step.\nTurn off your product, make sure the USB cable is securely connected, and then turn on your product and try printing again.\nIf you still can't print, make sure the USB cable is a shielded cable no more than 6.5 feet (2 meters) long. Also, try connecting the cable to another USB port on your computer or use a different cable. Try printing again.\nNote:\nIf you're using a hub or switchbox, connect the product directly to your computer.\nIf you can print now, you're done. If you can't print, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000912-wfc529r?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CG79201~faq-0000912-wfc529r",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:34.106251"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CG79201~faq-00004c5-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:35.392990"
+        },
+        {
+          "question": "What does the message on my product's LCD screen mean?",
+          "answer": "See below.\nProduct Status Messages\nYou can often diagnose problems with your product by checking the messages and status icons on its LCD screen.\nNote:\nIf the screen is dark, press the screen to wake the product from sleep mode.\nLCD screen message\nCondition/solution\nPrinter error. Turn on the printer again. See your documentation for more details.\nTurn the product off and then back on again. If the error persists, check for and remove any jammed paper or protective materials from the product. If the error still persists, contact Epson for support.\nIf you see any of the following error codes, make sure you have not exceeded the loading capacity for any paper source:\n000181\n000184\nPaper out in XX.\nLoad the size and type of paper in the paper source indicated.\nToo many paper cassette units are installed. Turn the power off and uninstall the extra units. See your documentation for details.\nYou can use up to three total paper cassettes. Remove any extra units.\nCannot print because XX is out of order. You can print from another cassette.\nTurn the product off and then back on again. Reinsert the indicated paper cassette. If the error persists, contact Epson for support.\nYou need to replace Ink Supply Unit(s).\nReplace the indicated ink packs.\nPaper Configuration is set to Off. Some features may not be available. For details, see your documentation.\nAirPrint is not available when the\nPaper Setup Auto Display\nsetting is disabled. Change\nPaper Setup Auto Display\nto\nOn\n.\nThe combination of the IP address and the subnet mask is invalid. See your documentation for more details.\nContact your product administrator.\nTo use cloud services, update the root certificate from the Epson Web Config utility.\nContact your product administrator.\nCheck that the printer driver is installed on the computer and that the port settings for the printer are correct.\nMake sure the printer port is selected correctly in\nProperty\n>\nPort\nfrom the Printer menu. Select the\nUSBXXX\nsetting for a USB connection or\nEpsonNet Print Port\nfor a network connection.\nCheck that the printer driver is installed on the computer and that the USB port settings for the printer are correct.\nRecovery mode\nContact your product administrator.\nRelated tasks\nRemoving and Installing Ink Packs\nAccessing the Web Config Utility\nChecking for Software Updates\nRelated references\nWhere to Get Help\nRelated information\nWi-Fi or Wired Networking",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00007f1-wfc529r?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CG79201~faq-00007f1-wfc529r",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:36.505302"
+        },
+        {
+          "question": "I see the message Printer is Offline when I try to print with a wireless connection on my Mac. What should I do?",
+          "answer": "This problem can be caused by your printer, computer, or wireless network. Do the following:\nNote:\nThe information below applies only to the Standard Epson printer software.\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these\ninstructions\n.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for errors and clear them. See these\ninstructions\n. Try printing a nozzle check pattern again. If you can print, go to the next step. Otherwise, contact Epson Support.\nTurn your product off and on again and try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nDelete any pending print jobs from the Epson print queue\nand try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nOn your Mac, open the\nmenu and select\nSystem Preferences\n. Select\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n, select your printer, and then click\nto remove the printer. Click\n, select your printer with Kind set as\nBonjour\n, select your printer from the Use drop-down list, and then click\nAdd\n. This adds the printer back to the printer queue. Try printing again. If you can print, you're done, and you can skip the remaining steps. Otherwise, go to the next step.\nCheck your product's Wi-Fi indicator and do one of the following:\nIf a wireless connection is established, unplug your router's power cord from the power outlet, wait a brief period, plug it back in, and then try to print. If you can print, you're done. The problem was resolved by restarting your router. If you can't print, restart your computer and try printing again. If these steps do not resolve your problem, contact Epson Support.\nNote:\nYou may need to re-establish the connection for the other devices on your network after you restart your router.\nIf a wireless connection is not established, follow the instructions in the\nReinstall the Product Software\nsection below.\nReinstall the Product Software\nReset your product's network settings. See these\ninstructions\n.\nOn your Mac, open the\nmenu and select\nSystem Preferences\n. Select\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n, select your printer, and then click\nto remove the printer.\nOpen the\nmenu, select\nSystem Preferences\n, and then click either\nSecurity & Privacy\nor\nSecurity\n. Select the\nFirewall\ntab and disable the firewall.\nIf you have other firewall software enabled, you need to disable it also. If you don't know how to disable it, contact your firewall provider for help.\nNote:\nThis step is needed to install the product's software and complete the wireless setup. Remember to enable your firewall software after you complete the wireless setup.\nUnplug your router's power cord from the power outlet, wait a brief period, and then plug it back in.\nNote:\nYou may need to re-establish the connection for the other devices on your network.\nDownload and install the\nDrivers and Utilities Combo Package\nfrom the Downloads tab on the product's support page. Open the file you downloaded and follow the on-screen instructions to install the software.\nNote:\nAfter you complete the wireless setup, turn your firewall back on.\nIf this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000492-wfc529r?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CG79201~faq-0000492-wfc529r",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:37.619288"
+        },
+        {
+          "question": "I see the message Printer is Offline when I try to print with a wireless connection in Windows. What should I do?",
+          "answer": "This problem can be caused by your printer, computer, or wireless network. Do the following:\nNote:\nThe information below applies only to the Standard Epson printer software.\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these\ninstructions\n.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for errors and clear them. See these\ninstructions\n. Try printing a nozzle check pattern again. If you can print, go to the next step. Otherwise, contact Epson Support.\nTurn your product off and on again and try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nDelete any pending print jobs from the Epson print queue\nand try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nIn the Epson print queue, select\nPrinter\nand deselect the\nUse Printer Offline\ncheckbox. If you can print, you're done. Otherwise, go to the next step.\nCheck your product's Wi-Fi indicator and do one of the following:\nIf a wireless connection is established, unplug your router's power cord from the power outlet, wait a brief period, plug it back in, and then try to print. If you can print, you're done. The problem was resolved by restarting your router. If you can't print, restart your computer and try printing again. If these steps do not resolve your problem, contact Epson Support.\nNote:\nYou may need to re-establish the connection for the other devices on your network after you restart your router.\nIf a wireless connection is not established, follow the instructions in the\nReinstall the Product Software\nsection below.\nReinstall the Product Software\nReset your product's network settings. See these\ninstructions\n.\nTurn off the product and disconnect any interface cables.\nDo one of the following:\nWindows 10\n: Click\nand select\n(Settings) >\nNetwork & Internet\n>\nWindows Firewall\n. Disable the firewall.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nWindows Firewall\n. Disable the firewall.\nWindows (other versions)\n: Select\nor\nStart\n>\nControl Panel\n>\nSystem and Security\n>\nWindows Firewall\n. Disable the firewall.\nIf you have other firewall software enabled, you need to disable it also. If you don't know how to disable it, contact your firewall provider for help.\nNote:\nThis step is needed to install the product's software and complete the wireless setup. Remember to enable your firewall software after you complete the wireless setup.\nUninstall your product's software. See these\ninstructions\n.\nUnplug your router's power cord from the power outlet, wait a brief period, and then plug it back in.\nNote:\nYou may need to re-establish the connection for the other devices on your network.\nDownload and install the\nDrivers and Utilities Combo Package\nfrom the Downloads tab on the product's support page. Open the file you downloaded and follow the on-screen instructions to install the software.\nNote:\nAfter you complete the wireless setup, turn your firewall back on.\nIf this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000493-wfc529r?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CG79201~faq-0000493-wfc529r",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:38.651119"
+        },
+        {
+          "question": "I see the message Printer is Offline when I try to print with a USB connection on my Mac. What should I do?",
+          "answer": "This problem can be caused by your printer, the connection, or the computer. Do the following:\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these\ninstructions\n.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for errors and clear them. See these\ninstructions\n. Try printing a nozzle check pattern again. If you can print, go to the next step. Otherwise, contact Epson Support.\nTurn your product off and on again and try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nDelete any pending print jobs from the Epson print queue\nand try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nOn your Mac, open the\nmenu and select\nSystem Preferences\n. Select\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n, select your printer, and then click\nto remove the printer. Click\n, select your printer with Kind set as\nUSB\n, select your printer from the Use drop-down list, and then click\nAdd\n. This adds the printer back to the printer queue. Try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nTurn off your product, make sure the USB cable is securely connected, and then turn on your product and try printing again.\nNote:\nIf you're using a hub or switchbox, connect the product directly to your computer.\nIf you still can't print, make sure the USB cable is a shielded cable no more than 6.5 feet (2 meters) long. Also, try connecting the cable to another USB port on your computer or use a different cable. Try printing again. If you can print, you're done. Otherwise, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00009c9-wfc529r?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CG79201~faq-00009c9-wfc529r",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:39.940584"
+        },
+        {
+          "question": "I see the message Printer is Offline when I try to print with an Ethernet connection on my Mac. What should I do?",
+          "answer": "This problem can be caused by your printer or the computer. Do the following:\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these\ninstructions\n.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for errors and clear them. See these\ninstructions\n. Try printing a nozzle check pattern again. If you can print, go to the next step. Otherwise, contact Epson Support.\nTurn your product off and on again and try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nDelete any pending print jobs from the Epson print queue\nand try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nDelete and re-add the print queue.\nClick\n, select your printer with Kind set as\nBonjour\n, select your printer from the Use drop-down list, and then click\nAdd\n. This adds the printer to the printer queue. Try printing again. If you can print, you're done. Otherwise, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00009c7-wfc529r?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CG79201~faq-00009c7-wfc529r",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:41.050450"
+        },
+        {
+          "question": "I see the message Printer is Offline when I try to print with an Ethernet connection in Windows. What should I do?",
+          "answer": "This problem can be caused by your printer or computer. Do the following:\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these\ninstructions\n.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for errors and clear them. See these\ninstructions\n. Try printing a nozzle check pattern again. If you can print, go to the next step. Otherwise, contact Epson Support.\nTurn your product off and on again and try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nDelete any pending print jobs from the Epson print queue\nand try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nIn the Epson print queue, select\nPrinter\nand deselect the\nUse Printer Offline\ncheckbox. If you can print, you're done. Otherwise, go to the next step.\nPrint a Network Status Sheet. See these\ninstructions\n. Find the product's IP address on the Network Status Sheet. The IP address set up on your product should be the same in Windows. To see the IP address set up for your printer in Windows, do one of the following:\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your product and select\nManage\n>\nPrinter properties\n>\nPorts\n. The IP address appears in the Port column.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer icon and select\nPrinter Properties\n>\nPorts\n. The IP address appears in the Port column.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer icon and select\nPrinter Properties\n>\nPorts\n. The IP address appears in the Port column.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer icon and select\nPrinter Properties\n>\nPorts\n. The IP address appears in the Port column.\nDo one of the following:\nIf the IP address for your printer is different in Windows, add a new port for your printer. Select\nPorts\nand click\nAdd Port\n. A window appears. Select\nEpsonNet Print Port\n>\nNew Port\n>\nManual Setting\n>\nNext\n. Enter your printer’s IP address in the IP address field and click\nNext\n>\nFinish\n. Try printing again. If you can print, you're done. Otherwise, contact Epson Support.\nIf the IP address is the same, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00009c8-wfc529r?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CG79201~faq-00009c8-wfc529r",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:42.170128"
+        },
+        {
+          "question": "I see the message Printer is Offline when I try to print with a USB connection in Windows. What should I do?",
+          "answer": "This problem can be caused by your printer, the connection, or the computer. Do the following:\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these\ninstructions\n.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for errors and clear them. See these\ninstructions\n. Try printing a nozzle check pattern again. If you can print, go to the next step. Otherwise, contact Epson Support.\nTurn your product off and on again and try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nDelete any pending print jobs from the Epson print queue\nand try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nIn the Epson print queue, select\nPrinter\nand deselect the\nUse Printer Offline\ncheckbox. If you can print, you're done. Otherwise, go to the next step.\nTurn off your product, make sure the USB cable is securely connected, and then turn on your product and try printing again.\nIf you still can't print, make sure the USB cable is a shielded cable no more than 6.5 feet (2 meters) long. Also, try connecting the cable to another USB port on your computer or use a different cable. Try printing again.\nNote:\nIf you're using a hub or switchbox, connect the product directly to your computer.\nIf you can print now, you're done. If you can't print, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00009ca-wfc529r?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CG79201~faq-00009ca-wfc529r",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:43.294440"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "How do I know when an ink pack needs to be replaced?",
+          "answer": "The printer's LCD screen will display a message when one or more of the ink packs are low or expended. You may also see a message on your computer screen.\nNote:\nIf any ink pack installed in the product is broken, incompatible with the product model, or improperly installed, Epson Status Monitor will not display an accurate ink status.\nYou may also need to replace an ink pack that is more than six months old if your printouts do not look their best even after cleaning and aligning the print head.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00004EE-wfc529r?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CG79201~faq-00004EE-wfc529r",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:44.453594"
+        },
+        {
+          "question": "How do I print with black ink from Windows or my Mac when a color ink pack is expended?",
+          "answer": "When a color ink pack is expended, you can temporarily continue printing from your computer using black ink. Replace the expended color ink pack as soon as possible for future printing.\nTo temporarily print with black ink, see the instructions below for your operating system.\nPrinting with Expended Color Ink Packs - Windows\nIf you see a message during printing telling you that you can temporarily print in black ink with an expended color ink supply unit, you can cancel your print job and select settings to print on plain paper or on an envelope.\nNote:\nTo use this feature, Epson Status Monitor must be enabled.\nClick\nCancel\nor\nCancel Print\nto cancel your print job.\nNote:\nIf the message screen appears on another computer on a network, you may need to cancel the print job using the product control panel.\nLoad plain paper or an envelope in your product.\nAccess the print settings in your print application.\nClick the\nMain\ntab.\nSelect\nPlain Paper/Bright White Paper\nor\nEnvelope\nas the paper type setting.\nSelect the\nBlack/Grayscale\nor\nGrayscale\ncheckbox.\nClick\nOK\n.\nPrint your document. Epson Status Monitor 3 displays a print message.\nClick\nPrint in Black\nto print your document.\nPrinting with Expended Color Ink Packs - Mac\nIf printing stops, you can cancel your print job and select settings to temporarily print with only black ink on plain paper or on an envelope.\nClick the printer icon in the Dock.\nIf you see a message telling you that you can temporarily print with only black ink, click the\nDelete\nor\nicon to cancel your print job. (If an error message is displayed, click\nOK\n.)\nNote:\nIf the message screen appears on another computer on a network, you may need to cancel the print job using the product control panel.\nIn the Apple menu or the Dock, select\nSystem Preferences\n.\nSelect\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n, select your product, and select\nOptions & Supplies\n.\nSelect\nDriver\nor\nOptions\n. You see a screen like this:\nSelect\nOn\nas the\nPermit temporary black printing\nsetting.\nClick\nOK\n.\nClose the utility window.\nLoad plain paper or an envelope in your product.\nAccess the print settings in your print application.\nSelect\nPrint Settings\nfrom the pop-up menu.\nSelect\nPlain Paper/Bright White Paper\nor\nEnvelope\nas the paper type setting.\nSelect the\nGrayscale\noption.\nClick\nPrint\nto print your document.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00007e8-wfc529r?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CG79201~faq-00007e8-wfc529r",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:45.552458"
+        },
+        {
+          "question": "Which ink packs should I use with this product?",
+          "answer": "See below.\nInk Supply Unit (Ink Pack) Part Numbers\nUse these part numbers when you order or purchase new ink packs.\nMaintenance box part number: T6716\nInk color\nPart number\nStandard-capacity\nHigh-capacity\nBlack\nT01C\nT01D\nCyan\nT01C\nT01D\nMagenta\nT01C\nT01D\nYellow\nT01C\nT01D",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00007e9-wfc529r?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CG79201~faq-00007e9-wfc529r",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:46.638999"
+        },
+        {
+          "question": "How do I replace the ink packs?",
+          "answer": "See below.\nRemoving and Installing Ink Packs\nMake sure you have your replacement ink packs handy before you begin. You must install new ink packs immediately after removing the old ones.\nIf an ink pack is low or expended, you see a message on your product's LCD screen and on your computer screen. Note which ink packs need to be replaced.\nUnlock and open the front cover.\nPress the ink pack tray until it clicks and pull it out.\nRemove the used ink pack from the tray.\nNote:\nDispose of used ink packs carefully. Do not take the used ink pack apart or try to refill it.\nWarning:\nIf ink gets on your skin, wash it thoroughly with soap and water. If ink gets into your eyes, flush them immediately with water. Seek medical advice if problems persist. If ink gets into your mouth, spit it out and see a doctor right away. Keep ink packs out of the reach of children.\nShake the new ink pack 10 times and remove it from the packaging.\nCaution:\nDo not touch the green chip on the ink pack.\nInsert the new ink pack into the ink pack tray as shown. Make sure the top of the ink pack is level with the top of the tray.\nSlide the ink pack tray into the product until it clicks.\nNote:\nIf you cannot insert the tray all the way, make sure you are inserting the correct color ink pack and that the top of the ink pack is level with the top of the tray. The ink packs can only be inserted into the proper location.\nRepeat these steps for each ink pack you want to install.\nWhen you are finished, close and lock the front cover.\nFollow the on-screen instructions to charge your product's ink.\nRelated concepts\nPurchase Epson Ink Packs and Maintenance Boxes",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00007e7-wfc529r?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CG79201~faq-00007e7-wfc529r",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:47.796788"
+        },
+        {
+          "question": "Which functions are available on my product when an ink pack is expended or not installed?",
+          "answer": "If an ink pack is not installed, the product will not print.\nIf an ink pack is expended, the following functions are available:\nWhen a color ink pack is expended, you may be able to temporarily continue printing from your computer using black ink. You will see a message during printing if you can print this way; however, you cannot print from the product’s control panel. See the link below for more details.\nRelated information\nPrinting with Black Ink and Expended Color Ink Packs",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00004ef-wfc529r?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CG79201~faq-00004ef-wfc529r",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:48.882407"
+        },
+        {
+          "question": "Can my product still print if an ink pack is expended or not installed?",
+          "answer": "The printer will not operate if a black ink pack is expended or any ink pack is removed.\nIf a color ink pack is expended, you can temporarily continue printing from your computer using black ink. Replace the expended color ink pack as soon as possible for future printing.\nRelated information\nPrinting with Black Ink and Expended Color Ink Packs",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-000051e-wfc529r?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CG79201~faq-000051e-wfc529r",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:49.990845"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "How do I select the paper source in Windows?",
+          "answer": "Do the following:\nNote:\nThe information below applies only to the Standard Epson printer software and the Epson Universal Print Driver.\nRight-click the printer icon in the Windows taskbar and select\nPrinter Settings\n.\nClick the\nMain\ntab, if necessary.\nSelect the\nPaper Source\nyou want to use.\nClick\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00004f3-wfc529r?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CG79201~faq-00004f3-wfc529r",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:51.030213"
+        },
+        {
+          "question": "How do I create a custom paper size for my product in Windows?",
+          "answer": "Do the following:\nNote:\nThe information below applies only to the Standard Epson printer software.\nOpen a photo or document for printing.\nSelect the print command in your application.\nNote:\nYou may need to select a print icon on your screen, the\nPrint\noption in the\nFile\nmenu, or another command. See your application's help utility for details.\nIf necessary, select your product name as the printer you want to use.\nNote:\nYou may also need to select\nProperties\nor\nPreferences\nto view your print settings.\nYou see the Main tab of your printer settings window:\nSelect\nUser-Defined\nin the Document Size drop-down list. The User-Defined Paper Size window appears.\nNote:\nIf your product has multiple Paper Sources, the User-Defined option may not be available for every Paper Source.\nEnter a Paper Size Name and select the Paper Width and Paper Height.\nClick\nSave\nand\nOK\n.\nClick\nOK\nagain. The new size is created, and you can select it from the Document Size drop-down list.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00004f4-wfc529r?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CG79201~faq-00004f4-wfc529r",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:52.110757"
+        },
+        {
+          "question": "How do I know which paper or media type to select in my product's driver?",
+          "answer": "See the table below.\nPaper or Media Type Settings - Printing Software\nFor this paper\nSelect this paper Type or Media Type setting\nPlain paper\nEpson Bright White Paper\nEpson Bright White Premium Paper\nEpson Multipurpose Plus Paper\nPlain Paper / Bright White Paper\nHigh-quality plain paper\nHigh-Quality Plain Paper\nLetterhead paper\nLetterhead\nRecycled paper\nRecycled\nColored paper\nColor\nPre-printed paper\nPreprinted\nEnvelopes\nEnvelope\nEpson Ultra Premium Photo Paper Glossy\nUltra Premium Photo Paper Glossy\nEpson Premium Photo Paper Glossy\nPremium Photo Paper Glossy\nEpson Photo Paper Glossy\nPhoto Paper Glossy\nEpson Premium Photo Paper Semi-gloss\nPremium Photo Paper Semi-Gloss\nEpson Presentation Paper Matte\nEpson Premium Presentation Paper Matte\nEpson Premium Presentation Paper Matte Double-sided\nPremium Presentation Paper Matte\nThick paper (25 to 43 lb [91 to 160 g/m2])\nCard Stock 1\nThick paper (43 to 68 lb [161 to 256 g/m2])\nCard Stock 2",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00007ff-wfc529r?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CG79201~faq-00007ff-wfc529r",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:53.164198"
+        },
+        {
+          "question": "I'm having paper feed problems. What should I do?",
+          "answer": "If you have problems feeding paper, try these solutions:\nIf paper does not feed for printing, remove it from the rear feed slot or cassette. Reload it, then adjust the edge guides. Make sure the paper stack is not above the tab on the edge guides inside the cassette or rear feed slot.\nPlace the product on a flat surface and operate it in the recommended environmental conditions.\nBe sure to insert the paper cassette all the way into your product.\nIf multiple pages feed at once, remove the paper, fan the edges to separate the sheets, and reload it.\nDo not load more than the recommended number of sheets. For plain paper, do not load paper above the arrow mark on the edge guides.\nMake sure your paper meets the specifications for your product.\nIf paper jams when you print on both sides of the paper, try loading fewer sheets.\nMake sure the paper size and paper type settings are correct for the paper source.\nIf your product pauses during printing, make sure the front cover is closed.\nFor best results, follow these guidelines:\nUse new, smooth, high-quality paper that is not curled, creased, old, too thin, or too thick.\nLoad paper in the cassette printable side down.\nDo not load binder paper with holes in the cassette.\nFollow any special loading instructions that came with the paper.\nRelated tasks\nCleaning the Paper Guide\nRelated references\nPaper Jams Inside the Product\nPaper Loading Capacity\nPaper Specifications\nRelated information\nLoading Paper",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00005f1-wfc529r?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CG79201~faq-00005f1-wfc529r",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:54.252707"
+        },
+        {
+          "question": "Which type of paper can I print on?",
+          "answer": "You can use plain paper; however, for the best results, you'll want to use one of Epson's special inkjet papers.\nCompatible Epson Papers\nYou can purchase genuine Epson ink, maintenance boxes, and paper at\nepson.com\n(U.S. sales),\nepson.ca\n(Canadian sales), or\nlatin.epson.com\n(Latin American sales). You can also purchase supplies from an Epson authorized reseller. To find the nearest one, call 800-GO-EPSON (800-463-7766) in the U.S. or 800-807-7766 in Canada.\nNote:\nPaper/media availability varies by country.\nPaper Type\nSize\nPart number\nSheet count\nEpson Bright White Pro Paper\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041586\n500\nEpson Bright White Premium Paper\nLetter (8.5 × 11 inches [216 × 279 mm])\nS450218\n500\nEpson Multipurpose Plus Paper\nLetter (8.5 × 11 inches [216 × 279 mm])\nS450217\n500\nEpson Presentation Paper Matte\nLegal (8.5 × 14 inches [216 × 356 mm])\nS041067\n100\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041062\n100\nEpson Premium Presentation Paper Matte\n8 × 10 inches (203 × 254 mm)\nS041467\n50\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041257\nS042180\n50\n100\nEpson Premium Presentation Paper Matte Double-sided\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041568\n50\nEpson Photo Paper Glossy\n4 × 6 inches (102 × 152 mm)\nS041809\nS042038\n50\n100\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041141\nS041649\nS041271\n20\n50\n100\nEpson Premium Photo Paper Glossy\n4 × 6 inches (102 × 152 mm)\nS041727\n100\n5 × 7 inches (127 × 178 mm)\nS041464\n20\n8 × 10 inches (203 × 254 mm)\nS041465\n20\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042183\nS041667\n25\n50\n11 × 14 inches (279 × 356 mm)\nS041466\n20\nEpson Ultra Premium Photo Paper Glossy\n4 × 6 inches (102 × 152 mm)\nS042181\nS042174\n60\n100\n5 × 7 inches (127 × 178 mm)\nS041945\n20\n8 × 10 inches (203 × 254 mm)\nS041946\n20\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042182\nS042175\n25\n50\nEpson Premium Photo Paper Semi-gloss\n4 × 6 inches (102 × 152 mm)\nS041982\n40\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041331\n20",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00004f2-wfc529r?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CG79201~faq-00004f2-wfc529r",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:55.228440"
+        },
+        {
+          "question": "How should I load envelopes?",
+          "answer": "You can load paper up to this size in the paper cassette: Legal (8.5 × 14 inches [216 × 356 mm])\nNote:\nIf the optional paper cassette unit is installed, do not remove more than one cassette at a time.\nMake sure the product is not operating and pull out the paper cassette.\nSlide the front edge guide outward all the way, then slide the side edge guides to the paper size you are using.\nLoad paper with the printable side facedown and slide the front edge guide against the paper.\nNote:\nMake sure the paper fits beneath the arrow mark inside the edge guides.\nInsert the paper cassette all the way into the product.\nDo one of the following:\nSelect the size and type of paper you loaded on the LCD screen.\nPress the\nPaper Setting\nbutton, select the paper source, and select the size and type of paper you loaded.\nSelect\nSettings\n>\nGeneral Settings\n>\nPrinter Settings\n>\nPaper Source Settings\n>\nPaper Setting\nto select the size and type of paper you loaded.\nAlways follow these paper loading guidelines:\nLoad only the recommended number of sheets.\nLoad paper short edge first, no matter which way your document faces.\nLoad the printable side facedown.\nLoad letterhead or pre-printed paper top edge first.\nDo not load paper above the arrow mark inside the edge guides.\nCheck the paper package for any additional loading instructions.\nRelated tasks\nLoading Paper or Envelopes in the Rear Paper Feed Slot\nRelated references\nPaper Loading Capacity\nPaper Specifications",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00007f4-wfc529r?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CG79201~faq-00007f4-wfc529r",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:56.508427"
+        },
+        {
+          "question": "Does the type of paper I use really make a difference?",
+          "answer": "The type of paper you choose affects the way your printout looks, so be sure to select the correct paper for your print job. If you are just printing a rough draft of an image, plain paper is fine. However, for the best results, you'll want to use one of Epson's special ink jet papers.\nCompatible Epson Papers\nYou can purchase genuine Epson ink, maintenance boxes, and paper at\nepson.com\n(U.S. sales),\nepson.ca\n(Canadian sales), or\nlatin.epson.com\n(Latin American sales). You can also purchase supplies from an Epson authorized reseller. To find the nearest one, call 800-GO-EPSON (800-463-7766) in the U.S. or 800-807-7766 in Canada.\nNote:\nPaper/media availability varies by country.\nPaper Type\nSize\nPart number\nSheet count\nEpson Bright White Pro Paper\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041586\n500\nEpson Bright White Premium Paper\nLetter (8.5 × 11 inches [216 × 279 mm])\nS450218\n500\nEpson Multipurpose Plus Paper\nLetter (8.5 × 11 inches [216 × 279 mm])\nS450217\n500\nEpson Presentation Paper Matte\nLegal (8.5 × 14 inches [216 × 356 mm])\nS041067\n100\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041062\n100\nEpson Premium Presentation Paper Matte\n8 × 10 inches (203 × 254 mm)\nS041467\n50\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041257\nS042180\n50\n100\nEpson Premium Presentation Paper Matte Double-sided\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041568\n50\nEpson Photo Paper Glossy\n4 × 6 inches (102 × 152 mm)\nS041809\nS042038\n50\n100\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041141\nS041649\nS041271\n20\n50\n100\nEpson Premium Photo Paper Glossy\n4 × 6 inches (102 × 152 mm)\nS041727\n100\n5 × 7 inches (127 × 178 mm)\nS041464\n20\n8 × 10 inches (203 × 254 mm)\nS041465\n20\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042183\nS041667\n25\n50\n11 × 14 inches (279 × 356 mm)\nS041466\n20\nEpson Ultra Premium Photo Paper Glossy\n4 × 6 inches (102 × 152 mm)\nS042181\nS042174\n60\n100\n5 × 7 inches (127 × 178 mm)\nS041945\n20\n8 × 10 inches (203 × 254 mm)\nS041946\n20\nLetter (8.5 × 11 inches [216 × 279 mm])\nS042182\nS042175\n25\n50\nEpson Premium Photo Paper Semi-gloss\n4 × 6 inches (102 × 152 mm)\nS041982\n40\nLetter (8.5 × 11 inches [216 × 279 mm])\nS041331\n20",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-000048c-wfc529r?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CG79201~faq-000048c-wfc529r",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:57.635242"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print",
+      "section_id": "8796158634060",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "How do I set the default print settings in Windows or on my Mac?",
+          "answer": "To set default settings for all your software, follow the steps below for your operating system.\nNote:\nWhen you change the print settings only in your printing software, the change will apply only during the current print session, not when you open the software again.\nNote:\nThe information below applies only to the Standard Epson printer software.\nWindows\nDo one of the following:\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your printer and select\nManage\n>\nPrinting preferences\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows XP\n: Click\nStart\nand select\nControl Panel\n(or point to\nSettings\nand select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the default settings you want to use.\nClick\nOK\n.\nMac\nOpen a document and select\nPrint\nfrom the File menu.\nMake sure your product is selected. Click the arrow next to the Printer setting or the\nShow Details\nbutton to expand the print window, if necessary.\nSelect the print settings you want to save.\nNote:\nSome options may not be saved as a preset.\nClick the\nPresets\npop-up menu and select\nSave As\nor\nSave Current Settings as Preset\n.\nEnter a name for your preset and choose whether this preset can be used with any printer or only with the currently selected printer.\nClick\nOK\n.\nWhen you are ready to print, click the\nPresets\npop-up menu, select your preset from the list, and then click\nPrint\n. Once a preset has been selected, it will be selected automatically in the print dialog for future print jobs until another preset is selected. To revert to the default print settings, select\nDefault Settings\nfrom the\nPresets\npop-up menu.\nIf you don't want to create a preset and simply want to print with the last print settings you selected, select\nLast Used Settings\nin the\nPresets\npop-up menu.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000500-wfc529r?faq_cat=faq-8796158634060",
+          "faq_slug": "SPT_C11CG79201~faq-0000500-wfc529r",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:58.705099"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "My printout is blurry or smeared. What should I do?",
+          "answer": "If your printouts are blurry or smeared, try these solutions:\nMake sure your paper is not damp, curled, old, or loaded incorrectly in your product.\nSlide the edge guides to the edges of the paper.\nUse a support sheet with special paper, or load special paper one sheet at a time.\nMake sure your paper meets the specifications for your product.\nUse Epson papers to ensure proper saturation and absorption of genuine Epson inks.\nMake sure the paper type setting in your product software matches the type of paper you loaded.\nMake sure you loaded the printable side of the paper correctly for your product.\nIf you are printing on thick paper or envelopes, make sure you select the appropriate settings.\nRemove each sheet from the output tray as it is printed.\nAvoid handling printouts on glossy paper right after printing to allow the ink to set.\nIf you print on both sides of a sheet of paper, smudges may appear on the reverse side of heavily saturated or dark images. If one side of a sheet will contain a lighter image or text, print that side first. Adjust the density and/or ink drying time settings.\nRun a nozzle check to see if any of the print head nozzles are clogged. Then clean the print head, if necessary.\nAlign the print head.\nAdjust the print quality in the product software.\nClean the paper path.\nNote:\nYour product will not operate properly while tilted at an angle. Place it on a flat, stable surface that extends beyond the base of the product in all directions.\nRelated concepts\nPrint Head Cleaning\nPrint Head Alignment\nRelated tasks\nCleaning the Paper Guide\nSelecting Basic Print Settings - Windows\nSelecting Double-sided Printing Settings - Windows\nSelecting Additional Layout and Print Options - Windows\nSelecting Basic Print Settings - Mac\nSelecting Printing Preferences - Mac\nRelated references\nCompatible Epson Papers\nPaper Specifications\nRelated information\nLoading Paper",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00007f6-wfc529r?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CG79201~faq-00007f6-wfc529r",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:58.105301"
+        },
+        {
+          "question": "My printout has a slight slant. What should I do?",
+          "answer": "If your printouts are slanted, try these solutions:\nSlide the edge guides against the edges of the paper.\nSelect a higher print quality setting in your printer software.\nTurn off any high speed settings in your product software.\nAlign the print head.\nAdjust the print quality.\nMake sure the product is not printing while tilted or at an angle.\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Basic Print Settings - Mac\nRelated information\nLoading Paper",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00007f5-wfc529r?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CG79201~faq-00007f5-wfc529r",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:15:59.345169"
+        },
+        {
+          "question": "My printout looks inverted, as if viewed in a mirror. What should I do?",
+          "answer": "If your printed image is inverted unexpectedly, try these solutions:\nTurn off any mirror or inversion settings in your printing application.\nTurn off the\nMirror Image\n,\nFlip horizontally\n, or\nReverse page orientation\nsettings in your printer software. (This option has different names, depending on your operating system version.)\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Basic Print Settings - Mac",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00007fb-wfc529r?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CG79201~faq-00007fb-wfc529r",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:00.565207"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "If you notice white or dark lines in your prints (also called banding), try these solutions before you reprint:\nRun a nozzle check to see if any of the print head nozzles are clogged. Then clean the print head, if necessary.\nMake sure the paper type setting matches the type of paper you loaded.\nMake sure you loaded the printable side of the paper correctly for your product.\nTurn off any high speed settings in your product software.\nAlign the print head.\nAdjust the print quality in the product software.\nIf you continue to see horizontal bands or streaks in your printouts after cleaning the print head and adjusting the print quality, make print quality adjustments for each paper type.\nYou may need to replace an ink pack.\nRelated concepts\nPrint Head Nozzle Check\nPrint Head Cleaning\nPrint Head Alignment\nRelated tasks\nSelecting Additional Layout and Print Options - Windows\nSelecting Printing Preferences - Mac\nRemoving and Installing Ink Packs\nRelated references\nPaper or Media Type Settings - Printing Software\nRelated information\nLoading Paper",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-000048e-wfc529r?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CG79201~faq-000048e-wfc529r",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:01.606893"
+        },
+        {
+          "question": "My printout contains incorrect characters. What should I do?",
+          "answer": "If incorrect characters appear in your prints, try these solutions before reprinting:\nMake sure any cables are securely connected at both ends.\nIn Windows, delete all jobs from the Windows Spooler. Click\nPrint Queue\non the Maintenance tab in the printer settings window, and cancel any stalled print jobs.\nIf your product is connected to a USB hub, connect it directly to your computer instead.\nIf incorrect characters still appear in your prints, try connecting your product using a different cable.\nIf your computer entered sleep mode the last time you printed, the next print job after your computer exits sleep mode may contain garbled characters. Print your document again.\nMake sure you are using the printer software for this product. Check the product name at the top of the driver window.\nIf you are using the PostScript printer software, EPS files created in binary format may not print correctly. Try creating the file in ASCII format instead.\nIf you are using the Windows PostScript printer software, the product cannot print binary data if it is connected to the computer using a USB cable. Try selecting\nASCII\nor\nTBCP\nas the\nOutput Protocol\nsetting on the Device Settings tab in the printer properties.\nIf you are using the Windows PostScript printer software, select the appropriate substitution fonts on the Device Settings tab in the printer properties.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00007f7-wfc529r?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CG79201~faq-00007f7-wfc529r",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:02.825235"
+        },
+        {
+          "question": "My printout has incorrect margins. What should I do?",
+          "answer": "If your printed page has incorrect margins, try these solutions:\nMake sure you selected the correct paper size settings in your printing program and printer software.\nMake sure you selected the correct margins for your paper size in your printing program.\nMake sure your paper is positioned correctly for feeding into the product.\nYou can use the preview option in your printer software to check your margins before you print.\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Basic Print Settings - Mac\nRelated information\nLoading Paper",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00007fa-wfc529r?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CG79201~faq-00007fa-wfc529r",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:04.029870"
+        },
+        {
+          "question": "My printout has incorrect colors. What should I do?",
+          "answer": "If your printouts have incorrect colors, try these solutions:\nMake sure the paper type setting matches the paper you loaded.\nMake sure the\nGrayscale\nsetting is not selected in your printer software.\nRun a nozzle check to see if any of the print head nozzles are clogged. Then clean the print head, if necessary.\nThe ink packs may be old, and you may need to replace them.\nAfter you print, the colors in your printout need time to set as the ink dries. During this time, the colors may look different than you expect. To speed up drying time, do not stack your printouts on top of each other.\nYour printed colors can never exactly match your on-screen colors. However, you can use a color management system to get as close as possible. Try using the color management options in your printer software.\nIf you are using the Windows PostScript printer software, try adjusting the\nColor Mode\nsetting on the Advanced tab of the printer software.\nFor best results, use genuine Epson paper.\nRelated concepts\nPrint Head Nozzle Check\nPrint Head Cleaning\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Additional Layout and Print Options - Windows\nSelecting Basic Print Settings - Mac\nManaging Color - Mac\nRemoving and Installing Ink Packs\nRelated references\nCompatible Epson Papers",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00007f9-wfc529r?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CG79201~faq-00007f9-wfc529r",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:05.072959"
+        },
+        {
+          "question": "My printout is grainy when I print from any application. What should I do?",
+          "answer": "If your printouts are grainy, try these solutions:\nMake sure you loaded the printable side of the paper correctly for your product.\nSelect a higher print quality setting and turn off any high speed settings in your product software.\nRun a nozzle check to see if any of the print head nozzles are clogged. Then clean the print head, if necessary.\nAlign the print head.\nAdjust the print quality in the product software.\nYou may need to increase the image resolution or print a smaller size; see your software documentation.\nNote:\nImages from the Internet may be low resolution and not result in a high quality printout.\nIf you enlarged the image size in an image-editing program, you need to increase the image resolution setting to retain a high image quality. Increase the image resolution by the same amount you increase the image size. For example, if the image resolution is 300 dpi (dots per inch) and you will double the image size for printing, change the resolution setting to 600 dpi.\nNote:\nHigher resolution settings result in larger file sizes, which take longer to process and print. Consider the limitations of your computer system when selecting a resolution, and select the lowest possible resolution that produces acceptable quality to keep file sizes manageable.\nRelated concepts\nPrint Head Nozzle Check\nPrint Head Cleaning\nPrint Head Alignment\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Additional Layout and Print Options - Windows\nSelecting Basic Print Settings - Mac\nSelecting Printing Preferences - Mac",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00007f8-wfc529r?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CG79201~faq-00007f8-wfc529r",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:06.134689"
+        },
+        {
+          "question": "How do I reduce the appearance of red eyes in my photos?",
+          "answer": "Turn on the\nFix Red-Eye\nsetting in the printer software or from the product's control panel, if available for your product.\nNote:\nDue to the complexity and nature of some photographs, not all images can be corrected. If the Fix Red-Eye setting does not fix the photo, you need to use a software application such as Adobe Photoshop or Adobe Elements to fix it.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00004b9-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CG79201~faq-00004b9-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:07.323628"
+        },
+        {
+          "question": "Web pages don't print the way they appear on my monitor. What should I do?",
+          "answer": "The pages may not print correctly due to the web page design. Try the following:\nCheck for a\nPrinter-friendly Version\n(or similarly named) option on the web page.\nChange the page setup and paper size settings, and select the preview option in your browser to check the changes before you print.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00004b8-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CG79201~faq-00004b8-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:08.379170"
+        },
+        {
+          "question": "My product is printing blank pages. What should I do?",
+          "answer": "If blank pages print unexpectedly, try these solutions:\nMake sure you selected the correct paper size settings in your printing program and printer software.\nIf a blank page exists in a document you are printing and you want to skip printing it, select the\nSkip Blank Page\nsetting in your printer software, if available.\nRun a print head nozzle check to see if any of the nozzles are clogged. Then clean the print head, if necessary.\nMake sure your product is selected as the printer in your printing program.\nRelated concepts\nPrint Head Nozzle Check\nPrint Head Cleaning\nRelated tasks\nSelecting Basic Print Settings - Windows\nSelecting Extended Settings - Windows\nSelecting Basic Print Settings - Mac\nSelecting Printing Preferences - Mac",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000a14-wfc529r?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CG79201~faq-0000a14-wfc529r",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:09.487219"
+        },
+        {
+          "question": "My printout has lines running through it when I make a copy using the ADF (Automatic Document Feeder). What should I do?",
+          "answer": "Carefully clean the scanner glass and ADF. See below.\nCleaning Your Product\nTo keep your product working at its best, you should clean it several times a year.\nCaution:\nDo not use a hard brush, benzene, alcohol, or paint thinner to clean the product or you may damage it. Do not use oil or other lubricants inside the product or let water get inside it. Close the rear paper feed slot when you are not using it, to keep out dust.\nTurn off the product.\nWait for the\npower light to turn off, then unplug the power cable.\nDisconnect any connected cables.\nRemove all the paper from the product.\nClean the outer case and control panel with a soft, dry cloth. Do not use liquid or chemical cleansers.\nClean any paper cassettes using a soft brush.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000bca-wfc529r?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CG79201~faq-0000bca-wfc529r",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:10.576118"
+        },
+        {
+          "question": "My product is printing blank pages. What should I do?",
+          "answer": "Several factors may cause the product to print blank pages, such as print settings, low ink, or the product itself.\nCheck the following:\nMake sure the product is placed on a flat, stable surface that extends beyond the base in all directions. The product won't operate properly if it's tilted or at an angle.\nMake sure you're using paper that meets the product's specifications.\nPrint a nozzle check pattern to see if any of the nozzles are clogged. Clean the print head, if necessary.\nMake sure the paper size, orientation, and layout settings in your printer software are correct.\nMake sure your document does not contain blank pages. If your printer software has a Preview option, you can check for blank pages before you print and remove them, if necessary.\nIf you're printing from Windows or a Mac, you can select\nSkip Blank Page\nin your printer software. To select the setting, follow the steps below for your operating system.\nWindows\nNote:\nThe information below applies only to the Standard Epson printer software.\nDo one of the following:\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your printer and select\nManage\n>\nPrinting preferences\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect\nSkip Blank Page\n.\nClick\nOK\nas necessary to save your settings.\nMac\nOpen the\nmenu and select\nSystem Preferences\n.\nSelect\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n, select your product, and then select\nOptions & Supplies\n.\nSelect\nDriver\nor\nOptions\n.\nYou see this screen:\nSet\nSkip Blank Page\nto\nOn\n.\nClick\nOK\n.\nRelated concepts\nPrint Head Nozzle Check\nPrint Head Cleaning",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000491-wfc529r?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CG79201~faq-0000491-wfc529r",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:11.699262"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "How do I enable automatic double-sided printing for my product in Windows or on my Mac?",
+          "answer": "See below.\nSelecting Double-sided Printing Settings - Windows\nYou can print on both sides of the paper by selecting one of the 2-Sided Printing options on the Main tab.\nNote:\nSome options may be pre-selected or unavailable, depending on other settings you have chosen or if you are accessing the product over a network.\nSelect one of the following options for\n2-Sided Printing\n:\nAuto (Long-edge binding)\nto print your double-sided print job by automatically flipping the paper on the long edge.\nAuto (Short-edge binding)\nto print your double-sided print job by automatically flipping the paper on the short edge.\nManual (Long-edge binding)\nto print your double-sided print job by printing one side and prompting you to flip the paper over on the long edge to print the other side (recommended for paper types that do not support automatic duplexing).\nClick the\nSettings\nbutton. You see this window:\nSelect the double-sided printing options you want to use.\nClick\nOK\nto return to the Main tab.\nClick the\nPrint Density\nbutton. You see this window:\nSelect the type of document you are printing as the Document Type setting. The software automatically sets the Adjustments options for that document type.\nIf necessary, select the Adjustments options you want to use.\nClick\nOK\nto return to the Main tab.\nPrint a test copy of your double-sided document to test the selected settings.\nFollow any instructions displayed on the screen during printing.\nSelecting Double-sided Printing Settings - Mac\nYou can print on both sides of the paper by selecting\nTwo-sided Printing Settings\nfrom the pop-up menu on the print window.\nNote:\nSome options may be pre-selected or unavailable, depending on other settings you have chosen or if you are accessing the product over a network. This screen may be different, depending on the Mac OS version you are using.\nSelect one of the\nTwo-sided Printing\noptions.\nSelect the type of document you are printing as the\nDocument Type\nsetting. The software automatically sets the Adjustments options for that document type.\nIf necessary, customize the Adjustments settings as instructed on the screen.\nPrint a test copy of your double-sided document to test the selected settings.\nFollow any instructions displayed on the screen during printing.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000802-wfc529r?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CG79201~faq-0000802-wfc529r",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:13.042359"
+        },
+        {
+          "question": "How do I restore my product's default settings?",
+          "answer": "See below.\nResetting Control Panel Defaults\nIf you have a problem with settings on the product control panel, you can reset them to their factory defaults. You can choose which settings to reset or reset them all.\nNote:\nThis setting can be locked by an administrator. If you cannot access or change this setting, contact your administrator for assistance.\nPress the\nhome button, if necessary.\nSelect\nSettings\n>\nGeneral Settings\n>\nSystem Administration\n>\nRestore Default Settings\n. You see a screen like this:\nSelect one of these options:\nNetwork Settings\n: Resets all network settings\nAll Except Network Settings\n: Resets all settings except for network settings\nAll Settings\n: Resets all control panel settings\nYou see a confirmation screen.\nSelect\nYes\nto reset the selected settings. (Select\nNo\nif you want to cancel the operation.)",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00007fc-wfc529r?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CG79201~faq-00007fc-wfc529r",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:14.130173"
+        },
+        {
+          "question": "How do I add a network product if the Epson Universal Print Driver is already installed in Windows?",
+          "answer": "See below.\nAdding Network Printers - Epson Universal Print Driver - Windows\nYou can use the Epson Universal Print Driver to find and add network printers.\nDo one of the following:\nWindows 10:\nClick\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select\nEPSON Universal Print Driver\nand select\nManage\n>\nPrinter properties\n.\nWindows 8.x:\nNavigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click\nEPSON Universal Print Driver\nand select\nPrinter properties\n.\nWindows 7:\nClick\nand select\nDevices and Printers\n. Right-click\nEPSON Universal Print Driver\nand select\nPrinter properties\n.\nWindows Vista:\nClick\nand select\nControl Panel\n. Click\nPrinter\nunder\nHardware and Sound\n, then right-click\nEPSON Universal Print Driver\nand select\nProperties\n.\nClick the\nOptional Settings\ntab. You see this window:\nClick\nNetwork printer search\n.\nWhen you see the search results, select\nAdd found printers\n. You see a screen like this:\nSelect the printer or printers you want to add.\nClick\nAdd to Printer Folder\n. The selected printer or printers appear in the lower section of the screen.\nSelect the checkbox next to the product you want to make your default printer, if necessary.\nClick\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00007d5-wfc529r?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CG79201~faq-00007d5-wfc529r",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:15.244031"
+        },
+        {
+          "question": "How do I install the Epson Universal Print Driver (PCL) or PostScript printer software?",
+          "answer": "See below.\nInstalling the Epson Universal Print Driver - Windows\nThe Epson Universal Print Driver supports multiple printer languages, such as PCL and ESC/P-R, and can be installed on a Windows computer.\nNote:\nMake sure your product is turned on and connected to the same network as your computer before installing the printer software. Depending on your model, not all printer languages may be supported.\nTo download the\nEPSON Universal Print Driver\nfile, visit\nepson.com/connect\n(U.S) or\nepson.ca/connect\n(Canada) and select your product.\nAfter downloading the installer file, double-click the downloaded file to install the software.\nFollow the on-screen instructions until you see this screen:\nSelect\nYes: Network connection\nand click\nOK\n.\nNote:\nSelect the\nSet Default of Printer Control Language to PCL6\ncheckbox if you want to set the default printer language to PCL6. Leave this option deselected to set the printer language to ESC/P-R. (You can change this setting later as needed.)\nAfter the software finishes searching for products, you see a screen like this:\nDo one of the following:\nIf you are installing one product, make sure\nAdd EPSON Universal Print Driver\nis selected and continue with the next step.\nIf you are installing more than one product, select\nAdd found printers\nand go to step 9.\nNote:\nYou can customize and filter your product search results by clicking\nDisplay Settings\n.\nOpen the\nSelect a port to connect a printer\nmenu and select an existing printer port, if necessary. Otherwise, skip this option to create a new port automatically.\nSelect the product you want to install from the Found Printers list.\nNote:\nDeselect the\nSet as default printer\ncheckbox if you do not want the product to be set as your default printer.\nClick\nOK\n, then skip the remaining steps.\nIf you are installing more than one product, select the products from the Found Printers list and click\nAdd to Printer Folder\n.\nThe selected products appear in the lower section of the screen.\nSelect the checkbox next to the product you want to make your default printer, if necessary.\nClick\nOK\n.\nInstalling the PostScript (PS3) Printer Software - Windows\nIf you did not install the standard Epson printer software or Epson Universal Print Driver, you need to install the PostScript (PS3) printer software before you can adjust the print settings and print to your network printer.\nNote:\nMake sure your product is turned on and connected to the same network as your computer before installing the printer software.\nTo download the\nDrivers and Utilities Combo Package - PS3 PostScript\nfile, visit\nepson.com/support\n(U.S.),\nepson.ca/support\n(Canada), or\nepson.com.jm/support\n(Caribbean) and select your product.\nAfter downloading the installer file, double-click the downloaded file to install the software.\nClick\nOK\n.\nClick\nAccept\n.\nClick\nInstall\n.\nClick\nNext\nand follow the on-screen instructions.\nInstalling the PostScript (PS3) Printer Software - Mac\nIf you did not install the standard Epson printer software, you need to install the PostScript (PS3) printer software before you can adjust the print settings and print to your network printer.\nNote:\nMake sure your product is turned on and connected to the same network as your computer before installing the printer software.\nTo download the\nDrivers and Utilities Combo Package - PS3 PostScript\nfile, visit\nepson.com/connect\n(U.S) or\nepson.ca/connect\n(Canada) and select your product.\nAfter downloading the installer file, double-click the downloaded file to install the software.\nDouble-click\nEPSON\n.\nClick\nContinue\non the next two screens.\nClick\nAgree\n.\nClick\nInstall\n.\nIf necessary, enter the administrator password.\nClick\nStart\nand follow the on-screen instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-000080d-wfc529r?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CG79201~faq-000080d-wfc529r",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:16.949801"
+        },
+        {
+          "question": "How do I uninstall the Epson product software?",
+          "answer": "Follow the instructions below for your operating system.\nUninstalling Product Software - Mac\nIn most cases, you do not need to uninstall your product software before re-installing it. However, you can download the Uninstaller utility from the Epson support website to uninstall your product software as described here.\nNote:\nIf you find that re-installing your product software does not solve a problem, contact Epson.\nTo download the Uninstaller utility, visit\nepson.com/support\n(U.S.),\nepson.ca/support\n(Canada), or\nlatin.epson.com/support\n(Latin America) and select your product.\nClick\nDownloads\n.\nSelect your operating system, click\nUtilities\n, locate the Uninstaller utility, and click\nDownload\n.\nRun the file you downloaded.\nDouble-click the\nUninstaller\nicon.\nIn the Epson Uninstaller screen, select the checkbox for each software program you want to uninstall.\nClick\nUninstall\n.\nFollow the on-screen instructions to uninstall the software.\nReinstall your product software.\nNote:\nIf you uninstall the printer driver and your product name remains in the\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\nwindow, select your product name and click the\n–\n(remove) icon to remove it.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000812-wfc529r?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CG79201~faq-0000812-wfc529r",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:18.002857"
+        },
+        {
+          "question": "How do I install the Epson Universal Print Driver (PCL) with a network connection in Windows?",
+          "answer": "See below.\nInstalling the Epson Universal Print Driver - Windows\nThe Epson Universal Print Driver supports multiple printer languages, such as PCL and ESC/P-R, and can be installed on a Windows computer.\nNote:\nMake sure your product is turned on and connected to the same network as your computer before installing the printer software. Depending on your model, not all printer languages may be supported.\nTo download the\nEPSON Universal Print Driver\nfile, visit\nepson.com/support\n(U.S.),\nepson.ca/support\n(Canada), or\nepson.com.jm/support\n(Caribbean) and select your product.\nDouble-click the downloaded package.\nFollow the on-screen instructions until you see this screen:\nSelect\nYes: Network connection\nand click\nOK\n.\nNote:\nSelect the\nSet Default of Printer Control Language to PCL6\ncheckbox if you want to set the default printer language to PCL6. Leave this option deselected to set the printer language to ESC/P-R. (You can change this setting later as needed.)\nAfter the software finishes searching for products, you see a screen like this:\nDo one of the following:\nIf you are installing one product, make sure\nAdd EPSON Universal Print Driver\nis selected and continue with the next step.\nIf you are installing more than one product, select\nAdd found printers\nand go to step 9.\nNote:\nYou can customize and filter your product search results by clicking\nDisplay Settings\n.\nOpen the\nSelect a port to connect a printer\nmenu and select an existing printer port, if necessary. Otherwise, skip this option to create a new port automatically.\nSelect the product you want to install from the Found Printers list.\nNote:\nDeselect the\nSet as default printer\ncheckbox if you do not want the product to be set as your default printer.\nClick\nOK\n, then skip the remaining steps.\nIf you are installing more than one product, select the products from the Found Printers list and click\nAdd to Printer Folder\n.\nThe selected products appear in the lower section of the screen.\nSelect the checkbox next to the product you want to make your default printer, if necessary.\nClick\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00007d6-wfc529r?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CG79201~faq-00007d6-wfc529r",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:19.056122"
+        },
+        {
+          "question": "How do I change the Power Off and Sleep Timer settings?",
+          "answer": "See below.\nChanging the Power Off Timer Settings\nYou can have the product turn off automatically if it is not used for a specified period of time.\nPress the\nhome button, if necessary.\nSelect\nSettings\n>\nGeneral Settings\n>\nBasic Settings\n>\nPower Off Timer\n. You see a screen like this:\nSelect a time period between\n30minutes\nand\n12h\n(12 hours).\nChanging the Sleep Timer Settings\nYou can adjust the time period before your product enters sleep mode and turns off the LCD screen.\nPress the\nhome button, if necessary.\nSelect\nSettings\n>\nGeneral Settings\n>\nBasic Settings\n>\nSleep Timer\n. You see a screen like this:\nPress the\nOK\nbutton.\nUse the displayed keypad to select a time period.\nWhen you are finished, select\nDone\non the Sleep Timer screen.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000604-wfc529r?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CG79201~faq-0000604-wfc529r",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:20.128356"
+        },
+        {
+          "question": "I can't select an optional paper cassette as my paper source. What should I do?",
+          "answer": "Turn the product off and on, then follow the instructions below for your operating system.\nEnabling the Optional Paper Cassette - Windows\nYou need to enable the optional paper cassette unit before you can use it with the printer software.\nNote:\nIf you are using the Epson Universal Print Driver or PostScript (PS3) printer software, see the link below to enable the optional cassette unit.\nDo one of the following:\nWindows 10:\nClick\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your product name and select\nManage\n>\nPrinter properties\n.\nWindows 8.x:\nNavigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your product name and select\nPrinter properties\n.\nWindows 7:\nClick\nand select\nDevices and Printers\n. Right-click your printer name and select\nPrinter properties\n.\nWindows Vista:\nClick\nand select\nControl Panel\n. Click\nPrinter\nunder\nHardware and Sound\n, then right-click your printer name and select\nProperties\n.\nClick the\nOptional Settings\ntab. You see a window like this:\nMake sure\nAcquire from Printer\nis selected, then click\nGet\n. The optional paper sources are listed in the Current Printer Information section.\nClick\nOK\n.\nThe optional paper cassette is now enabled.\nRelated tasks\nEnabling the Optional Paper Cassettes - PostScript Printer Software - Windows\nSynchronizing Printer Settings - Epson Universal Print Driver - Windows\nEnabling the Optional Paper Cassette - Mac\nYou need to enable the optional paper cassette unit before you can use it with the printer software.\nNote:\nIf you are using the PostScript (PS3) printer software, see the link below to enable the optional cassette unit.\nIn the Apple menu or the Dock, select\nSystem Preferences\n.\nSelect\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n, select your product, and select\nOptions & Supplies\n.\nSelect\nDriver\nor\nOptions\n. You see a screen like this:\nSelect the optional cassette unit you installed as the\nLower Cassette\nsetting.\nClick\nOK\n.\nThe optional paper cassette is now enabled.\nRelated tasks\nEnabling the Optional Paper Cassettes - PostScript Printer Software - Mac",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00007fe-wfc529r?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CG79201~faq-00007fe-wfc529r",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:21.177559"
+        },
+        {
+          "question": "Where can I find the IP address of my router?",
+          "answer": "Most wireless routers have a default IP address that can usually be found in the router's documentation.\nFor more support on your router, contact the manufacturer of your router.\nYou can also print a network status sheet from your printer's control panel to find your router's IP address.\nNote:\nThe network status sheet will list your router’s IP address only if you have set up your printer with a network connection to the router. If you print a network status sheet before setup, the router's IP address will not be listed on the network status sheet.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00004c0-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CG79201~faq-00004c0-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:22.287120"
+        },
+        {
+          "question": "How do I change the font size of text when I print from software in Windows?",
+          "answer": "You need to select the text or font size in the software you are printing from, not the printer driver. For detailed instructions, contact the company for the application you are printing from.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00004b7-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CG79201~faq-00004b7-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:23.398193"
+        },
+        {
+          "question": "How do I add my product as an IP printer on my Mac?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n.\nSelect your printer, if necessary.\nClick\n+\nor\nAdd Printer, Scanner, or Fax\nand select\nIP\non the toolbar.\nSelect a protocol. If you do not know which protocol to choose, leave it as\nLine Printer Daemon-LPD\n.\nClick the\nAddress\nfield and enter your printer's IP address. You see the message\nGathering printer information\nas your Mac connects to the printer.\nClick\nAdd\nafter your printer appears in the Use field to create a printer queue. If your printer does not appear in the Use field, select\nAuto Select\nfrom the drop-down box.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00004ba-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CG79201~faq-00004ba-shared",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:24.514141"
+        },
+        {
+          "question": "What are the port numbers for Epson network printers (wired and wireless)?",
+          "answer": "See the table below.\nNote:\nNot all operations are supported by all products.\nService name\nProtocol type\nLocal/Remote port number\nControls these operations\nENPC\nUDP\n3289/Any port\nSearching for a product from applications such as printer or scanner drivers, or EpsonNet Config\nSNMP\nUDP\n161/Any port\nAcquiring and configuring MIB from applications such as printer or scanner drivers, or EpsonNet Config\nLPR\nTCP\n515/Any port\nForwarding LPR data\nRAW (Port9100)\nTCP\n9100/any port\nForwarding RAW data\nIPP/IPPS\nTCP\n631/Any port\nForwarding AirPrint data (IPP/IPPS printing)\nWSD\nTCP\nAny port/5357\nControlling WSD\nWS-Discovery\nUDP\n3702/Any port\nSearching for a product from WSD\nNetwork Scan\nTCP\n1865/Any port\nForwarding scan data from Document Capture Pro and Document Capture\nNetwork Push Scan\nTCP\nAny port/2968\nAcquiring job information on push scanning from Document Capture Pro and Document Capture\nNetwork Push Scan Discovery\nUDP\n2968/Any port\nSearching for a computer during push scanning from Document Capture Pro and Document Capture\nFTP Data (Local)\nTCP\n20/Any port\nForwarding FTP printing data to FTP server\nFTP Control (Local)\nTCP\n21/Any port\nControlling FTP printing to FTP server\nFTP Data (Remote)\nTCP\nAny port/20\nForwarding scan data and received fax data to FTP client; controls only an FTP server that uses remote port 20\nFTP Control (Remote)\nTCP\nAny port/21\nForwarding scan data and received fax data to FTP client\nCIFS (Local)*\nTCP\n445/Any port\nSharing a network folder on CIFS server\nCIFS (Remote)*\nTCP\nAny port/445\nForwarding scan data and received fax data to a folder on CIFS server\nNetBIOS Name Service (Local)\nUDP\n137/Any port\nSharing a network folder on CIFS server\nNetBIOS Datagram Service (local)\nUDP\n138/Any port\nNetBIOS Session Service (Local)\nTCP\n139/Any port\nNetBIOS Name Service (Remote)\nUDP\nAny port/137\nForwarding scan data and received fax to a folder on CIFS server\nNetBIOS Datagram Service (Remote)\nUDP\nAny port/138\nNetBIOS Service (Remote)\nTCP\nAny port/139\nHTTP (Local)\nTCP\n80/Any port\nForwarding Web Config and WSD data to a HTTP or HTTPS server\nHTTPS (Local)\nTCP\n443/Any port\nHTTP (Remote)\nTCP\nAny port/80\nCommunicating with Epson Connect or Chromebook Native Printing, firmware update, and root certificate update on a HTTP or HTTPS client\nHTTPS (Remote)\nTCP\nAny port/443\n* To control forwarding of scan and received fax data, share a network folder, or receive fax data from PC-Fax, select\nPort Number\nas the\nMethod of Choosing Port\noption and specify the port numbers for CIFS and NetBIOS.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000525-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CG79201~faq-0000525-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:25.554703"
+        },
+        {
+          "question": "Does Epson make drivers for Linux?",
+          "answer": "Linux drivers are available for some products. Visit the links below to see the drivers available for your product, as well as information about using an Epson product with Linux.\nNote:\nEpson does not provide support for Linux drivers.\nLinux drivers for Epson products\nLinux FAQs for Epson products\n(only available in English)\nLinux manuals for Epson products\n(only available in English)",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00004dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CG79201~faq-00004dc-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:26.600449"
+        },
+        {
+          "question": "Who do I contact for software support?",
+          "answer": "Click on the\nContact Us\ntab on your product's support page to contact Epson for support. If your product comes with third-party software, contact the software company.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00004db-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CG79201~faq-00004db-shared",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:27.784427"
+        },
+        {
+          "question": "How do I change the Sleep Timer setting?",
+          "answer": "See below.\nChanging the Sleep Timer Settings\nYou can adjust the time period before your product enters sleep mode and turns off the LCD screen.\nPress the\nhome button, if necessary.\nSelect\nSettings\n>\nGeneral Settings\n>\nBasic Settings\n>\nSleep Timer\n. You see a screen like this:\nPress the\nOK\nbutton.\nUse the displayed keypad to select a time period.\nWhen you are finished, select\nDone\non the Sleep Timer screen.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000817-wfc529r?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CG79201~faq-0000817-wfc529r",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:28.850107"
+        },
+        {
+          "question": "How do I change the Power Off Timer setting?",
+          "answer": "See below.\nChanging the Power Off Timer Settings\nYou can have the product turn off automatically if it is not used for a specified period of time.\nPress the\nhome button, if necessary.\nSelect\nSettings\n>\nGeneral Settings\n>\nBasic Settings\n>\nPower Off Timer\n. You see a screen like this:\nSelect a time period between\n30minutes\nand\n12h\n(12 hours).",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000816-wfc529r?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CG79201~faq-0000816-wfc529r",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:29.928634"
+        },
+        {
+          "question": "The option for 2-Sided Printing (Windows) or Two-sided Printing Settings (Mac) is gray or not available. What should I do?",
+          "answer": "Make sure you use a paper type and size that supports this feature. Automatic double-sided printing is only available if you select plain paper and one of these paper sizes in the printer software:\nLetter (8.5 × 11 inches [216 × 279 mm])\nA4 (8.3 × 11.7 inches [210 × 297 mm])\nExecutive (7.25 x 10.5 inches [184 x 267 mm])\nB5 (7.2 x 10.1 inches [182 x 257 mm])\nNote:\nAutomatic double-sided printing is not supported on glossy, thick, and certain matte papers.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00004fb-wfc529r?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CG79201~faq-00004fb-wfc529r",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:29.373029"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "The following options are available:\nYou can use Epson Software Updater (which is installed the first time you install the printer driver) to notify you when new updates are available for download. Software Updater analyzes the Epson software (drivers, utilities, firmware, etc.) installed on your computer and product, and notifies you if new updates are available for download.\nIf you already installed a Windows printer driver, you can update the driver by selecting\nSoftware Update\non the Maintenance tab in the printer driver settings window.\nYou can download the software from the Downloads tab on your product's support page.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00004fc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CG79201~faq-00004fc-shared",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:30.646841"
+        },
+        {
+          "question": "I can't get Epson Status Monitor to work over my wireless network. What should I do?",
+          "answer": "If the product is not shared, make sure it is connected to the network wirelessly. Try moving your product or computer to a different location within range of your wireless network. Avoid placing the computer, product, or wireless access point near microwaves, cordless telephones, or other sources of wireless interference.\nIf the product is set up as a shared printer, Epson Status Monitor will not work and is not supported.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00004c7-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CG79201~faq-00004c7-shared",
+          "display_order": 20,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:31.680530"
+        },
+        {
+          "question": "How do I set the Epson Universal Print Driver to the PCL printer language?",
+          "answer": "If necessary install the Universal Print Driver, and then configure it for the PCL language. See below.\nInstalling the Universal Print Driver\nNote:\nMake sure your product is turned on and connected to the same network as your computer before installing the printer software if you are using a network connection.\nDownload the\nEPSON Universal Print Driver\nfrom the Downloads tab on your product’s support page.\nFollow the on-screen instructions until you see the screen below.\nSelect your connection type and select the\nSet Default of Printer Control Language to PCL6\ncheckbox.\nClick\nOK\n.\nIf necessary install the Universal Print Driver, and then configure it for the PCL language. See below.\nConfigure the Driver for the PCL Language\nIf the Epson Universal Print Driver is already installed, do the following:\nDo one of the following:\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Click\nEpson Universal Print Driver\n>\nManage\n.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click\nEPSON Universal Print Driver\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click\nEPSON Universal Print Driver\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click\nEPSON Universal Print Driver\n.\nClick\nPrinting preferences\nand click the\nMaintenance\ntab.\nClick\nExtended Settings\nand select\nPCL6\nfrom the\nPrinter Control Language\ndrop-down list.\nClick\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00004bb-wfc529r?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CG79201~faq-00004bb-wfc529r",
+          "display_order": 21,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:32.713268"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CG79201~faq-0000f4b-shared",
+          "display_order": 22,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:33.771506"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CG79201~faq-0000f4c-shared",
+          "display_order": 23,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:34.800372"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CG79201~faq-0000f4d-shared",
+          "display_order": 24,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:36.258255"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Wireless or Wired Connection",
+      "section_id": "8796127635532",
+      "section_order": 9,
+      "faqs": [
+        {
+          "question": "How do I check my product's status on the network?",
+          "answer": "You can select your product's network settings and confirm its operating status using a web browser. You do this by accessing your product's built-in Web Config utility from a computer or other device that is connected to the same network as your product.\nNote:\nFor more information on administration settings, see the\nAdministrator's Guide\n.\nPrint a network status sheet.\nLocate the IP address for your product that is listed on the network status sheet.\nOn a computer or other device connected to the same network as your product, open a web browser.\nEnter your product's IP address into the address bar. You see the available Web Config utility options.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000a2b-wfc529r?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CG79201~faq-0000a2b-wfc529r",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:37.405665"
+        },
+        {
+          "question": "How do I connect my WPS-enabled wireless router to my product?",
+          "answer": "See below.\nUsing WPS to Connect to a Network\nIf you have a WPS-enabled wireless router or access point, you can use Wi-Fi Protected Setup (WPS) to connect your product to the network.\nPress the\nhome button, if necessary.\nSelect\nWi-Fi\n. You see a screen like this:\nSelect\nRouter\n.\nSelect\nStart Setup\n,\nChange Settings\n, or\nChange to Wi-Fi connection\n, depending on your current connection settings.\nSelect\nPush Button Setup (WPS)\n.\nFollow the instructions on the LCD screen to complete WPS setup.\nPress the\nhome button to exit. You see the\nicon on the LCD screen and should be able to connect to your product directly from your computer or device, and then print. If you are printing from a computer, make sure you installed the network software as described on the Start Here sheet.\nNote:\nIf you don't see the\nicon, repeat these steps to try again.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00005f0-wfc529r?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CG79201~faq-00005f0-wfc529r",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:38.497313"
+        },
+        {
+          "question": "How do I connect my product to my wireless network using the product's control panel?",
+          "answer": "See below.\nSelecting Wireless Network Settings from the Control Panel\nYou can select or change wireless network settings using your product control panel.\nTo install your product on a wireless network, follow the instructions on the Start Here sheet and install the necessary software by downloading it from the Epson website. The installer program guides you through network setup.\nNote:\nBreakdown or repair of this product may cause loss of network data and settings. Epson is not responsible for backing up or recovering data and settings during or after the warranty period. We recommend that you make your own backup or print out your network data and settings.\nPress the\nhome button, if necessary.\nSelect\nWi-Fi\n. You see a screen like this:\nSelect\nRouter\n.\nSelect\nStart Setup\n,\nChange Settings\n, or\nChange to Wi-Fi connection\n, depending on your current connection settings.\nSelect\nWi-Fi Setup Wizard\n.\nSelect the name of your wireless network or select\nEnter Manually\nto enter the name manually. Use the displayed keypad to enter your network name.\nSelect the\nEnter Password\nfield and enter your wireless password using the displayed keypad.\nNote:\nThe network name and password are case sensitive. Be sure to correctly enter uppercase and lowercase letters, and numeric or special characters.\nTo move the cursor, select the left or right arrows.\nTo change the case of letters, select\n.\nTo delete the previous character, select\n.\nTo enter numbers and symbols, select\n.\nTo change the keypad layout, select\n.\nTo enter a space, select\n.\nSelect\nOK\nwhen you finish entering your password.\nConfirm the displayed network settings and select\nStart Setup\nto save them.\nIf you want to print a network settings report, select\nPrint Check Report\n. (Otherwise, select\nDismiss\n.)\nPress the\nhome button to exit. You see the\nicon on the LCD screen and should be able to connect to your product directly from your computer or device, and then print. If you are printing from a computer, make sure you installed the network software as described on the Start Here sheet.\nNote:\nIf you don't see the\nicon, you may have selected the wrong network name or entered the password incorrectly. Repeat these steps to try again.\nRelated tasks\nEntering Characters on the LCD Screen\nRelated references\nStatus Icon Information",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00007f3-wfc529r?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CG79201~faq-00007f3-wfc529r",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:39.549188"
+        },
+        {
+          "question": "How do I change from a USB connection to a Wi-Fi connection?",
+          "answer": "See below.\nChanging a USB Connection to a Wi-Fi Connection\nIf you have already connected your product to your computer using a USB connection, you can change to a Wi-Fi connection.\nDisconnect the USB cable from your product.\nUninstall your product software.\nDownload and install your product software from the Epson website using the instructions on the Start Here sheet.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00007f2-wfc529r?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CG79201~faq-00007f2-wfc529r",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:40.588348"
+        },
+        {
+          "question": "How do I connect my product with a Wi-Fi Direct connection?",
+          "answer": "See below.\nEnabling Wi-Fi Direct Mode\nYou can enable Wi-Fi Direct mode to allow direct communication between your product and computer or other devices without a wireless router or access point.\nPress the\nhome button, if necessary.\nSelect\nWi-Fi\n. You see a screen like this:\nSelect\nWi-Fi Direct\n>\nStart Setup\n.\nSelect\nStart Setup\nagain. You see a screen like this:\nUse your computer or wireless device to select the Wi-Fi network name (SSID) displayed on the LCD screen, then enter the password shown.\nPress the\nhome button to exit. You see the\nicon on the LCD screen and should be able to connect to your product directly from your computer or device, and then print. If you are printing from a computer, make sure you installed the network software as described on the Start Here sheet.\nNote:\nIf you don't see the\nicon on the LCD screen, you may have selected the wrong network name or entered the password incorrectly. Repeat these steps to try again.\nRelated tasks\nEntering Characters on the LCD Screen\nRelated references\nStatus Icon Information",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00005ef-wfc529r?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CG79201~faq-00005ef-wfc529r",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:41.685245"
+        },
+        {
+          "question": "How do I change from a Wi-Fi connection to a wired network connection?",
+          "answer": "See below.\nChanging a Wi-Fi Connection to a Wired Network Connection\nIf you have already connected your product to your computer wirelessly, you can change to a wired network connection if necessary.\nDisable your product's Wi-Fi features.\nConnect one end of an Ethernet network cable to the product's\nLAN\nport.\nConnect the other end to any available LAN port on your router or access point.\nUninstall your product software.\nDownload and install your product software from the Epson website.\nFollow the on-screen instructions to install the software.\nWhen you see the Select Your Connection screen, select\nWired network connection\n.\nIf you see a Select Setup Option screen, select\nSet up printer for the first time\n.\nContinue following the rest of the on-screen instructions.\nRelated tasks\nDisabling Wi-Fi Features",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-000048a-wfc529r?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CG79201~faq-000048a-wfc529r",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:42.757725"
+        },
+        {
+          "question": "Can I set up my product for both a USB and network connection?",
+          "answer": "Yes. However, the product does not support a wireless and an Ethernet connection at the same time.\nTo set up both a USB and network connection, you must install the product's software twice (i.e., once for each connection type).\nNote:\nWith this setup, your product may appear as two devices in the Printer list. One device is for the USB connection, and the other is for the network connection.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00004fe-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CG79201~faq-00004fe-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:43.799606"
+        },
+        {
+          "question": "Where can I get my wireless password for Apple AirPort Extreme or Express?",
+          "answer": "Contact Apple for assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00004c1-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CG79201~faq-00004c1-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:44.887945"
+        },
+        {
+          "question": "I can't print from Windows with a wireless connection after I replaced my router. What should I do?",
+          "answer": "You need to set up your product again for the new router. Do the following:\nNote:\nThe information below applies only to the Standard Epson printer software.\nUninstall your product's software. See these\ninstructions\n.\nDo one of the following:\nWindows 10\n: Click\nand select\n(Settings) >\nNetwork & Internet\n>\nWindows Firewall\n. Disable the firewall.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nWindows Firewall\n. Disable the firewall.\nWindows (other versions)\n: Select\nor\nStart\n>\nControl Panel\n>\nSystem and Security\n>\nWindows Firewall\n. Disable the firewall.\nIf you have other firewall software enabled, you need to disable it also. If you don't know how to disable it, contact your firewall provider for help.\nNote:\nThis step is needed to install the product's software and complete the wireless setup. Remember to enable your firewall software after you complete the wireless setup.\nDownload and install the\nDrivers and Utilities Combo Package\nfrom the Downloads tab on the product's support page. Open the file you downloaded and follow the on-screen instructions to install the software.\nNote:\nAfter you complete the wireless setup, turn your firewall back on.\nIf this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000495-wfc529r?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CG79201~faq-0000495-wfc529r",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:45.976972"
+        },
+        {
+          "question": "I tried to install the product's software for an Ethernet connection but cannot complete the installation in Windows or on my Mac. What should I do?",
+          "answer": "Install the software again. To be sure it installs properly, first uninstall the product software you tried to install. This will remove any software components that may have installed when you first tried to set up the product. After you uninstall the software, check the following:\nMake sure your system meets the requirements listed in the product's User's Guide.\nClose other software, including screen savers and virus protection software, before you install your product's software again.\nIf you see an error message or your software does not install correctly in Windows, you may not have software installation privileges. Contact your System Administrator.\nMake sure your product is turned on and the network cable is securely connected at both ends.\nRelated concepts\nUninstall Your Product Software\nRelated references\nWindows System Requirements\nMac System Requirements",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000529-wfc529r?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CG79201~faq-0000529-wfc529r",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:47.018010"
+        },
+        {
+          "question": "I can't print from my Mac with a wireless connection after I replaced my router. What should I do?",
+          "answer": "You need to set up your product again for the new router. Do the following:\nNote:\nThe information below applies only to the Standard Epson printer software.\nOpen the\nmenu, select\nSystem Preferences\n>\nPrint & Fax\n,\nPrint & Scan\n, or\nPrinters & Scanners\n> your printer, and then click\nto remove the printer.\nOpen the\nmenu, select\nSystem Preferences\n, and then click either\nSecurity & Privacy\nor\nSecurity\n. Select the\nFirewall\ntab and disable the firewall.\nIf you have other firewall software enabled, you need to disable it also. If you don't know how to disable it, contact your firewall provider for help.\nNote:\nThis step is needed to install the product's software and complete the wireless setup. Remember to enable your firewall software after you complete the wireless setup.\nDownload and install the\nDrivers and Utilities Combo Package\nfrom the Downloads tab on the product's support page. Open the file you downloaded and follow the on-screen instructions to install the software.\nNote:\nAfter you complete the wireless setup, turn your firewall back on.\nIf this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000494-wfc529r?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CG79201~faq-0000494-wfc529r",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:48.090706"
+        },
+        {
+          "question": "I was able to print from Windows before with an Ethernet connection, but now I can't. What should I do?",
+          "answer": "This problem can be caused by your printer or computer. Do the following:\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these\ninstructions\n.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for errors and clear them. See these\ninstructions\n. Try printing a nozzle check pattern again. If you can print, go to the next step. Otherwise, contact Epson Support.\nTurn your product off and on again and try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nDelete any pending print jobs from the Epson print queue\nand try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nIn the Epson print queue, select\nPrinter\nand deselect the\nUse Printer Offline\ncheckbox. If you can print, you're done. Otherwise, go to the next step.\nPrint a Network Status Sheet. See these\ninstructions\n. Find the product's IP address on the Network Status Sheet. The IP address set up on your product should be the same in Windows. To see the IP address set up for your printer in Windows, do one of the following:\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your product and select\nManage\n>\nPrinter properties\n>\nPorts\n. The IP address appears in the Port column.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer icon and select\nPrinter Properties\n>\nPorts\n. The IP address appears in the Port column.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer icon and select\nPrinter Properties\n>\nPorts\n. The IP address appears in the Port column.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer icon and select\nPrinter Properties\n>\nPorts\n. The IP address appears in the Port column.\nDo one of the following:\nIf the IP address for your printer is different in Windows, add a new port for your printer. Select\nPorts\nand click\nAdd Port\n. A window appears. Select\nEpsonNet Print Port\n>\nNew Port\n>\nManual Setting\n>\nNext\n. Enter your printer’s IP address in the IP address field and click\nNext\n>\nFinish\n. Try printing again. If you can print, you're done. Otherwise, contact Epson Support.\nIf the IP address is the same, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000910-wfc529r?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CG79201~faq-0000910-wfc529r",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:49.384886"
+        },
+        {
+          "question": "I was able to print from my Mac before with an Ethernet connection, but now I can't. What should I do?",
+          "answer": "This problem can be caused by your printer or the computer. Do the following:\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these\ninstructions\n.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for errors and clear them. See these\ninstructions\n. Try printing a nozzle check pattern again. If you can print, go to the next step. Otherwise, contact Epson Support.\nTurn your product off and on again and try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nDelete any pending print jobs from the Epson print queue\nand try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nDelete and re-add the print queue.\nClick\n, select your printer with Kind set as\nBonjour\n, select your printer from the Use drop-down list, and then click\nAdd\n. This adds the printer to the printer queue. Try printing again. If you can print, you're done. Otherwise, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-000090f-wfc529r?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CG79201~faq-000090f-wfc529r",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:50.563395"
+        },
+        {
+          "question": "I was able to print from Windows before with a wireless connection, but now I can't. What should I do?",
+          "answer": "This problem can be caused by your printer, computer, or wireless network. Do the following:\nNote:\nThe information below applies only to the Standard Epson printer software.\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these\ninstructions\n.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for errors and clear them. See these\ninstructions\n. Try printing a nozzle check pattern again. If you can print, go to the next step. Otherwise, contact Epson Support.\nTurn your product off and on again and try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nDelete any pending print jobs from the Epson print queue\nand try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nIn the Epson print queue, select\nPrinter\nand deselect the\nUse Printer Offline\ncheckbox. If you can print, you're done. Otherwise, go to the next step.\nCheck your product's Wi-Fi indicator and do one of the following:\nIf a wireless connection is established, unplug your router's power cord from the power outlet, wait a brief period, plug it back in, and then try to print. If you can print, you're done. The problem was resolved by restarting your router. If you can't print, restart your computer and try printing again. If these steps do not resolve your problem, contact Epson Support.\nNote:\nYou may need to re-establish the connection for the other devices on your network after you restart your router.\nIf a wireless connection is not established, follow the instructions in the\nReinstall the Product Software\nsection below.\nReinstall the Product Software\nReset your product's network settings. See these\ninstructions\n.\nTurn off the product and disconnect any interface cables.\nDo one of the following:\nWindows 10\n: Click\nand select\n(Settings) >\nNetwork & Internet\n>\nWindows Firewall\n. Disable the firewall.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nWindows Firewall\n. Disable the firewall.\nWindows (other versions)\n: Select\nor\nStart\n>\nControl Panel\n>\nSystem and Security\n>\nWindows Firewall\n. Disable the firewall.\nIf you have other firewall software enabled, you need to disable it also. If you don't know how to disable it, contact your firewall provider for help.\nNote:\nThis step is needed to install the product's software and complete the wireless setup. Remember to enable your firewall software after you complete the wireless setup.\nUninstall your product's software. See these\ninstructions\n.\nUnplug your router's power cord from the power outlet, wait a brief period, and then plug it back in.\nNote:\nYou may need to re-establish the connection for the other devices on your network.\nDownload and install the\nDrivers and Utilities Combo Package\nfrom the Downloads tab on the product's support page. Open the file you downloaded and follow the on-screen instructions to install the software.\nNote:\nAfter you complete the wireless setup, turn your firewall back on.\nIf this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000914-wfc529r?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CG79201~faq-0000914-wfc529r",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:51.611854"
+        },
+        {
+          "question": "How do I find my SSID and network password?",
+          "answer": "In most cases, the software installer will automatically set up your wireless connection, so you don't need to know your SSID and password. However, if it cannot determine your SSID or password, you will be prompted to set up your wireless connection manually.\nCheck your router documentation for this information. Most routers have a default SSID and password that can be modified once the router is set up.\nNote:\nThe SSID is the name of the wireless network that is set up on your router or access point.\nIf you don't know this information, you need to contact the manufacturer of your router or the person who set up your network.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00009c6-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CG79201~faq-00009c6-shared",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:52.651277"
+        },
+        {
+          "question": "I was able to print from my Mac before with a wireless connection, but now I can't. What should I do?",
+          "answer": "This problem can be caused by your printer, computer, or wireless network. Do the following:\nNote:\nThe information below applies only to the Standard Epson printer software.\nTo determine if the printer can print without a computer, print a nozzle check pattern. See these\ninstructions\n.\nIf you can print a nozzle check pattern, go to the next step.\nIf you can't print a nozzle check pattern, check the product for errors and clear them. See these\ninstructions\n. Try printing a nozzle check pattern again. If you can print, go to the next step. Otherwise, contact Epson Support.\nTurn your product off and on again and try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nDelete any pending print jobs from the Epson print queue\nand try printing again. If you can print, you're done and you can skip the remaining steps. Otherwise, go to the next step.\nOn your Mac, open the\nmenu and select\nSystem Preferences\n. Select\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n, select your printer, and then click\nto remove the printer. Click\n, select your printer with Kind set as\nBonjour\n, select your printer from the Use drop-down list, and then click\nAdd\n. This adds the printer back to the printer queue. Try printing again. If you can print, you're done, and you can skip the remaining steps. Otherwise, go to the next step.\nCheck your product's Wi-Fi indicator and do one of the following:\nIf a wireless connection is established, unplug your router's power cord from the power outlet, wait a brief period, plug it back in, and then try to print. If you can print, you're done. The problem was resolved by restarting your router. If you can't print, restart your computer and try printing again. If these steps do not resolve your problem, contact Epson Support.\nNote:\nYou may need to re-establish the connection for the other devices on your network after you restart your router.\nIf a wireless connection is not established, follow the instructions in the\nReinstall the Product Software\nsection below.\nReinstall the Product Software\nReset your product's network settings. See these\ninstructions\n.\nOn your Mac, open the\nmenu and select\nSystem Preferences\n. Select\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n, select your printer, and then click\nto remove the printer.\nOpen the\nmenu, select\nSystem Preferences\n, and then click either\nSecurity & Privacy\nor\nSecurity\n. Select the\nFirewall\ntab and disable the firewall.\nIf you have other firewall software enabled, you need to disable it also. If you don't know how to disable it, contact your firewall provider for help.\nNote:\nThis step is needed to install the product's software and complete the wireless setup. Remember to enable your firewall software after you complete the wireless setup.\nUnplug your router's power cord from the power outlet, wait a brief period, and then plug it back in.\nNote:\nYou may need to re-establish the connection for the other devices on your network.\nDownload and install the\nDrivers and Utilities Combo Package\nfrom the Downloads tab on the product's support page. Open the file you downloaded and follow the on-screen instructions to install the software.\nNote:\nAfter you complete the wireless setup, turn your firewall back on.\nIf this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000913-wfc529r?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CG79201~faq-0000913-wfc529r",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:53.769436"
+        },
+        {
+          "question": "I tried to install the product on my Mac with a wireless connection, but the installation failed. What should I do?",
+          "answer": "Try setting up your software and product again. Do the following:\nNote:\nThe information below applies only to the Standard Epson printer software.\nReset your product's network settings. See these\ninstructions\n.\nOpen the\nmenu, select\nSystem Preferences\n, and then click either\nSecurity & Privacy\nor\nSecurity\n. Select the\nFirewall\ntab and disable the firewall.\nIf you have other firewall software enabled, you need to disable it also. If you don't know how to disable it, contact your firewall provider for help.\nNote:\nThis step is needed to install the product's software and complete the wireless setup. Remember to enable your firewall software after you complete the wireless setup.\nUnplug your router's power cord from the power outlet, wait a brief period, and then plug it back in.\nNote:\nYou may need to re-establish the connection for the other devices on your network.\nDownload and install the\nDrivers and Utilities Combo Package\nfrom the Downloads tab on the product's support page. Open the file you downloaded and follow the on-screen instructions to install the software.\nNote:\nAfter you complete the wireless setup, turn your firewall back on.\nIf this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00009cd-wfc529r?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CG79201~faq-00009cd-wfc529r",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:54.806893"
+        },
+        {
+          "question": "I can't print from my Mac with a wireless connection since I received an exchange product from Epson. What should I do?",
+          "answer": "You need to set up your product again. Do the following:\nNote:\nThe information below applies only to the Standard Epson printer software.\nOpen the\nmenu, select\nSystem Preferences\n, and then click either\nSecurity & Privacy\nor\nSecurity\n. Select the\nFirewall\ntab and disable the firewall.\nIf you have other firewall software enabled, you need to disable it also. If you don't know how to disable it, contact your firewall provider for help.\nNote:\nThis step is needed to install the product's software and complete the wireless setup. Remember to enable your firewall software after you complete the wireless setup.\nDownload and install the\nDrivers and Utilities Combo Package\nfrom the Downloads tab on the product's support page. Open the file you downloaded and follow the on-screen instructions to install the software.\nIf you received a different product for exchange, go to the main Epson Support page, select your product, and then download the software from the Downloads tab on the product's support page.\nNote:\nAfter you complete the wireless setup, turn your firewall back on.\nIf this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00009cb-wfc529r?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CG79201~faq-00009cb-wfc529r",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:55.855560"
+        },
+        {
+          "question": "I can't print from Windows with a wireless connection since I received an exchange product from Epson. What should I do?",
+          "answer": "You need to set up your product again.\nNote:\nThe information below applies only to the Standard Epson printer software.\nDo one of the following:\nWindows 10\n: Click\nand select\n(Settings) >\nNetwork & Internet\n>\nWindows Firewall\n. Disable the firewall.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nWindows Firewall\n. Disable the firewall.\nWindows (other versions)\n: Select\nor\nStart\n>\nControl Panel\n>\nSystem and Security\n>\nWindows Firewall\n. Disable the firewall.\nIf you have other firewall software enabled, you need to disable it also. If you don't know how to disable it, contact your firewall provider for help.\nNote:\nThis step is needed to install the product's software and complete the wireless setup. Remember to enable your firewall software after you complete the wireless setup.\nDownload and install the\nDrivers and Utilities Combo Package\nfrom the Downloads tab on the product's support page. Open the file you downloaded and follow the on-screen instructions to install the software.\nIf you received a different product for exchange, go to the main Epson Support page, select your product, and then download the software from the Downloads tab on the product's support page.\nNote:\nAfter you complete the wireless setup, turn your firewall back on.\nIf this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00009cc-wfc529r?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CG79201~faq-00009cc-wfc529r",
+          "display_order": 20,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:56.930529"
+        },
+        {
+          "question": "I tried to install the product in Windows with a wireless connection, but the installation failed. What should I do?",
+          "answer": "You need to set up your software and product again. Do the following:\nNote:\nThe information below applies only to the Standard Epson printer software.\nReset your product's network settings. See these\ninstructions\n.\nDo one of the following:\nWindows 10\n: Click\nand select\n(Settings) >\nNetwork & Internet\n>\nWindows Firewall\n. Disable the firewall.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nWindows Firewall\n. Disable the firewall.\nWindows (other versions)\n: Select\nor\nStart\n>\nControl Panel\n>\nSystem and Security\n>\nWindows Firewall\n. Disable the firewall.\nIf you have other firewall software enabled, you need to disable it also. If you don't know how to disable it, contact your firewall provider for help.\nNote:\nThis step is needed to install the product's software and complete the wireless setup. Remember to enable your firewall software after you complete the wireless setup.\nUninstall your product's software. See these\ninstructions\n.\nUnplug your router's power cord from the power outlet, wait a brief period, and then plug it back in.\nNote:\nYou may need to re-establish the connection for the other devices on your network.\nDownload and install the\nDrivers and Utilities Combo Package\nfrom the Downloads tab on the product's support page. Open the file you downloaded and follow the on-screen instructions to install the software.\nNote:\nAfter you complete the wireless setup, turn your firewall back on.\nIf this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00009ce-wfc529r?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CG79201~faq-00009ce-wfc529r",
+          "display_order": 21,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:58.029799"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 10,
+      "faqs": [
+        {
+          "question": "How do I determine the number of pages the product has printed?",
+          "answer": "Do the following:\nMake sure the product is on.\nPress the\nhome button, if necessary.\nUse the arrow buttons to select\nSettings\nand press the\nOK\nbutton.\nPress the down arrow button, select\nPrint Counter\n, and press the\nOK\nbutton.\nView the number of prints (\nIn Total\n,\nB&W\nPrints\nand\nColor Prints\n).",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00004f5-wfc529r?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CG79201~faq-00004f5-wfc529r",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:59.061460"
+        },
+        {
+          "question": "How should I transport or store my product?",
+          "answer": "If you need to store your product or transport it a long distance, prepare it for transportation as described here.\nCaution\n: During transportation and storage, follow these guidelines:\nBecause the product is heavy, two or more people should lift and carry it using the hand positions shown here:\nIf additional paper cassettes are installed, uninstall them before lifting the printer.\nAvoid tilting the product, placing it vertically, or turning it upside down; otherwise ink may leak.\nLeave the ink packs installed. Removing the packs can dry out the print head and may prevent the product from printing.\nNote:\nBefore storing your product for a long period, replace low, expended, or expired ink to help prevent the print head from drying out. Store your product in a cool, dry place.\nTurn off the product.\nWait for the\npower light to turn off, then unplug the power cable.\nDisconnect any connected cables.\nRemove all the paper from the product.\nLift up the printer cover.\nMake sure the print head is in the home position on the right.\nSecure the print head to the case with tape as shown.\nCaution:\nDo not touch the translucent film inside the product; otherwise, you may damage your product.\nLower the printer cover.\nUnlock and open the front cover.\nIf you have the protective material that shipped with your product, use it to secure the ink pack trays.\nNote:\nThis protective material may not have been included with your product depending on when you purchased it.\nWhen you are finished, close and lock the front cover.\nUninstall the optional paper cassette, if necessary.\nClose the rear paper feed slot, feeder guard, output tray, and lower the control panel.\nRemove the output tray.\nPlace the product in its original packing materials, if possible, or use equivalent materials with cushioning around the product.\nKeep the product level during transportation. If print quality has declined when you print again, clean and align the print head. Make sure you remove the tape securing the print head and the protective material attached to the ink pack trays before using the printer.\nRelated concepts\nPrint Head Cleaning\nPrint Head Alignment",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00005f2-wfc529r?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CG79201~faq-00005f2-wfc529r",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:17:00.154175"
+        },
+        {
+          "question": "My product will not wake up when I try to print with a wireless connection. What should I do?",
+          "answer": "Turn the product off and on. If you can print now, the problem is related to your wireless router. Contact the manufacturer of your router for assistance or try using a different router.\nIf you cannot print after turning the product off and on, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00004c8-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CG79201~faq-00004c8-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:16:59.385395"
+        },
+        {
+          "question": "Why doesn't Epson include a USB or Ethernet cable in the box with the product?",
+          "answer": "We are committed to giving our customers the best value possible with every product we sell. To provide high-quality products with the latest technology and sell them at the most competitive prices, it is critical to choose which components are necessary and which may be redundant. Because many of our customers already own USB or Ethernet cables, it makes good sense to eliminate the costs of including a cable in every box and use those savings to improve product features and lower the cost to you, the consumer.\nNote:\nNot all products support an Ethernet interface.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000490-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CG79201~faq-0000490-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:17:00.510795"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CG79201~faq-00004b0-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:17:01.737510"
+        },
+        {
+          "question": "What security measures does Epson recommend for its network products?",
+          "answer": "To help deter unauthorized access to your product over a network, you should protect your network environment using appropriate security measures.\nSecurity measures such as these can help deter threats such as loss of user data, use of telephone and fax lines, and other intrusions:\nEnable security on your wireless LAN if your product supports a wireless connection\nEnable the appropriate security on the wireless LAN you plan to use with your product. Network security, such as a network password, can deter interception of traffic over the wireless LAN. Your router may already have a default password enabled by your Internet service provider (ISP). See your ISP and router documentation for instructions on how to change the default password and better secure your network.\nConnect your product only to a network protected by a firewall\nConnecting your product directly to the Internet may leave it vulnerable to security threats. Instead, connect it to a router or other networking device protected by a firewall. Your router may already have a firewall set up by your Internet service provider; check with your ISP for confirmation. For best results, set up and use a private IP address for your network connection.\nChange the default administrator password on your product\nIf your product has an option to set an administrator password, change the default administrator password to deter access by unauthorized users to personal data stored on your product, such as IDs, passwords, and contact lists. See the product's User's Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000a05-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CG79201~faq-0000a05-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:17:02.824141"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CG79201~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CG79201~faq-0000f4a-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WF-C529R/s/SPT_C11CG79201",
+          "fetched_at": "2026-04-01T23:17:03.894226"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

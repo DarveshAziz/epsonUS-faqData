@@ -1,0 +1,970 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "Epson Stylus Series",
+  "model": {
+    "name": "Epson Stylus Pro 7900 Computer To Plate System",
+    "sku": "SPT_SP7900CTP",
+    "url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "Can I use an expired ink cartridge in my printer?",
+          "answer": "Epson does not recommend using expired ink cartridges in the printer. Do not use an unopened ink cartridge if the date on the package has expired. For best results, use ink cartridges before the expiration date printed on the package (and within six months of installation in the printer). Replace expired cartridges with new ones.\nYou may need to replace a cartridge that is more than six months old, if your printouts do not look their best, even after cleaning and aligning the printhead. We recommend you store any unused or unopened ink cartridges in a cool, dark place.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-000056f-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SP7900CTP~faq-000056f-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:10:54.091290"
+        },
+        {
+          "question": "I see the message Ink Cartridge Error: Replace Ink Cartridge. What should I do?",
+          "answer": "An ink cartridge in your printer needs to be replaced. The cartridge may be expended, or the IC chip on the cartridge may not be communicating properly. Try reseating the cartridge and turning the printer off and on. If you still see the error message, try installing a different ink cartridge in the printer.\nIf this did not solve the problem, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-0000572-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SP7900CTP~faq-0000572-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:10:55.181530"
+        },
+        {
+          "question": "Do I need a raster image processor (RIP) to print from Adobe Illustrator?",
+          "answer": "For the best output, a RIP should be used. Adobe Illustrator is a postscript application that requires a RIP to translate the postscript language. The printer comes with a non-postscript driver that has difficulty translating the postscript language.\nEpson has partnered with the following manufacturers for some printers:\nColorBurst\nefi\nOnyx\nWasatch",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-00009f1-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SP7900CTP~faq-00009f1-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:10:57.317613"
+        },
+        {
+          "question": "How do I stop the printer from printing a nozzle check pattern before every print job?",
+          "answer": "Do the following on the product's control panel:\nPress\nMenu\ntwice, then select\nAuto Nozzle Check\n.\nPress\nMenu\n, then select\nOff",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-00009e1-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SP7900CTP~faq-00009e1-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:10:58.391145"
+        },
+        {
+          "question": "How do I disable the Roll Paper Remaining feature on my printer?",
+          "answer": "Do the following on the product's control panel:\nPress the paper release button to feed paper out of the printer, if necessary.\nPress\nMenu\n.\nSelect\nPaper Setup\n, then press\n.\nSelect\nRoll Paper Remaining\n, then press\n.\nSelect\nRemaining Paper Setup\n, then press\n.\nSelect\nOff\n, then press\nOK\n.\nPress\n, then load the paper again.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-00009e0-pgg_4800_multi_9900?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SP7900CTP~faq-00009e0-pgg_4800_multi_9900",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:10:59.348425"
+        },
+        {
+          "question": "How do I uninstall and reinstall the printer driver in Windows?",
+          "answer": "Do the following:\nTurn off the product.\nDisconnect any interface cables.\nDo one of the following:\nWindows 10\n: Right click\nand select\nControl Panel\n>\nPrograms\n>\nPrograms and                             Features\n.  Select the uninstall option for your Epson                         product, then select\nUninstall/Change\n.\nNote:\nIf you                             see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto                         confirm the uninstallation.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl                             Panel\n>\nPrograms\n>\nPrograms and Features\n.  Select the uninstall                         option for your Epson product, then select\nUninstall/Change\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto                         confirm the uninstallation.\nWindows (other versions)\n: Click\nor\nStart\n, and select\nAll Programs\nor\nPrograms\n.                         Select\nEPSON\n, select your product, then click\nEPSON Printer Software Uninstall\n.\nNote:\nIf you                             see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nIn the next window, select your product and click\nOK\n. Then follow any on-screen instructions.\nRestart your computer, then see the\nStart Here\nsheet or User Guide to                 re-install your software.\nIf these instructions did not solve the problem, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-0000630-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SP7900CTP~faq-0000630-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:00.488330"
+        },
+        {
+          "question": "How many prints can I print from an ink cartridge in my printer?",
+          "answer": "There are too many variables to provide a count. You can estimate the amount by printing a Job Information sheet from the printer's Test Print menu. This sheet provides the amount of ink used for the last 10 print jobs, which can help you calculate ink usage.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-00009e2-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SP7900CTP~faq-00009e2-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:01.445203"
+        },
+        {
+          "question": "My printer's ink cartridges are half full after I install the first set of ink cartridges. Why does this happen?",
+          "answer": "Ink from the first set of ink cartridges is used to charge the printer's ink delivery system. This will not happen again when you install new ink cartridges.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-00009d6-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SP7900CTP~faq-00009d6-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:02.526375"
+        },
+        {
+          "question": "I can tell some ink is still in the ink cartridge. Why does my printer show that the cartridge is expended?",
+          "answer": "The ink cartridge is designed to include a small safety reserve of ink. This safety reserve prevents damage to the printhead. If the printer tries to print when no ink remains in the cartridge, air bubbles would enter the ink delivery system and cause damage to the permanent printhead. The safety reserve of ink prevents this from happening.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-0000573-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SP7900CTP~faq-0000573-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:03.453473"
+        },
+        {
+          "question": "How do I uninstall and reinstall my printer driver in OS X 10.8?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\n, then\nPrint & Scan\n.\nSelect your printer in the list, then click\n. Press and hold the\ncontrol\nkey on your keyboard and click anywhere on the printer list. Click\nReset Printing Systems\n. Close the open windows.\nOpen your hard drive and do the following:\nSelect\nLibrary\n>\nPrinters\n>\nInstalledPrinters.plist\n. Drag the InstalledPrinters.plist file to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nEpson\n. Drag the\nEpson\nfolder to the trash.\nSelect\nApplications\n>\nUtility\n>\nDisk Utility\n> your hard drive, then select\nRepair Disk Permissions\n. Close the open windows.\nReinstall the driver for your product.\nOpen the\nmenu, select\nSystem Preferences\n, then\nPrint & Scan\n.\nClick\n, then select your printer.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-00009dc-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_SP7900CTP~faq-00009dc-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:04.369574"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "How do I print a alignment sheet?",
+          "answer": "To queue an alignment sheet in the EFI RIP, select the\nActions\ntab from the menu bar at the top of the application. Then select\nPrint alignment sheet\nas shown below:\nThe Latest alignment sheet is automatically added to the Print Queue.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195005?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_SP7900CTP~faq-195005",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:05.450803"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "I see the message Maintenance error 0040. What does it indicate?",
+          "answer": "The error code indicates the cleaning mechanism has reached its end of life. Contact Epson for further assistance.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-298557?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SP7900CTP~faq-298557",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:06.436851"
+        },
+        {
+          "question": "I see a message that starts with DXXX. What should I do?",
+          "answer": "Turn off the printer and disconnect all cables connected to the printer. Wait 30 seconds, connect the cables again, and turn on the printer. If this does not help, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-298401?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SP7900CTP~faq-298401",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:07.502875"
+        },
+        {
+          "question": "I see the message Service error 4000. What should I do?",
+          "answer": "Turn off the printer, then turn it back on. Run a power cleaning cycle, then print a nozzle check pattern to make sure all the nozzles print. If this does not help, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-298425?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SP7900CTP~faq-298425",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:10.116026"
+        },
+        {
+          "question": "I see the message Communication Error when I use a USB connection. What should I do?",
+          "answer": "Do the following:\nDelete all print jobs in the print queue.\nTurn the printer off.\nNote:\nMake sure the USB cable is connected correctly.\nRestart your computer. When the desktop appears, turn your printer on and follow the on-screen instructions.\nNote:\nIf the problem continues, turn the printer off again and delete the printer in the list of printers. Then disconnect the USB cable from the printer and connect it again.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-00009ea-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SP7900CTP~faq-00009ea-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:11.463828"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_SP7900CTP~faq-00004c5-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:12.784187"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "Which type of Ink should I use?",
+          "answer": "Standard Press inks are compatible with Epson DirectPlate Aluminum plates. Highly pigmented inks keep the amount of transferred ink at a low level and decrease the scumming effect. For optimum printing quality, ink should not be mixed with printing oil, or any other printing agents that tend to decrease the tackiness.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195054?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SP7900CTP~faq-195054",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:14.015856"
+        },
+        {
+          "question": "Why Cyan ink?",
+          "answer": "We have found that the durability on press is superior due to the pigment content of the cyan ink. In addition, the cyan ink makes the image on the plate easier to check prior to loading the plate on press.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-194990?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SP7900CTP~faq-194990",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:15.157527"
+        },
+        {
+          "question": "What ink is used to image the Epson DirectPlate-Aluminum?",
+          "answer": "Standard Epson UltraChrome HDR ink is used to image plates.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-194989?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SP7900CTP~faq-194989",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:16.305526"
+        },
+        {
+          "question": "How many prints can I print from an ink cartridge in my printer?",
+          "answer": "There are too many variables to provide a count. You can estimate the amount by printing a Job Information sheet from the printer's Test Print menu. This sheet provides the amount of ink used for the last 10 print jobs, which can help you calculate ink usage.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-00009e2-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SP7900CTP~faq-00009e2-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:17.464346"
+        },
+        {
+          "question": "My printer's ink cartridges are half full after I install the first set of ink cartridges. Why does this happen?",
+          "answer": "Ink from the first set of ink cartridges is used to charge the printer's ink delivery system. This will not happen again when you install new ink cartridges.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-00009d6-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SP7900CTP~faq-00009d6-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:16.868288"
+        },
+        {
+          "question": "Can I use an expired ink cartridge in my printer?",
+          "answer": "Epson does not recommend using expired ink cartridges in the printer. Do not use an unopened ink cartridge if the date on the package has expired. For best results, use ink cartridges before the expiration date printed on the package (and within six months of installation in the printer). Replace expired cartridges with new ones.\nYou may need to replace a cartridge that is more than six months old, if your printouts do not look their best, even after cleaning and aligning the printhead. We recommend you store any unused or unopened ink cartridges in a cool, dark place.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-000056f-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SP7900CTP~faq-000056f-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:18.126664"
+        },
+        {
+          "question": "I see the message Ink Cartridge Error: Replace Ink Cartridge. What should I do?",
+          "answer": "An ink cartridge in your printer needs to be replaced. The cartridge may be expended, or the IC chip on the cartridge may not be communicating properly. Try reseating the cartridge and turning the printer off and on. If you still see the error message, try installing a different ink cartridge in the printer.\nIf this did not solve the problem, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-0000572-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SP7900CTP~faq-0000572-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:19.316224"
+        },
+        {
+          "question": "I can tell some ink is still in the ink cartridge. Why does my printer show that the cartridge is expended?",
+          "answer": "The ink cartridge is designed to include a small safety reserve of ink. This safety reserve prevents damage to the printhead. If the printer tries to print when no ink remains in the cartridge, air bubbles would enter the ink delivery system and cause damage to the permanent printhead. The safety reserve of ink prevents this from happening.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-0000573-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SP7900CTP~faq-0000573-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:20.463775"
+        },
+        {
+          "question": "I see the message No Ink Cartridge Install Ink Cartridge when all ink cartridges are installed. What should I do?",
+          "answer": "The ink cartridge(s) you installed may not be recognized by the printer. Try reseating the ink cartridge(s) and turning the printer off and on. If you still see the error message, try installing a different ink cartridge in the printer.\nIf this did not solve the problem, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-0000571-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SP7900CTP~faq-0000571-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:21.553716"
+        },
+        {
+          "question": "Why do I need color ink cartridges when I print in black only?",
+          "answer": "The printer will not print if any ink cartridge is expended or removed. Epson printers contain a permanent print head that needs to be charged with all colors to work. Even when you are printing black text only, a small amount of color ink is used to keep the print head charged. The print head needs to be kept charged to prevent air bubbles from entering. Air bubbles can damage the print head.\nTherefore, once one of the cartridges is expended, the printer signals you to replace the cartridge in order for printing to continue.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-0000570-shared?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_SP7900CTP~faq-0000570-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:22.766130"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "The colors on my printouts do not match the colors on my computer monitor. What should I do?",
+          "answer": "Try the following recommended color correction methods:\nUse ICC profiles during the color management process.\nEnsure that you are using the correct output profile for your loaded media.\nNote:\nYou may need to create a custom ICC profile for the best results.\nEnsure that your monitor is calibrated and is displaying accurate color.\nCompare the print result with the image on your computer screen in a well-lit environment. Since monitors and printers produce colors differently, printed colors and screen colors do not always look the same.\nIf the recommendations above do not help, contact Epson support.\nThe color management process is complex. We can assist you with the proper assignment of settings; however, we cannot assist you with creating a custom color profile.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-00009e9-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_SP7900CTP~faq-00009e9-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:23.874010"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "How do I load a plate into my product?",
+          "answer": "Epson DirectPlate aluminum Plates are loaded differently than paper or other media. When loading a plate you should first release the platen to assure that the plate is FIRMLY pressed against both points on the plate guide. Second, always remove the plates from the package and load them into the printer with the same orientation. This will assure accurate registration.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195042?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7900CTP~faq-195042",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:25.212048"
+        },
+        {
+          "question": "Can I adjust my product for feed length and do I need to do this?",
+          "answer": "Yes, The EFI RIP has an adjustment to compensate for feed length of the Printer because each printer may feed slightly differently. It is HIGHLY recommended that you adjust for this when you first install the printer and the RIP and it should not need to be adjusted again. The adjustment is specified in the \"Preferences\" window under the \"printer\" tab and \"media Size\" sub-tab as shown below:\nThe correct process is to enter the target value (430 mm above) and the actual length (430 mm to start). Then, print an alignment sheet that has the included 430 mm line. Measure the line after the printing is complete and then enter the ACTUAL number you measure to the 0.xx mm. Here is the 430 mm line on the alignment sheet (outlined in red):",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195016?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7900CTP~faq-195016",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:26.329763"
+        },
+        {
+          "question": "What tools do I need for setup?",
+          "answer": "All of the required tools needed for setup are included with the Epson Stylus Pro 7900 CTP system. The Printer Stand includes an Allen key that will also be used to install the Plate Guide. Note that if the plate guide requires more alignment a crescent wrench may be required.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-194981?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7900CTP~faq-194981",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:27.447114"
+        },
+        {
+          "question": "How do I set up a Mac client computer for printing with the CTP RIP?",
+          "answer": "Install the PPD (Postscript Printer Description) on the Mac OS X client:\nInsert the CTP RIP software disc in the Mac.\nClick\nTools & Other\n, then select\nPPD Mac OS X\n.\nCopy the\nEFI_eXpress.PPD\nfile.\nOpen the\nHard Drive\n>\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nfolder.\nPaste the\nEFI_eXpress.PPD\nfile in the\nResources\nfolder.\nConfigure the Windows server:\nOpen the CTP RIP.\nClick\nActions\n>\nPreferences\n>\nGeneral\n>\nJob Detection\n.\nUnder\nJob Detection\nselect the\nActivate Hot folder\ncheckbox.\nUnder\nSpooler\n, select the\nActivate Virtual Printer\ncheckbox.\nEnable printer sharing, follow these steps:\nWindows 7\n: Click\nand select\nDevices and Printers\n.  Right-click your product name, select\nPrinter Properties\n>\nSharing\n, select the\nShare this Printer\ncheckbox, and click\nOK\n.\nWindows Vista\n: Click\nand select\nControl Panel\n.  Click\nPrinter\nunder\nHardware and Sound\n, right-click your product name, select\nSharing\n, select the\nShare this Printer\nradio button, and click\nOK\n.\nWindows XP\n: Click\nStart\nand select\nPrinters and Faxes\n.  (Or open the\nControl Panel\n, select\nPrinters and Other Hardware\nif necessary, and select\nPrinters and Faxes\n.)  Right-click your product name, select\nSharing\n, select the\nShare this Printer\nradio button, and click\nOK\n.\nAdd CTP RIP to the Mac OS X printer list:\nSelect\nSystem Preferences\nfrom the Apple menu, then select\nPrint & Fax\nor\nPrint & Scan\n.\nClick the\nbutton, then click the\nWindows\nicon.\nSelect the print server from the list of computers.\nWhen prompted, enter the print server's (computer) password and click the\nConnect\nbutton.\nSelect\nEFI_eXpress\n.\nFor\nPrint Using\nselect\nOther\n.\nNavigate to the Mac OS X\nHard Drive\n>\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nfolder, then select\nEFI_eXpress.PPD\nand click\nOpen\n.\nClick\nAdd\nto complete the setup.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-196160?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7900CTP~faq-196160",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:28.631369"
+        },
+        {
+          "question": "Do I need to use a RIP or can I use the standard printer driver to make plates?",
+          "answer": "The RIP is required to produce plates because it controls the separations, screening, and ink density on the plates to ensure optimal quality. You can however, use the standard Epson Printer driver to print photographs, banners, or other print jobs.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195023?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7900CTP~faq-195023",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:29.765308"
+        },
+        {
+          "question": "What type of computer do I need to install the RIP on?",
+          "answer": "A computer with the following MINIMUM requirements:\nIBM®-compatible PC with a Pentium® 1 GHz CPU or equivalent\n1GB of RAM\n80GB hard drive (20GB available space recommended)\nMicrosoft® Windows Vista® or Windows® XP- 32 bit or 64 bit\nDVD drive\nOne free USB port\nA computer with the following is RECOMMENDED:\nPentium 4, 3 GHz or comparable multi-core\n2GB of RAM\n300GB hard drive\nWindows 7 (recommended), Windows Vista, or Windows XP- 32 bit\nDVD drive\nOne free USB port",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195001?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7900CTP~faq-195001",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:30.979659"
+        },
+        {
+          "question": "Does this system do 2 and 4 color work?",
+          "answer": "Yes. This system will work for both 2 and 4 color work. While we think the majority of the work you will be doing with this system is 2 color, the print quality on 4 color will exceed your expectations. For a Sample of this, please order a sample kit.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-194994?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7900CTP~faq-194994",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:32.331610"
+        },
+        {
+          "question": "Who do I call for support on the EFI RIP?",
+          "answer": "For issues related to the EFI software for making plates or proofs, contact Epson Technical Support at: 1-888-377-6611",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195003?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7900CTP~faq-195003",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:33.398759"
+        },
+        {
+          "question": "What if I don't like the EFI RIP? Are there other RIPs available?",
+          "answer": "Yes. There are a few other RIPs available from third parties that are approved for the Epson Computer To Plate System.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195002?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7900CTP~faq-195002",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:34.505831"
+        },
+        {
+          "question": "How long does it take to setup?",
+          "answer": "It takes approximately 1 hour to unpack the Printer, approximately 1 hour to install the software and align the Plate Guide, and about 1 hour to install and calibrate the Plate Curing Unit. While much of this can happen concurrently, we would recommend about 4 total hours from start to finish before you should expect to have a plate on press.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-194980?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7900CTP~faq-194980",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:40.134304"
+        },
+        {
+          "question": "Does the RIP support trapping?",
+          "answer": "The EFI CTP RIP supports trapping that was set and applied in an application (such as Adobe Creative Suite) and passes that information through to the printed plates. However it does not support initiating or editing trap settings from within the EFI RIP itself.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195024?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7900CTP~faq-195024",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:41.459408"
+        },
+        {
+          "question": "Where can I get training on the RIP?",
+          "answer": "As part of your installation, training on the EFI RIP should have been included. Video training on installation and use of the EFI RIP is available on the Videos tab.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195004?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7900CTP~faq-195004",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:42.677803"
+        },
+        {
+          "question": "How do I uninstall and reinstall my printer driver in OS X 10.8?",
+          "answer": "Do the following:\nOpen the\nmenu, select\nSystem Preferences\n, then\nPrint & Scan\n.\nSelect your printer in the list, then click\n. Press and hold the\ncontrol\nkey on your keyboard and click anywhere on the printer list. Click\nReset Printing Systems\n. Close the open windows.\nOpen your hard drive and do the following:\nSelect\nLibrary\n>\nPrinters\n>\nInstalledPrinters.plist\n. Drag the InstalledPrinters.plist file to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nEpson\n. Drag the\nEpson\nfolder to the trash.\nSelect\nApplications\n>\nUtility\n>\nDisk Utility\n> your hard drive, then select\nRepair Disk Permissions\n. Close the open windows.\nReinstall the driver for your product.\nOpen the\nmenu, select\nSystem Preferences\n, then\nPrint & Scan\n.\nClick\n, then select your printer.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-00009dc-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7900CTP~faq-00009dc-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:43.840482"
+        },
+        {
+          "question": "How do I disable the Roll Paper Remaining feature on my printer?",
+          "answer": "Do the following on the product's control panel:\nPress the paper release button to feed paper out of the printer, if necessary.\nPress\nMenu\n.\nSelect\nPaper Setup\n, then press\n.\nSelect\nRoll Paper Remaining\n, then press\n.\nSelect\nRemaining Paper Setup\n, then press\n.\nSelect\nOff\n, then press\nOK\n.\nPress\n, then load the paper again.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-00009e0-pgg_4800_multi_9900?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7900CTP~faq-00009e0-pgg_4800_multi_9900",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:45.099622"
+        },
+        {
+          "question": "How do I stop the printer from printing a nozzle check pattern before every print job?",
+          "answer": "Do the following on the product's control panel:\nPress\nMenu\ntwice, then select\nAuto Nozzle Check\n.\nPress\nMenu\n, then select\nOff",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-00009e1-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7900CTP~faq-00009e1-shared",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:46.475754"
+        },
+        {
+          "question": "How do I uninstall and reinstall the printer driver in Windows?",
+          "answer": "Do the following:\nTurn off the product.\nDisconnect any interface cables.\nDo one of the following:\nWindows 10\n: Right click\nand select\nControl Panel\n>\nPrograms\n>\nPrograms and                             Features\n.  Select the uninstall option for your Epson                         product, then select\nUninstall/Change\n.\nNote:\nIf you                             see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto                         confirm the uninstallation.\nWindows 8.x\n: Navigate to the\nApps\nscreen and select\nControl                             Panel\n>\nPrograms\n>\nPrograms and Features\n.  Select the uninstall                         option for your Epson product, then select\nUninstall/Change\n.\nNote:\nIf you see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nSelect your product again, if necessary, then select\nOK\n, and click\nYes\nto                         confirm the uninstallation.\nWindows (other versions)\n: Click\nor\nStart\n, and select\nAll Programs\nor\nPrograms\n.                         Select\nEPSON\n, select your product, then click\nEPSON Printer Software Uninstall\n.\nNote:\nIf you                             see a\nUser Account Control\nwindow, click\nYes\nor\nContinue\n.\nIn the next window, select your product and click\nOK\n. Then follow any on-screen instructions.\nRestart your computer, then see the\nStart Here\nsheet or User Guide to                 re-install your software.\nIf these instructions did not solve the problem, contact Epson support.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-0000630-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7900CTP~faq-0000630-shared",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:47.598682"
+        },
+        {
+          "question": "Do I need a raster image processor (RIP) to print from Adobe Illustrator?",
+          "answer": "For the best output, a RIP should be used. Adobe Illustrator is a postscript application that requires a RIP to translate the postscript language. The printer comes with a non-postscript driver that has difficulty translating the postscript language.\nEpson has partnered with the following manufacturers for some printers:\nColorBurst\nefi\nOnyx\nWasatch",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-00009f1-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7900CTP~faq-00009f1-shared",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:48.833136"
+        },
+        {
+          "question": "Do I need a raster image processor (RIP) to print from Adobe Photoshop?",
+          "answer": "No, Adobe Photoshop is not a postscript application and does not require a RIP.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-00009f0-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7900CTP~faq-00009f0-shared",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:48.095822"
+        },
+        {
+          "question": "How do I save my Epson printer driver presets so I can restore them if I reinstall the Epson printer driver in Windows?",
+          "answer": "Note:\nYou may lose some custom settings when you uninstall the printer driver.\nBefore you reinstall the printer driver, do the following:\nOpen\nFile Explorer\nor\nWindows Explorer\n.\nSelect\nThis PC\nor\nComputer\n>\nC:\ndrive >\nProgram Files\n>\nEpson\n> [your printer name].\nMove the UCI extension files to a different folder on your desktop.\nNote:\nAfter you reinstall the Epson printer driver, move the UCI extension files back to your printer's folder as described in step 2.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-00009e6-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7900CTP~faq-00009e6-shared",
+          "display_order": 20,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:49.193736"
+        },
+        {
+          "question": "How do I install the ICC profiles in Windows XP or Windows 7?",
+          "answer": "Do the following:\nDownload the ICC profiles for your printer and save them in a folder you can easily find.\nClose all open software.\nOpen\nWindows Explorer\n, then select\nComputer\n>\nC:\ndrive >\nWindows\n>\nSystem32\n>\nspool\n>\ndrivers\n>\ncolor\n.\nMove the ICC profiles into the\ncolor\nfolder, then close all open windows.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-00009E5-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7900CTP~faq-00009E5-shared",
+          "display_order": 21,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:50.317763"
+        },
+        {
+          "question": "How do I determine my printer driver version on my Mac?",
+          "answer": "Open the\nmenu and select\nSystem Preferences\nor\nSystem Settings\n>\nPrinters & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n. Your printer driver version is displayed.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-00009e4-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7900CTP~faq-00009e4-shared",
+          "display_order": 22,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:51.542872"
+        },
+        {
+          "question": "How do I manually install the Epson ICC profiles on my Mac?",
+          "answer": "Do the following:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinters2\n>\nICCProfiles\n.\nPress and hold the\ncontrol\nkey on your keyboard while you select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n, select and copy all files, then close all open windows.\nOpen your hard drive, select\nLibrary\n>\nColorSync\n>\nProfiles\n, then paste the files into this folder.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-0000b03-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7900CTP~faq-0000b03-shared",
+          "display_order": 23,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:52.576705"
+        },
+        {
+          "question": "Where are the ICC profiles located for my printer on my Mac?",
+          "answer": "Do the following to locate the files:\nOpen your hard drive, then select\nLibrary\n>\nPrinters\n>\nEPSON\n>\nInkjetPrinter2\n>\nICCProfiles\n.\nPress and hold the\nControl\nkey on your keyboard while you click the profile package in the\nICCProfiles\nfolder. In the pop-up menu that appears, select\nShow Package Contents\n.\nSelect\nContents\n>\nResources\n.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-00009ed-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7900CTP~faq-00009ed-shared",
+          "display_order": 24,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:53.678139"
+        },
+        {
+          "question": "My print job disappears from the Windows print queue but does not print. What should I do?",
+          "answer": "Follow the steps below:\nDo one of the following:\nWindows 10\n: Click\nand select\n(Settings) >\nDevices\n>\nPrinters & scanners\n. Select your printer and select\nManage\n>\nPrinting preferences\n.\nWindows 8\n: Navigate to the\nApps\nscreen and select\nControl Panel\n>\nHardware and Sound\n>\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\nand select\nControl Panel\n(or point to\nSettings\nand select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the\nUtility\ntab, then\nSpeed and Progress\n.\nSelect the\nAlways Spool RAW Datatype\nand\nCoarse Rendering\ncheckboxes, then click\nOK\n.\nNote:\nIf the\nProcessed by Printer\ncheckbox is selected, deselect it.\nTry printing again.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-00009e8-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7900CTP~faq-00009e8-shared",
+          "display_order": 25,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:54.833579"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7900CTP~faq-0000f4b-shared",
+          "display_order": 26,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:55.987231"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7900CTP~faq-0000f4c-shared",
+          "display_order": 27,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:57.110048"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_SP7900CTP~faq-0000f4d-shared",
+          "display_order": 28,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:58.340949"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "Who do I call for support on this system?",
+          "answer": "For any and all support questions related to this system, the PCU, and the EFI RIP software, contact Epson at 888-377-6611. When calling this number please have your UNIT ID from you Preferred Service Card, if you do not have this information, contact 562-276-1305",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-194996?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-194996",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:11:59.430273"
+        },
+        {
+          "question": "What is different about how I would use an Epson DirectPlate Aluminum Plate?",
+          "answer": "Epson DirectPlate-Aluminum technology is a unique solution that allows a water based (aqueous) ink to adhere to it but also will repel water during the printing process (after being cured). Because the unique coating on the surface of the Epson DirectPlate Aluminum uses a Hydrophilic coating (water loving) some customers have noted that a longer warm up cycle is required and more water should be applied to the plate before applying ink. Therefore, here are a few recommendations where your process might be different than your standard process:\nIf the dampening system has a transition roller connecting the dampening system and the inking system together (For example: ALCOLOR and other similar continuous-feed dampening Systems), the transition roller should be deactivated.\nWhen the press starts up, the plates will require more water than conventional metal plates. Therefore, sufficient dampening should be set in advance. You should provide about 30 seconds of pre-dampening before turning on the ink rollers.\nIf the printing press has a pre-dampening function, (for example Heidelberg Printmaster QM 46) set a higher pre-dampening level.\nIf there are short breaks during the set-up phase, or when the paper stack is being replaced, leave the dampening rollers engaged on the plate. If this is not possible, restart printing in same manner as in the initial start-up procedure.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195052?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-195052",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:00.553467"
+        },
+        {
+          "question": "What is the shelf life of the Epson DirectPlate Aluminum plates?",
+          "answer": "Because these plates are not light sensitive, there is not a strict shelf life for these plates. However, Epson recommends no longer that 2 years as a shelf life for these plates.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195034?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-195034",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:01.637311"
+        },
+        {
+          "question": "Is this a chemical press process? Do I need to keep my old plate processor?",
+          "answer": "This system is chemical free and requires no chemical cleanup, maintenance or consumable. The only item that you need to keep this system running is Plates and Printer ink. Once you install this system, you no longer need to maintain or keep your current plate processor.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-194993?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-194993",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:02.748629"
+        },
+        {
+          "question": "What are ongoing supplies needed for the product?",
+          "answer": "There are no unique chemicals or special items required to use this system on an ongoing basis. All that is required is Epson UltraChromeHDR Ink cartridges (depending on usage), Epson DirectPlate- Aluminum plates, and occasionally, the printer will require a maintenance tank. All of these items should be available from your Epson Computer to Plate Authorized Reseller.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-194987?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-194987",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:03.833807"
+        },
+        {
+          "question": "What happens if I don't get the number of impressions I'm expecting?",
+          "answer": "If you are not getting the number of impressions you are expecting try the following troubleshooting tips:\nCheck the settings on the Plate curing unit and confirm that it is functioning correctly.\nCheck the ink reduction setting on the RIP. If too much ink is being applied to the plate the curing process is\nCheck and confirm the concentration of the fountain solution. Are you using a recommended fountain solution?.\nConfirm you are using a recommended plate cleaner and that you are not cleaning the plate with excessive pressure or an excessive number of times during the printing process\nCheck and repack your blanket\nCheck the pressures on your press",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195048?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-195048",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:04.994507"
+        },
+        {
+          "question": "When I first start using this system, how much time should I expect to get up to speed on press?",
+          "answer": "You should allow a half-to day to setup and install the system and another half-full day to become comfortable using these plates in your existing workflow.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-194995?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-194995",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:06.304819"
+        },
+        {
+          "question": "Why are there two different sized PCU trays?",
+          "answer": "Two different sized trays for the PCU are provided so they can be interchanged to accommodate different sized plates, and the customer's environment.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-194997?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-194997",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:07.475745"
+        },
+        {
+          "question": "What about a press wash?",
+          "answer": "Here is a list of recommended Press Washes:\nVarn EC Wash\nUltrachem Prima Wash\nVarn News 75 Wash\nprintcom® wash 202B\nSun Chemicals SUN WASH U H8830A\nNote: The press wash process requires some harsh chemicals and if you plan to reuse a plate, you will need to REMOVE the plate prior to washing down a press",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195053?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-195053",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:08.641381"
+        },
+        {
+          "question": "What is the Large Plate Accessory Kit for and when would I need it?",
+          "answer": "The Large Plate Accessory Kit allows you to image large plates. The kit contains a large plate guide to be used on the printer and an extension base for the Plate Curing Unit (PCU) trays to accommodate large plates. The Large Plate Accessory Kit is recommended for Epson DirectPlate Aluminum plates over 16 inches (406 mm) wide.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-194982?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-194982",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:09.813548"
+        },
+        {
+          "question": "What maintenance is required?",
+          "answer": "No ongoing maintenance is required for this system other than providing ink, maintenance cartridges and Epson DirectPlate media. The printer will automatically do routine maintenance to maintain the print head and print quality. The Plate Curing Unit requires no maintenance other than being kept free of dust.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-194988?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-194988",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:10.955710"
+        },
+        {
+          "question": "Are these plates light sensitive?",
+          "answer": "No, these plates are NOT light sensitive.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195030?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-195030",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:12.075772"
+        },
+        {
+          "question": "What power is required for PCU?",
+          "answer": "The Plate Curing Unit requires 208/220 VAC power (with an acceptable range of 208 - 240 V). The plug type is L6-20P plug (male) and requires a L6-20 electrical outlet.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-194984?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-194984",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:14.290047"
+        },
+        {
+          "question": "Can I reuse plates after they have been used on press?",
+          "answer": "Yes. Simply take the plate off and clean it using a recommended cleaner and fountain solution.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195035?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-195035",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:15.206216"
+        },
+        {
+          "question": "What settings should I have the PCU (plate curing unit) set for?",
+          "answer": "The PCU is calibrated and set when it comes out of the box. The initial settings should be\n190 degrees with a speed of about 1.5\n. During the setup process you use Thermax strips to confirm that the temperature after going through the PCU is between 150 and 160 degrees. You may need to increase or decrease the temperature control. Different conditions may affect this calibration (such as altitude, ambient temperature and humidity, etc).",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-194991?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-194991",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:16.109442"
+        },
+        {
+          "question": "Are these plates dry when they come out of my product?",
+          "answer": "Yes. They are dry to the touch. However, you must cure them in the PCU prior to mounting on press. This is necessary because of a chemical reaction that occurs between the plate coating and the Epson UltraChrome HDR ink which hardens the ink allowing it to last the duration of the print run.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195040?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-195040",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:17.050921"
+        },
+        {
+          "question": "Does the 7900CTP punch a plate?",
+          "answer": "No. An offline Plate Punch is required to use the Epson Stylus Pro 7900 CTP system. If your press did not include a punch, they are available for each press from an Epson Authorized CTP Reseller or from most dealers who sell press equipment.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-194986?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-194986",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:18.220635"
+        },
+        {
+          "question": "How does Licensing and the Hardware Dongle work?",
+          "answer": "Each Epson Stylus Pro 7900 CTP includes a License for the EFI Rip software. Required for this license is a hardware dongle and an EAC Code. Both are included in the package. Once you install the software and insert the Hardware dongle, you will be asked to enter the EAC code. Once this is done, that EAC code is attached to that dongle and cannot be changed. It is NOT recommended that you run this software on a computer that also is running other versions of EFI software as there could be licensing conflicts between the multiple software packages.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195017?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-195017",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:19.127358"
+        },
+        {
+          "question": "Can I use a deletion pen?",
+          "answer": "Yes. You can delete images with IWATSU Elotax Corrector OX-1. You can also use AGFA Lithostar Copyrapid Correction Pen. A standard pencil eraser works well to delete a small section from an image.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195036?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-195036",
+          "display_order": 20,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:18.331811"
+        },
+        {
+          "question": "How do I adjust for dot gain on press?",
+          "answer": "You can alter dot gain on press by adjusting the dot gain on the plate. This is done from within the EFI RIP software. We have provided a number of presets to make this process easier. From the EFI RIP, click on the color tab in the Property window and select the\nGradation\ntab (as shown below).\nUnder the \"preset drop down\" there are five different options to adjust dot gain:  \t- Epson DirectPlate Aluminium.vcc is the standard (default) environment.\n- The options that have a \"+10\" and a \"+15\" added to the end are dot gain curves that increase dot gain (make larger dots).\n- The options that has a \"-10\" and a \"-15\" added to the end of its name are dot gain curves that decrease dot gain (make smaller dots).\n- In these options, the number represents a percentage and the higher the number, the greater the impact should be when imaged on a plate and on press.\nFor example: If your press prints with more dot gain than normal, select a negative range (-10 or -15). Alternatively, if you have a new press with sharper than normal reproduction, select a positive range (+10 or +15).",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195011?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-195011",
+          "display_order": 21,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:19.367767"
+        },
+        {
+          "question": "Why does the PCU require 208/220 VAC power?",
+          "answer": "The 208/220 V power allows the PCU to reach operating temperature within a few minutes and draws less current than lower voltage devices. The faster response time also provides more precise temperature control and better overall energy efficiency.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-194985?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-194985",
+          "display_order": 22,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:20.334436"
+        },
+        {
+          "question": "What fountain solution should I use?",
+          "answer": "If you are using Polyester plates today, then it is likely that the fountain solution that you are using will be compatible with Epson DirectPlate-Aluminum technology.\nHere is a list of recommended Fountain Solutions:\nRBP UniTrol 192\nPrisco Fount Concentrate 142-126\nAgfa G671c\nVarn Universal Pink\nNote: If you choose to use another fountain solution, make sure it is alcohol-free.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195049?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-195049",
+          "display_order": 23,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:21.274885"
+        },
+        {
+          "question": "What happens if I see small dots on the press sheet?",
+          "answer": "If small dots are visible on the final print, you should do the following:\nCheck your fountain solution. Epson DirectPlate Aluminum requires a slightly acid fountain solution (like most polyester plates) Use one of the recommended fountains with pH 4.1 - 4.5\nAssure that your environment is clean. Be sure the plates are enclosed until you use them. It may be necessary to lightly dust the plates before you print them and again before you cure them.\nUnwanted background dots/blemishes can be removed by one of the recommended deletion pens.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195045?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-195045",
+          "display_order": 24,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:22.383949"
+        },
+        {
+          "question": "Can I cut/ convert these plates?",
+          "answer": "Yes, you can cut and convert these plates yourself, but, it is not recommended. A plate that is cut could cause damage to the printer due to a sharp or jagged edge.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195032?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-195032",
+          "display_order": 25,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:23.356676"
+        },
+        {
+          "question": "What if I have a plate with a bent corner, can I use that?",
+          "answer": "No. It is highly likely that a plate with bent corners will damage the print head on the Epson Stylus Pro 7900CTP Printer. You should inspect all plates prior to loading them to assure that they don't have any bent corners. Epson's packaging prevents bent corners. If you receive a package that is damaged, contact your Authorized Reseller.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195039?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-195039",
+          "display_order": 26,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:24.349770"
+        },
+        {
+          "question": "What power is required for my product?",
+          "answer": "The Epson Stylus Pro 7900 is a standard Epson Stylus Printer that requires 110 V power.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-194983?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-194983",
+          "display_order": 27,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:25.349367"
+        },
+        {
+          "question": "What if I see lines on the press sheet in the direction of the plate as it travels through the PCU?",
+          "answer": "Lines spaced approximately 2 inches apart on the plate may appear if the plate is fed into the PCU before the Epson ink is dry. The lines are caused by the input drive rollers on the PCU. The most common cause of this is over-inking - a RIP setting, that reduces the amount of ink being applied to the plate surface. The lines are most noticeable near solid areas. The remedy is to adjust the RIP ink reduction settings, to allow more drying time before inserting the plate in the PCU, or to reduce the ambient relative humidity. This over-inking situation will also reduce the run length on the plates.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195047?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-195047",
+          "display_order": 28,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:26.275924"
+        },
+        {
+          "question": "Can I also make proofs?",
+          "answer": "Yes, The EFI RIP and the Epson Stylus Pro 7900 CTP system are fully capable of making Proofs of jobs on paper. All of the Epson proofing papers are supported. It is recommended that you create a preset inside the RIP that allows Proofs. To do this, select an Epson Proofing paper on the \"Print\" Tab and \"media Set\" sub tab in the Property window:\nFor Example, when you select Epson Standard Proofing Paper, the RIP is then set to print a proof. Then, drag you job into the RIP and the RIP will not separate the print job, but instead prepare it to be produced on paper.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195019?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-195019",
+          "display_order": 29,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:27.215525"
+        },
+        {
+          "question": "What is the recommended PH level of the fountain solution?",
+          "answer": "The Epson DirectPlate Aluminum fountain solution PH level should be between 4.1 and 4.5.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195050?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-195050",
+          "display_order": 30,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:28.165919"
+        },
+        {
+          "question": "How do I print just one color or just one plate?",
+          "answer": "When used to create plates, the EFI RIP, considers each detected color (spot color or process color) a separate page. Use the preview window to view the job to see the associated spot color to that page, as shown below.\nIn the example above, Pantone 363c is Page 1. If you only wanted to print a single plate which is Pantone 363c, you would direct the RIP to print only Page 1. To do this, select the Print Tab from the property window (on the right) with the job you want to print selected. Under the \"device\" sub tab select \"Page/Sheet\" and indicate what pages you want to print. In the case of the above example, you would select \"1\" and then print the job.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195015?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-195015",
+          "display_order": 31,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:29.089978"
+        },
+        {
+          "question": "How many impressions can I get out of a plate?",
+          "answer": "The number of impressions is largely dependent on the condition of your press, the press pressures, the plate, the usage of the plate, and the image you are printing. During normal usage with correctly set press pressures we estimate that you will get between 15,000 and 20,000 impressions. However, excessive plate pressures, excessive plate cleaning with non-recommended plate cleaners, or unsuitable fountain solutions can contribute to lower than expected run lengths.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195038?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-195038",
+          "display_order": 32,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:29.997602"
+        },
+        {
+          "question": "What is required to install the product?",
+          "answer": "You must have the following to install the Epson Stylus Pro 7900 CTP System:\nA computer with the requirements.\nIBM®-compatible PC with a Pentium® 1 GHz CPU or equivalent\n1GB of RAM\n80GB hard drive (20GB available space recommended)\nMicrosoft® Windows Vista® or Windows® XP- 32 bit or 64 bit\nDVD drive\nHigher specifications are RECOMMENDED.\nNote that a Windows Based PC is required to run the EFI RIP, however, you can print from Macintosh workstations to the EFI RIP.\nA standard 110v power (for the printer) and 220v power (plug type L6-20) for the Plate Curing Unit.\nA Plate Punch specific to your press. (Note that the 7900CTP system does not punch the plates during processing nor is a punch plate included with the 7900CTP system)",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-194690?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-194690",
+          "display_order": 33,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:31.110171"
+        },
+        {
+          "question": "Are the plates anodized?",
+          "answer": "Epson DirectPlate Aluminum is an anodized and specially coated press plate.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195029?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-195029",
+          "display_order": 34,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:32.035181"
+        },
+        {
+          "question": "What is the smell on initial start up of the PCU?",
+          "answer": "The PCU unit may emit a slight odor on initial start up. This is normal and due to the PCU's thermal panel expelling any moisture absorbed from the ambient air during shipping.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-194999?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-194999",
+          "display_order": 35,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:33.144359"
+        },
+        {
+          "question": "How often do I need to register the plate guide?",
+          "answer": "Once initially installed and calibrated, the Plate Guide should not need to be reregistered unless it is removed and reinstalled, or you notice something unusual while printing on press that indicates the registration from plate to plate is incorrect. The Plate guide should initially be aligned to within 0.5 mm. More precise alignment ensures higher accuracy.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-194992?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-194992",
+          "display_order": 36,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:34.608960"
+        },
+        {
+          "question": "What happens if I see alignment issues?",
+          "answer": "It is important that you consistently load the plates into the printer the same way each time assuring that they are pressed to the RIGHT against the Plate Guide.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195046?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-195046",
+          "display_order": 37,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:35.799358"
+        },
+        {
+          "question": "What happens if a plate looks darker after if comes out of the PCU?",
+          "answer": "If the PCU causes discoloration on the plate surface, it should not be visible on press and should not cause any artifacts on the final print. The cause of this could be that the PCU is set to run too slowly or the set temperature is too high. If this discoloration occurs, use thermax strips to test the calibration of the PCU.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195041?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-195041",
+          "display_order": 38,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:36.676518"
+        },
+        {
+          "question": "How do I change between proofing and plates?",
+          "answer": "The EFI CTP RIP allows you to create and save presets settings that control everything from the color settings, media settings, and layout preferences. The simplest way to switch easily between plates, proofs and different plate sizes is to create presets for each \"workflow.\" To create a preset, select the Actions menu and then select the \"preferences\" menu. Here, you can go through each tab and sub tab to create the settings you wanted to store as a preset.\nFor example: if you want to create a Plate preset, you would save the Layout settings to include my Plate bend and gripper edge, assure that the correct LPI and Media set is selected, etc. Once you are sure you have all of the settings you want to use for this particular preset, click the \"Save\" button at the bottom of the Preferences dialog box. (see below).\nYou are prompted to enter a name for this preset. Once completed you can exit the preferences window. The name of the preset now appears on the drop down menu from the main RIP screen toolbar (see below).\nYou can select your preset for that particular \"workflow\" from the main menu drop down at any time. Repeat this process for each plate size and proofing workflow you plan to use. Note: When you want to use a preset,\nyou must select the preset setting from the menu bar FIRST and click \"apply\"\nyou must select the preset setting from the menu bar FIRST and click \"apply\" prior to loading the job into the RIP or printing to the RIP from another workstation. If you don't do this, the presents wont take effect and you will have to manually select each setting.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195021?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-195021",
+          "display_order": 39,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:37.617869"
+        },
+        {
+          "question": "Do I mount these plates like any normal plate on my press?",
+          "answer": "Yes. However, if you currently use polyester today, your press may have a clamping system that is specific to polyester. You can easily remove that grip and Epson DirectPlate Aluminum plates will mount the same way as any standard metal plate would on your press.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195043?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-195043",
+          "display_order": 40,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:38.708948"
+        },
+        {
+          "question": "What is the highest resolution these plates will support?",
+          "answer": "The Epson Stylus Pro 7900 CTP system supports up to 175 lpi",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195027?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-195027",
+          "display_order": 41,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:39.625864"
+        },
+        {
+          "question": "Do I need to gum the plates?",
+          "answer": "These plates do not require gumming. The DirectPlate coating seals and preserves the print surface.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195028?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-195028",
+          "display_order": 42,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:40.798434"
+        },
+        {
+          "question": "Why does the power light turn on and off during operation?",
+          "answer": "This is normal. The light indicates that the heater panel is turned on. It remains fully on until the oven has reached the set temperature and then turn on and off as necessary to maintain and regulate that temperature.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195000?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-195000",
+          "display_order": 43,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:41.869411"
+        },
+        {
+          "question": "Why is there a reversing switch on the PCU?",
+          "answer": "A reverse switch is provided for in-line applications and to clear any jams that may occur.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-194998?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-194998",
+          "display_order": 44,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:42.822437"
+        },
+        {
+          "question": "Are the plates made by Epson?",
+          "answer": "Yes, these are unique plates that are specific to the Epson Stylus Pro 7900 CTP system.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-195037?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-195037",
+          "display_order": 45,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:43.853357"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-00004b0-shared",
+          "display_order": 46,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:44.887220"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_SP7900CTP~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_SP7900CTP~faq-0000f4a-shared",
+          "display_order": 47,
+          "source_url": "https://epson.com/Support/Printers/Professional-Imaging-Printers/Epson-Stylus-Pro-Series/Epson-Stylus-Pro-7900-Computer-To-Plate-System/s/SPT_SP7900CTP",
+          "fetched_at": "2026-04-02T02:12:46.059056"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}

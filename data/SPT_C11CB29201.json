@@ -1,0 +1,859 @@
+{
+  "brand": "Epson",
+  "country": "US",
+  "product_family": "Printers",
+  "category": "Single Function Inkjet Printers",
+  "series": "WorkForce Series",
+  "model": {
+    "name": "Epson WorkForce Pro WP-4090",
+    "sku": "SPT_C11CB29201",
+    "url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201"
+  },
+  "faq_sections": [
+    {
+      "section_name": "Top FAQs",
+      "section_id": "topFaqs",
+      "section_order": 0,
+      "faqs": [
+        {
+          "question": "Web pages don't print the way they appear on my monitor. What should I do?",
+          "answer": "The pages may not print correctly due to the web page design. Try the following:\nCheck for a\nPrinter-friendly Version\n(or similarly named) option on the web page.\nChange the page setup and paper size settings, and select the preview option in your browser to check the changes before you print.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-00004b8-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CB29201~faq-00004b8-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:06.932291"
+        },
+        {
+          "question": "Where can I find information about Epson iPrint app?",
+          "answer": "See our FAQ page for the app (\niOS\nor\nAndroid\n).",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-0000950-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CB29201~faq-0000950-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:07.810483"
+        },
+        {
+          "question": "What security measures does Epson recommend for its network products?",
+          "answer": "To help deter unauthorized access to your product over a network, you should protect your network environment using appropriate security measures.\nSecurity measures such as these can help deter threats such as loss of user data, use of telephone and fax lines, and other intrusions:\nEnable security on your wireless LAN if your product supports a wireless connection\nEnable the appropriate security on the wireless LAN you plan to use with your product. Network security, such as a network password, can deter interception of traffic over the wireless LAN. Your router may already have a default password enabled by your Internet service provider (ISP). See your ISP and router documentation for instructions on how to change the default password and better secure your network.\nConnect your product only to a network protected by a firewall\nConnecting your product directly to the Internet may leave it vulnerable to security threats. Instead, connect it to a router or other networking device protected by a firewall. Your router may already have a firewall set up by your Internet service provider; check with your ISP for confirmation. For best results, set up and use a private IP address for your network connection.\nChange the default administrator password on your product\nIf your product has an option to set an administrator password, change the default administrator password to deter access by unauthorized users to personal data stored on your product, such as IDs, passwords, and contact lists. See the product's User's Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-0000a05-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CB29201~faq-0000a05-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:08.692891"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-00004c5-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CB29201~faq-00004c5-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:09.655251"
+        },
+        {
+          "question": "How can I get a replacement CD for my product?",
+          "answer": "You can download the driver from the Downloads tab for your product.\nNote\n:\nOnly the drivers are available for download. Any extra software that came with the product is available only on the CD.\nIf you wish to obtain a replacement copy of the Software CD (stock permitting), please contact our Driver Fulfillment department at 562-276-4367 (US) or 905-709-3839 (Canada). A charge for shipping and handling plus any applicable taxes may apply.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-198080-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CB29201~faq-198080-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:10.615751"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "The following options are available:\nYou can use Epson software Updater (which is installed the first time you install the printer driver) to notify you when new updates are available for download. Software Updater analyzes the Epson software (drivers, utilities, firmware, etc.) installed on your computer and product, and notifies you if new updates are available for download.\nIf you've already installed a Windows printer driver, you can update the driver by selecting\nDriver Update\non the Utility tab in the printer driver settings window.*\nIf you're using a Mac, update the driver by doing one of the following:\nOS X 10.10\n,\nOS X 10.11\n,\nmacOS 10.12.x\n, or\nmacOS 10.13.x\n: Open the\nmenu and select\nApp Store\n>\nUpdates\n.\nOS X (other versions)\n: Open the\nmenu and select\nSoftware Update\n.\nYou can download the software from the Downloads tab for your product.\n*This option may not be available in all drivers.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-0000afe-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CB29201~faq-0000afe-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:11.525145"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-00004b0-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CB29201~faq-00004b0-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:12.377791"
+        },
+        {
+          "question": "My product makes noise after I turn it on or after it has been sitting for a while. What should I do?",
+          "answer": "This is normal. It is performing routine maintenance.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-000096b-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CB29201~faq-000096b-shared",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:13.219128"
+        },
+        {
+          "question": "Why doesn't Epson include a USB or Ethernet cable in the box with the product?",
+          "answer": "We are committed to giving our customers the best value possible with every product we sell. To provide high-quality products with the latest technology and sell them at the most competitive prices, it is critical to choose which components are necessary and which may be redundant. Because many of our customers already own USB or Ethernet cables, it makes good sense to eliminate the costs of including a cable in every box and use those savings to improve product features and lower the cost to you, the consumer.\nNote:\nNot all products support an Ethernet interface.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-0000490-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CB29201~faq-0000490-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:11.669792"
+        },
+        {
+          "question": "How do I reduce the appearance of red eyes in my photos?",
+          "answer": "Turn on the\nFix Red-Eye\nsetting in the printer software or from the product's control panel, if available for your product.\nNote:\nDue to the complexity and nature of some photographs, not all images can be corrected. If the Fix Red-Eye setting does not fix the photo, you need to use a software application such as Adobe Photoshop or Adobe Elements to fix it.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-00004b9-shared?faq_cat=faq-topFaqs",
+          "faq_slug": "SPT_C11CB29201~faq-00004b9-shared",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:12.603614"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Cloud or Mobile",
+      "section_id": "8796127340620",
+      "section_order": 1,
+      "faqs": [
+        {
+          "question": "Where can I find information about Epson iPrint app?",
+          "answer": "See our FAQ page for the app (\niOS\nor\nAndroid\n).",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-0000950-shared?faq_cat=faq-8796127340620",
+          "faq_slug": "SPT_C11CB29201~faq-0000950-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:13.495430"
+        },
+        {
+          "question": "Where can I find information on using my Epson product with Google Cloud Print?",
+          "answer": "See our\nGoogle Cloud Print Support\npage.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-000049e-shared?faq_cat=faq-8796127340620",
+          "faq_slug": "SPT_C11CB29201~faq-000049e-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:14.448135"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Copy or Print",
+      "section_id": "8796127438924",
+      "section_order": 2,
+      "faqs": [
+        {
+          "question": "My product is printing blank pages from Windows or my Mac. What should I do?",
+          "answer": "Check the following:\nRun a print head nozzle check to see if any of the nozzles are clogged. Then clean the print head, if necessary.\nMake sure you selected the correct paper size settings in your printing program and printer software.\nIf a blank page exists in a document you are printing and you want to skip printing it, select the\nSkip Blank Page\nsetting in your printer software.\nTry printing a different document to determine if the problem is limited to one document. If it is, try recreating the document (with copy and paste, for example).\nRelated references\nPrint Head Nozzle Check\nPrint Head Cleaning\nSelecting Basic Print Settings - Standard EPSON Printer Software - Windows\nSelecting Basic Print Settings - Standard EPSON Printer Software - Mac OS X 10.5/10.6/10.7\nSelecting Printing Preferences - Standard EPSON Printer Software - Mac OS X 10.5/10.6/10.7",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207320?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CB29201~faq-207320",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:15.330294"
+        },
+        {
+          "question": "How do I print a multi-page document from Windows or my Mac so it stacks in the correct page order?",
+          "answer": "Open a document, then follow the steps below for your operating system.\nWindows\nOpen the File menu or click\nand select\nPrint\n.\nMake sure the WP-4090 is selected as the printer.\nClick\nProperties\nor\nPreferences\n.\nNote\n:\nIf you don't see these buttons, click\nSetup\n,\nPrinter\n, or\nOptions\n, then click\nProperties\nor\nPreferences\non the next screen.\nClick the\nMain\ntab.\nSelect\nReverse Order\n.\nClick\nOK\n.\nMac OS X\nOpen the File menu and select\nPrint\n.\nMake sure the WP-4090 is selected as the printer.\nWith Mac OS X, click the\nbutton to expand the Print window, if necessary.\nSelect\nPaper Handling\nfrom the printer options pop-up menu.\nSelect\nReverse\nfor the Page Order setting.\nClick\nPrint\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207337?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CB29201~faq-207337",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:16.221143"
+        },
+        {
+          "question": "Can I print on transparencies?",
+          "answer": "No. The product does not support printing on this type of media.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207355?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CB29201~faq-207355",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:17.083796"
+        },
+        {
+          "question": "How do I set up my product for the fastest printing?",
+          "answer": "Try these solutions:\nMake sure your system meets the requirements for your operating system.  If you are printing a high-resolution image, you may need more than the minimum requirements.  If necessary, increase your system's memory.\nClear space on your hard drive or run a defragmentation utility to free up existing space.\nIf you are using Windows 7, close the\nDevices and Printers\nwindow before you print.\nClose programs that you're not using when you print.\nIf your product is connected to a USB hub, connect it directly to your computer instead.\nIf printing becomes slower after printing continuously for a long time, the product may have automatically slowed down to protect the print mechanism from overheating or becoming damaged.  Let the product rest with the power on for 30 minutes, then try printing again.\nFor the fastest printing, select the following settings in your product software:\nTurn on any high speed settings in your product software.\nSelect a lower print quality setting.\nIf the product is connected to a USB hub, disconnect unused USB devices.\nUse a computer with a high-speed USB 2.0 port.\nIf a high quality image is not needed, select\nPlain paper\nand\nEconomy\non the Main tab.\nWindows\n: Click the\nMaintenance\ntab, select\nSpeed & Progress\nor\nExtended Settings\n, and select the following settings:\nHigh Speed Copies\nAlways spool RAW datatype\nPage Rendering Mode\nPrint as Bitmap\nRelated references\nWindows System Requirements\nMac System Requirements\nProduct Icon Does Not Appear in Windows Taskbar\nPaper or Media Type Settings\nSelecting Basic Print Settings - Standard EPSON Printer Software - Windows\nSelecting Basic Print Settings - Standard EPSON Printer Software - Mac OS X 10.5/10.6/10.7",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207347?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CB29201~faq-207347",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:18.024443"
+        },
+        {
+          "question": "How do I print a PS3(PostScript) status sheet?",
+          "answer": "To print the PS3 status sheet, turn the product off, then press and hold the\ncancel button on the product while you turn it back on.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207379?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CB29201~faq-207379",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:18.920048"
+        },
+        {
+          "question": "Can I use Apple AirPrint to print with my product?",
+          "answer": "Yes. See the\nApple AirPrint Support\npage for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-0000ad1-shared?faq_cat=faq-8796127438924",
+          "faq_slug": "SPT_C11CB29201~faq-0000ad1-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:19.839371"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Error Messages or Lights",
+      "section_id": "8796127406156",
+      "section_order": 3,
+      "faqs": [
+        {
+          "question": "My product is offline or displays a communication error when I try to print. What should I do?",
+          "answer": "Make sure the product is powered on and try the following:\nUSB connection\nCheck the product lights and follow the instructions to solve them.\nMake sure you are choosing the correct printer when printing.  If there are multiple copies of the same printer driver, remove the ones not in use.\nMake sure the USB cable is a shielded \"AB\" cable not more than 6.5 feet (2 meters) long.\nNote:\nDo not use devices that extend the length of the cable because they can cause signal degradation.\nIf you're using a USB hub with your printer, connect the printer directly to your computer.\nNote:\nDo not connect through a USB keyboard.  The keyboard acts like a hub and can interfere with signal transmission.\nConnect the USB cable to another USB port on your computer.\nUse a different USB cable.\nEthernet connection\nMake sure that the product is turned on, and that your router, access point, switch, or hub's link LED for the port the product is connected to is on or flashing. If the link LED is off, try the following:\nCheck the product lights and follow the instructions to solve them.\nMake sure you are choosing the correct printer when printing.  If there are multiple copies of the same printer driver, remove the ones not in use.\nMake sure one end of an Ethernet cable is securely connected to the\nLAN\nport on the product and the other end is connected to any available LAN port on your router, access point, switch, or hub.\nTry connecting to another port on your router, access point, switch, or hub.\nTry connecting the product to another router, access point, switch or hub.\nTry connecting the product to your router, access point, switch, or hub with another Ethernet cable.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207372?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CB29201~faq-207372",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:20.747200"
+        },
+        {
+          "question": "I see the message Filter Failure with rastertoescpII when I try to print from my Mac. What should I do?",
+          "answer": "Do the following:\nOn your Mac, open the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n, and then select\nSharing\n.\nDo one of the following:\nIf there is no name in the Computer Name field, enter a name for your computer.\nIf there is a name in the Computer Name field, rename your computer.\nClose the window.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] >\nOptions & Supplies\n.\nSelect\nGeneral\n, if necessary. Enter your Computer Name as the\nLocation\nand click\nOK\n.\nTry printing again. If you can print now, you're done. If you can't print, go to the next step.\nTurn off your product.\nOpen the\nmenu, select\nSystem Preferences\nor\nSystem Settings\n>\nPrint & Scan\n,\nPrint & Fax\n, or\nPrinters & Scanners\n> [your printer name] and click\n. Click\nDelete Printer\nand close the window.\nOpen your hard drive and do each of the following:\nSelect\nLibrary\n>\nPrinters\nand drag the\nEpson\nfolder to the trash.\nSelect\nLibrary\n>\nPrinters\n>\nPPDs\n>\nContents\n>\nResources\nand drag the\nEpson Printer Name.gz\nfile to the trash.\nSelect\nLibrary\n>\nCaches\nand drag the\nEpson\nfolder to the trash.\nClose the hard drive and empty the trash on your Mac.\nRestart your Mac, turn on your product, and then reinstall the driver for your product.\nTry to print again. If this does not solve the problem, contact Epson Support.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-00004c5-shared?faq_cat=faq-8796127406156",
+          "faq_slug": "SPT_C11CB29201~faq-00004c5-shared",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:21.652033"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Ink",
+      "section_id": "8796127373388",
+      "section_order": 4,
+      "faqs": [
+        {
+          "question": "How do I know when an ink cartridge or maintenance box needs to be replaced?",
+          "answer": "The printer's lights will flash when one or more of the ink cartridges is low or expended. You may also see a message on your computer screen.\nNote\n:\nWhen an installed ink cartridge is more than six months old, you may need to replace it if your printouts do not look their best even after you clean and align the print head.\nRelated references\nReplacing Ink Cartridges and Maintenance Boxes\nPrinter Light Status",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207309?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CB29201~faq-207309",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:22.713257"
+        },
+        {
+          "question": "Can my product still print if an ink cartridge is expended or not installed?",
+          "answer": "The printer will not operate if a black ink cartridge is expended or any cartridge is removed. If a color cartridge is expended, you may be able to continue printing temporarily with black ink. It's best to always have extra cartridges on hand.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207306?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CB29201~faq-207306",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:23.699002"
+        },
+        {
+          "question": "Which ink cartridges and maintenance box should I use with my product?",
+          "answer": "You can use the following cartridges:\nInk color\nPart number\n(High-capacity)\nPart number\n(Super High-capacity)\nBlack\n676XL\n711XXL\nMagenta\n676XL\n711XXL\nYellow\n676XL\n711XXL\nCyan\n676XL\n711XXL\nPart\nPart number\nMaintenance box\nT671000\nNote\n:\nWe recommend that you use genuine EPSON cartridges and do not refill them. The use of other products may affect your print quality and could result in printer damage.\nCaution\n: Leave your old cartridges installed until you are ready to replace them to prevent the print head nozzles from drying out. Do not open ink cartridge packages until you are ready to install the ink.\nCartridges are vacuum packed to maintain reliability.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207310?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CB29201~faq-207310",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:24.885495"
+        },
+        {
+          "question": "The color ink cartridge is expended even though I print in black only. Why does this happen?",
+          "answer": "To keep the print head clear and ready to print, the printer uses a small amount of ink from all the cartridges whenever it prints. Even if you select\nBlack/Grayscale\nor\nGrayscale\n, some color ink is still being used.\nEpson printers contain a permanent print head that needs to be charged with all colors to work.  Even when users are printing black text only, a small amount of color ink is used to keep the print head charged.  The print head needs to kept charged to prevent air bubbles from entering.  Air bubbles can damage the print head.\nTherefore, once one of the cartridges is expended, the printer signals you to replace the cartridge in order for printing to continue.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207307?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CB29201~faq-207307",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:25.827282"
+        },
+        {
+          "question": "I replaced an ink cartridge and my product shows that the same ink cartridge is expended. What should I do?",
+          "answer": "If you have just installed a new cartridge and you still see an ink-related error, the cartridge may not be installed correctly.\nFollow the steps below to make sure the cartridge is correctly installed.\nNote\n:\nWe recommend that you use genuine EPSON cartridges and do not refill them. The use of other products may affect your print quality and could result in printer damage.\nMake sure the printer is turned on.\nOpen the front cover.\nPush the ink cartridge in, then pull it out of the slot.\nCaution\n:\nIt's best not to remove a cartridge unless necessary. Note that if you remove a\nlow or expended\nink cartridge, you cannot reinstall and use that cartridge again.\nWarning\n:\nIf ink gets on your skin, wash it thoroughly with soap and water. If ink gets into your eyes, flush them immediately with water. If ink gets into your mouth, spit it out and see a doctor right away.  Keep ink cartridges out of the reach of children.\nInsert the ink cartridge into the holder and push it in until it clicks into place.\nClose the front cover.\nCaution\n:\tNever turn off your EPSON printer while ink is charging or you'll waste ink.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207312?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CB29201~faq-207312",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:26.789119"
+        },
+        {
+          "question": "I installed new ink cartridges and my product seems to be doing a long cleaning cycle. Is this normal?",
+          "answer": "Yes. It takes about 12 minutes for the printer to charge the ink delivery system when you install the first set of ink cartridges. When you replace the ink cartridges the printer takes a few moments to charge the ink.\nNote\n:\nNever turn off the printer while it is charging the ink delivery system (unless the printer hasn't moved or made noise for more than 5 minutes). This initialization is a normal and necessary process. If the printer initialization does not stop after 15 minutes, turn the printer off and contact Epson technical support for assistance.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207311?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CB29201~faq-207311",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:27.772448"
+        },
+        {
+          "question": "How do I change the ink cartridges and maintenance box?",
+          "answer": "See\nReplacing Ink Cartridges and Maintenance Boxes\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207332?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CB29201~faq-207332",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:28.721210"
+        },
+        {
+          "question": "How long should an ink cartridge remain in my product if it's not used often?",
+          "answer": "When an installed ink cartridge is more than six months old, you may need to replace it if you notice that your printouts don't look as good as they used to and quality doesn't improve after cleaning and aligning the print head.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207359?faq_cat=faq-8796127373388",
+          "faq_slug": "SPT_C11CB29201~faq-207359",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:29.728286"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Paper or Media",
+      "section_id": "8796127504460",
+      "section_order": 5,
+      "faqs": [
+        {
+          "question": "I'm having paper feed problems. What should I do?",
+          "answer": "See the solutions below for your type of paper feed problem.\nPaper Feeding Problems\nIf multiple pages feed at once, remove the paper, fan the edges to separate the sheets, and reload it.\nDo not load more than the recommended number of sheets.\nIf paper jams when you print on both sides of the paper, try loading fewer sheets.\nFor best results, follow these guidelines:\nUse new, smooth, high-quality paper that is not curled, creased, old, too thin, or too thick.\nLoad paper in the cassette printable side down.\nFollow any special loading instructions that came with the paper.\nNote\n: PCL and PostSript (PS3) printer software support plain paper and envelope printing.\nPaper Ejection Problems\nIf paper does not eject fully, you may have set the wrong paper size. Cancel printing using the product control panel, then press the button to eject the paper. Remove any paper remaining in the product. Select the correct size when you reprint.\nIf paper is wrinkled when it ejects, it may be damp or too thin. Load new paper and be sure to select the correct paper type setting when you reprint.\nPaper Jam Problems\nInside the Product\nIn the Cassette\nIn the Duplexer",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207313?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CB29201~faq-207313",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:30.731739"
+        },
+        {
+          "question": "Does the type of paper I use really make a difference?",
+          "answer": "The type of paper you choose affects the way your printout looks, so be sure to select the correct paper for your print job. If you are just making a copy or printing a rough draft of an image, plain paper is fine. However, for the best results, you'll want to use one of Epson's special ink jet papers. For example, your photos will look great printed on\nEPSON Premium Photo Paper Glossy\n. For a list of EPSON special ink jet papers designed for the printer, see\nAvailable EPSON Papers\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207333?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CB29201~faq-207333",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:31.635981"
+        },
+        {
+          "question": "How should I load envelopes?",
+          "answer": "See\nLoading Envelopes\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207335?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CB29201~faq-207335",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:32.523039"
+        },
+        {
+          "question": "What kind of paper gives the best results for high quality printing?",
+          "answer": "For the best results, use one of Epson's special ink jet papers designed for your printer. For example, your photos or presentations will look great printed on\nEPSON Premium Photo Paper Glossy\n,\nEPSON Premium Presentation Paper Matte\n, and\nEPSON Bright White Paper\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207336?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CB29201~faq-207336",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:33.386662"
+        },
+        {
+          "question": "How do I know which paper or media type to select in my product's driver?",
+          "answer": "See\nPaper or Media Type Settings\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207343?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CB29201~faq-207343",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:34.272526"
+        },
+        {
+          "question": "Can I print on vellum paper?",
+          "answer": "No. The product does not support printing on this type of media.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207357?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CB29201~faq-207357",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:35.163187"
+        },
+        {
+          "question": "Can I print on sheet labels?",
+          "answer": "No.  Some labels may peel off and cause a hardware issue with your product.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207353?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CB29201~faq-207353",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:36.023907"
+        },
+        {
+          "question": "What paper types and sizes are supported in the paper cassette and rear MP tray?",
+          "answer": "See\nPaper Loading Capacity\nfor information on the paper type and loading capacity for each tray.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207904?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CB29201~faq-207904",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:36.871862"
+        },
+        {
+          "question": "Can I use hole-punched paper with my product?",
+          "answer": "Yes. You can load binder paper with holes.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-0000ab6-shared?faq_cat=faq-8796127504460",
+          "faq_slug": "SPT_C11CB29201~faq-0000ab6-shared",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:37.839523"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Print Quality or Appearance",
+      "section_id": "8796127537228",
+      "section_order": 6,
+      "faqs": [
+        {
+          "question": "My printout has incorrect margins. What should I do?",
+          "answer": "See the solutions below:\nMake sure you selected the correct paper size settings in your printing program and printer software.\nMake sure you selected the correct margins for your paper size in your printing program.\nMake sure your paper is positioned correctly for feeding into the printer.\nIf you're printing from a web browser, the pages may not print correctly due to the web page design. Check to see if there is a\nPrinter Friendly Version\n(or similarly named) icon or link on the web page that you can click on.\nNote:\nYou can use the preview option in your printer software to check your margins before you print.\nRelated references\nSelecting Basic Print Settings - Standard EPSON Printer Software - Windows\nSelecting Basic Print Settings - Standard EPSON Printer Software - Mac OS X 10.5/10.6/10.7\nLoading Paper",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207318?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CB29201~faq-207318",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:38.742463"
+        },
+        {
+          "question": "The quality of my printed output is unacceptable. What should I do?",
+          "answer": "If the image looks fine on your computer screen but not when printed, make sure you're using the latest driver version for your printer. Also, make sure you select the correct quality option, paper type, paper size, and orientation setting in the printer software for your print job.\nRelated references\nSolving Print Quality Problems",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207316?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CB29201~faq-207316",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:39.636632"
+        },
+        {
+          "question": "My printout has incorrect or missing colors. What should I do?",
+          "answer": "The problem could be due to a software setting, the product's condition, or the paper you're using. Check the following:\nMake sure the\nMonochrome\n,\nBlack/Grayscale\nor\nGrayscale\nsetting is not selected in your printer software.\nFor best results, use genuine EPSON ink and paper.\nRun a nozzle check to see if any of the print head nozzles are clogged. Then clean the print head, if necessary.\nThe ink cartridges may be old or low on ink, and you may need to replace them.\nTry turning off\nFix Photo\nin the printer software.\nTry changing the\nGamma\nsetting in your printer software.\nYour printed colors can never exactly match your on-screen colors. However, you can use a color management system to get as close as possible. Try using the color management options in your printer software.\nIf you're using ICM color management in your application, select\nOff (No Color Adjustment)\nfor the Color Management setting in the printer software.\nAfter you print, the colors on your printout will take some time to set as the ink dries. During this time, the colors may look different than you expect. To reduce the drying time, avoid stacking your prints on top of each other.\nRelated references\nPrint Head Cleaning\nAvailable EPSON Papers\nSelecting Additional Layout and Print Options - Standard EPSON Printer Software - Windows\nManaging Color - Standard EPSON Printer Software - Mac OS X 10.5/10.6/10.7\nReplacing Ink Cartridges and Maintenance Boxes",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207322?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CB29201~faq-207322",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:40.559041"
+        },
+        {
+          "question": "My printout is blurry or smeared. What should I do?",
+          "answer": "Check the following:\nMake sure your paper meets the specifications for your product.\nUse EPSON papers to ensure proper saturation and absorption of genuine EPSON inks.\nMake sure the paper type setting in your product software matches the type of paper you loaded.\nRemove each sheet from the output tray as it is printed.\nAvoid handling printouts on glossy paper right after printing to allow the ink to set.\nTurn off any high speed settings in your product software.\nRun a nozzle check to see if any of the print head nozzles are clogged. Then clean the print head, if necessary.\nAlign the print head.\nClean the paper path.\nNote:\nYour product will not operate properly while tilted at an angle. Place it on a flat, stable surface that extends beyond the base of the product in all directions.\nRelated references\nPrint Head Nozzle Check\nPrint Head Cleaning\nPrint Head Alignment\nAvailable EPSON Papers\nPaper Specifications\nSelecting Basic Print Settings - Standard EPSON Printer Software - Windows\nSelecting Basic Print Settings - Standard EPSON Printer Software - Mac OS X 10.5/10.6/10.7\nSelecting Printing Preferences - Standard EPSON Printer Software - Mac OS X 10.5/10.6/10.7\nSelecting Additional Layout and Print Options - Standard EPSON Printer Software - Windows\nCleaning the Paper Path\nLoading Paper\nSelecting Double-sided Printing Settings - Standard EPSON Printer Software - Mac OS X 10.5/10.6/10.7\nSelecting Double-sided Printing Settings - Standard EPSON Printer Software - Windows",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207321?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CB29201~faq-207321",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:41.451385"
+        },
+        {
+          "question": "My printout is grainy when I print from any application. What should I do?",
+          "answer": "Select a higher print quality setting and turn off any high speed settings in your product software.\nRelated references\nSelecting Additional Layout and Print Options - Standard EPSON Printer Software - Windows\nSelecting Basic Print Settings - Standard EPSON Printer Software - Mac OS X 10.5/10.6/10.7\nSelecting Printing Preferences - Standard EPSON Printer Software - Mac OS X 10.5/10.6/10.7",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207324?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CB29201~faq-207324",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:42.320709"
+        },
+        {
+          "question": "My printout contains garbled characters when I print from Windows or my Mac. What should I do?",
+          "answer": "If you're printing from a Windows computer, try the following:\nMake sure you selected the correct printer in the application you're printing from.\nCancel any pending print jobs from your computer.\nIn Windows, delete all print jobs from the Windows Spooler:\nWindows 7:\nClick\nand select\nDevices and Printers\n. Right-click your product name, select\nSee what's printing\n, right-click the stalled print job, click\nCancel\n, and click\nYes\n.\nWindows Vista:\nClick\nand select\nControl Panel\n. Click\nPrinter\nunder\nHardware and Sound\n, right-click your product name, select\nOpen\n, right click the stalled print job, click\nCancel\n, and click\nYes\n.\nWindows XP:\nClick\nStart\nand select\nPrinters and Faxes\n. (Or open the\nControl Panel\n, select\nPrinters and Other Hardware\nif necessary, and select\nPrinters and Faxes\n.) Right-click your product name, select\nOpen\n, right-click the stalled print job, click\nCancel\n, and click\nYes\n.\nIf your product is connected to a USB hub, connect it directly to your computer instead.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207323?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CB29201~faq-207323",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:43.309364"
+        },
+        {
+          "question": "My printout has a slight slant. What should I do?",
+          "answer": "Try the following:\nWhen loading paper in the rear MP tray, slide the edge guides against the paper, but not too tightly.\nTry loading plain paper. If there is no problem, make sure the paper you're using meets the product's specifications.\nAlign the print head.\nRelated references\nPaper Specifications\nLoading Paper\nSelecting Basic Print Settings - Standard EPSON Printer Software - Windows\nSelecting Basic Print Settings - Standard EPSON Printer Software - Mac OS X 10.5/10.6/10.7",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207326?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CB29201~faq-207326",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:42.301237"
+        },
+        {
+          "question": "My printout looks inverted, as if viewed in a mirror. What should I do?",
+          "answer": "Try these solutions:\nTurn off any mirror or inversion settings in your printing application.\nTurn off the\nMirror Image\n,\nFlip horizontally\n, or\nReverse page orientation\nsettings in your printer software. (This option has different names, depending on your operating system version.)\nRelated references\nSelecting Additional Layout and Print Options - Standard EPSON Printer Software - Windows\nSelecting Basic Print Settings - Standard EPSON Printer Software - Mac OS X 10.5/10.6/10.7",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207325?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CB29201~faq-207325",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:43.262679"
+        },
+        {
+          "question": "My printout has lines running through it. What should I do?",
+          "answer": "Try the following:\nMake sure the paper Type or Media Type setting matches the paper you loaded.\nAlign the print head.\nClean the print head.\nMake sure you loaded the printable side of the paper facedown in the cassette.\nTurn off any high speed settings in your product software.\nYour product won't operate properly if it's tilted or at an angle. Place it on a flat, stable surface that extends beyond the base in all directions.\nYou may need to replace the ink cartridges.\nRelated references\nPrint Head Cleaning\nPrint Head Alignment\nPaper or Media Type Settings\nSelecting Additional Layout and Print Options - Standard EPSON Printer Software - Windows\nSelecting Printing Preferences - Standard EPSON Printer Software - Mac OS X 10.5/10.6/10.7\nReplacing Ink Cartridges and Maintenance Boxes",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207317?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CB29201~faq-207317",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:44.202050"
+        },
+        {
+          "question": "My product's Fix Red-Eye setting does not fix the red eye in my photo. What should I do?",
+          "answer": "Due to the complexity and nature of some photographs, not all images can be corrected. If the product's\nFix Red-Eye\nsetting does not fix the photo, you'll need to use a software application to fix it.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207367?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CB29201~faq-207367",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:45.111069"
+        },
+        {
+          "question": "Nothing prints when I use the PCL or PostScript printer software. What should I do?",
+          "answer": "Try these solutions:\nMake sure your product is turned on and properly connected.\nCheck your product's control panel for flashing status lights. The PCL and PostScript printing software will not display any error messages on your computer screen if a printing error occurs.\nMake sure your product is selected as the printer in your printing program.\nRelated references\nSelecting the Product - PCL Printer Software - Windows\nPrinter Light Status",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207377?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CB29201~faq-207377",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:45.994019"
+        },
+        {
+          "question": "How do I reduce the appearance of red eyes in my photos?",
+          "answer": "Turn on the\nFix Red-Eye\nsetting in the printer software or from the product's control panel, if available for your product.\nNote:\nDue to the complexity and nature of some photographs, not all images can be corrected. If the Fix Red-Eye setting does not fix the photo, you need to use a software application such as Adobe Photoshop or Adobe Elements to fix it.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-00004b9-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CB29201~faq-00004b9-shared",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:46.880033"
+        },
+        {
+          "question": "Web pages don't print the way they appear on my monitor. What should I do?",
+          "answer": "The pages may not print correctly due to the web page design. Try the following:\nCheck for a\nPrinter-friendly Version\n(or similarly named) option on the web page.\nChange the page setup and paper size settings, and select the preview option in your browser to check the changes before you print.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-00004b8-shared?faq_cat=faq-8796127537228",
+          "faq_slug": "SPT_C11CB29201~faq-00004b8-shared",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:47.737145"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Software or Setup",
+      "section_id": "8796127602764",
+      "section_order": 7,
+      "faqs": [
+        {
+          "question": "How do I set my product's software to print only in Black or Grayscale from Windows or my Mac?",
+          "answer": "Open a document, then follow the steps below for your operating system to select\nBlack/Grayscale\nor\nGrayscale\nin the printer driver.\nNote:\nTo keep the print head clear and ready to print, the printer uses a small amount of ink from all the cartridges whenever it prints. Even if you select\nBlack/Grayscale\nor\nGrayscale\n, some color ink is still being used.\nBlack/Grayscale\nor\nGrayscale\nis not recommended for printing black-and-white photos.\nWindows\nSelect the print command in your application.\nMake sure the product is selected.\nClick\nProperties\nor\nPreferences\n.\nNote:\nIf you don't see these buttons, click\nSetup\n,\nPrinter\n, or\nOptions\n, then click\nProperties\nor\nPreferences\non the next screen.\nClick the\nMain\ntab.\nSelect\nBlack/Grayscale\nas the Color setting.\nClick\nOK\n.\nOS X\nSelect the print command in your application.\nMake sure the product is selected.\nClick the\nor\nShow Details\nbutton to expand the Print window, if necessary.\nSelect\nPrint Settings\nfrom the printer options pop-up menu.\nSelect\nGrayscale\nas the Color setting.\nClick\nPrint\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207339?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB29201~faq-207339",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:48.583438"
+        },
+        {
+          "question": "How do I uninstall the standard EPSON printer software?",
+          "answer": "Follow the instructions below for your operating system.\nWindows - Standard EPSON Printer Software\nTurn off the product.\nIf the product is connected with a USB or Ethernet cable, disconnect it from the product.\nClick\nStart\nor\n, and select\nPrograms\nor\nAll Programs\n.\nSelect\nEPSON\n, then select your product, then select\nEPSON Printer Software Uninstall\n.\nNote\n:\nIf you see a User Account Control window, click\nYes\nor\nContinue\n.\nIn the next window, select your product and click\nOK\n. Then follow the on-screen instructions.\nNote\n: You cannot uninstall the PostScript printer software.\nRestart your computer, then see the Start Here sheet to reinstall your software.\nWindows - PCL\nYou can uninstall and then re-install your printer software to solve certain problems.\nNote\n: You cannot uninstall the PostScript printer software.\nTurn off the product.\nDisconnect any interface cables.\nDo one of the following:\nWindows 7\nor\nWindows Vista\n: Select\nPrograms and Features\n. (In Classic view, select\nPrograms\nand click\nUninstall a program\n.) Select\nEpson Universal Laser P6\nand click\nUninstall/Change\n.\nWindows XP\n: Click\nStart\nand select\nControl Panel\n. Double-click\nAdd or Remove Programs\n, select\nEpson Universal Laser P6\n, and click\nChange/Remove\n.\nFollow any on-screen instructions to uninstall your printer software.\nRestart your computer, then re-install your software.\nNote\n: If you find that re-installing your product software does not solve a problem, contact Epson.\nMac - Standard EPSON Printer Software\nIn most cases, you do not need to uninstall your product software before re-installing it.  However, you can download the Uninstall Center utility from the Epson support website to uninstall your product software as described here.\nNote\n: If you find that re-installing your product software does not solve a problem, contact Epson.\nTo download the Uninstall Center utility, visit the Epson download site (U.S. downloads or Canadian downloads).\nExtract the contents of the zip file you downloaded onto your hard drive.\nQuit all applications currently running on your Mac.\nOpen the\nApplications\n>\nEPSON Software\nfolder.\nDouble-click the\nUninstall Center\nicon.\nSelect the checkbox for each software program you want to uninstall.\nClick\nUninstall\n.\nFollow the on-screen instructions to uninstall the software.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207341?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB29201~faq-207341",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:49.462431"
+        },
+        {
+          "question": "Can I select a print resolution by indicating a specific dpi (dots per inch) setting?",
+          "answer": "No. The print resolution is determined by other driver settings.\nIn Windows, the\nQuality Option\nand paper\nType\nsettings determine the print resolution.\nIn Mac OS X, the resolution settings depend on the\nMode\nsetting.\nNote\n:\nTo access the resolution settings in Mac OS X, select\nPrint\nfrom the File menu. Then select\nPrint Settings\nfrom the pop-up menu.\nIf you've selected\nAutomatic\nas the\nMode\nsetting, the resolution is determined by the\nMedia Type\nand\nPrint Quality\nsetting.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207342?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB29201~faq-207342",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:50.323143"
+        },
+        {
+          "question": "How do I install the software for my product if I don't have the CD?",
+          "answer": "You can download the latest driver version for your product from the Downloads tab.\nNote\n: Only EPSON drivers and utilities are available for download. Any third-party software that came with the product is available only on the CD that came with it.\nIf you wish to obtain a replacement copy of the Software CD (stock permitting), please contact our Driver Fulfillment department at 562-276-4367 (US) or 905-709-3839 (Canada). A charge for shipping and handling plus any applicable taxes may apply.\nTo download and install the drivers and utilities, follow the steps below:\nMake sure the product is not connected to your computer. (You will be prompted to connect it during the installation process.)\nDownload the Drivers and Utilities Combo Package for your operating system. Make a note of the file name and save location so you can easily retrieve it.\nOpen the file you downloaded, and follow the on-screen instructions to install the software.\nRelated references\nStart Here",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207340?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB29201~faq-207340",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:51.239539"
+        },
+        {
+          "question": "How do I set default print settings when I print from Windows or my Mac?",
+          "answer": "When you change your print settings from within a program, the changes apply only while you're printing at that time in the open program. If you want to select different settings to use in all your programs, you can change the default print settings in Windows or save a preset of printer options on Mac. Follow the steps below for your operating system.\nWindows\nRight-click the\nprinter icon in the task bar (bottom-right corner of your screen), and select\nPrinter Settings\n.\nIf you don't see the icon, see\nProduct Icon Does Not Appear in Windows Taskbar\nfor instructions on making it appear or do one of the following:\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\n, and select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows XP\n: Click\nStart\n, and select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n. Right-click your printer and select\nPrinting Preferences\n.\nSelect the settings you want to use as defaults in all your Windows programs.\nClick\nOK\nto accept the changes.\nMac OS X\nOpen a document and select\nPrint\nfrom the File menu.\nDefine the print settings you want to save.\nNote\n:\nSome options may not be able to be saved in a preset.\nClick the\nPresets\npop-up menu and select\nSave As.\nEnter a name for your preset, and choose whether this preset can be used with any printer or only with the currently selected printer.\nClick\nOK\n.\nWhen you are ready to print with the preset you saved, click the\nPresets\npop-up menu, select your preset from the list, and click\nPrint\n. Once a preset has been selected, it will continue to be automatically selected in the print dialogue until another preset is selected. To go back to the original default print settings, select\nStandard\nfrom the\nPresets\npop-up menu.\nIf you don't want to create a preset and simply want to print with the last print settings you selected, select\nLast Used Settings\nin the\nPresets\npop-up menu.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207345?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB29201~faq-207345",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:52.220458"
+        },
+        {
+          "question": "Who do I contact for support on the software that came with my product?",
+          "answer": "Contact Epson for support with the printer driver(s) and any other software/utility listed on the Downloads tab for your product.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207349?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB29201~faq-207349",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:53.092809"
+        },
+        {
+          "question": "How do I turn off Epson Status Monitor in Windows?",
+          "answer": "Do the following:\nRight-click the\nprinter icon in the task bar (bottom-right corner of your screen), and select\nPrinter Settings\n.\nIf you don't see the icon, see\nProduct Icon Does Not Appear in Windows Taskbar\nfor instructions on making it appear or do one of the following:\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows Vista\n: Click\n, and select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n. Right-click your printer and select\nPrinting Preferences\n.\nWindows XP\n: Click\nStart\n, and select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n. Right-click your printer and select\nPrinting Preferences\n.\nClick the\nMaintenance\ntab.\nClick\nExtended Settings\n.\nUncheck\nEnable EPSON Status Monitor 3\n.\nClick\nOK\nas necessary to save your settings.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207351?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB29201~faq-207351",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:53.992433"
+        },
+        {
+          "question": "Can I use my product on a network?",
+          "answer": "Yes. Instructions on connecting the printer to a network via Ethernet connection are part of the installation process on the CD that came with your product.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207360?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB29201~faq-207360",
+          "display_order": 9,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:54.873590"
+        },
+        {
+          "question": "How do I enable automatic double-sided printing for my product in Windows or on my Mac?",
+          "answer": "See the following:\nSelecting Double-sided Printing Settings - Standard EPSON Printer Software - Windows\nSelecting Double-sided Printing Settings - Standard EPSON Printer Software - Mac OS X 10.5/10.6/10.7",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207366?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB29201~faq-207366",
+          "display_order": 10,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:55.819572"
+        },
+        {
+          "question": "I'm having problems installing the software. What should I do?",
+          "answer": "See the suggestions below for your connection type.\nUSB\nMake sure you followed the software installation instructions on the Start Here sheet. If the installation fails, make sure the printer is turned on and the USB cable is securely connected at both ends.\nIf you're still having problems, disconnect the USB cable and uninstall the printer software, then reinstall the software.\nBefore reinstalling the software, check for the following:\nMake sure the printer is not connected to your computer. (You will be prompted to connect it during the installation process.) You must connect the printer to your computer at the correct time to make sure the driver is installed correctly on your computer.\nMake sure your system meets the requirements.\nMake sure all applications (including any screen savers, virus protectors, and firewall software) are closed.\nMake sure you have administrative rights or software installation privileges to your computer.\nEthernet network\nBefore installing the software, make sure you set up your product as described on the Start Here sheet.\nIf you're still having problems, uninstall the printer software, then reinstall the software.\nBefore reinstalling the software, check for the following:\nMake sure your system meets the requirements.\nMake sure all applications (including any screen savers, virus protectors, and firewall software) are closed.\nMake sure you have administrative rights or software installation privileges to your computer.\nRelated requirements\nStart Here\nUninstalling Product Software - Mac OS X\nUninstalling Printing Software - Standard EPSON Printer Software - Windows",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207373?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB29201~faq-207373",
+          "display_order": 11,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:56.731290"
+        },
+        {
+          "question": "Settings are missing from the PCL or PostScript printer software. What should I do?",
+          "answer": "Try these solutions:\nMake sure your product is selected in the PCL printer software.\nIf you are using the product as a laser printer replacement and have not installed EPSON printer software, certain options and functions may not be available. Install the standard EPSON, PCL, or PostScript printer software to access additional settings and features.\nRelated references\nSelecting the Product - PCL Printer Software - Windows",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207378?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB29201~faq-207378",
+          "display_order": 12,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:57.597094"
+        },
+        {
+          "question": "How do I install the PCL or PostScript printer software?",
+          "answer": "See the following:\nInstalling the PCL or PostScript Printer Software - Windows7/Windows Vista\nInstalling the PCL or PostScript Printer Software - Windows XP\nInstalling the PostScript (PS3) Printer Software - Mac OS X 10.5, 10.6, or 10.7",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207670?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB29201~faq-207670",
+          "display_order": 13,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:58.498140"
+        },
+        {
+          "question": "How do I uninstall the PCL printer software?",
+          "answer": "See\nUninstalling Printing Software - PCL Printer Software - Windows\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207671?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB29201~faq-207671",
+          "display_order": 14,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:38:59.555635"
+        },
+        {
+          "question": "How do I select my product in the PCL printer software for Windows?",
+          "answer": "You need to select the product in the PCL printer software before you can adjust your printer settings.\nDo one of the following:\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer name and select\nPrinting Preferences\n, then click the\nPrinter\ntab.\nWindows Vista\n: Click\nand select\nControl Panel\n. Click\nPrinter\nunder\nHardware and Sound\n, then right-click your printer name and select\nPrinting Preferences\n. Click the\nPrinter\ntab.\nWindows XP\n: Click\nStart\nand select\nPrinters and Faxe\ns. Right-click your product name and select\nPrinting Preferences\n, then click the\nPrinter\ntab.\nYou see this window:\nSelect\nWP-409x\nas the Device setting.\nClick\nOK\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207672?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB29201~faq-207672",
+          "display_order": 15,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:39:00.426917"
+        },
+        {
+          "question": "How do I change the paper size and source in the PCL printer software?",
+          "answer": "See\nSetting the Paper Size and Source - PCL Printer Software - Windows\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207677?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB29201~faq-207677",
+          "display_order": 16,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:39:01.306322"
+        },
+        {
+          "question": "How do I change the paper size and source in the PostScript printer software?",
+          "answer": "See the following:\nSetting the Paper Size and Source - PostScript Printer Software - Windows\nSetting the Paper Size - PostScript Printer Software - Mac OS X",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207673?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB29201~faq-207673",
+          "display_order": 17,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:39:02.243284"
+        },
+        {
+          "question": "How do I change the Power Off Timer setting in OS X?",
+          "answer": "You can use the printer software to change the time period before the printer turns off automatically.\nDo one of the following:\nMac OS X 10.6/10.7\n: In the Apple menu or the Dock, select\nSystem Preferences\n. Select\nPrint & Fax\nor\nPrint & Scan\n, select your product, and select\nOptions & Supplies\n. Select\nUtility\nand select\nOpen Printer Utility\n.\nMac OS X 10.5\n: In the Apple menu or the Dock, select\nSystem Preferences\n. Select\nPrint & Scan\n, select your product, and select\nOpen Print Queue\n. Select\nUtility\n.\nSelect\nPrinter Settings\n. You see this window:\nSelect the time period you want as the\nPower Off Timer\nsetting.\nClick\nApply\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207675?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB29201~faq-207675",
+          "display_order": 18,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:39:03.108823"
+        },
+        {
+          "question": "How do I change the Power Off Timer setting in Windows?",
+          "answer": "You can use the printer software to change the time period before the printer turns off automatically.\nDo one of the following:\nWindows 7\n: Click\nand select\nDevices and Printers\n. Right-click your printer name and select\nPrinter Properties\n.\nWindows Vista\n: Click\nand select\nControl Panel\n. Click\nPrinter\nunder\nHardware and Sound\n, then right-click your printer name and select\nProperties\n.\nWindows XP\n: Click\nStart\nand select\nPrinters and Faxes\n. (Or open the\nControl Panel\n, select\nPrinters and Other Hardware\nif necessary, and select\nPrinters and Faxes\n.) Right-click your product name and select\nProperties\n.\nClick the\nOptional Settings\ntab, then click\nPrinter Settings\n. You see the Printer Settings window:\nSelect the time period you want as the\nPower Off Timer\nsetting.\nClick\nApply\n.\nWhen you see the confirmation message, click\nYes\n, then close the Printer Settings window.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207674?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB29201~faq-207674",
+          "display_order": 19,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:39:03.995762"
+        },
+        {
+          "question": "How do I uninstall the PostScript (PS3) printer software?",
+          "answer": "See\nUninstalling Product Software - Mac OS X\n.\nNote\n: You cannot uninstall the PostScript printer software in Windows.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207676?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB29201~faq-207676",
+          "display_order": 20,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:39:04.852061"
+        },
+        {
+          "question": "My Epson product software is missing after I updated to Windows 8.x. What should I do?",
+          "answer": "The Windows 8 update process uninstalls the previously installed Epson product software. You will need to download the printer software from the Downloads tab for your product.\nGo to the\nDownloads\ntab for your product.\nSelect the\nDrivers and Utilities Combo Package\n, then select\nDownload Now\n.\nFollow the on-screen instructions to install the software.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-232291?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB29201~faq-232291",
+          "display_order": 21,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:39:05.753038"
+        },
+        {
+          "question": "Can I use the Epson iPrint app with my iOS or Android device?",
+          "answer": "Yes. See our\nFAQ\npage for the app for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207369?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB29201~faq-207369",
+          "display_order": 22,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:39:06.654965"
+        },
+        {
+          "question": "Does my product support Epson Connect?",
+          "answer": "Yes. See the\nEPSON Connect Email Print FAQs\nfor more information on the service.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-0000af8-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB29201~faq-0000af8-shared",
+          "display_order": 23,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:39:07.538511"
+        },
+        {
+          "question": "How can I get a replacement CD for my product?",
+          "answer": "You can download the driver from the Downloads tab for your product.\nNote\n:\nOnly the drivers are available for download. Any extra software that came with the product is available only on the CD.\nIf you wish to obtain a replacement copy of the Software CD (stock permitting), please contact our Driver Fulfillment department at 562-276-4367 (US) or 905-709-3839 (Canada). A charge for shipping and handling plus any applicable taxes may apply.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-198080-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB29201~faq-198080-shared",
+          "display_order": 24,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:39:08.542533"
+        },
+        {
+          "question": "How do I obtain the latest product software for Windows or my Mac?",
+          "answer": "The following options are available:\nYou can use Epson software Updater (which is installed the first time you install the printer driver) to notify you when new updates are available for download. Software Updater analyzes the Epson software (drivers, utilities, firmware, etc.) installed on your computer and product, and notifies you if new updates are available for download.\nIf you've already installed a Windows printer driver, you can update the driver by selecting\nDriver Update\non the Utility tab in the printer driver settings window.*\nIf you're using a Mac, update the driver by doing one of the following:\nOS X 10.10\n,\nOS X 10.11\n,\nmacOS 10.12.x\n, or\nmacOS 10.13.x\n: Open the\nmenu and select\nApp Store\n>\nUpdates\n.\nOS X (other versions)\n: Open the\nmenu and select\nSoftware Update\n.\nYou can download the software from the Downloads tab for your product.\n*This option may not be available in all drivers.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-0000afe-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB29201~faq-0000afe-shared",
+          "display_order": 25,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:39:09.615065"
+        },
+        {
+          "question": "I can't find some of my printer's settings in macOS 12 or later. What should I do?",
+          "answer": "Make sure you're using the Epson driver for your printer. See our\nAdding a Printer in macOS 12 or Later\npage for instructions.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-0000f4b-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB29201~faq-0000f4b-shared",
+          "display_order": 26,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:39:10.640513"
+        },
+        {
+          "question": "How do I add my Epson printer to the Printer list in macOS 12 or later?",
+          "answer": "See our\nAdding a Printer in macOS 12 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-0000f4c-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB29201~faq-0000f4c-shared",
+          "display_order": 27,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:39:11.505846"
+        },
+        {
+          "question": "How do I install a printer in Windows 11 24H2 or later?",
+          "answer": "See our\nInstalling a Printer in Windows 11 24H2 or Later\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-0000f4d-shared?faq_cat=faq-8796127602764",
+          "faq_slug": "SPT_C11CB29201~faq-0000f4d-shared",
+          "display_order": 28,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:39:12.392767"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Wireless or Wired Connection",
+      "section_id": "8796127635532",
+      "section_order": 8,
+      "faqs": [
+        {
+          "question": "Can I set up my product for both a USB and network connection?",
+          "answer": "Yes. However, the product does not support a wireless and an Ethernet connection at the same time.\nTo set up both a USB and network connection, you must install the product's software twice (i.e., once for each connection type).\nNote:\nWith this setup, your product may appear as two devices in the Printer list. One device is for the USB connection, and the other is for the network connection.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-00004fe-shared?faq_cat=faq-8796127635532",
+          "faq_slug": "SPT_C11CB29201~faq-00004fe-shared",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:39:13.367202"
+        }
+      ],
+      "temp_faqs": []
+    },
+    {
+      "section_name": "Other",
+      "section_id": "8796127471692",
+      "section_order": 9,
+      "faqs": [
+        {
+          "question": "When printing in Windows, how can I prevent an extra page from being ejected after every print job?",
+          "answer": "The Separator Page function may be enabled. Follow these steps to disable it:\nDo one of the following:\nWindows 7\n: Click\n, and select\nDevices and Printers\n.\nWindows Vista\n: Click\n, and select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinter\n(under\nHardware and Sound\n) or\nPrinters\n.\nWindows XP\n: Click\nStart\n, and select\nControl Panel\n(or point to\nSettings\nand then select\nControl Panel\n). Select\nPrinters and Other Hardware\n(if available) and then\nPrinters and Faxes\n.\nRight-click your printer icon, and then select\nPrinter Properties\n(Windows 7) or\nProperties\n(Windows Vista or Windows XP).\nClick the\nAdvanced\ntab, then click the\nSeparator Page\nbutton. A Separator Page window appears.\nDelete the information in the text box.\nClick\nOK\nas necessary to save your settings.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207331?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CB29201~faq-207331",
+          "display_order": 2,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:39:14.254170"
+        },
+        {
+          "question": "How should I transport my product?",
+          "answer": "See\nTransporting the Product\n.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-207348?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CB29201~faq-207348",
+          "display_order": 3,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:39:13.399418"
+        },
+        {
+          "question": "My product makes noise after I turn it on or after it has been sitting for a while. What should I do?",
+          "answer": "This is normal. It is performing routine maintenance.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-000096b-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CB29201~faq-000096b-shared",
+          "display_order": 4,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:39:14.334553"
+        },
+        {
+          "question": "Why doesn't Epson include a USB or Ethernet cable in the box with the product?",
+          "answer": "We are committed to giving our customers the best value possible with every product we sell. To provide high-quality products with the latest technology and sell them at the most competitive prices, it is critical to choose which components are necessary and which may be redundant. Because many of our customers already own USB or Ethernet cables, it makes good sense to eliminate the costs of including a cable in every box and use those savings to improve product features and lower the cost to you, the consumer.\nNote:\nNot all products support an Ethernet interface.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-0000490-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CB29201~faq-0000490-shared",
+          "display_order": 5,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:39:15.273881"
+        },
+        {
+          "question": "Does Epson have a program where I can donate my working electronic equipment?",
+          "answer": "Yes. Epson America, Inc. and\nDigitunity\nhave joined together with the goal of helping those who are facing economic challenges or have a disability to gain access to today's technology. With your donation, you not only help the environment, but you also help change the lives of those who need these products the most.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-00004b0-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CB29201~faq-00004b0-shared",
+          "display_order": 6,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:39:16.156935"
+        },
+        {
+          "question": "What security measures does Epson recommend for its network products?",
+          "answer": "To help deter unauthorized access to your product over a network, you should protect your network environment using appropriate security measures.\nSecurity measures such as these can help deter threats such as loss of user data, use of telephone and fax lines, and other intrusions:\nEnable security on your wireless LAN if your product supports a wireless connection\nEnable the appropriate security on the wireless LAN you plan to use with your product. Network security, such as a network password, can deter interception of traffic over the wireless LAN. Your router may already have a default password enabled by your Internet service provider (ISP). See your ISP and router documentation for instructions on how to change the default password and better secure your network.\nConnect your product only to a network protected by a firewall\nConnecting your product directly to the Internet may leave it vulnerable to security threats. Instead, connect it to a router or other networking device protected by a firewall. Your router may already have a firewall set up by your Internet service provider; check with your ISP for confirmation. For best results, set up and use a private IP address for your network connection.\nChange the default administrator password on your product\nIf your product has an option to set an administrator password, change the default administrator password to deter access by unauthorized users to personal data stored on your product, such as IDs, passwords, and contact lists. See the product's User's Guide for more information.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-0000a05-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CB29201~faq-0000a05-shared",
+          "display_order": 7,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:39:17.025685"
+        },
+        {
+          "question": "Where do I find my product's serial number?",
+          "answer": "See our\nFinding Your Epson Product Serial Number\npage for details.",
+          "faq_url": "https://epson.com/faq/SPT_C11CB29201~faq-0000f4a-shared?faq_cat=faq-8796127471692",
+          "faq_slug": "SPT_C11CB29201~faq-0000f4a-shared",
+          "display_order": 8,
+          "source_url": "https://epson.com/Support/Printers/Single-Function-Inkjet-Printers/WorkForce-Series/Epson-WorkForce-Pro-WP-4090/s/SPT_C11CB29201",
+          "fetched_at": "2026-04-01T23:39:17.944544"
+        }
+      ],
+      "temp_faqs": []
+    }
+  ]
+}
